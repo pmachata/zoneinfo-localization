@@ -1,18 +1,20 @@
-# translation of redhat-config-date.timezones.po to 
+# translation of de.po to German
+# translation of redhat-config-date.timezones.po to
 # Copyright (C) 2001 Red Hat, Inc.
 # Claudia Krug <ckrug@redhat.it>, 2001,2003.
+# Andreas Müller <redhat@andreas-mueller.com>, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: redhat-config-date.timezones\n"
+"Project-Id-Version: de\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-06-17 12:36+1000\n"
-"Last-Translator: \n"
-"Language-Team:  <de@li.org>\n"
+"PO-Revision-Date: 2004-03-19 18:53+0100\n"
+"Last-Translator: Andreas Müller <redhat@andreas-mueller.com>\n"
+"Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: KBabel 1.3.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjian"
@@ -251,9 +253,8 @@ msgstr "Amerika/Cuiabá"
 msgid "America/Curacao"
 msgstr "Amerika/Curaçao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "Amerika/Kaiman"
+msgstr "Amerika/Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
@@ -432,9 +433,8 @@ msgstr "Amerika/Nome"
 msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/Fort_Wayne"
+msgstr "Amerika/North_Dakota/Mitte"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -475,9 +475,8 @@ msgstr "Amerika/Recife"
 msgid "America/Regina"
 msgstr "Amerika/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "Amerika/Curaçao"
+msgstr "Amerika/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "Amerika/Rosario"
@@ -572,9 +571,8 @@ msgstr "Antarktis/Südpol"
 msgid "Antarctica/Syowa"
 msgstr "Antarktis/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antarktis/Mawson"
+msgstr "Antarktis/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Arktis/Longyearbyen"
@@ -627,13 +625,11 @@ msgstr "Asien/Brunei"
 msgid "Asia/Calcutta"
 msgstr "Asien/Kalkutta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Asien/Kalkutta"
+msgstr "Asien/Choibalsan"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Asien/Chungking"
+msgstr "Asien/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Asien/Chungking"
@@ -716,16 +712,14 @@ msgstr "Asien/Kuwait"
 msgid "Asia/Macao"
 msgstr "Asien/Macau"
 
-#, fuzzy
 msgid "Asia/Macau"
 msgstr "Asien/Macau"
 
 msgid "Asia/Magadan"
 msgstr "Asien/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Asien/Jakarta"
+msgstr "Asien/Makassar"
 
 msgid "Asia/Manila"
 msgstr "Asien/Manila"
@@ -742,16 +736,14 @@ msgstr "Asien/Nowosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asien/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Asien/Kabul"
+msgstr "Asien/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asien/Phnom_Penh"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Asien/Pjöngjang"
+msgstr "Asien/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Asien/Pjöngjang"
@@ -759,9 +751,8 @@ msgstr "Asien/Pjöngjang"
 msgid "Asia/Qatar"
 msgstr "Asien/Katar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Asien/Gaza"
+msgstr "Asien/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Asien/Rangun"
@@ -781,9 +772,8 @@ msgstr "Asien/Riad89"
 msgid "Asia/Saigon"
 msgstr "Asien/Ho-Tschi-Minh"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Asien/Bahrain"
+msgstr "Asien/Sachalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asien/Samarkand"
@@ -4612,3 +4602,4 @@ msgstr "Zulu"
 
 #~ msgid "right/Zulu"
 #~ msgstr "Etc/Zulu"
+
