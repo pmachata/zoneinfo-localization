@@ -1,18 +1,128 @@
-# Punjabi translations for PACKAGE package.
-# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2004.
-#
+# Punjabi translation of pa.
+# Copyright (C) 2004 THE pa'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pa package.
+# Punjab Linux Technology <punjablinux@netscape.net>, 2004.
+# , fuzzy
+# 
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2002-04-12 17:04-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Project-Id-Version: pa VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2002-08-21 23:26-0400\n"
+"PO-Revision-Date: 2004-04-02 01:32+0530\n"
+"Last-Translator: Punjab Linux Technology <punjablinux@netscape.net>\n"
+"Language-Team: Punjabi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: ../timeconfig.c:46
+msgid "Hardware clock set to GMT"
+msgstr ""
+
+#: ../timeconfig.c:50
+msgid "Hardware clock uses ARC time (not UX/Ruffian)"
+msgstr ""
+
+#: ../timeconfig.c:61
+msgid "cannot scan /usr/share/zoneinfo for timezones"
+msgstr ""
+
+#: ../timeconfig.c:81
+msgid "Ok"
+msgstr "ਠੀਕ ਹੈ"
+
+#: ../timeconfig.c:82
+msgid "Back"
+msgstr "ਪਿੱਛੇ"
+
+#: ../timeconfig.c:82
+msgid "Cancel"
+msgstr "ਰੱਦ"
+
+#: ../timeconfig.c:87
+msgid "Format machine time is stored in:"
+msgstr ""
+
+#: ../timeconfig.c:101
+msgid "Configure Timezones"
+msgstr "ਸਮ੾-ਖੇਤਰ ਸੰਰਚਨਾ"
+
+#: ../timeconfig.c:128
+#, c-format
+msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
+msgstr ""
+
+#: ../timeconfig.c:157
+#, c-format
+msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
+msgstr ""
+
+#: ../timeconfig.c:226
+#, c-format
+msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
+msgstr ""
+
+#: ../timeconfig.c:235
+#, c-format
+msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
+msgstr ""
+
+#: ../timeconfig.c:275
+#, c-format
+msgid "%s: bad argument %s: %s\n"
+msgstr ""
+
+#: ../timeconfig.c:283
+#, c-format
+msgid "%s: only one argument (the timezone) may be used\n"
+msgstr ""
+
+#: ../timeconfig.c:291
+#, c-format
+msgid "%s: can only be run as root\n"
+msgstr ""
+
+#: ../timeconfig.c:297
+#, c-format
+msgid "%s: critical error reading /etc/sysconfig/clock"
+msgstr ""
+
+#: ../timeconfig.c:314
+#, c-format
+msgid "%s: critical error reading /etc/localtime: %s\n"
+msgstr ""
+
+#: ../timeconfig.c:322
+#, c-format
+msgid "%s: /etc/localtime points to unknown timezone %s\n"
+msgstr ""
+
+#: ../timeconfig.c:323
+#, c-format
+msgid "%s: current value will be ignored\n"
+msgstr ""
+
+#: ../timeconfig.c:335
+msgid ""
+"  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next screen"
+msgstr ""
+
+#: ../timeconfig.c:361
+#, c-format
+msgid "%s: failed to make /etc/localtime: %s"
+msgstr ""
+
+#: ../timeconfig.c:369
+#, c-format
+msgid "%s: failed to make /etc/sysconfig/clock: %s"
+msgstr ""
+
+#: ../timeconfig.c:389
+#, c-format
+msgid "%s: failed to write to /etc/sysconfig/clock: %s"
+msgstr ""
 
 msgid "Africa/Abidjan"
 msgstr ""
@@ -576,265 +686,265 @@ msgid "Arctic/Longyearbyen"
 msgstr ""
 
 msgid "Asia/Aden"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਦਾਨ"
 
 msgid "Asia/Almaty"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਲਮਾਟੀ"
 
 msgid "Asia/Amman"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਮਾਨ"
 
 msgid "Asia/Anadyr"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਨਾਡੀਰ"
 
 msgid "Asia/Aqtau"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਿੳੂਟ"
 
 msgid "Asia/Aqtobe"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਿੳੂਬੀ"
 
 msgid "Asia/Ashgabat"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਸ਼ਗੲਬਾਤ"
 
 msgid "Asia/Ashkhabad"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਸ਼ਖਾਬਾਦ"
 
 msgid "Asia/Baghdad"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬਗਦਾਦ"
 
 msgid "Asia/Bahrain"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬਹਿਰਾਨ"
 
 msgid "Asia/Baku"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬਾਕੂ"
 
 msgid "Asia/Bangkok"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬੈਕ੾ਕ"
 
 msgid "Asia/Beirut"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬੀਰੂਟ"
 
 msgid "Asia/Bishkek"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬਿਸਕਾਕ"
 
 msgid "Asia/Brunei"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਬਰੂਨੀ"
 
 msgid "Asia/Calcutta"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਲਕੱਤਾ"
 
 msgid "Asia/Choibalsan"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਚੋਬਾਲਸਾਨ"
 
 msgid "Asia/Chongqing"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਚੋਨਕਿੳੲਿੰਗ"
 
 msgid "Asia/Chungking"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਚੰਗਕਿੰਗ"
 
 msgid "Asia/Colombo"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕੋਲੰਬੋ"
 
 msgid "Asia/Dacca"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਡਾਸੀਅਾ"
 
 msgid "Asia/Damascus"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਡਾਮਸਾੳੂਸ"
 
 msgid "Asia/Dhaka"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਢਾਕਾ"
 
 msgid "Asia/Dili"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਦੀਲੀ"
 
 msgid "Asia/Dubai"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਡੁਬੲੀ"
 
 msgid "Asia/Dushanbe"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਡੂਸ਼ਾਨਬੀ"
 
 msgid "Asia/Gaza"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਗਾਜ਼ਾ"
 
 msgid "Asia/Harbin"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਹਰਬਿਨ"
 
 msgid "Asia/Hong_Kong"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਹ੾ਗਕ੾ਗ"
 
 msgid "Asia/Hovd"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਹੋਵਡ"
 
 msgid "Asia/Irkutsk"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਾੲੀਰਲੂਸਕ"
 
 msgid "Asia/Istanbul"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ੲਿਸਟਤਾਲਬੁਲ"
 
 msgid "Asia/Jakarta"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਜੈਕਾਰਤਾ"
 
 msgid "Asia/Jayapura"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਜਾੲਿਪੁਰ"
 
 msgid "Asia/Jerusalem"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਜ਼ੇਰੂਸ਼ੇਲਮ"
 
 msgid "Asia/Kabul"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਬਲ"
 
 msgid "Asia/Kamchatka"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਮਚਾਟਕਾ"
 
 msgid "Asia/Karachi"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਰਾਚੀ"
 
 msgid "Asia/Kashgar"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਸ਼ਗਰ"
 
 msgid "Asia/Katmandu"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕ੾ਠਮਾਡੂ"
 
 msgid "Asia/Krasnoyarsk"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਰਸਨੀਯਾਰਸ਼ਕ"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕੁਅਾਲਾਮਪੁਰ"
 
 msgid "Asia/Kuching"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕੋਚੀੲਿੰਨ"
 
 msgid "Asia/Kuwait"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕੁਵੈਤ"
 
 msgid "Asia/Macao"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸੀਕੋ"
 
 msgid "Asia/Macau"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸਕੁ"
 
 msgid "Asia/Magadan"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਗਾਡਾਨ"
 
 msgid "Asia/Makassar"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਕਾਸਾਰ"
 
 msgid "Asia/Manila"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਨੀਲਾ"
 
 msgid "Asia/Muscat"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸਕਟ"
 
 msgid "Asia/Nicosia"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਨੀਸੋਸੀਅਾ"
 
 msgid "Asia/Novosibirsk"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਨੋਵੋਸੀਬੀਰਸਕ"
 
 msgid "Asia/Omsk"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਓਮਸਕ"
 
 msgid "Asia/Oral"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਓਰਾਲ"
 
 msgid "Asia/Phnom_Penh"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਫਨੋਮਪੇਨਹ"
 
 msgid "Asia/Pontianak"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਪੋਨਰਿਨਕ"
 
 msgid "Asia/Pyongyang"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਪਯੂਨਗਯ੾ਗ"
 
 msgid "Asia/Qatar"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਤਰ"
 
 msgid "Asia/Qyzylorda"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਕਿੳੂਜ਼ਲੋਰਡਾ"
 
 msgid "Asia/Rangoon"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਰੰਗੂਨ"
 
 msgid "Asia/Riyadh"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ"
 
 msgid "Asia/Riyadh87"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੭"
 
 msgid "Asia/Riyadh88"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੮"
 
 msgid "Asia/Riyadh89"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੯"
 
 msgid "Asia/Saigon"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਾੲੀਗੋਨ"
 
 msgid "Asia/Sakhalin"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਾਖਾਲੀਨ"
 
 msgid "Asia/Samarkand"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਮਕੰਦ"
 
 msgid "Asia/Seoul"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੳੂਲ"
 
 msgid "Asia/Shanghai"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੰਘਾੲੀ"
 
 msgid "Asia/Singapore"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੰਘਾਪੁਰ"
 
 msgid "Asia/Taipei"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਤਾੲੀਪੀ"
 
 msgid "Asia/Tashkent"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਤਾਸ਼ਕੰਦ"
 
 msgid "Asia/Tbilisi"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਤਬੀਲੀਸੀ"
 
 msgid "Asia/Tehran"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਤਹਿਰਾਨ"
 
 msgid "Asia/Tel_Aviv"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਤੀਲਅਵਾਵ"
 
 msgid "Asia/Thimbu"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਥੀਮਬੂ"
 
 msgid "Asia/Thimphu"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਥੀਮਫੂ"
 
 msgid "Asia/Tokyo"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਟੋਕੀਓ"
 
 msgid "Asia/Ujung_Pandang"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ੳੂਜ਼ੰਗ ਪਾਨਡਿੰਗ"
 
 msgid "Asia/Ulaanbaatar"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ੳੂਲਾਨਬਾਟਰ"
 
 msgid "Asia/Ulan_Bator"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਅਲਾਨਬਾਟੋਰ"
 
 msgid "Asia/Urumqi"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ੳਰੂਮਕੀ"
 
 msgid "Asia/Vientiane"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਵੀਅਤਨਾਮ"
 
 msgid "Asia/Vladivostok"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਵਲਾਡੀਵੋਸਟੋਕ"
 
 msgid "Asia/Yakutsk"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਕੂਸਕ"
 
 msgid "Asia/Yekaterinburg"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਕਟਾੲਿਬਰਗ"
 
 msgid "Asia/Yerevan"
-msgstr ""
+msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਰੀਵਾਨ"
 
 msgid "Atlantic/Azores"
 msgstr ""
@@ -933,367 +1043,367 @@ msgid "Australia/Yancowinna"
 msgstr ""
 
 msgid "Brazil/Acre"
-msgstr ""
+msgstr "ਬਰਾਜ਼ੀਲ਼/ਅਸਰੀ"
 
 msgid "Brazil/DeNoronha"
-msgstr ""
+msgstr "ਬਰਾਜ਼ੀਲ਼/ਡੀਨੋਟੋਹਾ"
 
 msgid "Brazil/East"
-msgstr ""
+msgstr "ਬਰਾਜ਼ੀਲ਼/ਪੂਰਬੀ"
 
 msgid "Brazil/West"
-msgstr ""
+msgstr "ਬਰਾਜ਼ੀਲ਼/ਪੱਛਮੀ"
 
 msgid "Canada/Atlantic"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਅੈਟਲਾੲਿਕ"
 
 msgid "Canada/Central"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਕੇਦਰੀ"
 
 msgid "Canada/Eastern"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਪੂਰਬੀ"
 
 msgid "Canada/East-Saskatchewan"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਪੂਰਬੀ-ਸਾਕਚੋਵਾਨ"
 
 msgid "Canada/Mountain"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਪਹਾੜੀ"
 
 msgid "Canada/Newfoundland"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਨਿੳੂਫਾੳੂਡਲੈਡ"
 
 msgid "Canada/Pacific"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਪ੍ਸ਼ਾਤ"
 
 msgid "Canada/Saskatchewan"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਸਾਕੋਚਵਾਨ"
 
 msgid "Canada/Yukon"
-msgstr ""
+msgstr "ਕੈਨੇਡਾ/ਯੂਕੋਨ"
 
 msgid "CET"
-msgstr ""
+msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr ""
+msgstr "ਚਿੱਲੀ/ਕੋਟੀਡੈਟਿਲ"
 
 msgid "Chile/EasterIsland"
-msgstr ""
+msgstr "ਚਿੱਲੀ/ੲੀਸਟਰ ਟਾਪੂ"
 
 msgid "CST6CDT"
-msgstr ""
+msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr ""
+msgstr "ਕਿੳੂਬਾ"
 
 msgid "EET"
-msgstr ""
+msgstr "EET"
 
 msgid "Egypt"
-msgstr ""
+msgstr "ਮਿਸਰ"
 
 msgid "Eire"
-msgstr ""
+msgstr "ੲੀਰਿ"
 
 msgid "EST"
-msgstr ""
+msgstr "EST"
 
 msgid "EST5EDT"
-msgstr ""
+msgstr "EST5EDT"
 
 msgid "Etc/GMT"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT"
 
 msgid "Etc/GMT0"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT"
 
 msgid "Etc/GMT-0"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੦"
 
 msgid "Etc/GMT+0"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੦"
 
 msgid "Etc/GMT-1"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧"
 
 msgid "Etc/GMT+1"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੧"
 
 msgid "Etc/GMT-10"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧੦"
 
 msgid "Etc/GMT+10"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੧੦"
 
 msgid "Etc/GMT-11"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧੧"
 
 msgid "Etc/GMT+11"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੧੧"
 
 msgid "Etc/GMT-12"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧੨"
 
 msgid "Etc/GMT+12"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੧੨"
 
 msgid "Etc/GMT-13"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧੩"
 
 msgid "Etc/GMT-14"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੧੪"
 
 msgid "Etc/GMT-2"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੨"
 
 msgid "Etc/GMT+2"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੨"
 
 msgid "Etc/GMT-3"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੩"
 
 msgid "Etc/GMT+3"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੩"
 
 msgid "Etc/GMT-4"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੪"
 
 msgid "Etc/GMT+4"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੪"
 
 msgid "Etc/GMT-5"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੫"
 
 msgid "Etc/GMT+5"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੫"
 
 msgid "Etc/GMT-6"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੬"
 
 msgid "Etc/GMT+6"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੬"
 
 msgid "Etc/GMT-7"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੭"
 
 msgid "Etc/GMT+7"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੭"
 
 msgid "Etc/GMT-8"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੮"
 
 msgid "Etc/GMT+8"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੮"
 
 msgid "Etc/GMT-9"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT-੯"
 
 msgid "Etc/GMT+9"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/GMT+੯"
 
 msgid "Etc/Greenwich"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/ਗਰੀਨਵਿੱਚ"
 
 msgid "Etc/UCT"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/UCT"
 
 msgid "Etc/Universal"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/Universal"
 
 msgid "Etc/UTC"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/UTC"
 
 msgid "Etc/Zulu"
-msgstr ""
+msgstr "ੲੀਟੀਸੀ/ਜ਼ੂਲੂ"
 
 msgid "Europe/Amsterdam"
-msgstr ""
+msgstr "ਯੂਰਪ/ਅਮਸਟੀਡਮ"
 
 msgid "Europe/Andorra"
-msgstr ""
+msgstr "ਯੂਰਪ/ਅੈਨਡੋਰਾ"
 
 msgid "Europe/Athens"
-msgstr ""
+msgstr "ਯੂਰਪ/ਅੈਥਨਜ਼"
 
 msgid "Europe/Belfast"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬੀਲਫਾਸਟ"
 
 msgid "Europe/Belgrade"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬੀਲਗਰੇਡ"
 
 msgid "Europe/Berlin"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬਰਲਿਨ"
 
 msgid "Europe/Bratislava"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬਰਾਟੀਸਲਾਵਾ"
 
 msgid "Europe/Brussels"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬਰੂਸੀਲਸ"
 
 msgid "Europe/Bucharest"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬੂਚਰਸਟ"
 
 msgid "Europe/Budapest"
-msgstr ""
+msgstr "ਯੂਰਪ/ਬੁਡਾਪੈਸਟ"
 
 msgid "Europe/Chisinau"
-msgstr ""
+msgstr "ਯੂਰਪ/ਚੀਸੀਨੂ"
 
 msgid "Europe/Copenhagen"
-msgstr ""
+msgstr "ਯੂਰਪ/ਕੋਪੀਨਹਾਗਨ"
 
 msgid "Europe/Dublin"
-msgstr ""
+msgstr "ਯੂਰਪ/ਡੂਬਲਿਨ"
 
 msgid "Europe/Gibraltar"
-msgstr ""
+msgstr "ਯੂਰਪ/ਗਿਬਰਲਟਾਰ"
 
 msgid "Europe/Helsinki"
-msgstr ""
+msgstr "ਯੂਰਪ/ਹੀਲਸੀਨਕੀ"
 
 msgid "Europe/Istanbul"
-msgstr ""
+msgstr "ਯੂਰਪ/ੲਿਸਟਾਨਬੂਲ"
 
 msgid "Europe/Kaliningrad"
-msgstr ""
+msgstr "ਯੂਰਪ/ਕਾਲੀਨੀਗਰਾਡ"
 
 msgid "Europe/Kiev"
-msgstr ""
+msgstr "ਯੂਰਪ/ਕੀਵ"
 
 msgid "Europe/Lisbon"
-msgstr ""
+msgstr "ਯੂਰਪ/ਲਿਸਬੋਨ"
 
 msgid "Europe/Ljubljana"
-msgstr ""
+msgstr "ਯੂਰਪ/ਲਜਬਲੀਜਾਨਾ"
 
 msgid "Europe/London"
-msgstr ""
+msgstr "ਯੂਰਪ/ਲੰਡਨ"
 
 msgid "Europe/Luxembourg"
-msgstr ""
+msgstr "ਯੂਰਪ/ਲਕਸ਼ਬਰਗ"
 
 msgid "Europe/Madrid"
-msgstr ""
+msgstr "ਯੂਰਪ/ਮਾਡਰੀਡ"
 
 msgid "Europe/Malta"
-msgstr ""
+msgstr "ਯੂਰਪ/ਮਾਲਟਾ"
 
 msgid "Europe/Minsk"
-msgstr ""
+msgstr "ਯੂਰਪ/ਮੀਸਸ਼"
 
 msgid "Europe/Monaco"
-msgstr ""
+msgstr "ਯੂਰਪ/ਮੋਨਾਕੋ"
 
 msgid "Europe/Moscow"
-msgstr ""
+msgstr "ਯੂਰਪ/ਮਾਸਕੋ"
 
 msgid "Europe/Nicosia"
-msgstr ""
+msgstr "ਯੂਰਪ/ਨੀਕੋਸੀਅਾ"
 
 msgid "Europe/Oslo"
-msgstr ""
+msgstr "ਯੂਰਪ/ਓਸਲੋ"
 
 msgid "Europe/Paris"
-msgstr ""
+msgstr "ਯੂਰਪ/ਪੈਰਿਸ"
 
 msgid "Europe/Prague"
-msgstr ""
+msgstr "ਯੂਰਪ/ਪਰਗੂੲੀ"
 
 msgid "Europe/Riga"
-msgstr ""
+msgstr "ਯੂਰਪ/ਰੀਗਾ"
 
 msgid "Europe/Rome"
-msgstr ""
+msgstr "ਯੂਰਪ/ਰੋਮ"
 
 msgid "Europe/Samara"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਾਮਾਰਾ"
 
 msgid "Europe/San_Marino"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਾਨਮਾਰੀਨੋ"
 
 msgid "Europe/Sarajevo"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਾਰਰਜੀਵੋ"
 
 msgid "Europe/Simferopol"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਾਮੀਫਰੋਪੋਲ"
 
 msgid "Europe/Skopje"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਕੋਪਜੀ"
 
 msgid "Europe/Sofia"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸੋਫੀਅਾ"
 
 msgid "Europe/Stockholm"
-msgstr ""
+msgstr "ਯੂਰਪ/ਸਟੋਕਖੋਲਮ"
 
 msgid "Europe/Tallinn"
-msgstr ""
+msgstr "ਯੂਰਪ/ਟਾਲੀਨ"
 
 msgid "Europe/Tirane"
-msgstr ""
+msgstr "ਯੂਰਪ/ੲੀਰਅਾਨੀ"
 
 msgid "Europe/Tiraspol"
-msgstr ""
+msgstr "ਯੂਰਪ/ਤੀਰਸਪੋਲ"
 
 msgid "Europe/Uzhgorod"
-msgstr ""
+msgstr "ਯੂਰਪ/ੳਜ਼ਹੋਰੋਡ"
 
 msgid "Europe/Vaduz"
-msgstr ""
+msgstr "ਯੂਰਪ/ਵਾਡੂਜ਼"
 
 msgid "Europe/Vatican"
-msgstr ""
+msgstr "ਯੂਰਪ/ਵਾਟੀਕਾਨ"
 
 msgid "Europe/Vienna"
-msgstr ""
+msgstr "ਯੂਰਪ/ਵੀਅਾਨਾ"
 
 msgid "Europe/Vilnius"
-msgstr ""
+msgstr "ਯੂਰਪ/ਵੀਲਨੀਅਸ"
 
 msgid "Europe/Warsaw"
-msgstr ""
+msgstr "ਯੂਰਪ/ਵਾਟਸਾ"
 
 msgid "Europe/Zagreb"
-msgstr ""
+msgstr "ਯੂਰਪ/ਜਾਗਰਬ"
 
 msgid "Europe/Zaporozhye"
-msgstr ""
+msgstr "ਯੂਰਪ/ਜਾਪੋਰਪੋਜ਼ੲੀ"
 
 msgid "Europe/Zurich"
-msgstr ""
+msgstr "ਯੂਰਪ/ਜ਼ੂਰਿਸ਼"
 
 msgid "Factory"
-msgstr ""
+msgstr "ਫੈਕਟਰੀ"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "GB-Eire"
-msgstr ""
+msgstr "GB-Eire"
 
 msgid "GMT"
-msgstr ""
+msgstr "GMT"
 
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 msgid "GMT-0"
-msgstr ""
+msgstr "GMT-0"
 
 msgid "GMT+0"
-msgstr ""
+msgstr "GMT+0"
 
 msgid "Greenwich"
-msgstr ""
+msgstr "ਗਰੀਨਵਿੱਚ"
 
 msgid "Hongkong"
-msgstr ""
+msgstr "ਹ੾ਗਕ੾ਗ"
 
 msgid "HST"
-msgstr ""
+msgstr "HST"
 
 msgid "Iceland"
-msgstr ""
+msgstr "ਅਾੲੀਲੈਡ"
 
 msgid "Indian/Antananarivo"
 msgstr ""
@@ -1329,25 +1439,25 @@ msgid "Indian/Reunion"
 msgstr ""
 
 msgid "Iran"
-msgstr ""
+msgstr "ੲੀਰਾਨ"
 
 msgid "Israel"
-msgstr ""
+msgstr "ੲਿਜ਼ਰਾੲੀਲ"
 
 msgid "Jamaica"
-msgstr ""
+msgstr "ਜੈਮਿਕਾ"
 
 msgid "Japan"
-msgstr ""
+msgstr "ਜਾਪਾਨ"
 
 msgid "Kwajalein"
 msgstr ""
 
 msgid "Libya"
-msgstr ""
+msgstr "ਲੀਬੀਅਾ"
 
 msgid "MET"
-msgstr ""
+msgstr "MET"
 
 msgid "Mexico/BajaNorte"
 msgstr ""
@@ -1368,19 +1478,19 @@ msgid "Mideast/Riyadh89"
 msgstr ""
 
 msgid "MST"
-msgstr ""
+msgstr "MST"
 
 msgid "MST7MDT"
-msgstr ""
+msgstr "MST7MDT"
 
 msgid "Navajo"
 msgstr ""
 
 msgid "NZ"
-msgstr ""
+msgstr "NZ"
 
 msgid "NZ-CHAT"
-msgstr ""
+msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
 msgstr ""
@@ -1503,118 +1613,119 @@ msgid "Pacific/Yap"
 msgstr ""
 
 msgid "Poland"
-msgstr ""
+msgstr "ਪੋਲੈਡ"
 
 msgid "Portugal"
-msgstr ""
+msgstr "ਪੁਰਤਗਾਲ"
 
 msgid "PRC"
-msgstr ""
+msgstr "PRC"
 
 msgid "PST8PDT"
-msgstr ""
+msgstr "PST8PDT"
 
 msgid "ROC"
-msgstr ""
+msgstr "ROC"
 
 msgid "ROK"
-msgstr ""
+msgstr "ROK"
 
 msgid "Singapore"
-msgstr ""
+msgstr "ਸਿੰਘਾਪੁਰ"
 
 msgid "SystemV/AST4"
-msgstr ""
+msgstr "ਸਿਸਟਮV/AST4"
 
 msgid "SystemV/AST4ADT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/AST4ADT"
 
 msgid "SystemV/CST6"
-msgstr ""
+msgstr "ਸਿਸਟਮV/CST6"
 
 msgid "SystemV/CST6CDT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/CST6CDT"
 
 msgid "SystemV/EST5"
-msgstr ""
+msgstr "ਸਿਸਟਮV/EST5"
 
 msgid "SystemV/EST5EDT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/EST5EDT"
 
 msgid "SystemV/HST10"
-msgstr ""
+msgstr "ਸਿਸਟਮV/HST10"
 
 msgid "SystemV/MST7"
-msgstr ""
+msgstr "ਸਿਸਟਮV/MST7"
 
 msgid "SystemV/MST7MDT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/MST7MDT"
 
 msgid "SystemV/PST8"
-msgstr ""
+msgstr "ਸਿਸਟਮV/PST8"
 
 msgid "SystemV/PST8PDT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/PST8PDT"
 
 msgid "SystemV/YST9"
-msgstr ""
+msgstr "ਸਿਸਟਮV/YST9"
 
 msgid "SystemV/YST9YDT"
-msgstr ""
+msgstr "ਸਿਸਟਮV/YST9YDT"
 
 msgid "Turkey"
-msgstr ""
+msgstr "ਤੁਰਕੀ"
 
 msgid "UCT"
-msgstr ""
+msgstr "UCT"
 
 msgid "Universal"
 msgstr ""
 
 msgid "US/Alaska"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਅਲਾਸਕਾ"
 
 msgid "US/Aleutian"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਅਲੀੳੂਸਤਾਨ"
 
 msgid "US/Arizona"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਅੈਰੀਜੋਨਾ"
 
 msgid "US/Central"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਕੇਦਰੀ"
 
 msgid "US/Eastern"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ"
 
 msgid "US/East-Indiana"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ-ੲਿੰਡੀਅਾਨਾ"
 
 msgid "US/Hawaii"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਹਾਵਾੲੀ"
 
 msgid "US/Indiana-Starke"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ-ਸਟਾਰਕੇ"
 
 msgid "US/Michigan"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਮਿਸ਼ੀਗਨ"
 
 msgid "US/Mountain"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਪਹਾੜੀ"
 
 msgid "US/Pacific"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਪ੍ਸ਼ਾਤ"
 
 msgid "US/Samoa"
-msgstr ""
+msgstr "ਅਮਰੀਕਾ/ਸਾਮੋਨਾ"
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "WET"
-msgstr ""
+msgstr "WET"
 
 msgid "W-SU"
-msgstr ""
+msgstr "W-SU"
 
 msgid "Zulu"
-msgstr ""
+msgstr "ਜ਼ੂਲੂ"
+
