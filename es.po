@@ -1,17 +1,19 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
+# translation of es.po to 
+# Copyright (C) 2004 Free Software Foundation, Inc.
 # Tullio Dovera <tdovera@redhat.it>, 2000.
+# Yelitza Louze <ylouze@redhat.com>, 2004
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.0\n"
+"Project-Id-Version: es\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2002-04-25 15:01-0400\n"
-"Last-Translator: Tullio Dovera <tdovera@redhat.it>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"PO-Revision-Date: 2004-03-19 09:12+1000\n"
+"Last-Translator: Yelitza Louze <ylouze@redhat.com>\n"
+"Language-Team:  <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0\n"
 
 msgid "Africa/Abidjan"
 msgstr "África/Abidjan"
@@ -250,9 +252,8 @@ msgstr "América/Cuiaba"
 msgid "America/Curacao"
 msgstr "América/Curacao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "América/Caimán"
+msgstr "América//Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "América/Dawson"
@@ -431,9 +432,8 @@ msgstr "América/Nome"
 msgid "America/Noronha"
 msgstr "América/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "América/Fort_Wayne"
+msgstr "América/Dakota del Norte/Centro"
 
 msgid "America/Panama"
 msgstr "América/Panamá"
@@ -474,9 +474,8 @@ msgstr "América/Recife"
 msgid "America/Regina"
 msgstr "América/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "América/Curacao"
+msgstr "América/Río Blanco"
 
 msgid "America/Rosario"
 msgstr "América/Rosario"
@@ -571,9 +570,8 @@ msgstr "Antártida/Polo_sur"
 msgid "Antarctica/Syowa"
 msgstr "Antártida/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antártida/Mawson"
+msgstr "Antártida/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Ártico/Longyearbyen"
@@ -626,13 +624,11 @@ msgstr "Asia/Brunei"
 msgid "Asia/Calcutta"
 msgstr "Asia/Calcuta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Asia/Calcuta"
+msgstr "Asia/Choibalsán"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Asia/Chungking"
+msgstr "Asia/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Asia/Chungking"
@@ -715,16 +711,14 @@ msgstr "Asia/Kuwait"
 msgid "Asia/Macao"
 msgstr "Asia/Macao"
 
-#, fuzzy
 msgid "Asia/Macau"
 msgstr "Asia/Macao"
 
 msgid "Asia/Magadan"
 msgstr "Asia/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Asia/Yakarta"
+msgstr "Asia/Makassar"
 
 msgid "Asia/Manila"
 msgstr "Asia/Manila"
@@ -741,16 +735,14 @@ msgstr "Asia/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asia/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Asia/Kabul"
+msgstr "Asia/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asia/Phnom_Penh"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Asia/Pyongyang"
+msgstr "Asia/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Asia/Pyongyang"
@@ -758,9 +750,8 @@ msgstr "Asia/Pyongyang"
 msgid "Asia/Qatar"
 msgstr "Asia/Qatar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Asia/Gaza"
+msgstr "Asia/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Asia/Rangún"
@@ -780,9 +771,8 @@ msgstr "Asia/Riyadh89"
 msgid "Asia/Saigon"
 msgstr "Asia/Saigón"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Asia/Bahrain"
+msgstr "Asia/Sakhalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asia/Samarkand"
@@ -1632,3 +1622,4 @@ msgstr "Zulú"
 
 #~ msgid "Startup through ARC console"
 #~ msgstr "Inicio a través de la consola ARC"
+
