@@ -1,548 +1,550 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Translation of zh_TW.po to Traditional Chinese
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Ben Wu <hpwu@redhat.com>, 2002
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
-"PO-Revision-Date: 2002-03-21 11:52GMT+10:00\n"
+"POT-Creation-Date: 2002-04-12 17:04-0400\n"
+"PO-Revision-Date: 2002-06-03 15:06GMT+10:00\n"
 "Last-Translator: Ben Wu <hpwu@redhat.com>\n"
 "Language-Team: Traditional Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=BIG5\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta1\n"
 
 msgid "Africa/Abidjan"
-msgstr ""
+msgstr "非洲/阿必尚"
 
 msgid "Africa/Accra"
-msgstr ""
+msgstr "非洲/阿克拉"
 
 msgid "Africa/Addis_Ababa"
-msgstr ""
+msgstr "非洲/阿迪斯 阿貝巴"
 
 msgid "Africa/Algiers"
-msgstr ""
+msgstr "非洲/阿爾及爾"
 
 msgid "Africa/Asmera"
-msgstr ""
+msgstr "非洲/阿斯馬拉"
 
 msgid "Africa/Bamako"
-msgstr ""
+msgstr "非洲/巴馬科"
 
 msgid "Africa/Bangui"
-msgstr ""
+msgstr "非洲/班基"
 
 msgid "Africa/Banjul"
-msgstr ""
+msgstr "非洲/班竹"
 
 msgid "Africa/Bissau"
-msgstr ""
+msgstr "非洲/比索"
 
 msgid "Africa/Blantyre"
-msgstr ""
+msgstr "非洲/布蘭太"
 
 msgid "Africa/Brazzaville"
-msgstr ""
+msgstr "非洲/布拉柴維爾"
 
 msgid "Africa/Bujumbura"
-msgstr ""
+msgstr "非洲/布松布拉"
 
 msgid "Africa/Cairo"
-msgstr ""
+msgstr "非洲/開羅"
 
 msgid "Africa/Casablanca"
-msgstr ""
+msgstr "非洲/卡薩布蘭卡"
 
 msgid "Africa/Ceuta"
-msgstr ""
+msgstr "非洲/休達"
 
 msgid "Africa/Conakry"
-msgstr ""
+msgstr "非洲/科那克里"
 
 msgid "Africa/Dakar"
-msgstr ""
+msgstr "非洲/達卡"
 
 msgid "Africa/Dar_es_Salaam"
-msgstr ""
+msgstr "非洲/達萊撤蘭"
 
 msgid "Africa/Djibouti"
-msgstr ""
+msgstr "非洲/吉布地"
 
 msgid "Africa/Douala"
-msgstr ""
+msgstr "非洲/杜阿拉"
 
 msgid "Africa/El_Aaiun"
-msgstr ""
+msgstr "非洲/阿尤恩"
 
 msgid "Africa/Freetown"
-msgstr ""
+msgstr "非洲/自由城"
 
 msgid "Africa/Gaborone"
-msgstr ""
+msgstr "非洲/嘉柏隆"
 
 msgid "Africa/Harare"
-msgstr ""
+msgstr "非洲/哈拉雷"
 
 msgid "Africa/Johannesburg"
-msgstr ""
+msgstr "非洲/約翰尼斯堡"
 
 msgid "Africa/Kampala"
-msgstr ""
+msgstr "非洲/坎帕拉"
 
 msgid "Africa/Khartoum"
-msgstr ""
+msgstr "非洲/卡吐穆"
 
 msgid "Africa/Kigali"
-msgstr ""
+msgstr "非洲/其加里"
 
 msgid "Africa/Kinshasa"
-msgstr ""
+msgstr "非洲/金夏沙"
 
 msgid "Africa/Lagos"
-msgstr ""
+msgstr "非洲/拉哥斯"
 
 msgid "Africa/Libreville"
-msgstr ""
+msgstr "非洲/自由府"
 
 msgid "Africa/Lome"
-msgstr ""
+msgstr "非洲/洛梅"
 
 msgid "Africa/Luanda"
-msgstr ""
+msgstr "非洲/盧安達"
 
 msgid "Africa/Lubumbashi"
-msgstr ""
+msgstr "非洲/羅彭巴布"
 
 msgid "Africa/Lusaka"
-msgstr ""
+msgstr "非洲/路沙卡"
 
 msgid "Africa/Malabo"
-msgstr ""
+msgstr "非洲/馬拉博"
 
 msgid "Africa/Maputo"
-msgstr ""
+msgstr "非洲/馬布多"
 
 msgid "Africa/Maseru"
-msgstr ""
+msgstr "非洲/馬基魯"
 
 msgid "Africa/Mbabane"
-msgstr ""
+msgstr "非洲/墨巴本"
 
 msgid "Africa/Mogadishu"
-msgstr ""
+msgstr "非洲/摩加迪休"
 
 msgid "Africa/Monrovia"
-msgstr ""
+msgstr "非洲/蒙羅維亞"
 
 msgid "Africa/Nairobi"
-msgstr ""
+msgstr "非洲/奈洛比"
 
 msgid "Africa/Ndjamena"
-msgstr ""
+msgstr "非洲/恩將納"
 
 msgid "Africa/Niamey"
-msgstr ""
+msgstr "非洲/尼阿美"
 
 msgid "Africa/Nouakchott"
-msgstr ""
+msgstr "非洲/諾克少"
 
 msgid "Africa/Ouagadougou"
-msgstr ""
+msgstr "非洲/瓦加杜古"
 
 msgid "Africa/Porto-Novo"
-msgstr ""
+msgstr "非洲/波多諾伏"
 
 msgid "Africa/Sao_Tome"
-msgstr ""
+msgstr "非洲/薩多美"
 
 msgid "Africa/Timbuktu"
-msgstr ""
+msgstr "非洲/庭巴克圖"
 
 msgid "Africa/Tripoli"
-msgstr ""
+msgstr "非洲/的黎波里"
 
 msgid "Africa/Tunis"
-msgstr ""
+msgstr "非洲/突尼斯"
 
 msgid "Africa/Windhoek"
-msgstr ""
+msgstr "非洲/溫黎克"
 
 msgid "America/Adak"
-msgstr ""
+msgstr "美洲/阿達克"
 
 msgid "America/Anchorage"
-msgstr ""
+msgstr "美洲/安克拉治"
 
 msgid "America/Anguilla"
-msgstr ""
+msgstr "美洲/安圭拉"
 
 msgid "America/Antigua"
-msgstr ""
+msgstr "美洲/安地卡"
 
 msgid "America/Araguaina"
-msgstr ""
+msgstr "美洲/阿拉加依那"
 
 msgid "America/Aruba"
-msgstr ""
+msgstr "美洲/阿魯巴"
 
 msgid "America/Asuncion"
-msgstr ""
+msgstr "美洲/亞松森"
 
 msgid "America/Atka"
-msgstr ""
+msgstr "美洲/阿提卡"
 
 msgid "America/Barbados"
-msgstr ""
+msgstr "美洲/巴巴多斯"
 
 msgid "America/Belem"
-msgstr ""
+msgstr "美洲/貝倫"
 
 msgid "America/Belize"
-msgstr ""
+msgstr "美洲/貝里斯"
 
 msgid "America/Boa_Vista"
-msgstr ""
+msgstr "美洲/伯爾維斯特"
 
 msgid "America/Bogota"
-msgstr ""
+msgstr "美洲/波哥大"
 
 msgid "America/Boise"
-msgstr ""
+msgstr "美洲/樹城"
 
 msgid "America/Buenos_Aires"
-msgstr ""
+msgstr "美洲/布宜諾斯艾利斯"
 
 msgid "America/Cambridge_Bay"
-msgstr ""
+msgstr "美洲/劍橋灣"
 
 msgid "America/Cancun"
-msgstr ""
+msgstr "美洲/坎肯"
 
 msgid "America/Caracas"
-msgstr ""
+msgstr "美洲/加拉加斯"
 
 msgid "America/Catamarca"
-msgstr ""
+msgstr "美洲/卡達馬魯卡"
 
 msgid "America/Cayenne"
-msgstr ""
+msgstr "美洲/開雪"
 
 msgid "America/Cayman"
-msgstr ""
+msgstr "美洲/開曼"
 
 msgid "America/Chicago"
-msgstr ""
+msgstr "美洲/芝加哥"
 
 msgid "America/Chihuahua"
-msgstr ""
+msgstr "美洲/奇瓦瓦"
 
 msgid "America/Cordoba"
-msgstr ""
+msgstr "美洲/哥多巴"
 
 msgid "America/Costa_Rica"
-msgstr ""
+msgstr "美洲/哥斯大黎加"
 
 msgid "America/Cuiaba"
-msgstr ""
+msgstr "美洲/圭亞巴"
 
 msgid "America/Curacao"
-msgstr ""
+msgstr "美洲/庫拉卡"
 
 msgid "America/Danmarkshavn"
-msgstr ""
+msgstr "美洲/Danmarkshavn"
 
 msgid "America/Dawson"
-msgstr ""
+msgstr "美洲/道森"
 
 msgid "America/Dawson_Creek"
-msgstr ""
+msgstr "美洲/道森河"
 
 msgid "America/Denver"
-msgstr ""
+msgstr "美洲/丹佛"
 
 msgid "America/Detroit"
-msgstr ""
+msgstr "美洲/底特律"
 
 msgid "America/Dominica"
-msgstr ""
+msgstr "美洲/多明尼加"
 
 msgid "America/Edmonton"
-msgstr ""
+msgstr "美洲/艾德頓"
 
 msgid "America/Eirunepe"
-msgstr ""
+msgstr "美洲/依倫尼貝"
 
 msgid "America/El_Salvador"
-msgstr ""
+msgstr "美洲/薩爾瓦多"
 
 msgid "America/Ensenada"
-msgstr ""
+msgstr "美洲/恩森那達"
 
 msgid "America/Fortaleza"
-msgstr ""
+msgstr "美洲/福塔萊薩"
 
 msgid "America/Fort_Wayne"
-msgstr ""
+msgstr "美洲/韋恩堡"
 
 msgid "America/Glace_Bay"
-msgstr ""
+msgstr "美洲/冰河灣"
 
 msgid "America/Godthab"
-msgstr ""
+msgstr "美洲/格薩"
 
 msgid "America/Goose_Bay"
-msgstr ""
+msgstr "美洲/鵝灣"
 
 msgid "America/Grand_Turk"
-msgstr ""
+msgstr "美洲/大特克斯島"
 
 msgid "America/Grenada"
-msgstr ""
+msgstr "美洲/格瑞那達"
 
 msgid "America/Guadeloupe"
-msgstr ""
+msgstr "美洲/瓜德洛普"
 
 msgid "America/Guatemala"
-msgstr ""
+msgstr "美洲/瓜地馬拉"
 
 msgid "America/Guayaquil"
-msgstr ""
+msgstr "美洲/惠夜基港"
 
 msgid "America/Guyana"
-msgstr ""
+msgstr "美洲/圭亞那"
 
 msgid "America/Halifax"
-msgstr ""
+msgstr "美洲/哈利法克斯"
 
 msgid "America/Havana"
-msgstr ""
+msgstr "美洲/哈瓦那"
 
 msgid "America/Hermosillo"
-msgstr ""
+msgstr "美洲/厄莫休"
 
 msgid "America/Indiana/Indianapolis"
-msgstr ""
+msgstr "美洲/印第安那州/印第安那"
 
 msgid "America/Indiana/Knox"
-msgstr ""
+msgstr "美洲/印第安那州/諾克斯"
 
 msgid "America/Indiana/Marengo"
-msgstr ""
+msgstr "美洲/印第安那州/馬蘭哥"
 
 msgid "America/Indianapolis"
-msgstr ""
+msgstr "美洲/印第安那"
 
 msgid "America/Indiana/Vevay"
-msgstr ""
+msgstr "美洲/印第安那州/"
 
 msgid "America/Inuvik"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Iqaluit"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Jamaica"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Jujuy"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Juneau"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Kentucky/Louisville"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Kentucky/Monticello"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Knox_IN"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/La_Paz"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Lima"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Los_Angeles"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Louisville"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Maceio"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Managua"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Manaus"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Martinique"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Mazatlan"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Mendoza"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Menominee"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Merida"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Mexico_City"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Miquelon"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Monterrey"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Montevideo"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Montreal"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Montserrat"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Nassau"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/New_York"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Nipigon"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Nome"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Noronha"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/North_Dakota/Center"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Panama"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Pangnirtung"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Paramaribo"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Phoenix"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Port-au-Prince"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Porto_Acre"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Port_of_Spain"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Porto_Velho"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Puerto_Rico"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Rainy_River"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Rankin_Inlet"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Recife"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Regina"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Rio_Branco"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Rosario"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Santiago"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Santo_Domingo"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Sao_Paulo"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Scoresbysund"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Shiprock"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/St_Johns"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/St_Kitts"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/St_Lucia"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/St_Thomas"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/St_Vincent"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Swift_Current"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Tegucigalpa"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Thule"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Thunder_Bay"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Tijuana"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Tortola"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Vancouver"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Virgin"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Whitehorse"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Winnipeg"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Yakutat"
-msgstr ""
+msgstr "美洲/"
 
 msgid "America/Yellowknife"
-msgstr ""
+msgstr "美洲/"
 
 msgid "Antarctica/Casey"
 msgstr ""
