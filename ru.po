@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-09-06 18:39+0400\n"
+"PO-Revision-Date: 2004-09-11 19:51+1100\n"
 "Last-Translator: Andrew Martynov <andrewm@inventa.ru>\n"
 "Language-Team: Russian <fedora-trans-ru@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -217,9 +217,8 @@ msgstr "Америка/Буэнос_Айрес"
 msgid "America/Cambridge_Bay"
 msgstr "Америка/Кеймбридж-Бей"
 
-#, fuzzy
 msgid "America/Cancun"
-msgstr "Америка/Cancun"
+msgstr "Америка/Канкун"
 
 msgid "America/Caracas"
 msgstr "Америка/Каракас"
@@ -279,16 +278,14 @@ msgstr "Америка/Эйрунепе"
 msgid "America/El_Salvador"
 msgstr "Америка/Сальвадор"
 
-#, fuzzy
 msgid "America/Ensenada"
-msgstr "Америка/Ensenada"
+msgstr "Америка/Енсенада"
 
 msgid "America/Fortaleza"
 msgstr "Америка/Форталеза"
 
-#, fuzzy
 msgid "America/Fort_Wayne"
-msgstr "Америка/Fort_Wayne"
+msgstr "Америка/Форт-Уэйн"
 
 msgid "America/Glace_Bay"
 msgstr "Америка/Глейс-Бей"
@@ -299,9 +296,8 @@ msgstr "Америка/Готхоб"
 msgid "America/Goose_Bay"
 msgstr "Америка/Гус_Бей"
 
-#, fuzzy
 msgid "America/Grand_Turk"
-msgstr "Америка/Grand_Turk"
+msgstr "Америка/Гранд_Терк"
 
 msgid "America/Grenada"
 msgstr "Америка/Гренада"
@@ -433,9 +429,8 @@ msgstr "Америка/Нипигон"
 msgid "America/Nome"
 msgstr "Америка/Ном"
 
-#, fuzzy
 msgid "America/Noronha"
-msgstr "Америка/Noronha"
+msgstr "Америка/Норонья"
 
 msgid "America/North_Dakota/Center"
 msgstr "Америка/Северная_Дакота/Центр"
@@ -468,9 +463,8 @@ msgstr "Америка/Порто_Велью"
 msgid "America/Puerto_Rico"
 msgstr "Америка/Пуэрто-Рико"
 
-#, fuzzy
 msgid "America/Rainy_River"
-msgstr "Америка/Rainy_River"
+msgstr "Америка/река_Рейни"
 
 msgid "America/Rankin_Inlet"
 msgstr "Америка/залив_Ранкин"
@@ -500,9 +494,8 @@ msgstr "Америка/Сан_Паулу"
 msgid "America/Scoresbysund"
 msgstr "Америка/Скорсбисунн"
 
-#, fuzzy
 msgid "America/Shiprock"
-msgstr "Америка/Shiprock"
+msgstr "Америка/Шипрок"
 
 msgid "America/St_Johns"
 msgstr "Америка/Сент-Джонс"
@@ -907,9 +900,8 @@ msgstr "Австралия/Хобарт"
 msgid "Australia/LHI"
 msgstr "Австралия/LHI"
 
-#, fuzzy
 msgid "Australia/Lindeman"
-msgstr "Австралия/Lindeman"
+msgstr "Австралия/Линдеман"
 
 msgid "Australia/Lord_Howe"
 msgstr "Австралия/Лорд_Хау"
@@ -951,9 +943,8 @@ msgstr "Австралия/Yancowinna"
 msgid "Brazil/Acre"
 msgstr "Бразилия/Акри"
 
-#, fuzzy
 msgid "Brazil/DeNoronha"
-msgstr "Бразилия/DeNoronha"
+msgstr "Бразилия/ДеНоронья"
 
 msgid "Brazil/East"
 msgstr "Бразилия/Запад"
@@ -1363,7 +1354,7 @@ msgid "Japan"
 msgstr "Япония"
 
 msgid "Kwajalein"
-msgstr "Kwajalein"
+msgstr "Кваджалейн"
 
 msgid "Libya"
 msgstr "Ливия"
@@ -1459,9 +1450,8 @@ msgstr "Тихий океан/Киритимати"
 msgid "Pacific/Kosrae"
 msgstr "Тихий океан/Кусаие"
 
-#, fuzzy
 msgid "Pacific/Kwajalein"
-msgstr "Тихий океан/Kwajalein"
+msgstr "Тихий океан/Кваджалейн"
 
 msgid "Pacific/Majuro"
 msgstr "Тихий океан/Маджуро"
@@ -1646,3 +1636,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Зулу"
+
