@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2001-01-25 15:49-0500\n"
+"POT-Creation-Date: 2002-04-12 17:04-0400\n"
 "PO-Revision-Date: 2001-01-29 16:40+1\n"
 "Last-Translator: Bettina De Monti <bdemonti@redhat.it>\n"
 "Language-Team: ITALIAN <it@li.org>\n"
@@ -250,6 +250,10 @@ msgstr "America/Cuiaba"
 msgid "America/Curacao"
 msgstr "America/Curacao"
 
+#, fuzzy
+msgid "America/Danmarkshavn"
+msgstr "America/Cayman"
+
 msgid "America/Dawson"
 msgstr "America/Dawson"
 
@@ -427,6 +431,10 @@ msgstr "America/Nome"
 msgid "America/Noronha"
 msgstr "America/Noronha"
 
+#, fuzzy
+msgid "America/North_Dakota/Center"
+msgstr "America/Fort_Wayne"
+
 msgid "America/Panama"
 msgstr "America/Panama"
 
@@ -465,6 +473,10 @@ msgstr "America/Recife"
 
 msgid "America/Regina"
 msgstr "America/Regina"
+
+#, fuzzy
+msgid "America/Rio_Branco"
+msgstr "America/Curacao"
 
 msgid "America/Rosario"
 msgstr "America/Rosario"
@@ -559,6 +571,10 @@ msgstr "Antartide/South_Pole"
 msgid "Antarctica/Syowa"
 msgstr "Antartide/Syowa"
 
+#, fuzzy
+msgid "Antarctica/Vostok"
+msgstr "Antartide/Mawson"
+
 msgid "Arctic/Longyearbyen"
 msgstr "Artico/Longyearbyen"
 
@@ -609,6 +625,14 @@ msgstr "Asia/Brunei"
 
 msgid "Asia/Calcutta"
 msgstr "Asia/Calcutta"
+
+#, fuzzy
+msgid "Asia/Choibalsan"
+msgstr "Asia/Calcutta"
+
+#, fuzzy
+msgid "Asia/Chongqing"
+msgstr "Asia/Chungking"
 
 msgid "Asia/Chungking"
 msgstr "Asia/Chungking"
@@ -691,7 +715,15 @@ msgstr "Asia/Kuwait"
 msgid "Asia/Macao"
 msgstr "Asia/Macao"
 
+#, fuzzy
+msgid "Asia/Macau"
+msgstr "Asia/Macao"
+
 msgid "Asia/Magadan"
+msgstr "Asia/Magadan"
+
+#, fuzzy
+msgid "Asia/Makassar"
 msgstr "Asia/Magadan"
 
 msgid "Asia/Manila"
@@ -709,14 +741,26 @@ msgstr "Asia/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asia/Omsk"
 
+#, fuzzy
+msgid "Asia/Oral"
+msgstr "Asia/Kabul"
+
 msgid "Asia/Phnom_Penh"
 msgstr "Asia/Phnom_Penh"
+
+#, fuzzy
+msgid "Asia/Pontianak"
+msgstr "Asia/Pyongyang"
 
 msgid "Asia/Pyongyang"
 msgstr "Asia/Pyongyang"
 
 msgid "Asia/Qatar"
 msgstr "Asia/Qatar"
+
+#, fuzzy
+msgid "Asia/Qyzylorda"
+msgstr "Asia/Gaza"
 
 msgid "Asia/Rangoon"
 msgstr "Asia/Rangoon"
@@ -735,6 +779,10 @@ msgstr "Asia/Riyadh89"
 
 msgid "Asia/Saigon"
 msgstr "Asia/Saigon"
+
+#, fuzzy
+msgid "Asia/Sakhalin"
+msgstr "Asia/Bahrain"
 
 msgid "Asia/Samarkand"
 msgstr "Asia/Samarkand"
