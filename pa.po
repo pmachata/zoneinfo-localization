@@ -8,122 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pa VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2002-08-21 23:26-0400\n"
+"POT-Creation-Date: 2002-04-12 17:04-0400\n"
 "PO-Revision-Date: 2004-04-04 19:23+0530\n"
 "Last-Translator: Punjab Linux Technology <punjablinux@netscape.net>\n"
 "Language-Team: Punjabi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
-
-#: ../timeconfig.c:46
-msgid "Hardware clock set to GMT"
-msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ਨੰੂ GMT ਨਾਲ ਮਿਲਾੳੁ"
-
-#: ../timeconfig.c:50
-msgid "Hardware clock uses ARC time (not UX/Ruffian)"
-msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ARC ਸਮ੾  (UX/Ruffian ਨਹੀ) ਵਰਤਦੀ ਹੈ"
-
-#: ../timeconfig.c:61
-msgid "cannot scan /usr/share/zoneinfo for timezones"
-msgstr "ਸਮ੾-ਖੇਤਰ ਲੲੀn /usr/share/zoneinfo ਨੰੂ ਜ੾ਚ ਨਹੀ ਸਕਿਅਾ ਹੈ"
-
-#: ../timeconfig.c:81
-msgid "Ok"
-msgstr "ਠੀਕ ਹੈ"
-
-#: ../timeconfig.c:82
-msgid "Back"
-msgstr "ਪਿੱਛੇ"
-
-#: ../timeconfig.c:82
-msgid "Cancel"
-msgstr "ਰੱਦ"
-
-#: ../timeconfig.c:87
-msgid "Format machine time is stored in:"
-msgstr "ਫਾਰਮਿਟ ਮਸ਼ੀਨ ਸਮ੾ ੲਿਸ ਵਿੱਚ ਸੰਭਾਲੋਃ"
-
-#: ../timeconfig.c:101
-msgid "Configure Timezones"
-msgstr "ਸਮ੾-ਖੇਤਰ ਸੰਰਚਨਾ"
-
-#: ../timeconfig.c:128
-#, c-format
-msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
-msgstr "%s: ਬੇਮੇਲ ਹਵਾਲਾ ਸਤਰ %d ਤੇ  /etc/sysconfig/clock ਵਿੱਚ\n"
-
-#: ../timeconfig.c:157
-#, c-format
-msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
-msgstr "%s: ਖੋਲ੏ ਨਹੀ ਸਕਿਅਾ /etc/sysconfig/clock: %s\n"
-
-#: ../timeconfig.c:226
-#, c-format
-msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
-msgstr "%s: ਸਤਰ %d ਬੇਲੋੜੀਦੀ ਹੈ /etc/sysconfig/clock ਵਿੱਚ:\n"
-
-#: ../timeconfig.c:235
-#, c-format
-msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
-msgstr "%s: ਪੜ੏ ਨਹੀ ਸਕਦਾ ਹੈ /etc/sysconfig/clock: %s\n"
-
-#: ../timeconfig.c:275
-#, c-format
-msgid "%s: bad argument %s: %s\n"
-msgstr "%s: ਗਲਤ ਅਾਰਗੂਮਿੰਟ %s: %s\n"
-
-#: ../timeconfig.c:283
-#, c-format
-msgid "%s: only one argument (the timezone) may be used\n"
-msgstr "%s: ਸਿਰਫ ੲਿੱਕ ਅਾਰਗੂਮਿੰਟ (ਸਮ੾-ਖੇਤਰ) ਹੀ ਵਰਤਿਅਾ ਜਾ ਸਕਦਾ ਹੈ \n"
-
-#: ../timeconfig.c:291
-#, c-format
-msgid "%s: can only be run as root\n"
-msgstr "%s: ਰੂਟ ਦੇ ਤੌਰ ਤੇ ਹੀ ਚਲਾੲਿਅਾ ਜਾ ਸਕਦਾ ਹੈ\n"
-
-#: ../timeconfig.c:297
-#, c-format
-msgid "%s: critical error reading /etc/sysconfig/clock"
-msgstr "%s:  /etc/sysconfig/clock ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ"
-
-#: ../timeconfig.c:314
-#, c-format
-msgid "%s: critical error reading /etc/localtime: %s\n"
-msgstr "%s: /etc/localtime ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ: %s\n"
-
-#: ../timeconfig.c:322
-#, c-format
-msgid "%s: /etc/localtime points to unknown timezone %s\n"
-msgstr "%s: /etc/localtime ੲਿੱਕ ਅਣਪਛਾਤੇ ਸਮ੾-ਖੇਤਰ %s ਵੱਲ ੲਿਸ਼ਾਰਾ ਕਰ ਰਿਹਾ ਹੈ ੤\n"
-
-#: ../timeconfig.c:323
-#, c-format
-msgid "%s: current value will be ignored\n"
-msgstr "%s: ਮੌਜੂਦਾ ਮੁੱਲ ਰੱਦ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ੤ \n"
-
-#: ../timeconfig.c:335
-msgid ""
-"  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next screen"
-msgstr ""
-"  <Tab>/<Alt-Tab> ੲਿਕਾੲੀ ਵਿੱਚ  |  <Space> ਚੋਣ |  <F12> ਅਗਲਾ ਪਰਦਾ"
-
-#: ../timeconfig.c:361
-#, c-format
-msgid "%s: failed to make /etc/localtime: %s"
-msgstr "%s: ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ /etc/localtime: %s"
-
-#: ../timeconfig.c:369
-#, c-format
-msgid "%s: failed to make /etc/sysconfig/clock: %s"
-msgstr "%s:  ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ  /etc/sysconfig/clock: %s"
-
-#: ../timeconfig.c:389
-#, c-format
-msgid "%s: failed to write to /etc/sysconfig/clock: %s"
-msgstr "%s: ਲਿਖਣ ਵਿੱਚ ਅਸਫਲ /etc/sysconfig/clock ਤੇ: %s"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
 
 msgid "Africa/Abidjan"
 msgstr "ਅਫਰੀਕਾ/ਅਬੀਡਜਾਨ"
@@ -1730,3 +1622,73 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
 
+#~ msgid "Hardware clock set to GMT"
+#~ msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ਨੰੂ GMT ਨਾਲ ਮਿਲਾੳੁ"
+
+#~ msgid "Hardware clock uses ARC time (not UX/Ruffian)"
+#~ msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ARC ਸਮ੾  (UX/Ruffian ਨਹੀ) ਵਰਤਦੀ ਹੈ"
+
+#~ msgid "cannot scan /usr/share/zoneinfo for timezones"
+#~ msgstr "ਸਮ੾-ਖੇਤਰ ਲੲੀn /usr/share/zoneinfo ਨੰੂ ਜ੾ਚ ਨਹੀ ਸਕਿਅਾ ਹੈ"
+
+#~ msgid "Ok"
+#~ msgstr "ਠੀਕ ਹੈ"
+
+#~ msgid "Back"
+#~ msgstr "ਪਿੱਛੇ"
+
+#~ msgid "Cancel"
+#~ msgstr "ਰੱਦ"
+
+#~ msgid "Format machine time is stored in:"
+#~ msgstr "ਫਾਰਮਿਟ ਮਸ਼ੀਨ ਸਮ੾ ੲਿਸ ਵਿੱਚ ਸੰਭਾਲੋਃ"
+
+#~ msgid "Configure Timezones"
+#~ msgstr "ਸਮ੾-ਖੇਤਰ ਸੰਰਚਨਾ"
+
+#~ msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
+#~ msgstr "%s: ਬੇਮੇਲ ਹਵਾਲਾ ਸਤਰ %d ਤੇ  /etc/sysconfig/clock ਵਿੱਚ\n"
+
+#~ msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
+#~ msgstr "%s: ਖੋਲ੏ ਨਹੀ ਸਕਿਅਾ /etc/sysconfig/clock: %s\n"
+
+#~ msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
+#~ msgstr "%s: ਸਤਰ %d ਬੇਲੋੜੀਦੀ ਹੈ /etc/sysconfig/clock ਵਿੱਚ:\n"
+
+#~ msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
+#~ msgstr "%s: ਪੜ੏ ਨਹੀ ਸਕਦਾ ਹੈ /etc/sysconfig/clock: %s\n"
+
+#~ msgid "%s: bad argument %s: %s\n"
+#~ msgstr "%s: ਗਲਤ ਅਾਰਗੂਮਿੰਟ %s: %s\n"
+
+#~ msgid "%s: only one argument (the timezone) may be used\n"
+#~ msgstr "%s: ਸਿਰਫ ੲਿੱਕ ਅਾਰਗੂਮਿੰਟ (ਸਮ੾-ਖੇਤਰ) ਹੀ ਵਰਤਿਅਾ ਜਾ ਸਕਦਾ ਹੈ \n"
+
+#~ msgid "%s: can only be run as root\n"
+#~ msgstr "%s: ਰੂਟ ਦੇ ਤੌਰ ਤੇ ਹੀ ਚਲਾੲਿਅਾ ਜਾ ਸਕਦਾ ਹੈ\n"
+
+#~ msgid "%s: critical error reading /etc/sysconfig/clock"
+#~ msgstr "%s:  /etc/sysconfig/clock ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ"
+
+#~ msgid "%s: critical error reading /etc/localtime: %s\n"
+#~ msgstr "%s: /etc/localtime ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ: %s\n"
+
+#~ msgid "%s: /etc/localtime points to unknown timezone %s\n"
+#~ msgstr "%s: /etc/localtime ੲਿੱਕ ਅਣਪਛਾਤੇ ਸਮ੾-ਖੇਤਰ %s ਵੱਲ ੲਿਸ਼ਾਰਾ ਕਰ ਰਿਹਾ ਹੈ ੤\n"
+
+#~ msgid "%s: current value will be ignored\n"
+#~ msgstr "%s: ਮੌਜੂਦਾ ਮੁੱਲ ਰੱਦ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ੤ \n"
+
+#~ msgid ""
+#~ "  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next "
+#~ "screen"
+#~ msgstr "  <Tab>/<Alt-Tab> ੲਿਕਾੲੀ ਵਿੱਚ  |  <Space> ਚੋਣ |  <F12> ਅਗਲਾ ਪਰਦਾ"
+
+#~ msgid "%s: failed to make /etc/localtime: %s"
+#~ msgstr "%s: ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ /etc/localtime: %s"
+
+#~ msgid "%s: failed to make /etc/sysconfig/clock: %s"
+#~ msgstr "%s:  ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ  /etc/sysconfig/clock: %s"
+
+#~ msgid "%s: failed to write to /etc/sysconfig/clock: %s"
+#~ msgstr "%s: ਲਿਖਣ ਵਿੱਚ ਅਸਫਲ /etc/sysconfig/clock ਤੇ: %s"
