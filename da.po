@@ -2,7 +2,7 @@
 # Keld Simonsen <keld@dkuug.dk>, 2002
 msgid ""
 msgstr ""
-"Project-Id-Version: timeconfig Redhat 6.1\n"
+"Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-08-21 23:26-0400\n"
 "PO-Revision-Date: 2002-08-22 22:34+0200\n"
 "Last-Translator: Keld Simonsen <keld@dkuug.dk>\n"
@@ -10,114 +10,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../timeconfig.c:46
-msgid "Hardware clock set to GMT"
-msgstr "Maskinur sat til GMT"
-
-#: ../timeconfig.c:50
-msgid "Hardware clock uses ARC time (not UX/Ruffian)"
-msgstr "Maskinur er sat til ARC-tid (ikke UX/Ruffian)"
-
-#: ../timeconfig.c:61
-msgid "cannot scan /usr/share/zoneinfo for timezones"
-msgstr "kan ikke skanne /usr/share/zoneinfo for tidszoner"
-
-#: ../timeconfig.c:81
-msgid "Ok"
-msgstr "O.k."
-
-#: ../timeconfig.c:82
-msgid "Back"
-msgstr "Tilbage"
-
-#: ../timeconfig.c:82
-msgid "Cancel"
-msgstr "Annullér"
-
-#: ../timeconfig.c:87
-msgid "Format machine time is stored in:"
-msgstr "Format som maskintid gemmes i:"
-
-#: ../timeconfig.c:101
-msgid "Configure Timezones"
-msgstr "Indstil tidszoner"
-
-#: ../timeconfig.c:128
-#, c-format
-msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
-msgstr "%s: forkert antal anførselstegn i linie %d i /etc/sysconfig/clock\n"
-
-#: ../timeconfig.c:157
-#, c-format
-msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
-msgstr "%s: kan ikke åbne /etc/sysconfig/clock: %s\n"
-
-#: ../timeconfig.c:226
-#, c-format
-msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
-msgstr "%s: uventet linie %d i /etc/sysconfig/clock:\n"
-
-#: ../timeconfig.c:235
-#, c-format
-msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
-msgstr "%s: kan ikke læse /etc/sysconfig/clock: %s\n"
-
-#: ../timeconfig.c:275
-#, c-format
-msgid "%s: bad argument %s: %s\n"
-msgstr "%s: forkert argument %s: %s\n"
-
-#: ../timeconfig.c:283
-#, c-format
-msgid "%s: only one argument (the timezone) may be used\n"
-msgstr "%s: kun ét argument (tidszonen) må bruges\n"
-
-#: ../timeconfig.c:291
-#, c-format
-msgid "%s: can only be run as root\n"
-msgstr "%s: kan kun køres som administrator (root)\n"
-
-#: ../timeconfig.c:297
-#, c-format
-msgid "%s: critical error reading /etc/sysconfig/clock"
-msgstr "%s: kritisk fejl ved læsning af /etc/sysconfig/clock"
-
-#: ../timeconfig.c:314
-#, c-format
-msgid "%s: critical error reading /etc/localtime: %s\n"
-msgstr "%s: kritisk fejl ved læsning af /etc/localtime: %s\n"
-
-#: ../timeconfig.c:322
-#, c-format
-msgid "%s: /etc/localtime points to unknown timezone %s\n"
-msgstr "%s: /etc/localtime peger på ukendt tidszone %s\n"
-
-#: ../timeconfig.c:323
-#, c-format
-msgid "%s: current value will be ignored\n"
-msgstr "%s: nuværende værdi vil blive ignoreret\n"
-
-#: ../timeconfig.c:335
-msgid ""
-"  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next screen"
-msgstr ""
-" <Tab>/<Alt-Tab> imellem elementer  |  <Mellemrum> vælg  |  <F12> næste side"
-
-#: ../timeconfig.c:361
-#, c-format
-msgid "%s: failed to make /etc/localtime: %s"
-msgstr "%s: kunne ikke oprette /etc/localtime: %s"
-
-#: ../timeconfig.c:369
-#, c-format
-msgid "%s: failed to make /etc/sysconfig/clock: %s"
-msgstr "%s: kunne ikke oprette /etc/sysconfig/clock: %s"
-
-#: ../timeconfig.c:389
-#, c-format
-msgid "%s: failed to write to /etc/sysconfig/clock: %s"
-msgstr "%s: kunne ikke skrive til /etc/sysconfig/clock: %s"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
@@ -1724,8 +1616,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulu"
 
-#~ msgid "iso3166.tab"
-#~ msgstr "iso3166.tab"
-
-#~ msgid "posixrules"
-#~ msgstr "posixregler"
