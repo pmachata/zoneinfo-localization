@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-02-10 11:11+0200\n"
+"PO-Revision-Date: 2004-03-16 11:11+0200\n"
 "Last-Translator: Tamas Szanto <tszanto@mol.hu>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -246,9 +246,8 @@ msgstr "Amerika/Cuiaba"
 msgid "America/Curacao"
 msgstr "Amerika/Curacao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "Amerika/Cayman"
+msgstr "Amerika/Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
@@ -427,9 +426,8 @@ msgstr "Amerika/Nome"
 msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/Fort_Wayne"
+msgstr "Amerika/Észak_Dakota/Közép"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -470,9 +468,8 @@ msgstr "Amerika/Recife"
 msgid "America/Regina"
 msgstr "Amerika/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "Amerika/Rosario"
@@ -567,281 +564,272 @@ msgstr "Antarktisz/Déli_sark"
 msgid "Antarctica/Syowa"
 msgstr "Antarktisz/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antarktisz/Mawson"
+msgstr "Antarktisz/Vosztok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Antarktisz/Longyearbyen"
 
 msgid "Asia/Aden"
-msgstr "Ăzsia/Aden"
+msgstr "Ázsia/Aden"
 
 msgid "Asia/Almaty"
-msgstr "Ăzsia/Alma-Ata"
+msgstr "Ázsia/Alma-Ata"
 
 msgid "Asia/Amman"
-msgstr "Ăzsia/Amman"
+msgstr "Ázsia/Amman"
 
 msgid "Asia/Anadyr"
-msgstr "Ăzsia/Anadyr"
+msgstr "Ázsia/Anadyr"
 
 msgid "Asia/Aqtau"
-msgstr "Ăzsia/Aqtau"
+msgstr "Ázsia/Aqtau"
 
 msgid "Asia/Aqtobe"
-msgstr "Ăzsia/Aqtobe"
+msgstr "Ázsia/Aqtobe"
 
 msgid "Asia/Ashgabat"
-msgstr "Ăzsia/Ashkabad"
+msgstr "Ázsia/Ashkabad"
 
 msgid "Asia/Ashkhabad"
-msgstr "Ăzsia/Ashkhabad"
+msgstr "Ázsia/Ashkhabad"
 
 msgid "Asia/Baghdad"
-msgstr "Ăzsia/Bagdad"
+msgstr "Ázsia/Bagdad"
 
 msgid "Asia/Bahrain"
-msgstr "Ăzsia/Bahrein"
+msgstr "Ázsia/Bahrein"
 
 msgid "Asia/Baku"
-msgstr "Ăzsia/Baku"
+msgstr "Ázsia/Baku"
 
 msgid "Asia/Bangkok"
-msgstr "Ăzsia/Bangkok"
+msgstr "Ázsia/Bangkok"
 
 msgid "Asia/Beirut"
-msgstr "Ăzsia/Bejrút"
+msgstr "Ázsia/Bejrút"
 
 msgid "Asia/Bishkek"
-msgstr "Ăzsia/Bishkek"
+msgstr "Ázsia/Bishkek"
 
 msgid "Asia/Brunei"
-msgstr "Ăzsia/Brunei"
+msgstr "Ázsia/Brunei"
 
 msgid "Asia/Calcutta"
-msgstr "Ăzsia/Calcutta"
+msgstr "Ázsia/Calcutta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Ăzsia/Calcutta"
+msgstr "Ázsia/Csojbalszán"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Ăzsia/Chungking"
+msgstr "Ázsia/Chongqing"
 
 msgid "Asia/Chungking"
-msgstr "Ăzsia/Chungking"
+msgstr "Ázsia/Chungking"
 
 msgid "Asia/Colombo"
-msgstr "Ăzsia/Colombo"
+msgstr "Ázsia/Colombo"
 
 msgid "Asia/Dacca"
-msgstr "Ăzsia/Dacca"
+msgstr "Ázsia/Dacca"
 
 msgid "Asia/Damascus"
 msgstr "Ăzsia/Damaszkusz"
 
 msgid "Asia/Dhaka"
-msgstr "Ăzsia/Dacca"
+msgstr "Ázsia/Dacca"
 
 msgid "Asia/Dili"
-msgstr "Ăzsia/Dili"
+msgstr "Ázsia/Dili"
 
 msgid "Asia/Dubai"
-msgstr "Ăzsia/Dubai"
+msgstr "Ázsia/Dubai"
 
 msgid "Asia/Dushanbe"
-msgstr "Ăzsia/Dushanbe"
+msgstr "Ázsia/Dushanbe"
 
 msgid "Asia/Gaza"
-msgstr "Ăzsia/GĂĄza"
+msgstr "Ázsia/GĂĄza"
 
 msgid "Asia/Harbin"
-msgstr "Ăzsia/Harbin"
+msgstr "Ázsia/Harbin"
 
 msgid "Asia/Hong_Kong"
-msgstr "Ăzsia/Hong_Kong"
+msgstr "Ázsia/Hong_Kong"
 
 msgid "Asia/Hovd"
-msgstr "Ăzsia/Hovd"
+msgstr "Ázsia/Hovd"
 
 msgid "Asia/Irkutsk"
-msgstr "Ăzsia/Irkutsk"
+msgstr "Ázsia/Irkutsk"
 
 msgid "Asia/Istanbul"
-msgstr "Ăzsia/Isztambul"
+msgstr "Ázsia/Isztambul"
 
 msgid "Asia/Jakarta"
-msgstr "Ăzsia/Dzsakarta"
+msgstr "Ázsia/Dzsakarta"
 
 msgid "Asia/Jayapura"
-msgstr "Ăzsia/Jayapura"
+msgstr "Ázsia/Jayapura"
 
 msgid "Asia/Jerusalem"
-msgstr "Ăzsia/Jeruzsálem"
+msgstr "Ázsia/Jeruzsálem"
 
 msgid "Asia/Kabul"
-msgstr "Ăzsia/Kabul"
+msgstr "Ázsia/Kabul"
 
 msgid "Asia/Kamchatka"
-msgstr "Ăzsia/Kamcsatka"
+msgstr "Ázsia/Kamcsatka"
 
 msgid "Asia/Karachi"
-msgstr "Ăzsia/Karachi"
+msgstr "Ázsia/Karachi"
 
 msgid "Asia/Kashgar"
-msgstr "Ăzsia/Kashgar"
+msgstr "Ázsia/Kashgar"
 
 msgid "Asia/Katmandu"
-msgstr "Ăzsia/Katmandu"
+msgstr "Ázsia/Katmandu"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "Ăzsia/Krasznojarszk"
+msgstr "Ázsia/Krasznojarszk"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Ăzsia/Kuala_Lumpur"
+msgstr "Ázsia/Kuala_Lumpur"
 
 msgid "Asia/Kuching"
-msgstr "Ăzsia/Kuching"
+msgstr "Ázsia/Kuching"
 
 msgid "Asia/Kuwait"
-msgstr "Ăzsia/Kuwait"
+msgstr "Ázsia/Kuwait"
 
 msgid "Asia/Macao"
-msgstr "Ăzsia/MakaĂł"
+msgstr "Ázsia/Makaó"
 
-#, fuzzy
 msgid "Asia/Macau"
-msgstr "Ăzsia/MakaĂł"
+msgstr "Ázsia/Macau"
 
 msgid "Asia/Magadan"
-msgstr "Ăzsia/Magadan"
+msgstr "Ázsia/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Ăzsia/Dzsakarta"
+msgstr "Ázsia/Makassar"
 
 msgid "Asia/Manila"
-msgstr "Ăzsia/Manila"
+msgstr "Ázsia/Manila"
 
 msgid "Asia/Muscat"
-msgstr "Ăzsia/Muscat"
+msgstr "Ázsia/Muscat"
 
 msgid "Asia/Nicosia"
-msgstr "Ăzsia/Nicosia"
+msgstr "Ázsia/Nicosia"
 
 msgid "Asia/Novosibirsk"
-msgstr "Ăzsia/Novoszibirszk"
+msgstr "Ázsia/Novoszibirszk"
 
 msgid "Asia/Omsk"
-msgstr "Ăzsia/Omszk"
+msgstr "Ázsia/Omszk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Ăzsia/Kabul"
+msgstr "Ázsia/Oral"
 
 msgid "Asia/Phnom_Penh"
-msgstr "Ăzsia/Phnom_Penh"
+msgstr "Ázsia/Phnom_Penh"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Ăzsia/Pyongyang"
+msgstr "Ázsia/Pontianak"
 
 msgid "Asia/Pyongyang"
-msgstr "Ăzsia/Pyongyang"
+msgstr "Ázsia/Pyongyang"
 
 msgid "Asia/Qatar"
-msgstr "Ăzsia/Katar"
+msgstr "Ázsia/Katar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Ăzsia/GĂĄza"
+msgstr "Ázsia/Qyzylorda"
 
 msgid "Asia/Rangoon"
-msgstr "Ăzsia/Rangoon"
+msgstr "Ázsia/Rangoon"
 
 msgid "Asia/Riyadh"
-msgstr "Ăzsia/Rijad"
+msgstr "Ázsia/Rijad"
 
 msgid "Asia/Riyadh87"
-msgstr "Ăzsia/Rijad87"
+msgstr "Ázsia/Rijad87"
 
 msgid "Asia/Riyadh88"
-msgstr "Ăzsia/Rijad88"
+msgstr "Ázsia/Rijad88"
 
 msgid "Asia/Riyadh89"
-msgstr "Ăzsia/Rijad89"
+msgstr "Ázsia/Rijad89"
 
 msgid "Asia/Saigon"
-msgstr "Ăzsia/Saigon"
+msgstr "Ázsia/Saigon"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Ăzsia/Bahrein"
+msgstr "Ázsia/Szahalin"
 
 msgid "Asia/Samarkand"
-msgstr "Ăzsia/Samarkand"
+msgstr "Ázsia/Samarkand"
 
 msgid "Asia/Seoul"
-msgstr "Ăzsia/Szöul"
+msgstr "Ázsia/Szöul"
 
 msgid "Asia/Shanghai"
-msgstr "Ăzsia/Sanghaj"
+msgstr "Ázsia/Sanghaj"
 
 msgid "Asia/Singapore"
-msgstr "Ăzsia/Szingapúr"
+msgstr "Ázsia/Szingapúr"
 
 msgid "Asia/Taipei"
-msgstr "Ăzsia/Tajpej"
+msgstr "Ázsia/Tajpej"
 
 msgid "Asia/Tashkent"
-msgstr "Ăzsia/Taskent"
+msgstr "Ázsia/Taskent"
 
 msgid "Asia/Tbilisi"
-msgstr "Ăzsia/Tbiliszi"
+msgstr "Ázsia/Tbiliszi"
 
 msgid "Asia/Tehran"
-msgstr "Ăzsia/Teherán"
+msgstr "Ázsia/Teherán"
 
 msgid "Asia/Tel_Aviv"
-msgstr "Ăzsia/Tel_Aviv"
+msgstr "Ázsia/Tel_Aviv"
 
 msgid "Asia/Thimbu"
-msgstr "Ăzsia/Thimbu"
+msgstr "Ázsia/Thimbu"
 
 msgid "Asia/Thimphu"
-msgstr "Ăzsia/Thimphu"
+msgstr "Ázsia/Thimphu"
 
 msgid "Asia/Tokyo"
-msgstr "Ăzsia/Tokió"
+msgstr "Ázsia/Tokió"
 
 msgid "Asia/Ujung_Pandang"
-msgstr "Ăzsia/Ujung_Pandang"
+msgstr "Ázsia/Ujung_Pandang"
 
 msgid "Asia/Ulaanbaatar"
-msgstr "Ăzsia/Ulánbátor"
+msgstr "Ázsia/Ulánbátor"
 
 msgid "Asia/Ulan_Bator"
-msgstr "Ăzsia/Ulan_Bator"
+msgstr "Ázsia/Ulan_Bator"
 
 msgid "Asia/Urumqi"
-msgstr "Ăzsia/Urumqi"
+msgstr "Ázsia/Urumqi"
 
 msgid "Asia/Vientiane"
 msgstr "Ăzsia/Vientiane"
 
 msgid "Asia/Vladivostok"
-msgstr "Ăzsia/Vlagyivosztok"
+msgstr "Ázsia/Vlagyivosztok"
 
 msgid "Asia/Yakutsk"
-msgstr "Ăzsia/Jakutszk"
+msgstr "Ázsia/Jakutszk"
 
 msgid "Asia/Yekaterinburg"
-msgstr "Ăzsia/Jekatyerinburg"
+msgstr "Ázsia/Jekatyerinburg"
 
 msgid "Asia/Yerevan"
-msgstr "Ăzsia/Jereván"
+msgstr "Ázsia/Jereván"
 
 msgid "Atlantic/Azores"
 msgstr "Atlanti_óceán/Azori_szk"
