@@ -2,13 +2,13 @@
 # Copyright (C) 1999 Free Software Foundation, Inc.
 # Mohammad DAMT <mdamt@linux.or.id>, 1999.
 # Teguh DC <dheche@brawijaya.ac.id>, 2004.
-# $Id: id.po,v 1.5 2004/09/08 12:41:19 erwiensy Exp $
+# $Id: id.po,v 1.6 2004/10/06 06:11:06 erwiensy Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ID-timezones 1.0\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-09-08 08:53-0500\n"
+"PO-Revision-Date: 2004-10-06 13:19+0700\n"
 "Last-Translator: Erwien Samantha Y <erwiensamantha@sederhana.or.id>\n"
 "Language-Team: LDP Indonesia <http://www.linux.or.id>\n"
 "MIME-Version: 1.0\n"
@@ -252,9 +252,8 @@ msgstr "Amerika/Cuiaba"
 msgid "America/Curacao"
 msgstr "Amerika/Curacao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "Amerika/Cayman"
+msgstr "Amerika/Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
@@ -274,9 +273,8 @@ msgstr "Amerika/Dominica"
 msgid "America/Edmonton"
 msgstr "Amerika/Edmonton"
 
-#, fuzzy
 msgid "America/Eirunepe"
-msgstr "Amerika/Winnipeg"
+msgstr "Amerika/Eirunepe"
 
 msgid "America/El_Salvador"
 msgstr "Amerika/El_Salvador"
@@ -323,9 +321,8 @@ msgstr "Amerika/Halifax"
 msgid "America/Havana"
 msgstr "Amerika/Havana"
 
-#, fuzzy
 msgid "America/Hermosillo"
-msgstr "Amerika/Detroit"
+msgstr "Amerika/Hermosillo"
 
 msgid "America/Indiana/Indianapolis"
 msgstr "Amerika/Indiana/Indianapolis"
@@ -471,9 +468,8 @@ msgstr "Amerika/Rainy_River"
 msgid "America/Rankin_Inlet"
 msgstr "Amerika/Rankin_Inlet"
 
-#, fuzzy
 msgid "America/Recife"
-msgstr "Amerika/Belize"
+msgstr "Amerika/Recife"
 
 msgid "America/Regina"
 msgstr "Amerika/Regina"
@@ -598,9 +594,8 @@ msgstr "Asia/Aqtau"
 msgid "Asia/Aqtobe"
 msgstr "Asia/Aqtobe"
 
-#, fuzzy
 msgid "Asia/Ashgabat"
-msgstr "Asia/Ashkhabad"
+msgstr "Asia/Ashgabat"
 
 msgid "Asia/Ashkhabad"
 msgstr "Asia/Ashkhabad"
@@ -629,13 +624,11 @@ msgstr "Asia/Brunei"
 msgid "Asia/Calcutta"
 msgstr "Asia/Kalkuta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Asia/Calcutta"
+msgstr "Asia/Choibalsan"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Asia/Chungking"
+msgstr "Asia/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Asia/Chungking"
@@ -670,9 +663,8 @@ msgstr "Asia/Harbin"
 msgid "Asia/Hong_Kong"
 msgstr "Asia/Hong_Kong"
 
-#, fuzzy
 msgid "Asia/Hovd"
-msgstr "Asia/Aden"
+msgstr "Asia/Hovd"
 
 msgid "Asia/Irkutsk"
 msgstr "Asia/Irkutsk"
@@ -719,9 +711,8 @@ msgstr "Asia/Kuwait"
 msgid "Asia/Macao"
 msgstr "Asia/Macao"
 
-#, fuzzy
 msgid "Asia/Macau"
-msgstr "Asia/Macao"
+msgstr "Asia/Makau"
 
 msgid "Asia/Magadan"
 msgstr "Asia/Magadan"
@@ -744,16 +735,14 @@ msgstr "Asia/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asia/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Asia/Kabul"
+msgstr "Asia/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asia/Phnom_Penh"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Asia/Pyongyang"
+msgstr "Asia/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Asia/Pyongyang"
@@ -761,9 +750,8 @@ msgstr "Asia/Pyongyang"
 msgid "Asia/Qatar"
 msgstr "Asia/Qatar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Asia/Gaza"
+msgstr "Asia/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Asia/Rangoon"
@@ -783,9 +771,8 @@ msgstr "Asia/Riyadh89"
 msgid "Asia/Saigon"
 msgstr "Asia/Saigon"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Asia/Bahrain"
+msgstr "Asia/Sakhalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asia/Samarkand"
@@ -817,9 +804,8 @@ msgstr "Asia/Tel_Aviv"
 msgid "Asia/Thimbu"
 msgstr "Asia/Thimbu"
 
-#, fuzzy
 msgid "Asia/Thimphu"
-msgstr "Asia/Thimbu"
+msgstr "Asia/Thimphu"
 
 msgid "Asia/Tokyo"
 msgstr "Asia/Tokyo"
@@ -827,9 +813,8 @@ msgstr "Asia/Tokyo"
 msgid "Asia/Ujung_Pandang"
 msgstr "Asia/Ujung_Pandang"
 
-#, fuzzy
 msgid "Asia/Ulaanbaatar"
-msgstr "Asia/Ulan_Bator"
+msgstr "Asia/Ulaanbaatar"
 
 msgid "Asia/Ulan_Bator"
 msgstr "Asia/Ulan_Bator"
@@ -1203,9 +1188,8 @@ msgstr "Eropa/Monako"
 msgid "Europe/Moscow"
 msgstr "Eropa/Moskow"
 
-#, fuzzy
 msgid "Europe/Nicosia"
-msgstr "Eropa/Sofia"
+msgstr "Eropa/Nicosia"
 
 msgid "Europe/Oslo"
 msgstr "Eropa/Oslo"
@@ -1249,13 +1233,11 @@ msgstr "Eropa/Tallinn"
 msgid "Europe/Tirane"
 msgstr "Eropa/Tirane"
 
-#, fuzzy
 msgid "Europe/Tiraspol"
-msgstr "Eropa/Tirane"
+msgstr "Eropa/Tiraspol"
 
-#, fuzzy
 msgid "Europe/Uzhgorod"
-msgstr "Eropa/Belgrade"
+msgstr "Eropa/Uzhgorod"
 
 msgid "Europe/Vaduz"
 msgstr "Eropa/Vaduz"
@@ -1275,9 +1257,8 @@ msgstr "Eropa/Warsawa"
 msgid "Europe/Zagreb"
 msgstr "Eropa/Zagreb"
 
-#, fuzzy
 msgid "Europe/Zaporozhye"
-msgstr "Eropa/Zagreb"
+msgstr "Eropa/Zaporozhye"
 
 msgid "Europe/Zurich"
 msgstr "Eropa/Zurich"
@@ -1288,9 +1269,8 @@ msgstr "Factory"
 msgid "GB"
 msgstr "GB"
 
-#, fuzzy
 msgid "GB-Eire"
-msgstr "Eire"
+msgstr "GB-Eire"
 
 msgid "GMT"
 msgstr "GMT"
