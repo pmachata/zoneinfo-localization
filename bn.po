@@ -286,8 +286,8 @@ msgstr "আমেরিকা/ফোর্টালেজা"
 
 msgid "America/Fort_Wayne"
 msgstr "আমেরিকা/ফোর্ট_ওয়েএন"
-#not appropriate imho
 
+# not appropriate imho
 msgid "America/Glace_Bay"
 msgstr "আমেরিকা/গ্লেস_বে"
 
@@ -341,12 +341,12 @@ msgstr "আমেরিকা/ইন্ডিয়ানা/ভিভে"
 
 msgid "America/Inuvik"
 msgstr "আমেরিকা/আইনুভিক"
-#not sure
 
+# not sure
 msgid "America/Iqaluit"
 msgstr "আমেরিকা/আইকালুইট"
-#not sure
 
+# not sure
 msgid "America/Jamaica"
 msgstr "আমেরিকা/জামাইকা"
 
@@ -1432,8 +1432,8 @@ msgstr "প্যাসিফিক/জনস্টন"
 
 msgid "Pacific/Kiritimati"
 msgstr "প্যাসিফিক/কিরিতিমাতি"
-#is this kiribati?
 
+# is this kiribati?
 msgid "Pacific/Kosrae"
 msgstr "প্যাসিফিক/কোসরে"
 
@@ -1445,8 +1445,8 @@ msgstr "প্যাসিফিক/মাজুরো"
 
 msgid "Pacific/Marquesas"
 msgstr "প্যাসিফিক/মারকিসাস"
-#not sure
 
+# not sure
 msgid "Pacific/Midway"
 msgstr "প্যাসিফিক/মিডওয়ে"
 
@@ -1590,8 +1590,8 @@ msgstr "যুক্তরাষ্ট্র/সেন্ট্রাল"
 
 msgid "US/Eastern"
 msgstr "যুক্তরাষ্ট্র/ইস্টার্ন"
-#msgstr "যুক্তরাষ্ট্র/পূর্ববর্তী"
 
+# msgstr "যুক্তরাষ্ট্র/পূর্ববর্তী"
 msgid "US/East-Indiana"
 msgstr "যুক্তরাষ্ট্র/পূর্ব-ইন্ডিয়ানা"
 
@@ -1624,4 +1624,3 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "জুলু"
-
