@@ -1,15 +1,15 @@
-# Translation of zh_TW.po to Traditional Chinese
-# This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Translation of zh_TW.po to Chinese (traditional)
+# This file is distributed under the same license as the timezones package.
+# Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
 # Ben Wu <hpwu@redhat.com>, 2002
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2002-06-11 12:51GMT+10:00\n"
+"PO-Revision-Date: 2002-06-12 16:13GMT+10:00\n"
 "Last-Translator: Ben Wu <hpwu@redhat.com>\n"
-"Language-Team: Traditional Chinese <zh@li.org>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=BIG5\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -838,785 +838,785 @@ msgid "Asia/Yerevan"
 msgstr "亞洲/葉里溫"
 
 msgid "Atlantic/Azores"
-msgstr ""
+msgstr "大西洋/亞速群島"
 
 msgid "Atlantic/Bermuda"
-msgstr ""
+msgstr "大西洋/百慕達三角洲"
 
 msgid "Atlantic/Canary"
-msgstr ""
+msgstr "大西洋/加瑪利群島"
 
 msgid "Atlantic/Cape_Verde"
-msgstr ""
+msgstr "大西洋/弗得角"
 
 msgid "Atlantic/Faeroe"
-msgstr ""
+msgstr "大西洋/法羅群島"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr ""
+msgstr "大西洋/央麥恩群島"
 
 msgid "Atlantic/Madeira"
-msgstr ""
+msgstr "大西洋/馬得拉"
 
 msgid "Atlantic/Reykjavik"
-msgstr ""
+msgstr "大西洋/雷克雅衛克"
 
 msgid "Atlantic/South_Georgia"
-msgstr ""
+msgstr "大西洋/南喬治亞"
 
 msgid "Atlantic/Stanley"
-msgstr ""
+msgstr "大西洋/史丹利"
 
 msgid "Atlantic/St_Helena"
-msgstr ""
+msgstr "大西洋/聖赫勒拿島"
 
 msgid "Australia/ACT"
-msgstr ""
+msgstr "澳洲/澳洲首府特區"
 
 msgid "Australia/Adelaide"
-msgstr ""
+msgstr "澳洲/阿得雷得"
 
 msgid "Australia/Brisbane"
-msgstr ""
+msgstr "澳洲/布里斯本"
 
 msgid "Australia/Broken_Hill"
-msgstr ""
+msgstr "澳洲/斷山"
 
 msgid "Australia/Canberra"
-msgstr ""
+msgstr "澳洲/坎培拉"
 
 msgid "Australia/Darwin"
-msgstr ""
+msgstr "澳洲/達爾文"
 
 msgid "Australia/Hobart"
-msgstr ""
+msgstr "澳洲/荷巴特"
 
 msgid "Australia/LHI"
-msgstr ""
+msgstr "澳洲/LHI"
 
 msgid "Australia/Lindeman"
-msgstr ""
+msgstr "澳洲/林得曼島"
 
 msgid "Australia/Lord_Howe"
-msgstr ""
+msgstr "澳洲/豪勛爵島"
 
 msgid "Australia/Melbourne"
-msgstr ""
+msgstr "澳洲/墨爾本"
 
 msgid "Australia/North"
-msgstr ""
+msgstr "澳洲/北領地"
 
 msgid "Australia/NSW"
-msgstr ""
+msgstr "澳洲/新南威爾斯"
 
 msgid "Australia/Perth"
-msgstr ""
+msgstr "澳洲/伯斯"
 
 msgid "Australia/Queensland"
-msgstr ""
+msgstr "澳洲/昆士蘭"
 
 msgid "Australia/South"
-msgstr ""
+msgstr "澳洲/南澳"
 
 msgid "Australia/Sydney"
-msgstr ""
+msgstr "澳洲/雪梨"
 
 msgid "Australia/Tasmania"
-msgstr ""
+msgstr "澳洲/塔斯馬尼亞"
 
 msgid "Australia/Victoria"
-msgstr ""
+msgstr "澳洲/維多利亞"
 
 msgid "Australia/West"
-msgstr ""
+msgstr "澳洲/西澳"
 
 msgid "Australia/Yancowinna"
-msgstr ""
+msgstr "澳洲/Yancowinna"
 
 msgid "Brazil/Acre"
-msgstr ""
+msgstr "巴西/Acre"
 
 msgid "Brazil/DeNoronha"
-msgstr ""
+msgstr "巴西/DeNoronha"
 
 msgid "Brazil/East"
-msgstr ""
+msgstr "巴西/東部"
 
 msgid "Brazil/West"
-msgstr ""
+msgstr "巴西/西部"
 
 msgid "Canada/Atlantic"
-msgstr ""
+msgstr "加拿大/大西洋岸四省"
 
 msgid "Canada/Central"
-msgstr ""
+msgstr "加拿大/中部"
 
 msgid "Canada/Eastern"
-msgstr ""
+msgstr "加拿大/東部"
 
 msgid "Canada/East-Saskatchewan"
-msgstr ""
+msgstr "加拿大/東薩斯克其萬"
 
 msgid "Canada/Mountain"
-msgstr ""
+msgstr "加拿大/高山地區"
 
 msgid "Canada/Newfoundland"
-msgstr ""
+msgstr "加拿大/紐芬蘭省"
 
 msgid "Canada/Pacific"
-msgstr ""
+msgstr "加拿大/太平洋沿岸"
 
 msgid "Canada/Saskatchewan"
-msgstr ""
+msgstr "加拿大/薩斯克其萬"
 
 msgid "Canada/Yukon"
-msgstr ""
+msgstr "加拿大/育空地區"
 
 msgid "CET"
-msgstr ""
+msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr ""
+msgstr "智利/大陸"
 
 msgid "Chile/EasterIsland"
-msgstr ""
+msgstr "智利/復活節島"
 
 msgid "CST6CDT"
-msgstr ""
+msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr ""
+msgstr "古巴"
 
 msgid "EET"
-msgstr ""
+msgstr "EET"
 
 msgid "Egypt"
-msgstr ""
+msgstr "埃及"
 
 msgid "Eire"
-msgstr ""
+msgstr "愛爾蘭"
 
 msgid "EST"
-msgstr ""
+msgstr "EST"
 
 msgid "EST5EDT"
-msgstr ""
+msgstr "EST5EDT"
 
 msgid "Etc/GMT"
-msgstr ""
+msgstr "Etc/GMT"
 
 msgid "Etc/GMT0"
-msgstr ""
+msgstr "Etc/GMT0"
 
 msgid "Etc/GMT-0"
-msgstr ""
+msgstr "Etc/GMT-0"
 
 msgid "Etc/GMT+0"
-msgstr ""
+msgstr "Etc/GMT+0"
 
 msgid "Etc/GMT-1"
-msgstr ""
+msgstr "Etc/GMT-1"
 
 msgid "Etc/GMT+1"
-msgstr ""
+msgstr "Etc/GMT+1"
 
 msgid "Etc/GMT-10"
-msgstr ""
+msgstr "Etc/GMT-10"
 
 msgid "Etc/GMT+10"
-msgstr ""
+msgstr "Etc/GMT+10"
 
 msgid "Etc/GMT-11"
-msgstr ""
+msgstr "Etc/GMT-11"
 
 msgid "Etc/GMT+11"
-msgstr ""
+msgstr "Etc/GMT+11"
 
 msgid "Etc/GMT-12"
-msgstr ""
+msgstr "Etc/GMT-12"
 
 msgid "Etc/GMT+12"
-msgstr ""
+msgstr "Etc/GMT+12"
 
 msgid "Etc/GMT-13"
-msgstr ""
+msgstr "Etc/GMT-13"
 
 msgid "Etc/GMT-14"
-msgstr ""
+msgstr "Etc/GMT-14"
 
 msgid "Etc/GMT-2"
-msgstr ""
+msgstr "Etc/GMT-2"
 
 msgid "Etc/GMT+2"
-msgstr ""
+msgstr "Etc/GMT+2"
 
 msgid "Etc/GMT-3"
-msgstr ""
+msgstr "Etc/GMT-3"
 
 msgid "Etc/GMT+3"
-msgstr ""
+msgstr "Etc/GMT+3"
 
 msgid "Etc/GMT-4"
-msgstr ""
+msgstr "Etc/GMT-4"
 
 msgid "Etc/GMT+4"
-msgstr ""
+msgstr "Etc/GMT+4"
 
 msgid "Etc/GMT-5"
-msgstr ""
+msgstr "Etc/GMT-5"
 
 msgid "Etc/GMT+5"
-msgstr ""
+msgstr "Etc/GMT+5"
 
 msgid "Etc/GMT-6"
-msgstr ""
+msgstr "Etc/GMT-6"
 
 msgid "Etc/GMT+6"
-msgstr ""
+msgstr "Etc/GMT+6"
 
 msgid "Etc/GMT-7"
-msgstr ""
+msgstr "Etc/GMT-7"
 
 msgid "Etc/GMT+7"
-msgstr ""
+msgstr "Etc/GMT+7"
 
 msgid "Etc/GMT-8"
-msgstr ""
+msgstr "Etc/GMT-8"
 
 msgid "Etc/GMT+8"
-msgstr ""
+msgstr "Etc/GMT+8"
 
 msgid "Etc/GMT-9"
-msgstr ""
+msgstr "Etc/GMT-9"
 
 msgid "Etc/GMT+9"
-msgstr ""
+msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr ""
+msgstr "Etc/格林威治"
 
 msgid "Etc/UCT"
-msgstr ""
+msgstr "Etc/UCT"
 
 msgid "Etc/Universal"
-msgstr ""
+msgstr "Etc/Universal"
 
 msgid "Etc/UTC"
-msgstr ""
+msgstr "Etc/UTC"
 
 msgid "Etc/Zulu"
-msgstr ""
+msgstr "Etc/祖魯"
 
 msgid "Europe/Amsterdam"
-msgstr ""
+msgstr "歐洲/阿姆斯特丹"
 
 msgid "Europe/Andorra"
-msgstr ""
+msgstr "歐洲/安道爾"
 
 msgid "Europe/Athens"
-msgstr ""
+msgstr "歐洲/雅典"
 
 msgid "Europe/Belfast"
-msgstr ""
+msgstr "歐洲/貝爾法斯特"
 
 msgid "Europe/Belgrade"
-msgstr ""
+msgstr "歐洲/貝爾格勒"
 
 msgid "Europe/Berlin"
-msgstr ""
+msgstr "歐洲/柏林"
 
 msgid "Europe/Bratislava"
-msgstr ""
+msgstr "歐洲/布拉提斯拉瓦"
 
 msgid "Europe/Brussels"
-msgstr ""
+msgstr "歐洲/布魯塞爾"
 
 msgid "Europe/Bucharest"
-msgstr ""
+msgstr "歐洲/布加勒斯特"
 
 msgid "Europe/Budapest"
-msgstr ""
+msgstr "歐洲/布達佩斯"
 
 msgid "Europe/Chisinau"
-msgstr ""
+msgstr "歐洲/基西紐"
 
 msgid "Europe/Copenhagen"
-msgstr ""
+msgstr "歐洲/哥本哈根"
 
 msgid "Europe/Dublin"
-msgstr ""
+msgstr "歐洲/都柏林"
 
 msgid "Europe/Gibraltar"
-msgstr ""
+msgstr "歐洲/直布羅陀"
 
 msgid "Europe/Helsinki"
-msgstr ""
+msgstr "歐洲/赫爾辛基"
 
 msgid "Europe/Istanbul"
-msgstr ""
+msgstr "歐洲/伊斯坦堡"
 
 msgid "Europe/Kaliningrad"
-msgstr ""
+msgstr "歐洲/加里寧格勒"
 
 msgid "Europe/Kiev"
-msgstr ""
+msgstr "歐洲/基輔"
 
 msgid "Europe/Lisbon"
-msgstr ""
+msgstr "歐洲/里斯本"
 
 msgid "Europe/Ljubljana"
-msgstr ""
+msgstr "歐洲/盧布亞納"
 
 msgid "Europe/London"
-msgstr ""
+msgstr "歐洲/倫敦"
 
 msgid "Europe/Luxembourg"
-msgstr ""
+msgstr "歐洲/盧森堡"
 
 msgid "Europe/Madrid"
-msgstr ""
+msgstr "歐洲/馬德里"
 
 msgid "Europe/Malta"
-msgstr ""
+msgstr "歐洲/馬爾他"
 
 msgid "Europe/Minsk"
-msgstr ""
+msgstr "歐洲/明斯克"
 
 msgid "Europe/Monaco"
-msgstr ""
+msgstr "歐洲/摩納哥"
 
 msgid "Europe/Moscow"
-msgstr ""
+msgstr "歐洲/莫斯科"
 
 msgid "Europe/Nicosia"
-msgstr ""
+msgstr "歐洲/尼科西亞"
 
 msgid "Europe/Oslo"
-msgstr ""
+msgstr "歐洲/奧斯陸"
 
 msgid "Europe/Paris"
-msgstr ""
+msgstr "歐洲/巴黎"
 
 msgid "Europe/Prague"
-msgstr ""
+msgstr "歐洲/布拉格"
 
 msgid "Europe/Riga"
-msgstr ""
+msgstr "歐洲/里加"
 
 msgid "Europe/Rome"
-msgstr ""
+msgstr "歐洲/羅馬"
 
 msgid "Europe/Samara"
-msgstr ""
+msgstr "歐洲/薩瑪羅"
 
 msgid "Europe/San_Marino"
-msgstr ""
+msgstr "歐洲/聖馬利諾"
 
 msgid "Europe/Sarajevo"
-msgstr ""
+msgstr "歐洲/塞拉耶佛"
 
 msgid "Europe/Simferopol"
-msgstr ""
+msgstr "歐洲/新貝羅波爾"
 
 msgid "Europe/Skopje"
-msgstr ""
+msgstr "歐洲/斯科普里"
 
 msgid "Europe/Sofia"
-msgstr ""
+msgstr "歐洲/蘇菲亞"
 
 msgid "Europe/Stockholm"
-msgstr ""
+msgstr "歐洲/斯德哥爾摩"
 
 msgid "Europe/Tallinn"
-msgstr ""
+msgstr "歐洲/塔林"
 
 msgid "Europe/Tirane"
-msgstr ""
+msgstr "歐洲/地拉那"
 
 msgid "Europe/Tiraspol"
-msgstr ""
+msgstr "歐洲/蒂拉斯博"
 
 msgid "Europe/Uzhgorod"
-msgstr ""
+msgstr "歐洲/Uzhgorod"
 
 msgid "Europe/Vaduz"
-msgstr ""
+msgstr "歐洲/瓦都茲"
 
 msgid "Europe/Vatican"
-msgstr ""
+msgstr "歐洲/梵蒂岡"
 
 msgid "Europe/Vienna"
-msgstr ""
+msgstr "歐洲/維也納"
 
 msgid "Europe/Vilnius"
-msgstr ""
+msgstr "歐洲/維爾紐斯"
 
 msgid "Europe/Warsaw"
-msgstr ""
+msgstr "歐洲/華沙"
 
 msgid "Europe/Zagreb"
-msgstr ""
+msgstr "歐洲/札格列柏"
 
 msgid "Europe/Zaporozhye"
-msgstr ""
+msgstr "歐洲/Zaporozhye"
 
 msgid "Europe/Zurich"
-msgstr ""
+msgstr "歐洲/蘇黎世"
 
 msgid "Factory"
-msgstr ""
+msgstr "原廠設定"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "GB-Eire"
-msgstr ""
+msgstr "GB-Eire"
 
 msgid "GMT"
-msgstr ""
+msgstr "GMT"
 
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 msgid "GMT-0"
-msgstr ""
+msgstr "GMT-0"
 
 msgid "GMT+0"
-msgstr ""
+msgstr "GMT+0"
 
 msgid "Greenwich"
-msgstr ""
+msgstr "格林威治"
 
 msgid "Hongkong"
-msgstr ""
+msgstr "香港"
 
 msgid "HST"
-msgstr ""
+msgstr "HST"
 
 msgid "Iceland"
-msgstr ""
+msgstr "冰島"
 
 msgid "Indian/Antananarivo"
-msgstr ""
+msgstr "印度洋/安塔那那利佛"
 
 msgid "Indian/Chagos"
-msgstr ""
+msgstr "印度洋/查哥斯群島"
 
 msgid "Indian/Christmas"
-msgstr ""
+msgstr "印度洋/聖誕島"
 
 msgid "Indian/Cocos"
-msgstr ""
+msgstr "印度洋/澳大利亞群島"
 
 msgid "Indian/Comoro"
-msgstr ""
+msgstr "印度洋/科摩倫群島"
 
 msgid "Indian/Kerguelen"
-msgstr ""
+msgstr "印度洋/克華倫島"
 
 msgid "Indian/Mahe"
-msgstr ""
+msgstr "印度洋/馬希島"
 
 msgid "Indian/Maldives"
-msgstr ""
+msgstr "印度洋/馬爾地夫"
 
 msgid "Indian/Mauritius"
-msgstr ""
+msgstr "印度洋/模里西斯"
 
 msgid "Indian/Mayotte"
-msgstr ""
+msgstr "印度洋/馬約特島"
 
 msgid "Indian/Reunion"
-msgstr ""
+msgstr "印度洋/留尼旺島"
 
 msgid "Iran"
-msgstr ""
+msgstr "伊朗"
 
 msgid "Israel"
-msgstr ""
+msgstr "以色列"
 
 msgid "Jamaica"
-msgstr ""
+msgstr "牙買加"
 
 msgid "Japan"
-msgstr ""
+msgstr "日本"
 
 msgid "Kwajalein"
-msgstr ""
+msgstr "瓜加林島"
 
 msgid "Libya"
-msgstr ""
+msgstr "利比亞"
 
 msgid "MET"
-msgstr ""
+msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr ""
+msgstr "墨西哥/Baja Norte"
 
 msgid "Mexico/BajaSur"
-msgstr ""
+msgstr "墨西哥/BajaSur"
 
 msgid "Mexico/General"
-msgstr ""
+msgstr "墨西哥/General"
 
 msgid "Mideast/Riyadh87"
-msgstr ""
+msgstr "中東/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr ""
+msgstr "中東/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr ""
+msgstr "中東/Riyadh89"
 
 msgid "MST"
-msgstr ""
+msgstr "MST"
 
 msgid "MST7MDT"
-msgstr ""
+msgstr "MST7MDT"
 
 msgid "Navajo"
-msgstr ""
+msgstr "那瓦荷"
 
 msgid "NZ"
-msgstr ""
+msgstr "NZ"
 
 msgid "NZ-CHAT"
-msgstr ""
+msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr ""
+msgstr "太平洋/奧克蘭"
 
 msgid "Pacific/Auckland"
-msgstr ""
+msgstr "太平洋/奧克蘭"
 
 msgid "Pacific/Chatham"
-msgstr ""
+msgstr "太平洋/卡森"
 
 msgid "Pacific/Easter"
-msgstr ""
+msgstr "太平洋/復活島"
 
 msgid "Pacific/Efate"
-msgstr ""
+msgstr "太平洋/艾法特"
 
 msgid "Pacific/Enderbury"
-msgstr ""
+msgstr "太平洋/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr ""
+msgstr "太平洋/法考福"
 
 msgid "Pacific/Fiji"
-msgstr ""
+msgstr "太平洋/斐濟"
 
 msgid "Pacific/Funafuti"
-msgstr ""
+msgstr "太平洋/富那富提"
 
 msgid "Pacific/Galapagos"
-msgstr ""
+msgstr "太平洋/加拉帕哥"
 
 msgid "Pacific/Gambier"
-msgstr ""
+msgstr "太平洋/甘比爾"
 
 msgid "Pacific/Guadalcanal"
-msgstr ""
+msgstr "太平洋/瓜達康那爾島"
 
 msgid "Pacific/Guam"
-msgstr ""
+msgstr "太平洋/關島"
 
 msgid "Pacific/Honolulu"
-msgstr ""
+msgstr "太平洋/檀香山"
 
 msgid "Pacific/Johnston"
-msgstr ""
+msgstr "太平洋/詹斯頓島"
 
 msgid "Pacific/Kiritimati"
-msgstr ""
+msgstr "太平洋/Kiritimati"
 
 msgid "Pacific/Kosrae"
-msgstr ""
+msgstr "太平洋/庫賽埃島"
 
 msgid "Pacific/Kwajalein"
-msgstr ""
+msgstr "太平洋/瓜加林島"
 
 msgid "Pacific/Majuro"
-msgstr ""
+msgstr "太平洋/馬朱諾"
 
 msgid "Pacific/Marquesas"
-msgstr ""
+msgstr "太平洋/馬克薩斯群島"
 
 msgid "Pacific/Midway"
-msgstr ""
+msgstr "太平洋/中途島"
 
 msgid "Pacific/Nauru"
-msgstr ""
+msgstr "太平洋/諾魯"
 
 msgid "Pacific/Niue"
-msgstr ""
+msgstr "太平洋/紐鄂島"
 
 msgid "Pacific/Norfolk"
-msgstr ""
+msgstr "太平洋/諾福克群島"
 
 msgid "Pacific/Noumea"
-msgstr ""
+msgstr "太平洋/努美阿"
 
 msgid "Pacific/Pago_Pago"
-msgstr ""
+msgstr "太平洋/帕果帕果"
 
 msgid "Pacific/Palau"
-msgstr ""
+msgstr "太平洋/帛琉"
 
 msgid "Pacific/Pitcairn"
-msgstr ""
+msgstr "太平洋/皮特凱恩島"
 
 msgid "Pacific/Ponape"
-msgstr ""
+msgstr "太平洋/波納佩"
 
 msgid "Pacific/Port_Moresby"
-msgstr ""
+msgstr "太平洋/莫士比港市"
 
 msgid "Pacific/Rarotonga"
-msgstr ""
+msgstr "太平洋/拉洛東加"
 
 msgid "Pacific/Saipan"
-msgstr ""
+msgstr "太平洋/塞班島"
 
 msgid "Pacific/Samoa"
-msgstr ""
+msgstr "太平洋/薩摩亞"
 
 msgid "Pacific/Tahiti"
-msgstr ""
+msgstr "太平洋/大溪地"
 
 msgid "Pacific/Tarawa"
-msgstr ""
+msgstr "太平洋/塔拉瓦"
 
 msgid "Pacific/Tongatapu"
-msgstr ""
+msgstr "太平洋/東加大埔"
 
 msgid "Pacific/Truk"
-msgstr ""
+msgstr "太平洋/特魯克"
 
 msgid "Pacific/Wake"
-msgstr ""
+msgstr "太平洋/威克島"
 
 msgid "Pacific/Wallis"
-msgstr ""
+msgstr "太平洋/瓦利斯群島"
 
 msgid "Pacific/Yap"
-msgstr ""
+msgstr "太平洋/密國雅普"
 
 msgid "Poland"
-msgstr ""
+msgstr "波蘭"
 
 msgid "Portugal"
-msgstr ""
+msgstr "葡萄牙"
 
 msgid "PRC"
-msgstr ""
+msgstr "中國"
 
 msgid "PST8PDT"
-msgstr ""
+msgstr "PST8PDT"
 
 msgid "ROC"
-msgstr ""
+msgstr "中華民國"
 
 msgid "ROK"
-msgstr ""
+msgstr "南韓共和國"
 
 msgid "Singapore"
-msgstr ""
+msgstr "新加坡"
 
 msgid "SystemV/AST4"
-msgstr ""
+msgstr "SystemV/AST4"
 
 msgid "SystemV/AST4ADT"
-msgstr ""
+msgstr "SystemV/AST4ADT"
 
 msgid "SystemV/CST6"
-msgstr ""
+msgstr "SystemV/CST6"
 
 msgid "SystemV/CST6CDT"
-msgstr ""
+msgstr "SystemV/CST6CDT"
 
 msgid "SystemV/EST5"
-msgstr ""
+msgstr "SystemV/EST5"
 
 msgid "SystemV/EST5EDT"
-msgstr ""
+msgstr "SystemV/EST5EDT"
 
 msgid "SystemV/HST10"
-msgstr ""
+msgstr "SystemV/HST10"
 
 msgid "SystemV/MST7"
-msgstr ""
+msgstr "SystemV/MST7"
 
 msgid "SystemV/MST7MDT"
-msgstr ""
+msgstr "SystemV/MST7MDT"
 
 msgid "SystemV/PST8"
-msgstr ""
+msgstr "SystemV/PST8"
 
 msgid "SystemV/PST8PDT"
-msgstr ""
+msgstr "SystemV/PST8PDT"
 
 msgid "SystemV/YST9"
-msgstr ""
+msgstr "SystemV/YST9"
 
 msgid "SystemV/YST9YDT"
-msgstr ""
+msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
-msgstr ""
+msgstr "土耳其"
 
 msgid "UCT"
-msgstr ""
+msgstr "UCT"
 
 msgid "Universal"
-msgstr ""
+msgstr "全球"
 
 msgid "US/Alaska"
-msgstr ""
+msgstr "美國/阿拉斯加"
 
 msgid "US/Aleutian"
-msgstr ""
+msgstr "美國/阿留申群島"
 
 msgid "US/Arizona"
-msgstr ""
+msgstr "美國/亞力桑那"
 
 msgid "US/Central"
-msgstr ""
+msgstr "美國/中部"
 
 msgid "US/Eastern"
-msgstr ""
+msgstr "美國/東部"
 
 msgid "US/East-Indiana"
-msgstr ""
+msgstr "美國/東印地安納"
 
 msgid "US/Hawaii"
-msgstr ""
+msgstr "美國/夏威夷"
 
 msgid "US/Indiana-Starke"
-msgstr ""
+msgstr "美國/Indiana-Starke"
 
 msgid "US/Michigan"
-msgstr ""
+msgstr "美國/密西根"
 
 msgid "US/Mountain"
-msgstr ""
+msgstr "美國/高山地區"
 
 msgid "US/Pacific"
-msgstr ""
+msgstr "美國/太平洋沿岸"
 
 msgid "US/Samoa"
-msgstr ""
+msgstr "美國/薩摩亞"
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "WET"
-msgstr ""
+msgstr "WET"
 
 msgid "W-SU"
-msgstr ""
+msgstr "W-SU"
 
 msgid "Zulu"
-msgstr ""
+msgstr "祖魯"
 
