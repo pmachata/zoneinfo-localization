@@ -6,7 +6,7 @@ msgstr ""
 "Last-Translator: Kjartan Maraas <kmaraas@gnu.org>\n"
 "Language-Team: Norwegian <no@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
 msgid "Africa/Abidjan"
@@ -283,7 +283,7 @@ msgid "America/Glace_Bay"
 msgstr "Amerika/Glace_Bay"
 
 msgid "America/Godthab"
-msgstr "Amerika/Kapp_det_gode_håp"
+msgstr "Amerika/Kapp_det_gode_hÃ¥p"
 
 msgid "America/Goose_Bay"
 msgstr "Amerika/Goose_Bay"
@@ -802,13 +802,13 @@ msgid "Atlantic/Bermuda"
 msgstr "Atlanterhavet/Bermuda"
 
 msgid "Atlantic/Canary"
-msgstr "Atlanterhavet/Kanariøyene"
+msgstr "Atlanterhavet/KanariÃ¸yene"
 
 msgid "Atlantic/Cape_Verde"
 msgstr "Atlanterhavet/Kapp_Verde"
 
 msgid "Atlantic/Faeroe"
-msgstr "Atlanterhavet/Færøyene"
+msgstr "Atlanterhavet/FÃ¦rÃ¸yene"
 
 msgid "Atlantic/Jan_Mayen"
 msgstr "Atlanterhavet/Jan_Mayen"
@@ -898,7 +898,7 @@ msgid "Brazil/DeNoronha"
 msgstr "Brasil/DeNoronha"
 
 msgid "Brazil/East"
-msgstr "Brasil/Øst"
+msgstr "Brasil/Ã˜st"
 
 msgid "Brazil/West"
 msgstr "Brasil/Vest"
@@ -910,10 +910,10 @@ msgid "Canada/Central"
 msgstr "Kanada/Sentral"
 
 msgid "Canada/Eastern"
-msgstr "Kanada/Østlig"
+msgstr "Kanada/Ã˜stlig"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "Kanada/Øst-Saskatchewan"
+msgstr "Kanada/Ã˜st-Saskatchewan"
 
 msgid "Canada/Mountain"
 msgstr "Kanada/Mountain"
@@ -937,7 +937,7 @@ msgid "Chile/Continental"
 msgstr "Chile/Kontinental"
 
 msgid "Chile/EasterIsland"
-msgstr "Chile/Påskeøya"
+msgstr "Chile/PÃ¥skeÃ¸ya"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -1099,7 +1099,7 @@ msgid "Europe/Chisinau"
 msgstr "Europa/Chisinau"
 
 msgid "Europe/Copenhagen"
-msgstr "Europa/København"
+msgstr "Europa/KÃ¸benhavn"
 
 msgid "Europe/Dublin"
 msgstr "Europa/Dublin"
@@ -1318,13 +1318,13 @@ msgid "Mexico/General"
 msgstr "Mexico/Generell"
 
 msgid "Mideast/Riyadh87"
-msgstr "Midt-østen/Riyadh87"
+msgstr "Midt-Ã¸sten/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr "Midt-østen/Riyadh88"
+msgstr "Midt-Ã¸sten/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr "Midt-østen/Riyadh89"
+msgstr "Midt-Ã¸sten/Riyadh89"
 
 msgid "MST"
 msgstr "MST"
@@ -1543,10 +1543,10 @@ msgid "US/Central"
 msgstr "US/Sentral"
 
 msgid "US/Eastern"
-msgstr "US/Øst"
+msgstr "US/Ã˜st"
 
 msgid "US/East-Indiana"
-msgstr "US/Øst-Indiana"
+msgstr "US/Ã˜st-Indiana"
 
 msgid "US/Hawaii"
 msgstr "US/Hawaii"
