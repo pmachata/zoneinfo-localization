@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2001-02-18 18:32+00:00\n"
+"PO-Revision-Date: 2004-03-16 10:52+0000\n"
 "Last-Translator: Pedro Morais <morais@poli.org>\n"
 "Language-Team: pt <morais@poli.org>\n"
 "MIME-Version: 1.0\n"
@@ -249,9 +249,8 @@ msgstr "América/Cuiaba"
 msgid "America/Curacao"
 msgstr "América/Curacao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "América/Cayman"
+msgstr "América/Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "América/Dawson"
@@ -430,9 +429,8 @@ msgstr "América/Nome"
 msgid "America/Noronha"
 msgstr "América/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "América/Fort_Wayne"
+msgstr "América/Dakota do Norte/Centro"
 
 msgid "America/Panama"
 msgstr "América/Panama"
@@ -473,9 +471,8 @@ msgstr "America/Recife"
 msgid "America/Regina"
 msgstr "América/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "América/Curacao"
+msgstr "América/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "América/Rosario"
@@ -570,9 +567,8 @@ msgstr "Antárctica/South_Pole"
 msgid "Antarctica/Syowa"
 msgstr "Antárctica/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antárctica/Mawson"
+msgstr "Antárctica/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Árctico/Longyearbyen"
@@ -625,13 +621,11 @@ msgstr "Ásia/Brunei"
 msgid "Asia/Calcutta"
 msgstr "Ásia/Calcutta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Ásia/Calcutta"
+msgstr "Ásia/Choibalsan"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Ásia/Chungking"
+msgstr "Ásia/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Ásia/Chungking"
@@ -714,16 +708,14 @@ msgstr "Ásia/Kuwait"
 msgid "Asia/Macao"
 msgstr "Ásia/Macao"
 
-#, fuzzy
 msgid "Asia/Macau"
-msgstr "Ásia/Macao"
+msgstr "Ásia/Macau"
 
 msgid "Asia/Magadan"
 msgstr "Ásia/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Ásia/Jakarta"
+msgstr "Ásia/Makassar"
 
 msgid "Asia/Manila"
 msgstr "Ásia/Manila"
@@ -740,16 +732,14 @@ msgstr "Ásia/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Ásia/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Ásia/Kabul"
+msgstr "Ásia/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Ásia/Phnom_Penh"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Ásia/Pyongyang"
+msgstr "Ásia/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Ásia/Pyongyang"
@@ -757,9 +747,8 @@ msgstr "Ásia/Pyongyang"
 msgid "Asia/Qatar"
 msgstr "Ásia/Qatar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Ásia/Gaza"
+msgstr "Ásia/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Ásia/Rangoon"
@@ -779,9 +768,8 @@ msgstr "Ásia/Riyadh89"
 msgid "Asia/Saigon"
 msgstr "Ásia/Saigon"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Ásia/Bahrain"
+msgstr "Ásia/Sakhalin"
 
 msgid "Asia/Samarkand"
 msgstr "Ásia/Samarkand"
