@@ -1,14 +1,123 @@
+# Claus Hindsgaul <claus_h@image.dk>, 2001
+# Keld Simonsen <keld@dkuug.dk>, 2002
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones unknown\n"
-"POT-Creation-Date: 2001-01-25 15:49-0500\n"
-"PO-Revision-Date: 2001-02-21 22:34GMT\n"
-"Last-Translator: Claus Hindsgaul <claus_h@image.dk>\n"
+"Project-Id-Version: timeconfig Redhat 6.1\n"
+"POT-Creation-Date: 2002-08-21 23:26-0400\n"
+"PO-Revision-Date: 2002-08-22 22:34+0200\n"
+"Last-Translator: Keld Simonsen <keld@dkuug.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.8\n"
+
+#: ../timeconfig.c:46
+msgid "Hardware clock set to GMT"
+msgstr "Maskinur sat til GMT"
+
+#: ../timeconfig.c:50
+msgid "Hardware clock uses ARC time (not UX/Ruffian)"
+msgstr "Maskinur er sat til ARC-tid (ikke UX/Ruffian)"
+
+#: ../timeconfig.c:61
+msgid "cannot scan /usr/share/zoneinfo for timezones"
+msgstr "kan ikke skanne /usr/share/zoneinfo for tidszoner"
+
+#: ../timeconfig.c:81
+msgid "Ok"
+msgstr "O.k."
+
+#: ../timeconfig.c:82
+msgid "Back"
+msgstr "Tilbage"
+
+#: ../timeconfig.c:82
+msgid "Cancel"
+msgstr "Annullér"
+
+#: ../timeconfig.c:87
+msgid "Format machine time is stored in:"
+msgstr "Format som maskintid gemmes i:"
+
+#: ../timeconfig.c:101
+msgid "Configure Timezones"
+msgstr "Indstil tidszoner"
+
+#: ../timeconfig.c:128
+#, c-format
+msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
+msgstr "%s: forkert antal anførselstegn i linie %d i /etc/sysconfig/clock\n"
+
+#: ../timeconfig.c:157
+#, c-format
+msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
+msgstr "%s: kan ikke åbne /etc/sysconfig/clock: %s\n"
+
+#: ../timeconfig.c:226
+#, c-format
+msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
+msgstr "%s: uventet linie %d i /etc/sysconfig/clock:\n"
+
+#: ../timeconfig.c:235
+#, c-format
+msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
+msgstr "%s: kan ikke læse /etc/sysconfig/clock: %s\n"
+
+#: ../timeconfig.c:275
+#, c-format
+msgid "%s: bad argument %s: %s\n"
+msgstr "%s: forkert argument %s: %s\n"
+
+#: ../timeconfig.c:283
+#, c-format
+msgid "%s: only one argument (the timezone) may be used\n"
+msgstr "%s: kun ét argument (tidszonen) må bruges\n"
+
+#: ../timeconfig.c:291
+#, c-format
+msgid "%s: can only be run as root\n"
+msgstr "%s: kan kun køres som administrator (root)\n"
+
+#: ../timeconfig.c:297
+#, c-format
+msgid "%s: critical error reading /etc/sysconfig/clock"
+msgstr "%s: kritisk fejl ved læsning af /etc/sysconfig/clock"
+
+#: ../timeconfig.c:314
+#, c-format
+msgid "%s: critical error reading /etc/localtime: %s\n"
+msgstr "%s: kritisk fejl ved læsning af /etc/localtime: %s\n"
+
+#: ../timeconfig.c:322
+#, c-format
+msgid "%s: /etc/localtime points to unknown timezone %s\n"
+msgstr "%s: /etc/localtime peger på ukendt tidszone %s\n"
+
+#: ../timeconfig.c:323
+#, c-format
+msgid "%s: current value will be ignored\n"
+msgstr "%s: nuværende værdi vil blive ignoreret\n"
+
+#: ../timeconfig.c:335
+msgid ""
+"  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next screen"
+msgstr ""
+" <Tab>/<Alt-Tab> imellem elementer  |  <Mellemrum> vælg  |  <F12> næste side"
+
+#: ../timeconfig.c:361
+#, c-format
+msgid "%s: failed to make /etc/localtime: %s"
+msgstr "%s: kunne ikke oprette /etc/localtime: %s"
+
+#: ../timeconfig.c:369
+#, c-format
+msgid "%s: failed to make /etc/sysconfig/clock: %s"
+msgstr "%s: kunne ikke oprette /etc/sysconfig/clock: %s"
+
+#: ../timeconfig.c:389
+#, c-format
+msgid "%s: failed to write to /etc/sysconfig/clock: %s"
+msgstr "%s: kunne ikke skrive til /etc/sysconfig/clock: %s"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
@@ -20,7 +129,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Addis_Ababa"
 
 msgid "Africa/Algiers"
-msgstr "Afrika/Algiers"
+msgstr "Afrika/Algier"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -203,7 +312,7 @@ msgid "America/Boa_Vista"
 msgstr "Amerika/Boa_Vista"
 
 msgid "America/Bogota"
-msgstr "Amerika/Bogot�"
+msgstr "Amerika/Bogotá"
 
 msgid "America/Boise"
 msgstr "Amerika/Boise"
@@ -247,6 +356,9 @@ msgstr "Amerika/Cuiaba"
 msgid "America/Curacao"
 msgstr "Amerika/Curacao"
 
+msgid "America/Danmarkshavn"
+msgstr "Amerika/Danmarkshavn"
+
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
 
@@ -284,7 +396,7 @@ msgid "America/Glace_Bay"
 msgstr "Amerika/Glace_Bay"
 
 msgid "America/Godthab"
-msgstr "Amerika/Godthab"
+msgstr "Amerika/Godthåb"
 
 msgid "America/Goose_Bay"
 msgstr "Amerika/Goose_Bay"
@@ -424,6 +536,9 @@ msgstr "Amerika/Nome"
 msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
+msgid "America/North_Dakota/Center"
+msgstr "Amerika/North_Dakota/Center"
+
 msgid "America/Panama"
 msgstr "Amerika/Panama"
 
@@ -462,6 +577,9 @@ msgstr "Amerika/Recife"
 
 msgid "America/Regina"
 msgstr "Amerika/Regina"
+
+msgid "America/Rio_Branco"
+msgstr "Amerika/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "Amerika/Rosario"
@@ -556,6 +674,9 @@ msgstr "Antarktis/South_Pole"
 msgid "Antarctica/Syowa"
 msgstr "Antarktis/Syowa"
 
+msgid "Antarctica/Vostok"
+msgstr "Antarktis/Vostok"
+
 msgid "Arctic/Longyearbyen"
 msgstr "Arktis/Longyearbyen"
 
@@ -606,6 +727,12 @@ msgstr "Asien/Brunei"
 
 msgid "Asia/Calcutta"
 msgstr "Asien/Calcutta"
+
+msgid "Asia/Choibalsan"
+msgstr "Asien/Choibalsan"
+
+msgid "Asia/Chongqing"
+msgstr "Asien/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Asien/Chungking"
@@ -688,8 +815,14 @@ msgstr "Asien/Kuwait"
 msgid "Asia/Macao"
 msgstr "Asien/Macao"
 
+msgid "Asia/Macau"
+msgstr "Asien/Macau"
+
 msgid "Asia/Magadan"
 msgstr "Asien/Magadan"
+
+msgid "Asia/Makassar"
+msgstr "Asien/Makassar"
 
 msgid "Asia/Manila"
 msgstr "Asien/Manila"
@@ -706,14 +839,23 @@ msgstr "Asien/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asien/Omsk"
 
+msgid "Asia/Oral"
+msgstr "Asien/Oral"
+
 msgid "Asia/Phnom_Penh"
 msgstr "Asien/Phnom_Penh"
+
+msgid "Asia/Pontianak"
+msgstr "Asien/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Asien/Pyongyang"
 
 msgid "Asia/Qatar"
 msgstr "Asien/Qatar"
+
+msgid "Asia/Qyzylorda"
+msgstr "Asien/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Asien/Rangoon"
@@ -732,6 +874,9 @@ msgstr "Asien/Riyadh89"
 
 msgid "Asia/Saigon"
 msgstr "Asien/Saigon"
+
+msgid "Asia/Sakhalin"
+msgstr "Asien/Sakhalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asien/Samarkand"
@@ -791,7 +936,7 @@ msgid "Asia/Yakutsk"
 msgstr "Asien/Yakutsk"
 
 msgid "Asia/Yekaterinburg"
-msgstr "Asien/Yekaterinburg"
+msgstr "Asien/Jekaterineburg"
 
 msgid "Asia/Yerevan"
 msgstr "Asien/Jerevan"
@@ -803,13 +948,13 @@ msgid "Atlantic/Bermuda"
 msgstr "Atlanterhav/Bermuda"
 
 msgid "Atlantic/Canary"
-msgstr "Atlanterhav/Kanariske �er"
+msgstr "Atlanterhav/Kanariske Øer"
 
 msgid "Atlantic/Cape_Verde"
 msgstr "Atlanterhav/Cape_Verde"
 
 msgid "Atlantic/Faeroe"
-msgstr "Atlanterhav/F�r�erne"
+msgstr "Atlanterhav/Færøerne"
 
 msgid "Atlantic/Jan_Mayen"
 msgstr "Atlanterhav/Jan_Mayen"
@@ -899,7 +1044,7 @@ msgid "Brazil/DeNoronha"
 msgstr "Brasilien/DeNoronha"
 
 msgid "Brazil/East"
-msgstr "Brasilien/�st"
+msgstr "Brasilien/Øst"
 
 msgid "Brazil/West"
 msgstr "Brasilien/Vest"
@@ -911,10 +1056,10 @@ msgid "Canada/Central"
 msgstr "Canada/Central"
 
 msgid "Canada/Eastern"
-msgstr "Canada/�st"
+msgstr "Canada/Øst"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "Canada/�st-Saskatchewan"
+msgstr "Canada/Øst-Saskatchewan"
 
 msgid "Canada/Mountain"
 msgstr "Canada/Mountain"
@@ -950,7 +1095,7 @@ msgid "EET"
 msgstr "EET"
 
 msgid "Egypt"
-msgstr "�gypten"
+msgstr "Ægypten"
 
 msgid "Eire"
 msgstr "Irland"
@@ -1088,7 +1233,7 @@ msgid "Europe/Bratislava"
 msgstr "Europa/Bratislava"
 
 msgid "Europe/Brussels"
-msgstr "Europa/Brussel"
+msgstr "Europa/Bryssel"
 
 msgid "Europe/Bucharest"
 msgstr "Europa/Bukarest"
@@ -1100,7 +1245,7 @@ msgid "Europe/Chisinau"
 msgstr "Europa/Chisinau"
 
 msgid "Europe/Copenhagen"
-msgstr "Europa/K�benhavn"
+msgstr "Europa/København"
 
 msgid "Europe/Dublin"
 msgstr "Europa/Dublin"
@@ -1220,7 +1365,7 @@ msgid "Europe/Zaporozhye"
 msgstr "Europa/Zaporozhye"
 
 msgid "Europe/Zurich"
-msgstr "Europa/Zurich"
+msgstr "Europa/Zürich"
 
 msgid "Factory"
 msgstr "Fabrik"
@@ -1277,7 +1422,7 @@ msgid "Indian/Mahe"
 msgstr "IndiskOcean/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "IndiskOcean/Maldives"
+msgstr "IndiskOcean/Maldiverne"
 
 msgid "Indian/Mauritius"
 msgstr "IndiskOcean/Mauritius"
@@ -1319,13 +1464,13 @@ msgid "Mexico/General"
 msgstr "Mexico/Generel"
 
 msgid "Mideast/Riyadh87"
-msgstr "Mellem�sten/Riyadh87"
+msgstr "Mellemøsten/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr "Mellem�sten/Riyadh88"
+msgstr "Mellemøsten/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr "Mellem�sten/Riyadh89"
+msgstr "Mellemøsten/Riyadh89"
 
 msgid "MST"
 msgstr "MST"
@@ -1578,3 +1723,9 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
+#~ msgid "iso3166.tab"
+#~ msgstr "iso3166.tab"
+
+#~ msgid "posixrules"
+#~ msgstr "posixregler"
