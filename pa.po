@@ -1,21 +1,24 @@
+# translation of pa.po to Punjabi
+# translation of fedora.translate.redhat-config-date.timezones.po to Punjabi
 # Punjabi translation of pa.
 # Copyright (C) 2004 THE pa'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the pa package.
 # Punjab Linux Technology <punjablinux@netscape.net>, 2004.
-# , fuzzy
-# 
-# 
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: pa VERSION\n"
+"Project-Id-Version: pa\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-04-04 19:23+0530\n"
-"Last-Translator: Punjab Linux Technology <punjablinux@netscape.net>\n"
-"Language-Team: Punjabi\n"
+"PO-Revision-Date: 2004-08-23 15:25+0530\n"
+"Last-Translator: Amanpreet Singh Alam <aalam@redhat.com>\n"
+"Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Report-Msgid-Bugs-To: \n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 
 msgid "Africa/Abidjan"
 msgstr "ਅਫਰੀਕਾ/ਅਬੀਡਜਾਨ"
@@ -36,13 +39,13 @@ msgid "Africa/Bamako"
 msgstr "ਅਫਰੀਕਾ/ਬਾਕਾਮੋ"
 
 msgid "Africa/Bangui"
-msgstr "ਅਫਰੀਕਾ/ਬਾਨਗੂੲੀ"
+msgstr "ਅਫਰੀਕਾ/ਬਾਨਗੂਈ"
 
 msgid "Africa/Banjul"
 msgstr "ਅਫਰੀਕਾ/ਬਿਨਜੂਲ"
 
 msgid "Africa/Bissau"
-msgstr "ਅਫਰੀਕਾ/ਬਿਸੱੳੂ"
+msgstr "ਅਫਰੀਕਾ/ਬਿਸੱਊ"
 
 msgid "Africa/Blantyre"
 msgstr "ਅਫਰੀਕਾ/ਬਲਾਨਟਰੀ"
@@ -60,7 +63,7 @@ msgid "Africa/Casablanca"
 msgstr "ਅਫਰੀਕਾ/ਕਾਸਾਬਲਾਨਾਸਾ"
 
 msgid "Africa/Ceuta"
-msgstr "ਅਫਰੀਕਾ/ਕੀੳੂਟਾ"
+msgstr "ਅਫਰੀਕਾ/ਕੀਊਟਾ"
 
 msgid "Africa/Conakry"
 msgstr "ਅਫਰੀਕਾ/ਕੋਨਕਰੀ"
@@ -72,16 +75,16 @@ msgid "Africa/Dar_es_Salaam"
 msgstr "ਅਫਰੀਕਾ/ਡਾਰੀਸ ਅਸ ਸਲਾਮ"
 
 msgid "Africa/Djibouti"
-msgstr "ਅਫਰੀਕਾ/ਡਜ਼ੀਬੂਅੂਟੀ"
+msgstr "ਅਫਰੀਕਾ/ਡਜ਼ੀਬੂਅਟੀ"
 
 msgid "Africa/Douala"
-msgstr "ਅਫਰੀਕਾ/ਡੂੳੂਲਾ"
+msgstr "ਅਫਰੀਕਾ/ਡੂਊਲਾ"
 
 msgid "Africa/El_Aaiun"
-msgstr "ਅਫਰੀਕਾ/ੲੀਲਅਾੳੂਨ"
+msgstr "ਅਫਰੀਕਾ/ਈਲਆਊਨ"
 
 msgid "Africa/Freetown"
-msgstr "ਅਫਰੀਕਾ/ਫਰੀਟਾੳੁਨ"
+msgstr "ਅਫਰੀਕਾ/ਫਰੀਟਾਉਨ"
 
 msgid "Africa/Gaborone"
 msgstr "ਅਫਰੀਕਾ/ਗਾਬੋਰੋਨੀ"
@@ -93,7 +96,7 @@ msgid "Africa/Johannesburg"
 msgstr "ਅਫਰੀਕਾ/ਜਹਾਨਸਬਰਗ"
 
 msgid "Africa/Kampala"
-msgstr "ਅਫਰੀਕਾ/ਕਾਮਪਾਲਾ"
+msgstr "ਅਫਰੀਕਾ/ਕੰਪਾਲਾ"
 
 msgid "Africa/Khartoum"
 msgstr "ਅਫਰੀਕਾ/ਖਰਟੋਮ"
@@ -138,7 +141,7 @@ msgid "Africa/Mogadishu"
 msgstr "ਅਫਰੀਕਾ/ਮੋਗਾਡੀਸ਼ੂ"
 
 msgid "Africa/Monrovia"
-msgstr "ਅਫਰੀਕਾ/ਮੋਨਰੋਵੀਅਾ"
+msgstr "ਅਫਰੀਕਾ/ਮੋਨਰੋਵੀਆ"
 
 msgid "Africa/Nairobi"
 msgstr "ਅਫਰੀਕਾ/ਨੈਰੋਬੀ"
@@ -150,10 +153,10 @@ msgid "Africa/Niamey"
 msgstr "ਅਫਰੀਕਾ/ਨਾਮੀ"
 
 msgid "Africa/Nouakchott"
-msgstr "ਅਫਰੀਕਾ/ਨੂੳੂਕਚੋਟ"
+msgstr "ਅਫਰੀਕਾ/ਨੂਊਕਚੋਟ"
 
 msgid "Africa/Ouagadougou"
-msgstr "ਅਫਰੀਕਾ/ੳੂਗਾਡੋਗੋੳੂ"
+msgstr "ਅਫਰੀਕਾ/ਊਗਾਡੋਗੋਊ"
 
 msgid "Africa/Porto-Novo"
 msgstr "ਅਫਰੀਕਾ/ਪੋਰਟੋ-ਨੋਵੋ"
@@ -171,7 +174,7 @@ msgid "Africa/Tunis"
 msgstr "ਅਫਰੀਕਾ/ਟੂਨਿਸ਼"
 
 msgid "Africa/Windhoek"
-msgstr "ਅਫਰੀਕਾ/ਵਿਨਹੋੲਿਕ"
+msgstr "ਅਫਰੀਕਾ/ਵਿਨਹੋਇਕ"
 
 msgid "America/Adak"
 msgstr "ਅਮਰੀਕਾ/ਅਡਾਕ"
@@ -183,10 +186,10 @@ msgid "America/Anguilla"
 msgstr "ਅਮਰੀਕਾ/ਅੰਗੋਲਾ"
 
 msgid "America/Antigua"
-msgstr "ਅਮਰੀਕਾ/ਅੰਟੀਗੁਅਾ"
+msgstr "ਅਮਰੀਕਾ/ਅੰਟੀਗੁਆ"
 
 msgid "America/Araguaina"
-msgstr "ਅਮਰੀਕਾ/ਅਾਰਗੂਮੀਅਾ"
+msgstr "ਅਮਰੀਕਾ/ਆਰਗੂਮੀਆ"
 
 msgid "America/Aruba"
 msgstr "ਅਮਰੀਕਾ/ਅਰੂਬਾ"
@@ -216,7 +219,7 @@ msgid "America/Boise"
 msgstr "ਅਮਰੀਕਾ/ਬੋਸੀ"
 
 msgid "America/Buenos_Aires"
-msgstr "ਅਮਰੀਕਾ/ਬੂੲੀਨੋਸ ੲੇਅਰਸ"
+msgstr "ਅਮਰੀਕਾ/ਬੂਈਨੋਸ ਏਅਰਸ"
 
 msgid "America/Cambridge_Bay"
 msgstr "ਅਮਰੀਕਾ/ਕਮਬਿਰਿਜ਼ ਖਾੜੀ"
@@ -240,7 +243,7 @@ msgid "America/Chicago"
 msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਕਾਗੋ"
 
 msgid "America/Chihuahua"
-msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਹੂਅਾਹੂਅਾ"
+msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਹੂਆਹੂਆ"
 
 msgid "America/Cordoba"
 msgstr "ਅਮਰੀਕਾ/ਕੋਰਡੋਬਾ"
@@ -249,7 +252,7 @@ msgid "America/Costa_Rica"
 msgstr "ਅਮਰੀਕਾ/ਕੋਸਟਾ ਰੀਸਾ"
 
 msgid "America/Cuiaba"
-msgstr "ਅਮਰੀਕਾ/ਕਿੳੂਬਾ"
+msgstr "ਅਮਰੀਕਾ/ਕਿਊਬਾ"
 
 msgid "America/Curacao"
 msgstr "ਅਮਰੀਕਾ/ਕੂਰਾਕੋ"
@@ -273,16 +276,16 @@ msgid "America/Dominica"
 msgstr "ਅਮਰੀਕਾ/ਡੋਮੀਨੀਸਾ"
 
 msgid "America/Edmonton"
-msgstr "ਅਮਰੀਕਾ/ੲੀਡਮੋਨਟੋਨ"
+msgstr "ਅਮਰੀਕਾ/ਈਡਮੋਨਟੋਨ"
 
 msgid "America/Eirunepe"
-msgstr "ਅਮਰੀਕਾ/ੲੀਰੂਨੀਪੀ"
+msgstr "ਅਮਰੀਕਾ/ਈਰੂਨੀਪੀ"
 
 msgid "America/El_Salvador"
-msgstr "ਅਮਰੀਕਾ/ੲੀਲਸਲਾਵਾਡੋਰ"
+msgstr "ਅਮਰੀਕਾ/ਈਲਸਲਾਵਾਡੋਰ"
 
 msgid "America/Ensenada"
-msgstr "ਅਮਰੀਕਾ/ੲਿਨਸੀਨਾਡਾ"
+msgstr "ਅਮਰੀਕਾ/ਇਨਸੀਨਾਡਾ"
 
 msgid "America/Fortaleza"
 msgstr "ਅਮਰੀਕਾ/ਫੋਰਟਾਲੀਜ਼ਾ"
@@ -300,22 +303,22 @@ msgid "America/Goose_Bay"
 msgstr "ਅਮਰੀਕਾ/ਗੂਜ਼ ਖਾੜੀ"
 
 msgid "America/Grand_Turk"
-msgstr "ਅਮਰੀਕਾ/ਗਰ੾ਡ ਤੁਰਕ"
+msgstr "ਅਮਰੀਕਾ/ਗਰਾਂਡ ਤੁਰਕ"
 
 msgid "America/Grenada"
 msgstr "ਅਮਰੀਕਾ/ਗਰੀਨਾਡਾ"
 
 msgid "America/Guadeloupe"
-msgstr "ਅਮਰੀਕਾ/ਗੂਡੀਲੋੳੂਪੀ"
+msgstr "ਅਮਰੀਕਾ/ਗੂਡੀਲੋਊਪੀ"
 
 msgid "America/Guatemala"
-msgstr "ਅਮਰੀਕਾ/ਗੁਅਾਟਾਮਾਲਾ"
+msgstr "ਅਮਰੀਕਾ/ਗੁਆਟਾਮਾਲਾ"
 
 msgid "America/Guayaquil"
-msgstr "ਅਮਰੀਕਾ/ਗੁਯਾਕਿੳੂਲ"
+msgstr "ਅਮਰੀਕਾ/ਗੁਯਾਕਿਊਲ"
 
 msgid "America/Guyana"
-msgstr "ਅਮਰੀਕਾ/ਗੁਅਾਨਾ"
+msgstr "ਅਮਰੀਕਾ/ਗੁਆਨਾ"
 
 msgid "America/Halifax"
 msgstr "ਅਮਰੀਕਾ/ਹਾਲੀਫੇਕਸ"
@@ -327,34 +330,34 @@ msgid "America/Hermosillo"
 msgstr "ਅਮਰੀਕਾ/ਹੀਰਮੋਸੀਲੋ"
 
 msgid "America/Indiana/Indianapolis"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ/ੲਿੰਡੀਅਾਨਾਪੋਲੀਸ"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਇੰਡੀਆਨਾਪੋਲੀਸ"
 
 msgid "America/Indiana/Knox"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ/ਕਨੋਸ਼"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਕਨੋਸ਼"
 
 msgid "America/Indiana/Marengo"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ/ਮਰੀਨਗੋ"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਮਰੀਨਗੋ"
 
 msgid "America/Indianapolis"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾਪੋਲੀਸ"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾਪੋਲੀਸ"
 
 msgid "America/Indiana/Vevay"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ/ਵੀਵਾਅਾ"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਵੀਵਾਆ"
 
 msgid "America/Inuvik"
-msgstr "ਅਮਰੀਕਾ/ੲਿਨੂਵਿਕ"
+msgstr "ਅਮਰੀਕਾ/ਇਨੂਵਿਕ"
 
 msgid "America/Iqaluit"
-msgstr "ਅਮਰੀਕਾ/ੲਿੳੂਲੂਟ"
+msgstr "ਅਮਰੀਕਾ/ਇਊਲੂਟ"
 
 msgid "America/Jamaica"
 msgstr "ਅਮਰੀਕਾ/ਜੈਮਿਕਾ"
 
 msgid "America/Jujuy"
-msgstr "ਅਮਰੀਕਾ/ਜੂਜੲੀ"
+msgstr "ਅਮਰੀਕਾ/ਜੂਜਈ"
 
 msgid "America/Juneau"
-msgstr "ਅਮਰੀਕਾ/ਹੂਨਿਅਾੳੁ"
+msgstr "ਅਮਰੀਕਾ/ਹੂਨਿਆਉ"
 
 msgid "America/Kentucky/Louisville"
 msgstr "ਅਮਰੀਕਾ/ਕੀਨਟੂਕੀ/ਲੂੳਸਵਿਲੀ"
@@ -363,7 +366,7 @@ msgid "America/Kentucky/Monticello"
 msgstr "ਅਮਰੀਕਾ/ਕੀਨਟੂਕੀ/ਮੋਨਟੀਸੀਲੋ"
 
 msgid "America/Knox_IN"
-msgstr "ਅਮਰੀਕਾ/ਕਨੂਸ਼ ੲਿਨ"
+msgstr "ਅਮਰੀਕਾ/ਕਨੂਸ਼ ਇਨ"
 
 msgid "America/La_Paz"
 msgstr "ਅਮਰੀਕਾ/ਲਾ ਪਾਜ਼"
@@ -372,13 +375,13 @@ msgid "America/Lima"
 msgstr "ਅਮਰੀਕਾ/ਲੀਮਾ"
 
 msgid "America/Los_Angeles"
-msgstr "ਅਮਰੀਕਾ/ਲਾਸ ੲੇਜ਼ਲਸ"
+msgstr "ਅਮਰੀਕਾ/ਲਾਸ ਏਜ਼ਲਸ"
 
 msgid "America/Louisville"
-msgstr "ਅਮਰੀਕਾ/ਲੂੲਿਸਵਿਲੀ"
+msgstr "ਅਮਰੀਕਾ/ਲੂਇਸਵਿਲੀ"
 
 msgid "America/Maceio"
-msgstr "ਅਮਰੀਕਾ/ਮਸੀੲੀ"
+msgstr "ਅਮਰੀਕਾ/ਮਸੀਈ"
 
 msgid "America/Managua"
 msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਗੂਨਾ"
@@ -387,7 +390,7 @@ msgid "America/Manaus"
 msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਸ"
 
 msgid "America/Martinique"
-msgstr "ਅਮਰੀਕਾ/ਮਾਰੀਟੀਕਿੳੂ"
+msgstr "ਅਮਰੀਕਾ/ਮਾਰੀਟੀਕਿਊ"
 
 msgid "America/Mazatlan"
 msgstr "ਅਮਰੀਕਾ/ਮਾਜ਼ਾਟਲਾਨ"
@@ -396,7 +399,7 @@ msgid "America/Mendoza"
 msgstr "ਅਮਰੀਕਾ/ਮਾਨਡੋਜ਼ਾ"
 
 msgid "America/Menominee"
-msgstr "ਅਮਰੀਕਾ/ਮੀਨੋਮੀਨੲੀ"
+msgstr "ਅਮਰੀਕਾ/ਮੀਨੋਮੀਨਈ"
 
 msgid "America/Merida"
 msgstr "ਅਮਰੀਕਾ/ਮੀਰਾਡਾ"
@@ -405,7 +408,7 @@ msgid "America/Mexico_City"
 msgstr "ਅਮਰੀਕਾ/ਮੈਕਸੀਕਿ ਸ਼ਹਿਰ"
 
 msgid "America/Miquelon"
-msgstr "ਅਮਰੀਕਾ/ਮੀਕੳੂੲਿਲੋਨ"
+msgstr "ਅਮਰੀਕਾ/ਮੀਕਊਇਲੋਨ"
 
 msgid "America/Monterrey"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟੀਰੀਓ"
@@ -420,10 +423,10 @@ msgid "America/Montserrat"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟਸੀਰੇਟ"
 
 msgid "America/Nassau"
-msgstr "ਅਮਰੀਕਾ/ਨੀਸਾੳੂ"
+msgstr "ਅਮਰੀਕਾ/ਨੀਸਾਊ"
 
 msgid "America/New_York"
-msgstr "ਅਮਰੀਕਾ/ਨਿੳੂ ਯਾਰਕ"
+msgstr "ਅਮਰੀਕਾ/ਨਿਊ ਯਾਰਕ"
 
 msgid "America/Nipigon"
 msgstr "ਅਮਰੀਕਾ/ਨੀਪੀਗੋਨ"
@@ -435,7 +438,7 @@ msgid "America/Noronha"
 msgstr "ਅਮਰੀਕਾ/ਨੋਰੋਹਾ"
 
 msgid "America/North_Dakota/Center"
-msgstr "ਅਮਰੀਕਾ/ੳੁਤਰੀ ਡਾਕੋਟਾ/ਕੇਦਰੀ"
+msgstr "ਅਮਰੀਕਾ/ਉਤਰੀ ਡਾਕੋਟਾ/ਕੇਦਰੀ"
 
 msgid "America/Panama"
 msgstr "ਅਮਰੀਕਾ/ਪੈਮਾਨਾ"
@@ -450,13 +453,13 @@ msgid "America/Phoenix"
 msgstr "ਅਮਰੀਕਾ/ਫੋਨਿਸ਼"
 
 msgid "America/Port-au-Prince"
-msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ-ਅਸ-ਪਿ੍ੰਸ"
+msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ-ਅਸ-ਪ੍ਰਿੰਸ"
 
 msgid "America/Porto_Acre"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟੋ ਅਸਰੀ"
 
 msgid "America/Port_of_Spain"
-msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ ਅਾਫ ਸਪੇਨ"
+msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ ਆਫ ਸਪੇਨ"
 
 msgid "America/Porto_Velho"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟੋ ਵੀਲਹੋ"
@@ -468,28 +471,28 @@ msgid "America/Rainy_River"
 msgstr "ਅਮਰੀਕਾ/ਰੇਨੀ ਰੀਵਰ"
 
 msgid "America/Rankin_Inlet"
-msgstr "ਅਮਰੀਕਾ/ਰੈਨਿਕਿਨ ੲਿਨਲਿਟ"
+msgstr "ਅਮਰੀਕਾ/ਰੈਨਿਕਿਨ ਇਨਲਿਟ"
 
 msgid "America/Recife"
-msgstr "ਅਮਰੀਕਾ/ਰੀਸਾੲੀਸ"
+msgstr "ਅਮਰੀਕਾ/ਰੀਸਾਈਸ"
 
 msgid "America/Regina"
 msgstr "ਅਮਰੀਕਾ/ਰੀਗੀਨਾ"
 
 msgid "America/Rio_Branco"
-msgstr "ਅਮਰੀਕਾ/ਰਾੲੀ ਬਰਾਸਕੋ"
+msgstr "ਅਮਰੀਕਾ/ਰਾਈ ਬਰਾਸਕੋ"
 
 msgid "America/Rosario"
-msgstr "ਅਮਰੀਕਾ/ਰੋਸਾਰੀੳੁ"
+msgstr "ਅਮਰੀਕਾ/ਰੋਸਾਰੀਉ"
 
 msgid "America/Santiago"
-msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਅਾਗੋ"
+msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਆਗੋ"
 
 msgid "America/Santo_Domingo"
 msgstr "ਅਮਰੀਕਾ/ਸੰਟੋ ਡੋਮੀਨਗੋ"
 
 msgid "America/Sao_Paulo"
-msgstr "ਅਮਰੀਕਾ/ਸਾੳੂ ਪਾਲੋ"
+msgstr "ਅਮਰੀਕਾ/ਸਾਊ ਪਾਲੋ"
 
 msgid "America/Scoresbysund"
 msgstr "ਅਮਰੀਕਾ/ਸਕਰੋਸਬਸ਼ੂਡ"
@@ -531,13 +534,13 @@ msgid "America/Tortola"
 msgstr "ਅਮਰੀਕਾ/ਟੋਰਟੋਲਾ"
 
 msgid "America/Vancouver"
-msgstr "ਅਮਰੀਕਾ/ਵੇਨਸੋੂਵਰ"
+msgstr "ਅਮਰੀਕਾ/ਵੇਨਸੋਵਰ"
 
 msgid "America/Virgin"
-msgstr "ਅਮਰੀਕਾ/ਵਰਜੀਨੀਅਾ"
+msgstr "ਅਮਰੀਕਾ/ਵਰਜੀਨੀਆ"
 
 msgid "America/Whitehorse"
-msgstr "ਅਮਰੀਕਾ/ਵਾੲੀਟਹਾਰਸ"
+msgstr "ਅਮਰੀਕਾ/ਵਾਈਟਹਾਰਸ"
 
 msgid "America/Winnipeg"
 msgstr "ਅਮਰੀਕਾ/ਵੀਨਿਪੇਗ"
@@ -579,361 +582,361 @@ msgid "Arctic/Longyearbyen"
 msgstr "ਅਰਸਟਿਕ/ਲਾਗਯਿਅਰਬਯਾਨ"
 
 msgid "Asia/Aden"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਦਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਅਦਾਨ"
 
 msgid "Asia/Almaty"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਲਮਾਟੀ"
+msgstr "ਏਸ਼ੀਆ/ਅਲਮਾਟੀ"
 
 msgid "Asia/Amman"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਮਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਅਮਾਨ"
 
 msgid "Asia/Anadyr"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਨਾਡੀਰ"
+msgstr "ਏਸ਼ੀਆ/ਅਨਾਡੀਰ"
 
 msgid "Asia/Aqtau"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਿੳੂਟ"
+msgstr "ਏਸ਼ੀਆ/ਅਕਿਊਟ"
 
 msgid "Asia/Aqtobe"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਿੳੂਬੀ"
+msgstr "ਏਸ਼ੀਆ/ਅਕਿਊਬੀ"
 
 msgid "Asia/Ashgabat"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਸ਼ਗੲਬਾਤ"
+msgstr "ਏਸ਼ੀਆ/ਅਸ਼ਗੲਬਾਤ"
 
 msgid "Asia/Ashkhabad"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਕਸ਼ਖਾਬਾਦ"
+msgstr "ਏਸ਼ੀਆ/ਅਕਸ਼ਖਾਬਾਦ"
 
 msgid "Asia/Baghdad"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬਗਦਾਦ"
+msgstr "ਏਸ਼ੀਆ/ਬਗਦਾਦ"
 
 msgid "Asia/Bahrain"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬਹਿਰਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਬਹਿਰਾਨ"
 
 msgid "Asia/Baku"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬਾਕੂ"
+msgstr "ਏਸ਼ੀਆ/ਬਾਕੂ"
 
 msgid "Asia/Bangkok"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬੈਕ੾ਕ"
+msgstr "ਏਸ਼ੀਆ/ਬੈਕਾਂਕ"
 
 msgid "Asia/Beirut"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬੀਰੂਟ"
+msgstr "ਏਸ਼ੀਆ/ਬੀਰੂਟ"
 
 msgid "Asia/Bishkek"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬਿਸਕਾਕ"
+msgstr "ਏਸ਼ੀਆ/ਬਿਸਕਾਕ"
 
 msgid "Asia/Brunei"
-msgstr "ੲੇਸ਼ੀਅਾ/ਬਰੂਨੀ"
+msgstr "ਏਸ਼ੀਆ/ਬਰੂਨੀ"
 
 msgid "Asia/Calcutta"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਲਕੱਤਾ"
+msgstr "ਏਸ਼ੀਆ/ਕਲਕੱਤਾ"
 
 msgid "Asia/Choibalsan"
-msgstr "ੲੇਸ਼ੀਅਾ/ਚੋਬਾਲਸਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਚੋਬਾਲਸਾਨ"
 
 msgid "Asia/Chongqing"
-msgstr "ੲੇਸ਼ੀਅਾ/ਚੋਨਕਿੳੲਿੰਗ"
+msgstr "ਏਸ਼ੀਆ/ਚੋਨਕਿੳਇੰਗ"
 
 msgid "Asia/Chungking"
-msgstr "ੲੇਸ਼ੀਅਾ/ਚੰਗਕਿੰਗ"
+msgstr "ਏਸ਼ੀਆ/ਚੰਗਕਿੰਗ"
 
 msgid "Asia/Colombo"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕੋਲੰਬੋ"
+msgstr "ਏਸ਼ੀਆ/ਕੋਲੰਬੋ"
 
 msgid "Asia/Dacca"
-msgstr "ੲੇਸ਼ੀਅਾ/ਡਾਸੀਅਾ"
+msgstr "ਏਸ਼ੀਆ/ਡਾਸੀਆ"
 
 msgid "Asia/Damascus"
-msgstr "ੲੇਸ਼ੀਅਾ/ਡਾਮਸਾੳੂਸ"
+msgstr "ਏਸ਼ੀਆ/ਡਾਮਸਾਊਸ"
 
 msgid "Asia/Dhaka"
-msgstr "ੲੇਸ਼ੀਅਾ/ਢਾਕਾ"
+msgstr "ਏਸ਼ੀਆ/ਢਾਕਾ"
 
 msgid "Asia/Dili"
-msgstr "ੲੇਸ਼ੀਅਾ/ਦੀਲੀ"
+msgstr "ਏਸ਼ੀਆ/ਦੀਲੀ"
 
 msgid "Asia/Dubai"
-msgstr "ੲੇਸ਼ੀਅਾ/ਡੁਬੲੀ"
+msgstr "ਏਸ਼ੀਆ/ਡੁਬਈ"
 
 msgid "Asia/Dushanbe"
-msgstr "ੲੇਸ਼ੀਅਾ/ਡੂਸ਼ਾਨਬੀ"
+msgstr "ਏਸ਼ੀਆ/ਡੂਸ਼ਾਨਬੀ"
 
 msgid "Asia/Gaza"
-msgstr "ੲੇਸ਼ੀਅਾ/ਗਾਜ਼ਾ"
+msgstr "ਏਸ਼ੀਆ/ਗਾਜ਼ਾ"
 
 msgid "Asia/Harbin"
-msgstr "ੲੇਸ਼ੀਅਾ/ਹਰਬਿਨ"
+msgstr "ਏਸ਼ੀਆ/ਹਰਬਿਨ"
 
 msgid "Asia/Hong_Kong"
-msgstr "ੲੇਸ਼ੀਅਾ/ਹ੾ਗਕ੾ਗ"
+msgstr "ਏਸ਼ੀਆ/ਹਾਂਗਕਾਂਗ"
 
 msgid "Asia/Hovd"
-msgstr "ੲੇਸ਼ੀਅਾ/ਹੋਵਡ"
+msgstr "ਏਸ਼ੀਆ/ਹੋਵਡ"
 
 msgid "Asia/Irkutsk"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਾੲੀਰਲੂਸਕ"
+msgstr "ਏਸ਼ੀਆ/ਆਈਰਲੂਸਕ"
 
 msgid "Asia/Istanbul"
-msgstr "ੲੇਸ਼ੀਅਾ/ੲਿਸਟਤਾਲਬੁਲ"
+msgstr "ਏਸ਼ੀਆ/ਇਸਟਤਾਲਬੁਲ"
 
 msgid "Asia/Jakarta"
-msgstr "ੲੇਸ਼ੀਅਾ/ਜੈਕਾਰਤਾ"
+msgstr "ਏਸ਼ੀਆ/ਜੈਕਾਰਤਾ"
 
 msgid "Asia/Jayapura"
-msgstr "ੲੇਸ਼ੀਅਾ/ਜਾੲਿਪੁਰ"
+msgstr "ਏਸ਼ੀਆ/ਜਾਇਪੁਰ"
 
 msgid "Asia/Jerusalem"
-msgstr "ੲੇਸ਼ੀਅਾ/ਜ਼ੇਰੂਸ਼ੇਲਮ"
+msgstr "ਏਸ਼ੀਆ/ਜ਼ੇਰੂਸ਼ੇਲਮ"
 
 msgid "Asia/Kabul"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਬਲ"
+msgstr "ਏਸ਼ੀਆ/ਕਾਬਲ"
 
 msgid "Asia/Kamchatka"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਮਚਾਟਕਾ"
+msgstr "ਏਸ਼ੀਆ/ਕਾਮਚਾਟਕਾ"
 
 msgid "Asia/Karachi"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਰਾਚੀ"
+msgstr "ਏਸ਼ੀਆ/ਕਰਾਚੀ"
 
 msgid "Asia/Kashgar"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਾਸ਼ਗਰ"
+msgstr "ਏਸ਼ੀਆ/ਕਾਸ਼ਗਰ"
 
 msgid "Asia/Katmandu"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕ੾ਠਮਾਡੂ"
+msgstr "ਏਸ਼ੀਆ/ਕਾਂਠਮਾਡੂ"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਰਸਨੀਯਾਰਸ਼ਕ"
+msgstr "ਏਸ਼ੀਆ/ਕਰਸਨੀਯਾਰਸ਼ਕ"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕੁਅਾਲਾਮਪੁਰ"
+msgstr "ਏਸ਼ੀਆ/ਕੁਆਲਾਮਪੁਰ"
 
 msgid "Asia/Kuching"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕੋਚੀੲਿੰਨ"
+msgstr "ਏਸ਼ੀਆ/ਕੋਚੀਇੰਨ"
 
 msgid "Asia/Kuwait"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕੁਵੈਤ"
+msgstr "ਏਸ਼ੀਆ/ਕੁਵੈਤ"
 
 msgid "Asia/Macao"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸੀਕੋ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਸੀਕੋ"
 
 msgid "Asia/Macau"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸਕੁ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਸਕੁ"
 
 msgid "Asia/Magadan"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਗਾਡਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਗਾਡਾਨ"
 
 msgid "Asia/Makassar"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਕਾਸਾਰ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਕਾਸਾਰ"
 
 msgid "Asia/Manila"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਨੀਲਾ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਨੀਲਾ"
 
 msgid "Asia/Muscat"
-msgstr "ੲੇਸ਼ੀਅਾ/ਮਾਸਕਟ"
+msgstr "ਏਸ਼ੀਆ/ਮਾਸਕਟ"
 
 msgid "Asia/Nicosia"
-msgstr "ੲੇਸ਼ੀਅਾ/ਨੀਸੋਸੀਅਾ"
+msgstr "ਏਸ਼ੀਆ/ਨੀਸੋਸੀਆ"
 
 msgid "Asia/Novosibirsk"
-msgstr "ੲੇਸ਼ੀਅਾ/ਨੋਵੋਸੀਬੀਰਸਕ"
+msgstr "ਏਸ਼ੀਆ/ਨੋਵੋਸੀਬੀਰਸਕ"
 
 msgid "Asia/Omsk"
-msgstr "ੲੇਸ਼ੀਅਾ/ਓਮਸਕ"
+msgstr "ਏਸ਼ੀਆ/ਓਮਸਕ"
 
 msgid "Asia/Oral"
-msgstr "ੲੇਸ਼ੀਅਾ/ਓਰਾਲ"
+msgstr "ਏਸ਼ੀਆ/ਓਰਾਲ"
 
 msgid "Asia/Phnom_Penh"
-msgstr "ੲੇਸ਼ੀਅਾ/ਫਨੋਮਪੇਨਹ"
+msgstr "ਏਸ਼ੀਆ/ਫਨੋਮਪੇਨਹ"
 
 msgid "Asia/Pontianak"
-msgstr "ੲੇਸ਼ੀਅਾ/ਪੋਨਰਿਨਕ"
+msgstr "ਏਸ਼ੀਆ/ਪੋਨਰਿਨਕ"
 
 msgid "Asia/Pyongyang"
-msgstr "ੲੇਸ਼ੀਅਾ/ਪਯੂਨਗਯ੾ਗ"
+msgstr "ਏਸ਼ੀਆ/ਪਯੂਨਗਯਾਂਗ"
 
 msgid "Asia/Qatar"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਤਰ"
+msgstr "ਏਸ਼ੀਆ/ਕਤਰ"
 
 msgid "Asia/Qyzylorda"
-msgstr "ੲੇਸ਼ੀਅਾ/ਕਿੳੂਜ਼ਲੋਰਡਾ"
+msgstr "ਏਸ਼ੀਆ/ਕਿਊਜ਼ਲੋਰਡਾ"
 
 msgid "Asia/Rangoon"
-msgstr "ੲੇਸ਼ੀਅਾ/ਰੰਗੂਨ"
+msgstr "ਏਸ਼ੀਆ/ਰੰਗੂਨ"
 
 msgid "Asia/Riyadh"
-msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ"
+msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ"
 
 msgid "Asia/Riyadh87"
-msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੭"
+msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੭"
 
 msgid "Asia/Riyadh88"
-msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੮"
+msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੮"
 
 msgid "Asia/Riyadh89"
-msgstr "ੲੇਸ਼ੀਅਾ/ਰੀਯਾਧ੮੯"
+msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੯"
 
 msgid "Asia/Saigon"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਾੲੀਗੋਨ"
+msgstr "ਏਸ਼ੀਆ/ਸਾਈਗੋਨ"
 
 msgid "Asia/Sakhalin"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਾਖਾਲੀਨ"
+msgstr "ਏਸ਼ੀਆ/ਸਾਖਾਲੀਨ"
 
 msgid "Asia/Samarkand"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਮਕੰਦ"
+msgstr "ਏਸ਼ੀਆ/ਸਮਕੰਦ"
 
 msgid "Asia/Seoul"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੳੂਲ"
+msgstr "ਏਸ਼ੀਆ/ਸਿਊਲ"
 
 msgid "Asia/Shanghai"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੰਘਾੲੀ"
+msgstr "ਏਸ਼ੀਆ/ਸਿੰਘਾਈ"
 
 msgid "Asia/Singapore"
-msgstr "ੲੇਸ਼ੀਅਾ/ਸਿੰਘਾਪੁਰ"
+msgstr "ਏਸ਼ੀਆ/ਸਿੰਘਾਪੁਰ"
 
 msgid "Asia/Taipei"
-msgstr "ੲੇਸ਼ੀਅਾ/ਤਾੲੀਪੀ"
+msgstr "ਏਸ਼ੀਆ/ਤਾਈਪੀ"
 
 msgid "Asia/Tashkent"
-msgstr "ੲੇਸ਼ੀਅਾ/ਤਾਸ਼ਕੰਦ"
+msgstr "ਏਸ਼ੀਆ/ਤਾਸ਼ਕੰਦ"
 
 msgid "Asia/Tbilisi"
-msgstr "ੲੇਸ਼ੀਅਾ/ਤਬੀਲੀਸੀ"
+msgstr "ਏਸ਼ੀਆ/ਤਬੀਲੀਸੀ"
 
 msgid "Asia/Tehran"
-msgstr "ੲੇਸ਼ੀਅਾ/ਤਹਿਰਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਤਹਿਰਾਨ"
 
 msgid "Asia/Tel_Aviv"
-msgstr "ੲੇਸ਼ੀਅਾ/ਤੀਲਅਵਾਵ"
+msgstr "ਏਸ਼ੀਆ/ਤੀਲਅਵਾਵ"
 
 msgid "Asia/Thimbu"
-msgstr "ੲੇਸ਼ੀਅਾ/ਥੀਮਬੂ"
+msgstr "ਏਸ਼ੀਆ/ਥੀਮਬੂ"
 
 msgid "Asia/Thimphu"
-msgstr "ੲੇਸ਼ੀਅਾ/ਥੀਮਫੂ"
+msgstr "ਏਸ਼ੀਆ/ਥੀਮਫੂ"
 
 msgid "Asia/Tokyo"
-msgstr "ੲੇਸ਼ੀਅਾ/ਟੋਕੀਓ"
+msgstr "ਏਸ਼ੀਆ/ਟੋਕੀਓ"
 
 msgid "Asia/Ujung_Pandang"
-msgstr "ੲੇਸ਼ੀਅਾ/ੳੂਜ਼ੰਗ ਪਾਨਡਿੰਗ"
+msgstr "ਏਸ਼ੀਆ/ਊਜ਼ੰਗ ਪਾਨਡਿੰਗ"
 
 msgid "Asia/Ulaanbaatar"
-msgstr "ੲੇਸ਼ੀਅਾ/ੳੂਲਾਨਬਾਟਰ"
+msgstr "ਏਸ਼ੀਆ/ਊਲਾਨਬਾਟਰ"
 
 msgid "Asia/Ulan_Bator"
-msgstr "ੲੇਸ਼ੀਅਾ/ਅਲਾਨਬਾਟੋਰ"
+msgstr "ਏਸ਼ੀਆ/ਅਲਾਨਬਾਟੋਰ"
 
 msgid "Asia/Urumqi"
-msgstr "ੲੇਸ਼ੀਅਾ/ੳਰੂਮਕੀ"
+msgstr "ਏਸ਼ੀਆ/ੳਰੂਮਕੀ"
 
 msgid "Asia/Vientiane"
-msgstr "ੲੇਸ਼ੀਅਾ/ਵੀਅਤਨਾਮ"
+msgstr "ਏਸ਼ੀਆ/ਵੀਅਤਨਾਮ"
 
 msgid "Asia/Vladivostok"
-msgstr "ੲੇਸ਼ੀਅਾ/ਵਲਾਡੀਵੋਸਟੋਕ"
+msgstr "ਏਸ਼ੀਆ/ਵਲਾਡੀਵੋਸਟੋਕ"
 
 msgid "Asia/Yakutsk"
-msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਕੂਸਕ"
+msgstr "ਏਸ਼ੀਆ/ਯਾਕੂਸਕ"
 
 msgid "Asia/Yekaterinburg"
-msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਕਟਾੲਿਬਰਗ"
+msgstr "ਏਸ਼ੀਆ/ਯਾਕਟਾਇਬਰਗ"
 
 msgid "Asia/Yerevan"
-msgstr "ੲੇਸ਼ੀਅਾ/ਯਾਰੀਵਾਨ"
+msgstr "ਏਸ਼ੀਆ/ਯਾਰੀਵਾਨ"
 
 msgid "Atlantic/Azores"
-msgstr "ਅੈਟਲਾਟਿਕ/ਅਜ਼ੋਰਸ"
+msgstr "ਐਟਲਾਟਿਕ/ਅਜ਼ੋਰਸ"
 
 msgid "Atlantic/Bermuda"
-msgstr "ਅੈਟਲਾਟਿਕ/ਬਾਰਾਮੂਡਾ"
+msgstr "ਐਟਲਾਟਿਕ/ਬਾਰਾਮੂਡਾ"
 
 msgid "Atlantic/Canary"
-msgstr "ਅੈਟਲਾਟਿਕ/ਕੰਨਰੀ"
+msgstr "ਐਟਲਾਟਿਕ/ਕੰਨਰੀ"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "ਅੈਟਲਾਟਿਕ/ਕੇਪ ਵਰਡੀ"
+msgstr "ਐਟਲਾਟਿਕ/ਕੇਪ ਵਰਡੀ"
 
 msgid "Atlantic/Faeroe"
-msgstr "ਅੈਟਲਾਟਿਕ/ਫਾਰੋੲੀ"
+msgstr "ਐਟਲਾਟਿਕ/ਫਾਰੋਈ"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "ਅੈਟਲਾਟਿਕ/ਜਾਨ ਮਾਯਾਨ"
+msgstr "ਐਟਲਾਟਿਕ/ਜਾਨ ਮਾਯਾਨ"
 
 msgid "Atlantic/Madeira"
-msgstr "ਅੈਟਲਾਟਿਕ/ਮਾਡਰੀਅਾ"
+msgstr "ਐਟਲਾਟਿਕ/ਮਾਡਰੀਆ"
 
 msgid "Atlantic/Reykjavik"
-msgstr "ਅੈਟਲਾਟਿਕ/ਰਾਯਕਾਜੋਵਿਕ"
+msgstr "ਐਟਲਾਟਿਕ/ਰਾਯਕਾਜੋਵਿਕ"
 
 msgid "Atlantic/South_Georgia"
-msgstr "ਅੈਟਲਾਟਿਕ/ਦੱਖਣੀ ਜਾਰਜੀਅਾ"
+msgstr "ਐਟਲਾਟਿਕ/ਦੱਖਣੀ ਜਾਰਜੀਆ"
 
 msgid "Atlantic/Stanley"
-msgstr "ਅੈਟਲਾਟਿਕ/ਸਟਨਲਿਅਾ"
+msgstr "ਐਟਲਾਟਿਕ/ਸਟਨਲਿਆ"
 
 msgid "Atlantic/St_Helena"
-msgstr "ਅੈਟਲਾਟਿਕ/ਸੇਟ ਹੀਲੀਨਾ"
+msgstr "ਐਟਲਾਟਿਕ/ਸੇਟ ਹੀਲੀਨਾ"
 
 msgid "Australia/ACT"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ੲੇਸੀਟੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਏਸੀਟੀ"
 
 msgid "Australia/Adelaide"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਅਡੀਲੇਡੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਅਡੀਲੇਡੀ"
 
 msgid "Australia/Brisbane"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਬਰਸਬੇਨ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਬਰਸਬੇਨ"
 
 msgid "Australia/Broken_Hill"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਬਰੋਕਨ ਹਿਲ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਬਰੋਕਨ ਹਿਲ"
 
 msgid "Australia/Canberra"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਕਾਨਬੀਰਾ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਕਾਨਬੀਰਾ"
 
 msgid "Australia/Darwin"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਡਾਰਵਿਨ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਡਾਰਵਿਨ"
 
 msgid "Australia/Hobart"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਹੋਬਰਟ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਹੋਬਰਟ"
 
 msgid "Australia/LHI"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਅੈਲਅੈਚਅਾੲੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਐਲਐਚਆਈ"
 
 msgid "Australia/Lindeman"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਲਿੰਡੀਮਾਨ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਲਿੰਡੀਮਾਨ"
 
 msgid "Australia/Lord_Howe"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਲੋਰਡ ਹੋਵੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਲੋਰਡ ਹੋਵੀ"
 
 msgid "Australia/Melbourne"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਮੈਲਬੋਰਨ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਮੈਲਬੋਰਨ"
 
 msgid "Australia/North"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ੳੁੱਤਰੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਉੱਤਰੀ"
 
 msgid "Australia/NSW"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਅੈਨਅੈਸਡਬਲਿੳੂ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਐਨਐਸਡਬਲਿਊ"
 
 msgid "Australia/Perth"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਪਰਥ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਪਰਥ"
 
 msgid "Australia/Queensland"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਕਿੳੂਨਜ਼ਲੈਡ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਕਿਊਨਜ਼ਲੈਡ"
 
 msgid "Australia/South"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਦੱਖਣੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਦੱਖਣੀ"
 
 msgid "Australia/Sydney"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਸਿਡਨੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਸਿਡਨੀ"
 
 msgid "Australia/Tasmania"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਤਸਮਾਨੀਅਾ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਤਸਮਾਨੀਆ"
 
 msgid "Australia/Victoria"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਵਿਕਟੋਰੀਅਾ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਵਿਕਟੋਰੀਆ"
 
 msgid "Australia/West"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਪੱਛਮੀ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਪੱਛਮੀ"
 
 msgid "Australia/Yancowinna"
-msgstr "ਅਸਟਰੇਲੀਅਾ/ਯਾਨਕੂਵੀਨਾ"
+msgstr "ਅਸਟਰੇਲੀਆ/ਯਾਨਕੂਵੀਨਾ"
 
 msgid "Brazil/Acre"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਅਸਰੀ"
@@ -948,7 +951,7 @@ msgid "Brazil/West"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਪੱਛਮੀ"
 
 msgid "Canada/Atlantic"
-msgstr "ਕੈਨੇਡਾ/ਅੈਟਲਾੲਿਕ"
+msgstr "ਕੈਨੇਡਾ/ਐਟਲਾਇਕ"
 
 msgid "Canada/Central"
 msgstr "ਕੈਨੇਡਾ/ਕੇਦਰੀ"
@@ -963,10 +966,10 @@ msgid "Canada/Mountain"
 msgstr "ਕੈਨੇਡਾ/ਪਹਾੜੀ"
 
 msgid "Canada/Newfoundland"
-msgstr "ਕੈਨੇਡਾ/ਨਿੳੂਫਾੳੂਡਲੈਡ"
+msgstr "ਕੈਨੇਡਾ/ਨਿਊਫਾਊਡਲੈਡ"
 
 msgid "Canada/Pacific"
-msgstr "ਕੈਨੇਡਾ/ਪ੍ਸ਼ਾਤ"
+msgstr "ਕੈਨੇਡਾ/ਪ੍ਰਸ਼ਾਂਤ"
 
 msgid "Canada/Saskatchewan"
 msgstr "ਕੈਨੇਡਾ/ਸਾਕੋਚਵਾਨ"
@@ -981,13 +984,13 @@ msgid "Chile/Continental"
 msgstr "ਚਿੱਲੀ/ਕੋਟੀਡੈਟਿਲ"
 
 msgid "Chile/EasterIsland"
-msgstr "ਚਿੱਲੀ/ੲੀਸਟਰ ਟਾਪੂ"
+msgstr "ਚਿੱਲੀ/ਈਸਟਰ ਟਾਪੂ"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr "ਕਿੳੂਬਾ"
+msgstr "ਕਿਊਬਾ"
 
 msgid "EET"
 msgstr "EET"
@@ -996,7 +999,7 @@ msgid "Egypt"
 msgstr "ਮਿਸਰ"
 
 msgid "Eire"
-msgstr "ੲੀਰਿ"
+msgstr "ਈਰਿ"
 
 msgid "EST"
 msgstr "EST"
@@ -1005,118 +1008,118 @@ msgid "EST5EDT"
 msgstr "EST5EDT"
 
 msgid "Etc/GMT"
-msgstr "ੲੀਟੀਸੀ/GMT"
+msgstr "ਈਟੀਸੀ/GMT"
 
 msgid "Etc/GMT0"
-msgstr "ੲੀਟੀਸੀ/GMT"
+msgstr "ਈਟੀਸੀ/GMT"
 
 msgid "Etc/GMT-0"
-msgstr "ੲੀਟੀਸੀ/GMT-੦"
+msgstr "ਈਟੀਸੀ/GMT-੦"
 
 msgid "Etc/GMT+0"
-msgstr "ੲੀਟੀਸੀ/GMT+੦"
+msgstr "ਈਟੀਸੀ/GMT+੦"
 
 msgid "Etc/GMT-1"
-msgstr "ੲੀਟੀਸੀ/GMT-੧"
+msgstr "ਈਟੀਸੀ/GMT-੧"
 
 msgid "Etc/GMT+1"
-msgstr "ੲੀਟੀਸੀ/GMT+੧"
+msgstr "ਈਟੀਸੀ/GMT+੧"
 
 msgid "Etc/GMT-10"
-msgstr "ੲੀਟੀਸੀ/GMT-੧੦"
+msgstr "ਈਟੀਸੀ/GMT-੧੦"
 
 msgid "Etc/GMT+10"
-msgstr "ੲੀਟੀਸੀ/GMT+੧੦"
+msgstr "ਈਟੀਸੀ/GMT+੧੦"
 
 msgid "Etc/GMT-11"
-msgstr "ੲੀਟੀਸੀ/GMT-੧੧"
+msgstr "ਈਟੀਸੀ/GMT-੧੧"
 
 msgid "Etc/GMT+11"
-msgstr "ੲੀਟੀਸੀ/GMT+੧੧"
+msgstr "ਈਟੀਸੀ/GMT+੧੧"
 
 msgid "Etc/GMT-12"
-msgstr "ੲੀਟੀਸੀ/GMT-੧੨"
+msgstr "ਈਟੀਸੀ/GMT-੧੨"
 
 msgid "Etc/GMT+12"
-msgstr "ੲੀਟੀਸੀ/GMT+੧੨"
+msgstr "ਈਟੀਸੀ/GMT+੧੨"
 
 msgid "Etc/GMT-13"
-msgstr "ੲੀਟੀਸੀ/GMT-੧੩"
+msgstr "ਈਟੀਸੀ/GMT-੧੩"
 
 msgid "Etc/GMT-14"
-msgstr "ੲੀਟੀਸੀ/GMT-੧੪"
+msgstr "ਈਟੀਸੀ/GMT-੧੪"
 
 msgid "Etc/GMT-2"
-msgstr "ੲੀਟੀਸੀ/GMT-੨"
+msgstr "ਈਟੀਸੀ/GMT-੨"
 
 msgid "Etc/GMT+2"
-msgstr "ੲੀਟੀਸੀ/GMT+੨"
+msgstr "ਈਟੀਸੀ/GMT+੨"
 
 msgid "Etc/GMT-3"
-msgstr "ੲੀਟੀਸੀ/GMT-੩"
+msgstr "ਈਟੀਸੀ/GMT-੩"
 
 msgid "Etc/GMT+3"
-msgstr "ੲੀਟੀਸੀ/GMT+੩"
+msgstr "ਈਟੀਸੀ/GMT+੩"
 
 msgid "Etc/GMT-4"
-msgstr "ੲੀਟੀਸੀ/GMT-੪"
+msgstr "ਈਟੀਸੀ/GMT-੪"
 
 msgid "Etc/GMT+4"
-msgstr "ੲੀਟੀਸੀ/GMT+੪"
+msgstr "ਈਟੀਸੀ/GMT+੪"
 
 msgid "Etc/GMT-5"
-msgstr "ੲੀਟੀਸੀ/GMT-੫"
+msgstr "ਈਟੀਸੀ/GMT-੫"
 
 msgid "Etc/GMT+5"
-msgstr "ੲੀਟੀਸੀ/GMT+੫"
+msgstr "ਈਟੀਸੀ/GMT+੫"
 
 msgid "Etc/GMT-6"
-msgstr "ੲੀਟੀਸੀ/GMT-੬"
+msgstr "ਈਟੀਸੀ/GMT-੬"
 
 msgid "Etc/GMT+6"
-msgstr "ੲੀਟੀਸੀ/GMT+੬"
+msgstr "ਈਟੀਸੀ/GMT+੬"
 
 msgid "Etc/GMT-7"
-msgstr "ੲੀਟੀਸੀ/GMT-੭"
+msgstr "ਈਟੀਸੀ/GMT-੭"
 
 msgid "Etc/GMT+7"
-msgstr "ੲੀਟੀਸੀ/GMT+੭"
+msgstr "ਈਟੀਸੀ/GMT+੭"
 
 msgid "Etc/GMT-8"
-msgstr "ੲੀਟੀਸੀ/GMT-੮"
+msgstr "ਈਟੀਸੀ/GMT-੮"
 
 msgid "Etc/GMT+8"
-msgstr "ੲੀਟੀਸੀ/GMT+੮"
+msgstr "ਈਟੀਸੀ/GMT+੮"
 
 msgid "Etc/GMT-9"
-msgstr "ੲੀਟੀਸੀ/GMT-੯"
+msgstr "ਈਟੀਸੀ/GMT-੯"
 
 msgid "Etc/GMT+9"
-msgstr "ੲੀਟੀਸੀ/GMT+੯"
+msgstr "ਈਟੀਸੀ/GMT+੯"
 
 msgid "Etc/Greenwich"
-msgstr "ੲੀਟੀਸੀ/ਗਰੀਨਵਿੱਚ"
+msgstr "ਈਟੀਸੀ/ਗਰੀਨਵਿੱਚ"
 
 msgid "Etc/UCT"
-msgstr "ੲੀਟੀਸੀ/UCT"
+msgstr "ਈਟੀਸੀ/UCT"
 
 msgid "Etc/Universal"
-msgstr "ੲੀਟੀਸੀ/Universal"
+msgstr "ਈਟੀਸੀ/ਯੂਨੀਵਰਸਲ"
 
 msgid "Etc/UTC"
-msgstr "ੲੀਟੀਸੀ/UTC"
+msgstr "ਈਟੀਸੀ/UTC"
 
 msgid "Etc/Zulu"
-msgstr "ੲੀਟੀਸੀ/ਜ਼ੂਲੂ"
+msgstr "ਈਟੀਸੀ/ਜ਼ੂਲੂ"
 
 msgid "Europe/Amsterdam"
 msgstr "ਯੂਰਪ/ਅਮਸਟੀਡਮ"
 
 msgid "Europe/Andorra"
-msgstr "ਯੂਰਪ/ਅੈਨਡੋਰਾ"
+msgstr "ਯੂਰਪ/ਐਨਡੋਰਾ"
 
 msgid "Europe/Athens"
-msgstr "ਯੂਰਪ/ਅੈਥਨਜ਼"
+msgstr "ਯੂਰਪ/ਐਥਨਜ਼"
 
 msgid "Europe/Belfast"
 msgstr "ਯੂਰਪ/ਬੀਲਫਾਸਟ"
@@ -1155,7 +1158,7 @@ msgid "Europe/Helsinki"
 msgstr "ਯੂਰਪ/ਹੀਲਸੀਨਕੀ"
 
 msgid "Europe/Istanbul"
-msgstr "ਯੂਰਪ/ੲਿਸਟਾਨਬੂਲ"
+msgstr "ਯੂਰਪ/ਇਸਟਾਨਬੂਲ"
 
 msgid "Europe/Kaliningrad"
 msgstr "ਯੂਰਪ/ਕਾਲੀਨੀਗਰਾਡ"
@@ -1191,7 +1194,7 @@ msgid "Europe/Moscow"
 msgstr "ਯੂਰਪ/ਮਾਸਕੋ"
 
 msgid "Europe/Nicosia"
-msgstr "ਯੂਰਪ/ਨੀਕੋਸੀਅਾ"
+msgstr "ਯੂਰਪ/ਨੀਕੋਸੀਆ"
 
 msgid "Europe/Oslo"
 msgstr "ਯੂਰਪ/ਓਸਲੋ"
@@ -1200,7 +1203,7 @@ msgid "Europe/Paris"
 msgstr "ਯੂਰਪ/ਪੈਰਿਸ"
 
 msgid "Europe/Prague"
-msgstr "ਯੂਰਪ/ਪਰਗੂੲੀ"
+msgstr "ਯੂਰਪ/ਪਰਗੂਈ"
 
 msgid "Europe/Riga"
 msgstr "ਯੂਰਪ/ਰੀਗਾ"
@@ -1224,7 +1227,7 @@ msgid "Europe/Skopje"
 msgstr "ਯੂਰਪ/ਸਕੋਪਜੀ"
 
 msgid "Europe/Sofia"
-msgstr "ਯੂਰਪ/ਸੋਫੀਅਾ"
+msgstr "ਯੂਰਪ/ਸੋਫੀਆ"
 
 msgid "Europe/Stockholm"
 msgstr "ਯੂਰਪ/ਸਟੋਕਖੋਲਮ"
@@ -1233,7 +1236,7 @@ msgid "Europe/Tallinn"
 msgstr "ਯੂਰਪ/ਟਾਲੀਨ"
 
 msgid "Europe/Tirane"
-msgstr "ਯੂਰਪ/ੲੀਰਅਾਨੀ"
+msgstr "ਯੂਰਪ/ਈਰਆਨੀ"
 
 msgid "Europe/Tiraspol"
 msgstr "ਯੂਰਪ/ਤੀਰਸਪੋਲ"
@@ -1248,7 +1251,7 @@ msgid "Europe/Vatican"
 msgstr "ਯੂਰਪ/ਵਾਟੀਕਾਨ"
 
 msgid "Europe/Vienna"
-msgstr "ਯੂਰਪ/ਵੀਅਾਨਾ"
+msgstr "ਯੂਰਪ/ਵੀਆਨਾ"
 
 msgid "Europe/Vilnius"
 msgstr "ਯੂਰਪ/ਵੀਲਨੀਅਸ"
@@ -1260,7 +1263,7 @@ msgid "Europe/Zagreb"
 msgstr "ਯੂਰਪ/ਜਾਗਰਬ"
 
 msgid "Europe/Zaporozhye"
-msgstr "ਯੂਰਪ/ਜਾਪੋਰਪੋਜ਼ੲੀ"
+msgstr "ਯੂਰਪ/ਜਾਪੋਰਪੋਜ਼ਈ"
 
 msgid "Europe/Zurich"
 msgstr "ਯੂਰਪ/ਜ਼ੂਰਿਸ਼"
@@ -1290,52 +1293,52 @@ msgid "Greenwich"
 msgstr "ਗਰੀਨਵਿੱਚ"
 
 msgid "Hongkong"
-msgstr "ਹ੾ਗਕ੾ਗ"
+msgstr "ਹਾਂਗਕਾਂਗ"
 
 msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "ਅਾੲੀਲੈਡ"
+msgstr "ਆਈਲੈਡ"
 
 msgid "Indian/Antananarivo"
-msgstr "ੲਿੰਡੀਅਾ/ਅਨੀਅਾਨਾਰੀਵੋ"
+msgstr "ਇੰਡੀਆ/ਅਨੀਆਨਾਰੀਵੋ"
 
 msgid "Indian/Chagos"
-msgstr "ੲਿੰਡੀਅਾ/ਸ਼ਿਗੋਸ"
+msgstr "ਇੰਡੀਆ/ਸ਼ਿਗੋਸ"
 
 msgid "Indian/Christmas"
-msgstr "ੲਿੰਡੀਅਾ/ਕਿ੍ਸ਼ਮਸ਼"
+msgstr "ਇੰਡੀਆ/ਕ੍ਰਿਸ਼ਮਿਸ"
 
 msgid "Indian/Cocos"
-msgstr "ੲਿੰਡੀਅਾ/ਸੀਸੀਸ"
+msgstr "ਇੰਡੀਆ/ਸੀਸੀਸ"
 
 msgid "Indian/Comoro"
-msgstr "ੲਿੰਡੀਅਾ/ਕੰਮੋਰੋ"
+msgstr "ਇੰਡੀਆ/ਕੰਮੋਰੋ"
 
 msgid "Indian/Kerguelen"
-msgstr "ੲਿੰਡੀਅਾ/ਕਾਰਗੂੲੀਲੀਨ"
+msgstr "ਇੰਡੀਆ/ਕਾਰਗੂਈਲੀਨ"
 
 msgid "Indian/Mahe"
-msgstr "ੲਿੰਡੀਅਾ/ਮਾਹੀ"
+msgstr "ਇੰਡੀਆ/ਮਾਹੀ"
 
 msgid "Indian/Maldives"
-msgstr "ੲਿੰਡੀਅਾ/ਮਾਲਦੀਪ"
+msgstr "ਇੰਡੀਆ/ਮਾਲਦੀਪ"
 
 msgid "Indian/Mauritius"
-msgstr "ੲਿੰਡੀਅਾ/ਮਾੳੂਰਟੀਸ"
+msgstr "ਇੰਡੀਆ/ਮਾਊਰਟੀਸ"
 
 msgid "Indian/Mayotte"
-msgstr "ੲਿੰਡੀਅਾ/ਮਾੲਿਅਾਟੀ"
+msgstr "ਇੰਡੀਆ/ਮਾਇਆਟੀ"
 
 msgid "Indian/Reunion"
-msgstr "ੲਿੰਡੀਅਾ/ਰੀਯੂਨਨ"
+msgstr "ਇੰਡੀਆ/ਰੀਯੂਨਨ"
 
 msgid "Iran"
-msgstr "ੲੀਰਾਨ"
+msgstr "ਈਰਾਨ"
 
 msgid "Israel"
-msgstr "ੲਿਜ਼ਰਾੲੀਲ"
+msgstr "ਇਜ਼ਰਾਈਲ"
 
 msgid "Jamaica"
 msgstr "ਜੈਮਿਕਾ"
@@ -1347,7 +1350,7 @@ msgid "Kwajalein"
 msgstr "ਕਯਾਜਾਲਿਨ"
 
 msgid "Libya"
-msgstr "ਲੀਬੀਅਾ"
+msgstr "ਲੀਬੀਆ"
 
 msgid "MET"
 msgstr "MET"
@@ -1359,7 +1362,7 @@ msgid "Mexico/BajaSur"
 msgstr "ਮੈਕਸੀਕੋ/ਬਾਜ਼ਾਸੁਰ"
 
 msgid "Mexico/General"
-msgstr "ਮੈਕਸੀਕੋ/ਅਾਮ"
+msgstr "ਮੈਕਸੀਕੋ/ਆਮ"
 
 msgid "Mideast/Riyadh87"
 msgstr "ਮੱਧ-ਪੂਰਬੀ/ਰੀਯਾਡ੮੭"
@@ -1386,127 +1389,127 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "ਪ੍ਸ਼ਾਤ/ਅਪੀਅਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਅਪੀਆ"
 
 msgid "Pacific/Auckland"
-msgstr "ਪ੍ਸ਼ਾਤ/ਅਾਕਲੈਡ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਆਕਲੈਡ"
 
 msgid "Pacific/Chatham"
-msgstr "ਪ੍ਸ਼ਾਤ/ਚਾਥਾਮ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਚਾਥਾਮ"
 
 msgid "Pacific/Easter"
-msgstr "ਪ੍ਸ਼ਾਤ/ੲੀਸਟਰ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਈਸਟਰ"
 
 msgid "Pacific/Efate"
-msgstr "ਪ੍ਸ਼ਾਤ/ੲੀਫੇਟ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਈਫੇਟ"
 
 msgid "Pacific/Enderbury"
-msgstr "ਪ੍ਸ਼ਾਤ/ਅੈਡੀਰਬੁਰੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਐਡੀਰਬੁਰੀ"
 
 msgid "Pacific/Fakaofo"
-msgstr "ਪ੍ਸ਼ਾਤ/ਫਾਕਾੳੁਫੁ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫਾਕਾਉਫੁ"
 
 msgid "Pacific/Fiji"
-msgstr "ਪ੍ਸ਼ਾਤ/ਫਿਜ਼ੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫਿਜ਼ੀ"
 
 msgid "Pacific/Funafuti"
-msgstr "ਪ੍ਸ਼ਾਤ/ਫੂਨਾਫੁਟੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫੂਨਾਫੁਟੀ"
 
 msgid "Pacific/Galapagos"
-msgstr "ਪ੍ਸ਼ਾਤ/ਗਾਲਾਪਾਗੋਸ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗਾਲਾਪਾਗੋਸ"
 
 msgid "Pacific/Gambier"
-msgstr "ਪ੍ਸ਼ਾਤ/ਗਾਮਬੀਰ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗਾਮਬੀਰ"
 
 msgid "Pacific/Guadalcanal"
-msgstr "ਪ੍ਸ਼ਾਤ/ਗੂਡਾਲਕਨਾਲ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗੂਡਾਲਕਨਾਲ"
 
 msgid "Pacific/Guam"
-msgstr "ਪ੍ਸ਼ਾਤ/ਗੂਅਾਮ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗੂਆਮ"
 
 msgid "Pacific/Honolulu"
-msgstr "ਪ੍ਸ਼ਾਤ/ਹੋਨੋਲੂਲੂ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਹੋਨੋਲੂਲੂ"
 
 msgid "Pacific/Johnston"
-msgstr "ਪ੍ਸ਼ਾਤ/ਜਾਨਸਟੋਨ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਜਾਨਸਟੋਨ"
 
 msgid "Pacific/Kiritimati"
-msgstr "ਪ੍ਸ਼ਾਤ/ਕੀਰਮੀਸਟੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕੀਰਮੀਸਟੀ"
 
 msgid "Pacific/Kosrae"
-msgstr "ਪ੍ਸ਼ਾਤ/ਕੋਸਰਅਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕੋਸਰਆ"
 
 msgid "Pacific/Kwajalein"
-msgstr "ਪ੍ਸ਼ਾਤ/ਕਵਾਜਾਲੀਨਿ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕਵਾਜਾਲੀਨਿ"
 
 msgid "Pacific/Majuro"
-msgstr "ਪ੍ਸ਼ਾਤ/ਮਾਜੋਰੂ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਾਜੋਰੂ"
 
 msgid "Pacific/Marquesas"
-msgstr "ਪ੍ਸ਼ਾਤ/ਮਾਰੀਸ਼ਸ਼"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਾਰੀਸ਼ਸ਼"
 
 msgid "Pacific/Midway"
-msgstr "ਪ੍ਸ਼ਾਤ/ਮਿਡਵੇ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਿਡਵੇ"
 
 msgid "Pacific/Nauru"
-msgstr "ਪ੍ਸ਼ਾਤ/ਨੳੂਰੂ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨਊਰੂ"
 
 msgid "Pacific/Niue"
-msgstr "ਪ੍ਸ਼ਾਤ/ਨੀੳੂੲੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੀਊਈ"
 
 msgid "Pacific/Norfolk"
-msgstr "ਪ੍ਸ਼ਾਤ/ਨੋਫੋਕ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੋਫੋਕ"
 
 msgid "Pacific/Noumea"
-msgstr "ਪ੍ਸ਼ਾਤ/ਨੁੳੂਮੲਿਅਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੁਊਮਇਆ"
 
 msgid "Pacific/Pago_Pago"
-msgstr "ਪ੍ਸ਼ਾਤ/ਪਾਗੋ ਪਾਗੋ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪਾਗੋ ਪਾਗੋ"
 
 msgid "Pacific/Palau"
-msgstr "ਪ੍ਸ਼ਾਤ/ਪੀਲੀੳੁ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੀਲੀਉ"
 
 msgid "Pacific/Pitcairn"
-msgstr "ਪ੍ਸ਼ਾਤ/ਪਿਟਸਾਰਨ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪਿਟਸਾਰਨ"
 
 msgid "Pacific/Ponape"
-msgstr "ਪ੍ਸ਼ਾਤ/ਪੋਨਾਪੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੋਨਾਪੀ"
 
 msgid "Pacific/Port_Moresby"
-msgstr "ਪ੍ਸ਼ਾਤ/ਪੋਰਟ ਮੋਰਸਬਾੲੇ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੋਰਟ ਮੋਰਸਬਾਏ"
 
 msgid "Pacific/Rarotonga"
-msgstr "ਪ੍ਸ਼ਾਤ/ਰਾਰੋਟੋਗਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਰਾਰੋਟੋਗਾ"
 
 msgid "Pacific/Saipan"
-msgstr "ਪ੍ਸ਼ਾਤ/ਸਾੲੀਪਾਨ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਸਾਈਪਾਨ"
 
 msgid "Pacific/Samoa"
-msgstr "ਪ੍ਸ਼ਾਤ/ਸਾਮੋਅਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਸਾਮੋਆ"
 
 msgid "Pacific/Tahiti"
-msgstr "ਪ੍ਸ਼ਾਤ/ਤਾਹੀਟੀ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤਾਹੀਟੀ"
 
 msgid "Pacific/Tarawa"
-msgstr "ਪ੍ਸ਼ਾਤ/ਤਰਵਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤਰਵਾ"
 
 msgid "Pacific/Tongatapu"
-msgstr "ਪ੍ਸ਼ਾਤ/ਟੋਨਗਾਟਾਪੂ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਟੋਨਗਾਟਾਪੂ"
 
 msgid "Pacific/Truk"
-msgstr "ਪ੍ਸ਼ਾਤ/ਤੁਰਕ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤੁਰਕ"
 
 msgid "Pacific/Wake"
-msgstr "ਪ੍ਸ਼ਾਤ/ਵਾਕਾ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਵਾਕਾ"
 
 msgid "Pacific/Wallis"
-msgstr "ਪ੍ਸ਼ਾਤ/ਵਾਲਿਸ਼"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਵਾਲਿਸ਼"
 
 msgid "Pacific/Yap"
-msgstr "ਪ੍ਸ਼ਾਤ/ਯਾਪ"
+msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਯਾਪ"
 
 msgid "Poland"
-msgstr "ਪੋਲੈਡ"
+msgstr "ਪੋਲੈਂਡ"
 
 msgid "Portugal"
 msgstr "ਪੁਰਤਗਾਲ"
@@ -1578,25 +1581,25 @@ msgid "US/Alaska"
 msgstr "ਅਮਰੀਕਾ/ਅਲਾਸਕਾ"
 
 msgid "US/Aleutian"
-msgstr "ਅਮਰੀਕਾ/ਅਲੀੳੂਸਤਾਨ"
+msgstr "ਅਮਰੀਕਾ/ਅਲੀਊਸਤਾਨ"
 
 msgid "US/Arizona"
-msgstr "ਅਮਰੀਕਾ/ਅੈਰੀਜੋਨਾ"
+msgstr "ਅਮਰੀਕਾ/ਐਰੀਜੋਨਾ"
 
 msgid "US/Central"
-msgstr "ਅਮਰੀਕਾ/ਕੇਦਰੀ"
+msgstr "ਅਮਰੀਕਾ/ਕੇਂਦਰੀ"
 
 msgid "US/Eastern"
 msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ"
 
 msgid "US/East-Indiana"
-msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ-ੲਿੰਡੀਅਾਨਾ"
+msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ-ਇੰਡੀਆਨਾ"
 
 msgid "US/Hawaii"
-msgstr "ਅਮਰੀਕਾ/ਹਾਵਾੲੀ"
+msgstr "ਅਮਰੀਕਾ/ਹਾਵਾਈ"
 
 msgid "US/Indiana-Starke"
-msgstr "ਅਮਰੀਕਾ/ੲਿੰਡੀਅਾਨਾ-ਸਟਾਰਕੇ"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ-ਸਟਾਰਕੇ"
 
 msgid "US/Michigan"
 msgstr "ਅਮਰੀਕਾ/ਮਿਸ਼ੀਗਨ"
@@ -1605,7 +1608,7 @@ msgid "US/Mountain"
 msgstr "ਅਮਰੀਕਾ/ਪਹਾੜੀ"
 
 msgid "US/Pacific"
-msgstr "ਅਮਰੀਕਾ/ਪ੍ਸ਼ਾਤ"
+msgstr "ਅਮਰੀਕਾ/ਪ੍ਰਸ਼ਾਂਤ"
 
 msgid "US/Samoa"
 msgstr "ਅਮਰੀਕਾ/ਸਾਮੋਨਾ"
@@ -1622,73 +1625,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
 
-#~ msgid "Hardware clock set to GMT"
-#~ msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ਨੰੂ GMT ਨਾਲ ਮਿਲਾੳੁ"
-
-#~ msgid "Hardware clock uses ARC time (not UX/Ruffian)"
-#~ msgstr "ਹਾਰਡਵੇਅਰ ਘੜੀ ARC ਸਮ੾  (UX/Ruffian ਨਹੀ) ਵਰਤਦੀ ਹੈ"
-
-#~ msgid "cannot scan /usr/share/zoneinfo for timezones"
-#~ msgstr "ਸਮ੾-ਖੇਤਰ ਲੲੀn /usr/share/zoneinfo ਨੰੂ ਜ੾ਚ ਨਹੀ ਸਕਿਅਾ ਹੈ"
-
-#~ msgid "Ok"
-#~ msgstr "ਠੀਕ ਹੈ"
-
-#~ msgid "Back"
-#~ msgstr "ਪਿੱਛੇ"
-
-#~ msgid "Cancel"
-#~ msgstr "ਰੱਦ"
-
-#~ msgid "Format machine time is stored in:"
-#~ msgstr "ਫਾਰਮਿਟ ਮਸ਼ੀਨ ਸਮ੾ ੲਿਸ ਵਿੱਚ ਸੰਭਾਲੋਃ"
-
-#~ msgid "Configure Timezones"
-#~ msgstr "ਸਮ੾-ਖੇਤਰ ਸੰਰਚਨਾ"
-
-#~ msgid "%s: mismatched quotes on line %d in /etc/sysconfig/clock\n"
-#~ msgstr "%s: ਬੇਮੇਲ ਹਵਾਲਾ ਸਤਰ %d ਤੇ  /etc/sysconfig/clock ਵਿੱਚ\n"
-
-#~ msgid "%s: cannot open /etc/sysconfig/clock: %s\n"
-#~ msgstr "%s: ਖੋਲ੏ ਨਹੀ ਸਕਿਅਾ /etc/sysconfig/clock: %s\n"
-
-#~ msgid "%s: line %d unexpected in /etc/sysconfig/clock:\n"
-#~ msgstr "%s: ਸਤਰ %d ਬੇਲੋੜੀਦੀ ਹੈ /etc/sysconfig/clock ਵਿੱਚ:\n"
-
-#~ msgid "%s: cannot read /etc/sysconfig/clock: %s\n"
-#~ msgstr "%s: ਪੜ੏ ਨਹੀ ਸਕਦਾ ਹੈ /etc/sysconfig/clock: %s\n"
-
-#~ msgid "%s: bad argument %s: %s\n"
-#~ msgstr "%s: ਗਲਤ ਅਾਰਗੂਮਿੰਟ %s: %s\n"
-
-#~ msgid "%s: only one argument (the timezone) may be used\n"
-#~ msgstr "%s: ਸਿਰਫ ੲਿੱਕ ਅਾਰਗੂਮਿੰਟ (ਸਮ੾-ਖੇਤਰ) ਹੀ ਵਰਤਿਅਾ ਜਾ ਸਕਦਾ ਹੈ \n"
-
-#~ msgid "%s: can only be run as root\n"
-#~ msgstr "%s: ਰੂਟ ਦੇ ਤੌਰ ਤੇ ਹੀ ਚਲਾੲਿਅਾ ਜਾ ਸਕਦਾ ਹੈ\n"
-
-#~ msgid "%s: critical error reading /etc/sysconfig/clock"
-#~ msgstr "%s:  /etc/sysconfig/clock ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ"
-
-#~ msgid "%s: critical error reading /etc/localtime: %s\n"
-#~ msgstr "%s: /etc/localtime ਪੜ੏ਨ ਵਿੱਚ ਘਾਤਕ ਗਲਤੀ ਹੈ: %s\n"
-
-#~ msgid "%s: /etc/localtime points to unknown timezone %s\n"
-#~ msgstr "%s: /etc/localtime ੲਿੱਕ ਅਣਪਛਾਤੇ ਸਮ੾-ਖੇਤਰ %s ਵੱਲ ੲਿਸ਼ਾਰਾ ਕਰ ਰਿਹਾ ਹੈ ੤\n"
-
-#~ msgid "%s: current value will be ignored\n"
-#~ msgstr "%s: ਮੌਜੂਦਾ ਮੁੱਲ ਰੱਦ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ੤ \n"
-
-#~ msgid ""
-#~ "  <Tab>/<Alt-Tab> between elements  |  <Space> selects |  <F12> next "
-#~ "screen"
-#~ msgstr "  <Tab>/<Alt-Tab> ੲਿਕਾੲੀ ਵਿੱਚ  |  <Space> ਚੋਣ |  <F12> ਅਗਲਾ ਪਰਦਾ"
-
-#~ msgid "%s: failed to make /etc/localtime: %s"
-#~ msgstr "%s: ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ /etc/localtime: %s"
-
-#~ msgid "%s: failed to make /etc/sysconfig/clock: %s"
-#~ msgstr "%s:  ਬਣਾੳੁਣ ਵਿੱਚ ਅਸਫਲ  /etc/sysconfig/clock: %s"
-
-#~ msgid "%s: failed to write to /etc/sysconfig/clock: %s"
-#~ msgstr "%s: ਲਿਖਣ ਵਿੱਚ ਅਸਫਲ /etc/sysconfig/clock ਤੇ: %s"
