@@ -1,21 +1,21 @@
 # TimeConfig utility for Red Hat Linux
 # Translation into Serbian language
 # Copyright (C) 1999 Free Software Foundation, Inc.
-# Zoltan Èala <zolika@sezampro.yu>, 1999.
+# Zoltan Ãˆala <zolika@sezampro.yu>, 1999.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones $Revision: 1.1 $\n"
+"Project-Id-Version: timezones $Revision: 1.2 $\n"
 "POT-Creation-Date: 2001-01-25 15:49-0500\n"
 "PO-Revision-Date: 1999-09-09 10:00-0500\n"
-"Last-Translator: Zoltan Èala <zolika@sezampro.yu>\n"
+"Last-Translator: Zoltan Ãˆala <zolika@sezampro.yu>\n"
 "Language-Team: Serbian <sr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-2\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Africa/Abidjan"
-msgstr "Afrika/Abid¾an"
+msgstr "Afrika/AbidÂ¾an"
 
 msgid "Africa/Accra"
 msgstr "Afrika/Akra"
@@ -24,7 +24,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Adis_Abeba"
 
 msgid "Africa/Algiers"
-msgstr "Afrika/Al¾ir"
+msgstr "Afrika/AlÂ¾ir"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -48,7 +48,7 @@ msgid "Africa/Brazzaville"
 msgstr "Afrika/Brazavil"
 
 msgid "Africa/Bujumbura"
-msgstr "Afrika/Bud¾umbura"
+msgstr "Afrika/BudÂ¾umbura"
 
 msgid "Africa/Cairo"
 msgstr "Afrika/Kairo"
@@ -69,7 +69,7 @@ msgid "Africa/Dar_es_Salaam"
 msgstr "Afrika/Dar_es_Salam"
 
 msgid "Africa/Djibouti"
-msgstr "Afrika/D¾ibuti"
+msgstr "Afrika/DÂ¾ibuti"
 
 msgid "Africa/Douala"
 msgstr "Afrika/Duala"
@@ -99,7 +99,7 @@ msgid "Africa/Kigali"
 msgstr "Afrika/Kigali"
 
 msgid "Africa/Kinshasa"
-msgstr "Afrika/Kin¹asa"
+msgstr "Afrika/KinÂ¹asa"
 
 msgid "Africa/Lagos"
 msgstr "Afrika/Lagos"
@@ -114,7 +114,7 @@ msgid "Africa/Luanda"
 msgstr "Afrika/Luanda"
 
 msgid "Africa/Lubumbashi"
-msgstr "Afrika/Lubumba¹i"
+msgstr "Afrika/LubumbaÂ¹i"
 
 msgid "Africa/Lusaka"
 msgstr "Afrika/Lusaka"
@@ -132,7 +132,7 @@ msgid "Africa/Mbabane"
 msgstr "Afrika/Mbabane"
 
 msgid "Africa/Mogadishu"
-msgstr "Afrika/Mogadi¹"
+msgstr "Afrika/MogadiÂ¹"
 
 msgid "Africa/Monrovia"
 msgstr "Afrika/Monrovija"
@@ -141,13 +141,13 @@ msgid "Africa/Nairobi"
 msgstr "Afrika/Najrobi"
 
 msgid "Africa/Ndjamena"
-msgstr "Afrika/Nd¾amena"
+msgstr "Afrika/NdÂ¾amena"
 
 msgid "Africa/Niamey"
 msgstr "Afrika/Niamej"
 
 msgid "Africa/Nouakchott"
-msgstr "Afrika/Nuak¹ot"
+msgstr "Afrika/NuakÂ¹ot"
 
 msgid "Africa/Ouagadougou"
 msgstr "Afrika/Uagadugu"
@@ -174,7 +174,7 @@ msgid "America/Adak"
 msgstr "Amerika/Adak"
 
 msgid "America/Anchorage"
-msgstr "Amerika/Enkorid¾"
+msgstr "Amerika/EnkoridÂ¾"
 
 msgid "America/Anguilla"
 msgstr "Amerika/Anguilla"
@@ -236,10 +236,10 @@ msgid "America/Cayman"
 msgstr "Amerika/Kajman"
 
 msgid "America/Chicago"
-msgstr "Amerika/Èikago"
+msgstr "Amerika/Ãˆikago"
 
 msgid "America/Chihuahua"
-msgstr "America/Èihuahua"
+msgstr "America/Ãˆihuahua"
 
 msgid "America/Cordoba"
 msgstr "Amerika/Kordoba"
@@ -372,7 +372,7 @@ msgid "America/Lima"
 msgstr "Amerika/Lima"
 
 msgid "America/Los_Angeles"
-msgstr "Amerika/Los_Anðeles"
+msgstr "Amerika/Los_AnÃ°eles"
 
 msgid "America/Louisville"
 msgstr "Amerika/Luisvil"
@@ -531,7 +531,7 @@ msgid "America/Vancouver"
 msgstr "Kanada/Vankuver"
 
 msgid "America/Virgin"
-msgstr "Amerika/Vird¾in"
+msgstr "Amerika/VirdÂ¾in"
 
 msgid "America/Whitehorse"
 msgstr "Kanada/Vajthors"
@@ -564,7 +564,7 @@ msgid "Antarctica/Palmer"
 msgstr "Antarktik/Palmer"
 
 msgid "Antarctica/South_Pole"
-msgstr "Antartktik/Ju¾ni_Pol"
+msgstr "Antartktik/JuÂ¾ni_Pol"
 
 msgid "Antarctica/Syowa"
 msgstr "Antarktik/Syowa"
@@ -592,10 +592,10 @@ msgstr "Azija/Aqtobe"
 
 #, fuzzy
 msgid "Asia/Ashgabat"
-msgstr "Azija/Ak¹abad"
+msgstr "Azija/AkÂ¹abad"
 
 msgid "Asia/Ashkhabad"
-msgstr "Azija/Ak¹abad"
+msgstr "Azija/AkÂ¹abad"
 
 msgid "Asia/Baghdad"
 msgstr "Azija/Bagdad"
@@ -613,7 +613,7 @@ msgid "Asia/Beirut"
 msgstr "Azija/Bejrut"
 
 msgid "Asia/Bishkek"
-msgstr "Azija/Bi¹kek"
+msgstr "Azija/BiÂ¹kek"
 
 msgid "Asia/Brunei"
 msgstr "Azija/Brunej"
@@ -622,7 +622,7 @@ msgid "Asia/Calcutta"
 msgstr "Azija/Kalkuta"
 
 msgid "Asia/Chungking"
-msgstr "Azija/Èunking"
+msgstr "Azija/Ãˆunking"
 
 msgid "Asia/Colombo"
 msgstr "Azija/Kolombo"
@@ -645,7 +645,7 @@ msgid "Asia/Dubai"
 msgstr "Azija/Dubaj"
 
 msgid "Asia/Dushanbe"
-msgstr "Azija/Du¹anbe"
+msgstr "Azija/DuÂ¹anbe"
 
 msgid "Asia/Gaza"
 msgstr "Azija/Gaza"
@@ -667,10 +667,10 @@ msgid "Asia/Istanbul"
 msgstr "Azija/Carigrad"
 
 msgid "Asia/Jakarta"
-msgstr "Azija/D¾akarta"
+msgstr "Azija/DÂ¾akarta"
 
 msgid "Asia/Jayapura"
-msgstr "Azija/D¾ajapura"
+msgstr "Azija/DÂ¾ajapura"
 
 msgid "Asia/Jerusalem"
 msgstr "Azija/Jerusalim"
@@ -679,13 +679,13 @@ msgid "Asia/Kabul"
 msgstr "Azija/Kabul"
 
 msgid "Asia/Kamchatka"
-msgstr "Azija/Kamèatka"
+msgstr "Azija/KamÃ¨atka"
 
 msgid "Asia/Karachi"
-msgstr "Azija/Karaèi"
+msgstr "Azija/KaraÃ¨i"
 
 msgid "Asia/Kashgar"
-msgstr "Azija/Ka¹gar"
+msgstr "Azija/KaÂ¹gar"
 
 msgid "Asia/Katmandu"
 msgstr "Azija/Kartmandu"
@@ -697,7 +697,7 @@ msgid "Asia/Kuala_Lumpur"
 msgstr "Azija/Kuala_Lumpur"
 
 msgid "Asia/Kuching"
-msgstr "Azija/Kuèing"
+msgstr "Azija/KuÃ¨ing"
 
 msgid "Asia/Kuwait"
 msgstr "Azija/Kuvajt"
@@ -757,7 +757,7 @@ msgid "Asia/Seoul"
 msgstr "Azija/Seul"
 
 msgid "Asia/Shanghai"
-msgstr "Azija/©angaj"
+msgstr "Azija/Â©angaj"
 
 msgid "Asia/Singapore"
 msgstr "Azija/Singapur"
@@ -766,7 +766,7 @@ msgid "Asia/Taipei"
 msgstr "Azija/Tajpej"
 
 msgid "Asia/Tashkent"
-msgstr "Azija/Ta¹kent"
+msgstr "Azija/TaÂ¹kent"
 
 msgid "Asia/Tbilisi"
 msgstr "Azija/Tbilisi"
@@ -798,7 +798,7 @@ msgid "Asia/Ulan_Bator"
 msgstr "Azija/Ulan_Bator"
 
 msgid "Asia/Urumqi"
-msgstr "Azija/Urumèi"
+msgstr "Azija/UrumÃ¨i"
 
 msgid "Asia/Vientiane"
 msgstr "Azija/Vijentijan"
@@ -840,7 +840,7 @@ msgid "Atlantic/Reykjavik"
 msgstr "Atlantik/Rejkjavik"
 
 msgid "Atlantic/South_Georgia"
-msgstr "Atlantik/Ju¾na_D¾ord¾ija"
+msgstr "Atlantik/JuÂ¾na_DÂ¾ordÂ¾ija"
 
 msgid "Atlantic/Stanley"
 msgstr "Atlantik/Stenli"
@@ -933,19 +933,19 @@ msgid "Canada/Eastern"
 msgstr "Kanada/Istok"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "Kanada/Istoèni-Saskaèevan"
+msgstr "Kanada/IstoÃ¨ni-SaskaÃ¨evan"
 
 msgid "Canada/Mountain"
 msgstr "Kanada/Planine"
 
 msgid "Canada/Newfoundland"
-msgstr "Kanada/NovoNaðenaZemlja"
+msgstr "Kanada/NovoNaÃ°enaZemlja"
 
 msgid "Canada/Pacific"
 msgstr "Kanada/Pacifik"
 
 msgid "Canada/Saskatchewan"
-msgstr "Kanada/Saskaèevan"
+msgstr "Kanada/SaskaÃ¨evan"
 
 msgid "Canada/Yukon"
 msgstr "Kanada/Jukon"
@@ -954,10 +954,10 @@ msgid "CET"
 msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr "Èile/Kontinentalni"
+msgstr "Ãˆile/Kontinentalni"
 
 msgid "Chile/EasterIsland"
-msgstr "Èile/Uskr¹njeOstrvo"
+msgstr "Ãˆile/UskrÂ¹njeOstrvo"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -1071,7 +1071,7 @@ msgid "Etc/GMT+9"
 msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr "Etc/Griniè"
+msgstr "Etc/GriniÃ¨"
 
 msgid "Etc/UCT"
 msgstr "Etc/UCT"
@@ -1110,13 +1110,13 @@ msgid "Europe/Brussels"
 msgstr "Evropa/Brisel"
 
 msgid "Europe/Bucharest"
-msgstr "Evropa/Bukure¹t"
+msgstr "Evropa/BukureÂ¹t"
 
 msgid "Europe/Budapest"
-msgstr "Evropa/Budimpe¹ta"
+msgstr "Evropa/BudimpeÂ¹ta"
 
 msgid "Europe/Chisinau"
-msgstr "Evropa/Èisino"
+msgstr "Evropa/Ãˆisino"
 
 msgid "Europe/Copenhagen"
 msgstr "Evropa/Kopenhagen"
@@ -1227,13 +1227,13 @@ msgid "Europe/Vatican"
 msgstr "Evropa/Vatikan"
 
 msgid "Europe/Vienna"
-msgstr "Evropa/Beè"
+msgstr "Evropa/BeÃ¨"
 
 msgid "Europe/Vilnius"
 msgstr "Evropa/Vilnjus"
 
 msgid "Europe/Warsaw"
-msgstr "Evropa/Var¹ava"
+msgstr "Evropa/VarÂ¹ava"
 
 msgid "Europe/Zagreb"
 msgstr "Evropa/Zagreb"
@@ -1268,7 +1268,7 @@ msgid "GMT+0"
 msgstr "GMT+0"
 
 msgid "Greenwich"
-msgstr "Griniè"
+msgstr "GriniÃ¨"
 
 msgid "Hongkong"
 msgstr "Hongkong"
@@ -1283,10 +1283,10 @@ msgid "Indian/Antananarivo"
 msgstr "IndijskiOkean/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "IndijskiOkean/Èagos"
+msgstr "IndijskiOkean/Ãˆagos"
 
 msgid "Indian/Christmas"
-msgstr "IndijskiOkean/Bo¾iæ"
+msgstr "IndijskiOkean/BoÂ¾iÃ¦"
 
 msgid "Indian/Cocos"
 msgstr "IndijskiOkean/Kokos"
@@ -1340,7 +1340,7 @@ msgid "Mexico/BajaSur"
 msgstr "Meksiko/BajaSur"
 
 msgid "Mexico/General"
-msgstr "Meksiko/Op¹te"
+msgstr "Meksiko/OpÂ¹te"
 
 msgid "Mideast/Riyadh87"
 msgstr "SrednjiIstok/Rijad87"
@@ -1388,7 +1388,7 @@ msgid "Pacific/Fakaofo"
 msgstr "Pacifik/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "Pacifik/Fid¾i"
+msgstr "Pacifik/FidÂ¾i"
 
 msgid "Pacific/Funafuti"
 msgstr "Pacifik/Funafuti"
@@ -1571,7 +1571,7 @@ msgid "US/Eastern"
 msgstr "SAD/Istok"
 
 msgid "US/East-Indiana"
-msgstr "SAD/Istoèna-Indijana"
+msgstr "SAD/IstoÃ¨na-Indijana"
 
 msgid "US/Hawaii"
 msgstr "SAD/Havaji"
@@ -1580,7 +1580,7 @@ msgid "US/Indiana-Starke"
 msgstr "SAD/Indijana-Stark"
 
 msgid "US/Michigan"
-msgstr "SAD/Mièigen"
+msgstr "SAD/MiÃ¨igen"
 
 msgid "US/Mountain"
 msgstr "SAD/Planine"
@@ -1605,7 +1605,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Abidjan"
-#~ msgstr "Afrika/Abid¾an"
+#~ msgstr "Afrika/AbidÂ¾an"
 
 #, fuzzy
 #~ msgid "posix/Africa/Accra"
@@ -1617,7 +1617,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Algiers"
-#~ msgstr "Afrika/Al¾ir"
+#~ msgstr "Afrika/AlÂ¾ir"
 
 #, fuzzy
 #~ msgid "posix/Africa/Asmera"
@@ -1649,7 +1649,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Bujumbura"
-#~ msgstr "Afrika/Bud¾umbura"
+#~ msgstr "Afrika/BudÂ¾umbura"
 
 #, fuzzy
 #~ msgid "posix/Africa/Cairo"
@@ -1677,7 +1677,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Djibouti"
-#~ msgstr "Afrika/D¾ibuti"
+#~ msgstr "Afrika/DÂ¾ibuti"
 
 #, fuzzy
 #~ msgid "posix/Africa/Douala"
@@ -1717,7 +1717,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Kinshasa"
-#~ msgstr "Afrika/Kin¹asa"
+#~ msgstr "Afrika/KinÂ¹asa"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lagos"
@@ -1737,7 +1737,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lubumbashi"
-#~ msgstr "Afrika/Lubumba¹i"
+#~ msgstr "Afrika/LubumbaÂ¹i"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lusaka"
@@ -1761,7 +1761,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Mogadishu"
-#~ msgstr "Afrika/Mogadi¹"
+#~ msgstr "Afrika/MogadiÂ¹"
 
 #, fuzzy
 #~ msgid "posix/Africa/Monrovia"
@@ -1773,7 +1773,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Ndjamena"
-#~ msgstr "Afrika/Nd¾amena"
+#~ msgstr "Afrika/NdÂ¾amena"
 
 #, fuzzy
 #~ msgid "posix/Africa/Niamey"
@@ -1781,7 +1781,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Nouakchott"
-#~ msgstr "Afrika/Nuak¹ot"
+#~ msgstr "Afrika/NuakÂ¹ot"
 
 #, fuzzy
 #~ msgid "posix/Africa/Ouagadougou"
@@ -1817,7 +1817,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/America/Anchorage"
-#~ msgstr "Amerika/Enkorid¾"
+#~ msgstr "Amerika/EnkoridÂ¾"
 
 #, fuzzy
 #~ msgid "posix/America/Anguilla"
@@ -1897,11 +1897,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/America/Chicago"
-#~ msgstr "Amerika/Èikago"
+#~ msgstr "Amerika/Ãˆikago"
 
 #, fuzzy
 #~ msgid "posix/America/Chihuahua"
-#~ msgstr "America/Èihuahua"
+#~ msgstr "America/Ãˆihuahua"
 
 #, fuzzy
 #~ msgid "posix/America/Cordoba"
@@ -2061,7 +2061,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/America/Los_Angeles"
-#~ msgstr "Amerika/Los_Anðeles"
+#~ msgstr "Amerika/Los_AnÃ°eles"
 
 #, fuzzy
 #~ msgid "posix/America/Louisville"
@@ -2265,7 +2265,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/America/Virgin"
-#~ msgstr "Amerika/Vird¾in"
+#~ msgstr "Amerika/VirdÂ¾in"
 
 #, fuzzy
 #~ msgid "posix/America/Whitehorse"
@@ -2309,7 +2309,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/South_Pole"
-#~ msgstr "Antartktik/Ju¾ni_Pol"
+#~ msgstr "Antartktik/JuÂ¾ni_Pol"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Syowa"
@@ -2345,7 +2345,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Ashkhabad"
-#~ msgstr "Azija/Ak¹abad"
+#~ msgstr "Azija/AkÂ¹abad"
 
 #, fuzzy
 #~ msgid "posix/Asia/Baghdad"
@@ -2369,7 +2369,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Bishkek"
-#~ msgstr "Azija/Bi¹kek"
+#~ msgstr "Azija/BiÂ¹kek"
 
 #, fuzzy
 #~ msgid "posix/Asia/Brunei"
@@ -2381,7 +2381,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Chungking"
-#~ msgstr "Azija/Èunking"
+#~ msgstr "Azija/Ãˆunking"
 
 #, fuzzy
 #~ msgid "posix/Asia/Colombo"
@@ -2405,7 +2405,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Dushanbe"
-#~ msgstr "Azija/Du¹anbe"
+#~ msgstr "Azija/DuÂ¹anbe"
 
 #, fuzzy
 #~ msgid "posix/Asia/Gaza"
@@ -2433,11 +2433,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jakarta"
-#~ msgstr "Azija/D¾akarta"
+#~ msgstr "Azija/DÂ¾akarta"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jayapura"
-#~ msgstr "Azija/D¾ajapura"
+#~ msgstr "Azija/DÂ¾ajapura"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jerusalem"
@@ -2449,15 +2449,15 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kamchatka"
-#~ msgstr "Azija/Kamèatka"
+#~ msgstr "Azija/KamÃ¨atka"
 
 #, fuzzy
 #~ msgid "posix/Asia/Karachi"
-#~ msgstr "Azija/Karaèi"
+#~ msgstr "Azija/KaraÃ¨i"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kashgar"
-#~ msgstr "Azija/Ka¹gar"
+#~ msgstr "Azija/KaÂ¹gar"
 
 #, fuzzy
 #~ msgid "posix/Asia/Katmandu"
@@ -2473,7 +2473,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kuching"
-#~ msgstr "Azija/Kuèing"
+#~ msgstr "Azija/KuÃ¨ing"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kuwait"
@@ -2553,7 +2553,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Shanghai"
-#~ msgstr "Azija/©angaj"
+#~ msgstr "Azija/Â©angaj"
 
 #, fuzzy
 #~ msgid "posix/Asia/Singapore"
@@ -2565,7 +2565,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tashkent"
-#~ msgstr "Azija/Ta¹kent"
+#~ msgstr "Azija/TaÂ¹kent"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tbilisi"
@@ -2601,7 +2601,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Urumqi"
-#~ msgstr "Azija/Urumèi"
+#~ msgstr "Azija/UrumÃ¨i"
 
 #, fuzzy
 #~ msgid "posix/Asia/Vientiane"
@@ -2657,7 +2657,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/South_Georgia"
-#~ msgstr "Atlantik/Ju¾na_D¾ord¾ija"
+#~ msgstr "Atlantik/JuÂ¾na_DÂ¾ordÂ¾ija"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Stanley"
@@ -2781,7 +2781,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Canada/East-Saskatchewan"
-#~ msgstr "Kanada/Istoèni-Saskaèevan"
+#~ msgstr "Kanada/IstoÃ¨ni-SaskaÃ¨evan"
 
 #, fuzzy
 #~ msgid "posix/Canada/Mountain"
@@ -2789,7 +2789,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Canada/Newfoundland"
-#~ msgstr "Kanada/NovoNaðenaZemlja"
+#~ msgstr "Kanada/NovoNaÃ°enaZemlja"
 
 #, fuzzy
 #~ msgid "posix/Canada/Pacific"
@@ -2797,7 +2797,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Canada/Saskatchewan"
-#~ msgstr "Kanada/Saskaèevan"
+#~ msgstr "Kanada/SaskaÃ¨evan"
 
 #, fuzzy
 #~ msgid "posix/Canada/Yukon"
@@ -2805,11 +2805,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Chile/Continental"
-#~ msgstr "Èile/Kontinentalni"
+#~ msgstr "Ãˆile/Kontinentalni"
 
 #, fuzzy
 #~ msgid "posix/Chile/EasterIsland"
-#~ msgstr "Èile/Uskr¹njeOstrvo"
+#~ msgstr "Ãˆile/UskrÂ¹njeOstrvo"
 
 #, fuzzy
 #~ msgid "posix/CST6CDT"
@@ -2949,7 +2949,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Etc/Greenwich"
-#~ msgstr "Etc/Griniè"
+#~ msgstr "Etc/GriniÃ¨"
 
 #, fuzzy
 #~ msgid "posix/Etc/UCT"
@@ -3001,15 +3001,15 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Bucharest"
-#~ msgstr "Evropa/Bukure¹t"
+#~ msgstr "Evropa/BukureÂ¹t"
 
 #, fuzzy
 #~ msgid "posix/Europe/Budapest"
-#~ msgstr "Evropa/Budimpe¹ta"
+#~ msgstr "Evropa/BudimpeÂ¹ta"
 
 #, fuzzy
 #~ msgid "posix/Europe/Chisinau"
-#~ msgstr "Evropa/Èisino"
+#~ msgstr "Evropa/Ãˆisino"
 
 #, fuzzy
 #~ msgid "posix/Europe/Copenhagen"
@@ -3149,7 +3149,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Vienna"
-#~ msgstr "Evropa/Beè"
+#~ msgstr "Evropa/BeÃ¨"
 
 #, fuzzy
 #~ msgid "posix/Europe/Vilnius"
@@ -3157,7 +3157,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Warsaw"
-#~ msgstr "Evropa/Var¹ava"
+#~ msgstr "Evropa/VarÂ¹ava"
 
 #, fuzzy
 #~ msgid "posix/Europe/Zagreb"
@@ -3189,7 +3189,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Greenwich"
-#~ msgstr "Griniè"
+#~ msgstr "GriniÃ¨"
 
 #, fuzzy
 #~ msgid "posix/Hongkong"
@@ -3205,11 +3205,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Indian/Chagos"
-#~ msgstr "IndijskiOkean/Èagos"
+#~ msgstr "IndijskiOkean/Ãˆagos"
 
 #, fuzzy
 #~ msgid "posix/Indian/Christmas"
-#~ msgstr "IndijskiOkean/Bo¾iæ"
+#~ msgstr "IndijskiOkean/BoÂ¾iÃ¦"
 
 #, fuzzy
 #~ msgid "posix/Indian/Cocos"
@@ -3273,7 +3273,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Mexico/General"
-#~ msgstr "Meksiko/Op¹te"
+#~ msgstr "Meksiko/OpÂ¹te"
 
 #, fuzzy
 #~ msgid "posix/Mideast/Riyadh87"
@@ -3329,7 +3329,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Fiji"
-#~ msgstr "Pacifik/Fid¾i"
+#~ msgstr "Pacifik/FidÂ¾i"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Funafuti"
@@ -3557,7 +3557,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/US/East-Indiana"
-#~ msgstr "SAD/Istoèna-Indijana"
+#~ msgstr "SAD/IstoÃ¨na-Indijana"
 
 #, fuzzy
 #~ msgid "posix/US/Hawaii"
@@ -3569,7 +3569,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/US/Michigan"
-#~ msgstr "SAD/Mièigen"
+#~ msgstr "SAD/MiÃ¨igen"
 
 #, fuzzy
 #~ msgid "posix/US/Mountain"
@@ -3585,7 +3585,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Abidjan"
-#~ msgstr "Afrika/Abid¾an"
+#~ msgstr "Afrika/AbidÂ¾an"
 
 #, fuzzy
 #~ msgid "right/Africa/Accra"
@@ -3597,7 +3597,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Algiers"
-#~ msgstr "Afrika/Al¾ir"
+#~ msgstr "Afrika/AlÂ¾ir"
 
 #, fuzzy
 #~ msgid "right/Africa/Asmera"
@@ -3629,7 +3629,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Bujumbura"
-#~ msgstr "Afrika/Bud¾umbura"
+#~ msgstr "Afrika/BudÂ¾umbura"
 
 #, fuzzy
 #~ msgid "right/Africa/Cairo"
@@ -3657,7 +3657,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Djibouti"
-#~ msgstr "Afrika/D¾ibuti"
+#~ msgstr "Afrika/DÂ¾ibuti"
 
 #, fuzzy
 #~ msgid "right/Africa/Douala"
@@ -3697,7 +3697,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Kinshasa"
-#~ msgstr "Afrika/Kin¹asa"
+#~ msgstr "Afrika/KinÂ¹asa"
 
 #, fuzzy
 #~ msgid "right/Africa/Lagos"
@@ -3717,7 +3717,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Lubumbashi"
-#~ msgstr "Afrika/Lubumba¹i"
+#~ msgstr "Afrika/LubumbaÂ¹i"
 
 #, fuzzy
 #~ msgid "right/Africa/Lusaka"
@@ -3741,7 +3741,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Mogadishu"
-#~ msgstr "Afrika/Mogadi¹"
+#~ msgstr "Afrika/MogadiÂ¹"
 
 #, fuzzy
 #~ msgid "right/Africa/Monrovia"
@@ -3753,7 +3753,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Ndjamena"
-#~ msgstr "Afrika/Nd¾amena"
+#~ msgstr "Afrika/NdÂ¾amena"
 
 #, fuzzy
 #~ msgid "right/Africa/Niamey"
@@ -3761,7 +3761,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Nouakchott"
-#~ msgstr "Afrika/Nuak¹ot"
+#~ msgstr "Afrika/NuakÂ¹ot"
 
 #, fuzzy
 #~ msgid "right/Africa/Ouagadougou"
@@ -3797,7 +3797,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/America/Anchorage"
-#~ msgstr "Amerika/Enkorid¾"
+#~ msgstr "Amerika/EnkoridÂ¾"
 
 #, fuzzy
 #~ msgid "right/America/Anguilla"
@@ -3877,11 +3877,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/America/Chicago"
-#~ msgstr "Amerika/Èikago"
+#~ msgstr "Amerika/Ãˆikago"
 
 #, fuzzy
 #~ msgid "right/America/Chihuahua"
-#~ msgstr "America/Èihuahua"
+#~ msgstr "America/Ãˆihuahua"
 
 #, fuzzy
 #~ msgid "right/America/Cordoba"
@@ -4041,7 +4041,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/America/Los_Angeles"
-#~ msgstr "Amerika/Los_Anðeles"
+#~ msgstr "Amerika/Los_AnÃ°eles"
 
 #, fuzzy
 #~ msgid "right/America/Louisville"
@@ -4245,7 +4245,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/America/Virgin"
-#~ msgstr "Amerika/Vird¾in"
+#~ msgstr "Amerika/VirdÂ¾in"
 
 #, fuzzy
 #~ msgid "right/America/Whitehorse"
@@ -4289,7 +4289,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Antarctica/South_Pole"
-#~ msgstr "Antartktik/Ju¾ni_Pol"
+#~ msgstr "Antartktik/JuÂ¾ni_Pol"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Syowa"
@@ -4325,7 +4325,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Ashkhabad"
-#~ msgstr "Azija/Ak¹abad"
+#~ msgstr "Azija/AkÂ¹abad"
 
 #, fuzzy
 #~ msgid "right/Asia/Baghdad"
@@ -4349,7 +4349,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Bishkek"
-#~ msgstr "Azija/Bi¹kek"
+#~ msgstr "Azija/BiÂ¹kek"
 
 #, fuzzy
 #~ msgid "right/Asia/Brunei"
@@ -4361,7 +4361,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Chungking"
-#~ msgstr "Azija/Èunking"
+#~ msgstr "Azija/Ãˆunking"
 
 #, fuzzy
 #~ msgid "right/Asia/Colombo"
@@ -4385,7 +4385,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Dushanbe"
-#~ msgstr "Azija/Du¹anbe"
+#~ msgstr "Azija/DuÂ¹anbe"
 
 #, fuzzy
 #~ msgid "right/Asia/Gaza"
@@ -4413,11 +4413,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Jakarta"
-#~ msgstr "Azija/D¾akarta"
+#~ msgstr "Azija/DÂ¾akarta"
 
 #, fuzzy
 #~ msgid "right/Asia/Jayapura"
-#~ msgstr "Azija/D¾ajapura"
+#~ msgstr "Azija/DÂ¾ajapura"
 
 #, fuzzy
 #~ msgid "right/Asia/Jerusalem"
@@ -4429,15 +4429,15 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Kamchatka"
-#~ msgstr "Azija/Kamèatka"
+#~ msgstr "Azija/KamÃ¨atka"
 
 #, fuzzy
 #~ msgid "right/Asia/Karachi"
-#~ msgstr "Azija/Karaèi"
+#~ msgstr "Azija/KaraÃ¨i"
 
 #, fuzzy
 #~ msgid "right/Asia/Kashgar"
-#~ msgstr "Azija/Ka¹gar"
+#~ msgstr "Azija/KaÂ¹gar"
 
 #, fuzzy
 #~ msgid "right/Asia/Katmandu"
@@ -4453,7 +4453,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Kuching"
-#~ msgstr "Azija/Kuèing"
+#~ msgstr "Azija/KuÃ¨ing"
 
 #, fuzzy
 #~ msgid "right/Asia/Kuwait"
@@ -4533,7 +4533,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Shanghai"
-#~ msgstr "Azija/©angaj"
+#~ msgstr "Azija/Â©angaj"
 
 #, fuzzy
 #~ msgid "right/Asia/Singapore"
@@ -4545,7 +4545,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Tashkent"
-#~ msgstr "Azija/Ta¹kent"
+#~ msgstr "Azija/TaÂ¹kent"
 
 #, fuzzy
 #~ msgid "right/Asia/Tbilisi"
@@ -4581,7 +4581,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Asia/Urumqi"
-#~ msgstr "Azija/Urumèi"
+#~ msgstr "Azija/UrumÃ¨i"
 
 #, fuzzy
 #~ msgid "right/Asia/Vientiane"
@@ -4637,7 +4637,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Atlantic/South_Georgia"
-#~ msgstr "Atlantik/Ju¾na_D¾ord¾ija"
+#~ msgstr "Atlantik/JuÂ¾na_DÂ¾ordÂ¾ija"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Stanley"
@@ -4761,7 +4761,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Canada/East-Saskatchewan"
-#~ msgstr "Kanada/Istoèni-Saskaèevan"
+#~ msgstr "Kanada/IstoÃ¨ni-SaskaÃ¨evan"
 
 #, fuzzy
 #~ msgid "right/Canada/Mountain"
@@ -4769,7 +4769,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Canada/Newfoundland"
-#~ msgstr "Kanada/NovoNaðenaZemlja"
+#~ msgstr "Kanada/NovoNaÃ°enaZemlja"
 
 #, fuzzy
 #~ msgid "right/Canada/Pacific"
@@ -4777,7 +4777,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Canada/Saskatchewan"
-#~ msgstr "Kanada/Saskaèevan"
+#~ msgstr "Kanada/SaskaÃ¨evan"
 
 #, fuzzy
 #~ msgid "right/Canada/Yukon"
@@ -4785,11 +4785,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Chile/Continental"
-#~ msgstr "Èile/Kontinentalni"
+#~ msgstr "Ãˆile/Kontinentalni"
 
 #, fuzzy
 #~ msgid "right/Chile/EasterIsland"
-#~ msgstr "Èile/Uskr¹njeOstrvo"
+#~ msgstr "Ãˆile/UskrÂ¹njeOstrvo"
 
 #, fuzzy
 #~ msgid "right/CST6CDT"
@@ -4925,7 +4925,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Etc/Greenwich"
-#~ msgstr "Etc/Griniè"
+#~ msgstr "Etc/GriniÃ¨"
 
 #, fuzzy
 #~ msgid "right/Etc/UCT"
@@ -4977,15 +4977,15 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Bucharest"
-#~ msgstr "Evropa/Bukure¹t"
+#~ msgstr "Evropa/BukureÂ¹t"
 
 #, fuzzy
 #~ msgid "right/Europe/Budapest"
-#~ msgstr "Evropa/Budimpe¹ta"
+#~ msgstr "Evropa/BudimpeÂ¹ta"
 
 #, fuzzy
 #~ msgid "right/Europe/Chisinau"
-#~ msgstr "Evropa/Èisino"
+#~ msgstr "Evropa/Ãˆisino"
 
 #, fuzzy
 #~ msgid "right/Europe/Copenhagen"
@@ -5125,7 +5125,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Vienna"
-#~ msgstr "Evropa/Beè"
+#~ msgstr "Evropa/BeÃ¨"
 
 #, fuzzy
 #~ msgid "right/Europe/Vilnius"
@@ -5133,7 +5133,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Warsaw"
-#~ msgstr "Evropa/Var¹ava"
+#~ msgstr "Evropa/VarÂ¹ava"
 
 #, fuzzy
 #~ msgid "right/Europe/Zagreb"
@@ -5173,7 +5173,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Greenwich"
-#~ msgstr "Etc/Griniè"
+#~ msgstr "Etc/GriniÃ¨"
 
 #, fuzzy
 #~ msgid "right/Hongkong"
@@ -5189,11 +5189,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Indian/Chagos"
-#~ msgstr "IndijskiOkean/Èagos"
+#~ msgstr "IndijskiOkean/Ãˆagos"
 
 #, fuzzy
 #~ msgid "right/Indian/Christmas"
-#~ msgstr "IndijskiOkean/Bo¾iæ"
+#~ msgstr "IndijskiOkean/BoÂ¾iÃ¦"
 
 #, fuzzy
 #~ msgid "right/Indian/Cocos"
@@ -5257,7 +5257,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Mexico/General"
-#~ msgstr "Meksiko/Op¹te"
+#~ msgstr "Meksiko/OpÂ¹te"
 
 #, fuzzy
 #~ msgid "right/Mideast/Riyadh87"
@@ -5313,7 +5313,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Pacific/Fiji"
-#~ msgstr "Pacifik/Fid¾i"
+#~ msgstr "Pacifik/FidÂ¾i"
 
 #, fuzzy
 #~ msgid "right/Pacific/Funafuti"
@@ -5545,7 +5545,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/US/East-Indiana"
-#~ msgstr "SAD/Istoèna-Indijana"
+#~ msgstr "SAD/IstoÃ¨na-Indijana"
 
 #, fuzzy
 #~ msgid "right/US/Hawaii"
@@ -5557,7 +5557,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/US/Michigan"
-#~ msgstr "SAD/Mièigen"
+#~ msgstr "SAD/MiÃ¨igen"
 
 #, fuzzy
 #~ msgid "right/US/Mountain"
@@ -5580,4 +5580,4 @@ msgstr "Zulu"
 #~ msgstr "Etc/Zulu"
 
 #~ msgid "Startup through ARC console"
-#~ msgstr "Poèetak kroz ARC konzolu"
+#~ msgstr "PoÃ¨etak kroz ARC konzolu"
