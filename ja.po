@@ -8,13 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ja\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-01-24 09:12GMT+10:00\n"
-"Last-Translator: James Hashida <khashida@redhat.com>\n"
-"Language-Team: Japanese <i18-list@redhat.com>\n"
+"PO-Revision-Date: 2004-04-08 17:53GMT+10:00\n"
+"Last-Translator: Kiyoto James Hashida <khashida@redhat.com>\n"
+"Language-Team: Japanese <ja@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0beta2\n"
+"X-Generator: KBabel 1.3\n"
 
 msgid "Africa/Abidjan"
 msgstr "アフリカ/アビジャン"
@@ -253,9 +253,8 @@ msgstr "アメリカ/クヤバ"
 msgid "America/Curacao"
 msgstr "アメリカ/キュラソー"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "アメリカ/ケイマン"
+msgstr "アメリカ/デンマークシャブン"
 
 msgid "America/Dawson"
 msgstr "アメリカ/ドーソン"
@@ -434,9 +433,8 @@ msgstr "アメリカ/ノーム"
 msgid "America/Noronha"
 msgstr "アメリカ/ノロハ"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "アメリカ/フォートウェイン"
+msgstr "アメリカ/ノースダコタ/中央部"
 
 msgid "America/Panama"
 msgstr "アメリカ/パナマ"
@@ -477,9 +475,8 @@ msgstr "アメリカ/レシーフ"
 msgid "America/Regina"
 msgstr "アメリカ/レジャイナ"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "アメリカ/キュラソー"
+msgstr "アメリカ/リオブランコ"
 
 msgid "America/Rosario"
 msgstr "アメリカ/ロサリオ"
@@ -574,9 +571,8 @@ msgstr "南極大陸/サウスポール"
 msgid "Antarctica/Syowa"
 msgstr "南極大陸/ショーワ"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "南極大陸/モーソン"
+msgstr "南極大陸/ボストーク"
 
 msgid "Arctic/Longyearbyen"
 msgstr "北極大陸/ロングヤーブエン"
@@ -629,11 +625,9 @@ msgstr "アジア/ブルネイ"
 msgid "Asia/Calcutta"
 msgstr "アジア/カルカッタ"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "アジア/カルカッタ"
+msgstr "アジア/チョイバルサン"
 
-#, fuzzy
 msgid "Asia/Chongqing"
 msgstr "アジア/重慶"
 
@@ -718,16 +712,14 @@ msgstr "アジア/クウェート"
 msgid "Asia/Macao"
 msgstr "アジア/マカオ"
 
-#, fuzzy
 msgid "Asia/Macau"
 msgstr "アジア/マカオ"
 
 msgid "Asia/Magadan"
 msgstr "アジア/マガダン"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "アジア/ジャカルタ"
+msgstr "アジア/マカサー"
 
 msgid "Asia/Manila"
 msgstr "アジア/マニラ"
@@ -744,16 +736,14 @@ msgstr "アジア/ノボシビリスク"
 msgid "Asia/Omsk"
 msgstr "アジア/オムスク"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "アジア/カーブル"
+msgstr "アジア/オラール"
 
 msgid "Asia/Phnom_Penh"
 msgstr "アジア/プノンペン"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "アジア/ピョンヤン"
+msgstr "アジア/ポンティアナ"
 
 msgid "Asia/Pyongyang"
 msgstr "アジア/ピョンヤン"
@@ -761,9 +751,8 @@ msgstr "アジア/ピョンヤン"
 msgid "Asia/Qatar"
 msgstr "アジア/カタール"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "アジア/ガザ"
+msgstr "アジア/クジローダ"
 
 msgid "Asia/Rangoon"
 msgstr "アジア/ラグーン"
@@ -783,9 +772,8 @@ msgstr "アジア/リヤード89"
 msgid "Asia/Saigon"
 msgstr "アジア/サイゴン"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "アジア/バーレーン"
+msgstr "アジア/サハリン"
 
 msgid "Asia/Samarkand"
 msgstr "アジア/サマルカンド"
@@ -4614,3 +4602,4 @@ msgstr "Zulu"
 
 #~ msgid "right/Zulu"
 #~ msgstr "right/Zulu"
+
