@@ -1,13 +1,15 @@
+# Arpad Biro <biro_arpad@yahoo.com>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-16 11:11+0200\n"
-"Last-Translator: Tamas Szanto <tszanto@mol.hu>\n"
+"PO-Revision-Date: 2004-07-17 14:54+0200\n"
+"Last-Translator: Arpad Biro <biro_arpad@yahoo.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
@@ -16,7 +18,7 @@ msgid "Africa/Accra"
 msgstr "Afrika/Accra"
 
 msgid "Africa/Addis_Ababa"
-msgstr "Afrika/Addis_Abeba"
+msgstr "Afrika/Addisz-Abeba"
 
 msgid "Africa/Algiers"
 msgstr "Afrika/Algír"
@@ -97,7 +99,7 @@ msgid "Africa/Kinshasa"
 msgstr "Afrika/Kinshasa"
 
 msgid "Africa/Lagos"
-msgstr "Afrika/Lagosz"
+msgstr "Afrika/Lagos"
 
 msgid "Africa/Libreville"
 msgstr "Afrika/Libreville"
@@ -340,7 +342,7 @@ msgid "America/Iqaluit"
 msgstr "Amerika/Iqualit"
 
 msgid "America/Jamaica"
-msgstr "Amerika/Jamaika"
+msgstr "Amerika/Jamaica"
 
 msgid "America/Jujuy"
 msgstr "Amerika/Jujuy"
@@ -427,7 +429,7 @@ msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/Észak_Dakota/Közép"
+msgstr "Amerika/Észak-Dakota/Közép"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -538,7 +540,7 @@ msgid "America/Yakutat"
 msgstr "Amerika/Yakutat"
 
 msgid "America/Yellowknife"
-msgstr "Amerika/Yelloknife"
+msgstr "Amerika/Yellowknife"
 
 msgid "Antarctica/Casey"
 msgstr "Antarktisz/Casey"
@@ -559,7 +561,7 @@ msgid "Antarctica/Palmer"
 msgstr "Antarktisz/Palmer"
 
 msgid "Antarctica/South_Pole"
-msgstr "Antarktisz/Déli_sark"
+msgstr "Antarktisz/Déli-sark"
 
 msgid "Antarctica/Syowa"
 msgstr "Antarktisz/Syowa"
@@ -571,13 +573,13 @@ msgid "Arctic/Longyearbyen"
 msgstr "Antarktisz/Longyearbyen"
 
 msgid "Asia/Aden"
-msgstr "Ázsia/Aden"
+msgstr "Ázsia/Áden"
 
 msgid "Asia/Almaty"
 msgstr "Ázsia/Alma-Ata"
 
 msgid "Asia/Amman"
-msgstr "Ázsia/Amman"
+msgstr "Ázsia/Ammán"
 
 msgid "Asia/Anadyr"
 msgstr "Ázsia/Anadyr"
@@ -634,7 +636,7 @@ msgid "Asia/Dacca"
 msgstr "Ázsia/Dacca"
 
 msgid "Asia/Damascus"
-msgstr "Ăzsia/Damaszkusz"
+msgstr "Ázsia/Damaszkusz"
 
 msgid "Asia/Dhaka"
 msgstr "Ázsia/Dacca"
@@ -655,13 +657,13 @@ msgid "Asia/Harbin"
 msgstr "Ázsia/Harbin"
 
 msgid "Asia/Hong_Kong"
-msgstr "Ázsia/Hong_Kong"
+msgstr "Ázsia/Hongkong"
 
 msgid "Asia/Hovd"
 msgstr "Ázsia/Hovd"
 
 msgid "Asia/Irkutsk"
-msgstr "Ázsia/Irkutsk"
+msgstr "Ázsia/Irkutszk"
 
 msgid "Asia/Istanbul"
 msgstr "Ázsia/Isztambul"
@@ -700,7 +702,7 @@ msgid "Asia/Kuching"
 msgstr "Ázsia/Kuching"
 
 msgid "Asia/Kuwait"
-msgstr "Ázsia/Kuwait"
+msgstr "Ázsia/Kuvait"
 
 msgid "Asia/Macao"
 msgstr "Ázsia/Makaó"
@@ -751,16 +753,16 @@ msgid "Asia/Rangoon"
 msgstr "Ázsia/Rangoon"
 
 msgid "Asia/Riyadh"
-msgstr "Ázsia/Rijad"
+msgstr "Ázsia/Rijád"
 
 msgid "Asia/Riyadh87"
-msgstr "Ázsia/Rijad87"
+msgstr "Ázsia/Rijád87"
 
 msgid "Asia/Riyadh88"
-msgstr "Ázsia/Rijad88"
+msgstr "Ázsia/Rijád88"
 
 msgid "Asia/Riyadh89"
-msgstr "Ázsia/Rijad89"
+msgstr "Ázsia/Rijád89"
 
 msgid "Asia/Saigon"
 msgstr "Ázsia/Saigon"
@@ -769,7 +771,7 @@ msgid "Asia/Sakhalin"
 msgstr "Ázsia/Szahalin"
 
 msgid "Asia/Samarkand"
-msgstr "Ázsia/Samarkand"
+msgstr "Ázsia/Szamarkand"
 
 msgid "Asia/Seoul"
 msgstr "Ázsia/Szöul"
@@ -793,7 +795,7 @@ msgid "Asia/Tehran"
 msgstr "Ázsia/Teherán"
 
 msgid "Asia/Tel_Aviv"
-msgstr "Ázsia/Tel_Aviv"
+msgstr "Ázsia/Tel-Aviv"
 
 msgid "Asia/Thimbu"
 msgstr "Ázsia/Thimbu"
@@ -811,13 +813,13 @@ msgid "Asia/Ulaanbaatar"
 msgstr "Ázsia/Ulánbátor"
 
 msgid "Asia/Ulan_Bator"
-msgstr "Ázsia/Ulan_Bator"
+msgstr "Ázsia/Ulánbátor"
 
 msgid "Asia/Urumqi"
 msgstr "Ázsia/Urumqi"
 
 msgid "Asia/Vientiane"
-msgstr "Ăzsia/Vientiane"
+msgstr "Ázsia/Vientiane"
 
 msgid "Asia/Vladivostok"
 msgstr "Ázsia/Vlagyivosztok"
@@ -832,37 +834,37 @@ msgid "Asia/Yerevan"
 msgstr "Ázsia/Jereván"
 
 msgid "Atlantic/Azores"
-msgstr "Atlanti_óceán/Azori_szk"
+msgstr "Atlanti-óceán/Azori-szk."
 
 msgid "Atlantic/Bermuda"
-msgstr "Atlanti_óceán/Bermuda"
+msgstr "Atlanti-óceán/Bermuda"
 
 msgid "Atlantic/Canary"
-msgstr "Atlanti_óceán/Kanári_szk"
+msgstr "Atlanti-óceán/Kanári-szk."
 
 msgid "Atlantic/Cape_Verde"
-msgstr "Atlanti_óceán/Zöldfoki_szk"
+msgstr "Atlanti-óceán/Zöld-foki-szk."
 
 msgid "Atlantic/Faeroe"
-msgstr "Atlanti_óceán/Feröer_szk"
+msgstr "Atlanti-óceán/Feröer-szk."
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "Atlanti_óceán/Jan_Mayen"
+msgstr "Atlanti-óceán/Jan_Mayen"
 
 msgid "Atlantic/Madeira"
-msgstr "Atlanti_óceán/Madeira"
+msgstr "Atlanti-óceán/Madeira"
 
 msgid "Atlantic/Reykjavik"
-msgstr "Atlanti_óceán/Rejkjavik"
+msgstr "Atlanti-óceán/Reykjavík"
 
 msgid "Atlantic/South_Georgia"
-msgstr "Atlanti_óceán/Dél_Georgia"
+msgstr "Atlanti-óceán/Dél-Georgia"
 
 msgid "Atlantic/Stanley"
-msgstr "Atlanti_óceán/Stanley"
+msgstr "Atlanti-óceán/Stanley"
 
 msgid "Atlantic/St_Helena"
-msgstr "Atlanti_óceán/St_Helena"
+msgstr "Atlanti-óceán/St_Helena"
 
 msgid "Australia/ACT"
 msgstr "Ausztrália/ACT"
@@ -940,7 +942,7 @@ msgid "Brazil/West"
 msgstr "Brazília/Nyugat"
 
 msgid "Canada/Atlantic"
-msgstr "Kanada/Atlanti_óceán"
+msgstr "Kanada/Atlanti-óceán"
 
 msgid "Canada/Central"
 msgstr "Kanada/Közép"
@@ -958,7 +960,7 @@ msgid "Canada/Newfoundland"
 msgstr "Kanada/Újfundland"
 
 msgid "Canada/Pacific"
-msgstr "Kanada/Csendes_óceán"
+msgstr "Kanada/Csendes-óceán"
 
 msgid "Canada/Saskatchewan"
 msgstr "Kanada/Saskatchewan"
@@ -973,7 +975,7 @@ msgid "Chile/Continental"
 msgstr "Chile/Szárazföld"
 
 msgid "Chile/EasterIsland"
-msgstr "Chile/Húsvét_szk"
+msgstr "Chile/Húsvét-sziget"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -1147,7 +1149,7 @@ msgid "Europe/Helsinki"
 msgstr "Európa/Helsinki"
 
 msgid "Europe/Istanbul"
-msgstr "Európa/Isztanbul"
+msgstr "Európa/Isztambul"
 
 msgid "Europe/Kaliningrad"
 msgstr "Európa/Kalinyingrád"
@@ -1291,37 +1293,37 @@ msgid "Iceland"
 msgstr "Izland"
 
 msgid "Indian/Antananarivo"
-msgstr "Indiai_óceán/Antananarivo"
+msgstr "Indiai-óceán/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "Indiai_óceán/Chagos"
+msgstr "Indiai-óceán/Chagos"
 
 msgid "Indian/Christmas"
-msgstr "Indiai_óceán/Karácsony_szk"
+msgstr "Indiai-óceán/Karácsony-szk."
 
 msgid "Indian/Cocos"
-msgstr "Indiai_óceán/Cocos"
+msgstr "Indiai-óceán/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Indiai_óceán/Comoro"
+msgstr "Indiai-óceán/Comoro"
 
 msgid "Indian/Kerguelen"
-msgstr "Indiai_óceán/Kerguelen"
+msgstr "Indiai-óceán/Kerguelen"
 
 msgid "Indian/Mahe"
-msgstr "Indiai_óceán/Mahe"
+msgstr "Indiai-óceán/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Indiai_óceán/Maldív_szk"
+msgstr "Indiai-óceán/Maldív-szk."
 
 msgid "Indian/Mauritius"
-msgstr "Indiai_óceán/Mauritius"
+msgstr "Indiai-óceán/Mauritius"
 
 msgid "Indian/Mayotte"
-msgstr "Indiai_óceán/Mayotte"
+msgstr "Indiai-óceán/Mayotte"
 
 msgid "Indian/Reunion"
-msgstr "Indiai_óceán/Reunion"
+msgstr "Indiai-óceán/Reunion"
 
 msgid "Iran"
 msgstr "Irán"
@@ -1351,16 +1353,16 @@ msgid "Mexico/BajaSur"
 msgstr "Mexikó/BajaSur"
 
 msgid "Mexico/General"
-msgstr "Mexikó/Ăltalános"
+msgstr "Mexikó/Általános"
 
 msgid "Mideast/Riyadh87"
-msgstr "Közép-kelet/Rijad87"
+msgstr "Közép-Kelet/Rijád87"
 
 msgid "Mideast/Riyadh88"
-msgstr "Közép-kelet/Rijad88"
+msgstr "Közép-Kelet/Rijád88"
 
 msgid "Mideast/Riyadh89"
-msgstr "Közép-kelet/Rijad89"
+msgstr "Közép-Kelet/Rijád89"
 
 msgid "MST"
 msgstr "MST"
@@ -1378,124 +1380,124 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "Csendes_óceán/Apia"
+msgstr "Csendes-óceán/Apia"
 
 msgid "Pacific/Auckland"
-msgstr "Csendes_óceán/Auckland"
+msgstr "Csendes-óceán/Auckland"
 
 msgid "Pacific/Chatham"
-msgstr "Csendes_óceán/Chatham"
+msgstr "Csendes-óceán/Chatham"
 
 msgid "Pacific/Easter"
-msgstr "Csendes_óceán/Easter"
+msgstr "Csendes-óceán/Easter"
 
 msgid "Pacific/Efate"
-msgstr "Csendes_óceán/Efate"
+msgstr "Csendes-óceán/Efate"
 
 msgid "Pacific/Enderbury"
-msgstr "Csendes_óceán/Enderbury"
+msgstr "Csendes-óceán/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr "Csendes_óceán/Fakaofo"
+msgstr "Csendes-óceán/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "Csendes_óceán/Fidzsi"
+msgstr "Csendes-óceán/Fidzsi"
 
 msgid "Pacific/Funafuti"
-msgstr "Csendes_óceán/Funafuti"
+msgstr "Csendes-óceán/Funafuti"
 
 msgid "Pacific/Galapagos"
-msgstr "Csendes_óceán/Galapagos"
+msgstr "Csendes-óceán/Galápagos-szk."
 
 msgid "Pacific/Gambier"
-msgstr "Csendes_óceán/Gambier"
+msgstr "Csendes-óceán/Gambier"
 
 msgid "Pacific/Guadalcanal"
-msgstr "Csendes_óceán/Guadalcanal"
+msgstr "Csendes-óceán/Guadalcanal"
 
 msgid "Pacific/Guam"
-msgstr "Csendes_óceán/Guam"
+msgstr "Csendes-óceán/Guam"
 
 msgid "Pacific/Honolulu"
-msgstr "Csendes_óceán/Honolulu"
+msgstr "Csendes-óceán/Honolulu"
 
 msgid "Pacific/Johnston"
-msgstr "Csendes_óceán/Johnston"
+msgstr "Csendes-óceán/Johnston"
 
 msgid "Pacific/Kiritimati"
-msgstr "Csendes_óceán/Kiritimati"
+msgstr "Csendes-óceán/Kiritimati"
 
 msgid "Pacific/Kosrae"
-msgstr "Csendes_óceán/Kosrae"
+msgstr "Csendes-óceán/Kosrae"
 
 msgid "Pacific/Kwajalein"
-msgstr "Csendes_óceán/Kwajalein"
+msgstr "Csendes-óceán/Kwajalein"
 
 msgid "Pacific/Majuro"
-msgstr "Csendes_óceán/Majuro"
+msgstr "Csendes-óceán/Majuro"
 
 msgid "Pacific/Marquesas"
-msgstr "Csendes_óceán/Marquesas"
+msgstr "Csendes-óceán/Marquesas"
 
 msgid "Pacific/Midway"
-msgstr "Csendes_óceán/Midway"
+msgstr "Csendes-óceán/Midway"
 
 msgid "Pacific/Nauru"
-msgstr "Csendes_óceán/Nauru"
+msgstr "Csendes-óceán/Nauru"
 
 msgid "Pacific/Niue"
-msgstr "Csendes_óceán/Niue"
+msgstr "Csendes-óceán/Niue"
 
 msgid "Pacific/Norfolk"
-msgstr "Csendes_óceán/Norfolk"
+msgstr "Csendes-óceán/Norfolk"
 
 msgid "Pacific/Noumea"
-msgstr "Csendes_óceán/Noumea"
+msgstr "Csendes-óceán/Noumea"
 
 msgid "Pacific/Pago_Pago"
-msgstr "Csendes_óceán/Pago_Pago"
+msgstr "Csendes-óceán/Pago_Pago"
 
 msgid "Pacific/Palau"
-msgstr "Csendes_óceán/Palau"
+msgstr "Csendes-óceán/Palau"
 
 msgid "Pacific/Pitcairn"
-msgstr "Csendes_óceán/Pitcairn"
+msgstr "Csendes-óceán/Pitcairn"
 
 msgid "Pacific/Ponape"
-msgstr "Csendes_óceán/Panape"
+msgstr "Csendes-óceán/Panape"
 
 msgid "Pacific/Port_Moresby"
-msgstr "Csendes_óceán/Port_Moresby"
+msgstr "Csendes-óceán/Port_Moresby"
 
 msgid "Pacific/Rarotonga"
-msgstr "Csendes_óceán/Rarotonga"
+msgstr "Csendes-óceán/Rarotonga"
 
 msgid "Pacific/Saipan"
-msgstr "Csendes_óceán/Saipan"
+msgstr "Csendes-óceán/Saipan"
 
 msgid "Pacific/Samoa"
-msgstr "Csendes_óceán/Szamoa"
+msgstr "Csendes-óceán/Szamoa"
 
 msgid "Pacific/Tahiti"
-msgstr "Csendes_óceán/Tahiti"
+msgstr "Csendes-óceán/Tahiti"
 
 msgid "Pacific/Tarawa"
-msgstr "Csendes_óceán/Tarawa"
+msgstr "Csendes-óceán/Tarawa"
 
 msgid "Pacific/Tongatapu"
-msgstr "Csendes_óceán/Tongatapu"
+msgstr "Csendes-óceán/Tongatapu"
 
 msgid "Pacific/Truk"
-msgstr "Csendes_óceán/Truk"
+msgstr "Csendes-óceán/Truk"
 
 msgid "Pacific/Wake"
-msgstr "Csendes_óceán/Wake"
+msgstr "Csendes-óceán/Wake"
 
 msgid "Pacific/Wallis"
-msgstr "Csendes_óceán/Wallis"
+msgstr "Csendes-óceán/Wallis"
 
 msgid "Pacific/Yap"
-msgstr "Csendes_óceán/Yap"
+msgstr "Csendes-óceán/Yap"
 
 msgid "Poland"
 msgstr "Lengyelország"
@@ -1597,7 +1599,7 @@ msgid "US/Mountain"
 msgstr "USA/Mountain"
 
 msgid "US/Pacific"
-msgstr "USA/Csendes_óceán"
+msgstr "USA/Csendes-óceán"
 
 msgid "US/Samoa"
 msgstr "USA/Szamoa"
@@ -1613,3 +1615,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
