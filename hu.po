@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: timezones`\n"
 "POT-Creation-Date: 2001-01-25 15:49-0500\n"
 "PO-Revision-Date: 2000-08-17 11:46+0200\n"
-"Last-Translator: László Németh <nemeth@qwertynet.hu>\n"
+"Last-Translator: LĂĄszlĂł NĂŠmeth <nemeth@qwertynet.hu>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
 msgid "Africa/Abidjan"
@@ -19,7 +19,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Addis_Abeba"
 
 msgid "Africa/Algiers"
-msgstr "Afrika/Algír"
+msgstr "Afrika/AlgĂ­r"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -46,7 +46,7 @@ msgid "Africa/Bujumbura"
 msgstr "Afrika/Bujumbura"
 
 msgid "Africa/Cairo"
-msgstr "Afrika/Kairó"
+msgstr "Afrika/KairĂł"
 
 msgid "Africa/Casablanca"
 msgstr "Afrika/Casablanca"
@@ -103,7 +103,7 @@ msgid "Africa/Libreville"
 msgstr "Afrika/Libreville"
 
 msgid "Africa/Lome"
-msgstr "Afrika/Lomé"
+msgstr "Afrika/LomĂŠ"
 
 msgid "Africa/Luanda"
 msgstr "Afrika/Luanda"
@@ -554,7 +554,7 @@ msgid "Antarctica/Palmer"
 msgstr "Antarktisz/Palmer"
 
 msgid "Antarctica/South_Pole"
-msgstr "Antarktisz/Déli_sark"
+msgstr "Antarktisz/DĂŠli_sark"
 
 msgid "Antarctica/Syowa"
 msgstr "Antarktisz/Syowa"
@@ -563,358 +563,358 @@ msgid "Arctic/Longyearbyen"
 msgstr "Antarktisz/Longyearbyen"
 
 msgid "Asia/Aden"
-msgstr "Ázsia/Aden"
+msgstr "Ăzsia/Aden"
 
 msgid "Asia/Almaty"
-msgstr "Ázsia/Alma-ata"
+msgstr "Ăzsia/Alma-ata"
 
 msgid "Asia/Amman"
-msgstr "Ázsia/Amman"
+msgstr "Ăzsia/Amman"
 
 msgid "Asia/Anadyr"
-msgstr "Ázsia/Anadyr"
+msgstr "Ăzsia/Anadyr"
 
 msgid "Asia/Aqtau"
-msgstr "Ázsia/Aqtau"
+msgstr "Ăzsia/Aqtau"
 
 msgid "Asia/Aqtobe"
-msgstr "Ázsia/Aqtobe"
+msgstr "Ăzsia/Aqtobe"
 
 #, fuzzy
 msgid "Asia/Ashgabat"
-msgstr "Ázsia/Ashkabad"
+msgstr "Ăzsia/Ashkabad"
 
 msgid "Asia/Ashkhabad"
-msgstr "Ázsia/Ashkabad"
+msgstr "Ăzsia/Ashkabad"
 
 msgid "Asia/Baghdad"
-msgstr "Ázsia/Bagdad"
+msgstr "Ăzsia/Bagdad"
 
 msgid "Asia/Bahrain"
-msgstr "Ázsia/Bahrein"
+msgstr "Ăzsia/Bahrein"
 
 msgid "Asia/Baku"
-msgstr "Ázsia/Baku"
+msgstr "Ăzsia/Baku"
 
 msgid "Asia/Bangkok"
-msgstr "Ázsia/Bangkok"
+msgstr "Ăzsia/Bangkok"
 
 msgid "Asia/Beirut"
-msgstr "Ázsia/Bejrút"
+msgstr "Ăzsia/BejrĂşt"
 
 msgid "Asia/Bishkek"
-msgstr "Ázsia/Bishkek"
+msgstr "Ăzsia/Bishkek"
 
 msgid "Asia/Brunei"
-msgstr "Ázsia/Brunei"
+msgstr "Ăzsia/Brunei"
 
 msgid "Asia/Calcutta"
-msgstr "Ázsia/Calcutta"
+msgstr "Ăzsia/Calcutta"
 
 msgid "Asia/Chungking"
-msgstr "Ázsia/Chungking"
+msgstr "Ăzsia/Chungking"
 
 msgid "Asia/Colombo"
-msgstr "Ázsia/Colombo"
+msgstr "Ăzsia/Colombo"
 
 msgid "Asia/Dacca"
-msgstr "Ázsia/Dacca"
+msgstr "Ăzsia/Dacca"
 
 msgid "Asia/Damascus"
-msgstr "Ázsia/Damaszkusz"
+msgstr "Ăzsia/Damaszkusz"
 
 #, fuzzy
 msgid "Asia/Dhaka"
-msgstr "Ázsia/Dacca"
+msgstr "Ăzsia/Dacca"
 
 msgid "Asia/Dili"
-msgstr "Ázsia/Dili"
+msgstr "Ăzsia/Dili"
 
 msgid "Asia/Dubai"
-msgstr "Ázsia/Dubai"
+msgstr "Ăzsia/Dubai"
 
 msgid "Asia/Dushanbe"
-msgstr "Ázsia/Dushanbe"
+msgstr "Ăzsia/Dushanbe"
 
 msgid "Asia/Gaza"
-msgstr "Ázsia/Gáza"
+msgstr "Ăzsia/GĂĄza"
 
 msgid "Asia/Harbin"
-msgstr "Ázsia/Harbin"
+msgstr "Ăzsia/Harbin"
 
 msgid "Asia/Hong_Kong"
-msgstr "Ázsia/Hong_Kong"
+msgstr "Ăzsia/Hong_Kong"
 
 msgid "Asia/Hovd"
-msgstr "Ázsia/Hovd"
+msgstr "Ăzsia/Hovd"
 
 msgid "Asia/Irkutsk"
-msgstr "Ázsia/Irkutsk"
+msgstr "Ăzsia/Irkutsk"
 
 msgid "Asia/Istanbul"
-msgstr "Ázsia/Isztambul"
+msgstr "Ăzsia/Isztambul"
 
 msgid "Asia/Jakarta"
-msgstr "Ázsia/Dzsakarta"
+msgstr "Ăzsia/Dzsakarta"
 
 msgid "Asia/Jayapura"
-msgstr "Ázsia/Jayapura"
+msgstr "Ăzsia/Jayapura"
 
 msgid "Asia/Jerusalem"
-msgstr "Ázsia/Jeruzsálem"
+msgstr "Ăzsia/JeruzsĂĄlem"
 
 msgid "Asia/Kabul"
-msgstr "Ázsia/Kabul"
+msgstr "Ăzsia/Kabul"
 
 msgid "Asia/Kamchatka"
-msgstr "Ázsia/Kamcsatka"
+msgstr "Ăzsia/Kamcsatka"
 
 msgid "Asia/Karachi"
-msgstr "Ázsia/Karachi"
+msgstr "Ăzsia/Karachi"
 
 msgid "Asia/Kashgar"
-msgstr "Ázsia/Kashgar"
+msgstr "Ăzsia/Kashgar"
 
 msgid "Asia/Katmandu"
-msgstr "Ázsia/Katmandu"
+msgstr "Ăzsia/Katmandu"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "Ázsia/Krasznojarszk"
+msgstr "Ăzsia/Krasznojarszk"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Ázsia/Kuala_Lumpur"
+msgstr "Ăzsia/Kuala_Lumpur"
 
 msgid "Asia/Kuching"
-msgstr "Ázsia/Kuching"
+msgstr "Ăzsia/Kuching"
 
 msgid "Asia/Kuwait"
-msgstr "Ázsia/Kuwait"
+msgstr "Ăzsia/Kuwait"
 
 msgid "Asia/Macao"
-msgstr "Ázsia/Makaó"
+msgstr "Ăzsia/MakaĂł"
 
 msgid "Asia/Magadan"
-msgstr "Ázsia/Magadan"
+msgstr "Ăzsia/Magadan"
 
 msgid "Asia/Manila"
-msgstr "Ázsia/Manila"
+msgstr "Ăzsia/Manila"
 
 msgid "Asia/Muscat"
-msgstr "Ázsia/Muscat"
+msgstr "Ăzsia/Muscat"
 
 msgid "Asia/Nicosia"
-msgstr "Ázsia/Nicosia"
+msgstr "Ăzsia/Nicosia"
 
 msgid "Asia/Novosibirsk"
-msgstr "Ázsia/Novoszibirszk"
+msgstr "Ăzsia/Novoszibirszk"
 
 msgid "Asia/Omsk"
-msgstr "Ázsia/Omszk"
+msgstr "Ăzsia/Omszk"
 
 msgid "Asia/Phnom_Penh"
-msgstr "Ázsia/Phnom_Penh"
+msgstr "Ăzsia/Phnom_Penh"
 
 msgid "Asia/Pyongyang"
-msgstr "Ázsia/Pyongyang"
+msgstr "Ăzsia/Pyongyang"
 
 msgid "Asia/Qatar"
-msgstr "Ázsia/Katar"
+msgstr "Ăzsia/Katar"
 
 msgid "Asia/Rangoon"
-msgstr "Ázsia/Rangoon"
+msgstr "Ăzsia/Rangoon"
 
 msgid "Asia/Riyadh"
-msgstr "Ázsia/Riyadh"
+msgstr "Ăzsia/Riyadh"
 
 msgid "Asia/Riyadh87"
-msgstr "Ázsia/Riyadh87"
+msgstr "Ăzsia/Riyadh87"
 
 msgid "Asia/Riyadh88"
-msgstr "Ázsia/Riyadh88"
+msgstr "Ăzsia/Riyadh88"
 
 msgid "Asia/Riyadh89"
-msgstr "Ázsia/Riyadh89"
+msgstr "Ăzsia/Riyadh89"
 
 msgid "Asia/Saigon"
-msgstr "Ázsia/saigon"
+msgstr "Ăzsia/saigon"
 
 msgid "Asia/Samarkand"
-msgstr "Ázsia/Samarkand"
+msgstr "Ăzsia/Samarkand"
 
 msgid "Asia/Seoul"
-msgstr "Ázsia/Szöul"
+msgstr "Ăzsia/SzĂśul"
 
 msgid "Asia/Shanghai"
-msgstr "Ázsia/Sanghaj"
+msgstr "Ăzsia/Sanghaj"
 
 msgid "Asia/Singapore"
-msgstr "Ázsia/Szingapúr"
+msgstr "Ăzsia/SzingapĂşr"
 
 msgid "Asia/Taipei"
-msgstr "Ázsia/Tajpej"
+msgstr "Ăzsia/Tajpej"
 
 msgid "Asia/Tashkent"
-msgstr "Ázsia/Taskent"
+msgstr "Ăzsia/Taskent"
 
 msgid "Asia/Tbilisi"
-msgstr "Ázsia/Tbiliszi"
+msgstr "Ăzsia/Tbiliszi"
 
 msgid "Asia/Tehran"
-msgstr "Ázsia/Teherán"
+msgstr "Ăzsia/TeherĂĄn"
 
 msgid "Asia/Tel_Aviv"
-msgstr "Ázsia/Tel_Aviv"
+msgstr "Ăzsia/Tel_Aviv"
 
 msgid "Asia/Thimbu"
-msgstr "Ázsia/Thimbu"
+msgstr "Ăzsia/Thimbu"
 
 #, fuzzy
 msgid "Asia/Thimphu"
-msgstr "Ázsia/Thimbu"
+msgstr "Ăzsia/Thimbu"
 
 msgid "Asia/Tokyo"
-msgstr "Ázsia/Tokio"
+msgstr "Ăzsia/Tokio"
 
 msgid "Asia/Ujung_Pandang"
-msgstr "Ázsia/Ujung_Pandang"
+msgstr "Ăzsia/Ujung_Pandang"
 
 msgid "Asia/Ulaanbaatar"
-msgstr "Ázsia/Ulaanbaatar"
+msgstr "Ăzsia/Ulaanbaatar"
 
 msgid "Asia/Ulan_Bator"
-msgstr "Ázsia/Ulan_Bator"
+msgstr "Ăzsia/Ulan_Bator"
 
 msgid "Asia/Urumqi"
-msgstr "Ázsia/Urumqi"
+msgstr "Ăzsia/Urumqi"
 
 msgid "Asia/Vientiane"
-msgstr "Ázsia/Vientiane"
+msgstr "Ăzsia/Vientiane"
 
 msgid "Asia/Vladivostok"
-msgstr "Ázsia/Vlagyivosztok"
+msgstr "Ăzsia/Vlagyivosztok"
 
 msgid "Asia/Yakutsk"
-msgstr "Ázsia/Jakutszk"
+msgstr "Ăzsia/Jakutszk"
 
 msgid "Asia/Yekaterinburg"
-msgstr "Ázsia/Jekatyerinburg"
+msgstr "Ăzsia/Jekatyerinburg"
 
 msgid "Asia/Yerevan"
-msgstr "Ázsia/Jereván"
+msgstr "Ăzsia/JerevĂĄn"
 
 msgid "Atlantic/Azores"
-msgstr "Atlanti_óceán/Azori_szk"
+msgstr "Atlanti_ĂłceĂĄn/Azori_szk"
 
 msgid "Atlantic/Bermuda"
-msgstr "Atlanti_óceán/Bermuda"
+msgstr "Atlanti_ĂłceĂĄn/Bermuda"
 
 msgid "Atlantic/Canary"
-msgstr "Atlanti_óceán/Kanári_szk"
+msgstr "Atlanti_ĂłceĂĄn/KanĂĄri_szk"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "Atlanti_óceán/Cape_Verde"
+msgstr "Atlanti_ĂłceĂĄn/Cape_Verde"
 
 msgid "Atlantic/Faeroe"
-msgstr "Atlanti_óceán/Feröer_szk"
+msgstr "Atlanti_ĂłceĂĄn/FerĂśer_szk"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "Atlanti_óceán/Jan_Mayen"
+msgstr "Atlanti_ĂłceĂĄn/Jan_Mayen"
 
 msgid "Atlantic/Madeira"
-msgstr "Atlanti_óceán/Madeira"
+msgstr "Atlanti_ĂłceĂĄn/Madeira"
 
 msgid "Atlantic/Reykjavik"
-msgstr "Atlanti_óceán/Rejkjavik"
+msgstr "Atlanti_ĂłceĂĄn/Rejkjavik"
 
 msgid "Atlantic/South_Georgia"
-msgstr "Atlanti_óceán/Dél_Georgia"
+msgstr "Atlanti_ĂłceĂĄn/DĂŠl_Georgia"
 
 msgid "Atlantic/Stanley"
-msgstr "Atlanti_óceán/Stanley"
+msgstr "Atlanti_ĂłceĂĄn/Stanley"
 
 msgid "Atlantic/St_Helena"
-msgstr "Atlanti_óceán/St_Helena"
+msgstr "Atlanti_ĂłceĂĄn/St_Helena"
 
 msgid "Australia/ACT"
-msgstr "Ausztrália/ACT"
+msgstr "AusztrĂĄlia/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "Ausztrália/Adelaide"
+msgstr "AusztrĂĄlia/Adelaide"
 
 msgid "Australia/Brisbane"
-msgstr "Ausztrália/Brisbane"
+msgstr "AusztrĂĄlia/Brisbane"
 
 msgid "Australia/Broken_Hill"
-msgstr "Ausztrália/Broken_Hill"
+msgstr "AusztrĂĄlia/Broken_Hill"
 
 msgid "Australia/Canberra"
-msgstr "Ausztrália/Canberra"
+msgstr "AusztrĂĄlia/Canberra"
 
 msgid "Australia/Darwin"
-msgstr "Ausztrália/Darwin"
+msgstr "AusztrĂĄlia/Darwin"
 
 msgid "Australia/Hobart"
-msgstr "Ausztrália/Hobart"
+msgstr "AusztrĂĄlia/Hobart"
 
 msgid "Australia/LHI"
-msgstr "Ausztrália/LHI"
+msgstr "AusztrĂĄlia/LHI"
 
 msgid "Australia/Lindeman"
-msgstr "Ausztrália/Lindeman"
+msgstr "AusztrĂĄlia/Lindeman"
 
 msgid "Australia/Lord_Howe"
-msgstr "Ausztrália/Lord_Howe"
+msgstr "AusztrĂĄlia/Lord_Howe"
 
 msgid "Australia/Melbourne"
-msgstr "Ausztrália/Melbourne"
+msgstr "AusztrĂĄlia/Melbourne"
 
 msgid "Australia/North"
-msgstr "Ausztrália/Észak"
+msgstr "AusztrĂĄlia/Ăszak"
 
 msgid "Australia/NSW"
-msgstr "Ausztrália/NSW"
+msgstr "AusztrĂĄlia/NSW"
 
 msgid "Australia/Perth"
-msgstr "Ausztrália/Perth"
+msgstr "AusztrĂĄlia/Perth"
 
 msgid "Australia/Queensland"
-msgstr "Ausztrália/Queensland"
+msgstr "AusztrĂĄlia/Queensland"
 
 msgid "Australia/South"
-msgstr "Ausztrália/Dél"
+msgstr "AusztrĂĄlia/DĂŠl"
 
 msgid "Australia/Sydney"
-msgstr "Ausztrália/Sydney"
+msgstr "AusztrĂĄlia/Sydney"
 
 msgid "Australia/Tasmania"
-msgstr "Ausztrália/Tasmánia"
+msgstr "AusztrĂĄlia/TasmĂĄnia"
 
 msgid "Australia/Victoria"
-msgstr "Ausztrália/Victoria"
+msgstr "AusztrĂĄlia/Victoria"
 
 msgid "Australia/West"
-msgstr "Ausztrália/Nyugat"
+msgstr "AusztrĂĄlia/Nyugat"
 
 msgid "Australia/Yancowinna"
-msgstr "Ausztrália/Yancowinna"
+msgstr "AusztrĂĄlia/Yancowinna"
 
 msgid "Brazil/Acre"
-msgstr "Brazília/Acre"
+msgstr "BrazĂ­lia/Acre"
 
 msgid "Brazil/DeNoronha"
-msgstr "Brazília/DeNoronha"
+msgstr "BrazĂ­lia/DeNoronha"
 
 msgid "Brazil/East"
-msgstr "Brazília/Kelet"
+msgstr "BrazĂ­lia/Kelet"
 
 msgid "Brazil/West"
-msgstr "Brazília/Nyugat"
+msgstr "BrazĂ­lia/Nyugat"
 
 msgid "Canada/Atlantic"
-msgstr "Kanada/Atlanti_óceán"
+msgstr "Kanada/Atlanti_ĂłceĂĄn"
 
 msgid "Canada/Central"
-msgstr "Kanada/Közép"
+msgstr "Kanada/KĂśzĂŠp"
 
 msgid "Canada/Eastern"
 msgstr "Kanada/Kelet"
@@ -926,10 +926,10 @@ msgid "Canada/Mountain"
 msgstr "Kanada/Mountain"
 
 msgid "Canada/Newfoundland"
-msgstr "Kanada/Újfundland"
+msgstr "Kanada/Ăjfundland"
 
 msgid "Canada/Pacific"
-msgstr "Kanada/Csendes_óceán"
+msgstr "Kanada/Csendes_ĂłceĂĄn"
 
 msgid "Canada/Saskatchewan"
 msgstr "Kanada/Saskatchewan"
@@ -941,10 +941,10 @@ msgid "CET"
 msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr "Chile/Szárazföld"
+msgstr "Chile/SzĂĄrazfĂśld"
 
 msgid "Chile/EasterIsland"
-msgstr "Chile/Húsvét_szigetek"
+msgstr "Chile/HĂşsvĂŠt_szigetek"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -959,7 +959,7 @@ msgid "Egypt"
 msgstr "Egyiptom"
 
 msgid "Eire"
-msgstr "Írország"
+msgstr "ĂrorszĂĄg"
 
 msgid "EST"
 msgstr "EST"
@@ -1073,161 +1073,161 @@ msgid "Etc/Zulu"
 msgstr "Stb./Zulu"
 
 msgid "Europe/Amsterdam"
-msgstr "Európa/Amszterdam"
+msgstr "EurĂłpa/Amszterdam"
 
 msgid "Europe/Andorra"
-msgstr "Európa/Andorra"
+msgstr "EurĂłpa/Andorra"
 
 msgid "Europe/Athens"
-msgstr "Európa/Athén"
+msgstr "EurĂłpa/AthĂŠn"
 
 msgid "Europe/Belfast"
-msgstr "Európa/Belfast"
+msgstr "EurĂłpa/Belfast"
 
 msgid "Europe/Belgrade"
-msgstr "Európa/Belgrád"
+msgstr "EurĂłpa/BelgrĂĄd"
 
 msgid "Europe/Berlin"
-msgstr "Európa/Berlin"
+msgstr "EurĂłpa/Berlin"
 
 msgid "Europe/Bratislava"
-msgstr "Európa/Pozsony"
+msgstr "EurĂłpa/Pozsony"
 
 msgid "Europe/Brussels"
-msgstr "Európa/Brüsszel"
+msgstr "EurĂłpa/BrĂźsszel"
 
 msgid "Europe/Bucharest"
-msgstr "Európa/Bukarest"
+msgstr "EurĂłpa/Bukarest"
 
 msgid "Europe/Budapest"
-msgstr "Európa/Budapest"
+msgstr "EurĂłpa/Budapest"
 
 msgid "Europe/Chisinau"
-msgstr "Európa/Chisinau"
+msgstr "EurĂłpa/Chisinau"
 
 msgid "Europe/Copenhagen"
-msgstr "Európa/Koppenhága"
+msgstr "EurĂłpa/KoppenhĂĄga"
 
 msgid "Europe/Dublin"
-msgstr "Európa/Dublin"
+msgstr "EurĂłpa/Dublin"
 
 msgid "Europe/Gibraltar"
-msgstr "Európa/Gibraltár"
+msgstr "EurĂłpa/GibraltĂĄr"
 
 msgid "Europe/Helsinki"
-msgstr "Európa/Helsinki"
+msgstr "EurĂłpa/Helsinki"
 
 msgid "Europe/Istanbul"
-msgstr "Európa/Konstantinápoly"
+msgstr "EurĂłpa/KonstantinĂĄpoly"
 
 msgid "Europe/Kaliningrad"
-msgstr "Európa/Kalinyingrád"
+msgstr "EurĂłpa/KalinyingrĂĄd"
 
 msgid "Europe/Kiev"
-msgstr "Európa/Kijev"
+msgstr "EurĂłpa/Kijev"
 
 msgid "Europe/Lisbon"
-msgstr "Európa/Lisszabon"
+msgstr "EurĂłpa/Lisszabon"
 
 msgid "Europe/Ljubljana"
-msgstr "Európa/Ljubljana"
+msgstr "EurĂłpa/Ljubljana"
 
 msgid "Europe/London"
-msgstr "Európa/London"
+msgstr "EurĂłpa/London"
 
 msgid "Europe/Luxembourg"
-msgstr "Európa/Luxembourg"
+msgstr "EurĂłpa/Luxembourg"
 
 msgid "Europe/Madrid"
-msgstr "Európa/Madrid"
+msgstr "EurĂłpa/Madrid"
 
 msgid "Europe/Malta"
-msgstr "Európa/Málta"
+msgstr "EurĂłpa/MĂĄlta"
 
 msgid "Europe/Minsk"
-msgstr "Európa/Minszk"
+msgstr "EurĂłpa/Minszk"
 
 msgid "Europe/Monaco"
-msgstr "Európa/Monaco"
+msgstr "EurĂłpa/Monaco"
 
 msgid "Europe/Moscow"
-msgstr "Európa/Moszkva"
+msgstr "EurĂłpa/Moszkva"
 
 #, fuzzy
 msgid "Europe/Nicosia"
-msgstr "Európa/Szófia"
+msgstr "EurĂłpa/SzĂłfia"
 
 msgid "Europe/Oslo"
-msgstr "Európa/Oslo"
+msgstr "EurĂłpa/Oslo"
 
 msgid "Europe/Paris"
-msgstr "Európa/Párizs"
+msgstr "EurĂłpa/PĂĄrizs"
 
 msgid "Europe/Prague"
-msgstr "Európa/Prága"
+msgstr "EurĂłpa/PrĂĄga"
 
 msgid "Europe/Riga"
-msgstr "Európa/Riga"
+msgstr "EurĂłpa/Riga"
 
 msgid "Europe/Rome"
-msgstr "Európa/Róma"
+msgstr "EurĂłpa/RĂłma"
 
 msgid "Europe/Samara"
-msgstr "Európa/Szamara"
+msgstr "EurĂłpa/Szamara"
 
 msgid "Europe/San_Marino"
-msgstr "Európa/San_Marino"
+msgstr "EurĂłpa/San_Marino"
 
 msgid "Europe/Sarajevo"
-msgstr "Európa/Szarajevó"
+msgstr "EurĂłpa/SzarajevĂł"
 
 msgid "Europe/Simferopol"
-msgstr "Európa/Szimferopol"
+msgstr "EurĂłpa/Szimferopol"
 
 msgid "Europe/Skopje"
-msgstr "Európa/Szkopje"
+msgstr "EurĂłpa/Szkopje"
 
 msgid "Europe/Sofia"
-msgstr "Európa/Szófia"
+msgstr "EurĂłpa/SzĂłfia"
 
 msgid "Europe/Stockholm"
-msgstr "Európa/Stockholm"
+msgstr "EurĂłpa/Stockholm"
 
 msgid "Europe/Tallinn"
-msgstr "Európa/Tallinn"
+msgstr "EurĂłpa/Tallinn"
 
 msgid "Europe/Tirane"
-msgstr "Európa/Tirana"
+msgstr "EurĂłpa/Tirana"
 
 msgid "Europe/Tiraspol"
-msgstr "Európa/Tiraspol"
+msgstr "EurĂłpa/Tiraspol"
 
 msgid "Europe/Uzhgorod"
-msgstr "Európa/Érsekújvár"
+msgstr "EurĂłpa/ĂrsekĂşjvĂĄr"
 
 msgid "Europe/Vaduz"
-msgstr "Európa/Vaduz"
+msgstr "EurĂłpa/Vaduz"
 
 msgid "Europe/Vatican"
-msgstr "Európa/Vatikán"
+msgstr "EurĂłpa/VatikĂĄn"
 
 msgid "Europe/Vienna"
-msgstr "Európa/Bécs"
+msgstr "EurĂłpa/BĂŠcs"
 
 msgid "Europe/Vilnius"
-msgstr "Európa/Vilnius"
+msgstr "EurĂłpa/Vilnius"
 
 msgid "Europe/Warsaw"
-msgstr "Európa/Varsó"
+msgstr "EurĂłpa/VarsĂł"
 
 msgid "Europe/Zagreb"
-msgstr "Európa/Zágráb"
+msgstr "EurĂłpa/ZĂĄgrĂĄb"
 
 msgid "Europe/Zaporozhye"
-msgstr "Európa/Zaporozsje"
+msgstr "EurĂłpa/Zaporozsje"
 
 msgid "Europe/Zurich"
-msgstr "Európa/Zürich"
+msgstr "EurĂłpa/ZĂźrich"
 
 msgid "Factory"
 msgstr "Factory"
@@ -1236,7 +1236,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "GB-Eire"
-msgstr "GB-Írország"
+msgstr "GB-ĂrorszĂĄg"
 
 msgid "GMT"
 msgstr "GMT"
@@ -1260,43 +1260,43 @@ msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "Ízland"
+msgstr "Ăzland"
 
 msgid "Indian/Antananarivo"
-msgstr "Indiai_óceán/Antananarivo"
+msgstr "Indiai_ĂłceĂĄn/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "Indiai_óceán/Chagos"
+msgstr "Indiai_ĂłceĂĄn/Chagos"
 
 msgid "Indian/Christmas"
-msgstr "Indiai_óceán/Karácsony_szk"
+msgstr "Indiai_ĂłceĂĄn/KarĂĄcsony_szk"
 
 msgid "Indian/Cocos"
-msgstr "Indiai_óceán/Cocos"
+msgstr "Indiai_ĂłceĂĄn/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Indiai_óceán/Comoro"
+msgstr "Indiai_ĂłceĂĄn/Comoro"
 
 msgid "Indian/Kerguelen"
-msgstr "Indiai_óceán/Kerguelen"
+msgstr "Indiai_ĂłceĂĄn/Kerguelen"
 
 msgid "Indian/Mahe"
-msgstr "Indiai_óceán/Mahe"
+msgstr "Indiai_ĂłceĂĄn/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Indiai_óceán/Maldív_szk"
+msgstr "Indiai_ĂłceĂĄn/MaldĂ­v_szk"
 
 msgid "Indian/Mauritius"
-msgstr "Indiai_óceán/Mauritius"
+msgstr "Indiai_ĂłceĂĄn/Mauritius"
 
 msgid "Indian/Mayotte"
-msgstr "Indiai_óceán/Mayotte"
+msgstr "Indiai_ĂłceĂĄn/Mayotte"
 
 msgid "Indian/Reunion"
-msgstr "Indiai_óceán/Reunion"
+msgstr "Indiai_ĂłceĂĄn/Reunion"
 
 msgid "Iran"
-msgstr "Irán"
+msgstr "IrĂĄn"
 
 msgid "Israel"
 msgstr "Izrael"
@@ -1305,34 +1305,34 @@ msgid "Jamaica"
 msgstr "Jamaica"
 
 msgid "Japan"
-msgstr "Japán"
+msgstr "JapĂĄn"
 
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
 msgid "Libya"
-msgstr "Líbia"
+msgstr "LĂ­bia"
 
 msgid "MET"
 msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr "Mexikó/BajaNorte"
+msgstr "MexikĂł/BajaNorte"
 
 msgid "Mexico/BajaSur"
-msgstr "Mexikó/BajaSur"
+msgstr "MexikĂł/BajaSur"
 
 msgid "Mexico/General"
-msgstr "Mexikó/Általános"
+msgstr "MexikĂł/ĂltalĂĄnos"
 
 msgid "Mideast/Riyadh87"
-msgstr "Közép-kelet/Riyadh87"
+msgstr "KĂśzĂŠp-kelet/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr "Közép-kelet/Riyadh88"
+msgstr "KĂśzĂŠp-kelet/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr "Közép-kelet/Riyadh89"
+msgstr "KĂśzĂŠp-kelet/Riyadh89"
 
 msgid "MST"
 msgstr "MST"
@@ -1350,130 +1350,130 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "Csendes_óceán/Apia"
+msgstr "Csendes_ĂłceĂĄn/Apia"
 
 msgid "Pacific/Auckland"
-msgstr "Csendes_óceán/Auckland"
+msgstr "Csendes_ĂłceĂĄn/Auckland"
 
 msgid "Pacific/Chatham"
-msgstr "Csendes_óceán/Chatham"
+msgstr "Csendes_ĂłceĂĄn/Chatham"
 
 msgid "Pacific/Easter"
-msgstr "Csendes_óceán/Easter"
+msgstr "Csendes_ĂłceĂĄn/Easter"
 
 msgid "Pacific/Efate"
-msgstr "Csendes_óceán/Efate"
+msgstr "Csendes_ĂłceĂĄn/Efate"
 
 msgid "Pacific/Enderbury"
-msgstr "Csendes_óceán/Enderbury"
+msgstr "Csendes_ĂłceĂĄn/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr "Csendes_óceán/Fakaofo"
+msgstr "Csendes_ĂłceĂĄn/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "Csendes_óceán/Fiji"
+msgstr "Csendes_ĂłceĂĄn/Fiji"
 
 msgid "Pacific/Funafuti"
-msgstr "Csendes_óceán/Funafuti"
+msgstr "Csendes_ĂłceĂĄn/Funafuti"
 
 msgid "Pacific/Galapagos"
-msgstr "Csendes_óceán/Galapagos"
+msgstr "Csendes_ĂłceĂĄn/Galapagos"
 
 msgid "Pacific/Gambier"
-msgstr "Csendes_óceán/Gambier"
+msgstr "Csendes_ĂłceĂĄn/Gambier"
 
 msgid "Pacific/Guadalcanal"
-msgstr "Csendes_óceán/Guadalcanal"
+msgstr "Csendes_ĂłceĂĄn/Guadalcanal"
 
 msgid "Pacific/Guam"
-msgstr "Csendes_óceán/Guam"
+msgstr "Csendes_ĂłceĂĄn/Guam"
 
 msgid "Pacific/Honolulu"
-msgstr "Csendes_óceán/Honolulu"
+msgstr "Csendes_ĂłceĂĄn/Honolulu"
 
 msgid "Pacific/Johnston"
-msgstr "Csendes_óceán/Johnston"
+msgstr "Csendes_ĂłceĂĄn/Johnston"
 
 msgid "Pacific/Kiritimati"
-msgstr "Csendes_óceán/Kiritimati"
+msgstr "Csendes_ĂłceĂĄn/Kiritimati"
 
 msgid "Pacific/Kosrae"
-msgstr "Csendes_óceán/Kosrae"
+msgstr "Csendes_ĂłceĂĄn/Kosrae"
 
 msgid "Pacific/Kwajalein"
-msgstr "Csendes_óceán/Kwajalein"
+msgstr "Csendes_ĂłceĂĄn/Kwajalein"
 
 msgid "Pacific/Majuro"
-msgstr "Csendes_óceán/Majuro"
+msgstr "Csendes_ĂłceĂĄn/Majuro"
 
 msgid "Pacific/Marquesas"
-msgstr "Csendes_óceán/Marquesas"
+msgstr "Csendes_ĂłceĂĄn/Marquesas"
 
 msgid "Pacific/Midway"
-msgstr "Csendes_óceán/Midway"
+msgstr "Csendes_ĂłceĂĄn/Midway"
 
 msgid "Pacific/Nauru"
-msgstr "Csendes_óceán/Nauru"
+msgstr "Csendes_ĂłceĂĄn/Nauru"
 
 msgid "Pacific/Niue"
-msgstr "Csendes_óceán/Niue"
+msgstr "Csendes_ĂłceĂĄn/Niue"
 
 msgid "Pacific/Norfolk"
-msgstr "Csendes_óceán/Norfolk"
+msgstr "Csendes_ĂłceĂĄn/Norfolk"
 
 msgid "Pacific/Noumea"
-msgstr "Csendes_óceán/Noumea"
+msgstr "Csendes_ĂłceĂĄn/Noumea"
 
 msgid "Pacific/Pago_Pago"
-msgstr "Csendes_óceán/Pago_Pago"
+msgstr "Csendes_ĂłceĂĄn/Pago_Pago"
 
 msgid "Pacific/Palau"
-msgstr "Csendes_óceán/Palau"
+msgstr "Csendes_ĂłceĂĄn/Palau"
 
 msgid "Pacific/Pitcairn"
-msgstr "Csendes_óceán/Pitcairn"
+msgstr "Csendes_ĂłceĂĄn/Pitcairn"
 
 msgid "Pacific/Ponape"
-msgstr "Csendes_óceán/Panape"
+msgstr "Csendes_ĂłceĂĄn/Panape"
 
 msgid "Pacific/Port_Moresby"
-msgstr "Csendes_óceán/Port_Moresby"
+msgstr "Csendes_ĂłceĂĄn/Port_Moresby"
 
 msgid "Pacific/Rarotonga"
-msgstr "Csendes_óceán/Rarotonga"
+msgstr "Csendes_ĂłceĂĄn/Rarotonga"
 
 msgid "Pacific/Saipan"
-msgstr "Csendes_óceán/Saipan"
+msgstr "Csendes_ĂłceĂĄn/Saipan"
 
 msgid "Pacific/Samoa"
-msgstr "Csendes_óceán/Samoa"
+msgstr "Csendes_ĂłceĂĄn/Samoa"
 
 msgid "Pacific/Tahiti"
-msgstr "Csendes_óceán/Tahiti"
+msgstr "Csendes_ĂłceĂĄn/Tahiti"
 
 msgid "Pacific/Tarawa"
-msgstr "Csendes_óceán/Tarawa"
+msgstr "Csendes_ĂłceĂĄn/Tarawa"
 
 msgid "Pacific/Tongatapu"
-msgstr "Csendes_óceán/Tongatapu"
+msgstr "Csendes_ĂłceĂĄn/Tongatapu"
 
 msgid "Pacific/Truk"
-msgstr "Csendes_óceán/Truk"
+msgstr "Csendes_ĂłceĂĄn/Truk"
 
 msgid "Pacific/Wake"
-msgstr "Csendes_óceán/Wake"
+msgstr "Csendes_ĂłceĂĄn/Wake"
 
 msgid "Pacific/Wallis"
-msgstr "Csendes_óceán/Wallis"
+msgstr "Csendes_ĂłceĂĄn/Wallis"
 
 msgid "Pacific/Yap"
-msgstr "Csendes_óceán/Yap"
+msgstr "Csendes_ĂłceĂĄn/Yap"
 
 msgid "Poland"
-msgstr "Lengyelország"
+msgstr "LengyelorszĂĄg"
 
 msgid "Portugal"
-msgstr "Portugália"
+msgstr "PortugĂĄlia"
 
 msgid "PRC"
 msgstr "PRC"
@@ -1488,7 +1488,7 @@ msgid "ROK"
 msgstr "ROK"
 
 msgid "Singapore"
-msgstr "Szingapúr"
+msgstr "SzingapĂşr"
 
 msgid "SystemV/AST4"
 msgstr "SystemV/AST4"
@@ -1530,7 +1530,7 @@ msgid "SystemV/YST9YDT"
 msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
-msgstr "Törökország"
+msgstr "TĂśrĂśkorszĂĄg"
 
 msgid "UCT"
 msgstr "UCT"
@@ -1548,7 +1548,7 @@ msgid "US/Arizona"
 msgstr "USA/Arizona"
 
 msgid "US/Central"
-msgstr "USA/Közép"
+msgstr "USA/KĂśzĂŠp"
 
 msgid "US/Eastern"
 msgstr "USA/Kelet"
@@ -1569,7 +1569,7 @@ msgid "US/Mountain"
 msgstr "USA/Mountain"
 
 msgid "US/Pacific"
-msgstr "USA/CSendes_óceán"
+msgstr "USA/CSendes_ĂłceĂĄn"
 
 msgid "US/Samoa"
 msgstr "USA/Samoa"
