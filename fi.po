@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-01-15 19:32+0200\n"
+"PO-Revision-Date: 2004-01-24 11:05+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team \n"
 "MIME-Version: 1.0\n"
@@ -1615,6 +1615,7 @@ msgstr "WET"
 msgid "W-SU"
 msgstr "W-SU"
 
+# Tämä on oikein.
 msgid "Zulu"
-msgstr "Zulu"
+msgstr "UTC"
 
