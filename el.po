@@ -7,13 +7,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: (null)\n"
-"PO-Revision-Date: 2003-01-28 02:12+0200\n"
+"PO-Revision-Date: 2003-02-01 23:10+0200\n"
 "Last-Translator: Nikos Charonitakis <charosn@her.forthnet.gr>\n"
 "Language-Team: Greek <nls@hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-7\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
 
 msgid "Africa/Abidjan"
 msgstr "Αφρική/Abidjan"
@@ -573,9 +572,8 @@ msgstr "Ανταρκτική/Syowa"
 msgid "Antarctica/Vostok"
 msgstr "Ανταρκτική/Vostok"
 
-#, fuzzy
 msgid "Arctic/Longyearbyen"
-msgstr "Arctic/Longyearbyen"
+msgstr "Αρκτική/Longyearbyen"
 
 msgid "Asia/Aden"
 msgstr "Ασία/Aden"
@@ -670,15 +668,12 @@ msgstr "Ασία/Hovd"
 msgid "Asia/Irkutsk"
 msgstr "Ασία/Irkutsk"
 
-#, fuzzy
 msgid "Asia/Istanbul"
 msgstr "Ασία/Istanbul"
 
-#, fuzzy
 msgid "Asia/Jakarta"
 msgstr "Ασία/Jakarta"
 
-#, fuzzy
 msgid "Asia/Jayapura"
 msgstr "Ασία/Jayapura"
 
@@ -697,23 +692,18 @@ msgstr "Ασία/Karachi"
 msgid "Asia/Kashgar"
 msgstr "Ασία/Kashgar"
 
-#, fuzzy
 msgid "Asia/Katmandu"
 msgstr "Ασία/Katmandu"
 
-#, fuzzy
 msgid "Asia/Krasnoyarsk"
 msgstr "Ασία/Krasnoyarsk"
 
-#, fuzzy
 msgid "Asia/Kuala_Lumpur"
 msgstr "Ασία/Kuala_Lumpur"
 
-#, fuzzy
 msgid "Asia/Kuching"
 msgstr "Ασία/Kuching"
 
-#, fuzzy
 msgid "Asia/Kuwait"
 msgstr "Ασία/Kuwait"
 
@@ -738,11 +728,9 @@ msgstr "Ασία/Muscat"
 msgid "Asia/Nicosia"
 msgstr "Ασία/Λευκωσία"
 
-#, fuzzy
 msgid "Asia/Novosibirsk"
 msgstr "Ασία/Novosibirsk"
 
-#, fuzzy
 msgid "Asia/Omsk"
 msgstr "Ασία/Omsk"
 
@@ -767,49 +755,39 @@ msgstr "Ασία/Qyzylorda"
 msgid "Asia/Rangoon"
 msgstr "Ασία/Rangoon"
 
-#, fuzzy
 msgid "Asia/Riyadh"
 msgstr "Ασία/Riyadh"
 
-#, fuzzy
 msgid "Asia/Riyadh87"
 msgstr "Ασία/Riyadh87"
 
-#, fuzzy
 msgid "Asia/Riyadh88"
 msgstr "Ασία/Riyadh88"
 
-#, fuzzy
 msgid "Asia/Riyadh89"
 msgstr "Ασία/Riyadh89"
 
-#, fuzzy
 msgid "Asia/Saigon"
 msgstr "Ασία/Saigon"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
 msgstr "Ασία/Sakhalin"
 
-#, fuzzy
 msgid "Asia/Samarkand"
 msgstr "Ασία/Samarkand"
 
 msgid "Asia/Seoul"
 msgstr "Ασία/Σεούλ"
 
-#, fuzzy
 msgid "Asia/Shanghai"
 msgstr "Ασία/Shanghai"
 
 msgid "Asia/Singapore"
 msgstr "Ασία/Σινγκαπούρη"
 
-#, fuzzy
 msgid "Asia/Taipei"
 msgstr "Ασία/Taipei"
 
-#, fuzzy
 msgid "Asia/Tashkent"
 msgstr "Ασία/Tashkent"
 
@@ -846,7 +824,6 @@ msgstr "Ασία/Urumqi"
 msgid "Asia/Vientiane"
 msgstr "Ασία/Vientiane"
 
-#, fuzzy
 msgid "Asia/Vladivostok"
 msgstr "Ασία/Vladivostok"
 
@@ -856,43 +833,33 @@ msgstr "Ασία/Yakutsk"
 msgid "Asia/Yekaterinburg"
 msgstr "Ασία/Yekaterinburg"
 
-#, fuzzy
 msgid "Asia/Yerevan"
 msgstr "Ασία/Yerevan"
 
-#, fuzzy
 msgid "Atlantic/Azores"
 msgstr "Ατλαντικός/Azores"
 
-#, fuzzy
 msgid "Atlantic/Bermuda"
 msgstr "Ατλαντικός/Bermuda"
 
-#, fuzzy
 msgid "Atlantic/Canary"
 msgstr "Ατλαντικός/Canary"
 
-#, fuzzy
 msgid "Atlantic/Cape_Verde"
 msgstr "Ατλαντικός/Cape_Verde"
 
-#, fuzzy
 msgid "Atlantic/Faeroe"
 msgstr "Ατλαντικός/Faeroe"
 
-#, fuzzy
 msgid "Atlantic/Jan_Mayen"
 msgstr "Ατλαντικός/Jan_Mayen"
 
-#, fuzzy
 msgid "Atlantic/Madeira"
 msgstr "Ατλαντικός/Madeira"
 
-#, fuzzy
 msgid "Atlantic/Reykjavik"
 msgstr "Ατλαντικός/Reykjavik"
 
-#, fuzzy
 msgid "Atlantic/South_Georgia"
 msgstr "Ατλαντικός/South_Georgia"
 
@@ -902,26 +869,21 @@ msgstr "Ατλαντικός/Stanley"
 msgid "Atlantic/St_Helena"
 msgstr "Ατλαντικός/St_Helena"
 
-#, fuzzy
 msgid "Australia/ACT"
 msgstr "Αυστραλία/ACT"
 
-#, fuzzy
 msgid "Australia/Adelaide"
 msgstr "Αυστραλία/Adelaide"
 
-#, fuzzy
 msgid "Australia/Brisbane"
 msgstr "Αυστραλία/Brisbane"
 
 msgid "Australia/Broken_Hill"
 msgstr "Αυστραλία/Broken_Hill"
 
-#, fuzzy
 msgid "Australia/Canberra"
 msgstr "Αυστραλία/Canberra"
 
-#, fuzzy
 msgid "Australia/Darwin"
 msgstr "Αυστραλία/Darwin"
 
@@ -955,11 +917,9 @@ msgstr "Αυστραλία/Queensland"
 msgid "Australia/South"
 msgstr "Αυστραλία/Νότια"
 
-#, fuzzy
 msgid "Australia/Sydney"
 msgstr "Αυστραλία/Sydney"
 
-#, fuzzy
 msgid "Australia/Tasmania"
 msgstr "Αυστραλία/Tasmania"
 
@@ -996,14 +956,12 @@ msgstr "Καναδάς/Ανατολικός"
 msgid "Canada/East-Saskatchewan"
 msgstr "Καναδάς/East-Saskatchewan"
 
-#, fuzzy
 msgid "Canada/Mountain"
 msgstr "Καναδάς/Mountain"
 
 msgid "Canada/Newfoundland"
 msgstr "Καναδάς/Newfoundland"
 
-#, fuzzy
 msgid "Canada/Pacific"
 msgstr "Καναδάς/Pacific"
 
@@ -1016,11 +974,9 @@ msgstr "Καναδάς/Yukon"
 msgid "CET"
 msgstr ""
 
-#, fuzzy
 msgid "Chile/Continental"
 msgstr "Χιλή/Continental"
 
-#, fuzzy
 msgid "Chile/EasterIsland"
 msgstr "Χιλή/EasterIsland"
 
