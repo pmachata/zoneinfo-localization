@@ -1,18 +1,19 @@
 # Timezones Greek Translation.
 # Copyright (C) 2003 Nikos Charonitakis
-# This file is distributed under the same license as the PACKAGE package.
-# Nikos Charonitakis <charosn@her.forthnet.gr>, 2003.
+# This file is distributed under the same license as the redhat-config-date/timezones package.
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2003, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: el\n"
 "POT-Creation-Date: (null)\n"
-"PO-Revision-Date: 2004-04-25 17:35-0200\n"
-"Last-Translator: Nikos Charonitakis <charosn@her.fothnet.gr>\n"
-"Language-Team: Greek <nls@hellug.gr>\n"
+"PO-Revision-Date: 2004-08-05 21:15+0300\n"
+"Last-Translator: Nikos Charonitakis <charosn@her.forthnet.gr>\n"
+"Language-Team:  <nls@tux.hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "Αφρική/Abidjan"
@@ -972,7 +973,7 @@ msgid "Canada/Yukon"
 msgstr "Καναδάς/Yukon"
 
 msgid "CET"
-msgstr ""
+msgstr "CET"
 
 msgid "Chile/Continental"
 msgstr "Χιλή/Continental"
@@ -981,13 +982,13 @@ msgid "Chile/EasterIsland"
 msgstr "Χιλή/EasterIsland"
 
 msgid "CST6CDT"
-msgstr ""
+msgstr "CST6CDT"
 
 msgid "Cuba"
 msgstr "Κούβα"
 
 msgid "EET"
-msgstr ""
+msgstr "EET"
 
 msgid "Egypt"
 msgstr "Αίγυπτος"
@@ -996,115 +997,115 @@ msgid "Eire"
 msgstr "Εΐρε"
 
 msgid "EST"
-msgstr ""
+msgstr "EST"
 
 msgid "EST5EDT"
-msgstr ""
+msgstr "EST5EDT"
 
 msgid "Etc/GMT"
-msgstr ""
+msgstr "Etc/GMT"
 
 msgid "Etc/GMT0"
-msgstr ""
+msgstr "Etc/GMT0"
 
 msgid "Etc/GMT-0"
-msgstr ""
+msgstr "Etc/GMT-0"
 
 msgid "Etc/GMT+0"
-msgstr ""
+msgstr "Etc/GMT+0"
 
 msgid "Etc/GMT-1"
-msgstr ""
+msgstr "Etc/GMT-1"
 
 msgid "Etc/GMT+1"
-msgstr ""
+msgstr "Etc/GMT+1"
 
 msgid "Etc/GMT-10"
-msgstr ""
+msgstr "Etc/GMT-10"
 
 msgid "Etc/GMT+10"
-msgstr ""
+msgstr "Etc/GMT+10"
 
 msgid "Etc/GMT-11"
-msgstr ""
+msgstr "Etc/GMT-11"
 
 msgid "Etc/GMT+11"
-msgstr ""
+msgstr "Etc/GMT+11"
 
 msgid "Etc/GMT-12"
-msgstr ""
+msgstr "Etc/GMT-12"
 
 msgid "Etc/GMT+12"
-msgstr ""
+msgstr "Etc/GMT+12"
 
 msgid "Etc/GMT-13"
-msgstr ""
+msgstr "Etc/GMT-13"
 
 msgid "Etc/GMT-14"
-msgstr ""
+msgstr "Etc/GMT-14"
 
 msgid "Etc/GMT-2"
-msgstr ""
+msgstr "Etc/GMT-2"
 
 msgid "Etc/GMT+2"
-msgstr ""
+msgstr "Etc/GMT+2"
 
 msgid "Etc/GMT-3"
-msgstr ""
+msgstr "Etc/GMT-3"
 
 msgid "Etc/GMT+3"
-msgstr ""
+msgstr "Etc/GMT+3"
 
 msgid "Etc/GMT-4"
-msgstr ""
+msgstr "Etc/GMT-4"
 
 msgid "Etc/GMT+4"
-msgstr ""
+msgstr "Etc/GMT+4"
 
 msgid "Etc/GMT-5"
-msgstr ""
+msgstr "Etc/GMT-5"
 
 msgid "Etc/GMT+5"
-msgstr ""
+msgstr "Etc/GMT+5"
 
 msgid "Etc/GMT-6"
-msgstr ""
+msgstr "Etc/GMT-6"
 
 msgid "Etc/GMT+6"
-msgstr ""
+msgstr "Etc/GMT+6"
 
 msgid "Etc/GMT-7"
-msgstr ""
+msgstr "Etc/GMT-7"
 
 msgid "Etc/GMT+7"
-msgstr ""
+msgstr "Etc/GMT+7"
 
 msgid "Etc/GMT-8"
-msgstr ""
+msgstr "Etc/GMT-8"
 
 msgid "Etc/GMT+8"
-msgstr ""
+msgstr "Etc/GMT+8"
 
 msgid "Etc/GMT-9"
-msgstr ""
+msgstr "Etc/GMT-9"
 
 msgid "Etc/GMT+9"
-msgstr ""
+msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr ""
+msgstr "Etc/Greenwich"
 
 msgid "Etc/UCT"
-msgstr ""
+msgstr "Etc/UCT"
 
 msgid "Etc/Universal"
-msgstr ""
+msgstr "Etc/Universal"
 
 msgid "Etc/UTC"
-msgstr ""
+msgstr "Etc/UTC"
 
 msgid "Etc/Zulu"
-msgstr ""
+msgstr "Etc/Ζουλού"
 
 msgid "Europe/Amsterdam"
 msgstr "Ευρώπη/Άμστερνταμ"
@@ -1290,7 +1291,7 @@ msgid "Hongkong"
 msgstr "Χονγκ Κονγκ"
 
 msgid "HST"
-msgstr ""
+msgstr "HST"
 
 msgid "Iceland"
 msgstr "Ισλανδία"
@@ -1347,7 +1348,7 @@ msgid "Libya"
 msgstr "Λιβύη"
 
 msgid "MET"
-msgstr ""
+msgstr "MET"
 
 msgid "Mexico/BajaNorte"
 msgstr "Μεξικό/BajaNorte"
@@ -1368,19 +1369,19 @@ msgid "Mideast/Riyadh89"
 msgstr "Μέση ανατολή/Riyadh89"
 
 msgid "MST"
-msgstr ""
+msgstr "MST"
 
 msgid "MST7MDT"
-msgstr ""
+msgstr "MST7MDT"
 
 msgid "Navajo"
 msgstr ""
 
 msgid "NZ"
-msgstr ""
+msgstr "NZ"
 
 msgid "NZ-CHAT"
-msgstr ""
+msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
 msgstr "Ειρηνικός/Apia"
@@ -1509,58 +1510,58 @@ msgid "Portugal"
 msgstr "Πορτογαλία"
 
 msgid "PRC"
-msgstr ""
+msgstr "PRC"
 
 msgid "PST8PDT"
-msgstr ""
+msgstr "PST8PDT"
 
 msgid "ROC"
-msgstr ""
+msgstr "ROC"
 
 msgid "ROK"
-msgstr ""
+msgstr "ROK"
 
 msgid "Singapore"
 msgstr "Σινγκαπούρη"
 
 msgid "SystemV/AST4"
-msgstr ""
+msgstr "SystemV/AST4"
 
 msgid "SystemV/AST4ADT"
-msgstr ""
+msgstr "SystemV/AST4ADT"
 
 msgid "SystemV/CST6"
-msgstr ""
+msgstr "SystemV/CST6"
 
 msgid "SystemV/CST6CDT"
-msgstr ""
+msgstr "SystemV/CST6CDT"
 
 msgid "SystemV/EST5"
-msgstr ""
+msgstr "SystemV/EST5"
 
 msgid "SystemV/EST5EDT"
-msgstr ""
+msgstr "SystemV/EST5EDT"
 
 msgid "SystemV/HST10"
-msgstr ""
+msgstr "SystemV/HST10"
 
 msgid "SystemV/MST7"
-msgstr ""
+msgstr "SystemV/MST7"
 
 msgid "SystemV/MST7MDT"
-msgstr ""
+msgstr "SystemV/MST7MDT"
 
 msgid "SystemV/PST8"
-msgstr ""
+msgstr "SystemV/PST8"
 
 msgid "SystemV/PST8PDT"
-msgstr ""
+msgstr "SystemV/PST8PDT"
 
 msgid "SystemV/YST9"
-msgstr ""
+msgstr "SystemV/YST9"
 
 msgid "SystemV/YST9YDT"
-msgstr ""
+msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
 msgstr "Τουρκία"
@@ -1614,7 +1615,7 @@ msgid "WET"
 msgstr ""
 
 msgid "W-SU"
-msgstr ""
+msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Ζουλού"
