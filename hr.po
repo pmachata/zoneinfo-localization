@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones 0\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-09-17 10:33+CEST\n"
+"PO-Revision-Date: 2003-10-03 17:29+CEST\n"
 "Last-Translator: auto\n"
 "Language-Team: Croatian <lokalizacija@linux.hr>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgid "Africa/Accra"
 msgstr "Afrika/Accra"
 
 msgid "Africa/Addis_Ababa"
-msgstr "Afrika/Adis_Ababa"
+msgstr "Afrika/Addis_Ababa"
 
 msgid "Africa/Algiers"
 msgstr "Afrika/Alžir"
@@ -173,7 +173,7 @@ msgid "America/Anchorage"
 msgstr "Amerika/Anchorage"
 
 msgid "America/Anguilla"
-msgstr "America/Anguilla"
+msgstr "Amerika/Anguilla"
 
 msgid "America/Antigua"
 msgstr "Amerika/Antigua"
@@ -287,7 +287,7 @@ msgid "America/Glace_Bay"
 msgstr "Amerika/Glace_Bay"
 
 msgid "America/Godthab"
-msgstr "America/Godthab"
+msgstr "Amerika/Godthab"
 
 msgid "America/Goose_Bay"
 msgstr "Amerika/Goose_Bay"
@@ -512,7 +512,7 @@ msgid "America/Tegucigalpa"
 msgstr "Amerika/Tegucigalpa"
 
 msgid "America/Thule"
-msgstr "America/Thule"
+msgstr "Amerika/Thule"
 
 msgid "America/Thunder_Bay"
 msgstr "Amerika/Thunder_Bay"
@@ -1199,7 +1199,7 @@ msgid "Europe/Riga"
 msgstr "Europa/Riga"
 
 msgid "Europe/Rome"
-msgstr "Europa/Rome"
+msgstr "Europa/Rime"
 
 msgid "Europe/Samara"
 msgstr "Europa/Samara"
@@ -1295,7 +1295,7 @@ msgid "Indian/Antananarivo"
 msgstr "Indijski_ocean/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "Indijski_ocean/Chagos"
+msgstr "Indijski ocean/Chagos"
 
 msgid "Indian/Christmas"
 msgstr "Indijski ocean/Božićni_otoci"
@@ -1304,7 +1304,7 @@ msgid "Indian/Cocos"
 msgstr "Indijski_ocean/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Indijski_ocean/Comoro"
+msgstr "Indijski ocean/Comoro"
 
 msgid "Indian/Kerguelen"
 msgstr "Indijski_ocean/Kerguelen"
@@ -1319,7 +1319,7 @@ msgid "Indian/Mauritius"
 msgstr "Indijski_ocean/Mauritius"
 
 msgid "Indian/Mayotte"
-msgstr "Indijski_ocean/Mayotte"
+msgstr "Indijski ocean/Mayotte"
 
 msgid "Indian/Reunion"
 msgstr "Indijski_ocean/Reunion"
@@ -1516,7 +1516,7 @@ msgstr "ROC"
 msgid "ROK"
 msgstr "ROK"
 
-#, c-format
+#,  c-format
 msgid "Singapore"
 msgstr "Singapur"
 
