@@ -1,18 +1,18 @@
+
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Allan Sims <allsi@eau.ee>, 2004.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Allan Sims <allsi@eau.ee>\n"
+"Language-Team: Eesti \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Africa/Abidjan"
@@ -700,7 +700,7 @@ msgid "Asia/Krasnoyarsk"
 msgstr "Aasia/Krasnoyarsk"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Aasia/Kuala_Lumpur"
+msgstr "Aasia/Kuala Lumpur"
 
 msgid "Asia/Kuching"
 msgstr "Aasia/Kuching"
@@ -1159,7 +1159,7 @@ msgid "Europe/Kaliningrad"
 msgstr "Euroopa/Kaliningrad"
 
 msgid "Europe/Kiev"
-msgstr "Euroopa/Kiev"
+msgstr "Euroopa/Kiiev"
 
 msgid "Europe/Lisbon"
 msgstr "Euroopa/Lisbon"
@@ -1171,7 +1171,7 @@ msgid "Europe/London"
 msgstr "Euroopa/London"
 
 msgid "Europe/Luxembourg"
-msgstr "Euroopa/Luxembourg"
+msgstr "Euroopa/Luxemburg"
 
 msgid "Europe/Madrid"
 msgstr "Euroopa/Madrid"
@@ -1186,7 +1186,7 @@ msgid "Europe/Monaco"
 msgstr "Euroopa/Monaco"
 
 msgid "Europe/Moscow"
-msgstr "Euroopa/Moscow"
+msgstr "Euroopa/Moskva"
 
 msgid "Europe/Nicosia"
 msgstr "Euroopa/Nicosia"
@@ -1195,22 +1195,22 @@ msgid "Europe/Oslo"
 msgstr "Euroopa/Oslo"
 
 msgid "Europe/Paris"
-msgstr "Euroopa/Paris"
+msgstr "Euroopa/Pariis"
 
 msgid "Europe/Prague"
-msgstr "Euroopa/Prague"
+msgstr "Euroopa/Praha"
 
 msgid "Europe/Riga"
 msgstr "Euroopa/Riia"
 
 msgid "Europe/Rome"
-msgstr "Euroopa/Rome"
+msgstr "Euroopa/Rooma"
 
 msgid "Europe/Samara"
 msgstr "Euroopa/Samara"
 
 msgid "Europe/San_Marino"
-msgstr "Euroopa/San_Marino"
+msgstr "Euroopa/SanMarino"
 
 msgid "Europe/Sarajevo"
 msgstr "Euroopa/Sarajevo"
@@ -1243,7 +1243,7 @@ msgid "Europe/Vaduz"
 msgstr "Euroopa/Vaduz"
 
 msgid "Europe/Vatican"
-msgstr "Euroopa/Vatican"
+msgstr "Euroopa/Vatikan"
 
 msgid "Europe/Vienna"
 msgstr "Euroopa/Vienna"
@@ -1252,7 +1252,7 @@ msgid "Europe/Vilnius"
 msgstr "Euroopa/Vilnius"
 
 msgid "Europe/Warsaw"
-msgstr "Euroopa/Warsaw"
+msgstr "Euroopa/Varsav"
 
 msgid "Europe/Zagreb"
 msgstr "Euroopa/Zagreb"
@@ -1261,7 +1261,7 @@ msgid "Europe/Zaporozhye"
 msgstr "Euroopa/Zaporozhye"
 
 msgid "Europe/Zurich"
-msgstr "Euroopa/Zurich"
+msgstr "Euroopa/Zürich"
 
 msgid "Factory"
 msgstr "Factory"
@@ -1294,7 +1294,7 @@ msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "Iceland"
+msgstr "Island"
 
 msgid "Indian/Antananarivo"
 msgstr "Indian/Antananarivo"
@@ -1330,34 +1330,34 @@ msgid "Indian/Reunion"
 msgstr "Indian/Reunion"
 
 msgid "Iran"
-msgstr "Iran"
+msgstr "Iraan"
 
 msgid "Israel"
 msgstr "Israel"
 
 msgid "Jamaica"
-msgstr "Jamaica"
+msgstr "Jamaika"
 
 msgid "Japan"
-msgstr "Japan"
+msgstr "Jaapan"
 
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
 msgid "Libya"
-msgstr "Libya"
+msgstr "Liibüa"
 
 msgid "MET"
 msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr "Mexico/BajaNorte"
+msgstr "Mehiko/BajaNorte"
 
 msgid "Mexico/BajaSur"
-msgstr "Mexico/BajaSur"
+msgstr "Mehiko/BajaSur"
 
 msgid "Mexico/General"
-msgstr "Mexico/General"
+msgstr "Mehiko/General"
 
 msgid "Mideast/Riyadh87"
 msgstr "Mideast/Riyadh87"
@@ -1619,4 +1619,3 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
-
