@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-09-11 19:51+1100\n"
+"PO-Revision-Date: 2004-09-23 11:00+0400\n"
 "Last-Translator: Andrew Martynov <andrewm@inventa.ru>\n"
 "Language-Team: Russian <fedora-trans-ru@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -189,9 +189,8 @@ msgstr "Америка/Аруба"
 msgid "America/Asuncion"
 msgstr "Америка/Асунсьон"
 
-#, fuzzy
 msgid "America/Atka"
-msgstr "Америка/Atka"
+msgstr "Америка/Атка"
 
 msgid "America/Barbados"
 msgstr "Америка/Барбадос"
@@ -250,9 +249,8 @@ msgstr "Америка/Куяба"
 msgid "America/Curacao"
 msgstr "Америка/Кюрасао"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "Америка/Danmarkshavn"
+msgstr "Америка/Денмаркшавн"
 
 msgid "America/Dawson"
 msgstr "Америка/Доусон"
@@ -359,9 +357,8 @@ msgstr "Америка/Кентукки/Луисвилл"
 msgid "America/Kentucky/Monticello"
 msgstr "Америка/Кентукки/Monticello"
 
-#, fuzzy
 msgid "America/Knox_IN"
-msgstr "Америка/Knox_IN"
+msgstr "Америка/Кнокс_Ин"
 
 msgid "America/La_Paz"
 msgstr "Америка/Ла_Пас"
@@ -450,9 +447,8 @@ msgstr "Америка/Феникс"
 msgid "America/Port-au-Prince"
 msgstr "Америка/Порт-о-Пренс"
 
-#, fuzzy
 msgid "America/Porto_Acre"
-msgstr "Америка/Porto_Acre"
+msgstr "Америка/Порт_Акра"
 
 msgid "America/Port_of_Spain"
 msgstr "Америка/Порт_оф_Спейн"
@@ -478,9 +474,8 @@ msgstr "Америка/Реджайна"
 msgid "America/Rio_Branco"
 msgstr "Америка/Риу_Бранку"
 
-#, fuzzy
 msgid "America/Rosario"
-msgstr "Америка/Rosario"
+msgstr "Америка/Росарио"
 
 msgid "America/Santiago"
 msgstr "Америка/Сантьяго"
@@ -533,9 +528,8 @@ msgstr "Америка/остров_Тортола"
 msgid "America/Vancouver"
 msgstr "Америка/Ванкувер"
 
-#, fuzzy
 msgid "America/Virgin"
-msgstr "Америка/Virgin"
+msgstr "Америка/Вирджин"
 
 msgid "America/Whitehorse"
 msgstr "Америка/Уайтхорс"
@@ -633,16 +627,14 @@ msgstr "Азия/Чойбалсан"
 msgid "Asia/Chongqing"
 msgstr "Азия/Чунцин"
 
-#, fuzzy
 msgid "Asia/Chungking"
-msgstr "Азия/Chungking"
+msgstr "Азия/Чункинг"
 
 msgid "Asia/Colombo"
 msgstr "Азия/Коломбо"
 
-#, fuzzy
 msgid "Asia/Dacca"
-msgstr "Азия/Dacca"
+msgstr "Азия/Дака"
 
 msgid "Asia/Damascus"
 msgstr "Азия/Дамаск"
@@ -815,9 +807,8 @@ msgstr "Азия/Тхимпху"
 msgid "Asia/Tokyo"
 msgstr "Азия/Токио"
 
-#, fuzzy
 msgid "Asia/Ujung_Pandang"
-msgstr "Азия/Ujung_Pandang"
+msgstr "Азия/Юнг_Падан"
 
 msgid "Asia/Ulaanbaatar"
 msgstr "Азия/Улан-Батор"
@@ -936,9 +927,8 @@ msgstr "Австралия/Виктория"
 msgid "Australia/West"
 msgstr "Австралия/Запад"
 
-#, fuzzy
 msgid "Australia/Yancowinna"
-msgstr "Австралия/Yancowinna"
+msgstr "Австралия/Янковина"
 
 msgid "Brazil/Acre"
 msgstr "Бразилия/Акри"
@@ -1000,7 +990,6 @@ msgstr "EET"
 msgid "Egypt"
 msgstr "Египт"
 
-#, fuzzy
 msgid "Eire"
 msgstr "Eire"
 
@@ -1106,7 +1095,6 @@ msgstr "Etc/Гринвич"
 msgid "Etc/UCT"
 msgstr "Etc/UCT"
 
-#, fuzzy
 msgid "Etc/Universal"
 msgstr "Etc/Universal"
 
@@ -1272,15 +1260,12 @@ msgstr "Европа/Запорожье"
 msgid "Europe/Zurich"
 msgstr "Европа/Цюрих"
 
-#, fuzzy
 msgid "Factory"
 msgstr "Factory"
 
-#, fuzzy
 msgid "GB"
 msgstr "GB"
 
-#, fuzzy
 msgid "GB-Eire"
 msgstr "GB-Eire"
 
@@ -1362,15 +1347,12 @@ msgstr "Ливия"
 msgid "MET"
 msgstr "MET"
 
-#, fuzzy
 msgid "Mexico/BajaNorte"
 msgstr "Мексика/BajaNorte"
 
-#, fuzzy
 msgid "Mexico/BajaSur"
 msgstr "Мексика/BajaSur"
 
-#, fuzzy
 msgid "Mexico/General"
 msgstr "Мексика/General"
 
@@ -1389,7 +1371,6 @@ msgstr "MST"
 msgid "MST7MDT"
 msgstr "MST7MDT"
 
-#, fuzzy
 msgid "Navajo"
 msgstr "Navajo"
 
@@ -1585,7 +1566,6 @@ msgstr "Турция"
 msgid "UCT"
 msgstr "UCT"
 
-#, fuzzy
 msgid "Universal"
 msgstr "Universal"
 
