@@ -9,13 +9,13 @@ NLSPACKAGE = timezones
 
 CATALOGS = $(shell ls *.po | sed 's/po/mo/')
 
-#POTFILES  = ../../gnome-map/timezonemapmodule.c
+#POTFILES  = ../timeconfig.c
 
 all: $(NLSPACKAGE).pot $(CATALOGS)
 
 $(NLSPACKAGE).pot:
-#	xgettext --default-domain=$(NLSPACKAGE) \
-#		--add-comments --keyword=_ --keyword=N_ $(POTFILES)
+	xgettext --default-domain=$(NLSPACKAGE) \
+		--add-comments --keyword=_ --keyword=N_ $(POTFILES)
 	echo >> $(NLSPACKAGE).po
 	for a in `cd /usr/share/zoneinfo; find . -type f -or -type l | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)" | sort | cut -d '/' -f 2- `; do printf "msgid \"%s\"\nmsgstr \"\"\n\n" $$a ; done >> $(NLSPACKAGE).po
 	if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
