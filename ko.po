@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones 3.2\n"
-"POT-Creation-Date: 2001-01-25 15:49-0500\n"
+"POT-Creation-Date: 2002-04-12 17:04-0400\n"
 "PO-Revision-Date: 2001-03-26 14:45+0900\n"
 "Last-Translator: Jong-Hoon Ryu <queenrjh@chollian.net>\n"
 "Language-Team: Korean Linux Extension project <kle@kldp.org>\n"
@@ -246,6 +246,10 @@ msgstr "아메리카/쿠이아바(Cuiaba)"
 msgid "America/Curacao"
 msgstr "아메리카/쿠라카오(Curacao)"
 
+#, fuzzy
+msgid "America/Danmarkshavn"
+msgstr "아메리카/카이만(Cayman)"
+
 msgid "America/Dawson"
 msgstr "아메리카/도슨(Dawson)"
 
@@ -393,6 +397,10 @@ msgstr "아메리카/메리다(Merida)"
 msgid "America/Mexico_City"
 msgstr "아메리카/멕시코_시티(Mexico_City)"
 
+#, fuzzy
+msgid "America/Miquelon"
+msgstr "아메리카/마르티니크(Martinique)"
+
 msgid "America/Monterrey"
 msgstr "아메리카/몬테레이(Monterrey)"
 
@@ -419,6 +427,10 @@ msgstr "아메리카/놈(Nome)"
 
 msgid "America/Noronha"
 msgstr "아메리카/노롱야(Noronha)"
+
+#, fuzzy
+msgid "America/North_Dakota/Center"
+msgstr "아메리카/포르트_웨인(Fort_Wayne)"
 
 msgid "America/Panama"
 msgstr "아메리카/파타마(Panama)"
@@ -458,6 +470,10 @@ msgstr "아메리카/레시페(Recife)"
 
 msgid "America/Regina"
 msgstr "아메리카/리자이나(Regina)"
+
+#, fuzzy
+msgid "America/Rio_Branco"
+msgstr "아메리카/쿠라카오(Curacao)"
 
 msgid "America/Rosario"
 msgstr "아메리카/로사리오(Rosario)"
@@ -552,6 +568,10 @@ msgstr "남극대륙/남극(South_Pole)"
 msgid "Antarctica/Syowa"
 msgstr "남극대륙/쇼와(Syowa)"
 
+#, fuzzy
+msgid "Antarctica/Vostok"
+msgstr "남극대륙/모슨(Mawson)"
+
 msgid "Arctic/Longyearbyen"
 msgstr "북극해/롱이어벤(Longyearbyen)"
 
@@ -602,6 +622,14 @@ msgstr "아시아/브루나이(Brunei)"
 
 msgid "Asia/Calcutta"
 msgstr "아시아/캘커타(Calcutta)"
+
+#, fuzzy
+msgid "Asia/Choibalsan"
+msgstr "아시아/캘커타(Calcutta)"
+
+#, fuzzy
+msgid "Asia/Chongqing"
+msgstr "아시아/충칭(Chungking)"
 
 msgid "Asia/Chungking"
 msgstr "아시아/충칭(Chungking)"
@@ -684,8 +712,16 @@ msgstr "아시아/쿠웨이트(Kuwait)"
 msgid "Asia/Macao"
 msgstr "아시아/마카오(Macao)"
 
+#, fuzzy
+msgid "Asia/Macau"
+msgstr "아시아/마카오(Macao)"
+
 msgid "Asia/Magadan"
 msgstr "아시아/마가단(Magadan)"
+
+#, fuzzy
+msgid "Asia/Makassar"
+msgstr "아시아/자카르타(Jakarta)"
 
 msgid "Asia/Manila"
 msgstr "아시아/마닐라(Manila)"
@@ -702,14 +738,26 @@ msgstr "아시아/노보시비르스크(Novosibirsk)"
 msgid "Asia/Omsk"
 msgstr "아시아/옴스크(Omsk)"
 
+#, fuzzy
+msgid "Asia/Oral"
+msgstr "아시아/카불(Kabul)"
+
 msgid "Asia/Phnom_Penh"
 msgstr "아시아/프놈_펜(Phnom_Penh)"
+
+#, fuzzy
+msgid "Asia/Pontianak"
+msgstr "아시아/평양(Pyongyang)"
 
 msgid "Asia/Pyongyang"
 msgstr "아시아/평양(Pyongyang)"
 
 msgid "Asia/Qatar"
 msgstr "아시아/카타르(Qatar)"
+
+#, fuzzy
+msgid "Asia/Qyzylorda"
+msgstr "아시아/가자(Gaza)"
 
 msgid "Asia/Rangoon"
 msgstr "아시아/랑군(Rangoon)"
@@ -728,6 +776,10 @@ msgstr "아시아/리야드89(Riyadh89)"
 
 msgid "Asia/Saigon"
 msgstr "아시아/사이공(Saigon)"
+
+#, fuzzy
+msgid "Asia/Sakhalin"
+msgstr "아시아/바레인(Bahrain)"
 
 msgid "Asia/Samarkand"
 msgstr "아시아/사마르칸트(Samarkand)"
