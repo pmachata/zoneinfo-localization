@@ -1,962 +1,965 @@
+# translation of ja.po to Japanese
 # Time Config Tool Japanese Translation
 # Copyright (C) 2001 Red Hat, Inc.
+# James Hashida <khashida@redhat.com>, 2003
 #
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones 3.0.13\n"
+"Project-Id-Version: ja\n"
 "POT-Creation-Date: 2001-01-25 15:49-0500\n"
-"PO-Revision-Date: 2001-03-22 16:19+0900\n"
-"Last-Translator: Adrian Havill <havill@redhat.com>\n"
-"Language-Team: Japanese <ja@redhat.com>\n"
+"PO-Revision-Date: 2003-01-24 09:12GMT+10:00\n"
+"Last-Translator: James Hashida <khashida@redhat.com>\n"
+"Language-Team: Japanese <i18-list@redhat.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=euc-jp\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta2\n"
 
 msgid "Africa/Abidjan"
-msgstr "еве╒еъел/еве╙е╕еуеє"
+msgstr "уВвуГХуГкуВл/уВвуГУуВ╕уГгуГ│"
 
 msgid "Africa/Accra"
-msgstr "еве╒еъел/евепещ"
+msgstr "уВвуГХуГкуВл/уВвуВпуГй"
 
 msgid "Africa/Addis_Ababa"
-msgstr "еве╒еъел/еве╟еге╣еве┘е╨"
+msgstr "уВвуГХуГкуВл/уВвуГЗуВгуВ╣уВвуГЩуГР"
 
 msgid "Africa/Algiers"
-msgstr "еве╒еъел/евеые╕езеъев"
+msgstr "уВвуГХуГкуВл/уВвуГлуВ╕уВзуГкуВв"
 
 msgid "Africa/Asmera"
-msgstr "еве╒еъел/еве╣е▐ещ"
+msgstr "уВвуГХуГкуВл/уВвуВ╣уГЮуГй"
 
 msgid "Africa/Bamako"
-msgstr "еве╒еъел/е╨е▐е│"
+msgstr "уВвуГХуГкуВл/уГРуГЮуВ│"
 
 msgid "Africa/Bangui"
-msgstr "еве╒еъел/е╨еєео"
+msgstr "уВвуГХуГкуВл/уГРуГ│уВо"
 
 msgid "Africa/Banjul"
-msgstr "еве╒еъел/е╨еєе╕ехб╝еы"
+msgstr "уВвуГХуГкуВл/уГРуГ│уВ╕уГеуГ╝уГл"
 
 msgid "Africa/Bissau"
-msgstr "еве╒еъел/е╙е╡еж"
+msgstr "уВвуГХуГкуВл/уГУуВ╡уВж"
 
 msgid "Africa/Blantyre"
-msgstr "еве╒еъел/е╓ещеєе┐едев"
+msgstr "уВвуГХуГкуВл/уГЦуГйуГ│уВ┐уВдуВв"
 
 msgid "Africa/Brazzaville"
-msgstr "еве╒еъел/е╓еще╢е╙еы"
+msgstr "уВвуГХуГкуВл/уГЦуГйуВ╢уГУуГл"
 
 msgid "Africa/Bujumbura"
-msgstr "еве╒еъел/е╓е╕ехеєе╓ещ"
+msgstr "уВвуГХуГкуВл/уГЦуВ╕уГеуГ│уГЦуГй"
 
 msgid "Africa/Cairo"
-msgstr "еве╒еъел/еледеэ"
+msgstr "уВвуГХуГкуВл/уВлуВдуГн"
 
 msgid "Africa/Casablanca"
-msgstr "еве╒еъел/еле╡е╓ещеєел"
+msgstr "уВвуГХуГкуВл/уВлуВ╡уГЦуГйуГ│уВл"
 
 msgid "Africa/Ceuta"
-msgstr "еве╒еъел/е╗епе┐"
+msgstr "уВвуГХуГкуВл/уВ╗уВпуВ┐"
 
 msgid "Africa/Conakry"
-msgstr "еве╒еъел/е│е╩епеъ"
+msgstr "уВвуГХуГкуВл/уВ│уГКуВпуГк"
 
 msgid "Africa/Dakar"
-msgstr "еве╒еъел/е└епещ"
+msgstr "уВвуГХуГкуВл/уГАуВпуГй"
 
 msgid "Africa/Dar_es_Salaam"
-msgstr "еве╒еъел/е└еые╦е╣е╢ещб╝ер"
+msgstr "уВвуГХуГкуВл/уГАуГлуГЛуВ╣уВ╢уГйуГ╝уГа"
 
 msgid "Africa/Djibouti"
-msgstr "еве╒еъел/е╕е╓е╞ег"
+msgstr "уВвуГХуГкуВл/уВ╕уГЦуГЖуВг"
 
 msgid "Africa/Douala"
-msgstr "еве╒еъел/е╔ееевб╝ещ"
+msgstr "уВвуГХуГкуВл/уГЙуВеуВвуГ╝уГй"
 
 msgid "Africa/El_Aaiun"
-msgstr "еве╒еъел/еиеыеведежеє"
+msgstr "уВвуГХуГкуВл/уВиуГлуВвуВдуВжуГ│"
 
 msgid "Africa/Freetown"
-msgstr "еве╒еъел/е╒еъб╝е┐ежеє"
+msgstr "уВвуГХуГкуВл/уГХуГкуГ╝уВ┐уВжуГ│"
 
 msgid "Africa/Gaborone"
-msgstr "еве╒еъел/еме▄еэб╝е═"
+msgstr "уВвуГХуГкуВл/уВмуГЬуГнуГ╝уГН"
 
 msgid "Africa/Harare"
-msgstr "еве╒еъел/е╧б╝ещеы"
+msgstr "уВвуГХуГкуВл/уГПуГ╝уГйуГл"
 
 msgid "Africa/Johannesburg"
-msgstr "еве╒еъел/еше╧е═е╣е╓еыеп"
+msgstr "уВвуГХуГкуВл/уГиуГПуГНуВ╣уГЦуГлуВп"
 
 msgid "Africa/Kampala"
-msgstr "еве╒еъел/елеєе╤ещ"
+msgstr "уВвуГХуГкуВл/уВлуГ│уГСуГй"
 
 msgid "Africa/Khartoum"
-msgstr "еве╒еъел/е╧еые╚ееб╝еє"
+msgstr "уВвуГХуГкуВл/уГПуГлуГИуВеуГ╝уГ│"
 
 msgid "Africa/Kigali"
-msgstr "еве╒еъел/енемеъ"
+msgstr "уВвуГХуГкуВл/уВнуВмуГк"
 
 msgid "Africa/Kinshasa"
-msgstr "еве╒еъел/енеєе╖еуе╡"
+msgstr "уВвуГХуГкуВл/уВнуГ│уВ╖уГгуВ╡"
 
 msgid "Africa/Lagos"
-msgstr "еве╒еъел/еще┤е╣"
+msgstr "уВвуГХуГкуВл/уГйуВ┤уВ╣"
 
 msgid "Africa/Libreville"
-msgstr "еве╒еъел/еъб╝е╓еыеЇегеы"
+msgstr "уВвуГХуГкуВл/уГкуГ╝уГЦуГлуГ┤уВгуГл"
 
 msgid "Africa/Lome"
-msgstr "еве╒еъел/еэес"
+msgstr "уВвуГХуГкуВл/уГнуГб"
 
 msgid "Africa/Luanda"
-msgstr "еве╒еъел/еыевеєе└"
+msgstr "уВвуГХуГкуВл/уГлуВвуГ│уГА"
 
 msgid "Africa/Lubumbashi"
-msgstr "еве╒еъел/еые╓еєе╨е╖"
+msgstr "уВвуГХуГкуВл/уГлуГЦуГ│уГРуВ╖"
 
 msgid "Africa/Lusaka"
-msgstr "еве╒еъел/еые╡ел"
+msgstr "уВвуГХуГкуВл/уГлуВ╡уВл"
 
 msgid "Africa/Malabo"
-msgstr "еве╒еъел/е▐еще▄"
+msgstr "уВвуГХуГкуВл/уГЮуГйуГЬ"
 
 msgid "Africa/Maputo"
-msgstr "еве╒еъел/е▐е╫е╚"
+msgstr "уВвуГХуГкуВл/уГЮуГЧуГИ"
 
 msgid "Africa/Maseru"
-msgstr "еве╒еъел/е▐е╗еы"
+msgstr "уВвуГХуГкуВл/уГЮуВ╗уГл"
 
 msgid "Africa/Mbabane"
-msgstr "еве╒еъел/ере╨е╨ес"
+msgstr "уВвуГХуГкуВл/уГауГРуГРуГб"
 
 msgid "Africa/Mogadishu"
-msgstr "еве╒еъел/етеме╟еге╖ек"
+msgstr "уВвуГХуГкуВл/уГвуВмуГЗуВгуВ╖уВк"
 
 msgid "Africa/Monrovia"
-msgstr "еве╒еъел/етеєеэеЇегев"
+msgstr "уВвуГХуГкуВл/уГвуГ│уГнуГ┤уВгуВв"
 
 msgid "Africa/Nairobi"
-msgstr "еве╒еъел/е╩едеэе╙"
+msgstr "уВвуГХуГкуВл/уГКуВдуГнуГУ"
 
 msgid "Africa/Ndjamena"
-msgstr "еве╒еъел/е╠е╕еуесе╩"
+msgstr "уВвуГХуГкуВл/уГМуВ╕уГгуГбуГК"
 
 msgid "Africa/Niamey"
-msgstr "еве╒еъел/е╦евесб╝"
+msgstr "уВвуГХуГкуВл/уГЛуВвуГбуГ╝"
 
 msgid "Africa/Nouakchott"
-msgstr "еве╒еъел/е╠епеве╖ече├е╚"
+msgstr "уВвуГХуГкуВл/уГМуВпуВвуВ╖уГзуГГуГИ"
 
 msgid "Africa/Ouagadougou"
-msgstr "еве╒еъел/еяеме╔еее░"
+msgstr "уВвуГХуГкуВл/уГпуВмуГЙуВеуВ░"
 
 msgid "Africa/Porto-Novo"
-msgstr "еве╒еъел/е▌еые╚е╬еЇей"
+msgstr "уВвуГХуГкуВл/уГЭуГлуГИуГОуГ┤уВй"
 
 msgid "Africa/Sao_Tome"
-msgstr "еве╒еъел/е╡еєе╚б╝ес"
+msgstr "уВвуГХуГкуВл/уВ╡уГ│уГИуГ╝уГб"
 
 msgid "Africa/Timbuktu"
-msgstr "еве╒еъел/е╞егеєе╓епе╚ее"
+msgstr "уВвуГХуГкуВл/уГЖуВгуГ│уГЦуВпуГИуВе"
 
 msgid "Africa/Tripoli"
-msgstr "еве╒еъел/е╚еъе▌еъ"
+msgstr "уВвуГХуГкуВл/уГИуГкуГЭуГк"
 
 msgid "Africa/Tunis"
-msgstr "еве╒еъел/е┴ече╦е╣"
+msgstr "уВвуГХуГкуВл/уГБуГзуГЛуВ╣"
 
 msgid "Africa/Windhoek"
-msgstr "еве╒еъел/еЇегеєе╚е╒б╝еп"
+msgstr "уВвуГХуГкуВл/уГ┤уВгуГ│уГИуГХуГ╝уВп"
 
 msgid "America/Adak"
-msgstr "евесеъел/еве└е├еп"
+msgstr "уВвуГбуГкуВл/уВвуГАуГГуВп"
 
 msgid "America/Anchorage"
-msgstr "евесеъел/евеєелеье├е╕"
+msgstr "уВвуГбуГкуВл/уВвуГ│уВлуГмуГГуВ╕"
 
 msgid "America/Anguilla"
-msgstr "евесеъел/евеєе░егещ"
+msgstr "уВвуГбуГкуВл/уВвуГ│уВ░уВгуГй"
 
 msgid "America/Antigua"
-msgstr "евесеъел/евеєе╞еге░ев"
+msgstr "уВвуГбуГкуВл/уВвуГ│уГЖуВгуВ░уВв"
 
 msgid "America/Araguaina"
-msgstr "евесеъел/евеще░еведев"
+msgstr "уВвуГбуГкуВл/уВвуГйуВ░уВвуВдуВв"
 
 msgid "America/Aruba"
-msgstr "евесеъел/евеыб╝е╨"
+msgstr "уВвуГбуГкуВл/уВвуГлуГ╝уГР"
 
 msgid "America/Asuncion"
-msgstr "евесеъел/еве╣еєе╖екеє"
+msgstr "уВвуГбуГкуВл/уВвуВ╣уГ│уВ╖уВкуГ│"
 
 msgid "America/Atka"
-msgstr "евесеъел/еве╚ел"
+msgstr "уВвуГбуГкуВл/уВвуГИуВл"
 
 msgid "America/Barbados"
-msgstr "евесеъел/е╨еые╨е╚е╣"
+msgstr "уВвуГбуГкуВл/уГРуГлуГРуГИуВ╣"
 
 msgid "America/Belem"
-msgstr "евесеъел/е┘еьеє"
+msgstr "уВвуГбуГкуВл/уГЩуГмуГ│"
 
 msgid "America/Belize"
-msgstr "евесеъел/е┘еъб╝е║"
+msgstr "уВвуГбуГкуВл/уГЩуГкуГ╝уВ║"
 
 msgid "America/Boa_Vista"
-msgstr "евесеъел/е▄евеЇеге╣е┐"
+msgstr "уВвуГбуГкуВл/уГЬуВвуГ┤уВгуВ╣уВ┐"
 
 msgid "America/Bogota"
-msgstr "евесеъел/е▄е┤е┐"
+msgstr "уВвуГбуГкуВл/уГЬуВ┤уВ┐"
 
 msgid "America/Boise"
-msgstr "евесеъел/е▄еде╖"
+msgstr "уВвуГбуГкуВл/уГЬуВдуВ╖"
 
 msgid "America/Buenos_Aires"
-msgstr "евесеъел/е╓еие╬е╣еведеье╣"
+msgstr "уВвуГбуГкуВл/уГЦуВиуГОуВ╣уВвуВдуГмуВ╣"
 
 msgid "America/Cambridge_Bay"
-msgstr "евесеъел/е▒еєе╓еъе├е╕е┘ед"
+msgstr "уВвуГбуГкуВл/уВ▒уГ│уГЦуГкуГГуВ╕уГЩуВд"
 
 msgid "America/Cancun"
-msgstr "евесеъел/елеєелеє"
+msgstr "уВвуГбуГкуВл/уВлуГ│уВлуГ│"
 
 msgid "America/Caracas"
-msgstr "евесеъел/елещеле╣"
+msgstr "уВвуГбуГкуВл/уВлуГйуВлуВ╣"
 
 msgid "America/Catamarca"
-msgstr "евесеъел/еле┐е▐еыел"
+msgstr "уВвуГбуГкуВл/уВлуВ┐уГЮуГлуВл"
 
 msgid "America/Cayenne"
-msgstr "евесеъел/еледе╦еєе╠"
+msgstr "уВвуГбуГкуВл/уВлуВдуГЛуГ│уГМ"
 
 msgid "America/Cayman"
-msgstr "евесеъел/е▒еде▐еє"
+msgstr "уВвуГбуГкуВл/уВ▒уВдуГЮуГ│"
 
 msgid "America/Chicago"
-msgstr "евесеъел/е╖еле┤"
+msgstr "уВвуГбуГкуВл/уВ╖уВлуВ┤"
 
 msgid "America/Chihuahua"
-msgstr "евесеъел/е┴еяея"
+msgstr "уВвуГбуГкуВл/уГБуГпуГп"
 
 msgid "America/Cordoba"
-msgstr "евесеъел/е│еые╔е╨"
+msgstr "уВвуГбуГкуВл/уВ│уГлуГЙуГР"
 
 msgid "America/Costa_Rica"
-msgstr "евесеъел/е│е╣е┐еъел"
+msgstr "уВвуГбуГкуВл/уВ│уВ╣уВ┐уГкуВл"
 
 msgid "America/Cuiaba"
-msgstr "евесеъел/епефе╨"
+msgstr "уВвуГбуГкуВл/уВпуГдуГР"
 
 msgid "America/Curacao"
-msgstr "евесеъел/енехеще╜б╝"
+msgstr "уВвуГбуГкуВл/уВнуГеуГйуВ╜уГ╝"
 
 msgid "America/Dawson"
-msgstr "евесеъел/е╔б╝е╜еє"
+msgstr "уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│"
 
 msgid "America/Dawson_Creek"
-msgstr "евесеъел/е╔б╝е╜еєепеъб╝еп"
+msgstr "уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│уВпуГкуГ╝уВп"
 
 msgid "America/Denver"
-msgstr "евесеъел/е╟еєе╨б╝"
+msgstr "уВвуГбуГкуВл/уГЗуГ│уГРуГ╝"
 
 msgid "America/Detroit"
-msgstr "евесеъел/е╟е╚еэеде╚"
+msgstr "уВвуГбуГкуВл/уГЗуГИуГнуВдуГИ"
 
 msgid "America/Dominica"
-msgstr "евесеъел/е╔е▀е╦ел"
+msgstr "уВвуГбуГкуВл/уГЙуГЯуГЛуВл"
 
 msgid "America/Edmonton"
-msgstr "евесеъел/еие╔етеєе╚еє"
+msgstr "уВвуГбуГкуВл/уВиуГЙуГвуГ│уГИуГ│"
 
 msgid "America/Eirunepe"
-msgstr "евесеъел/едб╝еые═е┌"
+msgstr "уВвуГбуГкуВл/уВдуГ╝уГлуГНуГЪ"
 
 msgid "America/El_Salvador"
-msgstr "евесеъел/еиеые╡еые╨е╔еь"
+msgstr "уВвуГбуГкуВл/уВиуГлуВ╡уГлуГРуГЙуГм"
 
 msgid "America/Ensenada"
-msgstr "евесеъел/еиеєе╗еєе└"
+msgstr "уВвуГбуГкуВл/уВиуГ│уВ╗уГ│уГА"
 
 msgid "America/Fortaleza"
-msgstr "евесеъел/е╒ейеые┐еье╢"
+msgstr "уВвуГбуГкуВл/уГХуВйуГлуВ┐уГмуВ╢"
 
 msgid "America/Fort_Wayne"
-msgstr "евесеъел/е╒ейб╝е╚ежезедеє"
+msgstr "уВвуГбуГкуВл/уГХуВйуГ╝уГИуВжуВзуВдуГ│"
 
 msgid "America/Glace_Bay"
-msgstr "евесеъел/е░еьб╝е╣е┘ед"
+msgstr "уВвуГбуГкуВл/уВ░уГмуГ╝уВ╣уГЩуВд"
 
 msgid "America/Godthab"
-msgstr "евесеъел/е┤е├е╔е█б╝е╓"
+msgstr "уВвуГбуГкуВл/уВ┤уГГуГЙуГЫуГ╝уГЦ"
 
 msgid "America/Goose_Bay"
-msgstr "евесеъел/е░б╝е╣е┘ед"
+msgstr "уВвуГбуГкуВл/уВ░уГ╝уВ╣уГЩуВд"
 
 msgid "America/Grand_Turk"
-msgstr "евесеъел/е░ещеєе╔е┐б╝еп"
+msgstr "уВвуГбуГкуВл/уВ░уГйуГ│уГЙуВ┐уГ╝уВп"
 
 msgid "America/Grenada"
-msgstr "евесеъел/е░еье╩е└"
+msgstr "уВвуГбуГкуВл/уВ░уГмуГКуГА"
 
 msgid "America/Guadeloupe"
-msgstr "евесеъел/е░еве╔еыб╝е╫"
+msgstr "уВвуГбуГкуВл/уВ░уВвуГЙуГлуГ╝уГЧ"
 
 msgid "America/Guatemala"
-msgstr "евесеъел/е░еве╞е▐ещ"
+msgstr "уВвуГбуГкуВл/уВ░уВвуГЖуГЮуГй"
 
 msgid "America/Guayaquil"
-msgstr "евесеъел/е░евефенеы"
+msgstr "уВвуГбуГкуВл/уВ░уВвуГдуВнуГл"
 
 msgid "America/Guyana"
-msgstr "евесеъел/емедеве╩"
+msgstr "уВвуГбуГкуВл/уВмуВдуВвуГК"
 
 msgid "America/Halifax"
-msgstr "евесеъел/е╧еъе╒ебе├епе╣"
+msgstr "уВвуГбуГкуВл/уГПуГкуГХуВбуГГуВпуВ╣"
 
 msgid "America/Havana"
-msgstr "евесеъел/е╧е╨е╩"
+msgstr "уВвуГбуГкуВл/уГПуГРуГК"
 
 msgid "America/Hermosillo"
-msgstr "евесеъел/еиеыете╦е╖еч"
+msgstr "уВвуГбуГкуВл/уВиуГлуГвуГЛуВ╖уГз"
 
 msgid "America/Indiana/Indianapolis"
-msgstr "евесеъел/едеєе╟егеве╩/едеєе╟егеве╩е▌еъе╣"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 msgid "America/Indiana/Knox"
-msgstr "евесеъел/едеєе╟егеве╩/е╬е├епе╣"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГОуГГуВпуВ╣"
 
 msgid "America/Indiana/Marengo"
-msgstr "евесеъел/едеєе╟егеве╩/е▐еьеєе┤"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЮуГмуГ│уВ┤"
 
 msgid "America/Indianapolis"
-msgstr "евесеъел/едеєе╟егеве╩е▌еъе╣"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 msgid "America/Indiana/Vevay"
-msgstr "евесеъел/едеєе╟егеве╩/е┘е┘ед"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЩуГЩуВд"
 
 msgid "America/Inuvik"
-msgstr "евесеъел/едеєе╙е├еп"
+msgstr "уВвуГбуГкуВл/уВдуГ│уГУуГГуВп"
 
 msgid "America/Iqaluit"
-msgstr "евесеъел/еденеые╚"
+msgstr "уВвуГбуГкуВл/уВдуВнуГлуГИ"
 
 msgid "America/Jamaica"
-msgstr "евесеъел/е╕еуе▐едел"
+msgstr "уВвуГбуГкуВл/уВ╕уГгуГЮуВдуВл"
 
 msgid "America/Jujuy"
-msgstr "евесеъел/е╕ехе╕ех"
+msgstr "уВвуГбуГкуВл/уВ╕уГеуВ╕уГе"
 
 msgid "America/Juneau"
-msgstr "евесеъел/е╕ехе╬б╝"
+msgstr "уВвуГбуГкуВл/уВ╕уГеуГОуГ╝"
 
 msgid "America/Kentucky/Louisville"
-msgstr "евесеъел/еыб╝едеЇезеы"
+msgstr "уВвуГбуГкуВл/уГлуГ╝уВдуГ┤уВзуГл"
 
 msgid "America/Kentucky/Monticello"
-msgstr "евесеъел/етеєе╞е╙е╟ек"
+msgstr "уВвуГбуГкуВл/уГвуГ│уГЖуГУуГЗуВк"
 
 msgid "America/Knox_IN"
-msgstr "евесеъел/е╬е├епе╣едеє"
+msgstr "уВвуГбуГкуВл/уГОуГГуВпуВ╣уВдуГ│"
 
 msgid "America/La_Paz"
-msgstr "евесеъел/еще╨е╣"
+msgstr "уВвуГбуГкуВл/уГйуГРуВ╣"
 
 msgid "America/Lima"
-msgstr "евесеъел/еъе▐"
+msgstr "уВвуГбуГкуВл/уГкуГЮ"
 
 msgid "America/Los_Angeles"
-msgstr "евесеъел/еэе╡еєе╝еые╣"
+msgstr "уВвуГбуГкуВл/уГнуВ╡уГ│уВ╝уГлуВ╣"
 
 msgid "America/Louisville"
-msgstr "евесеъел/еыб╝едеЇезеы"
+msgstr "уВвуГбуГкуВл/уГлуГ╝уВдуГ┤уВзуГл"
 
 msgid "America/Maceio"
-msgstr "евесеъел/е▐е╗едек"
+msgstr "уВвуГбуГкуВл/уГЮуВ╗уВдуВк"
 
 msgid "America/Managua"
-msgstr "евесеъел/е▐е╩е░ев"
+msgstr "уВвуГбуГкуВл/уГЮуГКуВ░уВв"
 
 msgid "America/Manaus"
-msgstr "евесеъел/е▐е╩е├е╡е╣"
+msgstr "уВвуГбуГкуВл/уГЮуГКуГГуВ╡уВ╣"
 
 msgid "America/Martinique"
-msgstr "евесеъел/е▐еые╞егб╝е╬"
+msgstr "уВвуГбуГкуВл/уГЮуГлуГЖуВгуГ╝уГО"
 
 msgid "America/Mazatlan"
-msgstr "евесеъел/е▐е╡е╚ещеє"
+msgstr "уВвуГбуГкуВл/уГЮуВ╡уГИуГйуГ│"
 
 msgid "America/Mendoza"
-msgstr "евесеъел/есеєе╔е╡"
+msgstr "уВвуГбуГкуВл/уГбуГ│уГЙуВ╡"
 
 msgid "America/Menominee"
-msgstr "евесеъел/есе╬е▀е╦б╝"
+msgstr "уВвуГбуГкуВл/уГбуГОуГЯуГЛуГ╝"
 
 msgid "America/Merida"
-msgstr "евесеъел/есеъе└"
+msgstr "уВвуГбуГкуВл/уГбуГкуГА"
 
 msgid "America/Mexico_City"
-msgstr "евесеъел/есене╖е│е╖е╞ег"
+msgstr "уВвуГбуГкуВл/уГбуВнуВ╖уВ│уВ╖уГЖуВг"
 
 msgid "America/Miquelon"
-msgstr "евесеъел/е▀епеэеє"
+msgstr "уВвуГбуГкуВл/уГЯуВпуГнуГ│"
 
 msgid "America/Monterrey"
-msgstr "евесеъел/етеєе╞еьед"
+msgstr "уВвуГбуГкуВл/уГвуГ│уГЖуГмуВд"
 
 msgid "America/Montevideo"
-msgstr "евесеъел/етеєе╞е╙е╟ек"
+msgstr "уВвуГбуГкуВл/уГвуГ│уГЖуГУуГЗуВк"
 
 msgid "America/Montreal"
-msgstr "евесеъел/етеєе╚еъекб╝еы"
+msgstr "уВвуГбуГкуВл/уГвуГ│уГИуГкуВкуГ╝уГл"
 
 msgid "America/Montserrat"
-msgstr "евесеъел/етеєе╚е╗еще╚"
+msgstr "уВвуГбуГкуВл/уГвуГ│уГИуВ╗уГйуГИ"
 
 msgid "America/Nassau"
-msgstr "евесеъел/е╩е├е╡еж"
+msgstr "уВвуГбуГкуВл/уГКуГГуВ╡уВж"
 
 msgid "America/New_York"
-msgstr "евесеъел/е╦ехб╝ешб╝еп"
+msgstr "уВвуГбуГкуВл/уГЛуГеуГ╝уГиуГ╝уВп"
 
 msgid "America/Nipigon"
-msgstr "евесеъел/е╦е╘е┤еє"
+msgstr "уВвуГбуГкуВл/уГЛуГФуВ┤уГ│"
 
 msgid "America/Nome"
-msgstr "евесеъел/е╬б╝ер"
+msgstr "уВвуГбуГкуВл/уГОуГ╝уГа"
 
 msgid "America/Noronha"
-msgstr "евесеъел/е╬еэе╧"
+msgstr "уВвуГбуГкуВл/уГОуГнуГП"
 
 msgid "America/Panama"
-msgstr "евесеъел/е╤е╩е▐"
+msgstr "уВвуГбуГкуВл/уГСуГКуГЮ"
 
 msgid "America/Pangnirtung"
-msgstr "евесеъел/е╤еєе░е╦е┐еє"
+msgstr "уВвуГбуГкуВл/уГСуГ│уВ░уГЛуВ┐уГ│"
 
 msgid "America/Paramaribo"
-msgstr "евесеъел/е╤еще▐еъе▄"
+msgstr "уВвуГбуГкуВл/уГСуГйуГЮуГкуГЬ"
 
 msgid "America/Phoenix"
-msgstr "евесеъел/е╒езе╦е├епе╣"
+msgstr "уВвуГбуГкуВл/уГХуВзуГЛуГГуВпуВ╣"
 
 msgid "America/Port-au-Prince"
-msgstr "евесеъел/е▌еые╚е╫ещеєе╣"
+msgstr "уВвуГбуГкуВл/уГЭуГлуГИуГЧуГйуГ│уВ╣"
 
 msgid "America/Porto_Acre"
-msgstr "евесеъел/е▌еые╚евепеь"
+msgstr "уВвуГбуГкуВл/уГЭуГлуГИуВвуВпуГм"
 
 msgid "America/Port_of_Spain"
-msgstr "евесеъел/е▌еые╚еке╓е╣е┌едеє"
+msgstr "уВвуГбуГкуВл/уГЭуГлуГИуВкуГЦуВ╣уГЪуВдуГ│"
 
 msgid "America/Porto_Velho"
-msgstr "евесеъел/е▌еые╚е┘еэб╝"
+msgstr "уВвуГбуГкуВл/уГЭуГлуГИуГЩуГнуГ╝"
 
 msgid "America/Puerto_Rico"
-msgstr "евесеъел/е╫еиеые╚еые│"
+msgstr "уВвуГбуГкуВл/уГЧуВиуГлуГИуГлуВ│"
 
 msgid "America/Rainy_River"
-msgstr "евесеъел/еьеде╦б╝еъе╨б╝"
+msgstr "уВвуГбуГкуВл/уГмуВдуГЛуГ╝уГкуГРуГ╝"
 
 msgid "America/Rankin_Inlet"
-msgstr "евесеъел/ещеєенеєедеєеье├е╚"
+msgstr "уВвуГбуГкуВл/уГйуГ│уВнуГ│уВдуГ│уГмуГГуГИ"
 
 msgid "America/Recife"
-msgstr "евесеъел/еье╖б╝е╒"
+msgstr "уВвуГбуГкуВл/уГмуВ╖уГ╝уГХ"
 
 msgid "America/Regina"
-msgstr "евесеъел/еье╕еуеде╩"
+msgstr "уВвуГбуГкуВл/уГмуВ╕уГгуВдуГК"
 
 msgid "America/Rosario"
-msgstr "евесеъел/еэе╡еъек"
+msgstr "уВвуГбуГкуВл/уГнуВ╡уГкуВк"
 
 msgid "America/Santiago"
-msgstr "евесеъел/е╡еєе╞егеве┤"
+msgstr "уВвуГбуГкуВл/уВ╡уГ│уГЖуВгуВвуВ┤"
 
 msgid "America/Santo_Domingo"
-msgstr "евесеъел/е╡еєе╚е╔е▀еєе┤"
+msgstr "уВвуГбуГкуВл/уВ╡уГ│уГИуГЙуГЯуГ│уВ┤"
 
 msgid "America/Sao_Paulo"
-msgstr "евесеъел/е╡еєе╤ежеэ"
+msgstr "уВвуГбуГкуВл/уВ╡уГ│уГСуВжуГн"
 
 msgid "America/Scoresbysund"
-msgstr "евесеъел/е╣е│еье╣е╨еде╡еєе╔"
+msgstr "уВвуГбуГкуВл/уВ╣уВ│уГмуВ╣уГРуВдуВ╡уГ│уГЙ"
 
 msgid "America/Shiprock"
-msgstr "евесеъел/е╖е├е╫еэе├еп"
+msgstr "уВвуГбуГкуВл/уВ╖уГГуГЧуГнуГГуВп"
 
 msgid "America/St_Johns"
-msgstr "евесеъел/е╗еєе╚е╕ечб╝еєе║"
+msgstr "уВвуГбуГкуВл/уВ╗уГ│уГИуВ╕уГзуГ╝уГ│уВ║"
 
 msgid "America/St_Kitts"
-msgstr "евесеъел/е╗еєе╚ене├е╚"
+msgstr "уВвуГбуГкуВл/уВ╗уГ│уГИуВнуГГуГИ"
 
 msgid "America/St_Lucia"
-msgstr "евесеъел/е╗еєе╚еыенев"
+msgstr "уВвуГбуГкуВл/уВ╗уГ│уГИуГлуВнуВв"
 
 msgid "America/St_Thomas"
-msgstr "евесеъел/е╗еєе╚е╚б╝е▐е╣"
+msgstr "уВвуГбуГкуВл/уВ╗уГ│уГИуГИуГ╝уГЮуВ╣"
 
 msgid "America/St_Vincent"
-msgstr "евесеъел/е╗еєе╚е╙еєе╗еєе╚"
+msgstr "уВвуГбуГкуВл/уВ╗уГ│уГИуГУуГ│уВ╗уГ│уГИ"
 
 msgid "America/Swift_Current"
-msgstr "евесеъел/е╣еде╒е╚елеьеєе╚"
+msgstr "уВвуГбуГкуВл/уВ╣уВдуГХуГИуВлуГмуГ│уГИ"
 
 msgid "America/Tegucigalpa"
-msgstr "евесеъел/е╞е░е╖емеые╤"
+msgstr "уВвуГбуГкуВл/уГЖуВ░уВ╖уВмуГлуГС"
 
 msgid "America/Thule"
-msgstr "евесеъел/е┴ехб╝еь"
+msgstr "уВвуГбуГкуВл/уГБуГеуГ╝уГм"
 
 msgid "America/Thunder_Bay"
-msgstr "евесеъел/е╡еєе└б╝е┘ед"
+msgstr "уВвуГбуГкуВл/уВ╡уГ│уГАуГ╝уГЩуВд"
 
 msgid "America/Tijuana"
-msgstr "евесеъел/е╞еге╒ебе╩"
+msgstr "уВвуГбуГкуВл/уГЖуВгуГХуВбуГК"
 
 msgid "America/Tortola"
-msgstr "евесеъел/е╚еые╚ещ"
+msgstr "уВвуГбуГкуВл/уГИуГлуГИуГй"
 
 msgid "America/Vancouver"
-msgstr "евесеъел/е╨еєепб╝е╨"
+msgstr "уВвуГбуГкуВл/уГРуГ│уВпуГ╝уГР"
 
 msgid "America/Virgin"
-msgstr "евесеъел/е╨б╝е╕еє"
+msgstr "уВвуГбуГкуВл/уГРуГ╝уВ╕уГ│"
 
 msgid "America/Whitehorse"
-msgstr "евесеъел/е█еяеде╚е█б╝е╣"
+msgstr "уВвуГбуГкуВл/уГЫуГпуВдуГИуГЫуГ╝уВ╣"
 
 msgid "America/Winnipeg"
-msgstr "евесеъел/ежеге╦е┌е░"
+msgstr "уВвуГбуГкуВл/уВжуВгуГЛуГЪуВ░"
 
 msgid "America/Yakutat"
-msgstr "евесеъел/ефепе┐е├е╚"
+msgstr "уВвуГбуГкуВл/уГдуВпуВ┐уГГуГИ"
 
 msgid "America/Yellowknife"
-msgstr "евесеъел/едеиеэб╝е╩еде╒"
+msgstr "уВвуГбуГкуВл/уВдуВиуГнуГ╝уГКуВдуГХ"
 
 msgid "Antarctica/Casey"
-msgstr "╞ю╢╦┬ч╬ж/е▒б╝е╖б╝"
+msgstr "хНЧце╡хдзщЩ╕/уВ▒уГ╝уВ╖уГ╝"
 
 msgid "Antarctica/Davis"
-msgstr "╞ю╢╦┬ч╬ж/е╟б╝е╙е╣"
+msgstr "хНЧце╡хдзщЩ╕/уГЗуГ╝уГУуВ╣"
 
 msgid "Antarctica/DumontDUrville"
-msgstr "╞ю╢╦┬ч╬ж/е╔е▐еєе╔еъе╙еь"
+msgstr "хНЧце╡хдзщЩ╕/уГЙуГЮуГ│уГЙуГкуГУуГм"
 
 msgid "Antarctica/Mawson"
-msgstr "╞ю╢╦┬ч╬ж/етб╝е╜еє"
+msgstr "хНЧце╡хдзщЩ╕/уГвуГ╝уВ╜уГ│"
 
 msgid "Antarctica/McMurdo"
-msgstr "╞ю╢╦┬ч╬ж/е▐е├епе▐б╝е╔"
+msgstr "хНЧце╡хдзщЩ╕/уГЮуГГуВпуГЮуГ╝уГЙ"
 
 msgid "Antarctica/Palmer"
-msgstr "╞ю╢╦┬ч╬ж/е╤еыесещ"
+msgstr "хНЧце╡хдзщЩ╕/уГСуГлуГбуГй"
 
 msgid "Antarctica/South_Pole"
-msgstr "╞ю╢╦┬ч╬ж/е╡еже╣е▌б╝еы"
+msgstr "хНЧце╡хдзщЩ╕/уВ╡уВжуВ╣уГЭуГ╝уГл"
 
 msgid "Antarctica/Syowa"
-msgstr "╞ю╢╦┬ч╬ж/е╖ечб╝ея"
+msgstr "хНЧце╡хдзщЩ╕/уВ╖уГзуГ╝уГп"
 
 msgid "Arctic/Longyearbyen"
-msgstr "╦╠╢╦┬ч╬ж/еэеєе░ефб╝е╓еиеє"
+msgstr "хМЧце╡хдзщЩ╕/уГнуГ│уВ░уГдуГ╝уГЦуВиуГ│"
 
 msgid "Asia/Aden"
-msgstr "еве╕ев/еве╟еє"
+msgstr "уВвуВ╕уВв/уВвуГЗуГ│"
 
 msgid "Asia/Almaty"
-msgstr "еве╕ев/евеые▐еъ"
+msgstr "уВвуВ╕уВв/уВвуГлуГЮуГк"
 
 msgid "Asia/Amman"
-msgstr "еве╕ев/еве▐еє"
+msgstr "уВвуВ╕уВв/уВвуГЮуГ│"
 
 msgid "Asia/Anadyr"
-msgstr "еве╕ев/еве╩е╔еъ"
+msgstr "уВвуВ╕уВв/уВвуГКуГЙуГк"
 
 msgid "Asia/Aqtau"
-msgstr "еве╕ев/евепе╚б╝"
+msgstr "уВвуВ╕уВв/уВвуВпуГИуГ╝"
 
 msgid "Asia/Aqtobe"
-msgstr "еве╕ев/евепе╚е┘"
+msgstr "уВвуВ╕уВв/уВвуВпуГИуГЩ"
 
 msgid "Asia/Ashgabat"
-msgstr "еве╕ев/еве╖еле╨е├е╔"
+msgstr "уВвуВ╕уВв/уВвуВ╖уВлуГРуГГуГЙ"
 
 msgid "Asia/Ashkhabad"
-msgstr "еве╕ев/еве╖еле╨е├е╔"
+msgstr "уВвуВ╕уВв/уВвуВ╖уВлуГРуГГуГЙ"
 
 msgid "Asia/Baghdad"
-msgstr "еве╕ев/е╨е░е└е├е╚"
+msgstr "уВвуВ╕уВв/уГРуВ░уГАуГГуГИ"
 
 msgid "Asia/Bahrain"
-msgstr "еве╕ев/е╨б╝еьб╝еє"
+msgstr "уВвуВ╕уВв/уГРуГ╝уГмуГ╝уГ│"
 
 msgid "Asia/Baku"
-msgstr "еве╕ев/е╨еп"
+msgstr "уВвуВ╕уВв/уГРуВп"
 
 msgid "Asia/Bangkok"
-msgstr "еве╕ев/е╨еєе│е├еп"
+msgstr "уВвуВ╕уВв/уГРуГ│уВ│уГГуВп"
 
 msgid "Asia/Beirut"
-msgstr "еве╕ев/е┘едеыб╝е╚"
+msgstr "уВвуВ╕уВв/уГЩуВдуГлуГ╝уГИ"
 
 msgid "Asia/Bishkek"
-msgstr "еве╕ев/е╙е╖ехе│е├"
+msgstr "уВвуВ╕уВв/уГУуВ╖уГеуВ│уГГ"
 
 msgid "Asia/Brunei"
-msgstr "еве╕ев/е╓еые═ед"
+msgstr "уВвуВ╕уВв/уГЦуГлуГНуВд"
 
 msgid "Asia/Calcutta"
-msgstr "еве╕ев/елеыеле├е┐"
+msgstr "уВвуВ╕уВв/уВлуГлуВлуГГуВ┐"
 
 msgid "Asia/Chungking"
-msgstr "еве╕ев/╜┼╖─"
+msgstr "уВвуВ╕уВв/щЗНцЕ╢"
 
 msgid "Asia/Colombo"
-msgstr "еве╕ев/е│еэеєе▄"
+msgstr "уВвуВ╕уВв/уВ│уГнуГ│уГЬ"
 
 msgid "Asia/Dacca"
-msgstr "еве╕ев/е└е├ел"
+msgstr "уВвуВ╕уВв/уГАуГГуВл"
 
 msgid "Asia/Damascus"
-msgstr "еве╕ев/е└е▐е╣еле╣"
+msgstr "уВвуВ╕уВв/уГАуГЮуВ╣уВлуВ╣"
 
 msgid "Asia/Dhaka"
-msgstr "еве╕ев/е└е├ел"
+msgstr "уВвуВ╕уВв/уГАуГГуВл"
 
 msgid "Asia/Dili"
-msgstr "еве╕ев/е╟егеъ"
+msgstr "уВвуВ╕уВв/уГЗуВгуГк"
 
 msgid "Asia/Dubai"
-msgstr "еве╕ев/е╟ехе╨ед"
+msgstr "уВвуВ╕уВв/уГЗуГеуГРуВд"
 
 msgid "Asia/Dushanbe"
-msgstr "еве╕ев/е└е╣е╨е═"
+msgstr "уВвуВ╕уВв/уГАуВ╣уГРуГН"
 
 msgid "Asia/Gaza"
-msgstr "еве╕ев/еме╢"
+msgstr "уВвуВ╕уВв/уВмуВ╢"
 
 msgid "Asia/Harbin"
-msgstr "еве╕ев/е╧еые╙еє"
+msgstr "уВвуВ╕уВв/уГПуГлуГУуГ│"
 
 msgid "Asia/Hong_Kong"
-msgstr "еве╕ев/╣с╣┴"
+msgstr "уВвуВ╕уВв/щжЩц╕п"
 
 msgid "Asia/Hovd"
-msgstr "еве╕ев/Hovd"
+msgstr "уВвуВ╕уВв/Hovd"
 
 msgid "Asia/Irkutsk"
-msgstr "еве╕ев/едеыепе╣еп"
+msgstr "уВвуВ╕уВв/уВдуГлуВпуВ╣уВп"
 
 msgid "Asia/Istanbul"
-msgstr "еве╕ев/еде╣е┐еєе╓б╝еы"
+msgstr "уВвуВ╕уВв/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 msgid "Asia/Jakarta"
-msgstr "еве╕ев/е╕еуелеые┐"
+msgstr "уВвуВ╕уВв/уВ╕уГгуВлуГлуВ┐"
 
 msgid "Asia/Jayapura"
-msgstr "еве╕ев/е╕еуефе╫ещ"
+msgstr "уВвуВ╕уВв/уВ╕уГгуГдуГЧуГй"
 
 msgid "Asia/Jerusalem"
-msgstr "еве╕ев/еиеые╡еьер"
+msgstr "уВвуВ╕уВв/уВиуГлуВ╡уГмуГа"
 
 msgid "Asia/Kabul"
-msgstr "еве╕ев/елб╝е╓еы"
+msgstr "уВвуВ╕уВв/уВлуГ╝уГЦуГл"
 
 msgid "Asia/Kamchatka"
-msgstr "еве╕ев/елере┴еуе─ел"
+msgstr "уВвуВ╕уВв/уВлуГауГБуГгуГДуВл"
 
 msgid "Asia/Karachi"
-msgstr "еве╕ев/елеще┴"
+msgstr "уВвуВ╕уВв/уВлуГйуГБ"
 
 msgid "Asia/Kashgar"
-msgstr "еве╕ев/еле╖ехемеы"
+msgstr "уВвуВ╕уВв/уВлуВ╖уГеуВмуГл"
 
 msgid "Asia/Katmandu"
-msgstr "еве╕ев/еле╚е▐еєе╔ееб╝"
+msgstr "уВвуВ╕уВв/уВлуГИуГЮуГ│уГЙуВеуГ╝"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "еве╕ев/епеще╬е╣ефеые╣еп"
+msgstr "уВвуВ╕уВв/уВпуГйуГОуВ╣уГдуГлуВ╣уВп"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "еве╕ев/епевещеєе╫б╝еы"
+msgstr "уВвуВ╕уВв/уВпуВвуГйуГ│уГЧуГ╝уГл"
 
 msgid "Asia/Kuching"
-msgstr "еве╕ев/епе┴еє"
+msgstr "уВвуВ╕уВв/уВпуГБуГ│"
 
 msgid "Asia/Kuwait"
-msgstr "еве╕ев/епежезб╝е╚"
+msgstr "уВвуВ╕уВв/уВпуВжуВзуГ╝уГИ"
 
 msgid "Asia/Macao"
-msgstr "еве╕ев/е▐елек"
+msgstr "уВвуВ╕уВв/уГЮуВлуВк"
 
 msgid "Asia/Magadan"
-msgstr "еве╕ев/е▐еме└еє"
+msgstr "уВвуВ╕уВв/уГЮуВмуГАуГ│"
 
 msgid "Asia/Manila"
-msgstr "еве╕ев/е▐е╦ещ"
+msgstr "уВвуВ╕уВв/уГЮуГЛуГй"
 
 msgid "Asia/Muscat"
-msgstr "еве╕ев/е▐е╣еле├е╚"
+msgstr "уВвуВ╕уВв/уГЮуВ╣уВлуГГуГИ"
 
 msgid "Asia/Nicosia"
-msgstr "еве╕ев/е╦е│е╖ев"
+msgstr "уВвуВ╕уВв/уГЛуВ│уВ╖уВв"
 
 msgid "Asia/Novosibirsk"
-msgstr "еве╕ев/е╬е▄е╖е╙еъе╣еп"
+msgstr "уВвуВ╕уВв/уГОуГЬуВ╖уГУуГкуВ╣уВп"
 
 msgid "Asia/Omsk"
-msgstr "еве╕ев/екере╣еп"
+msgstr "уВвуВ╕уВв/уВкуГауВ╣уВп"
 
 msgid "Asia/Phnom_Penh"
-msgstr "еве╕ев/е╫е╬еєе┌еє"
+msgstr "уВвуВ╕уВв/уГЧуГОуГ│уГЪуГ│"
 
 msgid "Asia/Pyongyang"
-msgstr "еве╕ев/е╘ечеєефеє"
+msgstr "уВвуВ╕уВв/уГФуГзуГ│уГдуГ│"
 
 msgid "Asia/Qatar"
-msgstr "еве╕ев/еле┐б╝еы"
+msgstr "уВвуВ╕уВв/уВлуВ┐уГ╝уГл"
 
 msgid "Asia/Rangoon"
-msgstr "еве╕ев/еще░б╝еє"
+msgstr "уВвуВ╕уВв/уГйуВ░уГ╝уГ│"
 
 msgid "Asia/Riyadh"
-msgstr "еве╕ев/еъефб╝е╔"
+msgstr "уВвуВ╕уВв/уГкуГдуГ╝уГЙ"
 
 msgid "Asia/Riyadh87"
-msgstr "еве╕ев/еъефб╝е╔87"
+msgstr "уВвуВ╕уВв/уГкуГдуГ╝уГЙ87"
 
 msgid "Asia/Riyadh88"
-msgstr "еве╕ев/еъефб╝е╔88"
+msgstr "уВвуВ╕уВв/уГкуГдуГ╝уГЙ88"
 
 msgid "Asia/Riyadh89"
-msgstr "еве╕ев/еъефб╝е╔89"
+msgstr "уВвуВ╕уВв/уГкуГдуГ╝уГЙ89"
 
 msgid "Asia/Saigon"
-msgstr "еве╕ев/е╡еде┤еє"
+msgstr "уВвуВ╕уВв/уВ╡уВдуВ┤уГ│"
 
 msgid "Asia/Samarkand"
-msgstr "еве╕ев/е╡е▐еыелеєе╔"
+msgstr "уВвуВ╕уВв/уВ╡уГЮуГлуВлуГ│уГЙ"
 
 msgid "Asia/Seoul"
-msgstr "еве╕ев/е╜ежеы"
+msgstr "уВвуВ╕уВв/уВ╜уВжуГл"
 
 msgid "Asia/Shanghai"
-msgstr "еве╕ев/╛х│д"
+msgstr "уВвуВ╕уВв/ф╕Кц╡╖"
 
 msgid "Asia/Singapore"
-msgstr "еве╕ев/е╖еєеме▌б╝еы"
+msgstr "уВвуВ╕уВв/уВ╖уГ│уВмуГЭуГ╝уГл"
 
 msgid "Asia/Taipei"
-msgstr "еве╕ев/е┐еде┌ед"
+msgstr "уВвуВ╕уВв/уВ┐уВдуГЪуВд"
 
 msgid "Asia/Tashkent"
-msgstr "еве╕ев/е┐е╖ехе▒еєе╚"
+msgstr "уВвуВ╕уВв/уВ┐уВ╖уГеуВ▒уГ│уГИ"
 
 msgid "Asia/Tbilisi"
-msgstr "еве╕ев/е╚е╙еъе╖"
+msgstr "уВвуВ╕уВв/уГИуГУуГкуВ╖"
 
 msgid "Asia/Tehran"
-msgstr "еве╕ев/е╞е╪ещеє"
+msgstr "уВвуВ╕уВв/уГЖуГШуГйуГ│"
 
 msgid "Asia/Tel_Aviv"
-msgstr "еве╕ев/е╞еьеве╙е╙"
+msgstr "уВвуВ╕уВв/уГЖуГмуВвуГУуГУ"
 
 msgid "Asia/Thimbu"
-msgstr "еве╕ев/е╞егеєе╓б╝"
+msgstr "уВвуВ╕уВв/уГЖуВгуГ│уГЦуГ╝"
 
 msgid "Asia/Thimphu"
-msgstr "еве╕ев/е╞егеєе╓б╝"
+msgstr "уВвуВ╕уВв/уГЖуВгуГ│уГЦуГ╝"
 
 msgid "Asia/Tokyo"
-msgstr "еве╕ев/┼ь╡■"
+msgstr "уВвуВ╕уВв/цЭ▒ф║м"
 
 msgid "Asia/Ujung_Pandang"
-msgstr "еве╕ев/еже╕ехеєе╨еєе└еє"
+msgstr "уВвуВ╕уВв/уВжуВ╕уГеуГ│уГРуГ│уГАуГ│"
 
 msgid "Asia/Ulaanbaatar"
-msgstr "еве╕ев/Ulaanbaatar"
+msgstr "уВвуВ╕уВв/Ulaanbaatar"
 
 msgid "Asia/Ulan_Bator"
-msgstr "еве╕ев/ежещеєе╨б╝е╚еы"
+msgstr "уВвуВ╕уВв/уВжуГйуГ│уГРуГ╝уГИуГл"
 
 msgid "Asia/Urumqi"
-msgstr "еве╕ев/ежеыере┴"
+msgstr "уВвуВ╕уВв/уВжуГлуГауГБ"
 
 msgid "Asia/Vientiane"
-msgstr "еве╕ев/е┘е╚е╩ер"
+msgstr "уВвуВ╕уВв/уГЩуГИуГКуГа"
 
 msgid "Asia/Vladivostok"
-msgstr "еве╕ев/ежеще╕еке╣е╚е├еп"
+msgstr "уВвуВ╕уВв/уВжуГйуВ╕уВкуВ╣уГИуГГуВп"
 
 msgid "Asia/Yakutsk"
-msgstr "еве╕ев/ефепб╝е─еп"
+msgstr "уВвуВ╕уВв/уГдуВпуГ╝уГДуВп"
 
 msgid "Asia/Yekaterinburg"
-msgstr "еве╕ев/еделе╞еиеъеєе╓еые░"
+msgstr "уВвуВ╕уВв/уВдуВлуГЖуВиуГкуГ│уГЦуГлуВ░"
 
 msgid "Asia/Yerevan"
-msgstr "еве╕ев/едеиеье╨еє"
+msgstr "уВвуВ╕уВв/уВдуВиуГмуГРуГ│"
 
 msgid "Atlantic/Azores"
-msgstr "┬ч└╛═╬/еве╛еье╣"
+msgstr "хдзше┐ц┤Л/уВвуВ╛уГмуВ╣"
 
 msgid "Atlantic/Bermuda"
-msgstr "┬ч└╛═╬/е┘еые╠б╝е└"
+msgstr "хдзше┐ц┤Л/уГЩуГлуГМуГ╝уГА"
 
 msgid "Atlantic/Canary"
-msgstr "┬ч└╛═╬/еле╩еъб╝"
+msgstr "хдзше┐ц┤Л/уВлуГКуГкуГ╝"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "┬ч└╛═╬/е▒б╝е╫е┘еые╟"
+msgstr "хдзше┐ц┤Л/уВ▒уГ╝уГЧуГЩуГлуГЗ"
 
 msgid "Atlantic/Faeroe"
-msgstr "┬└╩┐═╬/е╒езеэб╝"
+msgstr "хдкх╣│ц┤Л/уГХуВзуГнуГ╝"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "┬└╩┐═╬/ефеєе▐едеиеє"
+msgstr "хдкх╣│ц┤Л/уГдуГ│уГЮуВдуВиуГ│"
 
 msgid "Atlantic/Madeira"
-msgstr "┬└╩┐═╬/е▐е╟едещ"
+msgstr "хдкх╣│ц┤Л/уГЮуГЗуВдуГй"
 
 msgid "Atlantic/Reykjavik"
-msgstr "┬└╩┐═╬/еьеденеуе╙б╝еп"
+msgstr "хдкх╣│ц┤Л/уГмуВдуВнуГгуГУуГ╝уВп"
 
 msgid "Atlantic/South_Georgia"
-msgstr "┬└╩┐═╬/е╡еже╣е╕ечб╝е╕ев"
+msgstr "хдкх╣│ц┤Л/уВ╡уВжуВ╣уВ╕уГзуГ╝уВ╕уВв"
 
 msgid "Atlantic/Stanley"
-msgstr "┬└╩┐═╬/е╣е┐еєеьб╝"
+msgstr "хдкх╣│ц┤Л/уВ╣уВ┐уГ│уГмуГ╝"
 
 msgid "Atlantic/St_Helena"
-msgstr "┬└╩┐═╬/е╗еєе╚е╪еье╩"
+msgstr "хдкх╣│ц┤Л/уВ╗уГ│уГИуГШуГмуГК"
 
 msgid "Australia/ACT"
-msgstr "екб╝е╣е╚ещеъев/ACT"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "екб╝е╣е╚ещеъев/еве╟еьб╝е╔"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уВвуГЗуГмуГ╝уГЙ"
 
 msgid "Australia/Brisbane"
-msgstr "екб╝е╣е╚ещеъев/ACT"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГЦуГкуВ║уГЩуГ│"
 
 msgid "Australia/Broken_Hill"
-msgstr "екб╝е╣е╚ещеъев/е╓еэб╝епеєе╥еы"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГЦуГнуГ╝уВпуГ│уГТуГл"
 
 msgid "Australia/Canberra"
-msgstr "екб╝е╣е╚ещеъев/енеуеєе┘ещ"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уВнуГгуГ│уГЩуГй"
 
 msgid "Australia/Darwin"
-msgstr "екб╝е╣е╚ещеъев/е└б╝ежегеє"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГАуГ╝уВжуВгуГ│"
 
 msgid "Australia/Hobart"
-msgstr "екб╝е╣е╚ещеъев/е█б╝е╨б╝е╚"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГЫуГ╝уГРуГ╝уГИ"
 
 msgid "Australia/LHI"
-msgstr "екб╝е╣е╚ещеъев/LHI"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/LHI"
 
 msgid "Australia/Lindeman"
-msgstr "екб╝е╣е╚ещеъев/еъеєе╟е▐еє"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГкуГ│уГЗуГЮуГ│"
 
 msgid "Australia/Lord_Howe"
-msgstr "екб╝е╣е╚ещеъев/еэб╝е╔е╧еж"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГнуГ╝уГЙуГПуВж"
 
 msgid "Australia/Melbourne"
-msgstr "екб╝е╣е╚ещеъев/есеые▄еыеє"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГбуГлуГЬуГлуГ│"
 
 msgid "Australia/North"
-msgstr "екб╝е╣е╚ещеъев/╦╠╔Ї"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/хМЧщГи"
 
 msgid "Australia/NSW"
-msgstr "екб╝е╣е╚ещеъев/NSW"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/NSW"
 
 msgid "Australia/Perth"
-msgstr "екб╝е╣е╚ещеъев/е╤б╝е╣"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГСуГ╝уВ╣"
 
 msgid "Australia/Queensland"
-msgstr "екб╝е╣е╚ещеъев/епедб╝еєе║ещеєе╔"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уВпуВдуГ╝уГ│уВ║уГйуГ│уГЙ"
 
 msgid "Australia/South"
-msgstr "екб╝е╣е╚ещеъев/╞ю╔Ї"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/хНЧщГи"
 
 msgid "Australia/Sydney"
-msgstr "екб╝е╣е╚ещеъев/е╖е╔е╦б╝"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уВ╖уГЙуГЛуГ╝"
 
 msgid "Australia/Tasmania"
-msgstr "екб╝е╣е╚ещеъев/е┐е╣е▐е╦ев"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уВ┐уВ╣уГЮуГЛуВв"
 
 msgid "Australia/Victoria"
-msgstr "екб╝е╣е╚ещеъев/е╙епе╚еъев"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/уГУуВпуГИуГкуВв"
 
 msgid "Australia/West"
-msgstr "екб╝е╣е╚ещеъев/└╛╔Ї"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/ше┐щГи"
 
 msgid "Australia/Yancowinna"
-msgstr "екб╝е╣е╚ещеъев/Yancowinna"
+msgstr "уВкуГ╝уВ╣уГИуГйуГкуВв/Yancowinna"
 
 msgid "Brazil/Acre"
-msgstr "е╓еще╕еы/евепеь"
+msgstr "уГЦуГйуВ╕уГл/уВвуВпуГм"
 
 msgid "Brazil/DeNoronha"
-msgstr "е╓еще╕еы/е╟е╬еэеєе╧"
+msgstr "уГЦуГйуВ╕уГл/уГЗуГОуГнуГ│уГП"
 
 msgid "Brazil/East"
-msgstr "е╓еще╕еы/┼ь╔Ї"
+msgstr "уГЦуГйуВ╕уГл/цЭ▒щГи"
 
 msgid "Brazil/West"
-msgstr "е╓еще╕еы/└╛╔Ї"
+msgstr "уГЦуГйуВ╕уГл/ше┐щГи"
 
 msgid "Canada/Atlantic"
-msgstr "еле╩е└/┬ч└╛═╬"
+msgstr "уВлуГКуГА/хдзше┐ц┤Л"
 
 msgid "Canada/Central"
-msgstr "еле╩е└/├ц╔Ї"
+msgstr "уВлуГКуГА/ф╕нщГи"
 
 msgid "Canada/Eastern"
-msgstr "еле╩е└/┼ь│д┤▀"
+msgstr "уВлуГКуГА/цЭ▒ц╡╖х▓╕"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "еле╩е└/┼ье╡е╣еле┴ечеяеє"
+msgstr "уВлуГКуГА/цЭ▒уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 msgid "Canada/Mountain"
-msgstr "еле╩е└/╗│├╧"
+msgstr "уВлуГКуГА/х▒▒хЬ░"
 
 msgid "Canada/Newfoundland"
-msgstr "еле╩е└/е╦ехб╝е╒ебеєе╔ещеєе╔"
+msgstr "уВлуГКуГА/уГЛуГеуГ╝уГХуВбуГ│уГЙуГйуГ│уГЙ"
 
 msgid "Canada/Pacific"
-msgstr "еле╩е└/┬└╩┐═╬"
+msgstr "уВлуГКуГА/хдкх╣│ц┤Л"
 
 msgid "Canada/Saskatchewan"
-msgstr "еле╩е└/е╡е╣еле┴ечеяеє"
+msgstr "уВлуГКуГА/уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 msgid "Canada/Yukon"
-msgstr "еле╩е└/ецб╝е│еє"
+msgstr "уВлуГКуГА/уГжуГ╝уВ│уГ│"
 
 msgid "CET"
 msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr "е┴еъ/┬ч╬ж"
+msgstr "уГБуГк/хдзщЩ╕"
 
 msgid "Chile/EasterIsland"
-msgstr "е┴еъ/┼ь╜Ї┼ч"
+msgstr "уГБуГк/цЭ▒шл╕х│╢"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr "енехб╝е╨"
+msgstr "уВнуГеуГ╝уГР"
 
 msgid "EET"
 msgstr "EET"
 
 msgid "Egypt"
-msgstr "еие╕е╫е╚"
+msgstr "уВиуВ╕уГЧуГИ"
 
 msgid "Eire"
-msgstr "еиб╝еы"
+msgstr "уВиуГ╝уГл"
 
 msgid "EST"
 msgstr "EST"
@@ -1055,13 +1058,13 @@ msgid "Etc/GMT+9"
 msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr "Etc/е░еъе╦е├е╕"
+msgstr "Etc/уВ░уГкуГЛуГГуВ╕"
 
 msgid "Etc/UCT"
 msgstr "Etc/UCT"
 
 msgid "Etc/Universal"
-msgstr "Etc/╣ё║▌"
+msgstr "Etc/хЫ╜щЪЫ"
 
 msgid "Etc/UTC"
 msgstr "Etc/UTC"
@@ -1070,163 +1073,163 @@ msgid "Etc/Zulu"
 msgstr "Etc/Zulu"
 
 msgid "Europe/Amsterdam"
-msgstr "ешб╝еэе├е╤/евере╣е╞еые└ер"
+msgstr "уГиуГ╝уГнуГГуГС/уВвуГауВ╣уГЖуГлуГАуГа"
 
 msgid "Europe/Andorra"
-msgstr "ешб╝еэе├е╤/евеєе╔ещ"
+msgstr "уГиуГ╝уГнуГГуГС/уВвуГ│уГЙуГй"
 
 msgid "Europe/Athens"
-msgstr "ешб╝еэе├е╤/еве╞е═"
+msgstr "уГиуГ╝уГнуГГуГС/уВвуГЖуГН"
 
 msgid "Europe/Belfast"
-msgstr "ешб╝еэе├е╤/е┘еые╒ебб╝е╣е╚"
+msgstr "уГиуГ╝уГнуГГуГС/уГЩуГлуГХуВбуГ╝уВ╣уГИ"
 
 msgid "Europe/Belgrade"
-msgstr "ешб╝еэе├е╤/е┘ейе░ещб╝е╔"
+msgstr "уГиуГ╝уГнуГГуГС/уГЩуВйуВ░уГйуГ╝уГЙ"
 
 msgid "Europe/Berlin"
-msgstr "ешб╝еэе├е╤/е┘еыеъеє"
+msgstr "уГиуГ╝уГнуГГуГС/уГЩуГлуГкуГ│"
 
 msgid "Europe/Bratislava"
-msgstr "ешб╝еэе├е╤/е╓еще╞еге╣ещеЇеб"
+msgstr "уГиуГ╝уГнуГГуГС/уГЦуГйуГЖуВгуВ╣уГйуГ┤уВб"
 
 msgid "Europe/Brussels"
-msgstr "ешб╝еэе├е╤/е╓еъехе├е╗еы"
+msgstr "уГиуГ╝уГнуГГуГС/уГЦуГкуГеуГГуВ╗уГл"
 
 msgid "Europe/Bucharest"
-msgstr "ешб╝еэе├е╤/е╓елеье╣е╚"
+msgstr "уГиуГ╝уГнуГГуГС/уГЦуВлуГмуВ╣уГИ"
 
 msgid "Europe/Budapest"
-msgstr "е█б╝еэе├е╤/е╓е┐е┌е╣е╚"
+msgstr "уГЫуГ╝уГнуГГуГС/уГЦуВ┐уГЪуВ╣уГИ"
 
 msgid "Europe/Chisinau"
-msgstr "ешб╝еэе├е╤/епе╖еуе╚еъев"
+msgstr "уГиуГ╝уГнуГГуГС/уВпуВ╖уГгуГИуГкуВв"
 
 msgid "Europe/Copenhagen"
-msgstr "ешб╝еэе├е╤/е│е┌еєе╧б╝е▓еє"
+msgstr "уГиуГ╝уГнуГГуГС/уВ│уГЪуГ│уГПуГ╝уВ▓уГ│"
 
 msgid "Europe/Dublin"
-msgstr "ешб╝еэе├е╤/е└е╓еъеє"
+msgstr "уГиуГ╝уГнуГГуГС/уГАуГЦуГкуГ│"
 
 msgid "Europe/Gibraltar"
-msgstr "ешб╝еэе├е╤/е╕е╓ещеые┐еы"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╕уГЦуГйуГлуВ┐уГл"
 
 msgid "Europe/Helsinki"
-msgstr "ешб╝еэе├е╤/е╪еые╖еєен"
+msgstr "уГиуГ╝уГнуГГуГС/уГШуГлуВ╖уГ│уВн"
 
 msgid "Europe/Istanbul"
-msgstr "ешб╝еэе├е╤/еде╣е┐еєе╓б╝еы"
+msgstr "уГиуГ╝уГнуГГуГС/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 msgid "Europe/Kaliningrad"
-msgstr "ешб╝еэе├е╤/елеъб╝е╦еєе░ещб╝е╔"
+msgstr "уГиуГ╝уГнуГГуГС/уВлуГкуГ╝уГЛуГ│уВ░уГйуГ╝уГЙ"
 
 msgid "Europe/Kiev"
-msgstr "ешб╝еэе├е╤/енеие╒"
+msgstr "уГиуГ╝уГнуГГуГС/уВнуВиуГХ"
 
 msgid "Europe/Lisbon"
-msgstr "ешб╝еэе├е╤/еъе║е▄еє"
+msgstr "уГиуГ╝уГнуГГуГС/уГкуВ║уГЬуГ│"
 
 msgid "Europe/Ljubljana"
-msgstr "ешб╝еэе├е╤/еъехе╓еъефе╩"
+msgstr "уГиуГ╝уГнуГГуГС/уГкуГеуГЦуГкуГдуГК"
 
 msgid "Europe/London"
-msgstr "ешб╝еэе├е╤/еэеєе╔еє"
+msgstr "уГиуГ╝уГнуГГуГС/уГнуГ│уГЙуГ│"
 
 msgid "Europe/Luxembourg"
-msgstr "ешб╝еэе├е╤/еыепе╗еєе╫еые░"
+msgstr "уГиуГ╝уГнуГГуГС/уГлуВпуВ╗уГ│уГЧуГлуВ░"
 
 msgid "Europe/Madrid"
-msgstr "ешб╝еэе├е╤/е▐е╔еъе├е╔"
+msgstr "уГиуГ╝уГнуГГуГС/уГЮуГЙуГкуГГуГЙ"
 
 msgid "Europe/Malta"
-msgstr "ешб╝еэе├е╤/е▐еые┐"
+msgstr "уГиуГ╝уГнуГГуГС/уГЮуГлуВ┐"
 
 msgid "Europe/Minsk"
-msgstr "ешб╝еэе├е╤/е▀еєе╣еп"
+msgstr "уГиуГ╝уГнуГГуГС/уГЯуГ│уВ╣уВп"
 
 msgid "Europe/Monaco"
-msgstr "ешб╝еэе├е╤/ете╩е│"
+msgstr "уГиуГ╝уГнуГГуГС/уГвуГКуВ│"
 
 msgid "Europe/Moscow"
-msgstr "ешб╝еэе├е╤/ете╣епея"
+msgstr "уГиуГ╝уГнуГГуГС/уГвуВ╣уВпуГп"
 
 msgid "Europe/Nicosia"
-msgstr "ешб╝еэе├е╤/е╦е├е│е╖ев"
+msgstr "уГиуГ╝уГнуГГуГС/уГЛуГГуВ│уВ╖уВв"
 
 msgid "Europe/Oslo"
-msgstr "ешб╝еэе├е╤/еке╣еэ"
+msgstr "уГиуГ╝уГнуГГуГС/уВкуВ╣уГн"
 
 msgid "Europe/Paris"
-msgstr "ешб╝еэе├е╤/е╤еъ"
+msgstr "уГиуГ╝уГнуГГуГС/уГСуГк"
 
 msgid "Europe/Prague"
-msgstr "ешб╝еэе├е╤/е╫еще╧"
+msgstr "уГиуГ╝уГнуГГуГС/уГЧуГйуГП"
 
 msgid "Europe/Riga"
-msgstr "ешб╝еэе├е╤/еъем"
+msgstr "уГиуГ╝уГнуГГуГС/уГкуВм"
 
 msgid "Europe/Rome"
-msgstr "ешб╝еэе├е╤/еэб╝е▐"
+msgstr "уГиуГ╝уГнуГГуГС/уГнуГ╝уГЮ"
 
 msgid "Europe/Samara"
-msgstr "ешб╝еэе├е╤/е╡е▐ещ"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╡уГЮуГй"
 
 msgid "Europe/San_Marino"
-msgstr "ешб╝еэе├е╤/е╡еєе▐еъе╬"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╡уГ│уГЮуГкуГО"
 
 msgid "Europe/Sarajevo"
-msgstr "ешб╝еэе├е╤/е╡ещеие▄"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╡уГйуВиуГЬ"
 
 msgid "Europe/Simferopol"
-msgstr "ешб╝еэе├е╤/е╖ере╒езеэе▌еъ"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╖уГауГХуВзуГнуГЭуГк"
 
 msgid "Europe/Skopje"
-msgstr "ешб╝еэе├е╤/е╣е│е╫еъеи"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╣уВ│уГЧуГкуВи"
 
 msgid "Europe/Sofia"
-msgstr "ешб╝еэе├е╤/е╜е╒егев"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╜уГХуВгуВв"
 
 msgid "Europe/Stockholm"
-msgstr "ешб╝еэе├е╤/е╣е╚е├епе╒ейеыер"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╣уГИуГГуВпуГХуВйуГлуГа"
 
 msgid "Europe/Tallinn"
-msgstr "ешб╝еэе├е╤/е┐еъеє"
+msgstr "уГиуГ╝уГнуГГуГС/уВ┐уГкуГ│"
 
 msgid "Europe/Tirane"
-msgstr "ешб╝еэе├е╤/е╞егеще═"
+msgstr "уГиуГ╝уГнуГГуГС/уГЖуВгуГйуГН"
 
 msgid "Europe/Tiraspol"
-msgstr "ешб╝еэе├е╤/е╞егеще╣е▌б╝еы"
+msgstr "уГиуГ╝уГнуГГуГС/уГЖуВгуГйуВ╣уГЭуГ╝уГл"
 
 msgid "Europe/Uzhgorod"
-msgstr "ешб╝еэе├е╤/еже║е┤еые╔"
+msgstr "уГиуГ╝уГнуГГуГС/уВжуВ║уВ┤уГлуГЙ"
 
 msgid "Europe/Vaduz"
-msgstr "ешб╝еэе├е╤/е╓ебе╔ееб╝е║"
+msgstr "уГиуГ╝уГнуГГуГС/уГЦуВбуГЙуВеуГ╝уВ║"
 
 msgid "Europe/Vatican"
-msgstr "ешб╝еэе├е╤/е╨е┴елеє"
+msgstr "уГиуГ╝уГнуГГуГС/уГРуГБуВлуГ│"
 
 msgid "Europe/Vienna"
-msgstr "ешб╝еэе├е╤/ежегб╝еє"
+msgstr "уГиуГ╝уГнуГГуГС/уВжуВгуГ╝уГ│"
 
 msgid "Europe/Vilnius"
-msgstr "ешб╝еэе├е╤/е╙е╥еве╣"
+msgstr "уГиуГ╝уГнуГГуГС/уГУуГТуВвуВ╣"
 
 msgid "Europe/Warsaw"
-msgstr "ешб╝еэе├е╤/еяеые╖еуея"
+msgstr "уГиуГ╝уГнуГГуГС/уГпуГлуВ╖уГгуГп"
 
 msgid "Europe/Zagreb"
-msgstr "ешб╝еэе├е╤/е╢е░еье╓"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╢уВ░уГмуГЦ"
 
 msgid "Europe/Zaporozhye"
-msgstr "ешб╝еэе├е╤/е╢е▌еэб╝е╕ез"
+msgstr "уГиуГ╝уГнуГГуГС/уВ╢уГЭуГнуГ╝уВ╕уВз"
 
 msgid "Europe/Zurich"
-msgstr "ешб╝еэе├е╤/е┴ехб╝еъе├е╥"
+msgstr "уГиуГ╝уГнуГГуГС/уГБуГеуГ╝уГкуГГуГТ"
 
 msgid "Factory"
-msgstr "е╒ебепе╚еъ"
+msgstr "уГХуВбуВпуГИуГк"
 
 msgid "GB"
 msgstr "GB"
@@ -1247,88 +1250,88 @@ msgid "GMT+0"
 msgstr "GMT+0"
 
 msgid "Greenwich"
-msgstr "е░еъе╦е├е╕"
+msgstr "уВ░уГкуГЛуГГуВ╕"
 
 msgid "Hongkong"
-msgstr "╣с╣┴"
+msgstr "щжЩц╕п"
 
 msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "еведе╣ещеєе╔"
+msgstr "уВвуВдуВ╣уГйуГ│уГЙ"
 
 msgid "Indian/Antananarivo"
-msgstr "едеєе╔═╬/евеєе┐еще╩еъеЇей"
+msgstr "уВдуГ│уГЙц┤Л/уВвуГ│уВ┐уГйуГКуГкуГ┤уВй"
 
 msgid "Indian/Chagos"
-msgstr "едеєе╔═╬/е╖еуе┤е╣"
+msgstr "уВдуГ│уГЙц┤Л/уВ╖уГгуВ┤уВ╣"
 
 msgid "Indian/Christmas"
-msgstr "едеєе╔═╬/епеъе╣е▐е╣"
+msgstr "уВдуГ│уГЙц┤Л/уВпуГкуВ╣уГЮуВ╣"
 
 msgid "Indian/Cocos"
-msgstr "едеєе╔═╬/е│е│е╣"
+msgstr "уВдуГ│уГЙц┤Л/уВ│уВ│уВ╣"
 
 msgid "Indian/Comoro"
-msgstr "едеєе╔═╬/е│етеэ"
+msgstr "уВдуГ│уГЙц┤Л/уВ│уГвуГн"
 
 msgid "Indian/Kerguelen"
-msgstr "едеєе╔═╬/епеые▓еьеє"
+msgstr "уВдуГ│уГЙц┤Л/уВпуГлуВ▓уГмуГ│"
 
 msgid "Indian/Mahe"
-msgstr "едеєе╔═╬/е▐е╪б╝"
+msgstr "уВдуГ│уГЙц┤Л/уГЮуГШуГ╝"
 
 msgid "Indian/Maldives"
-msgstr "едеєе╔═╬/етеые╕е╓"
+msgstr "уВдуГ│уГЙц┤Л/уГвуГлуВ╕уГЦ"
 
 msgid "Indian/Mauritius"
-msgstr "едеєе╔═╬/етб╝еъе╖еуе╣"
+msgstr "уВдуГ│уГЙц┤Л/уГвуГ╝уГкуВ╖уГгуВ╣"
 
 msgid "Indian/Mayotte"
-msgstr "едеєе╔═╬/е▐еше├е╚"
+msgstr "уВдуГ│уГЙц┤Л/уГЮуГиуГГуГИ"
 
 msgid "Indian/Reunion"
-msgstr "едеєе╔═╬/еыеие╦екеє"
+msgstr "уВдуГ│уГЙц┤Л/уГлуВиуГЛуВкуГ│"
 
 msgid "Iran"
-msgstr "едещеє"
+msgstr "уВдуГйуГ│"
 
 msgid "Israel"
-msgstr "еде╣ещеиеы"
+msgstr "уВдуВ╣уГйуВиуГл"
 
 msgid "Jamaica"
-msgstr "е╕еуе▐едел"
+msgstr "уВ╕уГгуГЮуВдуВл"
 
 msgid "Japan"
-msgstr "╞№╦▄"
+msgstr "цЧецЬм"
 
 msgid "Kwajalein"
-msgstr "епеяе╕еуеъеє"
+msgstr "уВпуГпуВ╕уГгуГкуГ│"
 
 msgid "Libya"
-msgstr "еъе╙еф"
+msgstr "уГкуГУуГд"
 
 msgid "MET"
 msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr "есене╖е│/е╨е╕еуе╩еые╞"
+msgstr "уГбуВнуВ╖уВ│/уГРуВ╕уГгуГКуГлуГЖ"
 
 msgid "Mexico/BajaSur"
-msgstr "есене╖е│/е╨е╕еуе╡"
+msgstr "уГбуВнуВ╖уВ│/уГРуВ╕уГгуВ╡"
 
 msgid "Mexico/General"
-msgstr "есене╖е│/╔╕╜р"
+msgstr "уГбуВнуВ╖уВ│/циЩц║Ц"
 
 msgid "Mideast/Riyadh87"
-msgstr "├ц┼ь/Riyadh87"
+msgstr "ф╕нцЭ▒/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr "├ц┼ь/Riyadh88"
+msgstr "ф╕нцЭ▒/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr "├ц┼ь/Riyadh89"
+msgstr "ф╕нцЭ▒/Riyadh89"
 
 msgid "MST"
 msgstr "MST"
@@ -1346,130 +1349,130 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "┬└╩┐═╬/еве╘ев"
+msgstr "хдкх╣│ц┤Л/уВвуГФуВв"
 
 msgid "Pacific/Auckland"
-msgstr "┬└╩┐═╬/екб╝епещеєе╔"
+msgstr "хдкх╣│ц┤Л/уВкуГ╝уВпуГйуГ│уГЙ"
 
 msgid "Pacific/Chatham"
-msgstr "┬└╩┐═╬/е╖еуе┐еє"
+msgstr "хдкх╣│ц┤Л/уВ╖уГгуВ┐уГ│"
 
 msgid "Pacific/Easter"
-msgstr "┬└╩┐═╬/едб╝е╣е┐б╝"
+msgstr "хдкх╣│ц┤Л/уВдуГ╝уВ╣уВ┐уГ╝"
 
 msgid "Pacific/Efate"
-msgstr "┬└╩┐═╬/еие╒ебе╞ез"
+msgstr "хдкх╣│ц┤Л/уВиуГХуВбуГЖуВз"
 
 msgid "Pacific/Enderbury"
-msgstr "┬└╩┐═╬/еиеєе└е┘еъ"
+msgstr "хдкх╣│ц┤Л/уВиуГ│уГАуГЩуГк"
 
 msgid "Pacific/Fakaofo"
-msgstr "┬└╩┐═╬/е╒ебелеке╒ей"
+msgstr "хдкх╣│ц┤Л/уГХуВбуВлуВкуГХуВй"
 
 msgid "Pacific/Fiji"
-msgstr "┬└╩┐═╬/е╒егб╝е╕б╝"
+msgstr "хдкх╣│ц┤Л/уГХуВгуГ╝уВ╕уГ╝"
 
 msgid "Pacific/Funafuti"
-msgstr "┬└╩┐═╬/е╒е╩е╒е╞ег"
+msgstr "хдкх╣│ц┤Л/уГХуГКуГХуГЖуВг"
 
 msgid "Pacific/Galapagos"
-msgstr "┬└╩┐═╬/елеще╤е┤е╣"
+msgstr "хдкх╣│ц┤Л/уВлуГйуГСуВ┤уВ╣"
 
 msgid "Pacific/Gambier"
-msgstr "┬└╩┐═╬/емеєе╙б╝еы"
+msgstr "хдкх╣│ц┤Л/уВмуГ│уГУуГ╝уГл"
 
 msgid "Pacific/Guadalcanal"
-msgstr "┬└╩┐═╬/е░евеєе└еыеле╩еы"
+msgstr "хдкх╣│ц┤Л/уВ░уВвуГ│уГАуГлуВлуГКуГл"
 
 msgid "Pacific/Guam"
-msgstr "┬└╩┐═╬/е░евер"
+msgstr "хдкх╣│ц┤Л/уВ░уВвуГа"
 
 msgid "Pacific/Honolulu"
-msgstr "┬└╩┐═╬/е█е╬еыеы"
+msgstr "хдкх╣│ц┤Л/уГЫуГОуГлуГл"
 
 msgid "Pacific/Johnston"
-msgstr "┬└╩┐═╬/е╕ечеєе╣е╚б╝еє"
+msgstr "хдкх╣│ц┤Л/уВ╕уГзуГ│уВ╣уГИуГ╝уГ│"
 
 msgid "Pacific/Kiritimati"
-msgstr "┬└╩┐═╬/енеъе╞еге▐е╞ег"
+msgstr "хдкх╣│ц┤Л/уВнуГкуГЖуВгуГЮуГЖуВг"
 
 msgid "Pacific/Kosrae"
-msgstr "┬└╩┐═╬/е│е╣ещеи"
+msgstr "хдкх╣│ц┤Л/уВ│уВ╣уГйуВи"
 
 msgid "Pacific/Kwajalein"
-msgstr "┬└╩┐═╬/епеве╕еуеъеє"
+msgstr "хдкх╣│ц┤Л/уВпуВвуВ╕уГгуГкуГ│"
 
 msgid "Pacific/Majuro"
-msgstr "┬└╩┐═╬/е▐е╕ехеэ"
+msgstr "хдкх╣│ц┤Л/уГЮуВ╕уГеуГн"
 
 msgid "Pacific/Marquesas"
-msgstr "┬└╩┐═╬/е▐б╝епеде╣"
+msgstr "хдкх╣│ц┤Л/уГЮуГ╝уВпуВдуВ╣"
 
 msgid "Pacific/Midway"
-msgstr "┬└╩┐═╬/е▀е├е╔ежезед"
+msgstr "хдкх╣│ц┤Л/уГЯуГГуГЙуВжуВзуВд"
 
 msgid "Pacific/Nauru"
-msgstr "┬└╩┐═╬/е╩ежеы"
+msgstr "хдкх╣│ц┤Л/уГКуВжуГл"
 
 msgid "Pacific/Niue"
-msgstr "┬└╩┐═╬/е╦ежеи"
+msgstr "хдкх╣│ц┤Л/уГЛуВжуВи"
 
 msgid "Pacific/Norfolk"
-msgstr "┬└╩┐═╬/е╬б╝е╒ейб╝еп"
+msgstr "хдкх╣│ц┤Л/уГОуГ╝уГХуВйуГ╝уВп"
 
 msgid "Pacific/Noumea"
-msgstr "┬└╩┐═╬/е╠есев"
+msgstr "хдкх╣│ц┤Л/уГМуГбуВв"
 
 msgid "Pacific/Pago_Pago"
-msgstr "┬└╩┐═╬/е╤е┤е╤е┤"
+msgstr "хдкх╣│ц┤Л/уГСуВ┤уГСуВ┤"
 
 msgid "Pacific/Palau"
-msgstr "┬└╩┐═╬/е╤ещеж"
+msgstr "хдкх╣│ц┤Л/уГСуГйуВж"
 
 msgid "Pacific/Pitcairn"
-msgstr "┬└╩┐═╬/е╘е╚е▒еыеє"
+msgstr "хдкх╣│ц┤Л/уГФуГИуВ▒уГлуГ│"
 
 msgid "Pacific/Ponape"
-msgstr "┬└╩┐═╬/е▌е╩е┌"
+msgstr "хдкх╣│ц┤Л/уГЭуГКуГЪ"
 
 msgid "Pacific/Port_Moresby"
-msgstr "┬└╩┐═╬/е▌б╝е╚етеєе╣е╙б╝"
+msgstr "хдкх╣│ц┤Л/уГЭуГ╝уГИуГвуГ│уВ╣уГУуГ╝"
 
 msgid "Pacific/Rarotonga"
-msgstr "┬└╩┐═╬/ещеэе╚еєем"
+msgstr "хдкх╣│ц┤Л/уГйуГнуГИуГ│уВм"
 
 msgid "Pacific/Saipan"
-msgstr "┬└╩┐═╬/е╡еде╤еє"
+msgstr "хдкх╣│ц┤Л/уВ╡уВдуГСуГ│"
 
 msgid "Pacific/Samoa"
-msgstr "┬└╩┐═╬/е╡етев"
+msgstr "хдкх╣│ц┤Л/уВ╡уГвуВв"
 
 msgid "Pacific/Tahiti"
-msgstr "┬└╩┐═╬/е┐е╥е┴"
+msgstr "хдкх╣│ц┤Л/уВ┐уГТуГБ"
 
 msgid "Pacific/Tarawa"
-msgstr "┬└╩┐═╬/е┐ещея"
+msgstr "хдкх╣│ц┤Л/уВ┐уГйуГп"
 
 msgid "Pacific/Tongatapu"
-msgstr "┬└╩┐═╬/е╚еєем"
+msgstr "хдкх╣│ц┤Л/уГИуГ│уВм"
 
 msgid "Pacific/Truk"
-msgstr "┬└╩┐═╬/е╚еще├еп"
+msgstr "хдкх╣│ц┤Л/уГИуГйуГГуВп"
 
 msgid "Pacific/Wake"
-msgstr "┬└╩┐═╬/ежезб╝еп"
+msgstr "хдкх╣│ц┤Л/уВжуВзуГ╝уВп"
 
 msgid "Pacific/Wallis"
-msgstr "┬└╩┐═╬/еЇебеъе╣"
+msgstr "хдкх╣│ц┤Л/уГ┤уВбуГкуВ╣"
 
 msgid "Pacific/Yap"
-msgstr "┬└╩┐═╬/ефе├е╫"
+msgstr "хдкх╣│ц┤Л/уГдуГГуГЧ"
 
 msgid "Poland"
-msgstr "е▌б╝ещеєе╔"
+msgstr "уГЭуГ╝уГйуГ│уГЙ"
 
 msgid "Portugal"
-msgstr "е╫еые╚емеы"
+msgstr "уГЧуГлуГИуВмуГл"
 
 msgid "PRC"
 msgstr "PRC"
@@ -1484,7 +1487,7 @@ msgid "ROK"
 msgstr "ROK"
 
 msgid "Singapore"
-msgstr "е╖еєеме▌б╝еы"
+msgstr "уВ╖уГ│уВмуГЭуГ╝уГл"
 
 msgid "SystemV/AST4"
 msgstr "SystemV/AST4"
@@ -1526,49 +1529,49 @@ msgid "SystemV/YST9YDT"
 msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
-msgstr "е╚еые│"
+msgstr "уГИуГлуВ│"
 
 msgid "UCT"
 msgstr "UCT"
 
 msgid "Universal"
-msgstr "╣ё║▌╔╕╜р"
+msgstr "хЫ╜щЪЫциЩц║Ц"
 
 msgid "US/Alaska"
-msgstr "US/евеще╣ел"
+msgstr "US/уВвуГйуВ╣уВл"
 
 msgid "US/Aleutian"
-msgstr "US/евеыб╝е╖еуеє"
+msgstr "US/уВвуГлуГ╝уВ╖уГгуГ│"
 
 msgid "US/Arizona"
-msgstr "US/евеъе╛е╩"
+msgstr "US/уВвуГкуВ╛уГК"
 
 msgid "US/Central"
-msgstr "US/├ц╔Ї"
+msgstr "US/ф╕нщГи"
 
 msgid "US/Eastern"
-msgstr "US/┼ь╔Ї"
+msgstr "US/цЭ▒щГи"
 
 msgid "US/East-Indiana"
-msgstr "US/┼ьедеєе╟егеве╩"
+msgstr "US/цЭ▒уВдуГ│уГЗуВгуВвуГК"
 
 msgid "US/Hawaii"
-msgstr "US/е╧еяед"
+msgstr "US/уГПуГпуВд"
 
 msgid "US/Indiana-Starke"
-msgstr "US/едеєе╟егеве╩е╖езе┐еыеп"
+msgstr "US/уВдуГ│уГЗуВгуВвуГКуВ╖уВзуВ┐уГлуВп"
 
 msgid "US/Michigan"
-msgstr "US/е▀е╖емеє"
+msgstr "US/уГЯуВ╖уВмуГ│"
 
 msgid "US/Mountain"
-msgstr "US/╗│├╧"
+msgstr "US/х▒▒хЬ░"
 
 msgid "US/Pacific"
-msgstr "US/┬└╩┐═╬"
+msgstr "US/хдкх╣│ц┤Л"
 
 msgid "US/Samoa"
-msgstr "US/е╡етев"
+msgstr "US/уВ╡уГвуВв"
 
 msgid "UTC"
 msgstr "UTC"
@@ -1583,919 +1586,919 @@ msgid "Zulu"
 msgstr "Zulu"
 
 #~ msgid "posix/Africa/Abidjan"
-#~ msgstr "posix/еве╒еъел/еве╙е╕еуеє"
+#~ msgstr "posix/уВвуГХуГкуВл/уВвуГУуВ╕уГгуГ│"
 
 #~ msgid "posix/Africa/Accra"
-#~ msgstr "posix/еве╒еъел/евепещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВвуВпуГй"
 
 #~ msgid "posix/Africa/Addis_Ababa"
-#~ msgstr "posix/еве╒еъел/еве╟еге╣еве┘е╨"
+#~ msgstr "posix/уВвуГХуГкуВл/уВвуГЗуВгуВ╣уВвуГЩуГР"
 
 #~ msgid "posix/Africa/Algiers"
-#~ msgstr "posix/еве╒еъел/евеые╕езеъев"
+#~ msgstr "posix/уВвуГХуГкуВл/уВвуГлуВ╕уВзуГкуВв"
 
 #~ msgid "posix/Africa/Asmera"
-#~ msgstr "posix/еве╒еъел/еве╣е▐ещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВвуВ╣уГЮуГй"
 
 #~ msgid "posix/Africa/Bamako"
-#~ msgstr "posix/еве╒еъел/е╨е▐е│"
+#~ msgstr "posix/уВвуГХуГкуВл/уГРуГЮуВ│"
 
 #~ msgid "posix/Africa/Bangui"
-#~ msgstr "posix/еве╒еъел/е╨еєео"
+#~ msgstr "posix/уВвуГХуГкуВл/уГРуГ│уВо"
 
 #~ msgid "posix/Africa/Banjul"
-#~ msgstr "posix/еве╒еъел/е╨еєе╕ехб╝еы"
+#~ msgstr "posix/уВвуГХуГкуВл/уГРуГ│уВ╕уГеуГ╝уГл"
 
 #~ msgid "posix/Africa/Bissau"
-#~ msgstr "posix/еве╒еъел/е╙е╡еж"
+#~ msgstr "posix/уВвуГХуГкуВл/уГУуВ╡уВж"
 
 #~ msgid "posix/Africa/Blantyre"
-#~ msgstr "posix/еве╒еъел/е╓ещеєе┐едев"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЦуГйуГ│уВ┐уВдуВв"
 
 #~ msgid "posix/Africa/Brazzaville"
-#~ msgstr "posix/еве╒еъел/е╓еще╢е╙еы"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЦуГйуВ╢уГУуГл"
 
 #~ msgid "posix/Africa/Bujumbura"
-#~ msgstr "posix/еве╒еъел/е╓е╕ехеєе╓ещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЦуВ╕уГеуГ│уГЦуГй"
 
 #~ msgid "posix/Africa/Cairo"
-#~ msgstr "posix/еве╒еъел/еледеэ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВлуВдуГн"
 
 #~ msgid "posix/Africa/Casablanca"
-#~ msgstr "posix/еве╒еъел/еле╡е╓ещеєел"
+#~ msgstr "posix/уВвуГХуГкуВл/уВлуВ╡уГЦуГйуГ│уВл"
 
 #~ msgid "posix/Africa/Ceuta"
-#~ msgstr "posix/еве╒еъел/е╗епе┐"
+#~ msgstr "posix/уВвуГХуГкуВл/уВ╗уВпуВ┐"
 
 #~ msgid "posix/Africa/Conakry"
-#~ msgstr "posix/еве╒еъел/е│е╩епеъ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВ│уГКуВпуГк"
 
 #~ msgid "posix/Africa/Dakar"
-#~ msgstr "posix/еве╒еъел/е└епещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уГАуВпуГй"
 
 #~ msgid "posix/Africa/Dar_es_Salaam"
-#~ msgstr "posix/еве╒еъел/е└еые╦е╣е╢ещб╝ер"
+#~ msgstr "posix/уВвуГХуГкуВл/уГАуГлуГЛуВ╣уВ╢уГйуГ╝уГа"
 
 #~ msgid "posix/Africa/Djibouti"
-#~ msgstr "posix/еве╒еъел/е╕е╓е╞ег"
+#~ msgstr "posix/уВвуГХуГкуВл/уВ╕уГЦуГЖуВг"
 
 #~ msgid "posix/Africa/Douala"
-#~ msgstr "posix/еве╒еъел/е╔ееевб╝ещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЙуВеуВвуГ╝уГй"
 
 #~ msgid "posix/Africa/El_Aaiun"
-#~ msgstr "posix/еве╒еъел/еиеыеведежеє"
+#~ msgstr "posix/уВвуГХуГкуВл/уВиуГлуВвуВдуВжуГ│"
 
 #~ msgid "posix/Africa/Freetown"
-#~ msgstr "posix/еве╒еъел/е╒еъб╝е┐ежеє"
+#~ msgstr "posix/уВвуГХуГкуВл/уГХуГкуГ╝уВ┐уВжуГ│"
 
 #~ msgid "posix/Africa/Gaborone"
-#~ msgstr "posix/еве╒еъел/еме▄еэб╝е═"
+#~ msgstr "posix/уВвуГХуГкуВл/уВмуГЬуГнуГ╝уГН"
 
 #~ msgid "posix/Africa/Harare"
-#~ msgstr "posix/еве╒еъел/е╧б╝ещеы"
+#~ msgstr "posix/уВвуГХуГкуВл/уГПуГ╝уГйуГл"
 
 #~ msgid "posix/Africa/Johannesburg"
-#~ msgstr "posix/еве╒еъел/еше╧е═е╣е╓еыеп"
+#~ msgstr "posix/уВвуГХуГкуВл/уГиуГПуГНуВ╣уГЦуГлуВп"
 
 #~ msgid "posix/Africa/Kampala"
-#~ msgstr "posix/еве╒еъел/елеєе╤ещ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВлуГ│уГСуГй"
 
 #~ msgid "posix/Africa/Khartoum"
-#~ msgstr "posix/еве╒еъел/е╧еые╚ееб╝еє"
+#~ msgstr "posix/уВвуГХуГкуВл/уГПуГлуГИуВеуГ╝уГ│"
 
 #~ msgid "posix/Africa/Kigali"
-#~ msgstr "posix/еве╒еъел/енемеъ"
+#~ msgstr "posix/уВвуГХуГкуВл/уВнуВмуГк"
 
 #~ msgid "posix/Africa/Kinshasa"
-#~ msgstr "posix/еве╒еъел/енеєе╖еуе╡"
+#~ msgstr "posix/уВвуГХуГкуВл/уВнуГ│уВ╖уГгуВ╡"
 
 #~ msgid "posix/Africa/Lagos"
-#~ msgstr "posix/еве╒еъел/еще┤е╣"
+#~ msgstr "posix/уВвуГХуГкуВл/уГйуВ┤уВ╣"
 
 #~ msgid "posix/Africa/Libreville"
-#~ msgstr "posix/еве╒еъел/еъб╝е╓еыеЇегеы"
+#~ msgstr "posix/уВвуГХуГкуВл/уГкуГ╝уГЦуГлуГ┤уВгуГл"
 
 #~ msgid "posix/Africa/Lome"
-#~ msgstr "posix/еве╒еъел/еэес"
+#~ msgstr "posix/уВвуГХуГкуВл/уГнуГб"
 
 #~ msgid "posix/Africa/Luanda"
-#~ msgstr "posix/еве╒еъел/еыевеєе└"
+#~ msgstr "posix/уВвуГХуГкуВл/уГлуВвуГ│уГА"
 
 #~ msgid "posix/Africa/Lubumbashi"
-#~ msgstr "posix/еве╒еъел/еые╓еєе╨е╖"
+#~ msgstr "posix/уВвуГХуГкуВл/уГлуГЦуГ│уГРуВ╖"
 
 #~ msgid "posix/Africa/Lusaka"
-#~ msgstr "posix/еве╒еъел/еые╡ел"
+#~ msgstr "posix/уВвуГХуГкуВл/уГлуВ╡уВл"
 
 #~ msgid "posix/Africa/Malabo"
-#~ msgstr "posix/еве╒еъел/е▐еще▄"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЮуГйуГЬ"
 
 #~ msgid "posix/Africa/Maputo"
-#~ msgstr "posix/еве╒еъел/е▐е╫е╚"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЮуГЧуГИ"
 
 #~ msgid "posix/Africa/Maseru"
-#~ msgstr "posix/еве╒еъел/е▐е╗еы"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЮуВ╗уГл"
 
 #~ msgid "posix/Africa/Mbabane"
-#~ msgstr "posix/еве╒еъел/ере╨е╨ес"
+#~ msgstr "posix/уВвуГХуГкуВл/уГауГРуГРуГб"
 
 #~ msgid "posix/Africa/Mogadishu"
-#~ msgstr "posix/еве╒еъел/етеме╟еге╖ек"
+#~ msgstr "posix/уВвуГХуГкуВл/уГвуВмуГЗуВгуВ╖уВк"
 
 #~ msgid "posix/Africa/Monrovia"
-#~ msgstr "posix/еве╒еъел/етеєеэеЇегев"
+#~ msgstr "posix/уВвуГХуГкуВл/уГвуГ│уГнуГ┤уВгуВв"
 
 #~ msgid "posix/Africa/Nairobi"
-#~ msgstr "posix/еве╒еъел/е╩едеэе╙"
+#~ msgstr "posix/уВвуГХуГкуВл/уГКуВдуГнуГУ"
 
 #~ msgid "posix/Africa/Ndjamena"
-#~ msgstr "posix/еве╒еъел/е╠е╕еуесе╩"
+#~ msgstr "posix/уВвуГХуГкуВл/уГМуВ╕уГгуГбуГК"
 
 #~ msgid "posix/Africa/Niamey"
-#~ msgstr "posix/еве╒еъел/е╦евесб╝"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЛуВвуГбуГ╝"
 
 #~ msgid "posix/Africa/Nouakchott"
-#~ msgstr "posix/еве╒еъел/е╠епеве╖ече├е╚"
+#~ msgstr "posix/уВвуГХуГкуВл/уГМуВпуВвуВ╖уГзуГГуГИ"
 
 #~ msgid "posix/Africa/Ouagadougou"
-#~ msgstr "posix/еве╒еъел/еяеме╔еее░"
+#~ msgstr "posix/уВвуГХуГкуВл/уГпуВмуГЙуВеуВ░"
 
 #~ msgid "posix/Africa/Porto-Novo"
-#~ msgstr "posix/еве╒еъел/е▌еые╚е╬еЇей"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЭуГлуГИуГОуГ┤уВй"
 
 #~ msgid "posix/Africa/Sao_Tome"
-#~ msgstr "posix/еве╒еъел/е╡еєе╚б╝ес"
+#~ msgstr "posix/уВвуГХуГкуВл/уВ╡уГ│уГИуГ╝уГб"
 
 #~ msgid "posix/Africa/Timbuktu"
-#~ msgstr "posix/еве╒еъел/е╞егеєе╓епе╚ее"
+#~ msgstr "posix/уВвуГХуГкуВл/уГЖуВгуГ│уГЦуВпуГИуВе"
 
 #~ msgid "posix/Africa/Tripoli"
-#~ msgstr "posix/еве╒еъел/е╚еъе▌еъ"
+#~ msgstr "posix/уВвуГХуГкуВл/уГИуГкуГЭуГк"
 
 #~ msgid "posix/Africa/Tunis"
-#~ msgstr "posix/еве╒еъел/е┴ече╦е╣"
+#~ msgstr "posix/уВвуГХуГкуВл/уГБуГзуГЛуВ╣"
 
 #~ msgid "posix/Africa/Windhoek"
-#~ msgstr "posix/еве╒еъел/еЇегеєе╚е╒б╝еп"
+#~ msgstr "posix/уВвуГХуГкуВл/уГ┤уВгуГ│уГИуГХуГ╝уВп"
 
 #~ msgid "posix/America/Adak"
-#~ msgstr "posix/евесеъел/еве└е├еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГАуГГуВп"
 
 #~ msgid "posix/America/Anchorage"
-#~ msgstr "posix/евесеъел/евеєелеье├е╕"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГ│уВлуГмуГГуВ╕"
 
 #~ msgid "posix/America/Anguilla"
-#~ msgstr "posix/евесеъел/евеєе░егещ"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГ│уВ░уВгуГй"
 
 #~ msgid "posix/America/Antigua"
-#~ msgstr "posix/евесеъел/евеєе╞еге░ев"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГ│уГЖуВгуВ░уВв"
 
 #~ msgid "posix/America/Araguaina"
-#~ msgstr "posix/евесеъел/евеще░еведев"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГйуВ░уВвуВдуВв"
 
 #~ msgid "posix/America/Aruba"
-#~ msgstr "posix/евесеъел/евеыб╝е╨"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГлуГ╝уГР"
 
 #~ msgid "posix/America/Asuncion"
-#~ msgstr "posix/евесеъел/еве╣еєе╖екеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуВ╣уГ│уВ╖уВкуГ│"
 
 #~ msgid "posix/America/Atka"
-#~ msgstr "posix/евесеъел/еве╚ел"
+#~ msgstr "posix/уВвуГбуГкуВл/уВвуГИуВл"
 
 #~ msgid "posix/America/Barbados"
-#~ msgstr "posix/евесеъел/е╨еые╨е╚е╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГРуГлуГРуГИуВ╣"
 
 #~ msgid "posix/America/Belem"
-#~ msgstr "posix/евесеъел/е┘еьеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЩуГмуГ│"
 
 #~ msgid "posix/America/Belize"
-#~ msgstr "posix/евесеъел/е┘еъб╝е║"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЩуГкуГ╝уВ║"
 
 #~ msgid "posix/America/Boa_Vista"
-#~ msgstr "posix/евесеъел/е▄евеЇеге╣е┐"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЬуВвуГ┤уВгуВ╣уВ┐"
 
 #~ msgid "posix/America/Bogota"
-#~ msgstr "posix/евесеъел/е▄е┤е┐"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЬуВ┤уВ┐"
 
 #~ msgid "posix/America/Boise"
-#~ msgstr "posix/евесеъел/е▄еде╖"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЬуВдуВ╖"
 
 #~ msgid "posix/America/Buenos_Aires"
-#~ msgstr "posix/евесеъел/е╓еие╬е╣еведеье╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЦуВиуГОуВ╣уВвуВдуГмуВ╣"
 
 #~ msgid "posix/America/Cambridge_Bay"
-#~ msgstr "posix/евесеъел/е▒еєе╓еъе├е╕е┘ед"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ▒уГ│уГЦуГкуГГуВ╕уГЩуВд"
 
 #~ msgid "posix/America/Cancun"
-#~ msgstr "posix/евесеъел/елеєелеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уВлуГ│уВлуГ│"
 
 #~ msgid "posix/America/Caracas"
-#~ msgstr "posix/евесеъел/елещеле╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уВлуГйуВлуВ╣"
 
 #~ msgid "posix/America/Catamarca"
-#~ msgstr "posix/евесеъел/еле┐е▐еыел"
+#~ msgstr "posix/уВвуГбуГкуВл/уВлуВ┐уГЮуГлуВл"
 
 #~ msgid "posix/America/Cayenne"
-#~ msgstr "posix/евесеъел/еледе╦еєе╠"
+#~ msgstr "posix/уВвуГбуГкуВл/уВлуВдуГЛуГ│уГМ"
 
 #~ msgid "posix/America/Cayman"
-#~ msgstr "posix/евесеъел/е▒еде▐еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ▒уВдуГЮуГ│"
 
 #~ msgid "posix/America/Chicago"
-#~ msgstr "posix/евесеъел/е╖еле┤"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╖уВлуВ┤"
 
 #~ msgid "posix/America/Chihuahua"
-#~ msgstr "posix/евесеъел/е┴еяея"
+#~ msgstr "posix/уВвуГбуГкуВл/уГБуГпуГп"
 
 #~ msgid "posix/America/Cordoba"
-#~ msgstr "posix/евесеъел/е│еые╔е╨"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ│уГлуГЙуГР"
 
 #~ msgid "posix/America/Costa_Rica"
-#~ msgstr "posix/евесеъел/е│е╣е┐еъел"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ│уВ╣уВ┐уГкуВл"
 
 #~ msgid "posix/America/Cuiaba"
-#~ msgstr "posix/евесеъел/епефе╨"
+#~ msgstr "posix/уВвуГбуГкуВл/уВпуГдуГР"
 
 #~ msgid "posix/America/Curacao"
-#~ msgstr "posix/евесеъел/енехеще╜б╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уВнуГеуГйуВ╜уГ╝"
 
 #~ msgid "posix/America/Dawson"
-#~ msgstr "posix/евесеъел/е╔б╝е╜еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│"
 
 #~ msgid "posix/America/Dawson_Creek"
-#~ msgstr "posix/евесеъел/е╔б╝е╜еєепеъб╝еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│уВпуГкуГ╝уВп"
 
 #~ msgid "posix/America/Denver"
-#~ msgstr "posix/евесеъел/е╟еєе╨б╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЗуГ│уГРуГ╝"
 
 #~ msgid "posix/America/Detroit"
-#~ msgstr "posix/евесеъел/е╟е╚еэеде╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЗуГИуГнуВдуГИ"
 
 #~ msgid "posix/America/Dominica"
-#~ msgstr "posix/евесеъел/е╔е▀е╦ел"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЙуГЯуГЛуВл"
 
 #~ msgid "posix/America/Edmonton"
-#~ msgstr "posix/евесеъел/еие╔етеєе╚еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уВиуГЙуГвуГ│уГИуГ│"
 
 #~ msgid "posix/America/El_Salvador"
-#~ msgstr "posix/евесеъел/еиеые╡еые╨е╔еь"
+#~ msgstr "posix/уВвуГбуГкуВл/уВиуГлуВ╡уГлуГРуГЙуГм"
 
 #~ msgid "posix/America/Ensenada"
-#~ msgstr "posix/евесеъел/еиеєе╗еєе└"
+#~ msgstr "posix/уВвуГбуГкуВл/уВиуГ│уВ╗уГ│уГА"
 
 #~ msgid "posix/America/Fortaleza"
-#~ msgstr "posix/евесеъел/е╒ейеые┐еье╢"
+#~ msgstr "posix/уВвуГбуГкуВл/уГХуВйуГлуВ┐уГмуВ╢"
 
 #~ msgid "posix/America/Fort_Wayne"
-#~ msgstr "posix/евесеъел/е╒ейб╝е╚ежезедеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГХуВйуГ╝уГИуВжуВзуВдуГ│"
 
 #~ msgid "posix/America/Glace_Bay"
-#~ msgstr "posix/евесеъел/е░еьб╝е╣е┘ед"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уГмуГ╝уВ╣уГЩуВд"
 
 #~ msgid "posix/America/Godthab"
-#~ msgstr "posix/евесеъел/е┤е├е╔е█б╝е╓"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ┤уГГуГЙуГЫуГ╝уГЦ"
 
 #~ msgid "posix/America/Goose_Bay"
-#~ msgstr "posix/евесеъел/е░б╝е╣е┘ед"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уГ╝уВ╣уГЩуВд"
 
 #~ msgid "posix/America/Grand_Turk"
-#~ msgstr "posix/евесеъел/е░ещеєе╔е┐б╝еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уГйуГ│уГЙуВ┐уГ╝уВп"
 
 #~ msgid "posix/America/Grenada"
-#~ msgstr "posix/евесеъел/е░еье╩е└"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уГмуГКуГА"
 
 #~ msgid "posix/America/Guadeloupe"
-#~ msgstr "posix/евесеъел/е░еве╔еыб╝е╫"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уВвуГЙуГлуГ╝уГЧ"
 
 #~ msgid "posix/America/Guatemala"
-#~ msgstr "posix/евесеъел/е░еве╞е▐ещ"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уВвуГЖуГЮуГй"
 
 #~ msgid "posix/America/Guayaquil"
-#~ msgstr "posix/евесеъел/е░евефенеы"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ░уВвуГдуВнуГл"
 
 #~ msgid "posix/America/Guyana"
-#~ msgstr "posix/евесеъел/емедеве╩"
+#~ msgstr "posix/уВвуГбуГкуВл/уВмуВдуВвуГК"
 
 #~ msgid "posix/America/Halifax"
-#~ msgstr "posix/евесеъел/е╧еъе╒ебе├епе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГПуГкуГХуВбуГГуВпуВ╣"
 
 #~ msgid "posix/America/Havana"
-#~ msgstr "posix/евесеъел/е╧е╨е╩"
+#~ msgstr "posix/уВвуГбуГкуВл/уГПуГРуГК"
 
 #~ msgid "posix/America/Hermosillo"
-#~ msgstr "posix/евесеъел/еиеыете╦е╖еч"
+#~ msgstr "posix/уВвуГбуГкуВл/уВиуГлуГвуГЛуВ╖уГз"
 
 #~ msgid "posix/America/Indiana/Indianapolis"
-#~ msgstr "posix/евесеъел/едеєе╟егеве╩/едеєе╟егеве╩е▌еъе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 #~ msgid "posix/America/Indiana/Knox"
-#~ msgstr "posix/евесеъел/едеєе╟егеве╩/е╬е├епе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГОуГГуВпуВ╣"
 
 #~ msgid "posix/America/Indiana/Marengo"
-#~ msgstr "posix/евесеъел/едеєе╟егеве╩/е▐еьеєе┤"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЮуГмуГ│уВ┤"
 
 #~ msgid "posix/America/Indianapolis"
-#~ msgstr "posix/евесеъел/едеєе╟егеве╩е▌еъе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 #~ msgid "posix/America/Indiana/Vevay"
-#~ msgstr "posix/евесеъел/едеєе╟егеве╩/е┘е┘ед"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЩуГЩуВд"
 
 #~ msgid "posix/America/Inuvik"
-#~ msgstr "posix/евесеъел/едеєе╙е├еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуГ│уГУуГГуВп"
 
 #~ msgid "posix/America/Iqaluit"
-#~ msgstr "posix/евесеъел/еденеые╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуВнуГлуГИ"
 
 #~ msgid "posix/America/Jamaica"
-#~ msgstr "posix/евесеъел/е╕еуе▐едел"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╕уГгуГЮуВдуВл"
 
 #~ msgid "posix/America/Jujuy"
-#~ msgstr "posix/евесеъел/е╕ехе╕ех"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╕уГеуВ╕уГе"
 
 #~ msgid "posix/America/Juneau"
-#~ msgstr "posix/евесеъел/е╕ехе╬б╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╕уГеуГОуГ╝"
 
 #~ msgid "posix/America/Knox_IN"
-#~ msgstr "posix/евесеъел/е╬е├епе╣едеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГОуГГуВпуВ╣уВдуГ│"
 
 #~ msgid "posix/America/La_Paz"
-#~ msgstr "posix/евесеъел/еще╨е╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГйуГРуВ╣"
 
 #~ msgid "posix/America/Lima"
-#~ msgstr "posix/евесеъел/еъе▐"
+#~ msgstr "posix/уВвуГбуГкуВл/уГкуГЮ"
 
 #~ msgid "posix/America/Los_Angeles"
-#~ msgstr "posix/евесеъел/еэе╡еєе╝еые╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГнуВ╡уГ│уВ╝уГлуВ╣"
 
 #~ msgid "posix/America/Louisville"
-#~ msgstr "posix/евесеъел/еыб╝едеЇезеы"
+#~ msgstr "posix/уВвуГбуГкуВл/уГлуГ╝уВдуГ┤уВзуГл"
 
 #~ msgid "posix/America/Maceio"
-#~ msgstr "posix/евесеъел/е▐е╗едек"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЮуВ╗уВдуВк"
 
 #~ msgid "posix/America/Managua"
-#~ msgstr "posix/евесеъел/е▐е╩е░ев"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЮуГКуВ░уВв"
 
 #~ msgid "posix/America/Manaus"
-#~ msgstr "posix/евесеъел/е▐е╩е├е╡е╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЮуГКуГГуВ╡уВ╣"
 
 #~ msgid "posix/America/Martinique"
-#~ msgstr "posix/евесеъел/е▐еые╞егб╝е╬"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЮуГлуГЖуВгуГ╝уГО"
 
 #~ msgid "posix/America/Mazatlan"
-#~ msgstr "posix/евесеъел/е▐е╡е╚ещеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЮуВ╡уГИуГйуГ│"
 
 #~ msgid "posix/America/Mendoza"
-#~ msgstr "posix/евесеъел/есеєе╔е╡"
+#~ msgstr "posix/уВвуГбуГкуВл/уГбуГ│уГЙуВ╡"
 
 #~ msgid "posix/America/Menominee"
-#~ msgstr "posix/евесеъел/есе╬е▀е╦б╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уГбуГОуГЯуГЛуГ╝"
 
 #~ msgid "posix/America/Merida"
-#~ msgstr "posix/евесеъел/есеъе└"
+#~ msgstr "posix/уВвуГбуГкуВл/уГбуГкуГА"
 
 #~ msgid "posix/America/Mexico_City"
-#~ msgstr "posix/евесеъел/есене╖е│е╖е╞ег"
+#~ msgstr "posix/уВвуГбуГкуВл/уГбуВнуВ╖уВ│уВ╖уГЖуВг"
 
 #~ msgid "posix/America/Miquelon"
-#~ msgstr "posix/евесеъел/е▀епеэеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЯуВпуГнуГ│"
 
 #~ msgid "posix/America/Monterrey"
-#~ msgstr "posix/евесеъел/етеєе╞еьед"
+#~ msgstr "posix/уВвуГбуГкуВл/уГвуГ│уГЖуГмуВд"
 
 #~ msgid "posix/America/Montevideo"
-#~ msgstr "posix/евесеъел/етеєе╞е╙е╟ек"
+#~ msgstr "posix/уВвуГбуГкуВл/уГвуГ│уГЖуГУуГЗуВк"
 
 #~ msgid "posix/America/Montreal"
-#~ msgstr "posix/евесеъел/етеєе╚еъекб╝еы"
+#~ msgstr "posix/уВвуГбуГкуВл/уГвуГ│уГИуГкуВкуГ╝уГл"
 
 #~ msgid "posix/America/Montserrat"
-#~ msgstr "posix/евесеъел/етеєе╚е╗еще╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уГвуГ│уГИуВ╗уГйуГИ"
 
 #~ msgid "posix/America/Nassau"
-#~ msgstr "posix/евесеъел/е╩е├е╡еж"
+#~ msgstr "posix/уВвуГбуГкуВл/уГКуГГуВ╡уВж"
 
 #~ msgid "posix/America/New_York"
-#~ msgstr "posix/евесеъел/е╦ехб╝ешб╝еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЛуГеуГ╝уГиуГ╝уВп"
 
 #~ msgid "posix/America/Nipigon"
-#~ msgstr "posix/евесеъел/е╦е╘е┤еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЛуГФуВ┤уГ│"
 
 #~ msgid "posix/America/Nome"
-#~ msgstr "posix/евесеъел/е╬б╝ер"
+#~ msgstr "posix/уВвуГбуГкуВл/уГОуГ╝уГа"
 
 #~ msgid "posix/America/Noronha"
-#~ msgstr "posix/евесеъел/е╬еэе╧"
+#~ msgstr "posix/уВвуГбуГкуВл/уГОуГнуГП"
 
 #~ msgid "posix/America/Panama"
-#~ msgstr "posix/евесеъел/е╤е╩е▐"
+#~ msgstr "posix/уВвуГбуГкуВл/уГСуГКуГЮ"
 
 #~ msgid "posix/America/Pangnirtung"
-#~ msgstr "posix/евесеъел/е╤еєе░е╦е┐еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГСуГ│уВ░уГЛуВ┐уГ│"
 
 #~ msgid "posix/America/Paramaribo"
-#~ msgstr "posix/евесеъел/е╤еще▐еъе▄"
+#~ msgstr "posix/уВвуГбуГкуВл/уГСуГйуГЮуГкуГЬ"
 
 #~ msgid "posix/America/Phoenix"
-#~ msgstr "posix/евесеъел/е╒езе╦е├епе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГХуВзуГЛуГГуВпуВ╣"
 
 #~ msgid "posix/America/Port-au-Prince"
-#~ msgstr "posix/евесеъел/е▌еые╚е╫ещеєе╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЭуГлуГИуГЧуГйуГ│уВ╣"
 
 #~ msgid "posix/America/Porto_Acre"
-#~ msgstr "posix/евесеъел/е▌еые╚евепеь"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЭуГлуГИуВвуВпуГм"
 
 #~ msgid "posix/America/Port_of_Spain"
-#~ msgstr "posix/евесеъел/е▌еые╚еке╓е╣е┌едеє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЭуГлуГИуВкуГЦуВ╣уГЪуВдуГ│"
 
 #~ msgid "posix/America/Porto_Velho"
-#~ msgstr "posix/евесеъел/е▌еые╚е┘еэб╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЭуГлуГИуГЩуГнуГ╝"
 
 #~ msgid "posix/America/Puerto_Rico"
-#~ msgstr "posix/евесеъел/е╫еиеые╚еые│"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЧуВиуГлуГИуГлуВ│"
 
 #~ msgid "posix/America/Rainy_River"
-#~ msgstr "posix/евесеъел/еьеде╦б╝еъе╨б╝"
+#~ msgstr "posix/уВвуГбуГкуВл/уГмуВдуГЛуГ╝уГкуГРуГ╝"
 
 #~ msgid "posix/America/Rankin_Inlet"
-#~ msgstr "posix/евесеъел/ещеєенеєедеєеье├е╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уГйуГ│уВнуГ│уВдуГ│уГмуГГуГИ"
 
 #~ msgid "posix/America/Regina"
-#~ msgstr "posix/евесеъел/еье╕еуеде╩"
+#~ msgstr "posix/уВвуГбуГкуВл/уГмуВ╕уГгуВдуГК"
 
 #~ msgid "posix/America/Rosario"
-#~ msgstr "posix/евесеъел/еэе╡еъек"
+#~ msgstr "posix/уВвуГбуГкуВл/уГнуВ╡уГкуВк"
 
 #~ msgid "posix/America/Santiago"
-#~ msgstr "posix/евесеъел/е╡еєе╞егеве┤"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╡уГ│уГЖуВгуВвуВ┤"
 
 #~ msgid "posix/America/Santo_Domingo"
-#~ msgstr "posix/евесеъел/е╡еєе╚е╔е▀еєе┤"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╡уГ│уГИуГЙуГЯуГ│уВ┤"
 
 #~ msgid "posix/America/Sao_Paulo"
-#~ msgstr "posix/евесеъел/е╡еєе╤ежеэ"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╡уГ│уГСуВжуГн"
 
 #~ msgid "posix/America/Scoresbysund"
-#~ msgstr "posix/евесеъел/е╣е│еье╣е╨еде╡еєе╔"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╣уВ│уГмуВ╣уГРуВдуВ╡уГ│уГЙ"
 
 #~ msgid "posix/America/Shiprock"
-#~ msgstr "posix/евесеъел/е╖е├е╫еэе├еп"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╖уГГуГЧуГнуГГуВп"
 
 #~ msgid "posix/America/St_Johns"
-#~ msgstr "posix/евесеъел/е╗еєе╚е╕ечб╝еєе║"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╗уГ│уГИуВ╕уГзуГ╝уГ│уВ║"
 
 #~ msgid "posix/America/St_Kitts"
-#~ msgstr "posix/евесеъел/е╗еєе╚ене├е╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╗уГ│уГИуВнуГГуГИ"
 
 #~ msgid "posix/America/St_Lucia"
-#~ msgstr "posix/евесеъел/е╗еєе╚еыенев"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╗уГ│уГИуГлуВнуВв"
 
 #~ msgid "posix/America/St_Thomas"
-#~ msgstr "posix/евесеъел/е╗еєе╚е╚б╝е▐е╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╗уГ│уГИуГИуГ╝уГЮуВ╣"
 
 #~ msgid "posix/America/St_Vincent"
-#~ msgstr "posix/евесеъел/е╗еєе╚е╙еєе╗еєе╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╗уГ│уГИуГУуГ│уВ╗уГ│уГИ"
 
 #~ msgid "posix/America/Swift_Current"
-#~ msgstr "posix/евесеъел/е╣еде╒е╚елеьеєе╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╣уВдуГХуГИуВлуГмуГ│уГИ"
 
 #~ msgid "posix/America/Tegucigalpa"
-#~ msgstr "posix/евесеъел/е╞е░е╖емеые╤"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЖуВ░уВ╖уВмуГлуГС"
 
 #~ msgid "posix/America/Thule"
-#~ msgstr "posix/евесеъел/е┴ехб╝еь"
+#~ msgstr "posix/уВвуГбуГкуВл/уГБуГеуГ╝уГм"
 
 #~ msgid "posix/America/Thunder_Bay"
-#~ msgstr "posix/евесеъел/е╡еєе└б╝е┘ед"
+#~ msgstr "posix/уВвуГбуГкуВл/уВ╡уГ│уГАуГ╝уГЩуВд"
 
 #~ msgid "posix/America/Tijuana"
-#~ msgstr "posix/евесеъел/е╞еге╒ебе╩"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЖуВгуГХуВбуГК"
 
 #~ msgid "posix/America/Tortola"
-#~ msgstr "posix/евесеъел/е╚еые╚ещ"
+#~ msgstr "posix/уВвуГбуГкуВл/уГИуГлуГИуГй"
 
 #~ msgid "posix/America/Vancouver"
-#~ msgstr "posix/евесеъел/е╨еєепб╝е╨"
+#~ msgstr "posix/уВвуГбуГкуВл/уГРуГ│уВпуГ╝уГР"
 
 #~ msgid "posix/America/Virgin"
-#~ msgstr "posix/евесеъел/е╨б╝е╕еє"
+#~ msgstr "posix/уВвуГбуГкуВл/уГРуГ╝уВ╕уГ│"
 
 #~ msgid "posix/America/Whitehorse"
-#~ msgstr "posix/евесеъел/е█еяеде╚е█б╝е╣"
+#~ msgstr "posix/уВвуГбуГкуВл/уГЫуГпуВдуГИуГЫуГ╝уВ╣"
 
 #~ msgid "posix/America/Winnipeg"
-#~ msgstr "posix/евесеъел/ежеге╦е┌е░"
+#~ msgstr "posix/уВвуГбуГкуВл/уВжуВгуГЛуГЪуВ░"
 
 #~ msgid "posix/America/Yakutat"
-#~ msgstr "posix/евесеъел/ефепе┐е├е╚"
+#~ msgstr "posix/уВвуГбуГкуВл/уГдуВпуВ┐уГГуГИ"
 
 #~ msgid "posix/America/Yellowknife"
-#~ msgstr "posix/евесеъел/едеиеэб╝е╩еде╒"
+#~ msgstr "posix/уВвуГбуГкуВл/уВдуВиуГнуГ╝уГКуВдуГХ"
 
 #~ msgid "posix/Antarctica/Casey"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е▒б╝е╖б╝"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уВ▒уГ╝уВ╖уГ╝"
 
 #~ msgid "posix/Antarctica/Davis"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е╟б╝е╙е╣"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уГЗуГ╝уГУуВ╣"
 
 #~ msgid "posix/Antarctica/DumontDUrville"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е╔е▐еєе╔еъе╙еь"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уГЙуГЮуГ│уГЙуГкуГУуГм"
 
 #~ msgid "posix/Antarctica/Mawson"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/етб╝е╜еє"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уГвуГ╝уВ╜уГ│"
 
 #~ msgid "posix/Antarctica/McMurdo"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е▐е├епе▐б╝е╔"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уГЮуГГуВпуГЮуГ╝уГЙ"
 
 #~ msgid "posix/Antarctica/Palmer"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е╤еыесещ"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уГСуГлуГбуГй"
 
 #~ msgid "posix/Antarctica/South_Pole"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е╡еже╣е▌б╝еы"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уВ╡уВжуВ╣уГЭуГ╝уГл"
 
 #~ msgid "posix/Antarctica/Syowa"
-#~ msgstr "posix/╞ю╢╦┬ч╬ж/е╖ечб╝ея"
+#~ msgstr "posix/хНЧце╡хдзщЩ╕/уВ╖уГзуГ╝уГп"
 
 #~ msgid "posix/Arctic/Longyearbyen"
-#~ msgstr "posix/╦╠╢╦┬ч╬ж/еэеєе░ефб╝е╓еиеє"
+#~ msgstr "posix/хМЧце╡хдзщЩ╕/уГнуГ│уВ░уГдуГ╝уГЦуВиуГ│"
 
 #~ msgid "posix/Asia/Aden"
-#~ msgstr "posix/еве╕ев/еве╟еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуГЗуГ│"
 
 #~ msgid "posix/Asia/Almaty"
-#~ msgstr "posix/еве╕ев/евеые▐еъ"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуГлуГЮуГк"
 
 #~ msgid "posix/Asia/Amman"
-#~ msgstr "posix/еве╕ев/еве▐еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуГЮуГ│"
 
 #~ msgid "posix/Asia/Anadyr"
-#~ msgstr "posix/еве╕ев/еве╩е╔еъ"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуГКуГЙуГк"
 
 #~ msgid "posix/Asia/Aqtau"
-#~ msgstr "posix/еве╕ев/евепе╚б╝"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуВпуГИуГ╝"
 
 #~ msgid "posix/Asia/Aqtobe"
-#~ msgstr "posix/еве╕ев/евепе╚е┘"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуВпуГИуГЩ"
 
 #~ msgid "posix/Asia/Ashkhabad"
-#~ msgstr "posix/еве╕ев/еве╖еле╨е├е╔"
+#~ msgstr "posix/уВвуВ╕уВв/уВвуВ╖уВлуГРуГГуГЙ"
 
 #~ msgid "posix/Asia/Baghdad"
-#~ msgstr "posix/еве╕ев/е╨е░е└е├е╚"
+#~ msgstr "posix/уВвуВ╕уВв/уГРуВ░уГАуГГуГИ"
 
 #~ msgid "posix/Asia/Bahrain"
-#~ msgstr "posix/еве╕ев/е╨б╝еьб╝еє"
+#~ msgstr "posix/уВвуВ╕уВв/уГРуГ╝уГмуГ╝уГ│"
 
 #~ msgid "posix/Asia/Baku"
-#~ msgstr "posix/еве╕ев/е╨еп"
+#~ msgstr "posix/уВвуВ╕уВв/уГРуВп"
 
 #~ msgid "posix/Asia/Bangkok"
-#~ msgstr "posix/еве╕ев/е╨еєе│е├еп"
+#~ msgstr "posix/уВвуВ╕уВв/уГРуГ│уВ│уГГуВп"
 
 #~ msgid "posix/Asia/Beirut"
-#~ msgstr "posix/еве╕ев/е┘едеыб╝е╚"
+#~ msgstr "posix/уВвуВ╕уВв/уГЩуВдуГлуГ╝уГИ"
 
 #~ msgid "posix/Asia/Bishkek"
-#~ msgstr "posix/еве╕ев/е╙е╖ехе│е├"
+#~ msgstr "posix/уВвуВ╕уВв/уГУуВ╖уГеуВ│уГГ"
 
 #~ msgid "posix/Asia/Brunei"
-#~ msgstr "posix/еве╕ев/е╓еые═ед"
+#~ msgstr "posix/уВвуВ╕уВв/уГЦуГлуГНуВд"
 
 #~ msgid "posix/Asia/Calcutta"
-#~ msgstr "posix/еве╕ев/елеыеле├е┐"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуГлуВлуГГуВ┐"
 
 #~ msgid "posix/Asia/Chungking"
-#~ msgstr "posix/еве╕ев/╜┼╖─"
+#~ msgstr "posix/уВвуВ╕уВв/щЗНцЕ╢"
 
 #~ msgid "posix/Asia/Colombo"
-#~ msgstr "posix/еве╕ев/е│еэеєе▄"
+#~ msgstr "posix/уВвуВ╕уВв/уВ│уГнуГ│уГЬ"
 
 #~ msgid "posix/Asia/Dacca"
-#~ msgstr "posix/еве╕ев/е└е├ел"
+#~ msgstr "posix/уВвуВ╕уВв/уГАуГГуВл"
 
 #~ msgid "posix/Asia/Damascus"
-#~ msgstr "posix/еве╕ев/е└е▐е╣еле╣"
+#~ msgstr "posix/уВвуВ╕уВв/уГАуГЮуВ╣уВлуВ╣"
 
 #~ msgid "posix/Asia/Dili"
-#~ msgstr "posix/еве╕ев/е╟егеъ"
+#~ msgstr "posix/уВвуВ╕уВв/уГЗуВгуГк"
 
 #~ msgid "posix/Asia/Dubai"
-#~ msgstr "posix/еве╕ев/е╟ехе╨ед"
+#~ msgstr "posix/уВвуВ╕уВв/уГЗуГеуГРуВд"
 
 #~ msgid "posix/Asia/Dushanbe"
-#~ msgstr "posix/еве╕ев/е└е╣е╨е═"
+#~ msgstr "posix/уВвуВ╕уВв/уГАуВ╣уГРуГН"
 
 #~ msgid "posix/Asia/Gaza"
-#~ msgstr "posix/еве╕ев/еме╢"
+#~ msgstr "posix/уВвуВ╕уВв/уВмуВ╢"
 
 #~ msgid "posix/Asia/Harbin"
-#~ msgstr "posix/еве╕ев/е╧еые╙еє"
+#~ msgstr "posix/уВвуВ╕уВв/уГПуГлуГУуГ│"
 
 #~ msgid "posix/Asia/Hong_Kong"
-#~ msgstr "posix/еве╕ев/╣с╣┴"
+#~ msgstr "posix/уВвуВ╕уВв/щжЩц╕п"
 
 #~ msgid "posix/Asia/Hovd"
-#~ msgstr "posix/еве╕ев/Hovd"
+#~ msgstr "posix/уВвуВ╕уВв/Hovd"
 
 #~ msgid "posix/Asia/Irkutsk"
-#~ msgstr "posix/еве╕ев/едеыепе╣еп"
+#~ msgstr "posix/уВвуВ╕уВв/уВдуГлуВпуВ╣уВп"
 
 #~ msgid "posix/Asia/Istanbul"
-#~ msgstr "posix/еве╕ев/еде╣е┐еєе╓б╝еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 #~ msgid "posix/Asia/Jakarta"
-#~ msgstr "posix/еве╕ев/е╕еуелеые┐"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╕уГгуВлуГлуВ┐"
 
 #~ msgid "posix/Asia/Jayapura"
-#~ msgstr "posix/еве╕ев/е╕еуефе╫ещ"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╕уГгуГдуГЧуГй"
 
 #~ msgid "posix/Asia/Jerusalem"
-#~ msgstr "posix/еве╕ев/еиеые╡еьер"
+#~ msgstr "posix/уВвуВ╕уВв/уВиуГлуВ╡уГмуГа"
 
 #~ msgid "posix/Asia/Kabul"
-#~ msgstr "posix/еве╕ев/елб╝е╓еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуГ╝уГЦуГл"
 
 #~ msgid "posix/Asia/Kamchatka"
-#~ msgstr "posix/еве╕ев/елере┴еуе─ел"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуГауГБуГгуГДуВл"
 
 #~ msgid "posix/Asia/Karachi"
-#~ msgstr "posix/еве╕ев/елеще┴"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуГйуГБ"
 
 #~ msgid "posix/Asia/Kashgar"
-#~ msgstr "posix/еве╕ев/еле╖ехемеы"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуВ╖уГеуВмуГл"
 
 #~ msgid "posix/Asia/Katmandu"
-#~ msgstr "posix/еве╕ев/еле╚е▐еєе╔ееб╝"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуГИуГЮуГ│уГЙуВеуГ╝"
 
 #~ msgid "posix/Asia/Krasnoyarsk"
-#~ msgstr "posix/еве╕ев/епеще╬е╣ефеые╣еп"
+#~ msgstr "posix/уВвуВ╕уВв/уВпуГйуГОуВ╣уГдуГлуВ╣уВп"
 
 #~ msgid "posix/Asia/Kuala_Lumpur"
-#~ msgstr "posix/еве╕ев/епевещеєе╫б╝еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВпуВвуГйуГ│уГЧуГ╝уГл"
 
 #~ msgid "posix/Asia/Kuching"
-#~ msgstr "posix/еве╕ев/епе┴еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВпуГБуГ│"
 
 #~ msgid "posix/Asia/Kuwait"
-#~ msgstr "posix/еве╕ев/епежезб╝е╚"
+#~ msgstr "posix/уВвуВ╕уВв/уВпуВжуВзуГ╝уГИ"
 
 #~ msgid "posix/Asia/Macao"
-#~ msgstr "posix/еве╕ев/е▐елек"
+#~ msgstr "posix/уВвуВ╕уВв/уГЮуВлуВк"
 
 #~ msgid "posix/Asia/Magadan"
-#~ msgstr "posix/еве╕ев/е▐еме└еє"
+#~ msgstr "posix/уВвуВ╕уВв/уГЮуВмуГАуГ│"
 
 #~ msgid "posix/Asia/Manila"
-#~ msgstr "posix/еве╕ев/е▐е╦ещ"
+#~ msgstr "posix/уВвуВ╕уВв/уГЮуГЛуГй"
 
 #~ msgid "posix/Asia/Muscat"
-#~ msgstr "posix/еве╕ев/е▐е╣еле├е╚"
+#~ msgstr "posix/уВвуВ╕уВв/уГЮуВ╣уВлуГГуГИ"
 
 #~ msgid "posix/Asia/Nicosia"
-#~ msgstr "posix/еве╕ев/е╦е│е╖ев"
+#~ msgstr "posix/уВвуВ╕уВв/уГЛуВ│уВ╖уВв"
 
 #~ msgid "posix/Asia/Novosibirsk"
-#~ msgstr "posix/еве╕ев/е╬е▄е╖е╙еъе╣еп"
+#~ msgstr "posix/уВвуВ╕уВв/уГОуГЬуВ╖уГУуГкуВ╣уВп"
 
 #~ msgid "posix/Asia/Omsk"
-#~ msgstr "posix/еве╕ев/екере╣еп"
+#~ msgstr "posix/уВвуВ╕уВв/уВкуГауВ╣уВп"
 
 #~ msgid "posix/Asia/Phnom_Penh"
-#~ msgstr "posix/еве╕ев/е╫е╬еєе┌еє"
+#~ msgstr "posix/уВвуВ╕уВв/уГЧуГОуГ│уГЪуГ│"
 
 #~ msgid "posix/Asia/Pyongyang"
-#~ msgstr "posix/еве╕ев/е╘ечеєефеє"
+#~ msgstr "posix/уВвуВ╕уВв/уГФуГзуГ│уГдуГ│"
 
 #~ msgid "posix/Asia/Qatar"
-#~ msgstr "posix/еве╕ев/еле┐б╝еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВлуВ┐уГ╝уГл"
 
 #~ msgid "posix/Asia/Rangoon"
-#~ msgstr "posix/еве╕ев/еще░б╝еє"
+#~ msgstr "posix/уВвуВ╕уВв/уГйуВ░уГ╝уГ│"
 
 #~ msgid "posix/Asia/Riyadh"
-#~ msgstr "posix/еве╕ев/еъефб╝е╔"
+#~ msgstr "posix/уВвуВ╕уВв/уГкуГдуГ╝уГЙ"
 
 #~ msgid "posix/Asia/Riyadh87"
-#~ msgstr "posix/еве╕ев/еъефб╝е╔87"
+#~ msgstr "posix/уВвуВ╕уВв/уГкуГдуГ╝уГЙ87"
 
 #~ msgid "posix/Asia/Riyadh88"
-#~ msgstr "posix/еве╕ев/еъефб╝е╔88"
+#~ msgstr "posix/уВвуВ╕уВв/уГкуГдуГ╝уГЙ88"
 
 #~ msgid "posix/Asia/Riyadh89"
-#~ msgstr "posix/еве╕ев/еъефб╝е╔89"
+#~ msgstr "posix/уВвуВ╕уВв/уГкуГдуГ╝уГЙ89"
 
 #~ msgid "posix/Asia/Saigon"
-#~ msgstr "posix/еве╕ев/е╡еде┤еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╡уВдуВ┤уГ│"
 
 #~ msgid "posix/Asia/Samarkand"
-#~ msgstr "posix/еве╕ев/е╡е▐еыелеєе╔"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╡уГЮуГлуВлуГ│уГЙ"
 
 #~ msgid "posix/Asia/Seoul"
-#~ msgstr "posix/еве╕ев/е╜ежеы"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╜уВжуГл"
 
 #~ msgid "posix/Asia/Shanghai"
-#~ msgstr "posix/еве╕ев/╛х│д"
+#~ msgstr "posix/уВвуВ╕уВв/ф╕Кц╡╖"
 
 #~ msgid "posix/Asia/Singapore"
-#~ msgstr "posix/еве╕ев/е╖еєеме▌б╝еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╖уГ│уВмуГЭуГ╝уГл"
 
 #~ msgid "posix/Asia/Taipei"
-#~ msgstr "posix/еве╕ев/е┐еде┌ед"
+#~ msgstr "posix/уВвуВ╕уВв/уВ┐уВдуГЪуВд"
 
 #~ msgid "posix/Asia/Tashkent"
-#~ msgstr "posix/еве╕ев/е┐е╖ехе▒еєе╚"
+#~ msgstr "posix/уВвуВ╕уВв/уВ┐уВ╖уГеуВ▒уГ│уГИ"
 
 #~ msgid "posix/Asia/Tbilisi"
-#~ msgstr "posix/еве╕ев/е╚е╙еъе╖"
+#~ msgstr "posix/уВвуВ╕уВв/уГИуГУуГкуВ╖"
 
 #~ msgid "posix/Asia/Tehran"
-#~ msgstr "posix/еве╕ев/е╞е╪ещеє"
+#~ msgstr "posix/уВвуВ╕уВв/уГЖуГШуГйуГ│"
 
 #~ msgid "posix/Asia/Tel_Aviv"
-#~ msgstr "posix/еве╕ев/е╞еьеве╙е╙"
+#~ msgstr "posix/уВвуВ╕уВв/уГЖуГмуВвуГУуГУ"
 
 #~ msgid "posix/Asia/Thimbu"
-#~ msgstr "posix/еве╕ев/е╞егеєе╓б╝"
+#~ msgstr "posix/уВвуВ╕уВв/уГЖуВгуГ│уГЦуГ╝"
 
 #~ msgid "posix/Asia/Tokyo"
-#~ msgstr "posix/еве╕ев/┼ь╡■"
+#~ msgstr "posix/уВвуВ╕уВв/цЭ▒ф║м"
 
 #~ msgid "posix/Asia/Ujung_Pandang"
-#~ msgstr "posix/еве╕ев/еже╕ехеєе╨еєе└еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВжуВ╕уГеуГ│уГРуГ│уГАуГ│"
 
 #~ msgid "posix/Asia/Ulan_Bator"
-#~ msgstr "posix/еве╕ев/ежещеєе╨б╝е╚еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВжуГйуГ│уГРуГ╝уГИуГл"
 
 #~ msgid "posix/Asia/Ulaanbaatar"
-#~ msgstr "posix/еве╕ев/Ulaanbaatar"
+#~ msgstr "posix/уВвуВ╕уВв/Ulaanbaatar"
 
 #~ msgid "posix/Asia/Urumqi"
-#~ msgstr "posix/еве╕ев/ежеыере┴"
+#~ msgstr "posix/уВвуВ╕уВв/уВжуГлуГауГБ"
 
 #~ msgid "posix/Asia/Vientiane"
-#~ msgstr "posix/еве╕ев/е┘е╚е╩ер"
+#~ msgstr "posix/уВвуВ╕уВв/уГЩуГИуГКуГа"
 
 #~ msgid "posix/Asia/Vladivostok"
-#~ msgstr "posix/еве╕ев/ежеще╕еке╣е╚е├еп"
+#~ msgstr "posix/уВвуВ╕уВв/уВжуГйуВ╕уВкуВ╣уГИуГГуВп"
 
 #~ msgid "posix/Asia/Yakutsk"
-#~ msgstr "posix/еве╕ев/ефепб╝е─еп"
+#~ msgstr "posix/уВвуВ╕уВв/уГдуВпуГ╝уГДуВп"
 
 #~ msgid "posix/Asia/Yekaterinburg"
-#~ msgstr "posix/еве╕ев/еделе╞еиеъеєе╓еые░"
+#~ msgstr "posix/уВвуВ╕уВв/уВдуВлуГЖуВиуГкуГ│уГЦуГлуВ░"
 
 #~ msgid "posix/Asia/Yerevan"
-#~ msgstr "posix/еве╕ев/едеиеье╨еє"
+#~ msgstr "posix/уВвуВ╕уВв/уВдуВиуГмуГРуГ│"
 
 #~ msgid "posix/Atlantic/Azores"
-#~ msgstr "posix/┬ч└╛═╬/еве╛еье╣"
+#~ msgstr "posix/хдзше┐ц┤Л/уВвуВ╛уГмуВ╣"
 
 #~ msgid "posix/Atlantic/Bermuda"
-#~ msgstr "posix/┬ч└╛═╬/е┘еые╠б╝е└"
+#~ msgstr "posix/хдзше┐ц┤Л/уГЩуГлуГМуГ╝уГА"
 
 #~ msgid "posix/Atlantic/Canary"
-#~ msgstr "posix/┬ч└╛═╬/еле╩еъб╝"
+#~ msgstr "posix/хдзше┐ц┤Л/уВлуГКуГкуГ╝"
 
 #~ msgid "posix/Atlantic/Cape_Verde"
-#~ msgstr "posix/┬ч└╛═╬/е▒б╝е╫е┘еые╟"
+#~ msgstr "posix/хдзше┐ц┤Л/уВ▒уГ╝уГЧуГЩуГлуГЗ"
 
 #~ msgid "posix/Atlantic/Faeroe"
-#~ msgstr "posix/┬└╩┐═╬/е╒езеэб╝"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГХуВзуГнуГ╝"
 
 #~ msgid "posix/Atlantic/Jan_Mayen"
-#~ msgstr "posix/┬└╩┐═╬/ефеєе▐едеиеє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГдуГ│уГЮуВдуВиуГ│"
 
 #~ msgid "posix/Atlantic/Madeira"
-#~ msgstr "posix/┬└╩┐═╬/е▐е╟едещ"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЮуГЗуВдуГй"
 
 #~ msgid "posix/Atlantic/Reykjavik"
-#~ msgstr "posix/┬└╩┐═╬/еьеденеуе╙б╝еп"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГмуВдуВнуГгуГУуГ╝уВп"
 
 #~ msgid "posix/Atlantic/South_Georgia"
-#~ msgstr "posix/┬└╩┐═╬/е╡еже╣е╕ечб╝е╕ев"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╡уВжуВ╣уВ╕уГзуГ╝уВ╕уВв"
 
 #~ msgid "posix/Atlantic/Stanley"
-#~ msgstr "posix/┬└╩┐═╬/е╣е┐еєеьб╝"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╣уВ┐уГ│уГмуГ╝"
 
 #~ msgid "posix/Atlantic/St_Helena"
-#~ msgstr "posix/┬└╩┐═╬/е╗еєе╚е╪еье╩"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╗уГ│уГИуГШуГмуГК"
 
 #~ msgid "posix/Australia/ACT"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/ACT"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/ACT"
 
 #~ msgid "posix/Australia/Adelaide"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/еве╟еьб╝е╔"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уВвуГЗуГмуГ╝уГЙ"
 
 #~ msgid "posix/Australia/Brisbane"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/ACT"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/ACT"
 
 #~ msgid "posix/Australia/Broken_Hill"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е╓еэб╝епеєе╥еы"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГЦуГнуГ╝уВпуГ│уГТуГл"
 
 #~ msgid "posix/Australia/Canberra"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/енеуеєе┘ещ"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уВнуГгуГ│уГЩуГй"
 
 #~ msgid "posix/Australia/Darwin"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е└б╝ежегеє"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГАуГ╝уВжуВгуГ│"
 
 #~ msgid "posix/Australia/Hobart"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е█б╝е╨б╝е╚"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГЫуГ╝уГРуГ╝уГИ"
 
 #~ msgid "posix/Australia/LHI"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/LHI"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/LHI"
 
 #~ msgid "posix/Australia/Lindeman"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/еъеєе╟е▐еє"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГкуГ│уГЗуГЮуГ│"
 
 #~ msgid "posix/Australia/Lord_Howe"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/еэб╝е╔е╧еж"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГнуГ╝уГЙуГПуВж"
 
 #~ msgid "posix/Australia/Melbourne"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/есеые▄еыеє"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГбуГлуГЬуГлуГ│"
 
 #~ msgid "posix/Australia/North"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/╦╠╔Ї"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/хМЧщГи"
 
 #~ msgid "posix/Australia/NSW"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/NSW"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/NSW"
 
 #~ msgid "posix/Australia/Perth"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е╤б╝е╣"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГСуГ╝уВ╣"
 
 #~ msgid "posix/Australia/Queensland"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/епедб╝еєе║ещеєе╔"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уВпуВдуГ╝уГ│уВ║уГйуГ│уГЙ"
 
 #~ msgid "posix/Australia/South"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/╞ю╔Ї"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/хНЧщГи"
 
 #~ msgid "posix/Australia/Sydney"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е╖е╔е╦б╝"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уВ╖уГЙуГЛуГ╝"
 
 #~ msgid "posix/Australia/Tasmania"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е┐е╣е▐е╦ев"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уВ┐уВ╣уГЮуГЛуВв"
 
 #~ msgid "posix/Australia/Victoria"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/е╙епе╚еъев"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/уГУуВпуГИуГкуВв"
 
 #~ msgid "posix/Australia/West"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/└╛╔Ї"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/ше┐щГи"
 
 #~ msgid "posix/Australia/Yancowinna"
-#~ msgstr "posix/екб╝е╣е╚ещеъев/Yancowinna"
+#~ msgstr "posix/уВкуГ╝уВ╣уГИуГйуГкуВв/Yancowinna"
 
 #~ msgid "posix/Brazil/Acre"
-#~ msgstr "posix/е╓еще╕еы/евепеь"
+#~ msgstr "posix/уГЦуГйуВ╕уГл/уВвуВпуГм"
 
 #~ msgid "posix/Brazil/DeNoronha"
-#~ msgstr "posix/е╓еще╕еы/е╟е╬еэеєе╧"
+#~ msgstr "posix/уГЦуГйуВ╕уГл/уГЗуГОуГнуГ│уГП"
 
 #~ msgid "posix/Brazil/East"
-#~ msgstr "posix/е╓еще╕еы/┼ь╔Ї"
+#~ msgstr "posix/уГЦуГйуВ╕уГл/цЭ▒щГи"
 
 #~ msgid "posix/Brazil/West"
-#~ msgstr "posix/е╓еще╕еы/└╛╔Ї"
+#~ msgstr "posix/уГЦуГйуВ╕уГл/ше┐щГи"
 
 #~ msgid "posix/Canada/Atlantic"
-#~ msgstr "posix/еле╩е└/┬ч└╛═╬"
+#~ msgstr "posix/уВлуГКуГА/хдзше┐ц┤Л"
 
 #~ msgid "posix/Canada/Central"
-#~ msgstr "posix/еле╩е└/├ц╔Ї"
+#~ msgstr "posix/уВлуГКуГА/ф╕нщГи"
 
 #~ msgid "posix/Canada/Eastern"
-#~ msgstr "posix/еле╩е└/┼ь│д┤▀"
+#~ msgstr "posix/уВлуГКуГА/цЭ▒ц╡╖х▓╕"
 
 #~ msgid "posix/Canada/East-Saskatchewan"
-#~ msgstr "posix/еле╩е└/┼ье╡е╣еле┴ечеяеє"
+#~ msgstr "posix/уВлуГКуГА/цЭ▒уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 #~ msgid "posix/Canada/Mountain"
-#~ msgstr "posix/еле╩е└/╗│├╧"
+#~ msgstr "posix/уВлуГКуГА/х▒▒хЬ░"
 
 #~ msgid "posix/Canada/Newfoundland"
-#~ msgstr "posix/еле╩е└/е╦ехб╝е╒ебеєе╔ещеєе╔"
+#~ msgstr "posix/уВлуГКуГА/уГЛуГеуГ╝уГХуВбуГ│уГЙуГйуГ│уГЙ"
 
 #~ msgid "posix/Canada/Pacific"
-#~ msgstr "posix/еле╩е└/┬└╩┐═╬"
+#~ msgstr "posix/уВлуГКуГА/хдкх╣│ц┤Л"
 
 #~ msgid "posix/Canada/Saskatchewan"
-#~ msgstr "posix/еле╩е└/е╡е╣еле┴ечеяеє"
+#~ msgstr "posix/уВлуГКуГА/уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 #~ msgid "posix/Canada/Yukon"
-#~ msgstr "posix/еле╩е└/ецб╝е│еє"
+#~ msgstr "posix/уВлуГКуГА/уГжуГ╝уВ│уГ│"
 
 #~ msgid "posix/Chile/Continental"
-#~ msgstr "posix/е┴еъ/┬ч╬ж"
+#~ msgstr "posix/уГБуГк/хдзщЩ╕"
 
 #~ msgid "posix/Chile/EasterIsland"
-#~ msgstr "posix/е┴еъ/┼ь╜Ї┼ч"
+#~ msgstr "posix/уГБуГк/цЭ▒шл╕х│╢"
 
 #~ msgid "posix/CST6CDT"
 #~ msgstr "posix/CST6CDT"
 
 #~ msgid "posix/Cuba"
-#~ msgstr "posix/еве╕ев/е╟ехе╨ед"
+#~ msgstr "posix/уВвуВ╕уВв/уГЗуГеуГРуВд"
 
 #~ msgid "posix/Egypt"
-#~ msgstr "posix/еие╕е╫е╚"
+#~ msgstr "posix/уВиуВ╕уГЧуГИ"
 
 #~ msgid "posix/EST5EDT"
 #~ msgstr "posix/EST5EDT"
@@ -2591,13 +2594,13 @@ msgstr "Zulu"
 #~ msgstr "posix/Etc/GMT+9"
 
 #~ msgid "posix/Etc/Greenwich"
-#~ msgstr "posix/Etc/е░еъе╦е├е╕"
+#~ msgstr "posix/Etc/уВ░уГкуГЛуГГуВ╕"
 
 #~ msgid "posix/Etc/UCT"
 #~ msgstr "posix/Etc/UCT"
 
 #~ msgid "posix/Etc/Universal"
-#~ msgstr "posix/Etc/╣ё║▌"
+#~ msgstr "posix/Etc/хЫ╜щЪЫ"
 
 #~ msgid "posix/Etc/UTC"
 #~ msgstr "posix/Etc/UTC"
@@ -2606,160 +2609,160 @@ msgstr "Zulu"
 #~ msgstr "posix/Etc/Zulu"
 
 #~ msgid "posix/Europe/Amsterdam"
-#~ msgstr "posix/ешб╝еэе├е╤/евере╣е╞еые└ер"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВвуГауВ╣уГЖуГлуГАуГа"
 
 #~ msgid "posix/Europe/Andorra"
-#~ msgstr "posix/ешб╝еэе├е╤/евеєе╔ещ"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВвуГ│уГЙуГй"
 
 #~ msgid "posix/Europe/Athens"
-#~ msgstr "posix/ешб╝еэе├е╤/еве╞е═"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВвуГЖуГН"
 
 #~ msgid "posix/Europe/Belfast"
-#~ msgstr "posix/ешб╝еэе├е╤/е┘еые╒ебб╝е╣е╚"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЩуГлуГХуВбуГ╝уВ╣уГИ"
 
 #~ msgid "posix/Europe/Belgrade"
-#~ msgstr "posix/ешб╝еэе├е╤/е┘ейе░ещб╝е╔"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЩуВйуВ░уГйуГ╝уГЙ"
 
 #~ msgid "posix/Europe/Berlin"
-#~ msgstr "posix/ешб╝еэе├е╤/е┘еыеъеє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЩуГлуГкуГ│"
 
 #~ msgid "posix/Europe/Bratislava"
-#~ msgstr "posix/ешб╝еэе├е╤/е╓еще╞еге╣ещеЇеб"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЦуГйуГЖуВгуВ╣уГйуГ┤уВб"
 
 #~ msgid "posix/Europe/Brussels"
-#~ msgstr "posix/ешб╝еэе├е╤/е╓еъехе├е╗еы"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЦуГкуГеуГГуВ╗уГл"
 
 #~ msgid "posix/Europe/Bucharest"
-#~ msgstr "posix/ешб╝еэе├е╤/е╓елеье╣е╚"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЦуВлуГмуВ╣уГИ"
 
 #~ msgid "posix/Europe/Budapest"
-#~ msgstr "posix/е█б╝еэе├е╤/е╓е┐е┌е╣е╚"
+#~ msgstr "posix/уГЫуГ╝уГнуГГуГС/уГЦуВ┐уГЪуВ╣уГИ"
 
 #~ msgid "posix/Europe/Chisinau"
-#~ msgstr "posix/ешб╝еэе├е╤/епе╖еуе╚еъев"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВпуВ╖уГгуГИуГкуВв"
 
 #~ msgid "posix/Europe/Copenhagen"
-#~ msgstr "posix/ешб╝еэе├е╤/е│е┌еєе╧б╝е▓еє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ│уГЪуГ│уГПуГ╝уВ▓уГ│"
 
 #~ msgid "posix/Europe/Dublin"
-#~ msgstr "posix/ешб╝еэе├е╤/е└е╓еъеє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГАуГЦуГкуГ│"
 
 #~ msgid "posix/Europe/Gibraltar"
-#~ msgstr "posix/ешб╝еэе├е╤/е╕е╓ещеые┐еы"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╕уГЦуГйуГлуВ┐уГл"
 
 #~ msgid "posix/Europe/Helsinki"
-#~ msgstr "posix/ешб╝еэе├е╤/е╪еые╖еєен"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГШуГлуВ╖уГ│уВн"
 
 #~ msgid "posix/Europe/Istanbul"
-#~ msgstr "posix/ешб╝еэе├е╤/еде╣е┐еєе╓б╝еы"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 #~ msgid "posix/Europe/Kaliningrad"
-#~ msgstr "posix/ешб╝еэе├е╤/елеъб╝е╦еєе░ещб╝е╔"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВлуГкуГ╝уГЛуГ│уВ░уГйуГ╝уГЙ"
 
 #~ msgid "posix/Europe/Kiev"
-#~ msgstr "posix/ешб╝еэе├е╤/енеие╒"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВнуВиуГХ"
 
 #~ msgid "posix/Europe/Lisbon"
-#~ msgstr "posix/ешб╝еэе├е╤/еъе║е▄еє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГкуВ║уГЬуГ│"
 
 #~ msgid "posix/Europe/Ljubljana"
-#~ msgstr "posix/ешб╝еэе├е╤/еъехе╓еъефе╩"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГкуГеуГЦуГкуГдуГК"
 
 #~ msgid "posix/Europe/London"
-#~ msgstr "posix/ешб╝еэе├е╤/еэеєе╔еє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГнуГ│уГЙуГ│"
 
 #~ msgid "posix/Europe/Luxembourg"
-#~ msgstr "posix/ешб╝еэе├е╤/еыепе╗еєе╫еые░"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГлуВпуВ╗уГ│уГЧуГлуВ░"
 
 #~ msgid "posix/Europe/Madrid"
-#~ msgstr "posix/ешб╝еэе├е╤/е▐е╔еъе├е╔"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЮуГЙуГкуГГуГЙ"
 
 #~ msgid "posix/Europe/Malta"
-#~ msgstr "posix/ешб╝еэе├е╤/е▐еые┐"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЮуГлуВ┐"
 
 #~ msgid "posix/Europe/Minsk"
-#~ msgstr "posix/ешб╝еэе├е╤/е▀еєе╣еп"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЯуГ│уВ╣уВп"
 
 #~ msgid "posix/Europe/Monaco"
-#~ msgstr "posix/ешб╝еэе├е╤/ете╩е│"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГвуГКуВ│"
 
 #~ msgid "posix/Europe/Moscow"
-#~ msgstr "posix/ешб╝еэе├е╤/ете╣епея"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГвуВ╣уВпуГп"
 
 #~ msgid "posix/Europe/Oslo"
-#~ msgstr "posix/ешб╝еэе├е╤/еке╣еэ"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВкуВ╣уГн"
 
 #~ msgid "posix/Europe/Paris"
-#~ msgstr "posix/ешб╝еэе├е╤/е╤еъ"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГСуГк"
 
 #~ msgid "posix/Europe/Prague"
-#~ msgstr "posix/ешб╝еэе├е╤/е╫еще╧"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЧуГйуГП"
 
 #~ msgid "posix/Europe/Riga"
-#~ msgstr "posix/ешб╝еэе├е╤/еъем"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГкуВм"
 
 #~ msgid "posix/Europe/Rome"
-#~ msgstr "posix/ешб╝еэе├е╤/еэб╝е▐"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГнуГ╝уГЮ"
 
 #~ msgid "posix/Europe/Samara"
-#~ msgstr "posix/ешб╝еэе├е╤/е╡е▐ещ"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╡уГЮуГй"
 
 #~ msgid "posix/Europe/San_Marino"
-#~ msgstr "posix/ешб╝еэе├е╤/е╡еєе▐еъе╬"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╡уГ│уГЮуГкуГО"
 
 #~ msgid "posix/Europe/Sarajevo"
-#~ msgstr "posix/ешб╝еэе├е╤/е╡ещеие▄"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╡уГйуВиуГЬ"
 
 #~ msgid "posix/Europe/Simferopol"
-#~ msgstr "posix/ешб╝еэе├е╤/е╖ере╒езеэе▌еъ"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╖уГауГХуВзуГнуГЭуГк"
 
 #~ msgid "posix/Europe/Skopje"
-#~ msgstr "posix/ешб╝еэе├е╤/е╣е│е╫еъеи"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╣уВ│уГЧуГкуВи"
 
 #~ msgid "posix/Europe/Sofia"
-#~ msgstr "posix/ешб╝еэе├е╤/е╜е╒егев"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╜уГХуВгуВв"
 
 #~ msgid "posix/Europe/Stockholm"
-#~ msgstr "posix/ешб╝еэе├е╤/е╣е╚е├епе╒ейеыер"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╣уГИуГГуВпуГХуВйуГлуГа"
 
 #~ msgid "posix/Europe/Tallinn"
-#~ msgstr "posix/ешб╝еэе├е╤/е┐еъеє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ┐уГкуГ│"
 
 #~ msgid "posix/Europe/Tirane"
-#~ msgstr "posix/ешб╝еэе├е╤/е╞егеще═"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЖуВгуГйуГН"
 
 #~ msgid "posix/Europe/Tiraspol"
-#~ msgstr "posix/ешб╝еэе├е╤/е╞егеще╣е▌б╝еы"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЖуВгуГйуВ╣уГЭуГ╝уГл"
 
 #~ msgid "posix/Europe/Uzhgorod"
-#~ msgstr "posix/ешб╝еэе├е╤/еже║е┤еые╔"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВжуВ║уВ┤уГлуГЙ"
 
 #~ msgid "posix/Europe/Vaduz"
-#~ msgstr "posix/ешб╝еэе├е╤/е╓ебе╔ееб╝е║"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГЦуВбуГЙуВеуГ╝уВ║"
 
 #~ msgid "posix/Europe/Vatican"
-#~ msgstr "posix/ешб╝еэе├е╤/е╨е┴елеє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГРуГБуВлуГ│"
 
 #~ msgid "posix/Europe/Vienna"
-#~ msgstr "posix/ешб╝еэе├е╤/ежегб╝еє"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВжуВгуГ╝уГ│"
 
 #~ msgid "posix/Europe/Vilnius"
-#~ msgstr "posix/ешб╝еэе├е╤/е╙е╥еве╣"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГУуГТуВвуВ╣"
 
 #~ msgid "posix/Europe/Warsaw"
-#~ msgstr "posix/ешб╝еэе├е╤/еяеые╖еуея"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГпуГлуВ╖уГгуГп"
 
 #~ msgid "posix/Europe/Zagreb"
-#~ msgstr "posix/ешб╝еэе├е╤/е╢е░еье╓"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╢уВ░уГмуГЦ"
 
 #~ msgid "posix/Europe/Zaporozhye"
-#~ msgstr "posix/ешб╝еэе├е╤/е╢е▌еэб╝е╕ез"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уВ╢уГЭуГнуГ╝уВ╕уВз"
 
 #~ msgid "posix/Europe/Zurich"
-#~ msgstr "posix/ешб╝еэе├е╤/е┴ехб╝еъе├е╥"
+#~ msgstr "posix/уГиуГ╝уГнуГГуГС/уГБуГеуГ╝уГкуГГуГТ"
 
 #~ msgid "posix/Factory"
-#~ msgstr "posix/е╒ебепе╚еъ"
+#~ msgstr "posix/уГХуВбуВпуГИуГк"
 
 #~ msgid "posix/GB-Eire"
 #~ msgstr "posix/GB-Eire"
@@ -2771,79 +2774,79 @@ msgstr "Zulu"
 #~ msgstr "posix/GMT+0"
 
 #~ msgid "posix/Greenwich"
-#~ msgstr "posix/е░еъе╦е├е╕"
+#~ msgstr "posix/уВ░уГкуГЛуГГуВ╕"
 
 #~ msgid "posix/Hongkong"
-#~ msgstr "posix/╣с╣┴"
+#~ msgstr "posix/щжЩц╕п"
 
 #~ msgid "posix/Iceland"
-#~ msgstr "posix/еведе╣ещеєе╔"
+#~ msgstr "posix/уВвуВдуВ╣уГйуГ│уГЙ"
 
 #~ msgid "posix/Indian/Antananarivo"
-#~ msgstr "posix/едеєе╔═╬/евеєе┐еще╩еъеЇей"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВвуГ│уВ┐уГйуГКуГкуГ┤уВй"
 
 #~ msgid "posix/Indian/Chagos"
-#~ msgstr "posix/едеєе╔═╬/е╖еуе┤е╣"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВ╖уГгуВ┤уВ╣"
 
 #~ msgid "posix/Indian/Christmas"
-#~ msgstr "posix/едеєе╔═╬/епеъе╣е▐е╣"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВпуГкуВ╣уГЮуВ╣"
 
 #~ msgid "posix/Indian/Cocos"
-#~ msgstr "posix/едеєе╔═╬/е│е│е╣"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВ│уВ│уВ╣"
 
 #~ msgid "posix/Indian/Comoro"
-#~ msgstr "posix/едеєе╔═╬/е│етеэ"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВ│уГвуГн"
 
 #~ msgid "posix/Indian/Kerguelen"
-#~ msgstr "posix/едеєе╔═╬/епеые▓еьеє"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уВпуГлуВ▓уГмуГ│"
 
 #~ msgid "posix/Indian/Mahe"
-#~ msgstr "posix/едеєе╔═╬/е▐е╪б╝"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уГЮуГШуГ╝"
 
 #~ msgid "posix/Indian/Maldives"
-#~ msgstr "posix/едеєе╔═╬/етеые╕е╓"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уГвуГлуВ╕уГЦ"
 
 #~ msgid "posix/Indian/Mauritius"
-#~ msgstr "posix/едеєе╔═╬/етб╝еъе╖еуе╣"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уГвуГ╝уГкуВ╖уГгуВ╣"
 
 #~ msgid "posix/Indian/Mayotte"
-#~ msgstr "posix/едеєе╔═╬/е▐еше├е╚"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уГЮуГиуГГуГИ"
 
 #~ msgid "posix/Indian/Reunion"
-#~ msgstr "posix/едеєе╔═╬/еыеие╦екеє"
+#~ msgstr "posix/уВдуГ│уГЙц┤Л/уГлуВиуГЛуВкуГ│"
 
 #~ msgid "posix/Israel"
-#~ msgstr "posix/еде╣ещеиеы"
+#~ msgstr "posix/уВдуВ╣уГйуВиуГл"
 
 #~ msgid "posix/Jamaica"
-#~ msgstr "posix/е╕еуе▐едел"
+#~ msgstr "posix/уВ╕уГгуГЮуВдуВл"
 
 #~ msgid "posix/Japan"
-#~ msgstr "posix/╞№╦▄"
+#~ msgstr "posix/цЧецЬм"
 
 #~ msgid "posix/Kwajalein"
-#~ msgstr "posix/епеяе╕еуеъеє"
+#~ msgstr "posix/уВпуГпуВ╕уГгуГкуГ│"
 
 #~ msgid "posix/Libya"
-#~ msgstr "posix/еъе╙еф"
+#~ msgstr "posix/уГкуГУуГд"
 
 #~ msgid "posix/Mexico/BajaNorte"
-#~ msgstr "posix/есене╖е│/е╨е╕еуе╩еые╞"
+#~ msgstr "posix/уГбуВнуВ╖уВ│/уГРуВ╕уГгуГКуГлуГЖ"
 
 #~ msgid "posix/Mexico/BajaSur"
-#~ msgstr "posix/есене╖е│/е╨е╕еуе╡"
+#~ msgstr "posix/уГбуВнуВ╖уВ│/уГРуВ╕уГгуВ╡"
 
 #~ msgid "posix/Mexico/General"
-#~ msgstr "posix/есене╖е│/╔╕╜р"
+#~ msgstr "posix/уГбуВнуВ╖уВ│/циЩц║Ц"
 
 #~ msgid "posix/Mideast/Riyadh87"
-#~ msgstr "posix/├ц┼ь/Riyadh87"
+#~ msgstr "posix/ф╕нцЭ▒/Riyadh87"
 
 #~ msgid "posix/Mideast/Riyadh88"
-#~ msgstr "posix/├ц┼ь/Riyadh88"
+#~ msgstr "posix/ф╕нцЭ▒/Riyadh88"
 
 #~ msgid "posix/Mideast/Riyadh89"
-#~ msgstr "posix/├ц┼ь/Riyadh89"
+#~ msgstr "posix/ф╕нцЭ▒/Riyadh89"
 
 #~ msgid "posix/MST7MDT"
 #~ msgstr "posix/MST7MDT"
@@ -2855,136 +2858,136 @@ msgstr "Zulu"
 #~ msgstr "posix/NZ-CHAT"
 
 #~ msgid "posix/Pacific/Apia"
-#~ msgstr "posix/┬└╩┐═╬/еве╘ев"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВвуГФуВв"
 
 #~ msgid "posix/Pacific/Auckland"
-#~ msgstr "posix/┬└╩┐═╬/екб╝епещеєе╔"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВкуГ╝уВпуГйуГ│уГЙ"
 
 #~ msgid "posix/Pacific/Chatham"
-#~ msgstr "posix/┬└╩┐═╬/е╖еуе┐еє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╖уГгуВ┐уГ│"
 
 #~ msgid "posix/Pacific/Easter"
-#~ msgstr "posix/┬└╩┐═╬/едб╝е╣е┐б╝"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВдуГ╝уВ╣уВ┐уГ╝"
 
 #~ msgid "posix/Pacific/Efate"
-#~ msgstr "posix/┬└╩┐═╬/еие╒ебе╞ез"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВиуГХуВбуГЖуВз"
 
 #~ msgid "posix/Pacific/Enderbury"
-#~ msgstr "posix/┬└╩┐═╬/еиеєе└е┘еъ"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВиуГ│уГАуГЩуГк"
 
 #~ msgid "posix/Pacific/Fakaofo"
-#~ msgstr "posix/┬└╩┐═╬/е╒ебелеке╒ей"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГХуВбуВлуВкуГХуВй"
 
 #~ msgid "posix/Pacific/Fiji"
-#~ msgstr "posix/┬└╩┐═╬/е╒егб╝е╕б╝"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГХуВгуГ╝уВ╕уГ╝"
 
 #~ msgid "posix/Pacific/Funafuti"
-#~ msgstr "posix/┬└╩┐═╬/е╒е╩е╒е╞ег"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГХуГКуГХуГЖуВг"
 
 #~ msgid "posix/Pacific/Galapagos"
-#~ msgstr "posix/┬└╩┐═╬/елеще╤е┤е╣"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВлуГйуГСуВ┤уВ╣"
 
 #~ msgid "posix/Pacific/Gambier"
-#~ msgstr "posix/┬└╩┐═╬/емеєе╙б╝еы"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВмуГ│уГУуГ╝уГл"
 
 #~ msgid "posix/Pacific/Guadalcanal"
-#~ msgstr "posix/┬└╩┐═╬/е░евеєе└еыеле╩еы"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ░уВвуГ│уГАуГлуВлуГКуГл"
 
 #~ msgid "posix/Pacific/Guam"
-#~ msgstr "posix/┬└╩┐═╬/е░евер"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ░уВвуГа"
 
 #~ msgid "posix/Pacific/Honolulu"
-#~ msgstr "posix/┬└╩┐═╬/е█е╬еыеы"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЫуГОуГлуГл"
 
 #~ msgid "posix/Pacific/Johnston"
-#~ msgstr "posix/┬└╩┐═╬/е╕ечеєе╣е╚б╝еє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╕уГзуГ│уВ╣уГИуГ╝уГ│"
 
 #~ msgid "posix/Pacific/Kiritimati"
-#~ msgstr "posix/┬└╩┐═╬/енеъе╞еге▐е╞ег"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВнуГкуГЖуВгуГЮуГЖуВг"
 
 #~ msgid "posix/Pacific/Kosrae"
-#~ msgstr "posix/┬└╩┐═╬/е│е╣ещеи"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ│уВ╣уГйуВи"
 
 #~ msgid "posix/Pacific/Kwajalein"
-#~ msgstr "posix/┬└╩┐═╬/епеве╕еуеъеє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВпуВвуВ╕уГгуГкуГ│"
 
 #~ msgid "posix/Pacific/Majuro"
-#~ msgstr "posix/┬└╩┐═╬/е▐е╕ехеэ"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЮуВ╕уГеуГн"
 
 #~ msgid "posix/Pacific/Marquesas"
-#~ msgstr "posix/┬└╩┐═╬/е▐б╝епеде╣"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЮуГ╝уВпуВдуВ╣"
 
 #~ msgid "posix/Pacific/Midway"
-#~ msgstr "posix/┬└╩┐═╬/е▀е├е╔ежезед"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЯуГГуГЙуВжуВзуВд"
 
 #~ msgid "posix/Pacific/Nauru"
-#~ msgstr "posix/┬└╩┐═╬/е╩ежеы"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГКуВжуГл"
 
 #~ msgid "posix/Pacific/Niue"
-#~ msgstr "posix/┬└╩┐═╬/е╦ежеи"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЛуВжуВи"
 
 #~ msgid "posix/Pacific/Norfolk"
-#~ msgstr "posix/┬└╩┐═╬/е╬б╝е╒ейб╝еп"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГОуГ╝уГХуВйуГ╝уВп"
 
 #~ msgid "posix/Pacific/Noumea"
-#~ msgstr "posix/┬└╩┐═╬/е╠есев"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГМуГбуВв"
 
 #~ msgid "posix/Pacific/Pago_Pago"
-#~ msgstr "posix/┬└╩┐═╬/е╤е┤е╤е┤"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГСуВ┤уГСуВ┤"
 
 #~ msgid "posix/Pacific/Palau"
-#~ msgstr "posix/┬└╩┐═╬/е╤ещеж"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГСуГйуВж"
 
 #~ msgid "posix/Pacific/Pitcairn"
-#~ msgstr "posix/┬└╩┐═╬/е╘е╚е▒еыеє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГФуГИуВ▒уГлуГ│"
 
 #~ msgid "posix/Pacific/Ponape"
-#~ msgstr "posix/┬└╩┐═╬/е▌е╩е┌"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЭуГКуГЪ"
 
 #~ msgid "posix/Pacific/Port_Moresby"
-#~ msgstr "posix/┬└╩┐═╬/е▌б╝е╚етеєе╣е╙б╝"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГЭуГ╝уГИуГвуГ│уВ╣уГУуГ╝"
 
 #~ msgid "posix/Pacific/Rarotonga"
-#~ msgstr "posix/┬└╩┐═╬/ещеэе╚еєем"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГйуГнуГИуГ│уВм"
 
 #~ msgid "posix/Pacific/Saipan"
-#~ msgstr "posix/┬└╩┐═╬/е╡еде╤еє"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╡уВдуГСуГ│"
 
 #~ msgid "posix/Pacific/Samoa"
-#~ msgstr "posix/┬└╩┐═╬/е╡етев"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ╡уГвуВв"
 
 #~ msgid "posix/Pacific/Tahiti"
-#~ msgstr "posix/┬└╩┐═╬/е┐е╥е┴"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ┐уГТуГБ"
 
 #~ msgid "posix/Pacific/Tarawa"
-#~ msgstr "posix/┬└╩┐═╬/е┐ещея"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВ┐уГйуГп"
 
 #~ msgid "posix/Pacific/Tongatapu"
-#~ msgstr "posix/┬└╩┐═╬/е╚еєем"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГИуГ│уВм"
 
 #~ msgid "posix/Pacific/Truk"
-#~ msgstr "posix/┬└╩┐═╬/е╚еще├еп"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГИуГйуГГуВп"
 
 #~ msgid "posix/Pacific/Wake"
-#~ msgstr "posix/┬└╩┐═╬/ежезб╝еп"
+#~ msgstr "posix/хдкх╣│ц┤Л/уВжуВзуГ╝уВп"
 
 #~ msgid "posix/Pacific/Wallis"
-#~ msgstr "posix/┬└╩┐═╬/еЇебеъе╣"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГ┤уВбуГкуВ╣"
 
 #~ msgid "posix/Pacific/Yap"
-#~ msgstr "posix/┬└╩┐═╬/ефе├е╫"
+#~ msgstr "posix/хдкх╣│ц┤Л/уГдуГГуГЧ"
 
 #~ msgid "posix/Poland"
-#~ msgstr "posix/е▌б╝ещеєе╔"
+#~ msgstr "posix/уГЭуГ╝уГйуГ│уГЙ"
 
 #~ msgid "posix/Portugal"
-#~ msgstr "posix/е╫еые╚емеы"
+#~ msgstr "posix/уГЧуГлуГИуВмуГл"
 
 #~ msgid "posix/PST8PDT"
 #~ msgstr "posix/PST8PDT"
 
 #~ msgid "posix/Singapore"
-#~ msgstr "posix/еве╕ев/е╖еєеме▌б╝еы"
+#~ msgstr "posix/уВвуВ╕уВв/уВ╖уГ│уВмуГЭуГ╝уГл"
 
 #~ msgid "posix/SystemV/AST4"
 #~ msgstr "posix/SystemV/AST4"
@@ -3026,958 +3029,958 @@ msgstr "Zulu"
 #~ msgstr "posix/SystemV/YST9YDT"
 
 #~ msgid "posix/Turkey"
-#~ msgstr "posix/е╚еые│"
+#~ msgstr "posix/уГИуГлуВ│"
 
 #~ msgid "posix/Universal"
-#~ msgstr "posix/╣ё║▌╔╕╜р"
+#~ msgstr "posix/хЫ╜щЪЫциЩц║Ц"
 
 #~ msgid "posix/US/Alaska"
-#~ msgstr "posix/US/евеще╣ел"
+#~ msgstr "posix/US/уВвуГйуВ╣уВл"
 
 #~ msgid "posix/US/Aleutian"
-#~ msgstr "posix/US/евеыб╝е╖еуеє"
+#~ msgstr "posix/US/уВвуГлуГ╝уВ╖уГгуГ│"
 
 #~ msgid "posix/US/Arizona"
-#~ msgstr "posix/US/евеъе╛е╩"
+#~ msgstr "posix/US/уВвуГкуВ╛уГК"
 
 #~ msgid "posix/US/Central"
-#~ msgstr "posix/US/├ц╔Ї"
+#~ msgstr "posix/US/ф╕нщГи"
 
 #~ msgid "posix/US/Eastern"
-#~ msgstr "posix/US/┼ь╔Ї"
+#~ msgstr "posix/US/цЭ▒щГи"
 
 #~ msgid "posix/US/East-Indiana"
-#~ msgstr "posix/US/┼ьедеєе╟егеве╩"
+#~ msgstr "posix/US/цЭ▒уВдуГ│уГЗуВгуВвуГК"
 
 #~ msgid "posix/US/Hawaii"
-#~ msgstr "posix/US/е╧еяед"
+#~ msgstr "posix/US/уГПуГпуВд"
 
 #~ msgid "posix/US/Indiana-Starke"
-#~ msgstr "posix/US/едеєе╟егеве╩е╖езе┐еыеп"
+#~ msgstr "posix/US/уВдуГ│уГЗуВгуВвуГКуВ╖уВзуВ┐уГлуВп"
 
 #~ msgid "posix/US/Michigan"
-#~ msgstr "posix/US/е▀е╖емеє"
+#~ msgstr "posix/US/уГЯуВ╖уВмуГ│"
 
 #~ msgid "posix/US/Mountain"
-#~ msgstr "posix/US/╗│├╧"
+#~ msgstr "posix/US/х▒▒хЬ░"
 
 #~ msgid "posix/US/Pacific"
-#~ msgstr "posix/US/┬└╩┐═╬"
+#~ msgstr "posix/US/хдкх╣│ц┤Л"
 
 #~ msgid "posix/US/Samoa"
-#~ msgstr "posix/US/е╡етев"
+#~ msgstr "posix/US/уВ╡уГвуВв"
 
 #~ msgid "right/Africa/Abidjan"
-#~ msgstr "right/еве╒еъел/еве╙е╕еуеє"
+#~ msgstr "right/уВвуГХуГкуВл/уВвуГУуВ╕уГгуГ│"
 
 #~ msgid "right/Africa/Accra"
-#~ msgstr "right/еве╒еъел/евепещ"
+#~ msgstr "right/уВвуГХуГкуВл/уВвуВпуГй"
 
 #~ msgid "right/Africa/Addis_Ababa"
-#~ msgstr "right/еве╒еъел/еве╟еге╣еве┘е╨"
+#~ msgstr "right/уВвуГХуГкуВл/уВвуГЗуВгуВ╣уВвуГЩуГР"
 
 #~ msgid "right/Africa/Algiers"
-#~ msgstr "right/еве╒еъел/евеые╕езеъев"
+#~ msgstr "right/уВвуГХуГкуВл/уВвуГлуВ╕уВзуГкуВв"
 
 #~ msgid "right/Africa/Asmera"
-#~ msgstr "right/еве╒еъел/еве╣е▐ещ"
+#~ msgstr "right/уВвуГХуГкуВл/уВвуВ╣уГЮуГй"
 
 #~ msgid "right/Africa/Bamako"
-#~ msgstr "right/еве╒еъел/е╨е▐е│"
+#~ msgstr "right/уВвуГХуГкуВл/уГРуГЮуВ│"
 
 #~ msgid "right/Africa/Bangui"
-#~ msgstr "right/еве╒еъел/е╨еєео"
+#~ msgstr "right/уВвуГХуГкуВл/уГРуГ│уВо"
 
 #~ msgid "right/Africa/Banjul"
-#~ msgstr "right/еве╒еъел/е╨еєе╕ехб╝еы"
+#~ msgstr "right/уВвуГХуГкуВл/уГРуГ│уВ╕уГеуГ╝уГл"
 
 #~ msgid "right/Africa/Bissau"
-#~ msgstr "right/еве╒еъел/е╙е╡еж"
+#~ msgstr "right/уВвуГХуГкуВл/уГУуВ╡уВж"
 
 #~ msgid "right/Africa/Blantyre"
-#~ msgstr "right/еве╒еъел/е╓ещеєе┐едев"
+#~ msgstr "right/уВвуГХуГкуВл/уГЦуГйуГ│уВ┐уВдуВв"
 
 #~ msgid "right/Africa/Brazzaville"
-#~ msgstr "right/еве╒еъел/е╓еще╢е╙еы"
+#~ msgstr "right/уВвуГХуГкуВл/уГЦуГйуВ╢уГУуГл"
 
 #~ msgid "right/Africa/Bujumbura"
-#~ msgstr "right/еве╒еъел/е╓е╕ехеєе╓ещ"
+#~ msgstr "right/уВвуГХуГкуВл/уГЦуВ╕уГеуГ│уГЦуГй"
 
 #~ msgid "right/Africa/Cairo"
-#~ msgstr "right/еве╒еъел/еледеэ"
+#~ msgstr "right/уВвуГХуГкуВл/уВлуВдуГн"
 
 #~ msgid "right/Africa/Casablanca"
-#~ msgstr "right/еве╒еъел/еле╡е╓ещеєел"
+#~ msgstr "right/уВвуГХуГкуВл/уВлуВ╡уГЦуГйуГ│уВл"
 
 #~ msgid "right/Africa/Ceuta"
-#~ msgstr "right/еве╒еъел/е╗епе┐"
+#~ msgstr "right/уВвуГХуГкуВл/уВ╗уВпуВ┐"
 
 #~ msgid "right/Africa/Conakry"
-#~ msgstr "right/еве╒еъел/е│е╩епеъ"
+#~ msgstr "right/уВвуГХуГкуВл/уВ│уГКуВпуГк"
 
 #~ msgid "right/Africa/Dakar"
-#~ msgstr "right/еве╒еъел/е└епещ"
+#~ msgstr "right/уВвуГХуГкуВл/уГАуВпуГй"
 
 #~ msgid "right/Africa/Dar_es_Salaam"
-#~ msgstr "right/еве╒еъел/е└еые╦е╣е╢ещб╝ер"
+#~ msgstr "right/уВвуГХуГкуВл/уГАуГлуГЛуВ╣уВ╢уГйуГ╝уГа"
 
 #~ msgid "right/Africa/Djibouti"
-#~ msgstr "right/еве╒еъел/е╕е╓е╞ег"
+#~ msgstr "right/уВвуГХуГкуВл/уВ╕уГЦуГЖуВг"
 
 #~ msgid "right/Africa/Douala"
-#~ msgstr "right/еве╒еъел/е╔ееевб╝ещ"
+#~ msgstr "right/уВвуГХуГкуВл/уГЙуВеуВвуГ╝уГй"
 
 #~ msgid "right/Africa/El_Aaiun"
-#~ msgstr "right/еве╒еъел/еиеыеведежеє"
+#~ msgstr "right/уВвуГХуГкуВл/уВиуГлуВвуВдуВжуГ│"
 
 #~ msgid "right/Africa/Freetown"
-#~ msgstr "right/еве╒еъел/е╒еъб╝е┐ежеє"
+#~ msgstr "right/уВвуГХуГкуВл/уГХуГкуГ╝уВ┐уВжуГ│"
 
 #~ msgid "right/Africa/Gaborone"
-#~ msgstr "right/еве╒еъел/еме▄еэб╝е═"
+#~ msgstr "right/уВвуГХуГкуВл/уВмуГЬуГнуГ╝уГН"
 
 #~ msgid "right/Africa/Harare"
-#~ msgstr "right/еве╒еъел/е╧б╝ещеы"
+#~ msgstr "right/уВвуГХуГкуВл/уГПуГ╝уГйуГл"
 
 #~ msgid "right/Africa/Johannesburg"
-#~ msgstr "right/еве╒еъел/еше╧е═е╣е╓еыеп"
+#~ msgstr "right/уВвуГХуГкуВл/уГиуГПуГНуВ╣уГЦуГлуВп"
 
 #~ msgid "right/Africa/Kampala"
-#~ msgstr "right/еве╒еъел/елеєе╤ещ"
+#~ msgstr "right/уВвуГХуГкуВл/уВлуГ│уГСуГй"
 
 #~ msgid "right/Africa/Khartoum"
-#~ msgstr "right/еве╒еъел/е╧еые╚ееб╝еє"
+#~ msgstr "right/уВвуГХуГкуВл/уГПуГлуГИуВеуГ╝уГ│"
 
 #~ msgid "right/Africa/Kigali"
-#~ msgstr "right/еве╒еъел/енемеъ"
+#~ msgstr "right/уВвуГХуГкуВл/уВнуВмуГк"
 
 #~ msgid "right/Africa/Kinshasa"
-#~ msgstr "right/еве╒еъел/енеєе╖еуе╡"
+#~ msgstr "right/уВвуГХуГкуВл/уВнуГ│уВ╖уГгуВ╡"
 
 #~ msgid "right/Africa/Lagos"
-#~ msgstr "right/еве╒еъел/еще┤е╣"
+#~ msgstr "right/уВвуГХуГкуВл/уГйуВ┤уВ╣"
 
 #~ msgid "right/Africa/Libreville"
-#~ msgstr "right/еве╒еъел/еъб╝е╓еыеЇегеы"
+#~ msgstr "right/уВвуГХуГкуВл/уГкуГ╝уГЦуГлуГ┤уВгуГл"
 
 #~ msgid "right/Africa/Lome"
-#~ msgstr "right/еве╒еъел/еэес"
+#~ msgstr "right/уВвуГХуГкуВл/уГнуГб"
 
 #~ msgid "right/Africa/Luanda"
-#~ msgstr "right/еве╒еъел/еыевеєе└"
+#~ msgstr "right/уВвуГХуГкуВл/уГлуВвуГ│уГА"
 
 #~ msgid "right/Africa/Lubumbashi"
-#~ msgstr "right/еве╒еъел/еые╓еєе╨е╖"
+#~ msgstr "right/уВвуГХуГкуВл/уГлуГЦуГ│уГРуВ╖"
 
 #~ msgid "right/Africa/Lusaka"
-#~ msgstr "right/еве╒еъел/еые╡ел"
+#~ msgstr "right/уВвуГХуГкуВл/уГлуВ╡уВл"
 
 #~ msgid "right/Africa/Malabo"
-#~ msgstr "right/еве╒еъел/е▐еще▄"
+#~ msgstr "right/уВвуГХуГкуВл/уГЮуГйуГЬ"
 
 #~ msgid "right/Africa/Maputo"
-#~ msgstr "right/еве╒еъел/е▐е╫е╚"
+#~ msgstr "right/уВвуГХуГкуВл/уГЮуГЧуГИ"
 
 #~ msgid "right/Africa/Maseru"
-#~ msgstr "right/еве╒еъел/е▐е╗еы"
+#~ msgstr "right/уВвуГХуГкуВл/уГЮуВ╗уГл"
 
 #~ msgid "right/Africa/Mbabane"
-#~ msgstr "right/еве╒еъел/ере╨е╨ес"
+#~ msgstr "right/уВвуГХуГкуВл/уГауГРуГРуГб"
 
 #~ msgid "right/Africa/Mogadishu"
-#~ msgstr "right/еве╒еъел/етеме╟еге╖ек"
+#~ msgstr "right/уВвуГХуГкуВл/уГвуВмуГЗуВгуВ╖уВк"
 
 #~ msgid "right/Africa/Monrovia"
-#~ msgstr "right/еве╒еъел/етеєеэеЇегев"
+#~ msgstr "right/уВвуГХуГкуВл/уГвуГ│уГнуГ┤уВгуВв"
 
 #~ msgid "right/Africa/Nairobi"
-#~ msgstr "right/еве╒еъел/е╩едеэе╙"
+#~ msgstr "right/уВвуГХуГкуВл/уГКуВдуГнуГУ"
 
 #~ msgid "right/Africa/Ndjamena"
-#~ msgstr "right/еве╒еъел/е╠е╕еуесе╩"
+#~ msgstr "right/уВвуГХуГкуВл/уГМуВ╕уГгуГбуГК"
 
 #~ msgid "right/Africa/Niamey"
-#~ msgstr "right/еве╒еъел/е╦евесб╝"
+#~ msgstr "right/уВвуГХуГкуВл/уГЛуВвуГбуГ╝"
 
 #~ msgid "right/Africa/Nouakchott"
-#~ msgstr "right/еве╒еъел/е╠епеве╖ече├е╚"
+#~ msgstr "right/уВвуГХуГкуВл/уГМуВпуВвуВ╖уГзуГГуГИ"
 
 #~ msgid "right/Africa/Ouagadougou"
-#~ msgstr "right/еве╒еъел/еяеме╔еее░"
+#~ msgstr "right/уВвуГХуГкуВл/уГпуВмуГЙуВеуВ░"
 
 #~ msgid "right/Africa/Porto-Novo"
-#~ msgstr "right/еве╒еъел/е▌еые╚е╬еЇей"
+#~ msgstr "right/уВвуГХуГкуВл/уГЭуГлуГИуГОуГ┤уВй"
 
 #~ msgid "right/Africa/Sao_Tome"
-#~ msgstr "right/еве╒еъел/е╡еєе╚б╝ес"
+#~ msgstr "right/уВвуГХуГкуВл/уВ╡уГ│уГИуГ╝уГб"
 
 #~ msgid "right/Africa/Timbuktu"
-#~ msgstr "right/еве╒еъел/е╞егеєе╓епе╚ее"
+#~ msgstr "right/уВвуГХуГкуВл/уГЖуВгуГ│уГЦуВпуГИуВе"
 
 #~ msgid "right/Africa/Tripoli"
-#~ msgstr "right/еве╒еъел/е╚еъе▌еъ"
+#~ msgstr "right/уВвуГХуГкуВл/уГИуГкуГЭуГк"
 
 #~ msgid "right/Africa/Tunis"
-#~ msgstr "right/еве╒еъел/е┴ече╦е╣"
+#~ msgstr "right/уВвуГХуГкуВл/уГБуГзуГЛуВ╣"
 
 #~ msgid "right/Africa/Windhoek"
-#~ msgstr "right/еве╒еъел/еЇегеєе╚е╒б╝еп"
+#~ msgstr "right/уВвуГХуГкуВл/уГ┤уВгуГ│уГИуГХуГ╝уВп"
 
 #~ msgid "right/America/Adak"
-#~ msgstr "right/евесеъел/еве└е├еп"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГАуГГуВп"
 
 #~ msgid "right/America/Anchorage"
-#~ msgstr "right/евесеъел/евеєелеье├е╕"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГ│уВлуГмуГГуВ╕"
 
 #~ msgid "right/America/Anguilla"
-#~ msgstr "right/евесеъел/евеєе░егещ"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГ│уВ░уВгуГй"
 
 #~ msgid "right/America/Antigua"
-#~ msgstr "right/евесеъел/евеєе╞еге░ев"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГ│уГЖуВгуВ░уВв"
 
 #~ msgid "right/America/Araguaina"
-#~ msgstr "right/евесеъел/евеще░еведев"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГйуВ░уВвуВдуВв"
 
 #~ msgid "right/America/Aruba"
-#~ msgstr "right/евесеъел/евеыб╝е╨"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГлуГ╝уГР"
 
 #~ msgid "right/America/Asuncion"
-#~ msgstr "right/евесеъел/еве╣еєе╖екеє"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуВ╣уГ│уВ╖уВкуГ│"
 
 #~ msgid "right/America/Atka"
-#~ msgstr "right/евесеъел/еве╚ел"
+#~ msgstr "right/уВвуГбуГкуВл/уВвуГИуВл"
 
 #~ msgid "right/America/Barbados"
-#~ msgstr "right/евесеъел/е╨еые╨е╚е╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГРуГлуГРуГИуВ╣"
 
 #~ msgid "right/America/Belem"
-#~ msgstr "right/евесеъел/е┘еьеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЩуГмуГ│"
 
 #~ msgid "right/America/Belize"
-#~ msgstr "right/евесеъел/е┘еъб╝е║"
+#~ msgstr "right/уВвуГбуГкуВл/уГЩуГкуГ╝уВ║"
 
 #~ msgid "right/America/Boa_Vista"
-#~ msgstr "right/евесеъел/е▄евеЇеге╣е┐"
+#~ msgstr "right/уВвуГбуГкуВл/уГЬуВвуГ┤уВгуВ╣уВ┐"
 
 #~ msgid "right/America/Bogota"
-#~ msgstr "right/евесеъел/е▄е┤е┐"
+#~ msgstr "right/уВвуГбуГкуВл/уГЬуВ┤уВ┐"
 
 #~ msgid "right/America/Boise"
-#~ msgstr "right/евесеъел/е▄еде╖"
+#~ msgstr "right/уВвуГбуГкуВл/уГЬуВдуВ╖"
 
 #~ msgid "right/America/Buenos_Aires"
-#~ msgstr "right/евесеъел/е╓еие╬е╣еведеье╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГЦуВиуГОуВ╣уВвуВдуГмуВ╣"
 
 #~ msgid "right/America/Cambridge_Bay"
-#~ msgstr "right/евесеъел/е▒еєе╓еъе├е╕е┘ед"
+#~ msgstr "right/уВвуГбуГкуВл/уВ▒уГ│уГЦуГкуГГуВ╕уГЩуВд"
 
 #~ msgid "right/America/Cancun"
-#~ msgstr "right/евесеъел/елеєелеє"
+#~ msgstr "right/уВвуГбуГкуВл/уВлуГ│уВлуГ│"
 
 #~ msgid "right/America/Caracas"
-#~ msgstr "right/евесеъел/елещеле╣"
+#~ msgstr "right/уВвуГбуГкуВл/уВлуГйуВлуВ╣"
 
 #~ msgid "right/America/Catamarca"
-#~ msgstr "right/евесеъел/еле┐е▐еыел"
+#~ msgstr "right/уВвуГбуГкуВл/уВлуВ┐уГЮуГлуВл"
 
 #~ msgid "right/America/Cayenne"
-#~ msgstr "right/евесеъел/еледе╦еєе╠"
+#~ msgstr "right/уВвуГбуГкуВл/уВлуВдуГЛуГ│уГМ"
 
 #~ msgid "right/America/Cayman"
-#~ msgstr "right/евесеъел/е▒еде▐еє"
+#~ msgstr "right/уВвуГбуГкуВл/уВ▒уВдуГЮуГ│"
 
 #~ msgid "right/America/Chicago"
-#~ msgstr "right/евесеъел/е╖еле┤"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╖уВлуВ┤"
 
 #~ msgid "right/America/Chihuahua"
-#~ msgstr "right/евесеъел/е┴еяея"
+#~ msgstr "right/уВвуГбуГкуВл/уГБуГпуГп"
 
 #~ msgid "right/America/Cordoba"
-#~ msgstr "right/евесеъел/е│еые╔е╨"
+#~ msgstr "right/уВвуГбуГкуВл/уВ│уГлуГЙуГР"
 
 #~ msgid "right/America/Costa_Rica"
-#~ msgstr "right/евесеъел/е│е╣е┐еъел"
+#~ msgstr "right/уВвуГбуГкуВл/уВ│уВ╣уВ┐уГкуВл"
 
 #~ msgid "right/America/Cuiaba"
-#~ msgstr "right/евесеъел/епефе╨"
+#~ msgstr "right/уВвуГбуГкуВл/уВпуГдуГР"
 
 #~ msgid "right/America/Curacao"
-#~ msgstr "right/евесеъел/енехеще╜б╝"
+#~ msgstr "right/уВвуГбуГкуВл/уВнуГеуГйуВ╜уГ╝"
 
 #~ msgid "right/America/Dawson"
-#~ msgstr "right/евесеъел/е╔б╝е╜еє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│"
 
 #~ msgid "right/America/Dawson_Creek"
-#~ msgstr "right/евесеъел/е╔б╝е╜еєепеъб╝еп"
+#~ msgstr "right/уВвуГбуГкуВл/уГЙуГ╝уВ╜уГ│уВпуГкуГ╝уВп"
 
 #~ msgid "right/America/Denver"
-#~ msgstr "right/евесеъел/е╟еєе╨б╝"
+#~ msgstr "right/уВвуГбуГкуВл/уГЗуГ│уГРуГ╝"
 
 #~ msgid "right/America/Detroit"
-#~ msgstr "right/евесеъел/е╟е╚еэеде╚"
+#~ msgstr "right/уВвуГбуГкуВл/уГЗуГИуГнуВдуГИ"
 
 #~ msgid "right/America/Dominica"
-#~ msgstr "right/евесеъел/е╔е▀е╦ел"
+#~ msgstr "right/уВвуГбуГкуВл/уГЙуГЯуГЛуВл"
 
 #~ msgid "right/America/Edmonton"
-#~ msgstr "right/евесеъел/еие╔етеєе╚еє"
+#~ msgstr "right/уВвуГбуГкуВл/уВиуГЙуГвуГ│уГИуГ│"
 
 #~ msgid "right/America/El_Salvador"
-#~ msgstr "right/евесеъел/еиеые╡еые╨е╔еь"
+#~ msgstr "right/уВвуГбуГкуВл/уВиуГлуВ╡уГлуГРуГЙуГм"
 
 #~ msgid "right/America/Ensenada"
-#~ msgstr "right/евесеъел/еиеєе╗еєе└"
+#~ msgstr "right/уВвуГбуГкуВл/уВиуГ│уВ╗уГ│уГА"
 
 #~ msgid "right/America/Fortaleza"
-#~ msgstr "right/евесеъел/е╒ейеые┐еье╢"
+#~ msgstr "right/уВвуГбуГкуВл/уГХуВйуГлуВ┐уГмуВ╢"
 
 #~ msgid "right/America/Fort_Wayne"
-#~ msgstr "right/евесеъел/е╒ейб╝е╚ежезедеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГХуВйуГ╝уГИуВжуВзуВдуГ│"
 
 #~ msgid "right/America/Glace_Bay"
-#~ msgstr "right/евесеъел/е░еьб╝е╣е┘ед"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уГмуГ╝уВ╣уГЩуВд"
 
 #~ msgid "right/America/Godthab"
-#~ msgstr "right/евесеъел/е┤е├е╔е█б╝е╓"
+#~ msgstr "right/уВвуГбуГкуВл/уВ┤уГГуГЙуГЫуГ╝уГЦ"
 
 #~ msgid "right/America/Goose_Bay"
-#~ msgstr "right/евесеъел/е░б╝е╣е┘ед"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уГ╝уВ╣уГЩуВд"
 
 #~ msgid "right/America/Grand_Turk"
-#~ msgstr "right/евесеъел/е░ещеєе╔е┐б╝еп"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уГйуГ│уГЙуВ┐уГ╝уВп"
 
 #~ msgid "right/America/Grenada"
-#~ msgstr "right/евесеъел/е░еье╩е└"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уГмуГКуГА"
 
 #~ msgid "right/America/Guadeloupe"
-#~ msgstr "right/евесеъел/е░еве╔еыб╝е╫"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уВвуГЙуГлуГ╝уГЧ"
 
 #~ msgid "right/America/Guatemala"
-#~ msgstr "right/евесеъел/е░еве╞е▐ещ"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уВвуГЖуГЮуГй"
 
 #~ msgid "right/America/Guayaquil"
-#~ msgstr "right/евесеъел/е░евефенеы"
+#~ msgstr "right/уВвуГбуГкуВл/уВ░уВвуГдуВнуГл"
 
 #~ msgid "right/America/Guyana"
-#~ msgstr "right/евесеъел/емедеве╩"
+#~ msgstr "right/уВвуГбуГкуВл/уВмуВдуВвуГК"
 
 #~ msgid "right/America/Halifax"
-#~ msgstr "right/евесеъел/е╧еъе╒ебе├епе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГПуГкуГХуВбуГГуВпуВ╣"
 
 #~ msgid "right/America/Havana"
-#~ msgstr "right/евесеъел/е╧е╨е╩"
+#~ msgstr "right/уВвуГбуГкуВл/уГПуГРуГК"
 
 #~ msgid "right/America/Hermosillo"
-#~ msgstr "right/евесеъел/еиеыете╦е╖еч"
+#~ msgstr "right/уВвуГбуГкуВл/уВиуГлуГвуГЛуВ╖уГз"
 
 #~ msgid "right/America/Indiana/Indianapolis"
-#~ msgstr "right/евесеъел/едеєе╟егеве╩/едеєе╟егеве╩е▌еъе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 #~ msgid "right/America/Indiana/Knox"
-#~ msgstr "right/евесеъел/едеєе╟егеве╩/е╬е├епе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГОуГГуВпуВ╣"
 
 #~ msgid "right/America/Indiana/Marengo"
-#~ msgstr "right/евесеъел/едеєе╟егеве╩/е▐еьеєе┤"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЮуГмуГ│уВ┤"
 
 #~ msgid "right/America/Indianapolis"
-#~ msgstr "right/евесеъел/едеєе╟егеве╩е▌еъе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГКуГЭуГкуВ╣"
 
 #~ msgid "right/America/Indiana/Vevay"
-#~ msgstr "right/евесеъел/едеєе╟егеве╩/е┘е┘ед"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГЗуВгуВвуГК/уГЩуГЩуВд"
 
 #~ msgid "right/America/Inuvik"
-#~ msgstr "right/евесеъел/едеєе╙е├еп"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуГ│уГУуГГуВп"
 
 #~ msgid "right/America/Iqaluit"
-#~ msgstr "right/евесеъел/еденеые╚"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуВнуГлуГИ"
 
 #~ msgid "right/America/Jamaica"
-#~ msgstr "right/евесеъел/е╕еуе▐едел"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╕уГгуГЮуВдуВл"
 
 #~ msgid "right/America/Jujuy"
-#~ msgstr "right/евесеъел/е╕ехе╕ех"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╕уГеуВ╕уГе"
 
 #~ msgid "right/America/Juneau"
-#~ msgstr "right/евесеъел/е╕ехе╬б╝"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╕уГеуГОуГ╝"
 
 #~ msgid "right/America/Knox_IN"
-#~ msgstr "right/евесеъел/е╬е├епе╣едеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГОуГГуВпуВ╣уВдуГ│"
 
 #~ msgid "right/America/La_Paz"
-#~ msgstr "right/евесеъел/еще╨е╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГйуГРуВ╣"
 
 #~ msgid "right/America/Lima"
-#~ msgstr "right/евесеъел/еъе▐"
+#~ msgstr "right/уВвуГбуГкуВл/уГкуГЮ"
 
 #~ msgid "right/America/Los_Angeles"
-#~ msgstr "right/евесеъел/еэе╡еєе╝еые╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГнуВ╡уГ│уВ╝уГлуВ╣"
 
 #~ msgid "right/America/Louisville"
-#~ msgstr "right/евесеъел/еыб╝едеЇезеы"
+#~ msgstr "right/уВвуГбуГкуВл/уГлуГ╝уВдуГ┤уВзуГл"
 
 #~ msgid "right/America/Maceio"
-#~ msgstr "right/евесеъел/е▐е╗едек"
+#~ msgstr "right/уВвуГбуГкуВл/уГЮуВ╗уВдуВк"
 
 #~ msgid "right/America/Managua"
-#~ msgstr "right/евесеъел/е▐е╩е░ев"
+#~ msgstr "right/уВвуГбуГкуВл/уГЮуГКуВ░уВв"
 
 #~ msgid "right/America/Manaus"
-#~ msgstr "right/евесеъел/е▐е╩е├е╡е╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГЮуГКуГГуВ╡уВ╣"
 
 #~ msgid "right/America/Martinique"
-#~ msgstr "right/евесеъел/е▐еые╞егб╝е╬"
+#~ msgstr "right/уВвуГбуГкуВл/уГЮуГлуГЖуВгуГ╝уГО"
 
 #~ msgid "right/America/Mazatlan"
-#~ msgstr "right/евесеъел/е▐е╡е╚ещеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЮуВ╡уГИуГйуГ│"
 
 #~ msgid "right/America/Mendoza"
-#~ msgstr "right/евесеъел/есеєе╔е╡"
+#~ msgstr "right/уВвуГбуГкуВл/уГбуГ│уГЙуВ╡"
 
 #~ msgid "right/America/Menominee"
-#~ msgstr "right/евесеъел/есе╬е▀е╦б╝"
+#~ msgstr "right/уВвуГбуГкуВл/уГбуГОуГЯуГЛуГ╝"
 
 #~ msgid "right/America/Merida"
-#~ msgstr "right/евесеъел/есеєе╔е╡"
+#~ msgstr "right/уВвуГбуГкуВл/уГбуГ│уГЙуВ╡"
 
 #~ msgid "right/America/Mexico_City"
-#~ msgstr "right/евесеъел/есене╖е│е╖е╞ег"
+#~ msgstr "right/уВвуГбуГкуВл/уГбуВнуВ╖уВ│уВ╖уГЖуВг"
 
 #~ msgid "right/America/Miquelon"
-#~ msgstr "right/евесеъел/е▀епеэеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЯуВпуГнуГ│"
 
 #~ msgid "right/America/Monterrey"
-#~ msgstr "right/евесеъел/етеєе╚е╗еще╚"
+#~ msgstr "right/уВвуГбуГкуВл/уГвуГ│уГИуВ╗уГйуГИ"
 
 #~ msgid "right/America/Montevideo"
-#~ msgstr "right/евесеъел/етеєе╞е╙е╟ек"
+#~ msgstr "right/уВвуГбуГкуВл/уГвуГ│уГЖуГУуГЗуВк"
 
 #~ msgid "right/America/Montreal"
-#~ msgstr "right/евесеъел/етеєе╚еъекб╝еы"
+#~ msgstr "right/уВвуГбуГкуВл/уГвуГ│уГИуГкуВкуГ╝уГл"
 
 #~ msgid "right/America/Montserrat"
-#~ msgstr "right/евесеъел/етеєе╚е╗еще╚"
+#~ msgstr "right/уВвуГбуГкуВл/уГвуГ│уГИуВ╗уГйуГИ"
 
 #~ msgid "right/America/Nassau"
-#~ msgstr "right/евесеъел/е╩е├е╡еж"
+#~ msgstr "right/уВвуГбуГкуВл/уГКуГГуВ╡уВж"
 
 #~ msgid "right/America/New_York"
-#~ msgstr "right/евесеъел/е╦ехб╝ешб╝еп"
+#~ msgstr "right/уВвуГбуГкуВл/уГЛуГеуГ╝уГиуГ╝уВп"
 
 #~ msgid "right/America/Nipigon"
-#~ msgstr "right/евесеъел/е╦е╘е┤еє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЛуГФуВ┤уГ│"
 
 #~ msgid "right/America/Nome"
-#~ msgstr "right/евесеъел/е╬б╝ер"
+#~ msgstr "right/уВвуГбуГкуВл/уГОуГ╝уГа"
 
 #~ msgid "right/America/Noronha"
-#~ msgstr "right/евесеъел/е╬еэе╧"
+#~ msgstr "right/уВвуГбуГкуВл/уГОуГнуГП"
 
 #~ msgid "right/America/Panama"
-#~ msgstr "right/евесеъел/е╤е╩е▐"
+#~ msgstr "right/уВвуГбуГкуВл/уГСуГКуГЮ"
 
 #~ msgid "right/America/Pangnirtung"
-#~ msgstr "right/евесеъел/е╤еєе░е╦е┐еє"
+#~ msgstr "right/уВвуГбуГкуВл/уГСуГ│уВ░уГЛуВ┐уГ│"
 
 #~ msgid "right/America/Paramaribo"
-#~ msgstr "right/евесеъел/е╤еще▐еъе▄"
+#~ msgstr "right/уВвуГбуГкуВл/уГСуГйуГЮуГкуГЬ"
 
 #~ msgid "right/America/Phoenix"
-#~ msgstr "right/евесеъел/е╒езе╦е├епе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГХуВзуГЛуГГуВпуВ╣"
 
 #~ msgid "right/America/Port-au-Prince"
-#~ msgstr "right/евесеъел/е▌еые╚е╫ещеєе╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГЭуГлуГИуГЧуГйуГ│уВ╣"
 
 #~ msgid "right/America/Porto_Acre"
-#~ msgstr "right/евесеъел/е▌еые╚евепеь"
+#~ msgstr "right/уВвуГбуГкуВл/уГЭуГлуГИуВвуВпуГм"
 
 #~ msgid "right/America/Port_of_Spain"
-#~ msgstr "right/евесеъел/е▌еые╚еке╓е╣е┌едеє"
+#~ msgstr "right/уВвуГбуГкуВл/уГЭуГлуГИуВкуГЦуВ╣уГЪуВдуГ│"
 
 #~ msgid "right/America/Porto_Velho"
-#~ msgstr "right/евесеъел/е▌еые╚е┘еэб╝"
+#~ msgstr "right/уВвуГбуГкуВл/уГЭуГлуГИуГЩуГнуГ╝"
 
 #~ msgid "right/America/Puerto_Rico"
-#~ msgstr "right/евесеъел/е╫еиеые╚еые│"
+#~ msgstr "right/уВвуГбуГкуВл/уГЧуВиуГлуГИуГлуВ│"
 
 #~ msgid "right/America/Rainy_River"
-#~ msgstr "right/евесеъел/еьеде╦б╝еъе╨б╝"
+#~ msgstr "right/уВвуГбуГкуВл/уГмуВдуГЛуГ╝уГкуГРуГ╝"
 
 #~ msgid "right/America/Rankin_Inlet"
-#~ msgstr "right/евесеъел/ещеєенеєедеєеье├е╚"
+#~ msgstr "right/уВвуГбуГкуВл/уГйуГ│уВнуГ│уВдуГ│уГмуГГуГИ"
 
 #~ msgid "right/America/Regina"
-#~ msgstr "right/евесеъел/еье╕еуеде╩"
+#~ msgstr "right/уВвуГбуГкуВл/уГмуВ╕уГгуВдуГК"
 
 #~ msgid "right/America/Rosario"
-#~ msgstr "right/евесеъел/еэе╡еъек"
+#~ msgstr "right/уВвуГбуГкуВл/уГнуВ╡уГкуВк"
 
 #~ msgid "right/America/Santiago"
-#~ msgstr "right/евесеъел/е╡еєе╞егеве┤"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╡уГ│уГЖуВгуВвуВ┤"
 
 #~ msgid "right/America/Santo_Domingo"
-#~ msgstr "right/евесеъел/е╡еєе╚е╔е▀еєе┤"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╡уГ│уГИуГЙуГЯуГ│уВ┤"
 
 #~ msgid "right/America/Sao_Paulo"
-#~ msgstr "right/евесеъел/е╡еєе╤ежеэ"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╡уГ│уГСуВжуГн"
 
 #~ msgid "right/America/Scoresbysund"
-#~ msgstr "right/евесеъел/е╣е│еье╣е╨еде╡еєе╔"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╣уВ│уГмуВ╣уГРуВдуВ╡уГ│уГЙ"
 
 #~ msgid "right/America/Shiprock"
-#~ msgstr "right/евесеъел/е╖е├е╫еэе├еп"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╖уГГуГЧуГнуГГуВп"
 
 #~ msgid "right/America/St_Johns"
-#~ msgstr "right/евесеъел/е╗еєе╚е╕ечб╝еєе║"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╗уГ│уГИуВ╕уГзуГ╝уГ│уВ║"
 
 #~ msgid "right/America/St_Kitts"
-#~ msgstr "right/евесеъел/е╗еєе╚ене├е╚"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╗уГ│уГИуВнуГГуГИ"
 
 #~ msgid "right/America/St_Lucia"
-#~ msgstr "right/евесеъел/е╗еєе╚еыенев"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╗уГ│уГИуГлуВнуВв"
 
 #~ msgid "right/America/St_Thomas"
-#~ msgstr "right/евесеъел/е╗еєе╚е╚б╝е▐е╣"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╗уГ│уГИуГИуГ╝уГЮуВ╣"
 
 #~ msgid "right/America/St_Vincent"
-#~ msgstr "right/евесеъел/е╗еєе╚е╙еєе╗еєе╚"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╗уГ│уГИуГУуГ│уВ╗уГ│уГИ"
 
 #~ msgid "right/America/Swift_Current"
-#~ msgstr "right/евесеъел/е╣еде╒е╚елеьеєе╚"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╣уВдуГХуГИуВлуГмуГ│уГИ"
 
 #~ msgid "right/America/Tegucigalpa"
-#~ msgstr "right/евесеъел/е╞е░е╖емеые╤"
+#~ msgstr "right/уВвуГбуГкуВл/уГЖуВ░уВ╖уВмуГлуГС"
 
 #~ msgid "right/America/Thule"
-#~ msgstr "right/евесеъел/е┴ехб╝еь"
+#~ msgstr "right/уВвуГбуГкуВл/уГБуГеуГ╝уГм"
 
 #~ msgid "right/America/Thunder_Bay"
-#~ msgstr "right/евесеъел/е╡еєе└б╝е┘ед"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╡уГ│уГАуГ╝уГЩуВд"
 
 #~ msgid "right/America/Tijuana"
-#~ msgstr "right/евесеъел/е╞еге╒ебе╩"
+#~ msgstr "right/уВвуГбуГкуВл/уГЖуВгуГХуВбуГК"
 
 #~ msgid "right/America/Tortola"
-#~ msgstr "right/евесеъел/е╚еые╚ещ"
+#~ msgstr "right/уВвуГбуГкуВл/уГИуГлуГИуГй"
 
 #~ msgid "right/America/Vancouver"
-#~ msgstr "right/евесеъел/е╨еєепб╝е╨"
+#~ msgstr "right/уВвуГбуГкуВл/уГРуГ│уВпуГ╝уГР"
 
 #~ msgid "right/America/Virgin"
-#~ msgstr "right/евесеъел/е╨б╝е╕еє"
+#~ msgstr "right/уВвуГбуГкуВл/уГРуГ╝уВ╕уГ│"
 
 #~ msgid "right/America/Whitehorse"
-#~ msgstr "right/евесеъел/е█еяеде╚е█б╝е╣"
+#~ msgstr "right/уВвуГбуГкуВл/уГЫуГпуВдуГИуГЫуГ╝уВ╣"
 
 #~ msgid "right/America/Winnipeg"
-#~ msgstr "right/евесеъел/ежеге╦е┌е░"
+#~ msgstr "right/уВвуГбуГкуВл/уВжуВгуГЛуГЪуВ░"
 
 #~ msgid "right/America/Yakutat"
-#~ msgstr "right/евесеъел/ефепе┐е├е╚"
+#~ msgstr "right/уВвуГбуГкуВл/уГдуВпуВ┐уГГуГИ"
 
 #~ msgid "right/America/Yellowknife"
-#~ msgstr "right/евесеъел/едеиеэб╝е╩еде╒"
+#~ msgstr "right/уВвуГбуГкуВл/уВдуВиуГнуГ╝уГКуВдуГХ"
 
 #~ msgid "right/Antarctica/Casey"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е▒б╝е╖б╝"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уВ▒уГ╝уВ╖уГ╝"
 
 #~ msgid "right/Antarctica/Davis"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е╟б╝е╙е╣"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уГЗуГ╝уГУуВ╣"
 
 #~ msgid "right/Antarctica/DumontDUrville"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е╔е▐еєе╔еъе╙еь"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уГЙуГЮуГ│уГЙуГкуГУуГм"
 
 #~ msgid "right/Antarctica/Mawson"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/етб╝е╜еє"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уГвуГ╝уВ╜уГ│"
 
 #~ msgid "right/Antarctica/McMurdo"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е▐е├епе▐б╝е╔"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уГЮуГГуВпуГЮуГ╝уГЙ"
 
 #~ msgid "right/Antarctica/Palmer"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е╤еыесещ"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уГСуГлуГбуГй"
 
 #~ msgid "right/Antarctica/South_Pole"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е╡еже╣е▌б╝еы"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уВ╡уВжуВ╣уГЭуГ╝уГл"
 
 #~ msgid "right/Antarctica/Syowa"
-#~ msgstr "right/╞ю╢╦┬ч╬ж/е╖ечб╝ея"
+#~ msgstr "right/хНЧце╡хдзщЩ╕/уВ╖уГзуГ╝уГп"
 
 #~ msgid "right/Arctic/Longyearbyen"
-#~ msgstr "right/╦╠╢╦┬ч╬ж/еэеєе░ефб╝е╓еиеє"
+#~ msgstr "right/хМЧце╡хдзщЩ╕/уГнуГ│уВ░уГдуГ╝уГЦуВиуГ│"
 
 #~ msgid "right/Asia/Aden"
-#~ msgstr "right/еве╕ев/еве╟еє"
+#~ msgstr "right/уВвуВ╕уВв/уВвуГЗуГ│"
 
 #~ msgid "right/Asia/Almaty"
-#~ msgstr "right/еве╕ев/евеые▐еъ"
+#~ msgstr "right/уВвуВ╕уВв/уВвуГлуГЮуГк"
 
 #~ msgid "right/Asia/Amman"
-#~ msgstr "right/еве╕ев/еве▐еє"
+#~ msgstr "right/уВвуВ╕уВв/уВвуГЮуГ│"
 
 #~ msgid "right/Asia/Anadyr"
-#~ msgstr "right/еве╕ев/еве╩е╔еъ"
+#~ msgstr "right/уВвуВ╕уВв/уВвуГКуГЙуГк"
 
 #~ msgid "right/Asia/Aqtau"
-#~ msgstr "right/еве╕ев/евепе╚б╝"
+#~ msgstr "right/уВвуВ╕уВв/уВвуВпуГИуГ╝"
 
 #~ msgid "right/Asia/Aqtobe"
-#~ msgstr "right/еве╕ев/евепе╚е┘"
+#~ msgstr "right/уВвуВ╕уВв/уВвуВпуГИуГЩ"
 
 #~ msgid "right/Asia/Ashkhabad"
-#~ msgstr "right/еве╕ев/еве╖еле╨е├е╔"
+#~ msgstr "right/уВвуВ╕уВв/уВвуВ╖уВлуГРуГГуГЙ"
 
 #~ msgid "right/Asia/Baghdad"
-#~ msgstr "right/еве╕ев/е╨е░е└е├е╚"
+#~ msgstr "right/уВвуВ╕уВв/уГРуВ░уГАуГГуГИ"
 
 #~ msgid "right/Asia/Bahrain"
-#~ msgstr "right/еве╕ев/е╨б╝еьб╝еє"
+#~ msgstr "right/уВвуВ╕уВв/уГРуГ╝уГмуГ╝уГ│"
 
 #~ msgid "right/Asia/Baku"
-#~ msgstr "right/еве╕ев/е╨еп"
+#~ msgstr "right/уВвуВ╕уВв/уГРуВп"
 
 #~ msgid "right/Asia/Bangkok"
-#~ msgstr "right/еве╕ев/е╨еєе│е├еп"
+#~ msgstr "right/уВвуВ╕уВв/уГРуГ│уВ│уГГуВп"
 
 #~ msgid "right/Asia/Beirut"
-#~ msgstr "right/еве╕ев/е┘едеыб╝е╚"
+#~ msgstr "right/уВвуВ╕уВв/уГЩуВдуГлуГ╝уГИ"
 
 #~ msgid "right/Asia/Bishkek"
-#~ msgstr "right/еве╕ев/е╙е╖ехе│е├"
+#~ msgstr "right/уВвуВ╕уВв/уГУуВ╖уГеуВ│уГГ"
 
 #~ msgid "right/Asia/Brunei"
-#~ msgstr "right/еве╕ев/е╓еые═ед"
+#~ msgstr "right/уВвуВ╕уВв/уГЦуГлуГНуВд"
 
 #~ msgid "right/Asia/Calcutta"
-#~ msgstr "right/еве╕ев/елеыеле├е┐"
+#~ msgstr "right/уВвуВ╕уВв/уВлуГлуВлуГГуВ┐"
 
 #~ msgid "right/Asia/Chungking"
-#~ msgstr "right/еве╕ев/╜┼╖─"
+#~ msgstr "right/уВвуВ╕уВв/щЗНцЕ╢"
 
 #~ msgid "right/Asia/Colombo"
-#~ msgstr "right/еве╕ев/е│еэеєе▄"
+#~ msgstr "right/уВвуВ╕уВв/уВ│уГнуГ│уГЬ"
 
 #~ msgid "right/Asia/Dacca"
-#~ msgstr "right/еве╕ев/е└е├ел"
+#~ msgstr "right/уВвуВ╕уВв/уГАуГГуВл"
 
 #~ msgid "right/Asia/Damascus"
-#~ msgstr "right/еве╕ев/е└е▐е╣еле╣"
+#~ msgstr "right/уВвуВ╕уВв/уГАуГЮуВ╣уВлуВ╣"
 
 #~ msgid "right/Asia/Dili"
-#~ msgstr "right/еве╕ев/е╟егеъ"
+#~ msgstr "right/уВвуВ╕уВв/уГЗуВгуГк"
 
 #~ msgid "right/Asia/Dubai"
-#~ msgstr "right/еве╕ев/е╟ехе╨ед"
+#~ msgstr "right/уВвуВ╕уВв/уГЗуГеуГРуВд"
 
 #~ msgid "right/Asia/Dushanbe"
-#~ msgstr "right/еве╕ев/е└е╣е╨е═"
+#~ msgstr "right/уВвуВ╕уВв/уГАуВ╣уГРуГН"
 
 #~ msgid "right/Asia/Gaza"
-#~ msgstr "right/еве╕ев/еме╢"
+#~ msgstr "right/уВвуВ╕уВв/уВмуВ╢"
 
 #~ msgid "right/Asia/Harbin"
-#~ msgstr "right/еве╕ев/е╧еые╙еє"
+#~ msgstr "right/уВвуВ╕уВв/уГПуГлуГУуГ│"
 
 #~ msgid "right/Asia/Hong_Kong"
-#~ msgstr "right/еве╕ев/╣с╣┴"
+#~ msgstr "right/уВвуВ╕уВв/щжЩц╕п"
 
 #~ msgid "right/Asia/Hovd"
-#~ msgstr "right/еве╕ев/Hovd"
+#~ msgstr "right/уВвуВ╕уВв/Hovd"
 
 #~ msgid "right/Asia/Irkutsk"
-#~ msgstr "right/еве╕ев/едеыепе╣еп"
+#~ msgstr "right/уВвуВ╕уВв/уВдуГлуВпуВ╣уВп"
 
 #~ msgid "right/Asia/Istanbul"
-#~ msgstr "right/еве╕ев/еде╣е┐еєе╓б╝еы"
+#~ msgstr "right/уВвуВ╕уВв/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 #~ msgid "right/Asia/Jakarta"
-#~ msgstr "right/еве╕ев/е╕еуелеые┐"
+#~ msgstr "right/уВвуВ╕уВв/уВ╕уГгуВлуГлуВ┐"
 
 #~ msgid "right/Asia/Jayapura"
-#~ msgstr "right/еве╕ев/е╕еуефе╫ещ"
+#~ msgstr "right/уВвуВ╕уВв/уВ╕уГгуГдуГЧуГй"
 
 #~ msgid "right/Asia/Jerusalem"
-#~ msgstr "right/еве╕ев/еиеые╡еьер"
+#~ msgstr "right/уВвуВ╕уВв/уВиуГлуВ╡уГмуГа"
 
 #~ msgid "right/Asia/Kabul"
-#~ msgstr "right/еве╕ев/елб╝е╓еы"
+#~ msgstr "right/уВвуВ╕уВв/уВлуГ╝уГЦуГл"
 
 #~ msgid "right/Asia/Kamchatka"
-#~ msgstr "right/еве╕ев/елере┴еуе─ел"
+#~ msgstr "right/уВвуВ╕уВв/уВлуГауГБуГгуГДуВл"
 
 #~ msgid "right/Asia/Karachi"
-#~ msgstr "right/еве╕ев/елеще┴"
+#~ msgstr "right/уВвуВ╕уВв/уВлуГйуГБ"
 
 #~ msgid "right/Asia/Kashgar"
-#~ msgstr "right/еве╕ев/еле╖ехемеы"
+#~ msgstr "right/уВвуВ╕уВв/уВлуВ╖уГеуВмуГл"
 
 #~ msgid "right/Asia/Katmandu"
-#~ msgstr "right/еве╕ев/еле╚е▐еєе╔ееб╝"
+#~ msgstr "right/уВвуВ╕уВв/уВлуГИуГЮуГ│уГЙуВеуГ╝"
 
 #~ msgid "right/Asia/Krasnoyarsk"
-#~ msgstr "right/еве╕ев/епеще╬е╣ефеые╣еп"
+#~ msgstr "right/уВвуВ╕уВв/уВпуГйуГОуВ╣уГдуГлуВ╣уВп"
 
 #~ msgid "right/Asia/Kuala_Lumpur"
-#~ msgstr "right/еве╕ев/епевещеєе╫б╝еы"
+#~ msgstr "right/уВвуВ╕уВв/уВпуВвуГйуГ│уГЧуГ╝уГл"
 
 #~ msgid "right/Asia/Kuching"
-#~ msgstr "right/еве╕ев/епе┴еє"
+#~ msgstr "right/уВвуВ╕уВв/уВпуГБуГ│"
 
 #~ msgid "right/Asia/Kuwait"
-#~ msgstr "right/еве╕ев/епежезб╝е╚"
+#~ msgstr "right/уВвуВ╕уВв/уВпуВжуВзуГ╝уГИ"
 
 #~ msgid "right/Asia/Macao"
-#~ msgstr "right/еве╕ев/е▐елек"
+#~ msgstr "right/уВвуВ╕уВв/уГЮуВлуВк"
 
 #~ msgid "right/Asia/Magadan"
-#~ msgstr "right/еве╕ев/е▐еме└еє"
+#~ msgstr "right/уВвуВ╕уВв/уГЮуВмуГАуГ│"
 
 #~ msgid "right/Asia/Manila"
-#~ msgstr "right/еве╕ев/е▐е╦ещ"
+#~ msgstr "right/уВвуВ╕уВв/уГЮуГЛуГй"
 
 #~ msgid "right/Asia/Muscat"
-#~ msgstr "right/еве╕ев/е▐е╣еле├е╚"
+#~ msgstr "right/уВвуВ╕уВв/уГЮуВ╣уВлуГГуГИ"
 
 #~ msgid "right/Asia/Nicosia"
-#~ msgstr "right/еве╕ев/е╦е│е╖ев"
+#~ msgstr "right/уВвуВ╕уВв/уГЛуВ│уВ╖уВв"
 
 #~ msgid "right/Asia/Novosibirsk"
-#~ msgstr "right/еве╕ев/е╬е▄е╖е╙еъе╣еп"
+#~ msgstr "right/уВвуВ╕уВв/уГОуГЬуВ╖уГУуГкуВ╣уВп"
 
 #~ msgid "right/Asia/Omsk"
-#~ msgstr "right/еве╕ев/екере╣еп"
+#~ msgstr "right/уВвуВ╕уВв/уВкуГауВ╣уВп"
 
 #~ msgid "right/Asia/Phnom_Penh"
-#~ msgstr "right/еве╕ев/е╫е╬еєе┌еє"
+#~ msgstr "right/уВвуВ╕уВв/уГЧуГОуГ│уГЪуГ│"
 
 #~ msgid "right/Asia/Pyongyang"
-#~ msgstr "right/еве╕ев/е╘ечеєефеє"
+#~ msgstr "right/уВвуВ╕уВв/уГФуГзуГ│уГдуГ│"
 
 #~ msgid "right/Asia/Qatar"
-#~ msgstr "right/еве╕ев/еле┐б╝еы"
+#~ msgstr "right/уВвуВ╕уВв/уВлуВ┐уГ╝уГл"
 
 #~ msgid "right/Asia/Rangoon"
-#~ msgstr "right/еве╕ев/еще░б╝еє"
+#~ msgstr "right/уВвуВ╕уВв/уГйуВ░уГ╝уГ│"
 
 #~ msgid "right/Asia/Riyadh"
-#~ msgstr "right/еве╕ев/еъефб╝е╔"
+#~ msgstr "right/уВвуВ╕уВв/уГкуГдуГ╝уГЙ"
 
 #~ msgid "right/Asia/Riyadh87"
-#~ msgstr "right/еве╕ев/еъефб╝е╔87"
+#~ msgstr "right/уВвуВ╕уВв/уГкуГдуГ╝уГЙ87"
 
 #~ msgid "right/Asia/Riyadh88"
-#~ msgstr "right/еве╕ев/еъефб╝е╔88"
+#~ msgstr "right/уВвуВ╕уВв/уГкуГдуГ╝уГЙ88"
 
 #~ msgid "right/Asia/Riyadh89"
-#~ msgstr "right/еве╕ев/еъефб╝е╔89"
+#~ msgstr "right/уВвуВ╕уВв/уГкуГдуГ╝уГЙ89"
 
 #~ msgid "right/Asia/Saigon"
-#~ msgstr "right/еве╕ев/е╡еде┤еє"
+#~ msgstr "right/уВвуВ╕уВв/уВ╡уВдуВ┤уГ│"
 
 #~ msgid "right/Asia/Samarkand"
-#~ msgstr "right/еве╕ев/е╡е▐еыелеєе╔"
+#~ msgstr "right/уВвуВ╕уВв/уВ╡уГЮуГлуВлуГ│уГЙ"
 
 #~ msgid "right/Asia/Seoul"
-#~ msgstr "right/еве╕ев/е╜ежеы"
+#~ msgstr "right/уВвуВ╕уВв/уВ╜уВжуГл"
 
 #~ msgid "right/Asia/Shanghai"
-#~ msgstr "right/еве╕ев/╛х│д"
+#~ msgstr "right/уВвуВ╕уВв/ф╕Кц╡╖"
 
 #~ msgid "right/Asia/Singapore"
-#~ msgstr "right/еве╕ев/е╖еєеме▌б╝еы"
+#~ msgstr "right/уВвуВ╕уВв/уВ╖уГ│уВмуГЭуГ╝уГл"
 
 #~ msgid "right/Asia/Taipei"
-#~ msgstr "right/еве╕ев/е┐еде┌ед"
+#~ msgstr "right/уВвуВ╕уВв/уВ┐уВдуГЪуВд"
 
 #~ msgid "right/Asia/Tashkent"
-#~ msgstr "right/еве╕ев/е┐е╖ехе▒еєе╚"
+#~ msgstr "right/уВвуВ╕уВв/уВ┐уВ╖уГеуВ▒уГ│уГИ"
 
 #~ msgid "right/Asia/Tbilisi"
-#~ msgstr "right/еве╕ев/е╚е╙еъе╖"
+#~ msgstr "right/уВвуВ╕уВв/уГИуГУуГкуВ╖"
 
 #~ msgid "right/Asia/Tehran"
-#~ msgstr "right/еве╕ев/е╞е╪ещеє"
+#~ msgstr "right/уВвуВ╕уВв/уГЖуГШуГйуГ│"
 
 #~ msgid "right/Asia/Tel_Aviv"
-#~ msgstr "right/еве╕ев/е╞еьеве╙е╙"
+#~ msgstr "right/уВвуВ╕уВв/уГЖуГмуВвуГУуГУ"
 
 #~ msgid "right/Asia/Thimbu"
-#~ msgstr "right/еве╕ев/е╞егеєе╓б╝"
+#~ msgstr "right/уВвуВ╕уВв/уГЖуВгуГ│уГЦуГ╝"
 
 #~ msgid "right/Asia/Tokyo"
-#~ msgstr "right/еве╕ев/┼ь╡■"
+#~ msgstr "right/уВвуВ╕уВв/цЭ▒ф║м"
 
 #~ msgid "right/Asia/Ujung_Pandang"
-#~ msgstr "right/еве╕ев/еже╕ехеєе╨еєе└еє"
+#~ msgstr "right/уВвуВ╕уВв/уВжуВ╕уГеуГ│уГРуГ│уГАуГ│"
 
 #~ msgid "right/Asia/Ulan_Bator"
-#~ msgstr "right/еве╕ев/ежещеєе╨б╝е╚еы"
+#~ msgstr "right/уВвуВ╕уВв/уВжуГйуГ│уГРуГ╝уГИуГл"
 
 #~ msgid "right/Asia/Ulaanbaatar"
-#~ msgstr "right/еве╕ев/Ulaanbaatar"
+#~ msgstr "right/уВвуВ╕уВв/Ulaanbaatar"
 
 #~ msgid "right/Asia/Urumqi"
-#~ msgstr "right/еве╕ев/ежеыере┴"
+#~ msgstr "right/уВвуВ╕уВв/уВжуГлуГауГБ"
 
 #~ msgid "right/Asia/Vientiane"
-#~ msgstr "right/еве╕ев/е┘е╚е╩ер"
+#~ msgstr "right/уВвуВ╕уВв/уГЩуГИуГКуГа"
 
 #~ msgid "right/Asia/Vladivostok"
-#~ msgstr "right/еве╕ев/ежеще╕еке╣е╚е├еп"
+#~ msgstr "right/уВвуВ╕уВв/уВжуГйуВ╕уВкуВ╣уГИуГГуВп"
 
 #~ msgid "right/Asia/Yakutsk"
-#~ msgstr "right/еве╕ев/ефепб╝е─еп"
+#~ msgstr "right/уВвуВ╕уВв/уГдуВпуГ╝уГДуВп"
 
 #~ msgid "right/Asia/Yekaterinburg"
-#~ msgstr "right/еве╕ев/еделе╞еиеъеєе╓еые░"
+#~ msgstr "right/уВвуВ╕уВв/уВдуВлуГЖуВиуГкуГ│уГЦуГлуВ░"
 
 #~ msgid "right/Asia/Yerevan"
-#~ msgstr "right/еве╕ев/едеиеье╨еє"
+#~ msgstr "right/уВвуВ╕уВв/уВдуВиуГмуГРуГ│"
 
 #~ msgid "right/Atlantic/Azores"
-#~ msgstr "right/┬ч└╛═╬/еве╛еье╣"
+#~ msgstr "right/хдзше┐ц┤Л/уВвуВ╛уГмуВ╣"
 
 #~ msgid "right/Atlantic/Bermuda"
-#~ msgstr "right/┬ч└╛═╬/е┘еые╠б╝е└"
+#~ msgstr "right/хдзше┐ц┤Л/уГЩуГлуГМуГ╝уГА"
 
 #~ msgid "right/Atlantic/Canary"
-#~ msgstr "right/┬ч└╛═╬/еле╩еъб╝"
+#~ msgstr "right/хдзше┐ц┤Л/уВлуГКуГкуГ╝"
 
 #~ msgid "right/Atlantic/Cape_Verde"
-#~ msgstr "right/┬ч└╛═╬/е▒б╝е╫е┘еые╟"
+#~ msgstr "right/хдзше┐ц┤Л/уВ▒уГ╝уГЧуГЩуГлуГЗ"
 
 #~ msgid "right/Atlantic/Faeroe"
-#~ msgstr "right/┬└╩┐═╬/е╒езеэб╝"
+#~ msgstr "right/хдкх╣│ц┤Л/уГХуВзуГнуГ╝"
 
 #~ msgid "right/Atlantic/Jan_Mayen"
-#~ msgstr "right/┬└╩┐═╬/ефеєе▐едеиеє"
+#~ msgstr "right/хдкх╣│ц┤Л/уГдуГ│уГЮуВдуВиуГ│"
 
 #~ msgid "right/Atlantic/Madeira"
-#~ msgstr "right/┬└╩┐═╬/е▐е╟едещ"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЮуГЗуВдуГй"
 
 #~ msgid "right/Atlantic/Reykjavik"
-#~ msgstr "right/┬└╩┐═╬/еьеденеуе╙б╝еп"
+#~ msgstr "right/хдкх╣│ц┤Л/уГмуВдуВнуГгуГУуГ╝уВп"
 
 #~ msgid "right/Atlantic/South_Georgia"
-#~ msgstr "right/┬└╩┐═╬/е╡еже╣е╕ечб╝е╕ев"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╡уВжуВ╣уВ╕уГзуГ╝уВ╕уВв"
 
 #~ msgid "right/Atlantic/Stanley"
-#~ msgstr "right/┬└╩┐═╬/е╣е┐еєеьб╝"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╣уВ┐уГ│уГмуГ╝"
 
 #~ msgid "right/Atlantic/St_Helena"
-#~ msgstr "right/┬└╩┐═╬/е╗еєе╚е╪еье╩"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╗уГ│уГИуГШуГмуГК"
 
 #~ msgid "right/Australia/ACT"
-#~ msgstr "right/екб╝е╣е╚ещеъев/ACT"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/ACT"
 
 #~ msgid "right/Australia/Adelaide"
-#~ msgstr "right/екб╝е╣е╚ещеъев/еве╟еьб╝е╔"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уВвуГЗуГмуГ╝уГЙ"
 
 #~ msgid "right/Australia/Brisbane"
-#~ msgstr "right/екб╝е╣е╚ещеъев/ACT"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/ACT"
 
 #~ msgid "right/Australia/Broken_Hill"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е╓еэб╝епеєе╥еы"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГЦуГнуГ╝уВпуГ│уГТуГл"
 
 #~ msgid "right/Australia/Canberra"
-#~ msgstr "right/екб╝е╣е╚ещеъев/енеуеєе┘ещ"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уВнуГгуГ│уГЩуГй"
 
 #~ msgid "right/Australia/Darwin"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е└б╝ежегеє"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГАуГ╝уВжуВгуГ│"
 
 #~ msgid "right/Australia/Hobart"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е█б╝е╨б╝е╚"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГЫуГ╝уГРуГ╝уГИ"
 
 #~ msgid "right/Australia/LHI"
-#~ msgstr "right/екб╝е╣е╚ещеъев/LHI"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/LHI"
 
 #~ msgid "right/Australia/Lindeman"
-#~ msgstr "right/екб╝е╣е╚ещеъев/еъеєе╟е▐еє"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГкуГ│уГЗуГЮуГ│"
 
 #~ msgid "right/Australia/Lord_Howe"
-#~ msgstr "right/екб╝е╣е╚ещеъев/еэб╝е╔е╧еж"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГнуГ╝уГЙуГПуВж"
 
 #~ msgid "right/Australia/Melbourne"
-#~ msgstr "right/екб╝е╣е╚ещеъев/есеые▄еыеє"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГбуГлуГЬуГлуГ│"
 
 #~ msgid "right/Australia/North"
-#~ msgstr "right/екб╝е╣е╚ещеъев/╦╠╔Ї"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/хМЧщГи"
 
 #~ msgid "right/Australia/NSW"
-#~ msgstr "right/екб╝е╣е╚ещеъев/NSW"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/NSW"
 
 #~ msgid "right/Australia/Perth"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е╤б╝е╣"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГСуГ╝уВ╣"
 
 #~ msgid "right/Australia/Queensland"
-#~ msgstr "right/екб╝е╣е╚ещеъев/епедб╝еєе║ещеєе╔"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уВпуВдуГ╝уГ│уВ║уГйуГ│уГЙ"
 
 #~ msgid "right/Australia/South"
-#~ msgstr "right/екб╝е╣е╚ещеъев/╞ю╔Ї"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/хНЧщГи"
 
 #~ msgid "right/Australia/Sydney"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е╖е╔е╦б╝"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уВ╖уГЙуГЛуГ╝"
 
 #~ msgid "right/Australia/Tasmania"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е┐е╣е▐е╦ев"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уВ┐уВ╣уГЮуГЛуВв"
 
 #~ msgid "right/Australia/Victoria"
-#~ msgstr "right/екб╝е╣е╚ещеъев/е╙епе╚еъев"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/уГУуВпуГИуГкуВв"
 
 #~ msgid "right/Australia/West"
-#~ msgstr "right/екб╝е╣е╚ещеъев/└╛╔Ї"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/ше┐щГи"
 
 #~ msgid "right/Australia/Yancowinna"
-#~ msgstr "right/екб╝е╣е╚ещеъев/Yancowinna"
+#~ msgstr "right/уВкуГ╝уВ╣уГИуГйуГкуВв/Yancowinna"
 
 #~ msgid "right/Brazil/Acre"
-#~ msgstr "right/е╓еще╕еы/евепеь"
+#~ msgstr "right/уГЦуГйуВ╕уГл/уВвуВпуГм"
 
 #~ msgid "right/Brazil/DeNoronha"
-#~ msgstr "right/е╓еще╕еы/е╟е╬еэеєе╧"
+#~ msgstr "right/уГЦуГйуВ╕уГл/уГЗуГОуГнуГ│уГП"
 
 #~ msgid "right/Brazil/East"
-#~ msgstr "right/е╓еще╕еы/┼ь╔Ї"
+#~ msgstr "right/уГЦуГйуВ╕уГл/цЭ▒щГи"
 
 #~ msgid "right/Brazil/West"
-#~ msgstr "right/е╓еще╕еы/└╛╔Ї"
+#~ msgstr "right/уГЦуГйуВ╕уГл/ше┐щГи"
 
 #~ msgid "right/Canada/Atlantic"
-#~ msgstr "right/еле╩е└/┬ч└╛═╬"
+#~ msgstr "right/уВлуГКуГА/хдзше┐ц┤Л"
 
 #~ msgid "right/Canada/Central"
-#~ msgstr "right/еле╩е└/├ц╔Ї"
+#~ msgstr "right/уВлуГКуГА/ф╕нщГи"
 
 #~ msgid "right/Canada/Eastern"
-#~ msgstr "right/еле╩е└/┼ь│д┤▀"
+#~ msgstr "right/уВлуГКуГА/цЭ▒ц╡╖х▓╕"
 
 #~ msgid "right/Canada/East-Saskatchewan"
-#~ msgstr "right/еле╩е└/┼ье╡е╣еле┴ечеяеє"
+#~ msgstr "right/уВлуГКуГА/цЭ▒уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 #~ msgid "right/Canada/Mountain"
-#~ msgstr "right/еле╩е└/╗│├╧"
+#~ msgstr "right/уВлуГКуГА/х▒▒хЬ░"
 
 #~ msgid "right/Canada/Newfoundland"
-#~ msgstr "right/еле╩е└/е╦ехб╝е╒ебеєе╔ещеєе╔"
+#~ msgstr "right/уВлуГКуГА/уГЛуГеуГ╝уГХуВбуГ│уГЙуГйуГ│уГЙ"
 
 #~ msgid "right/Canada/Pacific"
-#~ msgstr "right/еле╩е└/┬└╩┐═╬"
+#~ msgstr "right/уВлуГКуГА/хдкх╣│ц┤Л"
 
 #~ msgid "right/Canada/Saskatchewan"
-#~ msgstr "right/еле╩е└/е╡е╣еле┴ечеяеє"
+#~ msgstr "right/уВлуГКуГА/уВ╡уВ╣уВлуГБуГзуГпуГ│"
 
 #~ msgid "right/Canada/Yukon"
-#~ msgstr "right/еле╩е└/ецб╝е│еє"
+#~ msgstr "right/уВлуГКуГА/уГжуГ╝уВ│уГ│"
 
 #~ msgid "right/Chile/Continental"
-#~ msgstr "right/е┴еъ/┬ч╬ж"
+#~ msgstr "right/уГБуГк/хдзщЩ╕"
 
 #~ msgid "right/Chile/EasterIsland"
-#~ msgstr "right/е┴еъ/┼ь╜Ї┼ч"
+#~ msgstr "right/уГБуГк/цЭ▒шл╕х│╢"
 
 #~ msgid "right/CST6CDT"
 #~ msgstr "right/CST6CDT"
 
 #~ msgid "right/Egypt"
-#~ msgstr "right/еие╕е╫е╚"
+#~ msgstr "right/уВиуВ╕уГЧуГИ"
 
 #~ msgid "right/EST5EDT"
 #~ msgstr "right/EST5EDT"
@@ -4073,13 +4076,13 @@ msgstr "Zulu"
 #~ msgstr "right/Etc/GMT+9"
 
 #~ msgid "right/Etc/Greenwich"
-#~ msgstr "right/Etc/е░еъе╦е├е╕"
+#~ msgstr "right/Etc/уВ░уГкуГЛуГГуВ╕"
 
 #~ msgid "right/Etc/UCT"
 #~ msgstr "right/Etc/UCT"
 
 #~ msgid "right/Etc/Universal"
-#~ msgstr "right/Etc/╣ё║▌"
+#~ msgstr "right/Etc/хЫ╜щЪЫ"
 
 #~ msgid "right/Etc/UTC"
 #~ msgstr "right/Etc/UTC"
@@ -4088,160 +4091,160 @@ msgstr "Zulu"
 #~ msgstr "right/Etc/Zulu"
 
 #~ msgid "right/Europe/Amsterdam"
-#~ msgstr "right/ешб╝еэе├е╤/евере╣е╞еые└ер"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВвуГауВ╣уГЖуГлуГАуГа"
 
 #~ msgid "right/Europe/Andorra"
-#~ msgstr "right/ешб╝еэе├е╤/евеєе╔ещ"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВвуГ│уГЙуГй"
 
 #~ msgid "right/Europe/Athens"
-#~ msgstr "right/ешб╝еэе├е╤/еве╞е═"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВвуГЖуГН"
 
 #~ msgid "right/Europe/Belfast"
-#~ msgstr "right/ешб╝еэе├е╤/е┘еые╒ебб╝е╣е╚"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЩуГлуГХуВбуГ╝уВ╣уГИ"
 
 #~ msgid "right/Europe/Belgrade"
-#~ msgstr "right/ешб╝еэе├е╤/е┘ейе░ещб╝е╔"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЩуВйуВ░уГйуГ╝уГЙ"
 
 #~ msgid "right/Europe/Berlin"
-#~ msgstr "right/ешб╝еэе├е╤/е┘еыеъеє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЩуГлуГкуГ│"
 
 #~ msgid "right/Europe/Bratislava"
-#~ msgstr "right/ешб╝еэе├е╤/е╓еще╞еге╣ещеЇеб"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЦуГйуГЖуВгуВ╣уГйуГ┤уВб"
 
 #~ msgid "right/Europe/Brussels"
-#~ msgstr "right/ешб╝еэе├е╤/е╓еъехе├е╗еы"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЦуГкуГеуГГуВ╗уГл"
 
 #~ msgid "right/Europe/Bucharest"
-#~ msgstr "right/ешб╝еэе├е╤/е╓елеье╣е╚"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЦуВлуГмуВ╣уГИ"
 
 #~ msgid "right/Europe/Budapest"
-#~ msgstr "right/е█б╝еэе├е╤/е╓е┐е┌е╣е╚"
+#~ msgstr "right/уГЫуГ╝уГнуГГуГС/уГЦуВ┐уГЪуВ╣уГИ"
 
 #~ msgid "right/Europe/Chisinau"
-#~ msgstr "right/ешб╝еэе├е╤/епе╖еуе╚еъев"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВпуВ╖уГгуГИуГкуВв"
 
 #~ msgid "right/Europe/Copenhagen"
-#~ msgstr "right/ешб╝еэе├е╤/е│е┌еєе╧б╝е▓еє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ│уГЪуГ│уГПуГ╝уВ▓уГ│"
 
 #~ msgid "right/Europe/Dublin"
-#~ msgstr "right/ешб╝еэе├е╤/е└е╓еъеє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГАуГЦуГкуГ│"
 
 #~ msgid "right/Europe/Gibraltar"
-#~ msgstr "right/ешб╝еэе├е╤/е╕е╓ещеые┐еы"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╕уГЦуГйуГлуВ┐уГл"
 
 #~ msgid "right/Europe/Helsinki"
-#~ msgstr "right/ешб╝еэе├е╤/е╪еые╖еєен"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГШуГлуВ╖уГ│уВн"
 
 #~ msgid "right/Europe/Istanbul"
-#~ msgstr "right/ешб╝еэе├е╤/еде╣е┐еєе╓б╝еы"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВдуВ╣уВ┐уГ│уГЦуГ╝уГл"
 
 #~ msgid "right/Europe/Kaliningrad"
-#~ msgstr "right/ешб╝еэе├е╤/елеъб╝е╦еєе░ещб╝е╔"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВлуГкуГ╝уГЛуГ│уВ░уГйуГ╝уГЙ"
 
 #~ msgid "right/Europe/Kiev"
-#~ msgstr "right/ешб╝еэе├е╤/енеие╒"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВнуВиуГХ"
 
 #~ msgid "right/Europe/Lisbon"
-#~ msgstr "right/ешб╝еэе├е╤/еъе║е▄еє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГкуВ║уГЬуГ│"
 
 #~ msgid "right/Europe/Ljubljana"
-#~ msgstr "right/ешб╝еэе├е╤/еъехе╓еъефе╩"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГкуГеуГЦуГкуГдуГК"
 
 #~ msgid "right/Europe/London"
-#~ msgstr "right/ешб╝еэе├е╤/еэеєе╔еє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГнуГ│уГЙуГ│"
 
 #~ msgid "right/Europe/Luxembourg"
-#~ msgstr "right/ешб╝еэе├е╤/еыепе╗еєе╫еые░"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГлуВпуВ╗уГ│уГЧуГлуВ░"
 
 #~ msgid "right/Europe/Madrid"
-#~ msgstr "right/ешб╝еэе├е╤/е▐е╔еъе├е╔"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЮуГЙуГкуГГуГЙ"
 
 #~ msgid "right/Europe/Malta"
-#~ msgstr "right/ешб╝еэе├е╤/е▐еые┐"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЮуГлуВ┐"
 
 #~ msgid "right/Europe/Minsk"
-#~ msgstr "right/ешб╝еэе├е╤/е▀еєе╣еп"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЯуГ│уВ╣уВп"
 
 #~ msgid "right/Europe/Monaco"
-#~ msgstr "right/ешб╝еэе├е╤/ете╩е│"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГвуГКуВ│"
 
 #~ msgid "right/Europe/Moscow"
-#~ msgstr "right/ешб╝еэе├е╤/ете╣епея"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГвуВ╣уВпуГп"
 
 #~ msgid "right/Europe/Oslo"
-#~ msgstr "right/ешб╝еэе├е╤/еке╣еэ"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВкуВ╣уГн"
 
 #~ msgid "right/Europe/Paris"
-#~ msgstr "right/ешб╝еэе├е╤/е╤еъ"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГСуГк"
 
 #~ msgid "right/Europe/Prague"
-#~ msgstr "right/ешб╝еэе├е╤/е╫еще╧"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЧуГйуГП"
 
 #~ msgid "right/Europe/Riga"
-#~ msgstr "right/ешб╝еэе├е╤/еъем"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГкуВм"
 
 #~ msgid "right/Europe/Rome"
-#~ msgstr "right/ешб╝еэе├е╤/еэб╝е▐"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГнуГ╝уГЮ"
 
 #~ msgid "right/Europe/Samara"
-#~ msgstr "right/ешб╝еэе├е╤/е╡е▐ещ"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╡уГЮуГй"
 
 #~ msgid "right/Europe/San_Marino"
-#~ msgstr "right/ешб╝еэе├е╤/е╡еєе▐еъе╬"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╡уГ│уГЮуГкуГО"
 
 #~ msgid "right/Europe/Sarajevo"
-#~ msgstr "right/ешб╝еэе├е╤/е╡ещеие▄"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╡уГйуВиуГЬ"
 
 #~ msgid "right/Europe/Simferopol"
-#~ msgstr "right/ешб╝еэе├е╤/е╖ере╒езеэе▌еъ"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╖уГауГХуВзуГнуГЭуГк"
 
 #~ msgid "right/Europe/Skopje"
-#~ msgstr "right/ешб╝еэе├е╤/е╣е│е╫еъеи"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╣уВ│уГЧуГкуВи"
 
 #~ msgid "right/Europe/Sofia"
-#~ msgstr "right/ешб╝еэе├е╤/е╜е╒егев"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╜уГХуВгуВв"
 
 #~ msgid "right/Europe/Stockholm"
-#~ msgstr "right/ешб╝еэе├е╤/е╣е╚е├епе╒ейеыер"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╣уГИуГГуВпуГХуВйуГлуГа"
 
 #~ msgid "right/Europe/Tallinn"
-#~ msgstr "right/ешб╝еэе├е╤/е┐еъеє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ┐уГкуГ│"
 
 #~ msgid "right/Europe/Tirane"
-#~ msgstr "right/ешб╝еэе├е╤/е╞егеще═"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЖуВгуГйуГН"
 
 #~ msgid "right/Europe/Tiraspol"
-#~ msgstr "right/ешб╝еэе├е╤/е╞егеще╣е▌б╝еы"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЖуВгуГйуВ╣уГЭуГ╝уГл"
 
 #~ msgid "right/Europe/Uzhgorod"
-#~ msgstr "right/ешб╝еэе├е╤/еже║е┤еые╔"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВжуВ║уВ┤уГлуГЙ"
 
 #~ msgid "right/Europe/Vaduz"
-#~ msgstr "right/ешб╝еэе├е╤/е╓ебе╔ееб╝е║"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГЦуВбуГЙуВеуГ╝уВ║"
 
 #~ msgid "right/Europe/Vatican"
-#~ msgstr "right/ешб╝еэе├е╤/е╨е┴елеє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГРуГБуВлуГ│"
 
 #~ msgid "right/Europe/Vienna"
-#~ msgstr "right/ешб╝еэе├е╤/ежегб╝еє"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВжуВгуГ╝уГ│"
 
 #~ msgid "right/Europe/Vilnius"
-#~ msgstr "right/ешб╝еэе├е╤/е╙е╥еве╣"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГУуГТуВвуВ╣"
 
 #~ msgid "right/Europe/Warsaw"
-#~ msgstr "right/ешб╝еэе├е╤/еяеые╖еуея"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГпуГлуВ╖уГгуГп"
 
 #~ msgid "right/Europe/Zagreb"
-#~ msgstr "right/ешб╝еэе├е╤/е╢е░еье╓"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╢уВ░уГмуГЦ"
 
 #~ msgid "right/Europe/Zaporozhye"
-#~ msgstr "right/ешб╝еэе├е╤/е╢е▌еэб╝е╕ез"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уВ╢уГЭуГнуГ╝уВ╕уВз"
 
 #~ msgid "right/Europe/Zurich"
-#~ msgstr "right/ешб╝еэе├е╤/е┴ехб╝еъе├е╥"
+#~ msgstr "right/уГиуГ╝уГнуГГуГС/уГБуГеуГ╝уГкуГГуГТ"
 
 #~ msgid "right/Factory"
-#~ msgstr "right/е╒ебепе╚еъ"
+#~ msgstr "right/уГХуВбуВпуГИуГк"
 
 #~ msgid "right/GB-Eire"
 #~ msgstr "right/GB-Eire"
@@ -4259,79 +4262,79 @@ msgstr "Zulu"
 #~ msgstr "right/GMT+0"
 
 #~ msgid "right/Greenwich"
-#~ msgstr "right/е░еъе╦е├е╕"
+#~ msgstr "right/уВ░уГкуГЛуГГуВ╕"
 
 #~ msgid "right/Hongkong"
-#~ msgstr "right/╣с╣┴"
+#~ msgstr "right/щжЩц╕п"
 
 #~ msgid "right/Iceland"
-#~ msgstr "right/еведе╣ещеєе╔"
+#~ msgstr "right/уВвуВдуВ╣уГйуГ│уГЙ"
 
 #~ msgid "right/Indian/Antananarivo"
-#~ msgstr "right/едеєе╔═╬/евеєе┐еще╩еъеЇей"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВвуГ│уВ┐уГйуГКуГкуГ┤уВй"
 
 #~ msgid "right/Indian/Chagos"
-#~ msgstr "right/едеєе╔═╬/е╖еуе┤е╣"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВ╖уГгуВ┤уВ╣"
 
 #~ msgid "right/Indian/Christmas"
-#~ msgstr "right/едеєе╔═╬/епеъе╣е▐е╣"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВпуГкуВ╣уГЮуВ╣"
 
 #~ msgid "right/Indian/Cocos"
-#~ msgstr "right/едеєе╔═╬/е│е│е╣"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВ│уВ│уВ╣"
 
 #~ msgid "right/Indian/Comoro"
-#~ msgstr "right/едеєе╔═╬/е│етеэ"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВ│уГвуГн"
 
 #~ msgid "right/Indian/Kerguelen"
-#~ msgstr "right/едеєе╔═╬/епеые▓еьеє"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уВпуГлуВ▓уГмуГ│"
 
 #~ msgid "right/Indian/Mahe"
-#~ msgstr "right/едеєе╔═╬/е▐е╪б╝"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уГЮуГШуГ╝"
 
 #~ msgid "right/Indian/Maldives"
-#~ msgstr "едеєе╔═╬/етеые╕е╓"
+#~ msgstr "уВдуГ│уГЙц┤Л/уГвуГлуВ╕уГЦ"
 
 #~ msgid "right/Indian/Mauritius"
-#~ msgstr "right/едеєе╔═╬/етб╝еъе╖еуе╣"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уГвуГ╝уГкуВ╖уГгуВ╣"
 
 #~ msgid "right/Indian/Mayotte"
-#~ msgstr "right/едеєе╔═╬/е▐еше├е╚"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уГЮуГиуГГуГИ"
 
 #~ msgid "right/Indian/Reunion"
-#~ msgstr "right/едеєе╔═╬/еыеие╦екеє"
+#~ msgstr "right/уВдуГ│уГЙц┤Л/уГлуВиуГЛуВкуГ│"
 
 #~ msgid "right/Israel"
-#~ msgstr "right/еде╣ещеиеы"
+#~ msgstr "right/уВдуВ╣уГйуВиуГл"
 
 #~ msgid "right/Jamaica"
-#~ msgstr "right/евесеъел/е╕еуе▐едел"
+#~ msgstr "right/уВвуГбуГкуВл/уВ╕уГгуГЮуВдуВл"
 
 #~ msgid "right/Japan"
-#~ msgstr "right/╞№╦▄"
+#~ msgstr "right/цЧецЬм"
 
 #~ msgid "right/Kwajalein"
-#~ msgstr "right/епеяе╕еуеъеє"
+#~ msgstr "right/уВпуГпуВ╕уГгуГкуГ│"
 
 #~ msgid "right/Libya"
-#~ msgstr "right/еъе╙еф"
+#~ msgstr "right/уГкуГУуГд"
 
 #~ msgid "right/Mexico/BajaNorte"
-#~ msgstr "right/есене╖е│/е╨е╕еуе╩еые╞"
+#~ msgstr "right/уГбуВнуВ╖уВ│/уГРуВ╕уГгуГКуГлуГЖ"
 
 #~ msgid "right/Mexico/BajaSur"
-#~ msgstr "right/есене╖е│/е╨е╕еуе╡"
+#~ msgstr "right/уГбуВнуВ╖уВ│/уГРуВ╕уГгуВ╡"
 
 #~ msgid "right/Mexico/General"
-#~ msgstr "right/есене╖е│/╔╕╜р"
+#~ msgstr "right/уГбуВнуВ╖уВ│/циЩц║Ц"
 
 #~ msgid "right/Mideast/Riyadh87"
-#~ msgstr "right/├ц┼ь/Riyadh87"
+#~ msgstr "right/ф╕нцЭ▒/Riyadh87"
 
 #~ msgid "right/Mideast/Riyadh88"
-#~ msgstr "right/├ц┼ь/Riyadh88"
+#~ msgstr "right/ф╕нцЭ▒/Riyadh88"
 
 #~ msgid "right/Mideast/Riyadh89"
-#~ msgstr "right/├ц┼ь/Riyadh89"
+#~ msgstr "right/ф╕нцЭ▒/Riyadh89"
 
 #~ msgid "right/MST7MDT"
 #~ msgstr "right/MST7MDT"
@@ -4343,136 +4346,136 @@ msgstr "Zulu"
 #~ msgstr "right/NZ-CHAT"
 
 #~ msgid "right/Pacific/Apia"
-#~ msgstr "right/┬└╩┐═╬/еве╘ев"
+#~ msgstr "right/хдкх╣│ц┤Л/уВвуГФуВв"
 
 #~ msgid "right/Pacific/Auckland"
-#~ msgstr "right/┬└╩┐═╬/екб╝епещеєе╔"
+#~ msgstr "right/хдкх╣│ц┤Л/уВкуГ╝уВпуГйуГ│уГЙ"
 
 #~ msgid "right/Pacific/Chatham"
-#~ msgstr "right/┬└╩┐═╬/е╖еуе┐еє"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╖уГгуВ┐уГ│"
 
 #~ msgid "right/Pacific/Easter"
-#~ msgstr "right/┬└╩┐═╬/едб╝е╣е┐б╝"
+#~ msgstr "right/хдкх╣│ц┤Л/уВдуГ╝уВ╣уВ┐уГ╝"
 
 #~ msgid "right/Pacific/Efate"
-#~ msgstr "right/┬└╩┐═╬/еие╒ебе╞ез"
+#~ msgstr "right/хдкх╣│ц┤Л/уВиуГХуВбуГЖуВз"
 
 #~ msgid "right/Pacific/Enderbury"
-#~ msgstr "right/┬└╩┐═╬/еиеєе└е┘еъ"
+#~ msgstr "right/хдкх╣│ц┤Л/уВиуГ│уГАуГЩуГк"
 
 #~ msgid "right/Pacific/Fakaofo"
-#~ msgstr "right/┬└╩┐═╬/е╒ебелеке╒ей"
+#~ msgstr "right/хдкх╣│ц┤Л/уГХуВбуВлуВкуГХуВй"
 
 #~ msgid "right/Pacific/Fiji"
-#~ msgstr "right/┬└╩┐═╬/е╒егб╝е╕б╝"
+#~ msgstr "right/хдкх╣│ц┤Л/уГХуВгуГ╝уВ╕уГ╝"
 
 #~ msgid "right/Pacific/Funafuti"
-#~ msgstr "right/┬└╩┐═╬/е╒е╩е╒е╞ег"
+#~ msgstr "right/хдкх╣│ц┤Л/уГХуГКуГХуГЖуВг"
 
 #~ msgid "right/Pacific/Galapagos"
-#~ msgstr "right/┬└╩┐═╬/елеще╤е┤е╣"
+#~ msgstr "right/хдкх╣│ц┤Л/уВлуГйуГСуВ┤уВ╣"
 
 #~ msgid "right/Pacific/Gambier"
-#~ msgstr "right/┬└╩┐═╬/емеєе╙б╝еы"
+#~ msgstr "right/хдкх╣│ц┤Л/уВмуГ│уГУуГ╝уГл"
 
 #~ msgid "right/Pacific/Guadalcanal"
-#~ msgstr "right/┬└╩┐═╬/е░евеєе└еыеле╩еы"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ░уВвуГ│уГАуГлуВлуГКуГл"
 
 #~ msgid "right/Pacific/Guam"
-#~ msgstr "right/┬└╩┐═╬/е░евер"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ░уВвуГа"
 
 #~ msgid "right/Pacific/Honolulu"
-#~ msgstr "right/┬└╩┐═╬/е█е╬еыеы"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЫуГОуГлуГл"
 
 #~ msgid "right/Pacific/Johnston"
-#~ msgstr "right/┬└╩┐═╬/е╕ечеєе╣е╚б╝еє"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╕уГзуГ│уВ╣уГИуГ╝уГ│"
 
 #~ msgid "right/Pacific/Kiritimati"
-#~ msgstr "right/┬└╩┐═╬/енеъе╞еге▐е╞ег"
+#~ msgstr "right/хдкх╣│ц┤Л/уВнуГкуГЖуВгуГЮуГЖуВг"
 
 #~ msgid "right/Pacific/Kosrae"
-#~ msgstr "right/┬└╩┐═╬/е│е╣ещеи"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ│уВ╣уГйуВи"
 
 #~ msgid "right/Pacific/Kwajalein"
-#~ msgstr "right/┬└╩┐═╬/епеве╕еуеъеє"
+#~ msgstr "right/хдкх╣│ц┤Л/уВпуВвуВ╕уГгуГкуГ│"
 
 #~ msgid "right/Pacific/Majuro"
-#~ msgstr "right/┬└╩┐═╬/е▐е╕ехеэ"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЮуВ╕уГеуГн"
 
 #~ msgid "right/Pacific/Marquesas"
-#~ msgstr "right/┬└╩┐═╬/е▐б╝епеде╣"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЮуГ╝уВпуВдуВ╣"
 
 #~ msgid "right/Pacific/Midway"
-#~ msgstr "right/┬└╩┐═╬/е▀е├е╔ежезед"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЯуГГуГЙуВжуВзуВд"
 
 #~ msgid "right/Pacific/Nauru"
-#~ msgstr "right/┬└╩┐═╬/е╩ежеы"
+#~ msgstr "right/хдкх╣│ц┤Л/уГКуВжуГл"
 
 #~ msgid "right/Pacific/Niue"
-#~ msgstr "right/┬└╩┐═╬/е╦ежеи"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЛуВжуВи"
 
 #~ msgid "right/Pacific/Norfolk"
-#~ msgstr "right/┬└╩┐═╬/е╬б╝е╒ейб╝еп"
+#~ msgstr "right/хдкх╣│ц┤Л/уГОуГ╝уГХуВйуГ╝уВп"
 
 #~ msgid "right/Pacific/Noumea"
-#~ msgstr "right/┬└╩┐═╬/е╠есев"
+#~ msgstr "right/хдкх╣│ц┤Л/уГМуГбуВв"
 
 #~ msgid "right/Pacific/Pago_Pago"
-#~ msgstr "right/┬└╩┐═╬/е╤е┤е╤е┤"
+#~ msgstr "right/хдкх╣│ц┤Л/уГСуВ┤уГСуВ┤"
 
 #~ msgid "right/Pacific/Palau"
-#~ msgstr "right/┬└╩┐═╬/е╤ещеж"
+#~ msgstr "right/хдкх╣│ц┤Л/уГСуГйуВж"
 
 #~ msgid "right/Pacific/Pitcairn"
-#~ msgstr "right/┬└╩┐═╬/е╘е╚е▒еыеє"
+#~ msgstr "right/хдкх╣│ц┤Л/уГФуГИуВ▒уГлуГ│"
 
 #~ msgid "right/Pacific/Ponape"
-#~ msgstr "right/┬└╩┐═╬/е▌е╩е┌"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЭуГКуГЪ"
 
 #~ msgid "right/Pacific/Port_Moresby"
-#~ msgstr "right/┬└╩┐═╬/е▌б╝е╚етеєе╣е╙б╝"
+#~ msgstr "right/хдкх╣│ц┤Л/уГЭуГ╝уГИуГвуГ│уВ╣уГУуГ╝"
 
 #~ msgid "right/Pacific/Rarotonga"
-#~ msgstr "right/┬└╩┐═╬/ещеэе╚еєем"
+#~ msgstr "right/хдкх╣│ц┤Л/уГйуГнуГИуГ│уВм"
 
 #~ msgid "right/Pacific/Saipan"
-#~ msgstr "right/┬└╩┐═╬/е╡еде╤еє"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╡уВдуГСуГ│"
 
 #~ msgid "right/Pacific/Samoa"
-#~ msgstr "right/┬└╩┐═╬/е╡етев"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ╡уГвуВв"
 
 #~ msgid "right/Pacific/Tahiti"
-#~ msgstr "right/┬└╩┐═╬/е┐е╥е┴"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ┐уГТуГБ"
 
 #~ msgid "right/Pacific/Tarawa"
-#~ msgstr "right/┬└╩┐═╬/е┐ещея"
+#~ msgstr "right/хдкх╣│ц┤Л/уВ┐уГйуГп"
 
 #~ msgid "right/Pacific/Tongatapu"
-#~ msgstr "right/┬└╩┐═╬/е╚еєем"
+#~ msgstr "right/хдкх╣│ц┤Л/уГИуГ│уВм"
 
 #~ msgid "right/Pacific/Truk"
-#~ msgstr "right/┬└╩┐═╬/е╚еще├еп"
+#~ msgstr "right/хдкх╣│ц┤Л/уГИуГйуГГуВп"
 
 #~ msgid "right/Pacific/Wake"
-#~ msgstr "right/┬└╩┐═╬/ежезб╝еп"
+#~ msgstr "right/хдкх╣│ц┤Л/уВжуВзуГ╝уВп"
 
 #~ msgid "right/Pacific/Wallis"
-#~ msgstr "right/┬└╩┐═╬/еЇебеъе╣"
+#~ msgstr "right/хдкх╣│ц┤Л/уГ┤уВбуГкуВ╣"
 
 #~ msgid "right/Pacific/Yap"
-#~ msgstr "right/┬└╩┐═╬/ефе├е╫"
+#~ msgstr "right/хдкх╣│ц┤Л/уГдуГГуГЧ"
 
 #~ msgid "right/Poland"
-#~ msgstr "right/е▌б╝ещеєе╔"
+#~ msgstr "right/уГЭуГ╝уГйуГ│уГЙ"
 
 #~ msgid "right/Portugal"
-#~ msgstr "right/е╫еые╚емеы"
+#~ msgstr "right/уГЧуГлуГИуВмуГл"
 
 #~ msgid "right/PST8PDT"
 #~ msgstr "right/PST8PDT"
 
 #~ msgid "right/Singapore"
-#~ msgstr "right/е╖еєеме▌б╝еы"
+#~ msgstr "right/уВ╖уГ│уВмуГЭуГ╝уГл"
 
 #~ msgid "right/SystemV/AST4"
 #~ msgstr "right/SystemV/AST4"
@@ -4514,52 +4517,53 @@ msgstr "Zulu"
 #~ msgstr "right/SystemV/YST9YDT"
 
 #~ msgid "right/Turkey"
-#~ msgstr "right/е╚еые│"
+#~ msgstr "right/уГИуГлуВ│"
 
 #~ msgid "right/UCT"
 #~ msgstr "Etc/UCT"
 
 #~ msgid "right/Universal"
-#~ msgstr "right/╣ё║▌"
+#~ msgstr "right/хЫ╜щЪЫ"
 
 #~ msgid "right/US/Alaska"
-#~ msgstr "right/US/евеще╣ел"
+#~ msgstr "right/US/уВвуГйуВ╣уВл"
 
 #~ msgid "right/US/Aleutian"
-#~ msgstr "right/US/евеыб╝е╖еуеє"
+#~ msgstr "right/US/уВвуГлуГ╝уВ╖уГгуГ│"
 
 #~ msgid "right/US/Arizona"
-#~ msgstr "right/US/евеъе╛е╩"
+#~ msgstr "right/US/уВвуГкуВ╛уГК"
 
 #~ msgid "right/US/Central"
-#~ msgstr "right/US/├ц╔Ї"
+#~ msgstr "right/US/ф╕нщГи"
 
 #~ msgid "right/US/Eastern"
-#~ msgstr "right/US/┼ь╔Ї"
+#~ msgstr "right/US/цЭ▒щГи"
 
 #~ msgid "right/US/East-Indiana"
-#~ msgstr "right/US/┼ьедеєе╟егеве╩"
+#~ msgstr "right/US/цЭ▒уВдуГ│уГЗуВгуВвуГК"
 
 #~ msgid "right/US/Hawaii"
-#~ msgstr "right/US/е╧еяед"
+#~ msgstr "right/US/уГПуГпуВд"
 
 #~ msgid "right/US/Indiana-Starke"
-#~ msgstr "right/US/едеєе╟егеве╩е╖езе┐еыеп"
+#~ msgstr "right/US/уВдуГ│уГЗуВгуВвуГКуВ╖уВзуВ┐уГлуВп"
 
 #~ msgid "right/US/Michigan"
-#~ msgstr "right/US/е▀е╖емеє"
+#~ msgstr "right/US/уГЯуВ╖уВмуГ│"
 
 #~ msgid "right/US/Mountain"
-#~ msgstr "right/US/╗│├╧"
+#~ msgstr "right/US/х▒▒хЬ░"
 
 #~ msgid "right/US/Pacific"
-#~ msgstr "right/US/┬└╩┐═╬"
+#~ msgstr "right/US/хдкх╣│ц┤Л"
 
 #~ msgid "right/US/Samoa"
-#~ msgstr "right/US/е╡етев"
+#~ msgstr "right/US/уВ╡уГвуВв"
 
 #~ msgid "right/UTC"
 #~ msgstr "right/UTC"
 
 #~ msgid "right/Zulu"
 #~ msgstr "right/Zulu"
+
