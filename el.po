@@ -7,12 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: (null)\n"
-"PO-Revision-Date: 2003-02-01 23:10+0200\n"
+"PO-Revision-Date: 2003-02-06 23:50+0200\n"
 "Last-Translator: Nikos Charonitakis <charosn@her.forthnet.gr>\n"
 "Language-Team: Greek <nls@hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-7\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
 
 msgid "Africa/Abidjan"
 msgstr "Αφρική/Abidjan"
@@ -162,7 +163,7 @@ msgid "Africa/Timbuktu"
 msgstr "Αφρική/Timbuktu"
 
 msgid "Africa/Tripoli"
-msgstr "Αφρική/Tripoli"
+msgstr "Αφρική/Τρίπολη"
 
 msgid "Africa/Tunis"
 msgstr "Αφρική/Tunis"
@@ -177,10 +178,10 @@ msgid "America/Anchorage"
 msgstr "Αμερική/Anchorage"
 
 msgid "America/Anguilla"
-msgstr "Αμερική/Anguilla"
+msgstr "Αμερική/Ανγκουίλα"
 
 msgid "America/Antigua"
-msgstr "Αμερική/Antigua"
+msgstr "Αμερική/Αντίγκουα"
 
 msgid "America/Araguaina"
 msgstr "Αμερική/Araguaina"
@@ -195,13 +196,13 @@ msgid "America/Atka"
 msgstr "Αμερική/Atka"
 
 msgid "America/Barbados"
-msgstr "Αμερική/Barbados"
+msgstr "Αμερική/Μπαρμπάντος"
 
 msgid "America/Belem"
 msgstr "Αμερική/Belem"
 
 msgid "America/Belize"
-msgstr "Αμερική/Belize"
+msgstr "Αμερική/Μπελίζε"
 
 msgid "America/Boa_Vista"
 msgstr "Αμερική/Boa_Vista"
@@ -345,7 +346,7 @@ msgid "America/Iqaluit"
 msgstr "Αμερική/Iqaluit"
 
 msgid "America/Jamaica"
-msgstr "Αμερική/Jamaica"
+msgstr "Αμερική/Τζαμάικα"
 
 msgid "America/Jujuy"
 msgstr "Αμερική/Jujuy"
@@ -384,7 +385,7 @@ msgid "America/Manaus"
 msgstr "Αμερική/Manaus"
 
 msgid "America/Martinique"
-msgstr "Αμερική/Martinique"
+msgstr "Αμερική/Μαρτινίκα"
 
 msgid "America/Mazatlan"
 msgstr "Αμερική/Mazatlan"
@@ -603,7 +604,7 @@ msgid "Asia/Baghdad"
 msgstr "Ασία/Βαγδάτη"
 
 msgid "Asia/Bahrain"
-msgstr "Ασία/Bahrain"
+msgstr "Ασία/Μπαχρέιν"
 
 msgid "Asia/Baku"
 msgstr "Ασία/Μπακού"
@@ -1284,7 +1285,7 @@ msgid "GMT+0"
 msgstr ""
 
 msgid "Greenwich"
-msgstr ""
+msgstr "Γρκήνουιτς"
 
 msgid "Hongkong"
 msgstr "Χονγκ Κονγκ"
@@ -1344,7 +1345,7 @@ msgid "Kwajalein"
 msgstr ""
 
 msgid "Libya"
-msgstr ""
+msgstr "Λιβύη"
 
 msgid "MET"
 msgstr ""
@@ -1404,7 +1405,7 @@ msgid "Pacific/Fakaofo"
 msgstr "Ειρηνικός/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "Ειρηνικός/Fiji"
+msgstr "Ειρηνικός/Φίτζι"
 
 msgid "Pacific/Funafuti"
 msgstr "Ειρηνικός/Funafuti"
