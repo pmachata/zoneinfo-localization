@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TimeZone VERSION\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-01-15 20:47+0530\n"
+"PO-Revision-Date: 2004-09-22 19:07+0530\n"
 "Last-Translator: Runa Bhattahcarjee <runa@bengalinux.org>\n"
 "Language-Team: Bangla <redhat-translation@bengalinux.org>\n"
 "MIME-Version: 1.0\n"
@@ -285,7 +285,7 @@ msgid "America/Fortaleza"
 msgstr "আমেরিকা/ফোর্টালেজা"
 
 msgid "America/Fort_Wayne"
-msgstr "আমেরিকা/ফোর্ট_ওয়েএন"
+msgstr "আমেরিকা/ফোর্ট_ওয়েইন"
 
 # not appropriate imho
 msgid "America/Glace_Bay"
@@ -340,18 +340,18 @@ msgid "America/Indiana/Vevay"
 msgstr "আমেরিকা/ইন্ডিয়ানা/ভিভে"
 
 msgid "America/Inuvik"
-msgstr "আমেরিকা/আইনুভিক"
+msgstr "আমেরিকা/ইনুভিক"
 
 # not sure
 msgid "America/Iqaluit"
-msgstr "আমেরিকা/আইকালুইট"
+msgstr "আমেরিকা/ইকালুইট"
 
 # not sure
 msgid "America/Jamaica"
 msgstr "আমেরিকা/জামাইকা"
 
 msgid "America/Jujuy"
-msgstr "আমেরিকা/জুজু"
+msgstr "আমেরিকা/জুজুই"
 
 msgid "America/Juneau"
 msgstr "আমেরিকা/জুনিউ"
@@ -372,7 +372,7 @@ msgid "America/Lima"
 msgstr "আমেরিকা/লিমা"
 
 msgid "America/Los_Angeles"
-msgstr "আমেরিকা/লস_অ্যাঙ্জেলস"
+msgstr "আমেরিকা/লস_অ্যাঞ্জেলস"
 
 msgid "America/Louisville"
 msgstr "আমেরিকা/লুইভিল"
@@ -630,7 +630,7 @@ msgid "Asia/Choibalsan"
 msgstr "এশিয়া/চৈবালছান"
 
 msgid "Asia/Chongqing"
-msgstr "এশিয়া/চুংচিং"
+msgstr "এশিয়া/চোংকিং"
 
 msgid "Asia/Chungking"
 msgstr "এশিয়া/চুংকিং"
@@ -690,7 +690,7 @@ msgid "Asia/Kamchatka"
 msgstr "এশিয়া/কামচাক্টা"
 
 msgid "Asia/Karachi"
-msgstr "এশিয়া/কারাচী"
+msgstr "এশিয়া/করাচী"
 
 msgid "Asia/Kashgar"
 msgstr "এশিয়া/কাশগার"
@@ -762,7 +762,7 @@ msgid "Asia/Riyadh"
 msgstr "এশিয়া/রিয়াদ"
 
 msgid "Asia/Riyadh87"
-msgstr "এশিয়া/রোয়াদ৮৭"
+msgstr "এশিয়া/রিয়াদ৮৭"
 
 msgid "Asia/Riyadh88"
 msgstr "এশিয়া/রিয়াদ৮৮"
@@ -948,7 +948,7 @@ msgid "Brazil/West"
 msgstr "ব্রাজিল/পশ্চিম"
 
 msgid "Canada/Atlantic"
-msgstr "কানাডা/অ্যাট্‌লানটিক"
+msgstr "কানাডা/আটলান্টিক"
 
 msgid "Canada/Central"
 msgstr "কানাডা/সেন্ট্রাল"
@@ -1140,7 +1140,7 @@ msgid "Europe/Budapest"
 msgstr "ইউরোপ/বুডাপেস্ট"
 
 msgid "Europe/Chisinau"
-msgstr "ইউরোপ/চিছিনাউ"
+msgstr "ইউরোপ/চিশিনাউ"
 
 msgid "Europe/Copenhagen"
 msgstr "ইউরোপ/কোপেনহেগেন"
@@ -1386,126 +1386,126 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "প্যাসিফিক/এপিয়া"
+msgstr "প্রশান্ত/এপিয়া"
 
 msgid "Pacific/Auckland"
-msgstr "প্যাসিফিক/অকল্যান্ড"
+msgstr "প্রশান্ত/অকল্যান্ড"
 
 msgid "Pacific/Chatham"
-msgstr "প্যাসিফিক/চ্যাটহাম"
+msgstr "প্রশান্ত/চ্যাটহাম"
 
 msgid "Pacific/Easter"
-msgstr "প্যাসিফিক/ইস্টার"
+msgstr "প্রশান্ত/ইস্টার"
 
 msgid "Pacific/Efate"
-msgstr "প্যাসিফিক/এফাতে"
+msgstr "প্রশান্ত/এফাতে"
 
 msgid "Pacific/Enderbury"
-msgstr "প্যাসিফিক/এন্ডারবুরি"
+msgstr "প্রশান্ত/এন্ডারবুরি"
 
 msgid "Pacific/Fakaofo"
-msgstr "প্যাসিফিক/ফাকাওফো"
+msgstr "প্রশান্ত/ফাকাওফো"
 
 msgid "Pacific/Fiji"
-msgstr "প্যাসিফিক/Iফিজি"
+msgstr "প্রশান্ত/Iফিজি"
 
 msgid "Pacific/Funafuti"
-msgstr "প্যাসিফিক/ফুনাফুতি"
+msgstr "প্রশান্ত/ফুনাফুতি"
 
 msgid "Pacific/Galapagos"
-msgstr "প্যাসিফিক/গালাপাগোস"
+msgstr "প্রশান্ত/গালাপাগোস"
 
 msgid "Pacific/Gambier"
-msgstr "প্যাসিফিক/গ্যামবিয়ার"
+msgstr "প্রশান্ত/গ্যামবিয়ার"
 
 msgid "Pacific/Guadalcanal"
-msgstr "প্যাসিফিক/গুয়াডালকানাল"
+msgstr "প্রশান্ত/গুয়াডালকানাল"
 
 msgid "Pacific/Guam"
-msgstr "প্যাসিফিক/গুয়াম"
+msgstr "প্রশান্ত/গুয়াম"
 
 msgid "Pacific/Honolulu"
-msgstr "প্যাসিফিক/হনোলুলু"
+msgstr "প্রশান্ত/হনোলুলু"
 
 msgid "Pacific/Johnston"
-msgstr "প্যাসিফিক/জনস্টন"
+msgstr "প্রশান্ত/জনস্টন"
 
 msgid "Pacific/Kiritimati"
-msgstr "প্যাসিফিক/কিরিতিমাতি"
+msgstr "প্রশান্ত/কিরিতিমাতি"
 
 # is this kiribati?
 msgid "Pacific/Kosrae"
-msgstr "প্যাসিফিক/কোসরে"
+msgstr "প্রশান্ত/কোসরে"
 
 msgid "Pacific/Kwajalein"
-msgstr "প্যাসিফিক/কয়াজালিইন"
+msgstr "প্রশান্ত/কয়াজালিইন"
 
 msgid "Pacific/Majuro"
-msgstr "প্যাসিফিক/মাজুরো"
+msgstr "প্রশান্ত/মাজুরো"
 
 msgid "Pacific/Marquesas"
-msgstr "প্যাসিফিক/মারকিসাস"
+msgstr "প্রশান্ত/মারকিসাস"
 
 # not sure
 msgid "Pacific/Midway"
-msgstr "প্যাসিফিক/মিডওয়ে"
+msgstr "প্রশান্ত/মিডওয়ে"
 
 msgid "Pacific/Nauru"
-msgstr "প্যাসিফিক/নাউরু"
+msgstr "প্রশান্ত/নাউরু"
 
 msgid "Pacific/Niue"
-msgstr "প্যাসিফিক/নিউ"
+msgstr "প্রশান্ত/নিউ"
 
 msgid "Pacific/Norfolk"
-msgstr "প্যাসিফিক/নোরফোল্ক"
+msgstr "প্রশান্ত/নোরফোল্ক"
 
 msgid "Pacific/Noumea"
-msgstr "প্যাসিফিক/নুমিয়া"
+msgstr "প্রশান্ত/নুমিয়া"
 
 msgid "Pacific/Pago_Pago"
-msgstr "প্যাসিফিক/পাগো_পাগো"
+msgstr "প্রশান্ত/পাগো_পাগো"
 
 msgid "Pacific/Palau"
-msgstr "প্যাসিফিক/পালাউ"
+msgstr "প্রশান্ত/পালাউ"
 
 msgid "Pacific/Pitcairn"
-msgstr "প্যাসিফিক/পিটকেয়ার্ন"
+msgstr "প্রশান্ত/পিটকেয়ার্ন"
 
 msgid "Pacific/Ponape"
-msgstr "প্যাসিফিক/পোনাপে"
+msgstr "প্রশান্ত/পোনাপে"
 
 msgid "Pacific/Port_Moresby"
-msgstr "প্যাসিফিক/পোর্ট-মোর্সবি"
+msgstr "প্রশান্ত/পোর্ট-মোর্সবি"
 
 msgid "Pacific/Rarotonga"
-msgstr "প্যাসিফিক/রারোটোঙ্গা"
+msgstr "প্রশান্ত/রারোটোঙ্গা"
 
 msgid "Pacific/Saipan"
-msgstr "প্যাসিফিক/সাইপান"
+msgstr "প্রশান্ত/সাইপান"
 
 msgid "Pacific/Samoa"
-msgstr "প্যাসিফিক/সামোয়া"
+msgstr "প্রশান্ত/সামোয়া"
 
 msgid "Pacific/Tahiti"
-msgstr "প্যাসিফিক/তাহিতি"
+msgstr "প্রশান্ত/তাহিতি"
 
 msgid "Pacific/Tarawa"
-msgstr "প্যাসিফিক/তারাওয়া"
+msgstr "প্রশান্ত/তারাওয়া"
 
 msgid "Pacific/Tongatapu"
-msgstr "প্যাসিফিক/টোঙ্গাটাপু"
+msgstr "প্রশান্ত/টোঙ্গাটাপু"
 
 msgid "Pacific/Truk"
-msgstr "প্যাসিফিক/ট্রুক"
+msgstr "প্রশান্ত/ট্রুক"
 
 msgid "Pacific/Wake"
-msgstr "প্যাসিফিক/ওয়েক"
+msgstr "প্রশান্ত/ওয়েক"
 
 msgid "Pacific/Wallis"
-msgstr "প্যাসিফিক/ওয়ালিস"
+msgstr "প্রশান্ত/ওয়ালিস"
 
 msgid "Pacific/Yap"
-msgstr "প্যাসিফিক/ইয়াপ"
+msgstr "প্রশান্ত/ইয়াপ"
 
 msgid "Poland"
 msgstr "পোল্যান্ড"
