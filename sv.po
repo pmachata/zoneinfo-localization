@@ -1,13 +1,13 @@
 # Swedish messages for timezones.
 # Copyright (C) 2004 Christian Rose <menthos@menthos.com>.
 #
-# $Id: sv.po,v 1.6 2004/03/17 22:21:40 menthos Exp $
+# $Id: sv.po,v 1.7 2004/03/18 18:40:41 menthos Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-17 23:26+0100\n"
+"PO-Revision-Date: 2004-03-18 19:45+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -204,7 +204,7 @@ msgid "America/Belize"
 msgstr "Amerika/Belize"
 
 msgid "America/Boa_Vista"
-msgstr "Amerika/Boa_Vista"
+msgstr "Amerika/Boa_Vísta"
 
 msgid "America/Bogota"
 msgstr "Amerika/Bogotá"
@@ -219,7 +219,7 @@ msgid "America/Cambridge_Bay"
 msgstr "Amerika/Cambridge_Bay"
 
 msgid "America/Cancun"
-msgstr "Amerika/Cancun"
+msgstr "Amerika/Cancún"
 
 msgid "America/Caracas"
 msgstr "Amerika/Caracas"
@@ -249,10 +249,10 @@ msgid "America/Cuiaba"
 msgstr "Amerika/Cuiaba"
 
 msgid "America/Curacao"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Curacão"
 
 msgid "America/Danmarkshavn"
-msgstr "Amerika/Danmarkshavn"
+msgstr "Amerika/Danmarkshamn"
 
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
@@ -360,7 +360,7 @@ msgid "America/Kentucky/Monticello"
 msgstr "Amerika/Kentucky/Monticello"
 
 msgid "America/Knox_IN"
-msgstr "Amerika/Knox_IN"
+msgstr "Amerika/Knox_Indiana"
 
 msgid "America/La_Paz"
 msgstr "Amerika/La_Paz"
@@ -387,7 +387,7 @@ msgid "America/Martinique"
 msgstr "Amerika/Martinique"
 
 msgid "America/Mazatlan"
-msgstr "Amerika/Mazatlan"
+msgstr "Amerika/Mazatlán"
 
 msgid "America/Mendoza"
 msgstr "Amerika/Mendoza"
@@ -432,7 +432,7 @@ msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/North_Dakota/Centrala"
+msgstr "Amerika/Norddakota/Centrala"
 
 msgid "America/Panama"
 msgstr "Amerika/Panamá"
@@ -615,7 +615,7 @@ msgid "Asia/Beirut"
 msgstr "Asien/Beirut"
 
 msgid "Asia/Bishkek"
-msgstr "Asien/Bishkek"
+msgstr "Asien/Bisjkek"
 
 msgid "Asia/Brunei"
 msgstr "Asien/Brunei"
@@ -627,7 +627,7 @@ msgid "Asia/Choibalsan"
 msgstr "Asien/Choibalsan"
 
 msgid "Asia/Chongqing"
-msgstr "Asien/Chungking"
+msgstr "Asien/Chongqing"
 
 msgid "Asia/Chungking"
 msgstr "Asien/Chungking"
@@ -636,7 +636,7 @@ msgid "Asia/Colombo"
 msgstr "Asien/Colombo"
 
 msgid "Asia/Dacca"
-msgstr "Asien/Dhaka"
+msgstr "Asien/Dacca"
 
 msgid "Asia/Damascus"
 msgstr "Asien/Damaskus"
@@ -735,7 +735,7 @@ msgid "Asia/Omsk"
 msgstr "Asien/Omsk"
 
 msgid "Asia/Oral"
-msgstr "Asien/Ural"
+msgstr "Asien/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asien/Phnom_Penh"
@@ -750,7 +750,7 @@ msgid "Asia/Qatar"
 msgstr "Asien/Qatar"
 
 msgid "Asia/Qyzylorda"
-msgstr "Asien/Qyzylorda"
+msgstr "Asien/Kzyl-Orda"
 
 msgid "Asia/Rangoon"
 msgstr "Asien/Rangoon"
@@ -771,7 +771,7 @@ msgid "Asia/Saigon"
 msgstr "Asien/Saigon"
 
 msgid "Asia/Sakhalin"
-msgstr "Asien/Sakhalin"
+msgstr "Asien/Sachalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asien/Samarkand"
@@ -846,7 +846,7 @@ msgid "Atlantic/Canary"
 msgstr "Atlanten/Kanarieöarna"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "Atlanten/Cape_Verde"
+msgstr "Atlanten/Kap_Verde"
 
 msgid "Atlantic/Faeroe"
 msgstr "Atlanten/Färöarna"
@@ -861,7 +861,7 @@ msgid "Atlantic/Reykjavik"
 msgstr "Atlanten/Reykjavik"
 
 msgid "Atlantic/South_Georgia"
-msgstr "Atlanten/South_Georgia"
+msgstr "Atlanten/Sydgeorgia"
 
 msgid "Atlantic/Stanley"
 msgstr "Atlanten/Stanley"
@@ -906,7 +906,7 @@ msgid "Australia/North"
 msgstr "Australien/North"
 
 msgid "Australia/NSW"
-msgstr "Australien/NSW"
+msgstr "Australien/Nya Sydwales"
 
 msgid "Australia/Perth"
 msgstr "Australien/Perth"
@@ -915,7 +915,7 @@ msgid "Australia/Queensland"
 msgstr "Australien/Queensland"
 
 msgid "Australia/South"
-msgstr "Australien/South"
+msgstr "Australien/Syd"
 
 msgid "Australia/Sydney"
 msgstr "Australien/Sydney"
@@ -927,7 +927,7 @@ msgid "Australia/Victoria"
 msgstr "Australien/Victoria"
 
 msgid "Australia/West"
-msgstr "Australien/West"
+msgstr "Australien/Väst"
 
 msgid "Australia/Yancowinna"
 msgstr "Australien/Yancowinna"
@@ -936,7 +936,7 @@ msgid "Brazil/Acre"
 msgstr "Brasilien/Acre"
 
 msgid "Brazil/DeNoronha"
-msgstr "Brasilien/DeNoronha"
+msgstr "Brasilien/De_Noroña"
 
 msgid "Brazil/East"
 msgstr "Brasilien/Öst"
@@ -945,13 +945,13 @@ msgid "Brazil/West"
 msgstr "Brasilien/Väst"
 
 msgid "Canada/Atlantic"
-msgstr "Kanada/Atlantic"
+msgstr "Kanada/Atlanten"
 
 msgid "Canada/Central"
-msgstr "Kanada/Central"
+msgstr "Kanada/Centrala"
 
 msgid "Canada/Eastern"
-msgstr "Kanada/Eastern"
+msgstr "Kanada/Östra"
 
 msgid "Canada/East-Saskatchewan"
 msgstr "Kanada/Öst-Saskatchewan"
@@ -1236,7 +1236,7 @@ msgid "Europe/Tiraspol"
 msgstr "Europa/Tiraspol"
 
 msgid "Europe/Uzhgorod"
-msgstr "Europa/Uzjhorod"
+msgstr "Europa/Uzjgorod"
 
 msgid "Europe/Vaduz"
 msgstr "Europa/Vaduz"
@@ -1257,7 +1257,7 @@ msgid "Europe/Zagreb"
 msgstr "Europa/Zagreb"
 
 msgid "Europe/Zaporozhye"
-msgstr "Europa/Zaporozhye"
+msgstr "Europa/Zaporozje"
 
 msgid "Europe/Zurich"
 msgstr "Europa/Zürich"
@@ -1617,4 +1617,4 @@ msgid "W-SU"
 msgstr "W-SU"
 
 msgid "Zulu"
-msgstr "Nollmeredianen"
+msgstr "Z-tid"
