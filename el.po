@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: (null)\n"
-"PO-Revision-Date: 2003-03-11 01:13--200\n"
-"Last-Translator: Nikos Charonitakis <charosn@her.forthnet.gr>\n"
+"PO-Revision-Date: 2004-04-25 17:35-0200\n"
+"Last-Translator: Nikos Charonitakis <charosn@her.fothnet.gr>\n"
 "Language-Team: Greek <nls@hellug.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1272,16 +1272,16 @@ msgid "GB-Eire"
 msgstr ""
 
 msgid "GMT"
-msgstr ""
+msgstr "GMT"
 
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 msgid "GMT-0"
-msgstr ""
+msgstr "GMT-0"
 
 msgid "GMT+0"
-msgstr ""
+msgstr "GMT+0"
 
 msgid "Greenwich"
 msgstr "Γκρήνουιτς"
@@ -1359,13 +1359,13 @@ msgid "Mexico/General"
 msgstr "Μεξικό/Γενικά"
 
 msgid "Mideast/Riyadh87"
-msgstr ""
+msgstr "Μέση ανατολή/Riyadh87"
 
 msgid "Mideast/Riyadh88"
-msgstr ""
+msgstr "Μέση ανατολή/Riyadh88"
 
 msgid "Mideast/Riyadh89"
-msgstr ""
+msgstr "Μέση ανατολή/Riyadh89"
 
 msgid "MST"
 msgstr ""
@@ -1566,7 +1566,7 @@ msgid "Turkey"
 msgstr "Τουρκία"
 
 msgid "UCT"
-msgstr ""
+msgstr "UCT"
 
 msgid "Universal"
 msgstr ""
@@ -1608,7 +1608,7 @@ msgid "US/Samoa"
 msgstr "ΗΠΑ/Σαμόα"
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "WET"
 msgstr ""
@@ -1618,3 +1618,4 @@ msgstr ""
 
 msgid "Zulu"
 msgstr "Ζουλού"
+
