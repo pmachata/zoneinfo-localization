@@ -74,3 +74,26 @@ install: $(CATALOGS)
 
 %.mo: %.po
 	msgfmt -o $@ $<
+
+MSGCONV=msgconv -t utf-8
+
+force-utf8:
+	@catalogs='$(CATALOGS)'; \
+	for cat in $$catalogs; do \
+		lang=`echo $$cat | sed 's/.mo//'`; \
+		if $(MSGCONV) $$lang.po > $$lang.po.utf8 ; then \
+			mv -f $$lang.po.utf8 $$lang.po ; \
+			echo "$(MSGCONV) of $$lang succeeded" ; \
+		else \
+			echo "$(MSGCONV) of $$lang failed" ; \
+			rm -f $$lang.po.utf8 ; \
+		fi \
+	done
+
+report:
+	@catalogs='$(CATALOGS)'; \
+	for cat in $$catalogs; do \
+		lang=`echo $$cat | sed 's/.mo//'`; \
+		echo -n "$$lang.po: " ; \
+		msgfmt --statistics -o /dev/null $$lang.po ; \
+	done
