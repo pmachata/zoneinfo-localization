@@ -1,10 +1,17 @@
+# Ukrainian translation to redhat-config-boot.
+# Copyright (C) Free Software Foundation
+# This file is distributed under the same license as the redhat-config-boot package.
+# Alex Lobas <soft@cw.comizdat.com>
+# Maxim Dziumanenko <mvd@mylinux.com.ua>, 2003.
+#
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.1\n"
 "POT-Creation-Date: 2001-01-25 15:49-0500\n"
-"PO-Revision-Date: 1999-04-09 10:00+0500\n"
-"Last-Translator: Alex Lobas <soft@cw.comizdat.com>\n"
-"Language-Team: Comizdat <soft@cw.comizdat.com>\n"
+"PO-Revision-Date: 2003-11-09 14:29+0200\n"
+"Last-Translator: Maxim Dziumanenko <mvd@mylinux.com.ua>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -264,9 +271,8 @@ msgstr "America/Dominica"
 msgid "America/Edmonton"
 msgstr "America/Edmonton"
 
-#, fuzzy
 msgid "America/Eirunepe"
-msgstr "America/Winnipeg"
+msgstr "America/Eirunepe"
 
 msgid "America/El_Salvador"
 msgstr "America/El_Salvador"
@@ -457,9 +463,8 @@ msgstr "America/Rainy_River"
 msgid "America/Rankin_Inlet"
 msgstr "America/Rankin_Inlet"
 
-#, fuzzy
 msgid "America/Recife"
-msgstr "America/Belize"
+msgstr "America/Recife"
 
 msgid "America/Regina"
 msgstr "America/Regina"
@@ -620,9 +625,8 @@ msgstr "Asia/Dacca"
 msgid "Asia/Damascus"
 msgstr "Asia/Damascus"
 
-#, fuzzy
 msgid "Asia/Dhaka"
-msgstr "Asia/Dacca"
+msgstr "Asia/Dhaka"
 
 msgid "Asia/Dili"
 msgstr "Asia/Dili"
