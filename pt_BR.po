@@ -1,922 +1,903 @@
+# translation of pt_BR.po to 
+# translation of pt_BR.po to
 # Brazilian Portuguese translation of the "timezones" messages
-# Copyright (C) 1996 Free Software Foundation, Inc.
+# Copyright (C) 1996,2003 Free Software Foundation, Inc.
 # Wanderlei Antonio Cavassin <cavassin@conectiva.com.br>, 1997
+# Paul Gampe <pgampe@redhat.com>, 2003
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones 2.1\n"
+"Project-Id-Version: pt_BR\n"
 "POT-Creation-Date: 2001-01-25 15:49-0500\n"
-"PO-Revision-Date: 1998-11-15 11:06-03:00\n"
-"Last-Translator: Arnaldo Carvalho de Melo <acme@conectiva.com.br>\n"
-"Language-Team: Portuguese <pt@li.org>\n"
+"PO-Revision-Date: 2003-09-12 09:06+1000\n"
+"Last-Translator: Paul Gampe <pgampe@redhat.com>\n"
+"Language-Team:  <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0\n"
 
 msgid "Africa/Abidjan"
-msgstr "Ãfrica/AbidjÃ£"
+msgstr "África/Abidjã"
 
 msgid "Africa/Accra"
-msgstr "Ãfrica/Acra"
+msgstr "África/Acra"
 
 msgid "Africa/Addis_Ababa"
-msgstr "Ãfrica/Adis Abeba"
+msgstr "África/Adis Abeba"
 
 msgid "Africa/Algiers"
-msgstr "Ãfrica/ArgÃ©lia"
+msgstr "África/Argélia"
 
 msgid "Africa/Asmera"
-msgstr "Ãfrica/Asmara"
+msgstr "África/Asmara"
 
 msgid "Africa/Bamako"
-msgstr "Ãfrca/Bamaco"
+msgstr "Áfrca/Bamaco"
 
 msgid "Africa/Bangui"
-msgstr "Ãfrica/Bangui"
+msgstr "África/Bangui"
 
 msgid "Africa/Banjul"
-msgstr "Ãfrica/Banjul"
+msgstr "África/Banjul"
 
 msgid "Africa/Bissau"
-msgstr "Ãfrica/Bissau"
+msgstr "África/Bissau"
 
 msgid "Africa/Blantyre"
-msgstr "Ãfrica/Blantyre"
+msgstr "África/Blantyre"
 
 msgid "Africa/Brazzaville"
-msgstr "Ãfrica/Brazzaville"
+msgstr "África/Brazzaville"
 
 msgid "Africa/Bujumbura"
-msgstr "Ãfrica/Bujumbura"
+msgstr "África/Bujumbura"
 
 msgid "Africa/Cairo"
-msgstr "Ãfrica/Cairo"
+msgstr "África/Cairo"
 
 msgid "Africa/Casablanca"
-msgstr "Ãfrica/Casablanca"
+msgstr "África/Casablanca"
 
 msgid "Africa/Ceuta"
-msgstr "Ãfrica/Ceuta"
+msgstr "África/Ceuta"
 
 msgid "Africa/Conakry"
-msgstr "Ãfrica/Conacri"
+msgstr "África/Conacri"
 
 msgid "Africa/Dakar"
-msgstr "Ãfrica/Dacar"
+msgstr "África/Dacar"
 
 msgid "Africa/Dar_es_Salaam"
-msgstr "Ãfrica/Dar es Salaam"
+msgstr "África/Dar es Salaam"
 
 msgid "Africa/Djibouti"
-msgstr "Ãfrica/Djibuti"
+msgstr "África/Djibuti"
 
 msgid "Africa/Douala"
-msgstr "Ãfrica/Douala"
+msgstr "África/Douala"
 
 msgid "Africa/El_Aaiun"
-msgstr "Ãfrica/El Aiun"
+msgstr "África/El Aiun"
 
 msgid "Africa/Freetown"
-msgstr "Ãfrica/Freetown"
+msgstr "África/Freetown"
 
 msgid "Africa/Gaborone"
-msgstr "Ãfrica/Gaborone"
+msgstr "África/Gaborone"
 
 msgid "Africa/Harare"
-msgstr "Ãfrica/Harare"
+msgstr "África/Harare"
 
 msgid "Africa/Johannesburg"
-msgstr "Ãfrica/Johanesburgo"
+msgstr "África/Johanesburgo"
 
 msgid "Africa/Kampala"
-msgstr "Ãfrica/Campala"
+msgstr "África/Campala"
 
 msgid "Africa/Khartoum"
-msgstr "Ãfrica/Cartum"
+msgstr "África/Cartum"
 
 msgid "Africa/Kigali"
-msgstr "Ãfrica/Kigali"
+msgstr "África/Kigali"
 
 msgid "Africa/Kinshasa"
-msgstr "Ãfrica/Kinshasa"
+msgstr "África/Kinshasa"
 
 msgid "Africa/Lagos"
-msgstr "Ãfrica/Lagos"
+msgstr "África/Lagos"
 
 msgid "Africa/Libreville"
-msgstr "Ãfrica/Libreville"
+msgstr "África/Libreville"
 
 msgid "Africa/Lome"
-msgstr "Ãfrica/Lome"
+msgstr "África/Lome"
 
 msgid "Africa/Luanda"
-msgstr "Ãfrica/Luanda"
+msgstr "África/Luanda"
 
 msgid "Africa/Lubumbashi"
-msgstr "Ãfrica/Lumbubashi"
+msgstr "África/Lumbubashi"
 
 msgid "Africa/Lusaka"
-msgstr "Ãfrica/Lusaka"
+msgstr "África/Lusaka"
 
 msgid "Africa/Malabo"
-msgstr "Ãfrica/Malabo"
+msgstr "África/Malabo"
 
 msgid "Africa/Maputo"
-msgstr "Ãfrica/Maputo"
+msgstr "África/Maputo"
 
 msgid "Africa/Maseru"
-msgstr "Ãfrica/Maseru"
+msgstr "África/Maseru"
 
 msgid "Africa/Mbabane"
-msgstr "Ãfrica/Mbabane"
+msgstr "África/Mbabane"
 
 msgid "Africa/Mogadishu"
-msgstr "Ãfrica/Mogadishu"
+msgstr "África/Mogadishu"
 
 msgid "Africa/Monrovia"
-msgstr "Ãfrica/MonrÃ³via"
+msgstr "África/Monróvia"
 
 msgid "Africa/Nairobi"
-msgstr "Ãfrica/NairÃ³bi"
+msgstr "África/Nairóbi"
 
 msgid "Africa/Ndjamena"
-msgstr "Ãfrica/Ndjamena"
+msgstr "África/Ndjamena"
 
 msgid "Africa/Niamey"
-msgstr "Ãfrica/Niamei"
+msgstr "África/Niamei"
 
 msgid "Africa/Nouakchott"
-msgstr "Ãfrica/Nuakchott"
+msgstr "África/Nuakchott"
 
 msgid "Africa/Ouagadougou"
-msgstr "Ãfrica/Uagadugu"
+msgstr "África/Uagadugu"
 
 msgid "Africa/Porto-Novo"
-msgstr "Ãfrica/Porto Novo"
+msgstr "África/Porto Novo"
 
 msgid "Africa/Sao_Tome"
-msgstr "Ãfrica/SÃ£o TomÃ©"
+msgstr "África/São Tomé"
 
 msgid "Africa/Timbuktu"
-msgstr "Ãfrica/Tombouctou"
+msgstr "África/Tombouctou"
 
 msgid "Africa/Tripoli"
-msgstr "Ãfrica/TrÃ­poli"
+msgstr "África/Trípoli"
 
 msgid "Africa/Tunis"
-msgstr "Ãfrica/TÃºnis"
+msgstr "África/Túnis"
 
 msgid "Africa/Windhoek"
-msgstr "Ãfrica/Windhoek"
+msgstr "África/Windhoek"
 
 msgid "America/Adak"
-msgstr "AmÃ©rica/Adak"
+msgstr "América/Adak"
 
 msgid "America/Anchorage"
-msgstr "AmÃ©rica/Anchorage"
+msgstr "América/Anchorage"
 
 msgid "America/Anguilla"
-msgstr "AmÃ©rica/Anguila"
+msgstr "América/Anguila"
 
 msgid "America/Antigua"
-msgstr "AmÃ©rica/AntÃ­gua"
+msgstr "América/Antígua"
 
-#, fuzzy
 msgid "America/Araguaina"
-msgstr "AmÃ©rica/Aruba"
+msgstr "América/Araguaina"
 
 msgid "America/Aruba"
-msgstr "AmÃ©rica/Aruba"
+msgstr "América/Aruba"
 
 msgid "America/Asuncion"
-msgstr "AmÃ©rica/AssunÃ§Ã£o"
+msgstr "América/Assunção"
 
 msgid "America/Atka"
-msgstr "AmÃ©rica/Atka"
+msgstr "América/Atka"
 
 msgid "America/Barbados"
-msgstr "AmÃ©rica/Barbados"
+msgstr "América/Barbados"
 
-#, fuzzy
 msgid "America/Belem"
-msgstr "AmÃ©rica/Belize"
+msgstr "América/Belem"
 
 msgid "America/Belize"
-msgstr "AmÃ©rica/Belize"
+msgstr "América/Belize"
 
-#, fuzzy
 msgid "America/Boa_Vista"
-msgstr "AmÃ©rica/Boise"
+msgstr "América/Boa Vista"
 
 msgid "America/Bogota"
-msgstr "AmÃ©rica/BogotÃ¡"
+msgstr "América/Bogotá"
 
 msgid "America/Boise"
-msgstr "AmÃ©rica/Boise"
+msgstr "América/Boise"
 
 msgid "America/Buenos_Aires"
-msgstr "AmÃ©rica/Buenos Aires"
+msgstr "América/Buenos Aires"
 
-#, fuzzy
 msgid "America/Cambridge_Bay"
-msgstr "AmÃ©rica/Glace Bay"
+msgstr "América/Gambridge Bay"
 
-#, fuzzy
 msgid "America/Cancun"
-msgstr "AmÃ©rica/Caiena"
+msgstr "América/Cancun"
 
 msgid "America/Caracas"
-msgstr "AmÃ©rica/Caracas"
+msgstr "América/Caracas"
 
 msgid "America/Catamarca"
-msgstr "AmÃ©rica/Catamarca"
+msgstr "América/Catamarca"
 
 msgid "America/Cayenne"
-msgstr "AmÃ©rica/Caiena"
+msgstr "América/Caiena"
 
 msgid "America/Cayman"
-msgstr "AmÃ©rica/CaimÃ£s"
+msgstr "América/Caimãs"
 
 msgid "America/Chicago"
-msgstr "AmÃ©rica/Chicago"
+msgstr "América/Chicago"
 
-#, fuzzy
 msgid "America/Chihuahua"
-msgstr "AmÃ©rica/CuiabÃ¡"
+msgstr "América/Chihuahua"
 
 msgid "America/Cordoba"
-msgstr "AmÃ©rica/CÃ³rdoba"
+msgstr "América/Córdoba"
 
 msgid "America/Costa_Rica"
-msgstr "AmÃ©rica/Costa Rica"
+msgstr "América/Costa Rica"
 
 msgid "America/Cuiaba"
-msgstr "AmÃ©rica/CuiabÃ¡"
+msgstr "América/Cuiabá"
 
 msgid "America/Curacao"
-msgstr "AmÃ©rica/CuraÃ§ao"
+msgstr "América/Curaçao"
 
 msgid "America/Dawson"
-msgstr "AmÃ©rica/Dawson"
+msgstr "América/Dawson"
 
 msgid "America/Dawson_Creek"
-msgstr "AmÃ©rica/Dawson Creek"
+msgstr "América/Dawson Creek"
 
 msgid "America/Denver"
-msgstr "AmÃ©rica/Denver"
+msgstr "América/Denver"
 
 msgid "America/Detroit"
-msgstr "AmÃ©rica/Detroit"
+msgstr "América/Detroit"
 
 msgid "America/Dominica"
-msgstr "AmÃ©rica/Dominica"
+msgstr "América/Dominica"
 
 msgid "America/Edmonton"
-msgstr "AmÃ©rica/Edmonton"
+msgstr "América/Edmonton"
 
-#, fuzzy
 msgid "America/Eirunepe"
-msgstr "AmÃ©rica/Winnipeg"
+msgstr "América/Eirunepe"
 
 msgid "America/El_Salvador"
-msgstr "AmÃ©rica/El Salvador"
+msgstr "América/El Salvador"
 
 msgid "America/Ensenada"
-msgstr "AmÃ©rica/Ensenada"
+msgstr "América/Ensenada"
 
 msgid "America/Fortaleza"
-msgstr "AmÃ©rica/Fortaleza"
+msgstr "América/Fortaleza"
 
 msgid "America/Fort_Wayne"
-msgstr "AmÃ©rica/Fort Wayne"
+msgstr "América/Fort Wayne"
 
 msgid "America/Glace_Bay"
-msgstr "AmÃ©rica/Glace Bay"
+msgstr "América/Glace Bay"
 
 msgid "America/Godthab"
-msgstr "AmÃ©rica/Godthab"
+msgstr "América/Godthab"
 
 msgid "America/Goose_Bay"
-msgstr "AmÃ©rica/Goose Bay"
+msgstr "América/Goose Bay"
 
 msgid "America/Grand_Turk"
-msgstr "AmÃ©rica/Grand Turk"
+msgstr "América/Grand Turk"
 
 msgid "America/Grenada"
-msgstr "AmÃ©rica/Granada"
+msgstr "América/Granada"
 
 msgid "America/Guadeloupe"
-msgstr "AmÃ©rica/Guadalupe"
+msgstr "América/Guadalupe"
 
 msgid "America/Guatemala"
-msgstr "AmÃ©rica/Guatemala"
+msgstr "América/Guatemala"
 
 msgid "America/Guayaquil"
-msgstr "AmÃ©rica/Guaiaquil"
+msgstr "América/Guaiaquil"
 
 msgid "America/Guyana"
-msgstr "AmÃ©rica/Guiana"
+msgstr "América/Guiana"
 
 msgid "America/Halifax"
-msgstr "AmÃ©rica/Halifax"
+msgstr "América/Halifax"
 
 msgid "America/Havana"
-msgstr "AmÃ©rica/Havana"
+msgstr "América/Havana"
 
-#, fuzzy
 msgid "America/Hermosillo"
-msgstr "AmÃ©rica/Detroit"
+msgstr "América/Hermosillo"
 
 msgid "America/Indiana/Indianapolis"
-msgstr "AmÃ©rica/Indiana/IndianÃ¡polis"
+msgstr "América/Indiana/Indianápolis"
 
 msgid "America/Indiana/Knox"
-msgstr "AmÃ©rica/Indiana/Knox"
+msgstr "América/Indiana/Knox"
 
 msgid "America/Indiana/Marengo"
-msgstr "AmÃ©rica/Indiana/Marengo"
+msgstr "América/Indiana/Marengo"
 
 msgid "America/Indianapolis"
-msgstr "AmÃ©rica/IndianÃ¡polis"
+msgstr "América/Indianápolis"
 
 msgid "America/Indiana/Vevay"
-msgstr "AmÃ©rica/Indiana/Vevay"
+msgstr "América/Indiana/Vevay"
 
 msgid "America/Inuvik"
-msgstr "AmÃ©rica/Inuvik"
+msgstr "América/Inuvik"
 
 msgid "America/Iqaluit"
-msgstr "AmÃ©rica/Iqaluit"
+msgstr "América/Iqaluit"
 
 msgid "America/Jamaica"
-msgstr "AmÃ©rica/Jamaica"
+msgstr "América/Jamaica"
 
 msgid "America/Jujuy"
-msgstr "AmÃ©rica/Jujuy"
+msgstr "América/Jujuy"
 
 msgid "America/Juneau"
-msgstr "AmÃ©rica/Juneau"
+msgstr "América/Juneau"
 
-#, fuzzy
 msgid "America/Kentucky/Louisville"
-msgstr "AmÃ©rica/Louisville"
+msgstr "América/Kentucky/Louisville"
 
-#, fuzzy
 msgid "America/Kentucky/Monticello"
-msgstr "AmÃ©rica/MontevidÃ©u"
+msgstr "América/Kentucky/Monticello"
 
 msgid "America/Knox_IN"
-msgstr "AmÃ©rica/Knox IN"
+msgstr "América/Knox IN"
 
 msgid "America/La_Paz"
-msgstr "AmÃ©rica/La Paz"
+msgstr "América/La Paz"
 
 msgid "America/Lima"
-msgstr "AmÃ©rica/Lima"
+msgstr "América/Lima"
 
 msgid "America/Los_Angeles"
-msgstr "AmÃ©rica/Los Angeles"
+msgstr "América/Los Angeles"
 
 msgid "America/Louisville"
-msgstr "AmÃ©rica/Louisville"
+msgstr "América/Louisville"
 
 msgid "America/Maceio"
-msgstr "AmÃ©rica/MaceiÃ³"
+msgstr "América/Maceió"
 
 msgid "America/Managua"
-msgstr "AmÃ©rica/ManÃ¡gua"
+msgstr "América/Manágua"
 
 msgid "America/Manaus"
-msgstr "AmÃ©rica/Manaus"
+msgstr "América/Manaus"
 
 msgid "America/Martinique"
-msgstr "AmÃ©rica/Martinica"
+msgstr "América/Martinica"
 
 msgid "America/Mazatlan"
-msgstr "AmÃ©rica/Mazatlan"
+msgstr "América/Mazatlan"
 
 msgid "America/Mendoza"
-msgstr "AmÃ©rica/Mendoza"
+msgstr "América/Mendoza"
 
 msgid "America/Menominee"
-msgstr "AmÃ©rica/Menominee"
+msgstr "América/Menominee"
 
-#, fuzzy
 msgid "America/Merida"
-msgstr "AmÃ©rica/Mendoza"
+msgstr "América/Merida"
 
 msgid "America/Mexico_City"
-msgstr "AmÃ©rica/Cidade do MÃ©xico"
+msgstr "América/Cidade do México"
 
 msgid "America/Miquelon"
-msgstr "AmÃ©rica/Miquelon"
+msgstr "América/Miquelon"
 
-#, fuzzy
 msgid "America/Monterrey"
-msgstr "AmÃ©rica/Montserrat"
+msgstr "América/Monterrey"
 
 msgid "America/Montevideo"
-msgstr "AmÃ©rica/MontevidÃ©u"
+msgstr "América/Montevidéu"
 
 msgid "America/Montreal"
-msgstr "AmÃ©rica/Montreal"
+msgstr "América/Montreal"
 
 msgid "America/Montserrat"
-msgstr "AmÃ©rica/Montserrat"
+msgstr "América/Montserrat"
 
 msgid "America/Nassau"
-msgstr "AmÃ©rica/Nassau"
+msgstr "América/Nassau"
 
 msgid "America/New_York"
-msgstr "AmÃ©rica/Nova Iorque"
+msgstr "América/Nova Iorque"
 
 msgid "America/Nipigon"
-msgstr "AmÃ©rica/Nipigon"
+msgstr "América/Nipigon"
 
 msgid "America/Nome"
-msgstr "AmÃ©rica/Nome"
+msgstr "América/Nome"
 
 msgid "America/Noronha"
-msgstr "AmÃ©rica/Fernando de Noronha"
+msgstr "América/Fernando de Noronha"
 
 msgid "America/Panama"
-msgstr "AmÃ©rica/PanamÃ¡"
+msgstr "América/Panamá"
 
 msgid "America/Pangnirtung"
-msgstr "AmÃ©rica/Pangnirtung"
+msgstr "América/Pangnirtung"
 
 msgid "America/Paramaribo"
-msgstr "AmÃ©rica/Paramaribo"
+msgstr "América/Paramaribo"
 
 msgid "America/Phoenix"
-msgstr "AmÃ©rica/FÃªnix"
+msgstr "América/Fênix"
 
 msgid "America/Port-au-Prince"
-msgstr "AmÃ©rica/Port-au-Prince"
+msgstr "América/Port-au-Prince"
 
 msgid "America/Porto_Acre"
-msgstr "AmÃ©rica/Porto Acre"
+msgstr "América/Porto Acre"
 
 msgid "America/Port_of_Spain"
-msgstr "AmÃ©rica/Port of Spain"
+msgstr "América/Port of Spain"
 
-#, fuzzy
 msgid "America/Porto_Velho"
-msgstr "AmÃ©rica/Porto Acre"
+msgstr "América/Porto Velho"
 
 msgid "America/Puerto_Rico"
-msgstr "AmÃ©rica/Porto Rico"
+msgstr "América/Porto Rico"
 
 msgid "America/Rainy_River"
-msgstr "AmÃ©rica/Rainy River"
+msgstr "América/Rainy River"
 
 msgid "America/Rankin_Inlet"
-msgstr "AmÃ©rica/Rankin Inlet"
+msgstr "América/Rankin Inlet"
 
-#, fuzzy
 msgid "America/Recife"
-msgstr "AmÃ©rica/Belize"
+msgstr "América/Recife"
 
 msgid "America/Regina"
-msgstr "AmÃ©rica/Regina"
+msgstr "América/Regina"
 
 msgid "America/Rosario"
-msgstr "AmÃ©rica/RosÃ¡rio"
+msgstr "América/Rosário"
 
 msgid "America/Santiago"
-msgstr "AmÃ©rica/Santiago"
+msgstr "América/Santiago"
 
 msgid "America/Santo_Domingo"
-msgstr "AmÃ©rica/Santo Domingo"
+msgstr "América/Santo Domingo"
 
 msgid "America/Sao_Paulo"
-msgstr "AmÃ©rica/SÃ£o Paulo"
+msgstr "América/São Paulo"
 
 msgid "America/Scoresbysund"
-msgstr "AmÃ©rica/Scoresbysund"
+msgstr "América/Scoresbysund"
 
 msgid "America/Shiprock"
-msgstr "AmÃ©rica/Shiprock"
+msgstr "América/Shiprock"
 
 msgid "America/St_Johns"
-msgstr "AmÃ©rica/St Johns"
+msgstr "América/St Johns"
 
 msgid "America/St_Kitts"
-msgstr "AmÃ©rica/St Kitts"
+msgstr "América/St Kitts"
 
 msgid "America/St_Lucia"
-msgstr "AmÃ©rica/Santa LÃºcia"
+msgstr "América/Santa Lúcia"
 
 msgid "America/St_Thomas"
-msgstr "AmÃ©rica/St Thomas"
+msgstr "América/St Thomas"
 
 msgid "America/St_Vincent"
-msgstr "AmÃ©rica/SÃ£o Vicente"
+msgstr "América/São Vicente"
 
 msgid "America/Swift_Current"
-msgstr "AmÃ©rica/Swift Current"
+msgstr "América/Swift Current"
 
 msgid "America/Tegucigalpa"
-msgstr "AmÃ©rica/Tegucigalpa"
+msgstr "América/Tegucigalpa"
 
 msgid "America/Thule"
-msgstr "AmÃ©rica/Thule"
+msgstr "América/Thule"
 
 msgid "America/Thunder_Bay"
-msgstr "AmÃ©rica/Thunder Bay"
+msgstr "América/Thunder Bay"
 
 msgid "America/Tijuana"
-msgstr "AmÃ©rica/Tijuana"
+msgstr "América/Tijuana"
 
 msgid "America/Tortola"
-msgstr "AmÃ©rica/Tortola"
+msgstr "América/Tortola"
 
 msgid "America/Vancouver"
-msgstr "AmÃ©rica/Vancouver"
+msgstr "América/Vancouver"
 
 msgid "America/Virgin"
-msgstr "AmÃ©rica/Virgin"
+msgstr "América/Virgin"
 
 msgid "America/Whitehorse"
-msgstr "AmÃ©rica/Whitehorse"
+msgstr "América/Whitehorse"
 
 msgid "America/Winnipeg"
-msgstr "AmÃ©rica/Winnipeg"
+msgstr "América/Winnipeg"
 
 msgid "America/Yakutat"
-msgstr "AmÃ©rica/Yakutat"
+msgstr "América/Yakutat"
 
 msgid "America/Yellowknife"
-msgstr "AmÃ©rica/Yellowknife"
+msgstr "América/Yellowknife"
 
 msgid "Antarctica/Casey"
-msgstr "AntÃ¡rtica/Casey"
+msgstr "Antártica/Casey"
 
 msgid "Antarctica/Davis"
-msgstr "AntÃ¡rtica/Davis"
+msgstr "Antártica/Davis"
 
 msgid "Antarctica/DumontDUrville"
-msgstr "AntÃ¡rtica/DumontDUrville"
+msgstr "Antártica/DumontDUrville"
 
 msgid "Antarctica/Mawson"
-msgstr "AntÃ¡rtica/Mawson"
+msgstr "Antártica/Mawson"
 
 msgid "Antarctica/McMurdo"
-msgstr "AntÃ¡rtica/McMurdo"
+msgstr "Antártica/McMurdo"
 
 msgid "Antarctica/Palmer"
-msgstr "AntÃ¡rtica/Palmer"
+msgstr "Antártica/Palmer"
 
 msgid "Antarctica/South_Pole"
-msgstr "AntÃ¡rtica/Polo Sul"
+msgstr "Antártica/Polo Sul"
 
-#, fuzzy
 msgid "Antarctica/Syowa"
-msgstr "AntÃ¡rtica/Casey"
+msgstr "Antártica/Syowa"
 
 msgid "Arctic/Longyearbyen"
-msgstr "Ãrtico/Longyearbyen"
+msgstr "Ártico/Longyearbyen"
 
 msgid "Asia/Aden"
-msgstr "Ãsia/Ãden"
+msgstr "Ásia/Áden"
 
-#, fuzzy
 msgid "Asia/Almaty"
-msgstr "Ãsia/Alma Ata"
+msgstr "Ásia/Almaty"
 
 msgid "Asia/Amman"
-msgstr "Ãsia/AmÃ£"
+msgstr "Ásia/Amã"
 
 msgid "Asia/Anadyr"
-msgstr "Ãsia/Anadir"
+msgstr "Ásia/Anadir"
 
 msgid "Asia/Aqtau"
-msgstr "Ãsia/Aqtau"
+msgstr "Ásia/Aqtau"
 
 msgid "Asia/Aqtobe"
-msgstr "Ãsia/Aqtobe"
+msgstr "Ásia/Aqtobe"
 
-#, fuzzy
 msgid "Asia/Ashgabat"
-msgstr "Ãsia/Ashkhabad"
+msgstr "Ásia/Ashgabat"
 
 msgid "Asia/Ashkhabad"
-msgstr "Ãsia/Ashkhabad"
+msgstr "Ásia/Ashkhabad"
 
 msgid "Asia/Baghdad"
-msgstr "Ãsia/BagdÃ¡"
+msgstr "Ásia/Bagdá"
 
 msgid "Asia/Bahrain"
-msgstr "Ãsia/Barein"
+msgstr "Ásia/Barein"
 
 msgid "Asia/Baku"
-msgstr "Ãsia/Baku"
+msgstr "Ásia/Baku"
 
 msgid "Asia/Bangkok"
-msgstr "Ãsia/Bangkok"
+msgstr "Ásia/Bangkok"
 
 msgid "Asia/Beirut"
-msgstr "Ãsia/Beirute"
+msgstr "Ásia/Beirute"
 
 msgid "Asia/Bishkek"
-msgstr "Ãsia/Bishkek"
+msgstr "Ásia/Bishkek"
 
 msgid "Asia/Brunei"
-msgstr "Ãsia/Brunei"
+msgstr "Ásia/Brunei"
 
 msgid "Asia/Calcutta"
-msgstr "Ãsia/CalcutÃ¡"
+msgstr "Ásia/Calcutá"
 
 msgid "Asia/Chungking"
-msgstr "Ãsia/Chungking"
+msgstr "Ásia/Chungking"
 
 msgid "Asia/Colombo"
-msgstr "Ãsia/Colombo"
+msgstr "Ásia/Colombo"
 
 msgid "Asia/Dacca"
-msgstr "Ãsia/Daca"
+msgstr "Ásia/Daca"
 
 msgid "Asia/Damascus"
-msgstr "Ãsia/Damasco"
+msgstr "Ásia/Damasco"
 
-#, fuzzy
 msgid "Asia/Dhaka"
-msgstr "Ãsia/Daca"
+msgstr "Ásia/Dhaka"
 
-#, fuzzy
 msgid "Asia/Dili"
-msgstr "Ãsia/Tbilisi"
+msgstr "Ásia/Dili"
 
 msgid "Asia/Dubai"
-msgstr "Ãsia/Dubai"
+msgstr "Ásia/Dubai"
 
 msgid "Asia/Dushanbe"
-msgstr "Ãsia/DushanbÃª"
+msgstr "Ásia/Dushanbê"
 
 msgid "Asia/Gaza"
-msgstr "Ãsia/Gaza"
+msgstr "Ásia/Gaza"
 
 msgid "Asia/Harbin"
-msgstr "Ãsia/Harbin"
+msgstr "Ásia/Harbin"
 
 msgid "Asia/Hong_Kong"
-msgstr "Ãsia/Hong Kong"
+msgstr "Ásia/Hong Kong"
 
-#, fuzzy
 msgid "Asia/Hovd"
-msgstr "Ãsia/Ãden"
+msgstr "Ásia/Hovd"
 
 msgid "Asia/Irkutsk"
-msgstr "Ãsia/Irkutsk"
+msgstr "Ásia/Irkutsk"
 
 msgid "Asia/Istanbul"
-msgstr "Ãsia/Istanbul"
+msgstr "Ásia/Istanbul"
 
 msgid "Asia/Jakarta"
-msgstr "Ãsia/Jacarta"
+msgstr "Ásia/Jacarta"
 
 msgid "Asia/Jayapura"
-msgstr "Ãsia/Jayapura"
+msgstr "Ásia/Jayapura"
 
 msgid "Asia/Jerusalem"
-msgstr "Ãsia/JerusalÃ©m"
+msgstr "Ásia/Jerusalém"
 
 msgid "Asia/Kabul"
-msgstr "Ãsia/Cabul"
+msgstr "Ásia/Cabul"
 
 msgid "Asia/Kamchatka"
-msgstr "Ãsia/Kamchatka"
+msgstr "Ásia/Kamchatka"
 
 msgid "Asia/Karachi"
-msgstr "Ãsia/Karachi"
+msgstr "Ásia/Karachi"
 
 msgid "Asia/Kashgar"
-msgstr "Ãsia/Kashgar"
+msgstr "Ásia/Kashgar"
 
 msgid "Asia/Katmandu"
-msgstr "Ãsia/Katmandu"
+msgstr "Ásia/Katmandu"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "Ãsia/Krasnoyarsk"
+msgstr "Ásia/Krasnoyarsk"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Ãsia/Kuala Lumpur"
+msgstr "Ásia/Kuala Lumpur"
 
 msgid "Asia/Kuching"
-msgstr "Ãsia/Kuching"
+msgstr "Ásia/Kuching"
 
 msgid "Asia/Kuwait"
-msgstr "Ãsia/Kuwait"
+msgstr "Ásia/Kuwait"
 
 msgid "Asia/Macao"
-msgstr "Ãsia/Macau"
+msgstr "Ásia/Macau"
 
 msgid "Asia/Magadan"
-msgstr "Ãsia/Magadan"
+msgstr "Ásia/Magadan"
 
 msgid "Asia/Manila"
-msgstr "Ãsia/Manila"
+msgstr "Ásia/Manila"
 
 msgid "Asia/Muscat"
-msgstr "Ãsia/Mascate"
+msgstr "Ásia/Mascate"
 
 msgid "Asia/Nicosia"
-msgstr "Ãsia/NicÃ³sia"
+msgstr "Ásia/Nicósia"
 
 msgid "Asia/Novosibirsk"
-msgstr "Ãsia/Novosibirsk"
+msgstr "Ásia/Novosibirsk"
 
 msgid "Asia/Omsk"
-msgstr "Ãsia/Omsk"
+msgstr "Ásia/Omsk"
 
 msgid "Asia/Phnom_Penh"
-msgstr "Ãsia/Phnom Penh"
+msgstr "Ásia/Phnom Penh"
 
 msgid "Asia/Pyongyang"
-msgstr "Ãsia/Pyongyang"
+msgstr "Ásia/Pyongyang"
 
 msgid "Asia/Qatar"
-msgstr "Ãsia/Catar"
+msgstr "Ásia/Catar"
 
 msgid "Asia/Rangoon"
-msgstr "Ãsia/Yangun"
+msgstr "Ásia/Yangun"
 
 msgid "Asia/Riyadh"
-msgstr "Ãsia/Riad"
+msgstr "Ásia/Riad"
 
 msgid "Asia/Riyadh87"
-msgstr "Ãsia/Riad87"
+msgstr "Ásia/Riad87"
 
 msgid "Asia/Riyadh88"
-msgstr "Ãsia/Riad88"
+msgstr "Ásia/Riad88"
 
 msgid "Asia/Riyadh89"
-msgstr "Ãsia/Riad89"
+msgstr "Ásia/Riad89"
 
 msgid "Asia/Saigon"
-msgstr "Ãsia/Saigon"
+msgstr "Ásia/Saigon"
 
-#, fuzzy
 msgid "Asia/Samarkand"
-msgstr "Ãsia/Katmandu"
+msgstr "Ásia/Samarkand"
 
 msgid "Asia/Seoul"
-msgstr "Ãsia/Seul"
+msgstr "Ásia/Seul"
 
 msgid "Asia/Shanghai"
-msgstr "Ãsia/Xangai"
+msgstr "Ásia/Xangai"
 
 msgid "Asia/Singapore"
-msgstr "Ãsia/Cingapura"
+msgstr "Ásia/Cingapura"
 
 msgid "Asia/Taipei"
-msgstr "Ãsia/TaipÃ©"
+msgstr "Ásia/Taipé"
 
 msgid "Asia/Tashkent"
-msgstr "Ãsia/Tashkent"
+msgstr "Ásia/Tashkent"
 
 msgid "Asia/Tbilisi"
-msgstr "Ãsia/Tbilisi"
+msgstr "Ásia/Tbilisi"
 
 msgid "Asia/Tehran"
-msgstr "Ãsia/TeerÃ£"
+msgstr "Ásia/Teerã"
 
 msgid "Asia/Tel_Aviv"
-msgstr "Ãsia/Tel Aviv"
+msgstr "Ásia/Tel Aviv"
 
 msgid "Asia/Thimbu"
-msgstr "Ãsia/Timbu"
+msgstr "Ásia/Timbu"
 
-#, fuzzy
 msgid "Asia/Thimphu"
-msgstr "Ãsia/Timbu"
+msgstr "Ásia/Thimphu"
 
 msgid "Asia/Tokyo"
-msgstr "Ãsia/TÃ³quio"
+msgstr "Ásia/Tóquio"
 
 msgid "Asia/Ujung_Pandang"
-msgstr "Ãsia/Ujung Pandang"
+msgstr "Ásia/Ujung Pandang"
 
-#, fuzzy
 msgid "Asia/Ulaanbaatar"
-msgstr "Ãsia/Ulan Bator"
+msgstr "Ásia/Ulaanbaatar"
 
 msgid "Asia/Ulan_Bator"
-msgstr "Ãsia/Ulan Bator"
+msgstr "Ásia/Ulan Bator"
 
 msgid "Asia/Urumqi"
-msgstr "Ãsia/Urumqi"
+msgstr "Ásia/Urumqi"
 
 msgid "Asia/Vientiane"
-msgstr "Ãsia/Vientiane"
+msgstr "Ásia/Vientiane"
 
 msgid "Asia/Vladivostok"
-msgstr "Ãsia/Vladivostok"
+msgstr "Ásia/Vladivostok"
 
 msgid "Asia/Yakutsk"
-msgstr "Ãsia/Yakutsk"
+msgstr "Ásia/Yakutsk"
 
 msgid "Asia/Yekaterinburg"
-msgstr "Ãsia/Yekaterinburg"
+msgstr "Ásia/Yekaterinburg"
 
 msgid "Asia/Yerevan"
-msgstr "Ãsia/Yerevan"
+msgstr "Ásia/Yerevan"
 
 msgid "Atlantic/Azores"
-msgstr "AtlÃ¢ntico/AÃ§ores"
+msgstr "Atlântico/Açores"
 
 msgid "Atlantic/Bermuda"
-msgstr "AtlÃ¢ntico/Bermuda"
+msgstr "Atlântico/Bermuda"
 
 msgid "Atlantic/Canary"
-msgstr "AtlÃ¢ntico/CanÃ¡rias"
+msgstr "Atlântico/Canárias"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "AtlÃ¢ntico/Cabo Verde"
+msgstr "Atlântico/Cabo Verde"
 
 msgid "Atlantic/Faeroe"
-msgstr "AtlÃ¢ntico/Faroe"
+msgstr "Atlântico/Faroe"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "AtlÃ¢ntico/Jan Mayen"
+msgstr "Atlântico/Jan Mayen"
 
 msgid "Atlantic/Madeira"
-msgstr "AtlÃ¢ntico/Madeira"
+msgstr "Atlântico/Madeira"
 
 msgid "Atlantic/Reykjavik"
-msgstr "AtlÃ¢ntico/Reykjavik"
+msgstr "Atlântico/Reykjavik"
 
 msgid "Atlantic/South_Georgia"
-msgstr "AtlÃ¢ntico/GeÃ³rgia do Sul"
+msgstr "Atlântico/Geórgia do Sul"
 
 msgid "Atlantic/Stanley"
-msgstr "AtlÃ¢ntico/Stanley"
+msgstr "Atlântico/Stanley"
 
 msgid "Atlantic/St_Helena"
-msgstr "AtlÃ¢ntico/Santa Helena"
+msgstr "Atlântico/Santa Helena"
 
 msgid "Australia/ACT"
-msgstr "AustrÃ¡lia/ACT"
+msgstr "Austrália/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "AustrÃ¡lia/Adelaide"
+msgstr "Austrália/Adelaide"
 
 msgid "Australia/Brisbane"
-msgstr "AustrÃ¡lia/Brisbane"
+msgstr "Austrália/Brisbane"
 
 msgid "Australia/Broken_Hill"
-msgstr "AustrÃ¡lia/Broken Hill"
+msgstr "Austrália/Broken Hill"
 
 msgid "Australia/Canberra"
-msgstr "AustrÃ¡lia/Camberra"
+msgstr "Austrália/Camberra"
 
 msgid "Australia/Darwin"
-msgstr "AustrÃ¡lia/Darwin"
+msgstr "Austrália/Darwin"
 
 msgid "Australia/Hobart"
-msgstr "AustrÃ¡lia/Hobart"
+msgstr "Austrália/Hobart"
 
 msgid "Australia/LHI"
-msgstr "AustrÃ¡lia/LHI"
+msgstr "Austrália/LHI"
 
 msgid "Australia/Lindeman"
-msgstr "AustrÃ¡lia/Lindeman"
+msgstr "Austrália/Lindeman"
 
 msgid "Australia/Lord_Howe"
-msgstr "AustrÃ¡lia/Lord Howe"
+msgstr "Austrália/Lord Howe"
 
 msgid "Australia/Melbourne"
-msgstr "AustrÃ¡lia/Melbourne"
+msgstr "Austrália/Melbourne"
 
 msgid "Australia/North"
-msgstr "AustrÃ¡lia/Norte"
+msgstr "Austrália/Norte"
 
 msgid "Australia/NSW"
-msgstr "AustrÃ¡lia/NSW"
+msgstr "Austrália/NSW"
 
 msgid "Australia/Perth"
-msgstr "AustrÃ¡lia/Perth"
+msgstr "Austrália/Perth"
 
 msgid "Australia/Queensland"
-msgstr "AustrÃ¡lia/Queensland"
+msgstr "Austrália/Queensland"
 
 msgid "Australia/South"
-msgstr "AustrÃ¡lia/Sul"
+msgstr "Austrália/Sul"
 
 msgid "Australia/Sydney"
-msgstr "AustrÃ¡lia/Sidnei"
+msgstr "Austrália/Sidnei"
 
 msgid "Australia/Tasmania"
-msgstr "AustrÃ¡lia/TasmÃ¢nia"
+msgstr "Austrália/Tasmânia"
 
 msgid "Australia/Victoria"
-msgstr "AustrÃ¡lia/VitÃ³ria"
+msgstr "Austrália/Vitória"
 
 msgid "Australia/West"
-msgstr "AustrÃ¡lia/Oeste"
+msgstr "Austrália/Oeste"
 
 msgid "Australia/Yancowinna"
-msgstr "AustrÃ¡lia/Yancowinna"
+msgstr "Austrália/Yancowinna"
 
 msgid "Brazil/Acre"
 msgstr "Brasil/Acre"
@@ -931,31 +912,31 @@ msgid "Brazil/West"
 msgstr "Brasil/Oeste"
 
 msgid "Canada/Atlantic"
-msgstr "CanadÃ¡/AtlÃ¢ntico"
+msgstr "Canadá/Atlântico"
 
 msgid "Canada/Central"
-msgstr "CanadÃ¡/Central"
+msgstr "Canadá/Central"
 
 msgid "Canada/Eastern"
-msgstr "CanadÃ¡/Leste"
+msgstr "Canadá/Leste"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "CanadÃ¡/Leste-Saskatchewan"
+msgstr "Canadá/Leste-Saskatchewan"
 
 msgid "Canada/Mountain"
-msgstr "CanadÃ¡/Montanhas"
+msgstr "Canadá/Montanhas"
 
 msgid "Canada/Newfoundland"
-msgstr "CanadÃ¡/Terra Nova"
+msgstr "Canadá/Terra Nova"
 
 msgid "Canada/Pacific"
-msgstr "CanadÃ¡/PacÃ­fico"
+msgstr "Canadá/Pacífico"
 
 msgid "Canada/Saskatchewan"
-msgstr "CanadÃ¡/Saskatchewan"
+msgstr "Canadá/Saskatchewan"
 
 msgid "Canada/Yukon"
-msgstr "CanadÃ¡/Yukon"
+msgstr "Canadá/Yukon"
 
 msgid "CET"
 msgstr "CET"
@@ -964,7 +945,7 @@ msgid "Chile/Continental"
 msgstr "Chile/Continental"
 
 msgid "Chile/EasterIsland"
-msgstr "Chile/Ilha de PÃ¡scoa"
+msgstr "Chile/Ilha de Páscoa"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -1093,7 +1074,7 @@ msgid "Etc/Zulu"
 msgstr "Etc/Zulu"
 
 msgid "Europe/Amsterdam"
-msgstr "Europa/AmsterdÃ£"
+msgstr "Europa/Amsterdã"
 
 msgid "Europe/Andorra"
 msgstr "Europa/Andorra"
@@ -1168,14 +1149,13 @@ msgid "Europe/Minsk"
 msgstr "Europa/Minsk"
 
 msgid "Europe/Monaco"
-msgstr "Europa/MÃ´naco"
+msgstr "Europa/Mônaco"
 
 msgid "Europe/Moscow"
 msgstr "Europa/Moscou"
 
-#, fuzzy
 msgid "Europe/Nicosia"
-msgstr "Europa/SÃ³fia"
+msgstr "Europa/Nicosia"
 
 msgid "Europe/Oslo"
 msgstr "Europa/Oslo"
@@ -1196,7 +1176,7 @@ msgid "Europe/Samara"
 msgstr "Europa/Samara"
 
 msgid "Europe/San_Marino"
-msgstr "Europa/SÃ£o Marino"
+msgstr "Europa/São Marino"
 
 msgid "Europe/Sarajevo"
 msgstr "Europa/Sarajevo"
@@ -1208,7 +1188,7 @@ msgid "Europe/Skopje"
 msgstr "Europa/Skopje"
 
 msgid "Europe/Sofia"
-msgstr "Europa/SÃ³fia"
+msgstr "Europa/Sófia"
 
 msgid "Europe/Stockholm"
 msgstr "Europa/Estocolmo"
@@ -1219,13 +1199,11 @@ msgstr "Europa/Tallinn"
 msgid "Europe/Tirane"
 msgstr "Europa/Tirana"
 
-#, fuzzy
 msgid "Europe/Tiraspol"
-msgstr "Europa/Tirana"
+msgstr "Europa/Tiraspol"
 
-#, fuzzy
 msgid "Europe/Uzhgorod"
-msgstr "Europa/Belgrado"
+msgstr "Europa/Uzhgorod"
 
 msgid "Europe/Vaduz"
 msgstr "Europa/Vaduz"
@@ -1240,27 +1218,25 @@ msgid "Europe/Vilnius"
 msgstr "Europa/Vilnius"
 
 msgid "Europe/Warsaw"
-msgstr "Europa/VarsÃ³via"
+msgstr "Europa/Varsóvia"
 
 msgid "Europe/Zagreb"
 msgstr "Europa/Zagreb"
 
-#, fuzzy
 msgid "Europe/Zaporozhye"
-msgstr "Europa/Zagreb"
+msgstr "Europa/Zaporozhye"
 
 msgid "Europe/Zurich"
 msgstr "Europa/Zurique"
 
 msgid "Factory"
-msgstr "FÃ¡brica"
+msgstr "Fábrica"
 
 msgid "GB"
 msgstr "GB"
 
-#, fuzzy
 msgid "GB-Eire"
-msgstr "Irlanda"
+msgstr "GB Eire"
 
 msgid "GMT"
 msgstr "GMT"
@@ -1284,43 +1260,43 @@ msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "IslÃ¢ndia"
+msgstr "Islândia"
 
 msgid "Indian/Antananarivo"
-msgstr "Ãndico/Antananarivo"
+msgstr "Índico/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "Ãndico/Chagos"
+msgstr "Índico/Chagos"
 
 msgid "Indian/Christmas"
-msgstr "Ãndico/Christmas"
+msgstr "Índico/Christmas"
 
 msgid "Indian/Cocos"
-msgstr "Ãndico/Cocos"
+msgstr "Índico/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Ãndico/Comores"
+msgstr "Índico/Comores"
 
 msgid "Indian/Kerguelen"
-msgstr "Ãndico/Kerguelen"
+msgstr "Índico/Kerguelen"
 
 msgid "Indian/Mahe"
-msgstr "Ãndico/Mahe"
+msgstr "Índico/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Ãndico/Maldivas"
+msgstr "Índico/Maldivas"
 
 msgid "Indian/Mauritius"
-msgstr "Ãndico/MaurÃ­cio"
+msgstr "Índico/Maurício"
 
 msgid "Indian/Mayotte"
-msgstr "Ãndico/Mayote"
+msgstr "Índico/Mayote"
 
 msgid "Indian/Reunion"
-msgstr "Ãndico/ReuniÃ£o"
+msgstr "Índico/Reunião"
 
 msgid "Iran"
-msgstr "IrÃ£"
+msgstr "Irã"
 
 msgid "Israel"
 msgstr "Israel"
@@ -1329,34 +1305,34 @@ msgid "Jamaica"
 msgstr "Jamaica"
 
 msgid "Japan"
-msgstr "JapÃ£o"
+msgstr "Japão"
 
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
 msgid "Libya"
-msgstr "LÃ­bia"
+msgstr "Líbia"
 
 msgid "MET"
 msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr "MÃ©xico/BajaNorte"
+msgstr "México/BajaNorte"
 
 msgid "Mexico/BajaSur"
-msgstr "MÃ©xico/BajaSur"
+msgstr "México/BajaSur"
 
 msgid "Mexico/General"
-msgstr "MÃ©xico/Geral"
+msgstr "México/Geral"
 
 msgid "Mideast/Riyadh87"
-msgstr "Oriente MÃ©dio/Riad87"
+msgstr "Oriente Médio/Riad87"
 
 msgid "Mideast/Riyadh88"
-msgstr "Oriente MÃ©dio/Riad88"
+msgstr "Oriente Médio/Riad88"
 
 msgid "Mideast/Riyadh89"
-msgstr "Oriente MÃ©dio/Riad89"
+msgstr "Oriente Médio/Riad89"
 
 msgid "MST"
 msgstr "MST"
@@ -1374,127 +1350,127 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "PacÃ­fico/Ãpia"
+msgstr "Pacífico/Ápia"
 
 msgid "Pacific/Auckland"
-msgstr "PacÃ­fico/Auckland"
+msgstr "Pacífico/Auckland"
 
 msgid "Pacific/Chatham"
-msgstr "PacÃ­fico/Chatham"
+msgstr "Pacífico/Chatham"
 
 msgid "Pacific/Easter"
-msgstr "PacÃ­fico/Ilha de PÃ¡scoa"
+msgstr "Pacífico/Ilha de Páscoa"
 
 msgid "Pacific/Efate"
-msgstr "PacÃ­fico/Efate"
+msgstr "Pacífico/Efate"
 
 msgid "Pacific/Enderbury"
-msgstr "PacÃ­fico/Enderbury"
+msgstr "Pacífico/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr "PacÃ­fico/Fakaofo"
+msgstr "Pacífico/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "PacÃ­fico/Fiji"
+msgstr "Pacífico/Fiji"
 
 msgid "Pacific/Funafuti"
-msgstr "PacÃ­fico/Funafati"
+msgstr "Pacífico/Funafati"
 
 msgid "Pacific/Galapagos"
-msgstr "PacÃ­fico/GalÃ¡pagos"
+msgstr "Pacífico/Galápagos"
 
 msgid "Pacific/Gambier"
-msgstr "PacÃ­fico/Gambier"
+msgstr "Pacífico/Gambier"
 
 msgid "Pacific/Guadalcanal"
-msgstr "PacÃ­fico/Guadalcanal"
+msgstr "Pacífico/Guadalcanal"
 
 msgid "Pacific/Guam"
-msgstr "PacÃ­fico/Guam"
+msgstr "Pacífico/Guam"
 
 msgid "Pacific/Honolulu"
-msgstr "PacÃ­fico/Honolulu"
+msgstr "Pacífico/Honolulu"
 
 msgid "Pacific/Johnston"
-msgstr "PacÃ­fico/Johnston"
+msgstr "Pacífico/Johnston"
 
 msgid "Pacific/Kiritimati"
-msgstr "PacÃ­fico/Kiritimati"
+msgstr "Pacífico/Kiritimati"
 
 msgid "Pacific/Kosrae"
-msgstr "PacÃ­fico/Kosrae"
+msgstr "Pacífico/Kosrae"
 
 msgid "Pacific/Kwajalein"
-msgstr "PacÃ­fico/Kwajalein"
+msgstr "Pacífico/Kwajalein"
 
 msgid "Pacific/Majuro"
-msgstr "PacÃ­fico/Majuro"
+msgstr "Pacífico/Majuro"
 
 msgid "Pacific/Marquesas"
-msgstr "PacÃ­fico/Marquesas"
+msgstr "Pacífico/Marquesas"
 
 msgid "Pacific/Midway"
-msgstr "PacÃ­fico/Midway"
+msgstr "Pacífico/Midway"
 
 msgid "Pacific/Nauru"
-msgstr "PacÃ­fico/Nauru"
+msgstr "Pacífico/Nauru"
 
 msgid "Pacific/Niue"
-msgstr "PacÃ­fico/Niue"
+msgstr "Pacífico/Niue"
 
 msgid "Pacific/Norfolk"
-msgstr "PacÃ­fico/Norfolk"
+msgstr "Pacífico/Norfolk"
 
 msgid "Pacific/Noumea"
-msgstr "PacÃ­fico/Noumea"
+msgstr "Pacífico/Noumea"
 
 msgid "Pacific/Pago_Pago"
-msgstr "PacÃ­fico/Pago Pago"
+msgstr "Pacífico/Pago Pago"
 
 msgid "Pacific/Palau"
-msgstr "PacÃ­fico/Palau"
+msgstr "Pacífico/Palau"
 
 msgid "Pacific/Pitcairn"
-msgstr "PacÃ­fico/Pitcairn"
+msgstr "Pacífico/Pitcairn"
 
 msgid "Pacific/Ponape"
-msgstr "PacÃ­fico/Ponape"
+msgstr "Pacífico/Ponape"
 
 msgid "Pacific/Port_Moresby"
-msgstr "PacÃ­fico/Port Moresby"
+msgstr "Pacífico/Port Moresby"
 
 msgid "Pacific/Rarotonga"
-msgstr "PacÃ­fico/Rarotonga"
+msgstr "Pacífico/Rarotonga"
 
 msgid "Pacific/Saipan"
-msgstr "PacÃ­fico/Saipan"
+msgstr "Pacífico/Saipan"
 
 msgid "Pacific/Samoa"
-msgstr "PacÃ­fico/Samoa"
+msgstr "Pacífico/Samoa"
 
 msgid "Pacific/Tahiti"
-msgstr "PacÃ­fico/Taiti"
+msgstr "Pacífico/Taiti"
 
 msgid "Pacific/Tarawa"
-msgstr "PacÃ­fico/Tarawa"
+msgstr "Pacífico/Tarawa"
 
 msgid "Pacific/Tongatapu"
-msgstr "PacÃ­fico/Tongatapu"
+msgstr "Pacífico/Tongatapu"
 
 msgid "Pacific/Truk"
-msgstr "PacÃ­fico/Truk"
+msgstr "Pacífico/Truk"
 
 msgid "Pacific/Wake"
-msgstr "PacÃ­fico/Wake"
+msgstr "Pacífico/Wake"
 
 msgid "Pacific/Wallis"
-msgstr "PacÃ­fico/Wallis"
+msgstr "Pacífico/Wallis"
 
 msgid "Pacific/Yap"
-msgstr "PacÃ­fico/Yap"
+msgstr "Pacífico/Yap"
 
 msgid "Poland"
-msgstr "PolÃ´nia"
+msgstr "Polônia"
 
 msgid "Portugal"
 msgstr "Portugal"
@@ -1593,7 +1569,7 @@ msgid "US/Mountain"
 msgstr "US/Montanhas"
 
 msgid "US/Pacific"
-msgstr "US/PacÃ­fico"
+msgstr "US/Pacífico"
 
 msgid "US/Samoa"
 msgstr "US/Samoa"
@@ -1612,1151 +1588,1151 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Abidjan"
-#~ msgstr "Ãfrica/AbidjÃ£"
+#~ msgstr "África/Abidjã"
 
 #, fuzzy
 #~ msgid "posix/Africa/Accra"
-#~ msgstr "Ãfrica/Acra"
+#~ msgstr "África/Acra"
 
 #, fuzzy
 #~ msgid "posix/Africa/Addis_Ababa"
-#~ msgstr "Ãfrica/Adis Abeba"
+#~ msgstr "África/Adis Abeba"
 
 #, fuzzy
 #~ msgid "posix/Africa/Algiers"
-#~ msgstr "Ãfrica/ArgÃ©lia"
+#~ msgstr "África/Argélia"
 
 #, fuzzy
 #~ msgid "posix/Africa/Asmera"
-#~ msgstr "Ãfrica/Asmara"
+#~ msgstr "África/Asmara"
 
 #, fuzzy
 #~ msgid "posix/Africa/Bamako"
-#~ msgstr "Ãfrca/Bamaco"
+#~ msgstr "Áfrca/Bamaco"
 
 #, fuzzy
 #~ msgid "posix/Africa/Bangui"
-#~ msgstr "Ãfrica/Bangui"
+#~ msgstr "África/Bangui"
 
 #, fuzzy
 #~ msgid "posix/Africa/Banjul"
-#~ msgstr "Ãfrica/Banjul"
+#~ msgstr "África/Banjul"
 
 #, fuzzy
 #~ msgid "posix/Africa/Bissau"
-#~ msgstr "Ãfrica/Bissau"
+#~ msgstr "África/Bissau"
 
 #, fuzzy
 #~ msgid "posix/Africa/Blantyre"
-#~ msgstr "Ãfrica/Blantyre"
+#~ msgstr "África/Blantyre"
 
 #, fuzzy
 #~ msgid "posix/Africa/Brazzaville"
-#~ msgstr "Ãfrica/Brazzaville"
+#~ msgstr "África/Brazzaville"
 
 #, fuzzy
 #~ msgid "posix/Africa/Bujumbura"
-#~ msgstr "Ãfrica/Bujumbura"
+#~ msgstr "África/Bujumbura"
 
 #, fuzzy
 #~ msgid "posix/Africa/Cairo"
-#~ msgstr "Ãfrica/Cairo"
+#~ msgstr "África/Cairo"
 
 #, fuzzy
 #~ msgid "posix/Africa/Casablanca"
-#~ msgstr "Ãfrica/Casablanca"
+#~ msgstr "África/Casablanca"
 
 #, fuzzy
 #~ msgid "posix/Africa/Ceuta"
-#~ msgstr "Ãfrica/Ceuta"
+#~ msgstr "África/Ceuta"
 
 #, fuzzy
 #~ msgid "posix/Africa/Conakry"
-#~ msgstr "Ãfrica/Conacri"
+#~ msgstr "África/Conacri"
 
 #, fuzzy
 #~ msgid "posix/Africa/Dakar"
-#~ msgstr "Ãfrica/Dacar"
+#~ msgstr "África/Dacar"
 
 #, fuzzy
 #~ msgid "posix/Africa/Dar_es_Salaam"
-#~ msgstr "Ãfrica/Dar es Salaam"
+#~ msgstr "África/Dar es Salaam"
 
 #, fuzzy
 #~ msgid "posix/Africa/Djibouti"
-#~ msgstr "Ãfrica/Djibuti"
+#~ msgstr "África/Djibuti"
 
 #, fuzzy
 #~ msgid "posix/Africa/Douala"
-#~ msgstr "Ãfrica/Douala"
+#~ msgstr "África/Douala"
 
 #, fuzzy
 #~ msgid "posix/Africa/El_Aaiun"
-#~ msgstr "Ãfrica/El Aiun"
+#~ msgstr "África/El Aiun"
 
 #, fuzzy
 #~ msgid "posix/Africa/Freetown"
-#~ msgstr "Ãfrica/Freetown"
+#~ msgstr "África/Freetown"
 
 #, fuzzy
 #~ msgid "posix/Africa/Gaborone"
-#~ msgstr "Ãfrica/Gaborone"
+#~ msgstr "África/Gaborone"
 
 #, fuzzy
 #~ msgid "posix/Africa/Harare"
-#~ msgstr "Ãfrica/Harare"
+#~ msgstr "África/Harare"
 
 #, fuzzy
 #~ msgid "posix/Africa/Johannesburg"
-#~ msgstr "Ãfrica/Johanesburgo"
+#~ msgstr "África/Johanesburgo"
 
 #, fuzzy
 #~ msgid "posix/Africa/Kampala"
-#~ msgstr "Ãfrica/Campala"
+#~ msgstr "África/Campala"
 
 #, fuzzy
 #~ msgid "posix/Africa/Khartoum"
-#~ msgstr "Ãfrica/Cartum"
+#~ msgstr "África/Cartum"
 
 #, fuzzy
 #~ msgid "posix/Africa/Kigali"
-#~ msgstr "Ãfrica/Kigali"
+#~ msgstr "África/Kigali"
 
 #, fuzzy
 #~ msgid "posix/Africa/Kinshasa"
-#~ msgstr "Ãfrica/Kinshasa"
+#~ msgstr "África/Kinshasa"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lagos"
-#~ msgstr "Ãfrica/Lagos"
+#~ msgstr "África/Lagos"
 
 #, fuzzy
 #~ msgid "posix/Africa/Libreville"
-#~ msgstr "Ãfrica/Libreville"
+#~ msgstr "África/Libreville"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lome"
-#~ msgstr "Ãfrica/Lome"
+#~ msgstr "África/Lome"
 
 #, fuzzy
 #~ msgid "posix/Africa/Luanda"
-#~ msgstr "Ãfrica/Luanda"
+#~ msgstr "África/Luanda"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lubumbashi"
-#~ msgstr "Ãfrica/Lumbubashi"
+#~ msgstr "África/Lumbubashi"
 
 #, fuzzy
 #~ msgid "posix/Africa/Lusaka"
-#~ msgstr "Ãfrica/Lusaka"
+#~ msgstr "África/Lusaka"
 
 #, fuzzy
 #~ msgid "posix/Africa/Malabo"
-#~ msgstr "Ãfrica/Malabo"
+#~ msgstr "África/Malabo"
 
 #, fuzzy
 #~ msgid "posix/Africa/Maputo"
-#~ msgstr "Ãfrica/Maputo"
+#~ msgstr "África/Maputo"
 
 #, fuzzy
 #~ msgid "posix/Africa/Maseru"
-#~ msgstr "Ãfrica/Maseru"
+#~ msgstr "África/Maseru"
 
 #, fuzzy
 #~ msgid "posix/Africa/Mbabane"
-#~ msgstr "Ãfrica/Mbabane"
+#~ msgstr "África/Mbabane"
 
 #, fuzzy
 #~ msgid "posix/Africa/Mogadishu"
-#~ msgstr "Ãfrica/Mogadishu"
+#~ msgstr "África/Mogadishu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Monrovia"
-#~ msgstr "Ãfrica/MonrÃ³via"
+#~ msgstr "África/Monróvia"
 
 #, fuzzy
 #~ msgid "posix/Africa/Nairobi"
-#~ msgstr "Ãfrica/NairÃ³bi"
+#~ msgstr "África/Nairóbi"
 
 #, fuzzy
 #~ msgid "posix/Africa/Ndjamena"
-#~ msgstr "Ãfrica/Ndjamena"
+#~ msgstr "África/Ndjamena"
 
 #, fuzzy
 #~ msgid "posix/Africa/Niamey"
-#~ msgstr "Ãfrica/Niamei"
+#~ msgstr "África/Niamei"
 
 #, fuzzy
 #~ msgid "posix/Africa/Nouakchott"
-#~ msgstr "Ãfrica/Nuakchott"
+#~ msgstr "África/Nuakchott"
 
 #, fuzzy
 #~ msgid "posix/Africa/Ouagadougou"
-#~ msgstr "Ãfrica/Uagadugu"
+#~ msgstr "África/Uagadugu"
 
 #, fuzzy
 #~ msgid "posix/Africa/Porto-Novo"
-#~ msgstr "Ãfrica/Porto Novo"
+#~ msgstr "África/Porto Novo"
 
 #, fuzzy
 #~ msgid "posix/Africa/Sao_Tome"
-#~ msgstr "Ãfrica/SÃ£o TomÃ©"
+#~ msgstr "África/São Tomé"
 
 #, fuzzy
 #~ msgid "posix/Africa/Timbuktu"
-#~ msgstr "Ãfrica/Tombouctou"
+#~ msgstr "África/Tombouctou"
 
 #, fuzzy
 #~ msgid "posix/Africa/Tripoli"
-#~ msgstr "Ãfrica/TrÃ­poli"
+#~ msgstr "África/Trípoli"
 
 #, fuzzy
 #~ msgid "posix/Africa/Tunis"
-#~ msgstr "Ãfrica/TÃºnis"
+#~ msgstr "África/Túnis"
 
 #, fuzzy
 #~ msgid "posix/Africa/Windhoek"
-#~ msgstr "Ãfrica/Windhoek"
+#~ msgstr "África/Windhoek"
 
 #, fuzzy
 #~ msgid "posix/America/Adak"
-#~ msgstr "AmÃ©rica/Adak"
+#~ msgstr "América/Adak"
 
 #, fuzzy
 #~ msgid "posix/America/Anchorage"
-#~ msgstr "AmÃ©rica/Anchorage"
+#~ msgstr "América/Anchorage"
 
 #, fuzzy
 #~ msgid "posix/America/Anguilla"
-#~ msgstr "AmÃ©rica/Anguila"
+#~ msgstr "América/Anguila"
 
 #, fuzzy
 #~ msgid "posix/America/Antigua"
-#~ msgstr "AmÃ©rica/AntÃ­gua"
+#~ msgstr "América/Antígua"
 
 #, fuzzy
 #~ msgid "posix/America/Araguaina"
-#~ msgstr "AmÃ©rica/Aruba"
+#~ msgstr "América/Aruba"
 
 #, fuzzy
 #~ msgid "posix/America/Aruba"
-#~ msgstr "AmÃ©rica/Aruba"
+#~ msgstr "América/Aruba"
 
 #, fuzzy
 #~ msgid "posix/America/Asuncion"
-#~ msgstr "AmÃ©rica/AssunÃ§Ã£o"
+#~ msgstr "América/Assunção"
 
 #, fuzzy
 #~ msgid "posix/America/Atka"
-#~ msgstr "AmÃ©rica/Atka"
+#~ msgstr "América/Atka"
 
 #, fuzzy
 #~ msgid "posix/America/Barbados"
-#~ msgstr "AmÃ©rica/Barbados"
+#~ msgstr "América/Barbados"
 
 #, fuzzy
 #~ msgid "posix/America/Belem"
-#~ msgstr "AmÃ©rica/Belize"
+#~ msgstr "América/Belize"
 
 #, fuzzy
 #~ msgid "posix/America/Belize"
-#~ msgstr "AmÃ©rica/Belize"
+#~ msgstr "América/Belize"
 
 #, fuzzy
 #~ msgid "posix/America/Boa_Vista"
-#~ msgstr "AmÃ©rica/Boise"
+#~ msgstr "América/Boise"
 
 #, fuzzy
 #~ msgid "posix/America/Bogota"
-#~ msgstr "AmÃ©rica/BogotÃ¡"
+#~ msgstr "América/Bogotá"
 
 #, fuzzy
 #~ msgid "posix/America/Boise"
-#~ msgstr "AmÃ©rica/Boise"
+#~ msgstr "América/Boise"
 
 #, fuzzy
 #~ msgid "posix/America/Buenos_Aires"
-#~ msgstr "AmÃ©rica/Buenos Aires"
+#~ msgstr "América/Buenos Aires"
 
 #, fuzzy
 #~ msgid "posix/America/Cambridge_Bay"
-#~ msgstr "AmÃ©rica/Glace Bay"
+#~ msgstr "América/Glace Bay"
 
 #, fuzzy
 #~ msgid "posix/America/Cancun"
-#~ msgstr "AmÃ©rica/Caiena"
+#~ msgstr "América/Caiena"
 
 #, fuzzy
 #~ msgid "posix/America/Caracas"
-#~ msgstr "AmÃ©rica/Caracas"
+#~ msgstr "América/Caracas"
 
 #, fuzzy
 #~ msgid "posix/America/Catamarca"
-#~ msgstr "AmÃ©rica/Catamarca"
+#~ msgstr "América/Catamarca"
 
 #, fuzzy
 #~ msgid "posix/America/Cayenne"
-#~ msgstr "AmÃ©rica/Caiena"
+#~ msgstr "América/Caiena"
 
 #, fuzzy
 #~ msgid "posix/America/Cayman"
-#~ msgstr "AmÃ©rica/CaimÃ£s"
+#~ msgstr "América/Caimãs"
 
 #, fuzzy
 #~ msgid "posix/America/Chicago"
-#~ msgstr "AmÃ©rica/Chicago"
+#~ msgstr "América/Chicago"
 
 #, fuzzy
 #~ msgid "posix/America/Chihuahua"
-#~ msgstr "AmÃ©rica/CuiabÃ¡"
+#~ msgstr "América/Cuiabá"
 
 #, fuzzy
 #~ msgid "posix/America/Cordoba"
-#~ msgstr "AmÃ©rica/CÃ³rdoba"
+#~ msgstr "América/Córdoba"
 
 #, fuzzy
 #~ msgid "posix/America/Costa_Rica"
-#~ msgstr "AmÃ©rica/Costa Rica"
+#~ msgstr "América/Costa Rica"
 
 #, fuzzy
 #~ msgid "posix/America/Cuiaba"
-#~ msgstr "AmÃ©rica/CuiabÃ¡"
+#~ msgstr "América/Cuiabá"
 
 #, fuzzy
 #~ msgid "posix/America/Curacao"
-#~ msgstr "AmÃ©rica/CuraÃ§ao"
+#~ msgstr "América/Curaçao"
 
 #, fuzzy
 #~ msgid "posix/America/Dawson"
-#~ msgstr "AmÃ©rica/Dawson"
+#~ msgstr "América/Dawson"
 
 #, fuzzy
 #~ msgid "posix/America/Dawson_Creek"
-#~ msgstr "AmÃ©rica/Dawson Creek"
+#~ msgstr "América/Dawson Creek"
 
 #, fuzzy
 #~ msgid "posix/America/Denver"
-#~ msgstr "AmÃ©rica/Denver"
+#~ msgstr "América/Denver"
 
 #, fuzzy
 #~ msgid "posix/America/Detroit"
-#~ msgstr "AmÃ©rica/Detroit"
+#~ msgstr "América/Detroit"
 
 #, fuzzy
 #~ msgid "posix/America/Dominica"
-#~ msgstr "AmÃ©rica/Dominica"
+#~ msgstr "América/Dominica"
 
 #, fuzzy
 #~ msgid "posix/America/Edmonton"
-#~ msgstr "AmÃ©rica/Edmonton"
+#~ msgstr "América/Edmonton"
 
 #, fuzzy
 #~ msgid "posix/America/El_Salvador"
-#~ msgstr "AmÃ©rica/El Salvador"
+#~ msgstr "América/El Salvador"
 
 #, fuzzy
 #~ msgid "posix/America/Ensenada"
-#~ msgstr "AmÃ©rica/Ensenada"
+#~ msgstr "América/Ensenada"
 
 #, fuzzy
 #~ msgid "posix/America/Fortaleza"
-#~ msgstr "AmÃ©rica/Fortaleza"
+#~ msgstr "América/Fortaleza"
 
 #, fuzzy
 #~ msgid "posix/America/Fort_Wayne"
-#~ msgstr "AmÃ©rica/Fort Wayne"
+#~ msgstr "América/Fort Wayne"
 
 #, fuzzy
 #~ msgid "posix/America/Glace_Bay"
-#~ msgstr "AmÃ©rica/Glace Bay"
+#~ msgstr "América/Glace Bay"
 
 #, fuzzy
 #~ msgid "posix/America/Godthab"
-#~ msgstr "AmÃ©rica/Godthab"
+#~ msgstr "América/Godthab"
 
 #, fuzzy
 #~ msgid "posix/America/Goose_Bay"
-#~ msgstr "AmÃ©rica/Goose Bay"
+#~ msgstr "América/Goose Bay"
 
 #, fuzzy
 #~ msgid "posix/America/Grand_Turk"
-#~ msgstr "AmÃ©rica/Grand Turk"
+#~ msgstr "América/Grand Turk"
 
 #, fuzzy
 #~ msgid "posix/America/Grenada"
-#~ msgstr "AmÃ©rica/Granada"
+#~ msgstr "América/Granada"
 
 #, fuzzy
 #~ msgid "posix/America/Guadeloupe"
-#~ msgstr "AmÃ©rica/Guadalupe"
+#~ msgstr "América/Guadalupe"
 
 #, fuzzy
 #~ msgid "posix/America/Guatemala"
-#~ msgstr "AmÃ©rica/Guatemala"
+#~ msgstr "América/Guatemala"
 
 #, fuzzy
 #~ msgid "posix/America/Guayaquil"
-#~ msgstr "AmÃ©rica/Guaiaquil"
+#~ msgstr "América/Guaiaquil"
 
 #, fuzzy
 #~ msgid "posix/America/Guyana"
-#~ msgstr "AmÃ©rica/Guiana"
+#~ msgstr "América/Guiana"
 
 #, fuzzy
 #~ msgid "posix/America/Halifax"
-#~ msgstr "AmÃ©rica/Halifax"
+#~ msgstr "América/Halifax"
 
 #, fuzzy
 #~ msgid "posix/America/Havana"
-#~ msgstr "AmÃ©rica/Havana"
+#~ msgstr "América/Havana"
 
 #, fuzzy
 #~ msgid "posix/America/Hermosillo"
-#~ msgstr "AmÃ©rica/Detroit"
+#~ msgstr "América/Detroit"
 
 #, fuzzy
 #~ msgid "posix/America/Indiana/Indianapolis"
-#~ msgstr "AmÃ©rica/Indiana/IndianÃ¡polis"
+#~ msgstr "América/Indiana/Indianápolis"
 
 #, fuzzy
 #~ msgid "posix/America/Indiana/Knox"
-#~ msgstr "AmÃ©rica/Indiana/Knox"
+#~ msgstr "América/Indiana/Knox"
 
 #, fuzzy
 #~ msgid "posix/America/Indiana/Marengo"
-#~ msgstr "AmÃ©rica/Indiana/Marengo"
+#~ msgstr "América/Indiana/Marengo"
 
 #, fuzzy
 #~ msgid "posix/America/Indianapolis"
-#~ msgstr "AmÃ©rica/IndianÃ¡polis"
+#~ msgstr "América/Indianápolis"
 
 #, fuzzy
 #~ msgid "posix/America/Indiana/Vevay"
-#~ msgstr "AmÃ©rica/Indiana/Vevay"
+#~ msgstr "América/Indiana/Vevay"
 
 #, fuzzy
 #~ msgid "posix/America/Inuvik"
-#~ msgstr "AmÃ©rica/Inuvik"
+#~ msgstr "América/Inuvik"
 
 #, fuzzy
 #~ msgid "posix/America/Iqaluit"
-#~ msgstr "AmÃ©rica/Iqaluit"
+#~ msgstr "América/Iqaluit"
 
 #, fuzzy
 #~ msgid "posix/America/Jamaica"
-#~ msgstr "AmÃ©rica/Jamaica"
+#~ msgstr "América/Jamaica"
 
 #, fuzzy
 #~ msgid "posix/America/Jujuy"
-#~ msgstr "AmÃ©rica/Jujuy"
+#~ msgstr "América/Jujuy"
 
 #, fuzzy
 #~ msgid "posix/America/Juneau"
-#~ msgstr "AmÃ©rica/Juneau"
+#~ msgstr "América/Juneau"
 
 #, fuzzy
 #~ msgid "posix/America/Knox_IN"
-#~ msgstr "AmÃ©rica/Knox IN"
+#~ msgstr "América/Knox IN"
 
 #, fuzzy
 #~ msgid "posix/America/La_Paz"
-#~ msgstr "AmÃ©rica/La Paz"
+#~ msgstr "América/La Paz"
 
 #, fuzzy
 #~ msgid "posix/America/Lima"
-#~ msgstr "AmÃ©rica/Lima"
+#~ msgstr "América/Lima"
 
 #, fuzzy
 #~ msgid "posix/America/Los_Angeles"
-#~ msgstr "AmÃ©rica/Los Angeles"
+#~ msgstr "América/Los Angeles"
 
 #, fuzzy
 #~ msgid "posix/America/Louisville"
-#~ msgstr "AmÃ©rica/Louisville"
+#~ msgstr "América/Louisville"
 
 #, fuzzy
 #~ msgid "posix/America/Maceio"
-#~ msgstr "AmÃ©rica/MaceiÃ³"
+#~ msgstr "América/Maceió"
 
 #, fuzzy
 #~ msgid "posix/America/Managua"
-#~ msgstr "AmÃ©rica/ManÃ¡gua"
+#~ msgstr "América/Manágua"
 
 #, fuzzy
 #~ msgid "posix/America/Manaus"
-#~ msgstr "AmÃ©rica/Manaus"
+#~ msgstr "América/Manaus"
 
 #, fuzzy
 #~ msgid "posix/America/Martinique"
-#~ msgstr "AmÃ©rica/Martinica"
+#~ msgstr "América/Martinica"
 
 #, fuzzy
 #~ msgid "posix/America/Mazatlan"
-#~ msgstr "AmÃ©rica/Mazatlan"
+#~ msgstr "América/Mazatlan"
 
 #, fuzzy
 #~ msgid "posix/America/Mendoza"
-#~ msgstr "AmÃ©rica/Mendoza"
+#~ msgstr "América/Mendoza"
 
 #, fuzzy
 #~ msgid "posix/America/Menominee"
-#~ msgstr "AmÃ©rica/Menominee"
+#~ msgstr "América/Menominee"
 
 #, fuzzy
 #~ msgid "posix/America/Merida"
-#~ msgstr "AmÃ©rica/Mendoza"
+#~ msgstr "América/Mendoza"
 
 #, fuzzy
 #~ msgid "posix/America/Mexico_City"
-#~ msgstr "AmÃ©rica/Cidade do MÃ©xico"
+#~ msgstr "América/Cidade do México"
 
 #, fuzzy
 #~ msgid "posix/America/Miquelon"
-#~ msgstr "AmÃ©rica/Miquelon"
+#~ msgstr "América/Miquelon"
 
 #, fuzzy
 #~ msgid "posix/America/Monterrey"
-#~ msgstr "AmÃ©rica/Montserrat"
+#~ msgstr "América/Montserrat"
 
 #, fuzzy
 #~ msgid "posix/America/Montevideo"
-#~ msgstr "AmÃ©rica/MontevidÃ©u"
+#~ msgstr "América/Montevidéu"
 
 #, fuzzy
 #~ msgid "posix/America/Montreal"
-#~ msgstr "AmÃ©rica/Montreal"
+#~ msgstr "América/Montreal"
 
 #, fuzzy
 #~ msgid "posix/America/Montserrat"
-#~ msgstr "AmÃ©rica/Montserrat"
+#~ msgstr "América/Montserrat"
 
 #, fuzzy
 #~ msgid "posix/America/Nassau"
-#~ msgstr "AmÃ©rica/Nassau"
+#~ msgstr "América/Nassau"
 
 #, fuzzy
 #~ msgid "posix/America/New_York"
-#~ msgstr "AmÃ©rica/Nova Iorque"
+#~ msgstr "América/Nova Iorque"
 
 #, fuzzy
 #~ msgid "posix/America/Nipigon"
-#~ msgstr "AmÃ©rica/Nipigon"
+#~ msgstr "América/Nipigon"
 
 #, fuzzy
 #~ msgid "posix/America/Nome"
-#~ msgstr "AmÃ©rica/Nome"
+#~ msgstr "América/Nome"
 
 #, fuzzy
 #~ msgid "posix/America/Noronha"
-#~ msgstr "AmÃ©rica/Fernando de Noronha"
+#~ msgstr "América/Fernando de Noronha"
 
 #, fuzzy
 #~ msgid "posix/America/Panama"
-#~ msgstr "AmÃ©rica/PanamÃ¡"
+#~ msgstr "América/Panamá"
 
 #, fuzzy
 #~ msgid "posix/America/Pangnirtung"
-#~ msgstr "AmÃ©rica/Pangnirtung"
+#~ msgstr "América/Pangnirtung"
 
 #, fuzzy
 #~ msgid "posix/America/Paramaribo"
-#~ msgstr "AmÃ©rica/Paramaribo"
+#~ msgstr "América/Paramaribo"
 
 #, fuzzy
 #~ msgid "posix/America/Phoenix"
-#~ msgstr "AmÃ©rica/FÃªnix"
+#~ msgstr "América/Fênix"
 
 #, fuzzy
 #~ msgid "posix/America/Port-au-Prince"
-#~ msgstr "AmÃ©rica/Port-au-Prince"
+#~ msgstr "América/Port-au-Prince"
 
 #, fuzzy
 #~ msgid "posix/America/Porto_Acre"
-#~ msgstr "AmÃ©rica/Porto Acre"
+#~ msgstr "América/Porto Acre"
 
 #, fuzzy
 #~ msgid "posix/America/Port_of_Spain"
-#~ msgstr "AmÃ©rica/Port of Spain"
+#~ msgstr "América/Port of Spain"
 
 #, fuzzy
 #~ msgid "posix/America/Porto_Velho"
-#~ msgstr "AmÃ©rica/Porto Acre"
+#~ msgstr "América/Porto Acre"
 
 #, fuzzy
 #~ msgid "posix/America/Puerto_Rico"
-#~ msgstr "AmÃ©rica/Porto Rico"
+#~ msgstr "América/Porto Rico"
 
 #, fuzzy
 #~ msgid "posix/America/Rainy_River"
-#~ msgstr "AmÃ©rica/Rainy River"
+#~ msgstr "América/Rainy River"
 
 #, fuzzy
 #~ msgid "posix/America/Rankin_Inlet"
-#~ msgstr "AmÃ©rica/Rankin Inlet"
+#~ msgstr "América/Rankin Inlet"
 
 #, fuzzy
 #~ msgid "posix/America/Regina"
-#~ msgstr "AmÃ©rica/Regina"
+#~ msgstr "América/Regina"
 
 #, fuzzy
 #~ msgid "posix/America/Rosario"
-#~ msgstr "AmÃ©rica/RosÃ¡rio"
+#~ msgstr "América/Rosário"
 
 #, fuzzy
 #~ msgid "posix/America/Santiago"
-#~ msgstr "AmÃ©rica/Santiago"
+#~ msgstr "América/Santiago"
 
 #, fuzzy
 #~ msgid "posix/America/Santo_Domingo"
-#~ msgstr "AmÃ©rica/Santo Domingo"
+#~ msgstr "América/Santo Domingo"
 
 #, fuzzy
 #~ msgid "posix/America/Sao_Paulo"
-#~ msgstr "AmÃ©rica/SÃ£o Paulo"
+#~ msgstr "América/São Paulo"
 
 #, fuzzy
 #~ msgid "posix/America/Scoresbysund"
-#~ msgstr "AmÃ©rica/Scoresbysund"
+#~ msgstr "América/Scoresbysund"
 
 #, fuzzy
 #~ msgid "posix/America/Shiprock"
-#~ msgstr "AmÃ©rica/Shiprock"
+#~ msgstr "América/Shiprock"
 
 #, fuzzy
 #~ msgid "posix/America/St_Johns"
-#~ msgstr "AmÃ©rica/St Johns"
+#~ msgstr "América/St Johns"
 
 #, fuzzy
 #~ msgid "posix/America/St_Kitts"
-#~ msgstr "AmÃ©rica/St Kitts"
+#~ msgstr "América/St Kitts"
 
 #, fuzzy
 #~ msgid "posix/America/St_Lucia"
-#~ msgstr "AmÃ©rica/Santa LÃºcia"
+#~ msgstr "América/Santa Lúcia"
 
 #, fuzzy
 #~ msgid "posix/America/St_Thomas"
-#~ msgstr "AmÃ©rica/St Thomas"
+#~ msgstr "América/St Thomas"
 
 #, fuzzy
 #~ msgid "posix/America/St_Vincent"
-#~ msgstr "AmÃ©rica/SÃ£o Vicente"
+#~ msgstr "América/São Vicente"
 
 #, fuzzy
 #~ msgid "posix/America/Swift_Current"
-#~ msgstr "AmÃ©rica/Swift Current"
+#~ msgstr "América/Swift Current"
 
 #, fuzzy
 #~ msgid "posix/America/Tegucigalpa"
-#~ msgstr "AmÃ©rica/Tegucigalpa"
+#~ msgstr "América/Tegucigalpa"
 
 #, fuzzy
 #~ msgid "posix/America/Thule"
-#~ msgstr "AmÃ©rica/Thule"
+#~ msgstr "América/Thule"
 
 #, fuzzy
 #~ msgid "posix/America/Thunder_Bay"
-#~ msgstr "AmÃ©rica/Thunder Bay"
+#~ msgstr "América/Thunder Bay"
 
 #, fuzzy
 #~ msgid "posix/America/Tijuana"
-#~ msgstr "AmÃ©rica/Tijuana"
+#~ msgstr "América/Tijuana"
 
 #, fuzzy
 #~ msgid "posix/America/Tortola"
-#~ msgstr "AmÃ©rica/Tortola"
+#~ msgstr "América/Tortola"
 
 #, fuzzy
 #~ msgid "posix/America/Vancouver"
-#~ msgstr "AmÃ©rica/Vancouver"
+#~ msgstr "América/Vancouver"
 
 #, fuzzy
 #~ msgid "posix/America/Virgin"
-#~ msgstr "AmÃ©rica/Virgin"
+#~ msgstr "América/Virgin"
 
 #, fuzzy
 #~ msgid "posix/America/Whitehorse"
-#~ msgstr "AmÃ©rica/Whitehorse"
+#~ msgstr "América/Whitehorse"
 
 #, fuzzy
 #~ msgid "posix/America/Winnipeg"
-#~ msgstr "AmÃ©rica/Winnipeg"
+#~ msgstr "América/Winnipeg"
 
 #, fuzzy
 #~ msgid "posix/America/Yakutat"
-#~ msgstr "AmÃ©rica/Yakutat"
+#~ msgstr "América/Yakutat"
 
 #, fuzzy
 #~ msgid "posix/America/Yellowknife"
-#~ msgstr "AmÃ©rica/Yellowknife"
+#~ msgstr "América/Yellowknife"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Casey"
-#~ msgstr "AntÃ¡rtica/Casey"
+#~ msgstr "Antártica/Casey"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Davis"
-#~ msgstr "AntÃ¡rtica/Davis"
+#~ msgstr "Antártica/Davis"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/DumontDUrville"
-#~ msgstr "AntÃ¡rtica/DumontDUrville"
+#~ msgstr "Antártica/DumontDUrville"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Mawson"
-#~ msgstr "AntÃ¡rtica/Mawson"
+#~ msgstr "Antártica/Mawson"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/McMurdo"
-#~ msgstr "AntÃ¡rtica/McMurdo"
+#~ msgstr "Antártica/McMurdo"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Palmer"
-#~ msgstr "AntÃ¡rtica/Palmer"
+#~ msgstr "Antártica/Palmer"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/South_Pole"
-#~ msgstr "AntÃ¡rtica/Polo Sul"
+#~ msgstr "Antártica/Polo Sul"
 
 #, fuzzy
 #~ msgid "posix/Antarctica/Syowa"
-#~ msgstr "AntÃ¡rtica/Casey"
+#~ msgstr "Antártica/Casey"
 
 #, fuzzy
 #~ msgid "posix/Arctic/Longyearbyen"
-#~ msgstr "Ãrtico/Longyearbyen"
+#~ msgstr "Ártico/Longyearbyen"
 
 #, fuzzy
 #~ msgid "posix/Asia/Aden"
-#~ msgstr "Ãsia/Ãden"
+#~ msgstr "Ásia/Áden"
 
 #, fuzzy
 #~ msgid "posix/Asia/Almaty"
-#~ msgstr "Ãsia/Alma Ata"
+#~ msgstr "Ásia/Alma Ata"
 
 #, fuzzy
 #~ msgid "posix/Asia/Amman"
-#~ msgstr "Ãsia/AmÃ£"
+#~ msgstr "Ásia/Amã"
 
 #, fuzzy
 #~ msgid "posix/Asia/Anadyr"
-#~ msgstr "Ãsia/Anadir"
+#~ msgstr "Ásia/Anadir"
 
 #, fuzzy
 #~ msgid "posix/Asia/Aqtau"
-#~ msgstr "Ãsia/Aqtau"
+#~ msgstr "Ásia/Aqtau"
 
 #, fuzzy
 #~ msgid "posix/Asia/Aqtobe"
-#~ msgstr "Ãsia/Aqtobe"
+#~ msgstr "Ásia/Aqtobe"
 
 #, fuzzy
 #~ msgid "posix/Asia/Ashkhabad"
-#~ msgstr "Ãsia/Ashkhabad"
+#~ msgstr "Ásia/Ashkhabad"
 
 #, fuzzy
 #~ msgid "posix/Asia/Baghdad"
-#~ msgstr "Ãsia/BagdÃ¡"
+#~ msgstr "Ásia/Bagdá"
 
 #, fuzzy
 #~ msgid "posix/Asia/Bahrain"
-#~ msgstr "Ãsia/Barein"
+#~ msgstr "Ásia/Barein"
 
 #, fuzzy
 #~ msgid "posix/Asia/Baku"
-#~ msgstr "Ãsia/Baku"
+#~ msgstr "Ásia/Baku"
 
 #, fuzzy
 #~ msgid "posix/Asia/Bangkok"
-#~ msgstr "Ãsia/Bangkok"
+#~ msgstr "Ásia/Bangkok"
 
 #, fuzzy
 #~ msgid "posix/Asia/Beirut"
-#~ msgstr "Ãsia/Beirute"
+#~ msgstr "Ásia/Beirute"
 
 #, fuzzy
 #~ msgid "posix/Asia/Bishkek"
-#~ msgstr "Ãsia/Bishkek"
+#~ msgstr "Ásia/Bishkek"
 
 #, fuzzy
 #~ msgid "posix/Asia/Brunei"
-#~ msgstr "Ãsia/Brunei"
+#~ msgstr "Ásia/Brunei"
 
 #, fuzzy
 #~ msgid "posix/Asia/Calcutta"
-#~ msgstr "Ãsia/CalcutÃ¡"
+#~ msgstr "Ásia/Calcutá"
 
 #, fuzzy
 #~ msgid "posix/Asia/Chungking"
-#~ msgstr "Ãsia/Chungking"
+#~ msgstr "Ásia/Chungking"
 
 #, fuzzy
 #~ msgid "posix/Asia/Colombo"
-#~ msgstr "Ãsia/Colombo"
+#~ msgstr "Ásia/Colombo"
 
 #, fuzzy
 #~ msgid "posix/Asia/Dacca"
-#~ msgstr "Ãsia/Daca"
+#~ msgstr "Ásia/Daca"
 
 #, fuzzy
 #~ msgid "posix/Asia/Damascus"
-#~ msgstr "Ãsia/Damasco"
+#~ msgstr "Ásia/Damasco"
 
 #, fuzzy
 #~ msgid "posix/Asia/Dili"
-#~ msgstr "Ãsia/Tbilisi"
+#~ msgstr "Ásia/Tbilisi"
 
 #, fuzzy
 #~ msgid "posix/Asia/Dubai"
-#~ msgstr "Ãsia/Dubai"
+#~ msgstr "Ásia/Dubai"
 
 #, fuzzy
 #~ msgid "posix/Asia/Dushanbe"
-#~ msgstr "Ãsia/DushanbÃª"
+#~ msgstr "Ásia/Dushanbê"
 
 #, fuzzy
 #~ msgid "posix/Asia/Gaza"
-#~ msgstr "Ãsia/Gaza"
+#~ msgstr "Ásia/Gaza"
 
 #, fuzzy
 #~ msgid "posix/Asia/Harbin"
-#~ msgstr "Ãsia/Harbin"
+#~ msgstr "Ásia/Harbin"
 
 #, fuzzy
 #~ msgid "posix/Asia/Hong_Kong"
-#~ msgstr "Ãsia/Hong Kong"
+#~ msgstr "Ásia/Hong Kong"
 
 #, fuzzy
 #~ msgid "posix/Asia/Hovd"
-#~ msgstr "Ãsia/Ãden"
+#~ msgstr "Ásia/Áden"
 
 #, fuzzy
 #~ msgid "posix/Asia/Irkutsk"
-#~ msgstr "Ãsia/Irkutsk"
+#~ msgstr "Ásia/Irkutsk"
 
 #, fuzzy
 #~ msgid "posix/Asia/Istanbul"
-#~ msgstr "Ãsia/Istanbul"
+#~ msgstr "Ásia/Istanbul"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jakarta"
-#~ msgstr "Ãsia/Jacarta"
+#~ msgstr "Ásia/Jacarta"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jayapura"
-#~ msgstr "Ãsia/Jayapura"
+#~ msgstr "Ásia/Jayapura"
 
 #, fuzzy
 #~ msgid "posix/Asia/Jerusalem"
-#~ msgstr "Ãsia/JerusalÃ©m"
+#~ msgstr "Ásia/Jerusalém"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kabul"
-#~ msgstr "Ãsia/Cabul"
+#~ msgstr "Ásia/Cabul"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kamchatka"
-#~ msgstr "Ãsia/Kamchatka"
+#~ msgstr "Ásia/Kamchatka"
 
 #, fuzzy
 #~ msgid "posix/Asia/Karachi"
-#~ msgstr "Ãsia/Karachi"
+#~ msgstr "Ásia/Karachi"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kashgar"
-#~ msgstr "Ãsia/Kashgar"
+#~ msgstr "Ásia/Kashgar"
 
 #, fuzzy
 #~ msgid "posix/Asia/Katmandu"
-#~ msgstr "Ãsia/Katmandu"
+#~ msgstr "Ásia/Katmandu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Krasnoyarsk"
-#~ msgstr "Ãsia/Krasnoyarsk"
+#~ msgstr "Ásia/Krasnoyarsk"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kuala_Lumpur"
-#~ msgstr "Ãsia/Kuala Lumpur"
+#~ msgstr "Ásia/Kuala Lumpur"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kuching"
-#~ msgstr "Ãsia/Kuching"
+#~ msgstr "Ásia/Kuching"
 
 #, fuzzy
 #~ msgid "posix/Asia/Kuwait"
-#~ msgstr "Ãsia/Kuwait"
+#~ msgstr "Ásia/Kuwait"
 
 #, fuzzy
 #~ msgid "posix/Asia/Macao"
-#~ msgstr "Ãsia/Macau"
+#~ msgstr "Ásia/Macau"
 
 #, fuzzy
 #~ msgid "posix/Asia/Magadan"
-#~ msgstr "Ãsia/Magadan"
+#~ msgstr "Ásia/Magadan"
 
 #, fuzzy
 #~ msgid "posix/Asia/Manila"
-#~ msgstr "Ãsia/Manila"
+#~ msgstr "Ásia/Manila"
 
 #, fuzzy
 #~ msgid "posix/Asia/Muscat"
-#~ msgstr "Ãsia/Mascate"
+#~ msgstr "Ásia/Mascate"
 
 #, fuzzy
 #~ msgid "posix/Asia/Nicosia"
-#~ msgstr "Ãsia/NicÃ³sia"
+#~ msgstr "Ásia/Nicósia"
 
 #, fuzzy
 #~ msgid "posix/Asia/Novosibirsk"
-#~ msgstr "Ãsia/Novosibirsk"
+#~ msgstr "Ásia/Novosibirsk"
 
 #, fuzzy
 #~ msgid "posix/Asia/Omsk"
-#~ msgstr "Ãsia/Omsk"
+#~ msgstr "Ásia/Omsk"
 
 #, fuzzy
 #~ msgid "posix/Asia/Phnom_Penh"
-#~ msgstr "Ãsia/Phnom Penh"
+#~ msgstr "Ásia/Phnom Penh"
 
 #, fuzzy
 #~ msgid "posix/Asia/Pyongyang"
-#~ msgstr "Ãsia/Pyongyang"
+#~ msgstr "Ásia/Pyongyang"
 
 #, fuzzy
 #~ msgid "posix/Asia/Qatar"
-#~ msgstr "Ãsia/Catar"
+#~ msgstr "Ásia/Catar"
 
 #, fuzzy
 #~ msgid "posix/Asia/Rangoon"
-#~ msgstr "Ãsia/Yangun"
+#~ msgstr "Ásia/Yangun"
 
 #, fuzzy
 #~ msgid "posix/Asia/Riyadh"
-#~ msgstr "Ãsia/Riad"
+#~ msgstr "Ásia/Riad"
 
 #, fuzzy
 #~ msgid "posix/Asia/Riyadh87"
-#~ msgstr "Ãsia/Riad87"
+#~ msgstr "Ásia/Riad87"
 
 #, fuzzy
 #~ msgid "posix/Asia/Riyadh88"
-#~ msgstr "Ãsia/Riad88"
+#~ msgstr "Ásia/Riad88"
 
 #, fuzzy
 #~ msgid "posix/Asia/Riyadh89"
-#~ msgstr "Ãsia/Riad89"
+#~ msgstr "Ásia/Riad89"
 
 #, fuzzy
 #~ msgid "posix/Asia/Saigon"
-#~ msgstr "Ãsia/Saigon"
+#~ msgstr "Ásia/Saigon"
 
 #, fuzzy
 #~ msgid "posix/Asia/Samarkand"
-#~ msgstr "Ãsia/Katmandu"
+#~ msgstr "Ásia/Katmandu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Seoul"
-#~ msgstr "Ãsia/Seul"
+#~ msgstr "Ásia/Seul"
 
 #, fuzzy
 #~ msgid "posix/Asia/Shanghai"
-#~ msgstr "Ãsia/Xangai"
+#~ msgstr "Ásia/Xangai"
 
 #, fuzzy
 #~ msgid "posix/Asia/Singapore"
-#~ msgstr "Ãsia/Cingapura"
+#~ msgstr "Ásia/Cingapura"
 
 #, fuzzy
 #~ msgid "posix/Asia/Taipei"
-#~ msgstr "Ãsia/TaipÃ©"
+#~ msgstr "Ásia/Taipé"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tashkent"
-#~ msgstr "Ãsia/Tashkent"
+#~ msgstr "Ásia/Tashkent"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tbilisi"
-#~ msgstr "Ãsia/Tbilisi"
+#~ msgstr "Ásia/Tbilisi"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tehran"
-#~ msgstr "Ãsia/TeerÃ£"
+#~ msgstr "Ásia/Teerã"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tel_Aviv"
-#~ msgstr "Ãsia/Tel Aviv"
+#~ msgstr "Ásia/Tel Aviv"
 
 #, fuzzy
 #~ msgid "posix/Asia/Thimbu"
-#~ msgstr "Ãsia/Timbu"
+#~ msgstr "Ásia/Timbu"
 
 #, fuzzy
 #~ msgid "posix/Asia/Tokyo"
-#~ msgstr "Ãsia/TÃ³quio"
+#~ msgstr "Ásia/Tóquio"
 
 #, fuzzy
 #~ msgid "posix/Asia/Ujung_Pandang"
-#~ msgstr "Ãsia/Ujung Pandang"
+#~ msgstr "Ásia/Ujung Pandang"
 
 #, fuzzy
 #~ msgid "posix/Asia/Ulan_Bator"
-#~ msgstr "Ãsia/Ulan Bator"
+#~ msgstr "Ásia/Ulan Bator"
 
 #, fuzzy
 #~ msgid "posix/Asia/Ulaanbaatar"
-#~ msgstr "Ãsia/Ulan Bator"
+#~ msgstr "Ásia/Ulan Bator"
 
 #, fuzzy
 #~ msgid "posix/Asia/Urumqi"
-#~ msgstr "Ãsia/Urumqi"
+#~ msgstr "Ásia/Urumqi"
 
 #, fuzzy
 #~ msgid "posix/Asia/Vientiane"
-#~ msgstr "Ãsia/Vientiane"
+#~ msgstr "Ásia/Vientiane"
 
 #, fuzzy
 #~ msgid "posix/Asia/Vladivostok"
-#~ msgstr "Ãsia/Vladivostok"
+#~ msgstr "Ásia/Vladivostok"
 
 #, fuzzy
 #~ msgid "posix/Asia/Yakutsk"
-#~ msgstr "Ãsia/Yakutsk"
+#~ msgstr "Ásia/Yakutsk"
 
 #, fuzzy
 #~ msgid "posix/Asia/Yekaterinburg"
-#~ msgstr "Ãsia/Yekaterinburg"
+#~ msgstr "Ásia/Yekaterinburg"
 
 #, fuzzy
 #~ msgid "posix/Asia/Yerevan"
-#~ msgstr "Ãsia/Yerevan"
+#~ msgstr "Ásia/Yerevan"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Azores"
-#~ msgstr "AtlÃ¢ntico/AÃ§ores"
+#~ msgstr "Atlântico/Açores"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Bermuda"
-#~ msgstr "AtlÃ¢ntico/Bermuda"
+#~ msgstr "Atlântico/Bermuda"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Canary"
-#~ msgstr "AtlÃ¢ntico/CanÃ¡rias"
+#~ msgstr "Atlântico/Canárias"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Cape_Verde"
-#~ msgstr "AtlÃ¢ntico/Cabo Verde"
+#~ msgstr "Atlântico/Cabo Verde"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Faeroe"
-#~ msgstr "AtlÃ¢ntico/Faroe"
+#~ msgstr "Atlântico/Faroe"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Jan_Mayen"
-#~ msgstr "AtlÃ¢ntico/Jan Mayen"
+#~ msgstr "Atlântico/Jan Mayen"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Madeira"
-#~ msgstr "AtlÃ¢ntico/Madeira"
+#~ msgstr "Atlântico/Madeira"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Reykjavik"
-#~ msgstr "AtlÃ¢ntico/Reykjavik"
+#~ msgstr "Atlântico/Reykjavik"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/South_Georgia"
-#~ msgstr "AtlÃ¢ntico/GeÃ³rgia do Sul"
+#~ msgstr "Atlântico/Geórgia do Sul"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/Stanley"
-#~ msgstr "AtlÃ¢ntico/Stanley"
+#~ msgstr "Atlântico/Stanley"
 
 #, fuzzy
 #~ msgid "posix/Atlantic/St_Helena"
-#~ msgstr "AtlÃ¢ntico/Santa Helena"
+#~ msgstr "Atlântico/Santa Helena"
 
 #, fuzzy
 #~ msgid "posix/Australia/ACT"
-#~ msgstr "AustrÃ¡lia/ACT"
+#~ msgstr "Austrália/ACT"
 
 #, fuzzy
 #~ msgid "posix/Australia/Adelaide"
-#~ msgstr "AustrÃ¡lia/Adelaide"
+#~ msgstr "Austrália/Adelaide"
 
 #, fuzzy
 #~ msgid "posix/Australia/Brisbane"
-#~ msgstr "AustrÃ¡lia/Brisbane"
+#~ msgstr "Austrália/Brisbane"
 
 #, fuzzy
 #~ msgid "posix/Australia/Broken_Hill"
-#~ msgstr "AustrÃ¡lia/Broken Hill"
+#~ msgstr "Austrália/Broken Hill"
 
 #, fuzzy
 #~ msgid "posix/Australia/Canberra"
-#~ msgstr "AustrÃ¡lia/Camberra"
+#~ msgstr "Austrália/Camberra"
 
 #, fuzzy
 #~ msgid "posix/Australia/Darwin"
-#~ msgstr "AustrÃ¡lia/Darwin"
+#~ msgstr "Austrália/Darwin"
 
 #, fuzzy
 #~ msgid "posix/Australia/Hobart"
-#~ msgstr "AustrÃ¡lia/Hobart"
+#~ msgstr "Austrália/Hobart"
 
 #, fuzzy
 #~ msgid "posix/Australia/LHI"
-#~ msgstr "AustrÃ¡lia/LHI"
+#~ msgstr "Austrália/LHI"
 
 #, fuzzy
 #~ msgid "posix/Australia/Lindeman"
-#~ msgstr "AustrÃ¡lia/Lindeman"
+#~ msgstr "Austrália/Lindeman"
 
 #, fuzzy
 #~ msgid "posix/Australia/Lord_Howe"
-#~ msgstr "AustrÃ¡lia/Lord Howe"
+#~ msgstr "Austrália/Lord Howe"
 
 #, fuzzy
 #~ msgid "posix/Australia/Melbourne"
-#~ msgstr "AustrÃ¡lia/Melbourne"
+#~ msgstr "Austrália/Melbourne"
 
 #, fuzzy
 #~ msgid "posix/Australia/North"
-#~ msgstr "AustrÃ¡lia/Norte"
+#~ msgstr "Austrália/Norte"
 
 #, fuzzy
 #~ msgid "posix/Australia/NSW"
-#~ msgstr "AustrÃ¡lia/NSW"
+#~ msgstr "Austrália/NSW"
 
 #, fuzzy
 #~ msgid "posix/Australia/Perth"
-#~ msgstr "AustrÃ¡lia/Perth"
+#~ msgstr "Austrália/Perth"
 
 #, fuzzy
 #~ msgid "posix/Australia/Queensland"
-#~ msgstr "AustrÃ¡lia/Queensland"
+#~ msgstr "Austrália/Queensland"
 
 #, fuzzy
 #~ msgid "posix/Australia/South"
-#~ msgstr "AustrÃ¡lia/Sul"
+#~ msgstr "Austrália/Sul"
 
 #, fuzzy
 #~ msgid "posix/Australia/Sydney"
-#~ msgstr "AustrÃ¡lia/Sidnei"
+#~ msgstr "Austrália/Sidnei"
 
 #, fuzzy
 #~ msgid "posix/Australia/Tasmania"
-#~ msgstr "AustrÃ¡lia/TasmÃ¢nia"
+#~ msgstr "Austrália/Tasmânia"
 
 #, fuzzy
 #~ msgid "posix/Australia/Victoria"
-#~ msgstr "AustrÃ¡lia/VitÃ³ria"
+#~ msgstr "Austrália/Vitória"
 
 #, fuzzy
 #~ msgid "posix/Australia/West"
-#~ msgstr "AustrÃ¡lia/Oeste"
+#~ msgstr "Austrália/Oeste"
 
 #, fuzzy
 #~ msgid "posix/Australia/Yancowinna"
-#~ msgstr "AustrÃ¡lia/Yancowinna"
+#~ msgstr "Austrália/Yancowinna"
 
 #, fuzzy
 #~ msgid "posix/Brazil/Acre"
@@ -2776,39 +2752,39 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Canada/Atlantic"
-#~ msgstr "CanadÃ¡/AtlÃ¢ntico"
+#~ msgstr "Canadá/Atlântico"
 
 #, fuzzy
 #~ msgid "posix/Canada/Central"
-#~ msgstr "CanadÃ¡/Central"
+#~ msgstr "Canadá/Central"
 
 #, fuzzy
 #~ msgid "posix/Canada/Eastern"
-#~ msgstr "CanadÃ¡/Leste"
+#~ msgstr "Canadá/Leste"
 
 #, fuzzy
 #~ msgid "posix/Canada/East-Saskatchewan"
-#~ msgstr "CanadÃ¡/Leste-Saskatchewan"
+#~ msgstr "Canadá/Leste-Saskatchewan"
 
 #, fuzzy
 #~ msgid "posix/Canada/Mountain"
-#~ msgstr "CanadÃ¡/Montanhas"
+#~ msgstr "Canadá/Montanhas"
 
 #, fuzzy
 #~ msgid "posix/Canada/Newfoundland"
-#~ msgstr "CanadÃ¡/Terra Nova"
+#~ msgstr "Canadá/Terra Nova"
 
 #, fuzzy
 #~ msgid "posix/Canada/Pacific"
-#~ msgstr "CanadÃ¡/PacÃ­fico"
+#~ msgstr "Canadá/Pacífico"
 
 #, fuzzy
 #~ msgid "posix/Canada/Saskatchewan"
-#~ msgstr "CanadÃ¡/Saskatchewan"
+#~ msgstr "Canadá/Saskatchewan"
 
 #, fuzzy
 #~ msgid "posix/Canada/Yukon"
-#~ msgstr "CanadÃ¡/Yukon"
+#~ msgstr "Canadá/Yukon"
 
 #, fuzzy
 #~ msgid "posix/Chile/Continental"
@@ -2816,7 +2792,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Chile/EasterIsland"
-#~ msgstr "Chile/Ilha de PÃ¡scoa"
+#~ msgstr "Chile/Ilha de Páscoa"
 
 #, fuzzy
 #~ msgid "posix/CST6CDT"
@@ -2824,7 +2800,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Cuba"
-#~ msgstr "Ãsia/Dubai"
+#~ msgstr "Ásia/Dubai"
 
 #, fuzzy
 #~ msgid "posix/Egypt"
@@ -2976,7 +2952,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Amsterdam"
-#~ msgstr "Europa/AmsterdÃ£"
+#~ msgstr "Europa/Amsterdã"
 
 #, fuzzy
 #~ msgid "posix/Europe/Andorra"
@@ -3076,7 +3052,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Monaco"
-#~ msgstr "Europa/MÃ´naco"
+#~ msgstr "Europa/Mônaco"
 
 #, fuzzy
 #~ msgid "posix/Europe/Moscow"
@@ -3108,7 +3084,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/San_Marino"
-#~ msgstr "Europa/SÃ£o Marino"
+#~ msgstr "Europa/São Marino"
 
 #, fuzzy
 #~ msgid "posix/Europe/Sarajevo"
@@ -3124,7 +3100,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Sofia"
-#~ msgstr "Europa/SÃ³fia"
+#~ msgstr "Europa/Sófia"
 
 #, fuzzy
 #~ msgid "posix/Europe/Stockholm"
@@ -3164,7 +3140,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Europe/Warsaw"
-#~ msgstr "Europa/VarsÃ³via"
+#~ msgstr "Europa/Varsóvia"
 
 #, fuzzy
 #~ msgid "posix/Europe/Zagreb"
@@ -3180,7 +3156,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Factory"
-#~ msgstr "FÃ¡brica"
+#~ msgstr "Fábrica"
 
 #, fuzzy
 #~ msgid "posix/GB-Eire"
@@ -3204,51 +3180,51 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Iceland"
-#~ msgstr "IslÃ¢ndia"
+#~ msgstr "Islândia"
 
 #, fuzzy
 #~ msgid "posix/Indian/Antananarivo"
-#~ msgstr "Ãndico/Antananarivo"
+#~ msgstr "Índico/Antananarivo"
 
 #, fuzzy
 #~ msgid "posix/Indian/Chagos"
-#~ msgstr "Ãndico/Chagos"
+#~ msgstr "Índico/Chagos"
 
 #, fuzzy
 #~ msgid "posix/Indian/Christmas"
-#~ msgstr "Ãndico/Christmas"
+#~ msgstr "Índico/Christmas"
 
 #, fuzzy
 #~ msgid "posix/Indian/Cocos"
-#~ msgstr "Ãndico/Cocos"
+#~ msgstr "Índico/Cocos"
 
 #, fuzzy
 #~ msgid "posix/Indian/Comoro"
-#~ msgstr "Ãndico/Comores"
+#~ msgstr "Índico/Comores"
 
 #, fuzzy
 #~ msgid "posix/Indian/Kerguelen"
-#~ msgstr "Ãndico/Kerguelen"
+#~ msgstr "Índico/Kerguelen"
 
 #, fuzzy
 #~ msgid "posix/Indian/Mahe"
-#~ msgstr "Ãndico/Mahe"
+#~ msgstr "Índico/Mahe"
 
 #, fuzzy
 #~ msgid "posix/Indian/Maldives"
-#~ msgstr "Ãndico/Maldivas"
+#~ msgstr "Índico/Maldivas"
 
 #, fuzzy
 #~ msgid "posix/Indian/Mauritius"
-#~ msgstr "Ãndico/MaurÃ­cio"
+#~ msgstr "Índico/Maurício"
 
 #, fuzzy
 #~ msgid "posix/Indian/Mayotte"
-#~ msgstr "Ãndico/Mayote"
+#~ msgstr "Índico/Mayote"
 
 #, fuzzy
 #~ msgid "posix/Indian/Reunion"
-#~ msgstr "Ãndico/ReuniÃ£o"
+#~ msgstr "Índico/Reunião"
 
 #, fuzzy
 #~ msgid "posix/Israel"
@@ -3260,7 +3236,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Japan"
-#~ msgstr "JapÃ£o"
+#~ msgstr "Japão"
 
 #, fuzzy
 #~ msgid "posix/Kwajalein"
@@ -3268,31 +3244,31 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Libya"
-#~ msgstr "LÃ­bia"
+#~ msgstr "Líbia"
 
 #, fuzzy
 #~ msgid "posix/Mexico/BajaNorte"
-#~ msgstr "MÃ©xico/BajaNorte"
+#~ msgstr "México/BajaNorte"
 
 #, fuzzy
 #~ msgid "posix/Mexico/BajaSur"
-#~ msgstr "MÃ©xico/BajaSur"
+#~ msgstr "México/BajaSur"
 
 #, fuzzy
 #~ msgid "posix/Mexico/General"
-#~ msgstr "MÃ©xico/Geral"
+#~ msgstr "México/Geral"
 
 #, fuzzy
 #~ msgid "posix/Mideast/Riyadh87"
-#~ msgstr "Oriente MÃ©dio/Riad87"
+#~ msgstr "Oriente Médio/Riad87"
 
 #, fuzzy
 #~ msgid "posix/Mideast/Riyadh88"
-#~ msgstr "Oriente MÃ©dio/Riad88"
+#~ msgstr "Oriente Médio/Riad88"
 
 #, fuzzy
 #~ msgid "posix/Mideast/Riyadh89"
-#~ msgstr "Oriente MÃ©dio/Riad89"
+#~ msgstr "Oriente Médio/Riad89"
 
 #, fuzzy
 #~ msgid "posix/MST7MDT"
@@ -3308,167 +3284,167 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Apia"
-#~ msgstr "PacÃ­fico/Ãpia"
+#~ msgstr "Pacífico/Ápia"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Auckland"
-#~ msgstr "PacÃ­fico/Auckland"
+#~ msgstr "Pacífico/Auckland"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Chatham"
-#~ msgstr "PacÃ­fico/Chatham"
+#~ msgstr "Pacífico/Chatham"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Easter"
-#~ msgstr "PacÃ­fico/Ilha de PÃ¡scoa"
+#~ msgstr "Pacífico/Ilha de Páscoa"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Efate"
-#~ msgstr "PacÃ­fico/Efate"
+#~ msgstr "Pacífico/Efate"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Enderbury"
-#~ msgstr "PacÃ­fico/Enderbury"
+#~ msgstr "Pacífico/Enderbury"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Fakaofo"
-#~ msgstr "PacÃ­fico/Fakaofo"
+#~ msgstr "Pacífico/Fakaofo"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Fiji"
-#~ msgstr "PacÃ­fico/Fiji"
+#~ msgstr "Pacífico/Fiji"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Funafuti"
-#~ msgstr "PacÃ­fico/Funafati"
+#~ msgstr "Pacífico/Funafati"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Galapagos"
-#~ msgstr "PacÃ­fico/GalÃ¡pagos"
+#~ msgstr "Pacífico/Galápagos"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Gambier"
-#~ msgstr "PacÃ­fico/Gambier"
+#~ msgstr "Pacífico/Gambier"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Guadalcanal"
-#~ msgstr "PacÃ­fico/Guadalcanal"
+#~ msgstr "Pacífico/Guadalcanal"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Guam"
-#~ msgstr "PacÃ­fico/Guam"
+#~ msgstr "Pacífico/Guam"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Honolulu"
-#~ msgstr "PacÃ­fico/Honolulu"
+#~ msgstr "Pacífico/Honolulu"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Johnston"
-#~ msgstr "PacÃ­fico/Johnston"
+#~ msgstr "Pacífico/Johnston"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Kiritimati"
-#~ msgstr "PacÃ­fico/Kiritimati"
+#~ msgstr "Pacífico/Kiritimati"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Kosrae"
-#~ msgstr "PacÃ­fico/Kosrae"
+#~ msgstr "Pacífico/Kosrae"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Kwajalein"
-#~ msgstr "PacÃ­fico/Kwajalein"
+#~ msgstr "Pacífico/Kwajalein"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Majuro"
-#~ msgstr "PacÃ­fico/Majuro"
+#~ msgstr "Pacífico/Majuro"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Marquesas"
-#~ msgstr "PacÃ­fico/Marquesas"
+#~ msgstr "Pacífico/Marquesas"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Midway"
-#~ msgstr "PacÃ­fico/Midway"
+#~ msgstr "Pacífico/Midway"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Nauru"
-#~ msgstr "PacÃ­fico/Nauru"
+#~ msgstr "Pacífico/Nauru"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Niue"
-#~ msgstr "PacÃ­fico/Niue"
+#~ msgstr "Pacífico/Niue"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Norfolk"
-#~ msgstr "PacÃ­fico/Norfolk"
+#~ msgstr "Pacífico/Norfolk"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Noumea"
-#~ msgstr "PacÃ­fico/Noumea"
+#~ msgstr "Pacífico/Noumea"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Pago_Pago"
-#~ msgstr "PacÃ­fico/Pago Pago"
+#~ msgstr "Pacífico/Pago Pago"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Palau"
-#~ msgstr "PacÃ­fico/Palau"
+#~ msgstr "Pacífico/Palau"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Pitcairn"
-#~ msgstr "PacÃ­fico/Pitcairn"
+#~ msgstr "Pacífico/Pitcairn"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Ponape"
-#~ msgstr "PacÃ­fico/Ponape"
+#~ msgstr "Pacífico/Ponape"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Port_Moresby"
-#~ msgstr "PacÃ­fico/Port Moresby"
+#~ msgstr "Pacífico/Port Moresby"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Rarotonga"
-#~ msgstr "PacÃ­fico/Rarotonga"
+#~ msgstr "Pacífico/Rarotonga"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Saipan"
-#~ msgstr "PacÃ­fico/Saipan"
+#~ msgstr "Pacífico/Saipan"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Samoa"
-#~ msgstr "PacÃ­fico/Samoa"
+#~ msgstr "Pacífico/Samoa"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Tahiti"
-#~ msgstr "PacÃ­fico/Taiti"
+#~ msgstr "Pacífico/Taiti"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Tarawa"
-#~ msgstr "PacÃ­fico/Tarawa"
+#~ msgstr "Pacífico/Tarawa"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Tongatapu"
-#~ msgstr "PacÃ­fico/Tongatapu"
+#~ msgstr "Pacífico/Tongatapu"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Truk"
-#~ msgstr "PacÃ­fico/Truk"
+#~ msgstr "Pacífico/Truk"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Wake"
-#~ msgstr "PacÃ­fico/Wake"
+#~ msgstr "Pacífico/Wake"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Wallis"
-#~ msgstr "PacÃ­fico/Wallis"
+#~ msgstr "Pacífico/Wallis"
 
 #, fuzzy
 #~ msgid "posix/Pacific/Yap"
-#~ msgstr "PacÃ­fico/Yap"
+#~ msgstr "Pacífico/Yap"
 
 #, fuzzy
 #~ msgid "posix/Poland"
-#~ msgstr "PolÃ´nia"
+#~ msgstr "Polônia"
 
 #, fuzzy
 #~ msgid "posix/Portugal"
@@ -3480,7 +3456,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/Singapore"
-#~ msgstr "Ãsia/Cingapura"
+#~ msgstr "Ásia/Cingapura"
 
 #, fuzzy
 #~ msgid "posix/SystemV/AST4"
@@ -3584,7 +3560,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "posix/US/Pacific"
-#~ msgstr "US/PacÃ­fico"
+#~ msgstr "US/Pacífico"
 
 #, fuzzy
 #~ msgid "posix/US/Samoa"
@@ -3592,1151 +3568,1151 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Africa/Abidjan"
-#~ msgstr "Ãfrica/AbidjÃ£"
+#~ msgstr "África/Abidjã"
 
 #, fuzzy
 #~ msgid "right/Africa/Accra"
-#~ msgstr "Ãfrica/Acra"
+#~ msgstr "África/Acra"
 
 #, fuzzy
 #~ msgid "right/Africa/Addis_Ababa"
-#~ msgstr "Ãfrica/Adis Abeba"
+#~ msgstr "África/Adis Abeba"
 
 #, fuzzy
 #~ msgid "right/Africa/Algiers"
-#~ msgstr "Ãfrica/ArgÃ©lia"
+#~ msgstr "África/Argélia"
 
 #, fuzzy
 #~ msgid "right/Africa/Asmera"
-#~ msgstr "Ãfrica/Asmara"
+#~ msgstr "África/Asmara"
 
 #, fuzzy
 #~ msgid "right/Africa/Bamako"
-#~ msgstr "Ãfrca/Bamaco"
+#~ msgstr "Áfrca/Bamaco"
 
 #, fuzzy
 #~ msgid "right/Africa/Bangui"
-#~ msgstr "Ãfrica/Bangui"
+#~ msgstr "África/Bangui"
 
 #, fuzzy
 #~ msgid "right/Africa/Banjul"
-#~ msgstr "Ãfrica/Banjul"
+#~ msgstr "África/Banjul"
 
 #, fuzzy
 #~ msgid "right/Africa/Bissau"
-#~ msgstr "Ãfrica/Bissau"
+#~ msgstr "África/Bissau"
 
 #, fuzzy
 #~ msgid "right/Africa/Blantyre"
-#~ msgstr "Ãfrica/Blantyre"
+#~ msgstr "África/Blantyre"
 
 #, fuzzy
 #~ msgid "right/Africa/Brazzaville"
-#~ msgstr "Ãfrica/Brazzaville"
+#~ msgstr "África/Brazzaville"
 
 #, fuzzy
 #~ msgid "right/Africa/Bujumbura"
-#~ msgstr "Ãfrica/Bujumbura"
+#~ msgstr "África/Bujumbura"
 
 #, fuzzy
 #~ msgid "right/Africa/Cairo"
-#~ msgstr "Ãfrica/Cairo"
+#~ msgstr "África/Cairo"
 
 #, fuzzy
 #~ msgid "right/Africa/Casablanca"
-#~ msgstr "Ãfrica/Casablanca"
+#~ msgstr "África/Casablanca"
 
 #, fuzzy
 #~ msgid "right/Africa/Ceuta"
-#~ msgstr "Ãfrica/Ceuta"
+#~ msgstr "África/Ceuta"
 
 #, fuzzy
 #~ msgid "right/Africa/Conakry"
-#~ msgstr "Ãfrica/Conacri"
+#~ msgstr "África/Conacri"
 
 #, fuzzy
 #~ msgid "right/Africa/Dakar"
-#~ msgstr "Ãfrica/Dacar"
+#~ msgstr "África/Dacar"
 
 #, fuzzy
 #~ msgid "right/Africa/Dar_es_Salaam"
-#~ msgstr "Ãfrica/Dar es Salaam"
+#~ msgstr "África/Dar es Salaam"
 
 #, fuzzy
 #~ msgid "right/Africa/Djibouti"
-#~ msgstr "Ãfrica/Djibuti"
+#~ msgstr "África/Djibuti"
 
 #, fuzzy
 #~ msgid "right/Africa/Douala"
-#~ msgstr "Ãfrica/Douala"
+#~ msgstr "África/Douala"
 
 #, fuzzy
 #~ msgid "right/Africa/El_Aaiun"
-#~ msgstr "Ãfrica/El Aiun"
+#~ msgstr "África/El Aiun"
 
 #, fuzzy
 #~ msgid "right/Africa/Freetown"
-#~ msgstr "Ãfrica/Freetown"
+#~ msgstr "África/Freetown"
 
 #, fuzzy
 #~ msgid "right/Africa/Gaborone"
-#~ msgstr "Ãfrica/Gaborone"
+#~ msgstr "África/Gaborone"
 
 #, fuzzy
 #~ msgid "right/Africa/Harare"
-#~ msgstr "Ãfrica/Harare"
+#~ msgstr "África/Harare"
 
 #, fuzzy
 #~ msgid "right/Africa/Johannesburg"
-#~ msgstr "Ãfrica/Johanesburgo"
+#~ msgstr "África/Johanesburgo"
 
 #, fuzzy
 #~ msgid "right/Africa/Kampala"
-#~ msgstr "Ãfrica/Campala"
+#~ msgstr "África/Campala"
 
 #, fuzzy
 #~ msgid "right/Africa/Khartoum"
-#~ msgstr "Ãfrica/Cartum"
+#~ msgstr "África/Cartum"
 
 #, fuzzy
 #~ msgid "right/Africa/Kigali"
-#~ msgstr "Ãfrica/Kigali"
+#~ msgstr "África/Kigali"
 
 #, fuzzy
 #~ msgid "right/Africa/Kinshasa"
-#~ msgstr "Ãfrica/Kinshasa"
+#~ msgstr "África/Kinshasa"
 
 #, fuzzy
 #~ msgid "right/Africa/Lagos"
-#~ msgstr "Ãfrica/Lagos"
+#~ msgstr "África/Lagos"
 
 #, fuzzy
 #~ msgid "right/Africa/Libreville"
-#~ msgstr "Ãfrica/Libreville"
+#~ msgstr "África/Libreville"
 
 #, fuzzy
 #~ msgid "right/Africa/Lome"
-#~ msgstr "Ãfrica/Lome"
+#~ msgstr "África/Lome"
 
 #, fuzzy
 #~ msgid "right/Africa/Luanda"
-#~ msgstr "Ãfrica/Luanda"
+#~ msgstr "África/Luanda"
 
 #, fuzzy
 #~ msgid "right/Africa/Lubumbashi"
-#~ msgstr "Ãfrica/Lumbubashi"
+#~ msgstr "África/Lumbubashi"
 
 #, fuzzy
 #~ msgid "right/Africa/Lusaka"
-#~ msgstr "Ãfrica/Lusaka"
+#~ msgstr "África/Lusaka"
 
 #, fuzzy
 #~ msgid "right/Africa/Malabo"
-#~ msgstr "Ãfrica/Malabo"
+#~ msgstr "África/Malabo"
 
 #, fuzzy
 #~ msgid "right/Africa/Maputo"
-#~ msgstr "Ãfrica/Maputo"
+#~ msgstr "África/Maputo"
 
 #, fuzzy
 #~ msgid "right/Africa/Maseru"
-#~ msgstr "Ãfrica/Maseru"
+#~ msgstr "África/Maseru"
 
 #, fuzzy
 #~ msgid "right/Africa/Mbabane"
-#~ msgstr "Ãfrica/Mbabane"
+#~ msgstr "África/Mbabane"
 
 #, fuzzy
 #~ msgid "right/Africa/Mogadishu"
-#~ msgstr "Ãfrica/Mogadishu"
+#~ msgstr "África/Mogadishu"
 
 #, fuzzy
 #~ msgid "right/Africa/Monrovia"
-#~ msgstr "Ãfrica/MonrÃ³via"
+#~ msgstr "África/Monróvia"
 
 #, fuzzy
 #~ msgid "right/Africa/Nairobi"
-#~ msgstr "Ãfrica/NairÃ³bi"
+#~ msgstr "África/Nairóbi"
 
 #, fuzzy
 #~ msgid "right/Africa/Ndjamena"
-#~ msgstr "Ãfrica/Ndjamena"
+#~ msgstr "África/Ndjamena"
 
 #, fuzzy
 #~ msgid "right/Africa/Niamey"
-#~ msgstr "Ãfrica/Niamei"
+#~ msgstr "África/Niamei"
 
 #, fuzzy
 #~ msgid "right/Africa/Nouakchott"
-#~ msgstr "Ãfrica/Nuakchott"
+#~ msgstr "África/Nuakchott"
 
 #, fuzzy
 #~ msgid "right/Africa/Ouagadougou"
-#~ msgstr "Ãfrica/Uagadugu"
+#~ msgstr "África/Uagadugu"
 
 #, fuzzy
 #~ msgid "right/Africa/Porto-Novo"
-#~ msgstr "Ãfrica/Porto Novo"
+#~ msgstr "África/Porto Novo"
 
 #, fuzzy
 #~ msgid "right/Africa/Sao_Tome"
-#~ msgstr "Ãfrica/SÃ£o TomÃ©"
+#~ msgstr "África/São Tomé"
 
 #, fuzzy
 #~ msgid "right/Africa/Timbuktu"
-#~ msgstr "Ãfrica/Tombouctou"
+#~ msgstr "África/Tombouctou"
 
 #, fuzzy
 #~ msgid "right/Africa/Tripoli"
-#~ msgstr "Ãfrica/TrÃ­poli"
+#~ msgstr "África/Trípoli"
 
 #, fuzzy
 #~ msgid "right/Africa/Tunis"
-#~ msgstr "Ãfrica/TÃºnis"
+#~ msgstr "África/Túnis"
 
 #, fuzzy
 #~ msgid "right/Africa/Windhoek"
-#~ msgstr "Ãfrica/Windhoek"
+#~ msgstr "África/Windhoek"
 
 #, fuzzy
 #~ msgid "right/America/Adak"
-#~ msgstr "AmÃ©rica/Adak"
+#~ msgstr "América/Adak"
 
 #, fuzzy
 #~ msgid "right/America/Anchorage"
-#~ msgstr "AmÃ©rica/Anchorage"
+#~ msgstr "América/Anchorage"
 
 #, fuzzy
 #~ msgid "right/America/Anguilla"
-#~ msgstr "AmÃ©rica/Anguila"
+#~ msgstr "América/Anguila"
 
 #, fuzzy
 #~ msgid "right/America/Antigua"
-#~ msgstr "AmÃ©rica/AntÃ­gua"
+#~ msgstr "América/Antígua"
 
 #, fuzzy
 #~ msgid "right/America/Araguaina"
-#~ msgstr "AmÃ©rica/Aruba"
+#~ msgstr "América/Aruba"
 
 #, fuzzy
 #~ msgid "right/America/Aruba"
-#~ msgstr "AmÃ©rica/Aruba"
+#~ msgstr "América/Aruba"
 
 #, fuzzy
 #~ msgid "right/America/Asuncion"
-#~ msgstr "AmÃ©rica/AssunÃ§Ã£o"
+#~ msgstr "América/Assunção"
 
 #, fuzzy
 #~ msgid "right/America/Atka"
-#~ msgstr "AmÃ©rica/Atka"
+#~ msgstr "América/Atka"
 
 #, fuzzy
 #~ msgid "right/America/Barbados"
-#~ msgstr "AmÃ©rica/Barbados"
+#~ msgstr "América/Barbados"
 
 #, fuzzy
 #~ msgid "right/America/Belem"
-#~ msgstr "AmÃ©rica/Belize"
+#~ msgstr "América/Belize"
 
 #, fuzzy
 #~ msgid "right/America/Belize"
-#~ msgstr "AmÃ©rica/Belize"
+#~ msgstr "América/Belize"
 
 #, fuzzy
 #~ msgid "right/America/Boa_Vista"
-#~ msgstr "AmÃ©rica/Boise"
+#~ msgstr "América/Boise"
 
 #, fuzzy
 #~ msgid "right/America/Bogota"
-#~ msgstr "AmÃ©rica/BogotÃ¡"
+#~ msgstr "América/Bogotá"
 
 #, fuzzy
 #~ msgid "right/America/Boise"
-#~ msgstr "AmÃ©rica/Boise"
+#~ msgstr "América/Boise"
 
 #, fuzzy
 #~ msgid "right/America/Buenos_Aires"
-#~ msgstr "AmÃ©rica/Buenos Aires"
+#~ msgstr "América/Buenos Aires"
 
 #, fuzzy
 #~ msgid "right/America/Cambridge_Bay"
-#~ msgstr "AmÃ©rica/Glace Bay"
+#~ msgstr "América/Glace Bay"
 
 #, fuzzy
 #~ msgid "right/America/Cancun"
-#~ msgstr "AmÃ©rica/Caiena"
+#~ msgstr "América/Caiena"
 
 #, fuzzy
 #~ msgid "right/America/Caracas"
-#~ msgstr "AmÃ©rica/Caracas"
+#~ msgstr "América/Caracas"
 
 #, fuzzy
 #~ msgid "right/America/Catamarca"
-#~ msgstr "AmÃ©rica/Catamarca"
+#~ msgstr "América/Catamarca"
 
 #, fuzzy
 #~ msgid "right/America/Cayenne"
-#~ msgstr "AmÃ©rica/Caiena"
+#~ msgstr "América/Caiena"
 
 #, fuzzy
 #~ msgid "right/America/Cayman"
-#~ msgstr "AmÃ©rica/CaimÃ£s"
+#~ msgstr "América/Caimãs"
 
 #, fuzzy
 #~ msgid "right/America/Chicago"
-#~ msgstr "AmÃ©rica/Chicago"
+#~ msgstr "América/Chicago"
 
 #, fuzzy
 #~ msgid "right/America/Chihuahua"
-#~ msgstr "AmÃ©rica/CuiabÃ¡"
+#~ msgstr "América/Cuiabá"
 
 #, fuzzy
 #~ msgid "right/America/Cordoba"
-#~ msgstr "AmÃ©rica/CÃ³rdoba"
+#~ msgstr "América/Córdoba"
 
 #, fuzzy
 #~ msgid "right/America/Costa_Rica"
-#~ msgstr "AmÃ©rica/Costa Rica"
+#~ msgstr "América/Costa Rica"
 
 #, fuzzy
 #~ msgid "right/America/Cuiaba"
-#~ msgstr "AmÃ©rica/CuiabÃ¡"
+#~ msgstr "América/Cuiabá"
 
 #, fuzzy
 #~ msgid "right/America/Curacao"
-#~ msgstr "AmÃ©rica/CuraÃ§ao"
+#~ msgstr "América/Curaçao"
 
 #, fuzzy
 #~ msgid "right/America/Dawson"
-#~ msgstr "AmÃ©rica/Dawson"
+#~ msgstr "América/Dawson"
 
 #, fuzzy
 #~ msgid "right/America/Dawson_Creek"
-#~ msgstr "AmÃ©rica/Dawson Creek"
+#~ msgstr "América/Dawson Creek"
 
 #, fuzzy
 #~ msgid "right/America/Denver"
-#~ msgstr "AmÃ©rica/Denver"
+#~ msgstr "América/Denver"
 
 #, fuzzy
 #~ msgid "right/America/Detroit"
-#~ msgstr "AmÃ©rica/Detroit"
+#~ msgstr "América/Detroit"
 
 #, fuzzy
 #~ msgid "right/America/Dominica"
-#~ msgstr "AmÃ©rica/Dominica"
+#~ msgstr "América/Dominica"
 
 #, fuzzy
 #~ msgid "right/America/Edmonton"
-#~ msgstr "AmÃ©rica/Edmonton"
+#~ msgstr "América/Edmonton"
 
 #, fuzzy
 #~ msgid "right/America/El_Salvador"
-#~ msgstr "AmÃ©rica/El Salvador"
+#~ msgstr "América/El Salvador"
 
 #, fuzzy
 #~ msgid "right/America/Ensenada"
-#~ msgstr "AmÃ©rica/Ensenada"
+#~ msgstr "América/Ensenada"
 
 #, fuzzy
 #~ msgid "right/America/Fortaleza"
-#~ msgstr "AmÃ©rica/Fortaleza"
+#~ msgstr "América/Fortaleza"
 
 #, fuzzy
 #~ msgid "right/America/Fort_Wayne"
-#~ msgstr "AmÃ©rica/Fort Wayne"
+#~ msgstr "América/Fort Wayne"
 
 #, fuzzy
 #~ msgid "right/America/Glace_Bay"
-#~ msgstr "AmÃ©rica/Glace Bay"
+#~ msgstr "América/Glace Bay"
 
 #, fuzzy
 #~ msgid "right/America/Godthab"
-#~ msgstr "AmÃ©rica/Godthab"
+#~ msgstr "América/Godthab"
 
 #, fuzzy
 #~ msgid "right/America/Goose_Bay"
-#~ msgstr "AmÃ©rica/Goose Bay"
+#~ msgstr "América/Goose Bay"
 
 #, fuzzy
 #~ msgid "right/America/Grand_Turk"
-#~ msgstr "AmÃ©rica/Grand Turk"
+#~ msgstr "América/Grand Turk"
 
 #, fuzzy
 #~ msgid "right/America/Grenada"
-#~ msgstr "AmÃ©rica/Granada"
+#~ msgstr "América/Granada"
 
 #, fuzzy
 #~ msgid "right/America/Guadeloupe"
-#~ msgstr "AmÃ©rica/Guadalupe"
+#~ msgstr "América/Guadalupe"
 
 #, fuzzy
 #~ msgid "right/America/Guatemala"
-#~ msgstr "AmÃ©rica/Guatemala"
+#~ msgstr "América/Guatemala"
 
 #, fuzzy
 #~ msgid "right/America/Guayaquil"
-#~ msgstr "AmÃ©rica/Guaiaquil"
+#~ msgstr "América/Guaiaquil"
 
 #, fuzzy
 #~ msgid "right/America/Guyana"
-#~ msgstr "AmÃ©rica/Guiana"
+#~ msgstr "América/Guiana"
 
 #, fuzzy
 #~ msgid "right/America/Halifax"
-#~ msgstr "AmÃ©rica/Halifax"
+#~ msgstr "América/Halifax"
 
 #, fuzzy
 #~ msgid "right/America/Havana"
-#~ msgstr "AmÃ©rica/Havana"
+#~ msgstr "América/Havana"
 
 #, fuzzy
 #~ msgid "right/America/Hermosillo"
-#~ msgstr "AmÃ©rica/Detroit"
+#~ msgstr "América/Detroit"
 
 #, fuzzy
 #~ msgid "right/America/Indiana/Indianapolis"
-#~ msgstr "AmÃ©rica/Indiana/IndianÃ¡polis"
+#~ msgstr "América/Indiana/Indianápolis"
 
 #, fuzzy
 #~ msgid "right/America/Indiana/Knox"
-#~ msgstr "AmÃ©rica/Indiana/Knox"
+#~ msgstr "América/Indiana/Knox"
 
 #, fuzzy
 #~ msgid "right/America/Indiana/Marengo"
-#~ msgstr "AmÃ©rica/Indiana/Marengo"
+#~ msgstr "América/Indiana/Marengo"
 
 #, fuzzy
 #~ msgid "right/America/Indianapolis"
-#~ msgstr "AmÃ©rica/IndianÃ¡polis"
+#~ msgstr "América/Indianápolis"
 
 #, fuzzy
 #~ msgid "right/America/Indiana/Vevay"
-#~ msgstr "AmÃ©rica/Indiana/Vevay"
+#~ msgstr "América/Indiana/Vevay"
 
 #, fuzzy
 #~ msgid "right/America/Inuvik"
-#~ msgstr "AmÃ©rica/Inuvik"
+#~ msgstr "América/Inuvik"
 
 #, fuzzy
 #~ msgid "right/America/Iqaluit"
-#~ msgstr "AmÃ©rica/Iqaluit"
+#~ msgstr "América/Iqaluit"
 
 #, fuzzy
 #~ msgid "right/America/Jamaica"
-#~ msgstr "AmÃ©rica/Jamaica"
+#~ msgstr "América/Jamaica"
 
 #, fuzzy
 #~ msgid "right/America/Jujuy"
-#~ msgstr "AmÃ©rica/Jujuy"
+#~ msgstr "América/Jujuy"
 
 #, fuzzy
 #~ msgid "right/America/Juneau"
-#~ msgstr "AmÃ©rica/Juneau"
+#~ msgstr "América/Juneau"
 
 #, fuzzy
 #~ msgid "right/America/Knox_IN"
-#~ msgstr "AmÃ©rica/Knox IN"
+#~ msgstr "América/Knox IN"
 
 #, fuzzy
 #~ msgid "right/America/La_Paz"
-#~ msgstr "AmÃ©rica/La Paz"
+#~ msgstr "América/La Paz"
 
 #, fuzzy
 #~ msgid "right/America/Lima"
-#~ msgstr "AmÃ©rica/Lima"
+#~ msgstr "América/Lima"
 
 #, fuzzy
 #~ msgid "right/America/Los_Angeles"
-#~ msgstr "AmÃ©rica/Los Angeles"
+#~ msgstr "América/Los Angeles"
 
 #, fuzzy
 #~ msgid "right/America/Louisville"
-#~ msgstr "AmÃ©rica/Louisville"
+#~ msgstr "América/Louisville"
 
 #, fuzzy
 #~ msgid "right/America/Maceio"
-#~ msgstr "AmÃ©rica/MaceiÃ³"
+#~ msgstr "América/Maceió"
 
 #, fuzzy
 #~ msgid "right/America/Managua"
-#~ msgstr "AmÃ©rica/ManÃ¡gua"
+#~ msgstr "América/Manágua"
 
 #, fuzzy
 #~ msgid "right/America/Manaus"
-#~ msgstr "AmÃ©rica/Manaus"
+#~ msgstr "América/Manaus"
 
 #, fuzzy
 #~ msgid "right/America/Martinique"
-#~ msgstr "AmÃ©rica/Martinica"
+#~ msgstr "América/Martinica"
 
 #, fuzzy
 #~ msgid "right/America/Mazatlan"
-#~ msgstr "AmÃ©rica/Mazatlan"
+#~ msgstr "América/Mazatlan"
 
 #, fuzzy
 #~ msgid "right/America/Mendoza"
-#~ msgstr "AmÃ©rica/Mendoza"
+#~ msgstr "América/Mendoza"
 
 #, fuzzy
 #~ msgid "right/America/Menominee"
-#~ msgstr "AmÃ©rica/Menominee"
+#~ msgstr "América/Menominee"
 
 #, fuzzy
 #~ msgid "right/America/Merida"
-#~ msgstr "AmÃ©rica/Mendoza"
+#~ msgstr "América/Mendoza"
 
 #, fuzzy
 #~ msgid "right/America/Mexico_City"
-#~ msgstr "AmÃ©rica/Cidade do MÃ©xico"
+#~ msgstr "América/Cidade do México"
 
 #, fuzzy
 #~ msgid "right/America/Miquelon"
-#~ msgstr "AmÃ©rica/Miquelon"
+#~ msgstr "América/Miquelon"
 
 #, fuzzy
 #~ msgid "right/America/Monterrey"
-#~ msgstr "AmÃ©rica/Montserrat"
+#~ msgstr "América/Montserrat"
 
 #, fuzzy
 #~ msgid "right/America/Montevideo"
-#~ msgstr "AmÃ©rica/MontevidÃ©u"
+#~ msgstr "América/Montevidéu"
 
 #, fuzzy
 #~ msgid "right/America/Montreal"
-#~ msgstr "AmÃ©rica/Montreal"
+#~ msgstr "América/Montreal"
 
 #, fuzzy
 #~ msgid "right/America/Montserrat"
-#~ msgstr "AmÃ©rica/Montserrat"
+#~ msgstr "América/Montserrat"
 
 #, fuzzy
 #~ msgid "right/America/Nassau"
-#~ msgstr "AmÃ©rica/Nassau"
+#~ msgstr "América/Nassau"
 
 #, fuzzy
 #~ msgid "right/America/New_York"
-#~ msgstr "AmÃ©rica/Nova Iorque"
+#~ msgstr "América/Nova Iorque"
 
 #, fuzzy
 #~ msgid "right/America/Nipigon"
-#~ msgstr "AmÃ©rica/Nipigon"
+#~ msgstr "América/Nipigon"
 
 #, fuzzy
 #~ msgid "right/America/Nome"
-#~ msgstr "AmÃ©rica/Nome"
+#~ msgstr "América/Nome"
 
 #, fuzzy
 #~ msgid "right/America/Noronha"
-#~ msgstr "AmÃ©rica/Fernando de Noronha"
+#~ msgstr "América/Fernando de Noronha"
 
 #, fuzzy
 #~ msgid "right/America/Panama"
-#~ msgstr "AmÃ©rica/PanamÃ¡"
+#~ msgstr "América/Panamá"
 
 #, fuzzy
 #~ msgid "right/America/Pangnirtung"
-#~ msgstr "AmÃ©rica/Pangnirtung"
+#~ msgstr "América/Pangnirtung"
 
 #, fuzzy
 #~ msgid "right/America/Paramaribo"
-#~ msgstr "AmÃ©rica/Paramaribo"
+#~ msgstr "América/Paramaribo"
 
 #, fuzzy
 #~ msgid "right/America/Phoenix"
-#~ msgstr "AmÃ©rica/FÃªnix"
+#~ msgstr "América/Fênix"
 
 #, fuzzy
 #~ msgid "right/America/Port-au-Prince"
-#~ msgstr "AmÃ©rica/Port-au-Prince"
+#~ msgstr "América/Port-au-Prince"
 
 #, fuzzy
 #~ msgid "right/America/Porto_Acre"
-#~ msgstr "AmÃ©rica/Porto Acre"
+#~ msgstr "América/Porto Acre"
 
 #, fuzzy
 #~ msgid "right/America/Port_of_Spain"
-#~ msgstr "AmÃ©rica/Port of Spain"
+#~ msgstr "América/Port of Spain"
 
 #, fuzzy
 #~ msgid "right/America/Porto_Velho"
-#~ msgstr "AmÃ©rica/Porto Acre"
+#~ msgstr "América/Porto Acre"
 
 #, fuzzy
 #~ msgid "right/America/Puerto_Rico"
-#~ msgstr "AmÃ©rica/Porto Rico"
+#~ msgstr "América/Porto Rico"
 
 #, fuzzy
 #~ msgid "right/America/Rainy_River"
-#~ msgstr "AmÃ©rica/Rainy River"
+#~ msgstr "América/Rainy River"
 
 #, fuzzy
 #~ msgid "right/America/Rankin_Inlet"
-#~ msgstr "AmÃ©rica/Rankin Inlet"
+#~ msgstr "América/Rankin Inlet"
 
 #, fuzzy
 #~ msgid "right/America/Regina"
-#~ msgstr "AmÃ©rica/Regina"
+#~ msgstr "América/Regina"
 
 #, fuzzy
 #~ msgid "right/America/Rosario"
-#~ msgstr "AmÃ©rica/RosÃ¡rio"
+#~ msgstr "América/Rosário"
 
 #, fuzzy
 #~ msgid "right/America/Santiago"
-#~ msgstr "AmÃ©rica/Santiago"
+#~ msgstr "América/Santiago"
 
 #, fuzzy
 #~ msgid "right/America/Santo_Domingo"
-#~ msgstr "AmÃ©rica/Santo Domingo"
+#~ msgstr "América/Santo Domingo"
 
 #, fuzzy
 #~ msgid "right/America/Sao_Paulo"
-#~ msgstr "AmÃ©rica/SÃ£o Paulo"
+#~ msgstr "América/São Paulo"
 
 #, fuzzy
 #~ msgid "right/America/Scoresbysund"
-#~ msgstr "AmÃ©rica/Scoresbysund"
+#~ msgstr "América/Scoresbysund"
 
 #, fuzzy
 #~ msgid "right/America/Shiprock"
-#~ msgstr "AmÃ©rica/Shiprock"
+#~ msgstr "América/Shiprock"
 
 #, fuzzy
 #~ msgid "right/America/St_Johns"
-#~ msgstr "AmÃ©rica/St Johns"
+#~ msgstr "América/St Johns"
 
 #, fuzzy
 #~ msgid "right/America/St_Kitts"
-#~ msgstr "AmÃ©rica/St Kitts"
+#~ msgstr "América/St Kitts"
 
 #, fuzzy
 #~ msgid "right/America/St_Lucia"
-#~ msgstr "AmÃ©rica/Santa LÃºcia"
+#~ msgstr "América/Santa Lúcia"
 
 #, fuzzy
 #~ msgid "right/America/St_Thomas"
-#~ msgstr "AmÃ©rica/St Thomas"
+#~ msgstr "América/St Thomas"
 
 #, fuzzy
 #~ msgid "right/America/St_Vincent"
-#~ msgstr "AmÃ©rica/SÃ£o Vicente"
+#~ msgstr "América/São Vicente"
 
 #, fuzzy
 #~ msgid "right/America/Swift_Current"
-#~ msgstr "AmÃ©rica/Swift Current"
+#~ msgstr "América/Swift Current"
 
 #, fuzzy
 #~ msgid "right/America/Tegucigalpa"
-#~ msgstr "AmÃ©rica/Tegucigalpa"
+#~ msgstr "América/Tegucigalpa"
 
 #, fuzzy
 #~ msgid "right/America/Thule"
-#~ msgstr "AmÃ©rica/Thule"
+#~ msgstr "América/Thule"
 
 #, fuzzy
 #~ msgid "right/America/Thunder_Bay"
-#~ msgstr "AmÃ©rica/Thunder Bay"
+#~ msgstr "América/Thunder Bay"
 
 #, fuzzy
 #~ msgid "right/America/Tijuana"
-#~ msgstr "AmÃ©rica/Tijuana"
+#~ msgstr "América/Tijuana"
 
 #, fuzzy
 #~ msgid "right/America/Tortola"
-#~ msgstr "AmÃ©rica/Tortola"
+#~ msgstr "América/Tortola"
 
 #, fuzzy
 #~ msgid "right/America/Vancouver"
-#~ msgstr "AmÃ©rica/Vancouver"
+#~ msgstr "América/Vancouver"
 
 #, fuzzy
 #~ msgid "right/America/Virgin"
-#~ msgstr "AmÃ©rica/Virgin"
+#~ msgstr "América/Virgin"
 
 #, fuzzy
 #~ msgid "right/America/Whitehorse"
-#~ msgstr "AmÃ©rica/Whitehorse"
+#~ msgstr "América/Whitehorse"
 
 #, fuzzy
 #~ msgid "right/America/Winnipeg"
-#~ msgstr "AmÃ©rica/Winnipeg"
+#~ msgstr "América/Winnipeg"
 
 #, fuzzy
 #~ msgid "right/America/Yakutat"
-#~ msgstr "AmÃ©rica/Yakutat"
+#~ msgstr "América/Yakutat"
 
 #, fuzzy
 #~ msgid "right/America/Yellowknife"
-#~ msgstr "AmÃ©rica/Yellowknife"
+#~ msgstr "América/Yellowknife"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Casey"
-#~ msgstr "AntÃ¡rtica/Casey"
+#~ msgstr "Antártica/Casey"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Davis"
-#~ msgstr "AntÃ¡rtica/Davis"
+#~ msgstr "Antártica/Davis"
 
 #, fuzzy
 #~ msgid "right/Antarctica/DumontDUrville"
-#~ msgstr "AntÃ¡rtica/DumontDUrville"
+#~ msgstr "Antártica/DumontDUrville"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Mawson"
-#~ msgstr "AntÃ¡rtica/Mawson"
+#~ msgstr "Antártica/Mawson"
 
 #, fuzzy
 #~ msgid "right/Antarctica/McMurdo"
-#~ msgstr "AntÃ¡rtica/McMurdo"
+#~ msgstr "Antártica/McMurdo"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Palmer"
-#~ msgstr "AntÃ¡rtica/Palmer"
+#~ msgstr "Antártica/Palmer"
 
 #, fuzzy
 #~ msgid "right/Antarctica/South_Pole"
-#~ msgstr "AntÃ¡rtica/Polo Sul"
+#~ msgstr "Antártica/Polo Sul"
 
 #, fuzzy
 #~ msgid "right/Antarctica/Syowa"
-#~ msgstr "AntÃ¡rtica/Casey"
+#~ msgstr "Antártica/Casey"
 
 #, fuzzy
 #~ msgid "right/Arctic/Longyearbyen"
-#~ msgstr "Ãrtico/Longyearbyen"
+#~ msgstr "Ártico/Longyearbyen"
 
 #, fuzzy
 #~ msgid "right/Asia/Aden"
-#~ msgstr "Ãsia/Ãden"
+#~ msgstr "Ásia/Áden"
 
 #, fuzzy
 #~ msgid "right/Asia/Almaty"
-#~ msgstr "Ãsia/Alma Ata"
+#~ msgstr "Ásia/Alma Ata"
 
 #, fuzzy
 #~ msgid "right/Asia/Amman"
-#~ msgstr "Ãsia/AmÃ£"
+#~ msgstr "Ásia/Amã"
 
 #, fuzzy
 #~ msgid "right/Asia/Anadyr"
-#~ msgstr "Ãsia/Anadir"
+#~ msgstr "Ásia/Anadir"
 
 #, fuzzy
 #~ msgid "right/Asia/Aqtau"
-#~ msgstr "Ãsia/Aqtau"
+#~ msgstr "Ásia/Aqtau"
 
 #, fuzzy
 #~ msgid "right/Asia/Aqtobe"
-#~ msgstr "Ãsia/Aqtobe"
+#~ msgstr "Ásia/Aqtobe"
 
 #, fuzzy
 #~ msgid "right/Asia/Ashkhabad"
-#~ msgstr "Ãsia/Ashkhabad"
+#~ msgstr "Ásia/Ashkhabad"
 
 #, fuzzy
 #~ msgid "right/Asia/Baghdad"
-#~ msgstr "Ãsia/BagdÃ¡"
+#~ msgstr "Ásia/Bagdá"
 
 #, fuzzy
 #~ msgid "right/Asia/Bahrain"
-#~ msgstr "Ãsia/Barein"
+#~ msgstr "Ásia/Barein"
 
 #, fuzzy
 #~ msgid "right/Asia/Baku"
-#~ msgstr "Ãsia/Baku"
+#~ msgstr "Ásia/Baku"
 
 #, fuzzy
 #~ msgid "right/Asia/Bangkok"
-#~ msgstr "Ãsia/Bangkok"
+#~ msgstr "Ásia/Bangkok"
 
 #, fuzzy
 #~ msgid "right/Asia/Beirut"
-#~ msgstr "Ãsia/Beirute"
+#~ msgstr "Ásia/Beirute"
 
 #, fuzzy
 #~ msgid "right/Asia/Bishkek"
-#~ msgstr "Ãsia/Bishkek"
+#~ msgstr "Ásia/Bishkek"
 
 #, fuzzy
 #~ msgid "right/Asia/Brunei"
-#~ msgstr "Ãsia/Brunei"
+#~ msgstr "Ásia/Brunei"
 
 #, fuzzy
 #~ msgid "right/Asia/Calcutta"
-#~ msgstr "Ãsia/CalcutÃ¡"
+#~ msgstr "Ásia/Calcutá"
 
 #, fuzzy
 #~ msgid "right/Asia/Chungking"
-#~ msgstr "Ãsia/Chungking"
+#~ msgstr "Ásia/Chungking"
 
 #, fuzzy
 #~ msgid "right/Asia/Colombo"
-#~ msgstr "Ãsia/Colombo"
+#~ msgstr "Ásia/Colombo"
 
 #, fuzzy
 #~ msgid "right/Asia/Dacca"
-#~ msgstr "Ãsia/Daca"
+#~ msgstr "Ásia/Daca"
 
 #, fuzzy
 #~ msgid "right/Asia/Damascus"
-#~ msgstr "Ãsia/Damasco"
+#~ msgstr "Ásia/Damasco"
 
 #, fuzzy
 #~ msgid "right/Asia/Dili"
-#~ msgstr "Ãsia/Tbilisi"
+#~ msgstr "Ásia/Tbilisi"
 
 #, fuzzy
 #~ msgid "right/Asia/Dubai"
-#~ msgstr "Ãsia/Dubai"
+#~ msgstr "Ásia/Dubai"
 
 #, fuzzy
 #~ msgid "right/Asia/Dushanbe"
-#~ msgstr "Ãsia/DushanbÃª"
+#~ msgstr "Ásia/Dushanbê"
 
 #, fuzzy
 #~ msgid "right/Asia/Gaza"
-#~ msgstr "Ãsia/Gaza"
+#~ msgstr "Ásia/Gaza"
 
 #, fuzzy
 #~ msgid "right/Asia/Harbin"
-#~ msgstr "Ãsia/Harbin"
+#~ msgstr "Ásia/Harbin"
 
 #, fuzzy
 #~ msgid "right/Asia/Hong_Kong"
-#~ msgstr "Ãsia/Hong Kong"
+#~ msgstr "Ásia/Hong Kong"
 
 #, fuzzy
 #~ msgid "right/Asia/Hovd"
-#~ msgstr "Ãsia/Ãden"
+#~ msgstr "Ásia/Áden"
 
 #, fuzzy
 #~ msgid "right/Asia/Irkutsk"
-#~ msgstr "Ãsia/Irkutsk"
+#~ msgstr "Ásia/Irkutsk"
 
 #, fuzzy
 #~ msgid "right/Asia/Istanbul"
-#~ msgstr "Ãsia/Istanbul"
+#~ msgstr "Ásia/Istanbul"
 
 #, fuzzy
 #~ msgid "right/Asia/Jakarta"
-#~ msgstr "Ãsia/Jacarta"
+#~ msgstr "Ásia/Jacarta"
 
 #, fuzzy
 #~ msgid "right/Asia/Jayapura"
-#~ msgstr "Ãsia/Jayapura"
+#~ msgstr "Ásia/Jayapura"
 
 #, fuzzy
 #~ msgid "right/Asia/Jerusalem"
-#~ msgstr "Ãsia/JerusalÃ©m"
+#~ msgstr "Ásia/Jerusalém"
 
 #, fuzzy
 #~ msgid "right/Asia/Kabul"
-#~ msgstr "Ãsia/Cabul"
+#~ msgstr "Ásia/Cabul"
 
 #, fuzzy
 #~ msgid "right/Asia/Kamchatka"
-#~ msgstr "Ãsia/Kamchatka"
+#~ msgstr "Ásia/Kamchatka"
 
 #, fuzzy
 #~ msgid "right/Asia/Karachi"
-#~ msgstr "Ãsia/Karachi"
+#~ msgstr "Ásia/Karachi"
 
 #, fuzzy
 #~ msgid "right/Asia/Kashgar"
-#~ msgstr "Ãsia/Kashgar"
+#~ msgstr "Ásia/Kashgar"
 
 #, fuzzy
 #~ msgid "right/Asia/Katmandu"
-#~ msgstr "Ãsia/Katmandu"
+#~ msgstr "Ásia/Katmandu"
 
 #, fuzzy
 #~ msgid "right/Asia/Krasnoyarsk"
-#~ msgstr "Ãsia/Krasnoyarsk"
+#~ msgstr "Ásia/Krasnoyarsk"
 
 #, fuzzy
 #~ msgid "right/Asia/Kuala_Lumpur"
-#~ msgstr "Ãsia/Kuala Lumpur"
+#~ msgstr "Ásia/Kuala Lumpur"
 
 #, fuzzy
 #~ msgid "right/Asia/Kuching"
-#~ msgstr "Ãsia/Kuching"
+#~ msgstr "Ásia/Kuching"
 
 #, fuzzy
 #~ msgid "right/Asia/Kuwait"
-#~ msgstr "Ãsia/Kuwait"
+#~ msgstr "Ásia/Kuwait"
 
 #, fuzzy
 #~ msgid "right/Asia/Macao"
-#~ msgstr "Ãsia/Macau"
+#~ msgstr "Ásia/Macau"
 
 #, fuzzy
 #~ msgid "right/Asia/Magadan"
-#~ msgstr "Ãsia/Magadan"
+#~ msgstr "Ásia/Magadan"
 
 #, fuzzy
 #~ msgid "right/Asia/Manila"
-#~ msgstr "Ãsia/Manila"
+#~ msgstr "Ásia/Manila"
 
 #, fuzzy
 #~ msgid "right/Asia/Muscat"
-#~ msgstr "Ãsia/Mascate"
+#~ msgstr "Ásia/Mascate"
 
 #, fuzzy
 #~ msgid "right/Asia/Nicosia"
-#~ msgstr "Ãsia/NicÃ³sia"
+#~ msgstr "Ásia/Nicósia"
 
 #, fuzzy
 #~ msgid "right/Asia/Novosibirsk"
-#~ msgstr "Ãsia/Novosibirsk"
+#~ msgstr "Ásia/Novosibirsk"
 
 #, fuzzy
 #~ msgid "right/Asia/Omsk"
-#~ msgstr "Ãsia/Omsk"
+#~ msgstr "Ásia/Omsk"
 
 #, fuzzy
 #~ msgid "right/Asia/Phnom_Penh"
-#~ msgstr "Ãsia/Phnom Penh"
+#~ msgstr "Ásia/Phnom Penh"
 
 #, fuzzy
 #~ msgid "right/Asia/Pyongyang"
-#~ msgstr "Ãsia/Pyongyang"
+#~ msgstr "Ásia/Pyongyang"
 
 #, fuzzy
 #~ msgid "right/Asia/Qatar"
-#~ msgstr "Ãsia/Catar"
+#~ msgstr "Ásia/Catar"
 
 #, fuzzy
 #~ msgid "right/Asia/Rangoon"
-#~ msgstr "Ãsia/Yangun"
+#~ msgstr "Ásia/Yangun"
 
 #, fuzzy
 #~ msgid "right/Asia/Riyadh"
-#~ msgstr "Ãsia/Riad"
+#~ msgstr "Ásia/Riad"
 
 #, fuzzy
 #~ msgid "right/Asia/Riyadh87"
-#~ msgstr "Ãsia/Riad87"
+#~ msgstr "Ásia/Riad87"
 
 #, fuzzy
 #~ msgid "right/Asia/Riyadh88"
-#~ msgstr "Ãsia/Riad88"
+#~ msgstr "Ásia/Riad88"
 
 #, fuzzy
 #~ msgid "right/Asia/Riyadh89"
-#~ msgstr "Ãsia/Riad89"
+#~ msgstr "Ásia/Riad89"
 
 #, fuzzy
 #~ msgid "right/Asia/Saigon"
-#~ msgstr "Ãsia/Saigon"
+#~ msgstr "Ásia/Saigon"
 
 #, fuzzy
 #~ msgid "right/Asia/Samarkand"
-#~ msgstr "Ãsia/Katmandu"
+#~ msgstr "Ásia/Katmandu"
 
 #, fuzzy
 #~ msgid "right/Asia/Seoul"
-#~ msgstr "Ãsia/Seul"
+#~ msgstr "Ásia/Seul"
 
 #, fuzzy
 #~ msgid "right/Asia/Shanghai"
-#~ msgstr "Ãsia/Xangai"
+#~ msgstr "Ásia/Xangai"
 
 #, fuzzy
 #~ msgid "right/Asia/Singapore"
-#~ msgstr "Ãsia/Cingapura"
+#~ msgstr "Ásia/Cingapura"
 
 #, fuzzy
 #~ msgid "right/Asia/Taipei"
-#~ msgstr "Ãsia/TaipÃ©"
+#~ msgstr "Ásia/Taipé"
 
 #, fuzzy
 #~ msgid "right/Asia/Tashkent"
-#~ msgstr "Ãsia/Tashkent"
+#~ msgstr "Ásia/Tashkent"
 
 #, fuzzy
 #~ msgid "right/Asia/Tbilisi"
-#~ msgstr "Ãsia/Tbilisi"
+#~ msgstr "Ásia/Tbilisi"
 
 #, fuzzy
 #~ msgid "right/Asia/Tehran"
-#~ msgstr "Ãsia/TeerÃ£"
+#~ msgstr "Ásia/Teerã"
 
 #, fuzzy
 #~ msgid "right/Asia/Tel_Aviv"
-#~ msgstr "Ãsia/Tel Aviv"
+#~ msgstr "Ásia/Tel Aviv"
 
 #, fuzzy
 #~ msgid "right/Asia/Thimbu"
-#~ msgstr "Ãsia/Timbu"
+#~ msgstr "Ásia/Timbu"
 
 #, fuzzy
 #~ msgid "right/Asia/Tokyo"
-#~ msgstr "Ãsia/TÃ³quio"
+#~ msgstr "Ásia/Tóquio"
 
 #, fuzzy
 #~ msgid "right/Asia/Ujung_Pandang"
-#~ msgstr "Ãsia/Ujung Pandang"
+#~ msgstr "Ásia/Ujung Pandang"
 
 #, fuzzy
 #~ msgid "right/Asia/Ulan_Bator"
-#~ msgstr "Ãsia/Ulan Bator"
+#~ msgstr "Ásia/Ulan Bator"
 
 #, fuzzy
 #~ msgid "right/Asia/Ulaanbaatar"
-#~ msgstr "Ãsia/Ulan Bator"
+#~ msgstr "Ásia/Ulan Bator"
 
 #, fuzzy
 #~ msgid "right/Asia/Urumqi"
-#~ msgstr "Ãsia/Urumqi"
+#~ msgstr "Ásia/Urumqi"
 
 #, fuzzy
 #~ msgid "right/Asia/Vientiane"
-#~ msgstr "Ãsia/Vientiane"
+#~ msgstr "Ásia/Vientiane"
 
 #, fuzzy
 #~ msgid "right/Asia/Vladivostok"
-#~ msgstr "Ãsia/Vladivostok"
+#~ msgstr "Ásia/Vladivostok"
 
 #, fuzzy
 #~ msgid "right/Asia/Yakutsk"
-#~ msgstr "Ãsia/Yakutsk"
+#~ msgstr "Ásia/Yakutsk"
 
 #, fuzzy
 #~ msgid "right/Asia/Yekaterinburg"
-#~ msgstr "Ãsia/Yekaterinburg"
+#~ msgstr "Ásia/Yekaterinburg"
 
 #, fuzzy
 #~ msgid "right/Asia/Yerevan"
-#~ msgstr "Ãsia/Yerevan"
+#~ msgstr "Ásia/Yerevan"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Azores"
-#~ msgstr "AtlÃ¢ntico/AÃ§ores"
+#~ msgstr "Atlântico/Açores"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Bermuda"
-#~ msgstr "AtlÃ¢ntico/Bermuda"
+#~ msgstr "Atlântico/Bermuda"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Canary"
-#~ msgstr "AtlÃ¢ntico/CanÃ¡rias"
+#~ msgstr "Atlântico/Canárias"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Cape_Verde"
-#~ msgstr "AtlÃ¢ntico/Cabo Verde"
+#~ msgstr "Atlântico/Cabo Verde"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Faeroe"
-#~ msgstr "AtlÃ¢ntico/Faroe"
+#~ msgstr "Atlântico/Faroe"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Jan_Mayen"
-#~ msgstr "AtlÃ¢ntico/Jan Mayen"
+#~ msgstr "Atlântico/Jan Mayen"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Madeira"
-#~ msgstr "AtlÃ¢ntico/Madeira"
+#~ msgstr "Atlântico/Madeira"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Reykjavik"
-#~ msgstr "AtlÃ¢ntico/Reykjavik"
+#~ msgstr "Atlântico/Reykjavik"
 
 #, fuzzy
 #~ msgid "right/Atlantic/South_Georgia"
-#~ msgstr "AtlÃ¢ntico/GeÃ³rgia do Sul"
+#~ msgstr "Atlântico/Geórgia do Sul"
 
 #, fuzzy
 #~ msgid "right/Atlantic/Stanley"
-#~ msgstr "AtlÃ¢ntico/Stanley"
+#~ msgstr "Atlântico/Stanley"
 
 #, fuzzy
 #~ msgid "right/Atlantic/St_Helena"
-#~ msgstr "AtlÃ¢ntico/Santa Helena"
+#~ msgstr "Atlântico/Santa Helena"
 
 #, fuzzy
 #~ msgid "right/Australia/ACT"
-#~ msgstr "AustrÃ¡lia/ACT"
+#~ msgstr "Austrália/ACT"
 
 #, fuzzy
 #~ msgid "right/Australia/Adelaide"
-#~ msgstr "AustrÃ¡lia/Adelaide"
+#~ msgstr "Austrália/Adelaide"
 
 #, fuzzy
 #~ msgid "right/Australia/Brisbane"
-#~ msgstr "AustrÃ¡lia/Brisbane"
+#~ msgstr "Austrália/Brisbane"
 
 #, fuzzy
 #~ msgid "right/Australia/Broken_Hill"
-#~ msgstr "AustrÃ¡lia/Broken Hill"
+#~ msgstr "Austrália/Broken Hill"
 
 #, fuzzy
 #~ msgid "right/Australia/Canberra"
-#~ msgstr "AustrÃ¡lia/Camberra"
+#~ msgstr "Austrália/Camberra"
 
 #, fuzzy
 #~ msgid "right/Australia/Darwin"
-#~ msgstr "AustrÃ¡lia/Darwin"
+#~ msgstr "Austrália/Darwin"
 
 #, fuzzy
 #~ msgid "right/Australia/Hobart"
-#~ msgstr "AustrÃ¡lia/Hobart"
+#~ msgstr "Austrália/Hobart"
 
 #, fuzzy
 #~ msgid "right/Australia/LHI"
-#~ msgstr "AustrÃ¡lia/LHI"
+#~ msgstr "Austrália/LHI"
 
 #, fuzzy
 #~ msgid "right/Australia/Lindeman"
-#~ msgstr "AustrÃ¡lia/Lindeman"
+#~ msgstr "Austrália/Lindeman"
 
 #, fuzzy
 #~ msgid "right/Australia/Lord_Howe"
-#~ msgstr "AustrÃ¡lia/Lord Howe"
+#~ msgstr "Austrália/Lord Howe"
 
 #, fuzzy
 #~ msgid "right/Australia/Melbourne"
-#~ msgstr "AustrÃ¡lia/Melbourne"
+#~ msgstr "Austrália/Melbourne"
 
 #, fuzzy
 #~ msgid "right/Australia/North"
-#~ msgstr "AustrÃ¡lia/Norte"
+#~ msgstr "Austrália/Norte"
 
 #, fuzzy
 #~ msgid "right/Australia/NSW"
-#~ msgstr "AustrÃ¡lia/NSW"
+#~ msgstr "Austrália/NSW"
 
 #, fuzzy
 #~ msgid "right/Australia/Perth"
-#~ msgstr "AustrÃ¡lia/Perth"
+#~ msgstr "Austrália/Perth"
 
 #, fuzzy
 #~ msgid "right/Australia/Queensland"
-#~ msgstr "AustrÃ¡lia/Queensland"
+#~ msgstr "Austrália/Queensland"
 
 #, fuzzy
 #~ msgid "right/Australia/South"
-#~ msgstr "AustrÃ¡lia/Sul"
+#~ msgstr "Austrália/Sul"
 
 #, fuzzy
 #~ msgid "right/Australia/Sydney"
-#~ msgstr "AustrÃ¡lia/Sidnei"
+#~ msgstr "Austrália/Sidnei"
 
 #, fuzzy
 #~ msgid "right/Australia/Tasmania"
-#~ msgstr "AustrÃ¡lia/TasmÃ¢nia"
+#~ msgstr "Austrália/Tasmânia"
 
 #, fuzzy
 #~ msgid "right/Australia/Victoria"
-#~ msgstr "AustrÃ¡lia/VitÃ³ria"
+#~ msgstr "Austrália/Vitória"
 
 #, fuzzy
 #~ msgid "right/Australia/West"
-#~ msgstr "AustrÃ¡lia/Oeste"
+#~ msgstr "Austrália/Oeste"
 
 #, fuzzy
 #~ msgid "right/Australia/Yancowinna"
-#~ msgstr "AustrÃ¡lia/Yancowinna"
+#~ msgstr "Austrália/Yancowinna"
 
 #, fuzzy
 #~ msgid "right/Brazil/Acre"
@@ -4756,39 +4732,39 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Canada/Atlantic"
-#~ msgstr "CanadÃ¡/AtlÃ¢ntico"
+#~ msgstr "Canadá/Atlântico"
 
 #, fuzzy
 #~ msgid "right/Canada/Central"
-#~ msgstr "CanadÃ¡/Central"
+#~ msgstr "Canadá/Central"
 
 #, fuzzy
 #~ msgid "right/Canada/Eastern"
-#~ msgstr "CanadÃ¡/Leste"
+#~ msgstr "Canadá/Leste"
 
 #, fuzzy
 #~ msgid "right/Canada/East-Saskatchewan"
-#~ msgstr "CanadÃ¡/Leste-Saskatchewan"
+#~ msgstr "Canadá/Leste-Saskatchewan"
 
 #, fuzzy
 #~ msgid "right/Canada/Mountain"
-#~ msgstr "CanadÃ¡/Montanhas"
+#~ msgstr "Canadá/Montanhas"
 
 #, fuzzy
 #~ msgid "right/Canada/Newfoundland"
-#~ msgstr "CanadÃ¡/Terra Nova"
+#~ msgstr "Canadá/Terra Nova"
 
 #, fuzzy
 #~ msgid "right/Canada/Pacific"
-#~ msgstr "CanadÃ¡/PacÃ­fico"
+#~ msgstr "Canadá/Pacífico"
 
 #, fuzzy
 #~ msgid "right/Canada/Saskatchewan"
-#~ msgstr "CanadÃ¡/Saskatchewan"
+#~ msgstr "Canadá/Saskatchewan"
 
 #, fuzzy
 #~ msgid "right/Canada/Yukon"
-#~ msgstr "CanadÃ¡/Yukon"
+#~ msgstr "Canadá/Yukon"
 
 #, fuzzy
 #~ msgid "right/Chile/Continental"
@@ -4796,7 +4772,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Chile/EasterIsland"
-#~ msgstr "Chile/Ilha de PÃ¡scoa"
+#~ msgstr "Chile/Ilha de Páscoa"
 
 #, fuzzy
 #~ msgid "right/CST6CDT"
@@ -4952,7 +4928,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Amsterdam"
-#~ msgstr "Europa/AmsterdÃ£"
+#~ msgstr "Europa/Amsterdã"
 
 #, fuzzy
 #~ msgid "right/Europe/Andorra"
@@ -5052,7 +5028,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Monaco"
-#~ msgstr "Europa/MÃ´naco"
+#~ msgstr "Europa/Mônaco"
 
 #, fuzzy
 #~ msgid "right/Europe/Moscow"
@@ -5084,7 +5060,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/San_Marino"
-#~ msgstr "Europa/SÃ£o Marino"
+#~ msgstr "Europa/São Marino"
 
 #, fuzzy
 #~ msgid "right/Europe/Sarajevo"
@@ -5100,7 +5076,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Sofia"
-#~ msgstr "Europa/SÃ³fia"
+#~ msgstr "Europa/Sófia"
 
 #, fuzzy
 #~ msgid "right/Europe/Stockholm"
@@ -5140,7 +5116,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Europe/Warsaw"
-#~ msgstr "Europa/VarsÃ³via"
+#~ msgstr "Europa/Varsóvia"
 
 #, fuzzy
 #~ msgid "right/Europe/Zagreb"
@@ -5156,7 +5132,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Factory"
-#~ msgstr "FÃ¡brica"
+#~ msgstr "Fábrica"
 
 #, fuzzy
 #~ msgid "right/GB-Eire"
@@ -5188,51 +5164,51 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Iceland"
-#~ msgstr "IslÃ¢ndia"
+#~ msgstr "Islândia"
 
 #, fuzzy
 #~ msgid "right/Indian/Antananarivo"
-#~ msgstr "Ãndico/Antananarivo"
+#~ msgstr "Índico/Antananarivo"
 
 #, fuzzy
 #~ msgid "right/Indian/Chagos"
-#~ msgstr "Ãndico/Chagos"
+#~ msgstr "Índico/Chagos"
 
 #, fuzzy
 #~ msgid "right/Indian/Christmas"
-#~ msgstr "Ãndico/Christmas"
+#~ msgstr "Índico/Christmas"
 
 #, fuzzy
 #~ msgid "right/Indian/Cocos"
-#~ msgstr "Ãndico/Cocos"
+#~ msgstr "Índico/Cocos"
 
 #, fuzzy
 #~ msgid "right/Indian/Comoro"
-#~ msgstr "Ãndico/Comores"
+#~ msgstr "Índico/Comores"
 
 #, fuzzy
 #~ msgid "right/Indian/Kerguelen"
-#~ msgstr "Ãndico/Kerguelen"
+#~ msgstr "Índico/Kerguelen"
 
 #, fuzzy
 #~ msgid "right/Indian/Mahe"
-#~ msgstr "Ãndico/Mahe"
+#~ msgstr "Índico/Mahe"
 
 #, fuzzy
 #~ msgid "right/Indian/Maldives"
-#~ msgstr "Ãndico/Maldivas"
+#~ msgstr "Índico/Maldivas"
 
 #, fuzzy
 #~ msgid "right/Indian/Mauritius"
-#~ msgstr "Ãndico/MaurÃ­cio"
+#~ msgstr "Índico/Maurício"
 
 #, fuzzy
 #~ msgid "right/Indian/Mayotte"
-#~ msgstr "Ãndico/Mayote"
+#~ msgstr "Índico/Mayote"
 
 #, fuzzy
 #~ msgid "right/Indian/Reunion"
-#~ msgstr "Ãndico/ReuniÃ£o"
+#~ msgstr "Índico/Reunião"
 
 #, fuzzy
 #~ msgid "right/Israel"
@@ -5240,11 +5216,11 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Jamaica"
-#~ msgstr "AmÃ©rica/Jamaica"
+#~ msgstr "América/Jamaica"
 
 #, fuzzy
 #~ msgid "right/Japan"
-#~ msgstr "JapÃ£o"
+#~ msgstr "Japão"
 
 #, fuzzy
 #~ msgid "right/Kwajalein"
@@ -5252,31 +5228,31 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Libya"
-#~ msgstr "LÃ­bia"
+#~ msgstr "Líbia"
 
 #, fuzzy
 #~ msgid "right/Mexico/BajaNorte"
-#~ msgstr "MÃ©xico/BajaNorte"
+#~ msgstr "México/BajaNorte"
 
 #, fuzzy
 #~ msgid "right/Mexico/BajaSur"
-#~ msgstr "MÃ©xico/BajaSur"
+#~ msgstr "México/BajaSur"
 
 #, fuzzy
 #~ msgid "right/Mexico/General"
-#~ msgstr "MÃ©xico/Geral"
+#~ msgstr "México/Geral"
 
 #, fuzzy
 #~ msgid "right/Mideast/Riyadh87"
-#~ msgstr "Oriente MÃ©dio/Riad87"
+#~ msgstr "Oriente Médio/Riad87"
 
 #, fuzzy
 #~ msgid "right/Mideast/Riyadh88"
-#~ msgstr "Oriente MÃ©dio/Riad88"
+#~ msgstr "Oriente Médio/Riad88"
 
 #, fuzzy
 #~ msgid "right/Mideast/Riyadh89"
-#~ msgstr "Oriente MÃ©dio/Riad89"
+#~ msgstr "Oriente Médio/Riad89"
 
 #, fuzzy
 #~ msgid "right/MST7MDT"
@@ -5292,167 +5268,167 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Pacific/Apia"
-#~ msgstr "PacÃ­fico/Ãpia"
+#~ msgstr "Pacífico/Ápia"
 
 #, fuzzy
 #~ msgid "right/Pacific/Auckland"
-#~ msgstr "PacÃ­fico/Auckland"
+#~ msgstr "Pacífico/Auckland"
 
 #, fuzzy
 #~ msgid "right/Pacific/Chatham"
-#~ msgstr "PacÃ­fico/Chatham"
+#~ msgstr "Pacífico/Chatham"
 
 #, fuzzy
 #~ msgid "right/Pacific/Easter"
-#~ msgstr "PacÃ­fico/Ilha de PÃ¡scoa"
+#~ msgstr "Pacífico/Ilha de Páscoa"
 
 #, fuzzy
 #~ msgid "right/Pacific/Efate"
-#~ msgstr "PacÃ­fico/Efate"
+#~ msgstr "Pacífico/Efate"
 
 #, fuzzy
 #~ msgid "right/Pacific/Enderbury"
-#~ msgstr "PacÃ­fico/Enderbury"
+#~ msgstr "Pacífico/Enderbury"
 
 #, fuzzy
 #~ msgid "right/Pacific/Fakaofo"
-#~ msgstr "PacÃ­fico/Fakaofo"
+#~ msgstr "Pacífico/Fakaofo"
 
 #, fuzzy
 #~ msgid "right/Pacific/Fiji"
-#~ msgstr "PacÃ­fico/Fiji"
+#~ msgstr "Pacífico/Fiji"
 
 #, fuzzy
 #~ msgid "right/Pacific/Funafuti"
-#~ msgstr "PacÃ­fico/Funafati"
+#~ msgstr "Pacífico/Funafati"
 
 #, fuzzy
 #~ msgid "right/Pacific/Galapagos"
-#~ msgstr "PacÃ­fico/GalÃ¡pagos"
+#~ msgstr "Pacífico/Galápagos"
 
 #, fuzzy
 #~ msgid "right/Pacific/Gambier"
-#~ msgstr "PacÃ­fico/Gambier"
+#~ msgstr "Pacífico/Gambier"
 
 #, fuzzy
 #~ msgid "right/Pacific/Guadalcanal"
-#~ msgstr "PacÃ­fico/Guadalcanal"
+#~ msgstr "Pacífico/Guadalcanal"
 
 #, fuzzy
 #~ msgid "right/Pacific/Guam"
-#~ msgstr "PacÃ­fico/Guam"
+#~ msgstr "Pacífico/Guam"
 
 #, fuzzy
 #~ msgid "right/Pacific/Honolulu"
-#~ msgstr "PacÃ­fico/Honolulu"
+#~ msgstr "Pacífico/Honolulu"
 
 #, fuzzy
 #~ msgid "right/Pacific/Johnston"
-#~ msgstr "PacÃ­fico/Johnston"
+#~ msgstr "Pacífico/Johnston"
 
 #, fuzzy
 #~ msgid "right/Pacific/Kiritimati"
-#~ msgstr "PacÃ­fico/Kiritimati"
+#~ msgstr "Pacífico/Kiritimati"
 
 #, fuzzy
 #~ msgid "right/Pacific/Kosrae"
-#~ msgstr "PacÃ­fico/Kosrae"
+#~ msgstr "Pacífico/Kosrae"
 
 #, fuzzy
 #~ msgid "right/Pacific/Kwajalein"
-#~ msgstr "PacÃ­fico/Kwajalein"
+#~ msgstr "Pacífico/Kwajalein"
 
 #, fuzzy
 #~ msgid "right/Pacific/Majuro"
-#~ msgstr "PacÃ­fico/Majuro"
+#~ msgstr "Pacífico/Majuro"
 
 #, fuzzy
 #~ msgid "right/Pacific/Marquesas"
-#~ msgstr "PacÃ­fico/Marquesas"
+#~ msgstr "Pacífico/Marquesas"
 
 #, fuzzy
 #~ msgid "right/Pacific/Midway"
-#~ msgstr "PacÃ­fico/Midway"
+#~ msgstr "Pacífico/Midway"
 
 #, fuzzy
 #~ msgid "right/Pacific/Nauru"
-#~ msgstr "PacÃ­fico/Nauru"
+#~ msgstr "Pacífico/Nauru"
 
 #, fuzzy
 #~ msgid "right/Pacific/Niue"
-#~ msgstr "PacÃ­fico/Niue"
+#~ msgstr "Pacífico/Niue"
 
 #, fuzzy
 #~ msgid "right/Pacific/Norfolk"
-#~ msgstr "PacÃ­fico/Norfolk"
+#~ msgstr "Pacífico/Norfolk"
 
 #, fuzzy
 #~ msgid "right/Pacific/Noumea"
-#~ msgstr "PacÃ­fico/Noumea"
+#~ msgstr "Pacífico/Noumea"
 
 #, fuzzy
 #~ msgid "right/Pacific/Pago_Pago"
-#~ msgstr "PacÃ­fico/Pago Pago"
+#~ msgstr "Pacífico/Pago Pago"
 
 #, fuzzy
 #~ msgid "right/Pacific/Palau"
-#~ msgstr "PacÃ­fico/Palau"
+#~ msgstr "Pacífico/Palau"
 
 #, fuzzy
 #~ msgid "right/Pacific/Pitcairn"
-#~ msgstr "PacÃ­fico/Pitcairn"
+#~ msgstr "Pacífico/Pitcairn"
 
 #, fuzzy
 #~ msgid "right/Pacific/Ponape"
-#~ msgstr "PacÃ­fico/Ponape"
+#~ msgstr "Pacífico/Ponape"
 
 #, fuzzy
 #~ msgid "right/Pacific/Port_Moresby"
-#~ msgstr "PacÃ­fico/Port Moresby"
+#~ msgstr "Pacífico/Port Moresby"
 
 #, fuzzy
 #~ msgid "right/Pacific/Rarotonga"
-#~ msgstr "PacÃ­fico/Rarotonga"
+#~ msgstr "Pacífico/Rarotonga"
 
 #, fuzzy
 #~ msgid "right/Pacific/Saipan"
-#~ msgstr "PacÃ­fico/Saipan"
+#~ msgstr "Pacífico/Saipan"
 
 #, fuzzy
 #~ msgid "right/Pacific/Samoa"
-#~ msgstr "PacÃ­fico/Samoa"
+#~ msgstr "Pacífico/Samoa"
 
 #, fuzzy
 #~ msgid "right/Pacific/Tahiti"
-#~ msgstr "PacÃ­fico/Taiti"
+#~ msgstr "Pacífico/Taiti"
 
 #, fuzzy
 #~ msgid "right/Pacific/Tarawa"
-#~ msgstr "PacÃ­fico/Tarawa"
+#~ msgstr "Pacífico/Tarawa"
 
 #, fuzzy
 #~ msgid "right/Pacific/Tongatapu"
-#~ msgstr "PacÃ­fico/Tongatapu"
+#~ msgstr "Pacífico/Tongatapu"
 
 #, fuzzy
 #~ msgid "right/Pacific/Truk"
-#~ msgstr "PacÃ­fico/Truk"
+#~ msgstr "Pacífico/Truk"
 
 #, fuzzy
 #~ msgid "right/Pacific/Wake"
-#~ msgstr "PacÃ­fico/Wake"
+#~ msgstr "Pacífico/Wake"
 
 #, fuzzy
 #~ msgid "right/Pacific/Wallis"
-#~ msgstr "PacÃ­fico/Wallis"
+#~ msgstr "Pacífico/Wallis"
 
 #, fuzzy
 #~ msgid "right/Pacific/Yap"
-#~ msgstr "PacÃ­fico/Yap"
+#~ msgstr "Pacífico/Yap"
 
 #, fuzzy
 #~ msgid "right/Poland"
-#~ msgstr "PolÃ´nia"
+#~ msgstr "Polônia"
 
 #, fuzzy
 #~ msgid "right/Portugal"
@@ -5464,7 +5440,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/Singapore"
-#~ msgstr "Ãsia/Cingapura"
+#~ msgstr "Ásia/Cingapura"
 
 #, fuzzy
 #~ msgid "right/SystemV/AST4"
@@ -5572,7 +5548,7 @@ msgstr "Zulu"
 
 #, fuzzy
 #~ msgid "right/US/Pacific"
-#~ msgstr "US/PacÃ­fico"
+#~ msgstr "US/Pacífico"
 
 #, fuzzy
 #~ msgid "right/US/Samoa"
@@ -5590,4 +5566,5 @@ msgstr "Zulu"
 #~ msgstr "Iniciando pela console ARC"
 
 #~ msgid "Asia/Ishigaki"
-#~ msgstr "Ãsia/Ishigaki"
+#~ msgstr "Ásia/Ishigaki"
+
