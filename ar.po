@@ -1,19 +1,20 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# translation of timezones.po to Arabic
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# ahmad khalifa <ahmadkhalifa@hotmail.com>, 2004.
+# Ahmad Khalifa <ahmadkhalifa@hotmail.com>, 2004.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-27 20:35+0200\n"
-"Last-Translator: ahmad khalifa <ahmadkhalifa@hotmail.com>\n"
+"PO-Revision-Date: 2004-04-11 03:10+0200\n"
+"Last-Translator: Ahmad Khalifa <ahmadkhalifa@hotmail.com>\n"
 "Language-Team: Arabic <support@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.0.2\n"
 
 msgid "Africa/Abidjan"
 msgstr "أفريقيا/أبيدجان"
@@ -328,1295 +329,1295 @@ msgid "America/Indiana/Indianapolis"
 msgstr "أمريكا/إنديانا/إنديانابوليس"
 
 msgid "America/Indiana/Knox"
-msgstr ""
+msgstr "أمريكا/إنديانا/نوكس"
 
 msgid "America/Indiana/Marengo"
-msgstr ""
+msgstr "أمريكا/إنديانا/ماريجنو"
 
 msgid "America/Indianapolis"
-msgstr ""
+msgstr "أمريكا/إنديانابوليس"
 
 msgid "America/Indiana/Vevay"
-msgstr ""
+msgstr "أمريكا/إنديانا/فيفاي"
 
 msgid "America/Inuvik"
-msgstr ""
+msgstr "أمريكا/إنوفيك"
 
 msgid "America/Iqaluit"
-msgstr ""
+msgstr "أمريكا/إكالويت"
 
 msgid "America/Jamaica"
-msgstr ""
+msgstr "أمريكا/جامايكا"
 
 msgid "America/Jujuy"
-msgstr ""
+msgstr "أمريكا/جوجوي"
 
 msgid "America/Juneau"
-msgstr ""
+msgstr "أمريكا/جونو"
 
 msgid "America/Kentucky/Louisville"
-msgstr ""
+msgstr "أمريكا/كِنْتاكي/لويسفيلل"
 
 msgid "America/Kentucky/Monticello"
-msgstr ""
+msgstr "أمريكا/كِنْتاكي/مونتيسيللو"
 
 msgid "America/Knox_IN"
-msgstr ""
+msgstr "أمريكا/نوكس_إن"
 
 msgid "America/La_Paz"
-msgstr ""
+msgstr "أمريكا/ﻻ_باز"
 
 msgid "America/Lima"
-msgstr ""
+msgstr "أمريكا/ليما"
 
 msgid "America/Los_Angeles"
-msgstr ""
+msgstr "أمريكا/لوس_أنجلوس"
 
 msgid "America/Louisville"
-msgstr ""
+msgstr "أمريكا/لويسفيلل"
 
 msgid "America/Maceio"
-msgstr ""
+msgstr "أمريكا/ماسيو"
 
 msgid "America/Managua"
-msgstr ""
+msgstr "أمريكا/ماناجوا"
 
 msgid "America/Manaus"
-msgstr ""
+msgstr "أمريكا/ماناوس"
 
 msgid "America/Martinique"
-msgstr ""
+msgstr "أمريكا/مارتينيك"
 
 msgid "America/Mazatlan"
-msgstr ""
+msgstr "أمريكا/مازاتلان"
 
 msgid "America/Mendoza"
-msgstr ""
+msgstr "أمريكا/مندوزا"
 
 msgid "America/Menominee"
-msgstr ""
+msgstr "أمريكا/مينومين"
 
 msgid "America/Merida"
-msgstr ""
+msgstr "أمريكا/ميريدا"
 
 msgid "America/Mexico_City"
-msgstr ""
+msgstr "أمريكا/مكسيكو_سيتى"
 
 msgid "America/Miquelon"
-msgstr ""
+msgstr "أمريكا/ميكويلون"
 
 msgid "America/Monterrey"
-msgstr ""
+msgstr "أمريكا/مونتيرى"
 
 msgid "America/Montevideo"
-msgstr ""
+msgstr "أمريكا/مونتفيديو"
 
 msgid "America/Montreal"
-msgstr ""
+msgstr "أمريكا/مونتريال"
 
 msgid "America/Montserrat"
-msgstr ""
+msgstr "أمريكا/مونتسِرات"
 
 msgid "America/Nassau"
-msgstr ""
+msgstr "أمريكا/ناساو"
 
 msgid "America/New_York"
-msgstr ""
+msgstr "أمريكا/نيو_يورك"
 
 msgid "America/Nipigon"
-msgstr ""
+msgstr "أمريكا/نيبيجون"
 
 msgid "America/Nome"
-msgstr ""
+msgstr "أمريكا/نوم"
 
 msgid "America/Noronha"
-msgstr ""
+msgstr "أمريكا/نورونها"
 
 msgid "America/North_Dakota/Center"
-msgstr ""
+msgstr "أمريكا/شمال_داكوتا/منتصف"
 
 msgid "America/Panama"
-msgstr ""
+msgstr "أمريكا/باناما"
 
 msgid "America/Pangnirtung"
-msgstr ""
+msgstr "أمريكا/بانجنيرتونج"
 
 msgid "America/Paramaribo"
-msgstr ""
+msgstr "أمريكا/باراماريبو"
 
 msgid "America/Phoenix"
-msgstr ""
+msgstr "أمريكا/فينِكْس"
 
 msgid "America/Port-au-Prince"
-msgstr ""
+msgstr "أمريكا/بورت_أو_برينس"
 
 msgid "America/Porto_Acre"
-msgstr ""
+msgstr "أمريكا/بورتو_آكرى"
 
 msgid "America/Port_of_Spain"
-msgstr ""
+msgstr "أمريكا/بورت_أوف_سباين"
 
 msgid "America/Porto_Velho"
-msgstr ""
+msgstr "أمريكا/بورتو_فيلهو"
 
 msgid "America/Puerto_Rico"
-msgstr ""
+msgstr "أمريكا/بويرتو_ريكو"
 
 msgid "America/Rainy_River"
-msgstr ""
+msgstr "أمريكا/رْايني_ريفر"
 
 msgid "America/Rankin_Inlet"
-msgstr ""
+msgstr "أمريكا/رانكين_إنلت"
 
 msgid "America/Recife"
-msgstr ""
+msgstr "أمريكا/ريسايف"
 
 msgid "America/Regina"
-msgstr ""
+msgstr "أمريكا/ريجينا"
 
 msgid "America/Rio_Branco"
-msgstr ""
+msgstr "أمريكا/ريو_برانكو"
 
 msgid "America/Rosario"
-msgstr ""
+msgstr "أمريكا/روسااريو"
 
 msgid "America/Santiago"
-msgstr ""
+msgstr "أمريكا/سانتياجو"
 
 msgid "America/Santo_Domingo"
-msgstr ""
+msgstr "أمريكا/سانتو_دومينجو"
 
 msgid "America/Sao_Paulo"
-msgstr ""
+msgstr "أمريكا/ساو_باولو"
 
 msgid "America/Scoresbysund"
-msgstr ""
+msgstr "أمريكا/سكورزبايساند"
 
 msgid "America/Shiprock"
-msgstr ""
+msgstr "أمريكا/شيبروك"
 
 msgid "America/St_Johns"
-msgstr ""
+msgstr "أمريكا/سانت_جونز"
 
 msgid "America/St_Kitts"
-msgstr ""
+msgstr "أمريكا/سانت_كيتس"
 
 msgid "America/St_Lucia"
-msgstr ""
+msgstr "أمريكا/سانت_لوسيا"
 
 msgid "America/St_Thomas"
-msgstr ""
+msgstr "أمريكا/سانت_توماس"
 
 msgid "America/St_Vincent"
-msgstr ""
+msgstr "أمريكا/سانت_فينسنت"
 
 msgid "America/Swift_Current"
-msgstr ""
+msgstr "أمريكا/سويفت_كارانت"
 
 msgid "America/Tegucigalpa"
-msgstr ""
+msgstr "أمريكا/تيجوسيجالبا"
 
 msgid "America/Thule"
-msgstr ""
+msgstr "أمريكا/ثول"
 
 msgid "America/Thunder_Bay"
-msgstr ""
+msgstr "أمريكا/ثاندر_باي"
 
 msgid "America/Tijuana"
-msgstr ""
+msgstr "أمريكا/تيوانا"
 
 msgid "America/Tortola"
-msgstr ""
+msgstr "أمريكا/تورتولا"
 
 msgid "America/Vancouver"
-msgstr ""
+msgstr "أمريكا/فانكوفر"
 
 msgid "America/Virgin"
-msgstr ""
+msgstr "أمريكا/فيرجين"
 
 msgid "America/Whitehorse"
-msgstr ""
+msgstr "أمريكا/وايتهورس"
 
 msgid "America/Winnipeg"
-msgstr ""
+msgstr "أمريكا/وينيبيج"
 
 msgid "America/Yakutat"
-msgstr ""
+msgstr "أمريكا/ياكوتات"
 
 msgid "America/Yellowknife"
-msgstr ""
+msgstr "أمريكا/يِلونايف"
 
 msgid "Antarctica/Casey"
-msgstr ""
+msgstr "أنتارتيكا/كاسى"
 
 msgid "Antarctica/Davis"
-msgstr ""
+msgstr "أنتارتيكا/دافيس"
 
 msgid "Antarctica/DumontDUrville"
-msgstr ""
+msgstr "أنتارتيكا/دومنتدىأورفيل"
 
 msgid "Antarctica/Mawson"
-msgstr ""
+msgstr "أنتارتيكا/ماوسون"
 
 msgid "Antarctica/McMurdo"
-msgstr ""
+msgstr "أنتارتيكا/مكموردو"
 
 msgid "Antarctica/Palmer"
-msgstr ""
+msgstr "أنتارتيكا/بالمر"
 
 msgid "Antarctica/South_Pole"
-msgstr ""
+msgstr "أنتارتيكا/القطب_الجنوبي"
 
 msgid "Antarctica/Syowa"
-msgstr ""
+msgstr "أنتارتيكا/سيأُوا"
 
 msgid "Antarctica/Vostok"
-msgstr ""
+msgstr "أنتارتيكا/فوستوك"
 
 msgid "Arctic/Longyearbyen"
-msgstr ""
+msgstr "أنتارتيكا/لونجيإربيين"
 
 msgid "Asia/Aden"
-msgstr ""
+msgstr "أسيا/أدن"
 
 msgid "Asia/Almaty"
-msgstr ""
+msgstr "أسيا/ألماتي"
 
 msgid "Asia/Amman"
-msgstr ""
+msgstr "أسيا/عمّان"
 
 msgid "Asia/Anadyr"
-msgstr ""
+msgstr "أسيا/أنادير"
 
 msgid "Asia/Aqtau"
-msgstr ""
+msgstr "أسيا/أكتوا"
 
 msgid "Asia/Aqtobe"
-msgstr ""
+msgstr "أسيا/أكتوب"
 
 msgid "Asia/Ashgabat"
-msgstr ""
+msgstr "أسيا/أشجابات"
 
 msgid "Asia/Ashkhabad"
-msgstr ""
+msgstr "أسيا/أشخاباد"
 
 msgid "Asia/Baghdad"
-msgstr ""
+msgstr "أسيا/بغداد"
 
 msgid "Asia/Bahrain"
-msgstr ""
+msgstr "أسيا/بحرين"
 
 msgid "Asia/Baku"
-msgstr ""
+msgstr "أسيا/باكو"
 
 msgid "Asia/Bangkok"
-msgstr ""
+msgstr "أسيا/بانجكوك"
 
 msgid "Asia/Beirut"
-msgstr ""
+msgstr "أسيا/بيروت"
 
 msgid "Asia/Bishkek"
-msgstr ""
+msgstr "أسيا/بيشكِكْ"
 
 msgid "Asia/Brunei"
-msgstr ""
+msgstr "أسيا/بروناى"
 
 msgid "Asia/Calcutta"
-msgstr ""
+msgstr "أسيا/كالكاتّا"
 
 msgid "Asia/Choibalsan"
-msgstr ""
+msgstr "أسيا/شويبالسان"
 
 msgid "Asia/Chongqing"
-msgstr ""
+msgstr "أسيا/شونجقينج"
 
 msgid "Asia/Chungking"
-msgstr ""
+msgstr "أسيا/شونجكينج"
 
 msgid "Asia/Colombo"
-msgstr ""
+msgstr "أسيا/كولومبو"
 
 msgid "Asia/Dacca"
-msgstr ""
+msgstr "أسيا/داكّا"
 
 msgid "Asia/Damascus"
-msgstr ""
+msgstr "أسيا/دمشق"
 
 msgid "Asia/Dhaka"
-msgstr ""
+msgstr "أسيا/داكّا"
 
 msgid "Asia/Dili"
-msgstr ""
+msgstr "أسيا/ديلى"
 
 msgid "Asia/Dubai"
-msgstr ""
+msgstr "أسيا/دبى"
 
 msgid "Asia/Dushanbe"
-msgstr ""
+msgstr "أسيا/دوشانبى"
 
 msgid "Asia/Gaza"
-msgstr ""
+msgstr "أسيا/غزة"
 
 msgid "Asia/Harbin"
-msgstr ""
+msgstr "أسيا/هاربِن"
 
 msgid "Asia/Hong_Kong"
-msgstr ""
+msgstr "أسيا/هونج_كونج"
 
 msgid "Asia/Hovd"
-msgstr ""
+msgstr "أسيا/هوفد"
 
 msgid "Asia/Irkutsk"
-msgstr ""
+msgstr "أسيا/إركوتسك"
 
 msgid "Asia/Istanbul"
-msgstr ""
+msgstr "أسيا/إسطنبول"
 
 msgid "Asia/Jakarta"
-msgstr ""
+msgstr "أسيا/جاكارتا"
 
 msgid "Asia/Jayapura"
-msgstr ""
+msgstr "أسيا/جيابورا"
 
 msgid "Asia/Jerusalem"
-msgstr ""
+msgstr "أسيا/القدس"
 
 msgid "Asia/Kabul"
-msgstr ""
+msgstr "أسيا/كابول"
 
 msgid "Asia/Kamchatka"
-msgstr ""
+msgstr "أسيا/كامشَتكا"
 
 msgid "Asia/Karachi"
-msgstr ""
+msgstr "أسيا/كاراتشي"
 
 msgid "Asia/Kashgar"
-msgstr ""
+msgstr "أسيا/كاشجَر"
 
 msgid "Asia/Katmandu"
-msgstr ""
+msgstr "أسيا/كاتمَندو"
 
 msgid "Asia/Krasnoyarsk"
-msgstr ""
+msgstr "أسيا/كراسنويارسك"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr ""
+msgstr "أسيا/كوالا_لامبور"
 
 msgid "Asia/Kuching"
-msgstr ""
+msgstr "أسيا/كوتشينج"
 
 msgid "Asia/Kuwait"
-msgstr ""
+msgstr "أسيا/كويت"
 
 msgid "Asia/Macao"
-msgstr ""
+msgstr "أسيا/ماكاو"
 
 msgid "Asia/Macau"
-msgstr ""
+msgstr "أسيا/ماكاو"
 
 msgid "Asia/Magadan"
-msgstr ""
+msgstr "أسيا/مَجادان"
 
 msgid "Asia/Makassar"
-msgstr ""
+msgstr "أسيا/مكاسّار"
 
 msgid "Asia/Manila"
-msgstr ""
+msgstr "أسيا/مانيلا"
 
 msgid "Asia/Muscat"
-msgstr ""
+msgstr "أسيا/مسقط"
 
 msgid "Asia/Nicosia"
-msgstr ""
+msgstr "أسيا/نيكوسيا"
 
 msgid "Asia/Novosibirsk"
-msgstr ""
+msgstr "أسيا/نوفوسيبيرسك"
 
 msgid "Asia/Omsk"
-msgstr ""
+msgstr "أسيا/أُمْسك"
 
 msgid "Asia/Oral"
-msgstr ""
+msgstr "أسيا/أورال"
 
 msgid "Asia/Phnom_Penh"
-msgstr ""
+msgstr "أسيا/فنوم_بن"
 
 msgid "Asia/Pontianak"
-msgstr ""
+msgstr "أسيا/بونتياناك"
 
 msgid "Asia/Pyongyang"
-msgstr ""
+msgstr "أسيا/بيونجيانج"
 
 msgid "Asia/Qatar"
-msgstr ""
+msgstr "أسيا/قطر"
 
 msgid "Asia/Qyzylorda"
-msgstr ""
+msgstr "أسيا/كيزيلوردا"
 
 msgid "Asia/Rangoon"
-msgstr ""
+msgstr "أسيا/رانجون"
 
 msgid "Asia/Riyadh"
-msgstr ""
+msgstr "أسيا/رياض"
 
 msgid "Asia/Riyadh87"
-msgstr ""
+msgstr "أسيا/رياض87"
 
 msgid "Asia/Riyadh88"
-msgstr ""
+msgstr "أسيا/رياض88"
 
 msgid "Asia/Riyadh89"
-msgstr ""
+msgstr "أسيا/رياض89"
 
 msgid "Asia/Saigon"
-msgstr ""
+msgstr "أسيا/سايجون"
 
 msgid "Asia/Sakhalin"
-msgstr ""
+msgstr "أسيا/ساخالين"
 
 msgid "Asia/Samarkand"
-msgstr ""
+msgstr "أسيا/سمرقند"
 
 msgid "Asia/Seoul"
-msgstr ""
+msgstr "أسيا/سيول"
 
 msgid "Asia/Shanghai"
-msgstr ""
+msgstr "أسيا/شنغهاي"
 
 msgid "Asia/Singapore"
-msgstr ""
+msgstr "أسيا/سنغافورة"
 
 msgid "Asia/Taipei"
-msgstr ""
+msgstr "أسيا/تايباي"
 
 msgid "Asia/Tashkent"
-msgstr ""
+msgstr "أسيا/تاشكنت"
 
 msgid "Asia/Tbilisi"
-msgstr ""
+msgstr "أسيا/بيليسي"
 
 msgid "Asia/Tehran"
-msgstr ""
+msgstr "أسيا/طهران"
 
 msgid "Asia/Tel_Aviv"
-msgstr ""
+msgstr "أسيا/تل_أبيب"
 
 msgid "Asia/Thimbu"
-msgstr ""
+msgstr "أسيا/تيمبو"
 
 msgid "Asia/Thimphu"
-msgstr ""
+msgstr "أسيا/تيمفو"
 
 msgid "Asia/Tokyo"
-msgstr ""
+msgstr "أسيا/طوكيو"
 
 msgid "Asia/Ujung_Pandang"
-msgstr ""
+msgstr "أسيا/أوجونج_باندانج"
 
 msgid "Asia/Ulaanbaatar"
-msgstr ""
+msgstr "أسيا/أولانباتار"
 
 msgid "Asia/Ulan_Bator"
-msgstr ""
+msgstr "أسيا/أولان_باتور"
 
 msgid "Asia/Urumqi"
-msgstr ""
+msgstr "أسيا/أورومكي"
 
 msgid "Asia/Vientiane"
-msgstr ""
+msgstr "أسيا/فيينتيان"
 
 msgid "Asia/Vladivostok"
-msgstr ""
+msgstr "أسيا/فلاديفستك"
 
 msgid "Asia/Yakutsk"
-msgstr ""
+msgstr "أسيا/ياكوتسك"
 
 msgid "Asia/Yekaterinburg"
-msgstr ""
+msgstr "أسيا/يكاترينبورج"
 
 msgid "Asia/Yerevan"
-msgstr ""
+msgstr "أسيا/يريفان"
 
 msgid "Atlantic/Azores"
-msgstr ""
+msgstr "أطلنطي/أزورز"
 
 msgid "Atlantic/Bermuda"
-msgstr ""
+msgstr "أطلنطي/برمودا"
 
 msgid "Atlantic/Canary"
-msgstr ""
+msgstr "أطلنطي/كناري"
 
 msgid "Atlantic/Cape_Verde"
-msgstr ""
+msgstr "أطلنطي/كيب_فيرد"
 
 msgid "Atlantic/Faeroe"
-msgstr ""
+msgstr "أطلنطي/فيرو"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr ""
+msgstr "أطلنطي/جان_ماين"
 
 msgid "Atlantic/Madeira"
-msgstr ""
+msgstr "أطلنطي/ماديرا"
 
 msgid "Atlantic/Reykjavik"
-msgstr ""
+msgstr "أطلنطي/ريتشافك"
 
 msgid "Atlantic/South_Georgia"
-msgstr ""
+msgstr "أطلنطي/جنوب_جورجيا"
 
 msgid "Atlantic/Stanley"
-msgstr ""
+msgstr "أطلنطي/ستانلي"
 
 msgid "Atlantic/St_Helena"
-msgstr ""
+msgstr "أطلنطي/سانت_هيلينا"
 
 msgid "Australia/ACT"
-msgstr ""
+msgstr "أستراليا/ACT"
 
 msgid "Australia/Adelaide"
-msgstr ""
+msgstr "أستراليا/أديلايد"
 
 msgid "Australia/Brisbane"
-msgstr ""
+msgstr "أستراليا/بريسباين"
 
 msgid "Australia/Broken_Hill"
-msgstr ""
+msgstr "أستراليا/بروكن_هيل"
 
 msgid "Australia/Canberra"
-msgstr ""
+msgstr "أستراليا/كانبِرا"
 
 msgid "Australia/Darwin"
-msgstr ""
+msgstr "أستراليا/داروين"
 
 msgid "Australia/Hobart"
-msgstr ""
+msgstr "أستراليا/هوبارت"
 
 msgid "Australia/LHI"
-msgstr ""
+msgstr "أستراليا/LHI"
 
 msgid "Australia/Lindeman"
-msgstr ""
+msgstr "أستراليا/ليندمان"
 
 msgid "Australia/Lord_Howe"
-msgstr ""
+msgstr "أستراليا/لورد_هاو"
 
 msgid "Australia/Melbourne"
-msgstr ""
+msgstr "أستراليا/ملبورن"
 
 msgid "Australia/North"
-msgstr ""
+msgstr "أستراليا/شمال"
 
 msgid "Australia/NSW"
-msgstr ""
+msgstr "أستراليا/NSW"
 
 msgid "Australia/Perth"
-msgstr ""
+msgstr "أستراليا/بيرث"
 
 msgid "Australia/Queensland"
-msgstr ""
+msgstr "أستراليا/كوينزلاند"
 
 msgid "Australia/South"
-msgstr ""
+msgstr "أستراليا/جنوب"
 
 msgid "Australia/Sydney"
-msgstr ""
+msgstr "أستراليا/سيدني"
 
 msgid "Australia/Tasmania"
-msgstr ""
+msgstr "أستراليا/تازمانيا"
 
 msgid "Australia/Victoria"
-msgstr ""
+msgstr "أستراليا/فيكتوريا"
 
 msgid "Australia/West"
-msgstr ""
+msgstr "أستراليا/غرب"
 
 msgid "Australia/Yancowinna"
-msgstr ""
+msgstr "أستراليا/يانكوينا"
 
 msgid "Brazil/Acre"
-msgstr ""
+msgstr "برازيل/أكري"
 
 msgid "Brazil/DeNoronha"
-msgstr ""
+msgstr "برازيل/دينورونها"
 
 msgid "Brazil/East"
-msgstr ""
+msgstr "برازيل/شرق"
 
 msgid "Brazil/West"
-msgstr ""
+msgstr "برازيل/غرب"
 
 msgid "Canada/Atlantic"
-msgstr ""
+msgstr "كندا/أطلنطي"
 
 msgid "Canada/Central"
-msgstr ""
+msgstr "كندا/وسط"
 
 msgid "Canada/Eastern"
-msgstr ""
+msgstr "كندا/شرقي"
 
 msgid "Canada/East-Saskatchewan"
-msgstr ""
+msgstr "كندا/شرق-ساسكاتشون"
 
 msgid "Canada/Mountain"
-msgstr ""
+msgstr "كندا/جبل"
 
 msgid "Canada/Newfoundland"
-msgstr ""
+msgstr "كندا/أرض_جديدة"
 
 msgid "Canada/Pacific"
-msgstr ""
+msgstr "كندا/هادئ"
 
 msgid "Canada/Saskatchewan"
-msgstr ""
+msgstr "كندا/ساسكاتشون"
 
 msgid "Canada/Yukon"
-msgstr ""
+msgstr "كندا/يوكون"
 
 msgid "CET"
-msgstr ""
+msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr ""
+msgstr "شيلي/كونتيننتال"
 
 msgid "Chile/EasterIsland"
-msgstr ""
+msgstr "شيلي/إيسترأيلاند"
 
 msgid "CST6CDT"
-msgstr ""
+msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr ""
+msgstr "كوبا"
 
 msgid "EET"
-msgstr ""
+msgstr "EET"
 
 msgid "Egypt"
-msgstr ""
+msgstr "مصر"
 
 msgid "Eire"
-msgstr ""
+msgstr "آير"
 
 msgid "EST"
-msgstr ""
+msgstr "EST"
 
 msgid "EST5EDT"
-msgstr ""
+msgstr "EST5EDT"
 
 msgid "Etc/GMT"
-msgstr ""
+msgstr "Etc/GMT"
 
 msgid "Etc/GMT0"
-msgstr ""
+msgstr "Etc/GMT0"
 
 msgid "Etc/GMT-0"
-msgstr ""
+msgstr "Etc/GMT-0"
 
 msgid "Etc/GMT+0"
-msgstr ""
+msgstr "Etc/GMT+0"
 
 msgid "Etc/GMT-1"
-msgstr ""
+msgstr "Etc/GMT-1"
 
 msgid "Etc/GMT+1"
-msgstr ""
+msgstr "Etc/GMT+1"
 
 msgid "Etc/GMT-10"
-msgstr ""
+msgstr "Etc/GMT-10"
 
 msgid "Etc/GMT+10"
-msgstr ""
+msgstr "Etc/GMT+10"
 
 msgid "Etc/GMT-11"
-msgstr ""
+msgstr "Etc/GMT-11"
 
 msgid "Etc/GMT+11"
-msgstr ""
+msgstr "Etc/GMT+11"
 
 msgid "Etc/GMT-12"
-msgstr ""
+msgstr "Etc/GMT-12"
 
 msgid "Etc/GMT+12"
-msgstr ""
+msgstr "Etc/GMT+12"
 
 msgid "Etc/GMT-13"
-msgstr ""
+msgstr "Etc/GMT-13"
 
 msgid "Etc/GMT-14"
-msgstr ""
+msgstr "Etc/GMT-14"
 
 msgid "Etc/GMT-2"
-msgstr ""
+msgstr "Etc/GMT-2"
 
 msgid "Etc/GMT+2"
-msgstr ""
+msgstr "Etc/GMT+2"
 
 msgid "Etc/GMT-3"
-msgstr ""
+msgstr "Etc/GMT-3"
 
 msgid "Etc/GMT+3"
-msgstr ""
+msgstr "Etc/GMT+3"
 
 msgid "Etc/GMT-4"
-msgstr ""
+msgstr "Etc/GMT-4"
 
 msgid "Etc/GMT+4"
-msgstr ""
+msgstr "Etc/GMT+4"
 
 msgid "Etc/GMT-5"
-msgstr ""
+msgstr "Etc/GMT-5"
 
 msgid "Etc/GMT+5"
-msgstr ""
+msgstr "Etc/GMT+5"
 
 msgid "Etc/GMT-6"
-msgstr ""
+msgstr "Etc/GMT-6"
 
 msgid "Etc/GMT+6"
-msgstr ""
+msgstr "Etc/GMT+6"
 
 msgid "Etc/GMT-7"
-msgstr ""
+msgstr "Etc/GMT-7"
 
 msgid "Etc/GMT+7"
-msgstr ""
+msgstr "Etc/GMT+7"
 
 msgid "Etc/GMT-8"
-msgstr ""
+msgstr "Etc/GMT-8"
 
 msgid "Etc/GMT+8"
-msgstr ""
+msgstr "Etc/GMT+8"
 
 msgid "Etc/GMT-9"
-msgstr ""
+msgstr "Etc/GMT-9"
 
 msgid "Etc/GMT+9"
-msgstr ""
+msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr ""
+msgstr "Etc/غرينتش"
 
 msgid "Etc/UCT"
-msgstr ""
+msgstr "Etc/UCT"
 
 msgid "Etc/Universal"
-msgstr ""
+msgstr "Etc/Universal"
 
 msgid "Etc/UTC"
-msgstr ""
+msgstr "Etc/UTC"
 
 msgid "Etc/Zulu"
-msgstr ""
+msgstr "Etc/Zulu"
 
 msgid "Europe/Amsterdam"
-msgstr ""
+msgstr "أوروبا/أمستردام"
 
 msgid "Europe/Andorra"
-msgstr ""
+msgstr "أوروبا/أندورا"
 
 msgid "Europe/Athens"
-msgstr ""
+msgstr "أوروبا/أثينا"
 
 msgid "Europe/Belfast"
-msgstr ""
+msgstr "أوروبا/بلفاست"
 
 msgid "Europe/Belgrade"
-msgstr ""
+msgstr "أوروبا/بلجراد"
 
 msgid "Europe/Berlin"
-msgstr ""
+msgstr "أوروبا/برلين"
 
 msgid "Europe/Bratislava"
-msgstr ""
+msgstr "أوروبا/براتيسلافا"
 
 msgid "Europe/Brussels"
-msgstr ""
+msgstr "أوروبا/بروكسل"
 
 msgid "Europe/Bucharest"
-msgstr ""
+msgstr "أوروبا/بوخارست"
 
 msgid "Europe/Budapest"
-msgstr ""
+msgstr "أوروبا/بودابست"
 
 msgid "Europe/Chisinau"
-msgstr ""
+msgstr "أوروبا/شيزيناو"
 
 msgid "Europe/Copenhagen"
-msgstr ""
+msgstr "أوروبا/كوبنهاجن"
 
 msgid "Europe/Dublin"
-msgstr ""
+msgstr "أوروبا/دوبلن"
 
 msgid "Europe/Gibraltar"
-msgstr ""
+msgstr "أوروبا/جبل_طارق"
 
 msgid "Europe/Helsinki"
-msgstr ""
+msgstr "أوروبا/هلسينكي"
 
 msgid "Europe/Istanbul"
-msgstr ""
+msgstr "أوروبا/إسطنبول"
 
 msgid "Europe/Kaliningrad"
-msgstr ""
+msgstr "أوروبا/كالينينجراد"
 
 msgid "Europe/Kiev"
-msgstr ""
+msgstr "أوروبا/كييف"
 
 msgid "Europe/Lisbon"
-msgstr ""
+msgstr "أوروبا/ليسبون"
 
 msgid "Europe/Ljubljana"
-msgstr ""
+msgstr "أوروبا/ليوبليانا"
 
 msgid "Europe/London"
-msgstr ""
+msgstr "أوروبا/لندن"
 
 msgid "Europe/Luxembourg"
-msgstr ""
+msgstr "أوروبا/لوكسمبرج"
 
 msgid "Europe/Madrid"
-msgstr ""
+msgstr "أوروبا/مدريد"
 
 msgid "Europe/Malta"
-msgstr ""
+msgstr "أوروبا/مالطا"
 
 msgid "Europe/Minsk"
-msgstr ""
+msgstr "أوروبا/مينسك"
 
 msgid "Europe/Monaco"
-msgstr ""
+msgstr "أوروبا/موناكو"
 
 msgid "Europe/Moscow"
-msgstr ""
+msgstr "أوروبا/موسكو"
 
 msgid "Europe/Nicosia"
-msgstr ""
+msgstr "أوروبا/نيكوسيا"
 
 msgid "Europe/Oslo"
-msgstr ""
+msgstr "أوروبا/أوسلو"
 
 msgid "Europe/Paris"
-msgstr ""
+msgstr "أوروبا/باريس"
 
 msgid "Europe/Prague"
-msgstr ""
+msgstr "أوروبا/براج"
 
 msgid "Europe/Riga"
-msgstr ""
+msgstr "أوروبا/ريجا"
 
 msgid "Europe/Rome"
-msgstr ""
+msgstr "أوروبا/روما"
 
 msgid "Europe/Samara"
-msgstr ""
+msgstr "أوروبا/سامارا"
 
 msgid "Europe/San_Marino"
-msgstr ""
+msgstr "أوروبا/سان_مارينو"
 
 msgid "Europe/Sarajevo"
-msgstr ""
+msgstr "أوروبا/ساراييفو"
 
 msgid "Europe/Simferopol"
-msgstr ""
+msgstr "أوروبا/سيمفيروبول"
 
 msgid "Europe/Skopje"
-msgstr ""
+msgstr "أوروبا/سكوبيا"
 
 msgid "Europe/Sofia"
-msgstr ""
+msgstr "أوروبا/صوفيا"
 
 msgid "Europe/Stockholm"
-msgstr ""
+msgstr "أوروبا/ستوكهولم"
 
 msgid "Europe/Tallinn"
-msgstr ""
+msgstr "أوروبا/تلّين"
 
 msgid "Europe/Tirane"
-msgstr ""
+msgstr "أوروبا/تيران"
 
 msgid "Europe/Tiraspol"
-msgstr ""
+msgstr "أوروبا/تيراسبول"
 
 msgid "Europe/Uzhgorod"
-msgstr ""
+msgstr "أوروبا/أوزجورود"
 
 msgid "Europe/Vaduz"
-msgstr ""
+msgstr "أوروبا/فادوز"
 
 msgid "Europe/Vatican"
-msgstr ""
+msgstr "أوروبا/فاتيكان"
 
 msgid "Europe/Vienna"
-msgstr ""
+msgstr "أوروبا/فيينا"
 
 msgid "Europe/Vilnius"
-msgstr ""
+msgstr "أوروبا/فيلنيوس"
 
 msgid "Europe/Warsaw"
-msgstr ""
+msgstr "أوروبا/وارسوا"
 
 msgid "Europe/Zagreb"
-msgstr ""
+msgstr "أوروبا/زاغريب"
 
 msgid "Europe/Zaporozhye"
-msgstr ""
+msgstr "أوروبا/زابوروزي"
 
 msgid "Europe/Zurich"
-msgstr ""
+msgstr "أوروبا/زيورخ"
 
 msgid "Factory"
-msgstr ""
+msgstr "مصنع"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "GB-Eire"
-msgstr ""
+msgstr "GB-آير"
 
 msgid "GMT"
-msgstr ""
+msgstr "GMT"
 
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 msgid "GMT-0"
-msgstr ""
+msgstr "GMT-0"
 
 msgid "GMT+0"
-msgstr ""
+msgstr "GMT+0"
 
 msgid "Greenwich"
-msgstr ""
+msgstr "غرينتش"
 
 msgid "Hongkong"
-msgstr ""
+msgstr "هونجكونج"
 
 msgid "HST"
-msgstr ""
+msgstr "HST"
 
 msgid "Iceland"
-msgstr ""
+msgstr "أيسلاند"
 
 msgid "Indian/Antananarivo"
-msgstr ""
+msgstr "هندي/أنتاناناريفو"
 
 msgid "Indian/Chagos"
-msgstr ""
+msgstr "هندي/شاجوس"
 
 msgid "Indian/Christmas"
-msgstr ""
+msgstr "هندي/كريستماس"
 
 msgid "Indian/Cocos"
-msgstr ""
+msgstr "هندي/كوكوس"
 
 msgid "Indian/Comoro"
-msgstr ""
+msgstr "هندي/كومورو"
 
 msgid "Indian/Kerguelen"
-msgstr ""
+msgstr "هندي/كيرجيولن"
 
 msgid "Indian/Mahe"
-msgstr ""
+msgstr "هندي/ماهي"
 
 msgid "Indian/Maldives"
-msgstr ""
+msgstr "هندي/مالديف"
 
 msgid "Indian/Mauritius"
-msgstr ""
+msgstr "هندي/موريشيوس"
 
 msgid "Indian/Mayotte"
-msgstr ""
+msgstr "هندي/مايوتي"
 
 msgid "Indian/Reunion"
-msgstr ""
+msgstr "هندي/رييونيون"
 
 msgid "Iran"
-msgstr ""
+msgstr "إيران"
 
 msgid "Israel"
-msgstr ""
+msgstr "إسرائيل"
 
 msgid "Jamaica"
-msgstr ""
+msgstr "جامايكا"
 
 msgid "Japan"
-msgstr ""
+msgstr "يابان"
 
 msgid "Kwajalein"
-msgstr ""
+msgstr "كوجالين"
 
 msgid "Libya"
-msgstr ""
+msgstr "ليبيا"
 
 msgid "MET"
-msgstr ""
+msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr ""
+msgstr "مكسيك/بايانورتي"
 
 msgid "Mexico/BajaSur"
-msgstr ""
+msgstr "مكسيك/باياسور"
 
 msgid "Mexico/General"
-msgstr ""
+msgstr "مكسيك/عام"
 
 msgid "Mideast/Riyadh87"
-msgstr ""
+msgstr "شرق_أوسط/رياض87"
 
 msgid "Mideast/Riyadh88"
-msgstr ""
+msgstr "شرق_أوسط/رياض88"
 
 msgid "Mideast/Riyadh89"
-msgstr ""
+msgstr "شرق_أوسط/رياض89"
 
 msgid "MST"
-msgstr ""
+msgstr "MST"
 
 msgid "MST7MDT"
-msgstr ""
+msgstr "MST7MDT"
 
 msgid "Navajo"
-msgstr ""
+msgstr "نافايو"
 
 msgid "NZ"
-msgstr ""
+msgstr "NZ"
 
 msgid "NZ-CHAT"
-msgstr ""
+msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr ""
+msgstr "هادئ/أبيا"
 
 msgid "Pacific/Auckland"
-msgstr ""
+msgstr "هادئ/أوكلاند"
 
 msgid "Pacific/Chatham"
-msgstr ""
+msgstr "هادئ/شاثام"
 
 msgid "Pacific/Easter"
-msgstr ""
+msgstr "هادئ/إيستر"
 
 msgid "Pacific/Efate"
-msgstr ""
+msgstr "هادئ/إفاتي"
 
 msgid "Pacific/Enderbury"
-msgstr ""
+msgstr "هادئ/إندربوري"
 
 msgid "Pacific/Fakaofo"
-msgstr ""
+msgstr "هادئ/فاكاوفو"
 
 msgid "Pacific/Fiji"
-msgstr ""
+msgstr "هادئ/فيجي"
 
 msgid "Pacific/Funafuti"
-msgstr ""
+msgstr "هادئ/فونافوتي"
 
 msgid "Pacific/Galapagos"
-msgstr ""
+msgstr "هادئ/جالاباجوس"
 
 msgid "Pacific/Gambier"
-msgstr ""
+msgstr "هادئ/جامبيير"
 
 msgid "Pacific/Guadalcanal"
-msgstr ""
+msgstr "هادئ/جوادالكانال"
 
 msgid "Pacific/Guam"
-msgstr ""
+msgstr "هادئ/جوام"
 
 msgid "Pacific/Honolulu"
-msgstr ""
+msgstr "هادئ/هونولولو"
 
 msgid "Pacific/Johnston"
-msgstr ""
+msgstr "هادئ/جونستون"
 
 msgid "Pacific/Kiritimati"
-msgstr ""
+msgstr "هادئ/كيريتيماتي"
 
 msgid "Pacific/Kosrae"
-msgstr ""
+msgstr "هادئ/كوسراي"
 
 msgid "Pacific/Kwajalein"
-msgstr ""
+msgstr "هادئ/كواجالين"
 
 msgid "Pacific/Majuro"
-msgstr ""
+msgstr "هادئ/ماجورو"
 
 msgid "Pacific/Marquesas"
-msgstr ""
+msgstr "هادئ/ماركويساس"
 
 msgid "Pacific/Midway"
-msgstr ""
+msgstr "هادئ/ميدواي"
 
 msgid "Pacific/Nauru"
-msgstr ""
+msgstr "هادئ/ناورو"
 
 msgid "Pacific/Niue"
-msgstr ""
+msgstr "هادئ/نيو"
 
 msgid "Pacific/Norfolk"
-msgstr ""
+msgstr "هادئ/نورفولك"
 
 msgid "Pacific/Noumea"
-msgstr ""
+msgstr "هادئ/نوميا"
 
 msgid "Pacific/Pago_Pago"
-msgstr ""
+msgstr "هادئ/باجو_باجو"
 
 msgid "Pacific/Palau"
-msgstr ""
+msgstr "هادئ/بالاو"
 
 msgid "Pacific/Pitcairn"
-msgstr ""
+msgstr "هادئ/بيتكايرن"
 
 msgid "Pacific/Ponape"
-msgstr ""
+msgstr "هادئ/بونابي"
 
 msgid "Pacific/Port_Moresby"
-msgstr ""
+msgstr "هادئ/بورت_مورسبي"
 
 msgid "Pacific/Rarotonga"
-msgstr ""
+msgstr "هادئ/راروتونجا"
 
 msgid "Pacific/Saipan"
-msgstr ""
+msgstr "هادئ/سايبان"
 
 msgid "Pacific/Samoa"
-msgstr ""
+msgstr "هادئ/ساموا"
 
 msgid "Pacific/Tahiti"
-msgstr ""
+msgstr "هادئ/تاهيتي"
 
 msgid "Pacific/Tarawa"
-msgstr ""
+msgstr "هادئ/تاراوا"
 
 msgid "Pacific/Tongatapu"
-msgstr ""
+msgstr "هادئ/تونجاتابو"
 
 msgid "Pacific/Truk"
-msgstr ""
+msgstr "هادئ/تروك"
 
 msgid "Pacific/Wake"
-msgstr ""
+msgstr "هادئ/وايك"
 
 msgid "Pacific/Wallis"
-msgstr ""
+msgstr "هادئ/واليس"
 
 msgid "Pacific/Yap"
-msgstr ""
+msgstr "هادئ/ياب"
 
 msgid "Poland"
-msgstr ""
+msgstr "بولندا"
 
 msgid "Portugal"
-msgstr ""
+msgstr "برتغال"
 
 msgid "PRC"
-msgstr ""
+msgstr "PRC"
 
 msgid "PST8PDT"
-msgstr ""
+msgstr "PST8PDT"
 
 msgid "ROC"
-msgstr ""
+msgstr "ROC"
 
 msgid "ROK"
-msgstr ""
+msgstr "ROK"
 
 msgid "Singapore"
-msgstr ""
+msgstr "سنغافورة"
 
 msgid "SystemV/AST4"
-msgstr ""
+msgstr "SystemV/AST4"
 
 msgid "SystemV/AST4ADT"
-msgstr ""
+msgstr "SystemV/AST4ADT"
 
 msgid "SystemV/CST6"
-msgstr ""
+msgstr "SystemV/CST6"
 
 msgid "SystemV/CST6CDT"
-msgstr ""
+msgstr "SystemV/CST6CDT"
 
 msgid "SystemV/EST5"
-msgstr ""
+msgstr "SystemV/EST5"
 
 msgid "SystemV/EST5EDT"
-msgstr ""
+msgstr "SystemV/EST5EDT"
 
 msgid "SystemV/HST10"
-msgstr ""
+msgstr "SystemV/HST10"
 
 msgid "SystemV/MST7"
-msgstr ""
+msgstr "SystemV/MST7"
 
 msgid "SystemV/MST7MDT"
-msgstr ""
+msgstr "SystemV/MST7MDT"
 
 msgid "SystemV/PST8"
-msgstr ""
+msgstr "SystemV/PST8"
 
 msgid "SystemV/PST8PDT"
-msgstr ""
+msgstr "SystemV/PST8PDT"
 
 msgid "SystemV/YST9"
-msgstr ""
+msgstr "SystemV/YST9"
 
 msgid "SystemV/YST9YDT"
-msgstr ""
+msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
-msgstr ""
+msgstr "تركيا"
 
 msgid "UCT"
-msgstr ""
+msgstr "UCT"
 
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 msgid "US/Alaska"
-msgstr ""
+msgstr "US/ألاسكا"
 
 msgid "US/Aleutian"
-msgstr ""
+msgstr "US/أليوتيان"
 
 msgid "US/Arizona"
-msgstr ""
+msgstr "US/أريزونا"
 
 msgid "US/Central"
-msgstr ""
+msgstr "US/وسط"
 
 msgid "US/Eastern"
-msgstr ""
+msgstr "US/شرقي"
 
 msgid "US/East-Indiana"
-msgstr ""
+msgstr "US/شرق-إنديانا"
 
 msgid "US/Hawaii"
-msgstr ""
+msgstr "US/هاواي"
 
 msgid "US/Indiana-Starke"
-msgstr ""
+msgstr "US/إنديانا-ستاركي"
 
 msgid "US/Michigan"
-msgstr ""
+msgstr "US/ميتشيجان"
 
 msgid "US/Mountain"
-msgstr ""
+msgstr "US/جبل"
 
 msgid "US/Pacific"
-msgstr ""
+msgstr "US/هادئ"
 
 msgid "US/Samoa"
-msgstr ""
+msgstr "US/ساموا"
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "WET"
-msgstr ""
+msgstr "WET"
 
 msgid "W-SU"
-msgstr ""
+msgstr "W-SU"
 
 msgid "Zulu"
-msgstr ""
+msgstr "Zulu"
 
