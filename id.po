@@ -1,15 +1,16 @@
 # timezones Bahasa Indonesia
 # Copyright (C) 1999 Free Software Foundation, Inc.
 # Mohammad DAMT <mdamt@linux.or.id>, 1999.
+# Teguh DC <dheche@brawijaya.ac.id>, 2004.
+# $Id: id.po,v 1.4 2004/06/25 12:18:39 dheche Exp $
 #
-# , fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ID-timezones 1.0\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 1998-09-08 10:24+0700\n"
-"Last-Translator: Mohammad DAMT <mdamt@ldp.linux.or.id>\n"
-"Language-Team: LDP Indonesia <http://ldp.linux.or.id>\n"
+"PO-Revision-Date: 2004-06-24 11:41+0700\n"
+"Last-Translator: Teguh DC <dheche@brawijaya.ac.id>\n"
+"Language-Team: LDP Indonesia <http://www.linux.or.id>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,13 +19,13 @@ msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
 
 msgid "Africa/Accra"
-msgstr "Afrika/Accra"
+msgstr "Afrika/Akra"
 
 msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Addis_Ababa"
 
 msgid "Africa/Algiers"
-msgstr "Afrika/Aljir"
+msgstr "Afrika/Aljazair"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -51,7 +52,7 @@ msgid "Africa/Bujumbura"
 msgstr "Afrika/Bujumbura"
 
 msgid "Africa/Cairo"
-msgstr "Afrika/Cairo"
+msgstr "Afrika/Kairo"
 
 msgid "Africa/Casablanca"
 msgstr "Afrika/Casablanca"
@@ -165,7 +166,7 @@ msgid "Africa/Tripoli"
 msgstr "Afrika/Tripoli"
 
 msgid "Africa/Tunis"
-msgstr "Afrika/Tunis"
+msgstr "Afrika/Tunisia"
 
 msgid "Africa/Windhoek"
 msgstr "Afrika/Windhoek"
@@ -203,9 +204,8 @@ msgstr "Amerika/Belem"
 msgid "America/Belize"
 msgstr "Amerika/Belize"
 
-#, fuzzy
 msgid "America/Boa_Vista"
-msgstr "Amerika/Boise"
+msgstr "Amerika/Boa_Vista"
 
 msgid "America/Bogota"
 msgstr "Amerika/Bogota"
@@ -216,15 +216,14 @@ msgstr "Amerika/Boise"
 msgid "America/Buenos_Aires"
 msgstr "Amerika/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Cambridge_Bay"
-msgstr "Amerika/Glace_Bay"
+msgstr "Amerika/Cambridge_Bay"
 
 msgid "America/Cancun"
 msgstr "Amerika/Cancun"
 
 msgid "America/Caracas"
-msgstr "Amerika/Caracas"
+msgstr "Amerika/Karakas"
 
 msgid "America/Catamarca"
 msgstr "Amerika/Catamarca"
@@ -242,10 +241,10 @@ msgid "America/Chihuahua"
 msgstr "Amerika/Chihuahua"
 
 msgid "America/Cordoba"
-msgstr "Amerika/Cordoba"
+msgstr "Amerika/Kordoba"
 
 msgid "America/Costa_Rica"
-msgstr "Amerika/Costa_Rica"
+msgstr "Amerika/Kosta_Rika"
 
 msgid "America/Cuiaba"
 msgstr "Amerika/Cuiaba"
@@ -350,7 +349,7 @@ msgid "America/Iqaluit"
 msgstr "Amerika/Iqaluit"
 
 msgid "America/Jamaica"
-msgstr "Amerika/Jamaica"
+msgstr "Amerika/Jamaika"
 
 msgid "America/Jujuy"
 msgstr "Amerika/Jujuy"
@@ -358,13 +357,11 @@ msgstr "Amerika/Jujuy"
 msgid "America/Juneau"
 msgstr "Amerika/Juneau"
 
-#, fuzzy
 msgid "America/Kentucky/Louisville"
-msgstr "Amerika/Louisville"
+msgstr "Amerika/Kentucky/Louisville"
 
-#, fuzzy
 msgid "America/Kentucky/Monticello"
-msgstr "Amerika/Montevideo"
+msgstr "Amerika/Kentucky/Monticello"
 
 msgid "America/Knox_IN"
 msgstr "Amerika/Knox_IN"
@@ -402,9 +399,8 @@ msgstr "Amerika/Mendoza"
 msgid "America/Menominee"
 msgstr "Amerika/Menominee"
 
-#, fuzzy
 msgid "America/Merida"
-msgstr "Amerika/Mendoza"
+msgstr "Amerika/Merida"
 
 msgid "America/Mexico_City"
 msgstr "Amerika/Mexico_City"
@@ -412,9 +408,8 @@ msgstr "Amerika/Mexico_City"
 msgid "America/Miquelon"
 msgstr "Amerika/Miquelon"
 
-#, fuzzy
 msgid "America/Monterrey"
-msgstr "Amerika/Montserrat"
+msgstr "Amerika/Monterrey"
 
 msgid "America/Montevideo"
 msgstr "Amerika/Montevideo"
@@ -440,9 +435,8 @@ msgstr "Amerika/Nome"
 msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/Fort_Wayne"
+msgstr "Amerika/NOrth_Dakota/Center"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -484,9 +478,8 @@ msgstr "Amerika/Belize"
 msgid "America/Regina"
 msgstr "Amerika/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "Amerika/Rosario"
@@ -581,9 +574,8 @@ msgstr "Antarctica/South_Pole"
 msgid "Antarctica/Syowa"
 msgstr "Antarctica/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antarctica/Mawson"
+msgstr "Antarctica/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Arktik/Longyearbyen"
@@ -635,7 +627,7 @@ msgid "Asia/Brunei"
 msgstr "Asia/Brunei"
 
 msgid "Asia/Calcutta"
-msgstr "Asia/Calcutta"
+msgstr "Asia/Kalkuta"
 
 #, fuzzy
 msgid "Asia/Choibalsan"
@@ -649,21 +641,19 @@ msgid "Asia/Chungking"
 msgstr "Asia/Chungking"
 
 msgid "Asia/Colombo"
-msgstr "Asia/Colombo"
+msgstr "Asia/Kolombo"
 
 msgid "Asia/Dacca"
 msgstr "Asia/Dacca"
 
 msgid "Asia/Damascus"
-msgstr "Asia/Damascus"
+msgstr "Asia/Damaskus"
 
-#, fuzzy
 msgid "Asia/Dhaka"
-msgstr "Asia/Dacca"
+msgstr "Asia/Dhaka"
 
-#, fuzzy
 msgid "Asia/Dili"
-msgstr "Asia/Tbilisi"
+msgstr "Asia/Dili"
 
 msgid "Asia/Dubai"
 msgstr "Asia/Dubai"
@@ -736,9 +726,8 @@ msgstr "Asia/Macao"
 msgid "Asia/Magadan"
 msgstr "Asia/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Asia/Jakarta"
+msgstr "Asia/Makasar"
 
 msgid "Asia/Manila"
 msgstr "Asia/Manila"
@@ -954,7 +943,7 @@ msgid "Australia/Victoria"
 msgstr "Australia/Victoria"
 
 msgid "Australia/West"
-msgstr "Australia/West"
+msgstr "Australia/Barat"
 
 msgid "Australia/Yancowinna"
 msgstr "Australia/Yancowinna"
@@ -966,10 +955,10 @@ msgid "Brazil/DeNoronha"
 msgstr "Brazil/DeNoronha"
 
 msgid "Brazil/East"
-msgstr "Brazil/East"
+msgstr "Brazil/Timur"
 
 msgid "Brazil/West"
-msgstr "Brazil/West"
+msgstr "Brazil/Barat"
 
 msgid "Canada/Atlantic"
 msgstr "Kanada/Atlantik"
@@ -1002,7 +991,7 @@ msgid "CET"
 msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr "Chili/Continental"
+msgstr "Chili/Kontinental"
 
 msgid "Chile/EasterIsland"
 msgstr "Chili/EasterIsland"
@@ -1011,7 +1000,7 @@ msgid "CST6CDT"
 msgstr "CST6CDT"
 
 msgid "Cuba"
-msgstr "Cuba"
+msgstr "Kuba"
 
 msgid "EET"
 msgstr "EET"
@@ -1340,7 +1329,7 @@ msgid "Indian/Cocos"
 msgstr "Indian/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Indian/Comoro"
+msgstr "Indian/Komoro"
 
 msgid "Indian/Kerguelen"
 msgstr "Indian/Kerguelen"
@@ -1349,7 +1338,7 @@ msgid "Indian/Mahe"
 msgstr "Indian/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Indian/Maldives"
+msgstr "Indian/Maladewa"
 
 msgid "Indian/Mauritius"
 msgstr "Indian/Mauritius"
@@ -1367,10 +1356,10 @@ msgid "Israel"
 msgstr "Israel"
 
 msgid "Jamaica"
-msgstr "Jamaica"
+msgstr "Jamaika"
 
 msgid "Japan"
-msgstr "Japan"
+msgstr "Jepang"
 
 msgid "Kwajalein"
 msgstr "Kwajalein"
@@ -1535,7 +1524,7 @@ msgid "Pacific/Yap"
 msgstr "Pasifik/Yap"
 
 msgid "Poland"
-msgstr "Poland"
+msgstr "Polandia"
 
 msgid "Portugal"
 msgstr "Portugal"
@@ -1595,7 +1584,7 @@ msgid "SystemV/YST9YDT"
 msgstr "SystemV/YST9YDT"
 
 msgid "Turkey"
-msgstr "Turkey"
+msgstr "Turki"
 
 msgid "UCT"
 msgstr "UCT"
