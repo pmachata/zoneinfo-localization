@@ -1,8 +1,11 @@
+# Translation of timezones to Croatian
+# Copyright (C) Croatian team
+# Translators: Dario Lah <>,Robert Sedak <robert.sedak@sk.tel.hr>,Vedran Vyroubal <vedran.vyroubal@inet.hr>,
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones 0\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-10-03 17:29+CEST\n"
+"PO-Revision-Date: 2003-12-10 16:34+CET\n"
 "Last-Translator: auto\n"
 "Language-Team: Croatian <lokalizacija@linux.hr>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +20,7 @@ msgid "Africa/Accra"
 msgstr "Afrika/Accra"
 
 msgid "Africa/Addis_Ababa"
-msgstr "Afrika/Addis_Ababa"
+msgstr "Afrika/Adis_Ababa"
 
 msgid "Africa/Algiers"
 msgstr "Afrika/Alžir"
@@ -947,7 +950,7 @@ msgid "Canada/Central"
 msgstr "Kanada/Centralno"
 
 msgid "Canada/Eastern"
-msgstr "Kanada/Istočno"
+msgstr "Kanada/Istočna"
 
 msgid "Canada/East-Saskatchewan"
 msgstr "Kanada/Istok-Saskatchewan"
@@ -1289,7 +1292,7 @@ msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "Iceland"
+msgstr "Island"
 
 msgid "Indian/Antananarivo"
 msgstr "Indijski_ocean/Antananarivo"
@@ -1331,7 +1334,7 @@ msgid "Israel"
 msgstr "Izrael"
 
 msgid "Jamaica"
-msgstr "Jamaika"
+msgstr "Jamajka"
 
 msgid "Japan"
 msgstr "Japan"
@@ -1516,7 +1519,6 @@ msgstr "ROC"
 msgid "ROK"
 msgstr "ROK"
 
-#,  c-format
 msgid "Singapore"
 msgstr "Singapur"
 
@@ -1569,13 +1571,13 @@ msgid "Universal"
 msgstr "Univerzalno"
 
 msgid "US/Alaska"
-msgstr "US/Aljaska"
+msgstr "SAD/Aljaska"
 
 msgid "US/Aleutian"
 msgstr "US/Aleutinsko"
 
 msgid "US/Arizona"
-msgstr "US/Arizona"
+msgstr "SAD/Arizona"
 
 msgid "US/Central"
 msgstr "US/Centralno"
@@ -1587,7 +1589,7 @@ msgid "US/East-Indiana"
 msgstr "US/Istok-Indiana"
 
 msgid "US/Hawaii"
-msgstr "US/Havai"
+msgstr "SAD/Havaji"
 
 msgid "US/Indiana-Starke"
 msgstr "US/Indiana-Starke"
@@ -1602,7 +1604,7 @@ msgid "US/Pacific"
 msgstr "US/Pacifik"
 
 msgid "US/Samoa"
-msgstr "US/Samoa"
+msgstr "SAD/Samoa"
 
 msgid "UTC"
 msgstr "UTC"
