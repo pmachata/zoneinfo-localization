@@ -1,14 +1,16 @@
+# translation of tr.po to Turkish
+# Bahadir Yagan <bahadir.yagan@mentorsystem.com>, 2004.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: tr\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2002-07-25 12:23+0300\n"
+"PO-Revision-Date: 2004-03-18 23:08+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@superonline.com>\n"
-"Language-Team: Turkish <gnu-tr-u12a@lists.sourceforge.net>\n"
+"Language-Team: Turkish <fedora-trans-tr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.3\n"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidya"
@@ -247,9 +249,8 @@ msgstr "Amerika/Cuiaba"
 msgid "America/Curacao"
 msgstr "Amerika/Curacao"
 
-#, fuzzy
 msgid "America/Danmarkshavn"
-msgstr "Amerika/Kayman"
+msgstr "Amerika/Danmarkshavn"
 
 msgid "America/Dawson"
 msgstr "Amerika/Dawson"
@@ -428,9 +429,8 @@ msgstr "Amerika/Nome"
 msgid "America/Noronha"
 msgstr "Amerika/Noronha"
 
-#, fuzzy
 msgid "America/North_Dakota/Center"
-msgstr "Amerika/Fort_Wayne"
+msgstr "Amerika/North_Dakota/Merkez"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -471,9 +471,8 @@ msgstr "America/Recife"
 msgid "America/Regina"
 msgstr "Amerika/Regina"
 
-#, fuzzy
 msgid "America/Rio_Branco"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Rio_Branco"
 
 msgid "America/Rosario"
 msgstr "Amerika/Rosario"
@@ -568,9 +567,8 @@ msgstr "Antartika/Güney_Kutbu"
 msgid "Antarctica/Syowa"
 msgstr "Antartika/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antartika/Mawson"
+msgstr "Antartika/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Arctic/Longyearbyen"
@@ -623,13 +621,11 @@ msgstr "Asya/Brunei"
 msgid "Asia/Calcutta"
 msgstr "Asya/Kalküta"
 
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Asya/Kalküta"
+msgstr "Asya/Choibalsan"
 
-#, fuzzy
 msgid "Asia/Chongqing"
-msgstr "Asya/Chungking"
+msgstr "Asya/Chngqking"
 
 msgid "Asia/Chungking"
 msgstr "Asya/Chungking"
@@ -712,16 +708,14 @@ msgstr "Asya/Kuveyt"
 msgid "Asia/Macao"
 msgstr "Asya/Macao"
 
-#, fuzzy
 msgid "Asia/Macau"
-msgstr "Asya/Macao"
+msgstr "Asya/Macau"
 
 msgid "Asia/Magadan"
 msgstr "Asya/Magadan"
 
-#, fuzzy
 msgid "Asia/Makassar"
-msgstr "Asya/Jakarta"
+msgstr "Asya/Makassar"
 
 msgid "Asia/Manila"
 msgstr "Asya/Manila"
@@ -738,16 +732,14 @@ msgstr "Asya/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asya/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Asya/Kabil"
+msgstr "Asya/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asya/Pnom_Pen"
 
-#, fuzzy
 msgid "Asia/Pontianak"
-msgstr "Asya/Piongyang"
+msgstr "Asya/Pontianak"
 
 msgid "Asia/Pyongyang"
 msgstr "Asya/Piongyang"
@@ -755,9 +747,8 @@ msgstr "Asya/Piongyang"
 msgid "Asia/Qatar"
 msgstr "Asya/Katar"
 
-#, fuzzy
 msgid "Asia/Qyzylorda"
-msgstr "Asya/Gaza"
+msgstr "Asya/Qyzylorda"
 
 msgid "Asia/Rangoon"
 msgstr "Asya/Rangoon"
@@ -777,9 +768,8 @@ msgstr "Asya/Riyad89"
 msgid "Asia/Saigon"
 msgstr "Asya/Saygon"
 
-#, fuzzy
 msgid "Asia/Sakhalin"
-msgstr "Asya/Bahreyn"
+msgstr "Asya/Sakhalin"
 
 msgid "Asia/Samarkand"
 msgstr "Asya/Semerkant"
@@ -1626,3 +1616,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Sıfır"
+
