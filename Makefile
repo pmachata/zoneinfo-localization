@@ -62,13 +62,13 @@ distclean: clean
 depend:
 
 install: $(CATALOGS)
-	mkdir -p $(INSTROOT)/usr/share/locale
+	mkdir -p $(DESTDIR)/usr/share/locale
 	for n in $(CATALOGS); do \
 	    l=`basename $$n .mo`; \
-	    $(INSTALL) -m 755 -d $(INSTROOT)/usr/share/locale/$$l; \
-	    $(INSTALL) -m 755 -d $(INSTROOT)/usr/share/locale/$$l/LC_MESSAGES; \
+	    $(INSTALL) -m 755 -d $(DESTDIR)/usr/share/locale/$$l; \
+	    $(INSTALL) -m 755 -d $(DESTDIR)/usr/share/locale/$$l/LC_MESSAGES; \
 	    if [ -f $$n ]; then \
-	        $(INSTALL) -m 644 $$n $(INSTROOT)/usr/share/locale/$$l/LC_MESSAGES/$(NLSPACKAGE).mo; \
+	        $(INSTALL) -m 644 $$n $(DESTDIR)/usr/share/locale/$$l/LC_MESSAGES/$(NLSPACKAGE).mo; \
 	    fi; \
 	done
 
