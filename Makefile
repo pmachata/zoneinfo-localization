@@ -9,11 +9,11 @@ NLSPACKAGE = timezones
 
 CATALOGS = $(shell ls *.po | sed 's/po/mo/')
 
-#POTFILES  = ../timeconfig.c
+POTFILES  = /dev/null
 
 all: $(NLSPACKAGE).pot $(CATALOGS)
 
-$(NLSPACKAGE).pot:
+$(NLSPACKAGE).pot::
 	xgettext --default-domain=$(NLSPACKAGE) \
 		--add-comments --keyword=_ --keyword=N_ $(POTFILES)
 	echo >> $(NLSPACKAGE).po
@@ -23,7 +23,6 @@ $(NLSPACKAGE).pot:
 	else \
 	    mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
 	fi
-
 
 update-po: Makefile
 	$(MAKE) $(NLSPACKAGE).pot
