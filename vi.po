@@ -185,6 +185,50 @@ msgstr "Châu Mỹ/Antigua"
 msgid "America/Araguaina"
 msgstr "Châu Mỹ/Araguaina"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "Châu Mỹ/Buenos_Aires"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "Châu Mỹ/Catamarca"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "Châu Mỹ/Indiana/Indianapolis"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "Châu Mỹ/Cordoba"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "Châu Mỹ/Jujuy"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "Châu Mỹ/Araguaina"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "Châu Mỹ/Mendoza"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "Châu Mỹ/Indiana/Marengo"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "Châu Mỹ/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "Châu Mỹ/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "Châu Mỹ/Araguaina"
+
 msgid "America/Aruba"
 msgstr "Châu Mỹ/Aruba"
 
@@ -193,6 +237,10 @@ msgstr "Châu Mỹ/Asuncion"
 
 msgid "America/Atka"
 msgstr "Châu Mỹ/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "Châu Mỹ/Boa_Vista"
 
 msgid "America/Barbados"
 msgstr "Châu Mỹ/Barbados"
@@ -218,6 +266,10 @@ msgstr "Châu Mỹ/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Châu Mỹ/Cambridge_Bay"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "Châu Mỹ/Cayman"
+
 msgid "America/Cancun"
 msgstr "Châu Mỹ/Cancun"
 
@@ -238,6 +290,10 @@ msgstr "Châu Mỹ/Chicago"
 
 msgid "America/Chihuahua"
 msgstr "Châu Mỹ/Chihuahua"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "Châu Mỹ/Curacao"
 
 msgid "America/Cordoba"
 msgstr "Châu Mỹ/Cordoba"
@@ -524,6 +580,10 @@ msgstr "Châu Mỹ/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Châu Mỹ/Tijuana"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "Châu Mỹ/Tortola"
+
 msgid "America/Tortola"
 msgstr "Châu Mỹ/Tortola"
 
@@ -562,6 +622,10 @@ msgstr ""
 
 msgid "Antarctica/Palmer"
 msgstr ""
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Đại Tây Dương/South_Georgia"
 
 msgid "Antarctica/South_Pole"
 msgstr ""
@@ -884,6 +948,10 @@ msgstr "Châu Úc/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Châu Úc/Canberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "Châu Úc/Canberra"
+
 msgid "Australia/Darwin"
 msgstr "Châu Úc/Darwin"
 
@@ -1177,6 +1245,10 @@ msgstr "Châu Âu/Madrid"
 
 msgid "Europe/Malta"
 msgstr "Châu Âu/Malta"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "Châu Âu/Madrid"
 
 msgid "Europe/Minsk"
 msgstr "Châu Âu/Minsk"

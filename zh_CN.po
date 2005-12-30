@@ -186,6 +186,50 @@ msgstr "美洲/安提瓜岛"
 msgid "America/Araguaina"
 msgstr "美洲/阿拉瓜伊纳"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "美洲/布宜诺斯艾利斯"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "美洲/卡塔马卡"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "美洲/印第安那/印第安纳波利斯"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "美洲/科尔多瓦"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "美洲/胡胡伊"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "美洲/阿拉瓜伊纳"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "美洲/门多萨"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "美洲/印第安那/马伦哥"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "美洲/安提瓜岛"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "美洲/安提瓜岛"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "美洲/阿拉瓜伊纳"
+
 msgid "America/Aruba"
 msgstr "美洲/阿鲁巴"
 
@@ -194,6 +238,10 @@ msgstr "美洲/亚松森"
 
 msgid "America/Atka"
 msgstr "美洲/阿提卡"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "美洲/泊亚维斯特"
 
 msgid "America/Barbados"
 msgstr "美洲/巴巴多斯"
@@ -219,6 +267,10 @@ msgstr "美洲/布宜诺斯艾利斯"
 msgid "America/Cambridge_Bay"
 msgstr "美洲/剑桥湾"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "美洲/开曼"
+
 msgid "America/Cancun"
 msgstr "美洲/坎昆"
 
@@ -239,6 +291,10 @@ msgstr "美洲/芝加哥"
 
 msgid "America/Chihuahua"
 msgstr "美洲/奇瓦瓦"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "美洲/库拉索"
 
 msgid "America/Cordoba"
 msgstr "美洲/科尔多瓦"
@@ -525,6 +581,10 @@ msgstr "美洲/桑德贝"
 msgid "America/Tijuana"
 msgstr "美洲/蒂华纳"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "美洲/托投拉"
+
 msgid "America/Tortola"
 msgstr "美洲/托投拉"
 
@@ -563,6 +623,10 @@ msgstr "南极洲/麦克默多站"
 
 msgid "Antarctica/Palmer"
 msgstr "南极洲/帕玛"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "南极洲/南极"
 
 msgid "Antarctica/South_Pole"
 msgstr "南极洲/南极"
@@ -885,6 +949,10 @@ msgstr "澳大利亚/断山"
 msgid "Australia/Canberra"
 msgstr "澳大利亚/堪培拉"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "澳大利亚/堪培拉"
+
 msgid "Australia/Darwin"
 msgstr "澳大利亚/达尔文"
 
@@ -1178,6 +1246,10 @@ msgstr "欧洲/马德里"
 
 msgid "Europe/Malta"
 msgstr "欧洲/马尔他"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "欧洲/马德里"
 
 msgid "Europe/Minsk"
 msgstr "欧洲/明斯克"

@@ -7,6 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
 "PO-Revision-Date: 2004-07-23 01:24+0200\n"
 "Last-Translator: Tomislav <tome@users.ossm.org.mk>\n"
@@ -14,7 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Report-Msgid-Bugs-To: \n"
 
 msgid "Africa/Abidjan"
 msgstr "Африка/Abidjan"
@@ -187,6 +187,50 @@ msgstr "Америка/Antigua"
 msgid "America/Araguaina"
 msgstr "Америка/Araguaina"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "Америка/Buenos_Aires"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "Америка/Catamarca"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "Америка/Indiana/Indianapolis"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "Америка/Cordoba"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "Америка/Jujuy"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "Америка/Araguaina"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "Америка/Mendoza"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "Америка/Indiana/Marengo"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "Америка/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "Америка/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "Америка/Araguaina"
+
 msgid "America/Aruba"
 msgstr "Америка/Aruba"
 
@@ -195,6 +239,10 @@ msgstr "Америка/Asuncion"
 
 msgid "America/Atka"
 msgstr "Америка/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "Америка/Boa_Vista"
 
 msgid "America/Barbados"
 msgstr "Америка/Barbados"
@@ -220,6 +268,10 @@ msgstr "Америка/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Америка/Cambridge_Bay"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "Америка/Cayman"
+
 msgid "America/Cancun"
 msgstr "Америка/Cancun"
 
@@ -240,6 +292,10 @@ msgstr "Америка/Chicago"
 
 msgid "America/Chihuahua"
 msgstr "Америка/Chihuahua"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "Америка/Curacao"
 
 msgid "America/Cordoba"
 msgstr "Америка/Cordoba"
@@ -526,6 +582,10 @@ msgstr "Америка/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Америка/Tijuana"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "Америка/Tortola"
+
 msgid "America/Tortola"
 msgstr "Америка/Tortola"
 
@@ -564,6 +624,10 @@ msgstr "Антарктик/McMurdo"
 
 msgid "Antarctica/Palmer"
 msgstr "Антарктик/Palmer"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Антарктик/South_Pole"
 
 msgid "Antarctica/South_Pole"
 msgstr "Антарктик/South_Pole"
@@ -886,6 +950,10 @@ msgstr "Австралија/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Австралија/Canberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "Австралија/Canberra"
+
 msgid "Australia/Darwin"
 msgstr "Австралија/Darwin"
 
@@ -1179,6 +1247,10 @@ msgstr "Европа/Madrid"
 
 msgid "Europe/Malta"
 msgstr "Европа/Malta"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "Европа/Madrid"
 
 msgid "Europe/Minsk"
 msgstr "Европа/Minsk"

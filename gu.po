@@ -188,6 +188,50 @@ msgstr "અમેરિકા/એન્ટીગ્વા"
 msgid "America/Araguaina"
 msgstr "અમેરિકા/આરાગ્યુઆઈના"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "અમેરિકા/બ્યુએનોસ એર્સ"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "અમેરિકા/કાટામાર્કા"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "અમેરિકા/ઈન્ડિયાના/ઈન્ડિયાનાપોલિસ"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "અમેરિકા/કોર્ડોબા"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "અમેરિકા/જ્યુજય"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "અમેરિકા/આરાગ્યુઆઈના"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "અમેરિકા/મેન્ડોઝા"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "અમેરિકા/ઈન્ડિયાના/મારેંગો"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "અમેરિકા/એન્ટીગ્વા"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "અમેરિકા/એન્ટીગ્વા"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "અમેરિકા/આરાગ્યુઆઈના"
+
 msgid "America/Aruba"
 msgstr "અમેરિકા/એરુબા"
 
@@ -196,6 +240,10 @@ msgstr "અમેરિકા/અસુન્સીઓન"
 
 msgid "America/Atka"
 msgstr "અમેરિકા/અટ્કા"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "અમેરિકા/બોઆવિત્સા"
 
 msgid "America/Barbados"
 msgstr "અમેરિકા/બાર્બાડોસ"
@@ -221,6 +269,10 @@ msgstr "અમેરિકા/બ્યુએનોસ એર્સ"
 msgid "America/Cambridge_Bay"
 msgstr "અમેરિકા/કેમ્બ્રિજ બે"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "અમેરિકા/કેયમેન"
+
 msgid "America/Cancun"
 msgstr "અમેરિકા/કેનકન"
 
@@ -241,6 +293,10 @@ msgstr "અમેરિકા/શિકાગો"
 
 msgid "America/Chihuahua"
 msgstr "અમેરિકા/ચિહુઆહુઆ"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "અમેરિકા/ક્યુરાકાઓ"
 
 msgid "America/Cordoba"
 msgstr "અમેરિકા/કોર્ડોબા"
@@ -527,6 +583,10 @@ msgstr "અમેરિકા/થન્ડર બે"
 msgid "America/Tijuana"
 msgstr "અમેરિકા/ટાઈજુઆના"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "અમેરિકા/ટોર્ટોલા"
+
 msgid "America/Tortola"
 msgstr "અમેરિકા/ટોર્ટોલા"
 
@@ -565,6 +625,10 @@ msgstr "એન્ટાર્કટીકા/મેકમર્ડો"
 
 msgid "Antarctica/Palmer"
 msgstr "એન્ટાર્કટીકા/પાલ્મર"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "એન્ટાર્કટીકા/દક્ષિણ ધ્રુવ"
 
 msgid "Antarctica/South_Pole"
 msgstr "એન્ટાર્કટીકા/દક્ષિણ ધ્રુવ"
@@ -887,6 +951,10 @@ msgstr "ઓસ્ટ્રેલિયા/બ્રોકન હિલ"
 msgid "Australia/Canberra"
 msgstr "ઓસ્ટ્રેલિયા/કેન્બેરા"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "ઓસ્ટ્રેલિયા/કેન્બેરા"
+
 msgid "Australia/Darwin"
 msgstr "ઓસ્ટ્રેલિયા/ડાર્વિન"
 
@@ -1180,6 +1248,10 @@ msgstr "યુરોપ/માડ્રિડ"
 
 msgid "Europe/Malta"
 msgstr "યુરોપ/માલ્ટા"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "યુરોપ/માડ્રિડ"
 
 msgid "Europe/Minsk"
 msgstr "યુરોપ/મિન્સ્ક"

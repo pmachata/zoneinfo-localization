@@ -190,6 +190,50 @@ msgstr "América/Antígua"
 msgid "America/Araguaina"
 msgstr "América/Araguaina"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "América/Buenos Aires"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "América/Catamarca"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "América/Indiana/Indianápolis"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "América/Córdoba"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "América/Jujuy"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "América/Araguaina"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "América/Mendoza"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "América/Indiana/Marengo"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "América/Antígua"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "América/Antígua"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "América/Araguaina"
+
 msgid "America/Aruba"
 msgstr "América/Aruba"
 
@@ -198,6 +242,10 @@ msgstr "América/Assunção"
 
 msgid "America/Atka"
 msgstr "América/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "América/Boa Vista"
 
 msgid "America/Barbados"
 msgstr "América/Barbados"
@@ -223,6 +271,10 @@ msgstr "América/Buenos Aires"
 msgid "America/Cambridge_Bay"
 msgstr "América/Gambridge Bay"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "América/Caimãs"
+
 msgid "America/Cancun"
 msgstr "América/Cancun"
 
@@ -243,6 +295,10 @@ msgstr "América/Chicago"
 
 msgid "America/Chihuahua"
 msgstr "América/Chihuahua"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "América/Curaçao"
 
 msgid "America/Cordoba"
 msgstr "América/Córdoba"
@@ -529,6 +585,10 @@ msgstr "América/Thunder Bay"
 msgid "America/Tijuana"
 msgstr "América/Tijuana"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "América/Tortola"
+
 msgid "America/Tortola"
 msgstr "América/Tortola"
 
@@ -567,6 +627,10 @@ msgstr "Antártica/McMurdo"
 
 msgid "Antarctica/Palmer"
 msgstr "Antártica/Palmer"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Antártica/Polo Sul"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antártica/Polo Sul"
@@ -889,6 +953,10 @@ msgstr "Austrália/Broken Hill"
 msgid "Australia/Canberra"
 msgstr "Austrália/Camberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "Austrália/Camberra"
+
 msgid "Australia/Darwin"
 msgstr "Austrália/Darwin"
 
@@ -1182,6 +1250,10 @@ msgstr "Europa/Madri"
 
 msgid "Europe/Malta"
 msgstr "Europa/Malta"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "Europa/Madri"
 
 msgid "Europe/Minsk"
 msgstr "Europa/Minsk"

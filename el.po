@@ -186,6 +186,50 @@ msgstr "Αμερική/Αντίγκουα"
 msgid "America/Araguaina"
 msgstr "Αμερική/Araguaina"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "Αμερική/Buenos_Aires"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "Αμερική/Catamarca"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "Αμερική/Indiana/Indianapolis"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "Αμερική/Cordoba"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "Αμερική/Jujuy"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "Αμερική/Araguaina"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "Αμερική/Mendoza"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "Αμερική/Indiana/Marengo"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "Αμερική/Αντίγκουα"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "Αμερική/Αντίγκουα"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "Αμερική/Araguaina"
+
 msgid "America/Aruba"
 msgstr "Αμερική/Aruba"
 
@@ -194,6 +238,10 @@ msgstr "Αμερική/Asuncion"
 
 msgid "America/Atka"
 msgstr "Αμερική/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "Αμερική/Boa_Vista"
 
 msgid "America/Barbados"
 msgstr "Αμερική/Μπαρμπάντος"
@@ -219,6 +267,10 @@ msgstr "Αμερική/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Αμερική/Cambridge_Bay"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "Αμερική/Cayman"
+
 msgid "America/Cancun"
 msgstr "Αμερική/Cancun"
 
@@ -239,6 +291,10 @@ msgstr "Αμερική/Chicago"
 
 msgid "America/Chihuahua"
 msgstr "Αμερική/Chihuahua"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "Αμερική/Curacao"
 
 msgid "America/Cordoba"
 msgstr "Αμερική/Cordoba"
@@ -525,6 +581,10 @@ msgstr "Αμερική/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Αμερική/Tijuana"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "Αμερική/Tortola"
+
 msgid "America/Tortola"
 msgstr "Αμερική/Tortola"
 
@@ -563,6 +623,10 @@ msgstr "Ανταρκτική/McMurdo"
 
 msgid "Antarctica/Palmer"
 msgstr "Ανταρκτική/Palmer"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Ανταρκτική/South_Pole"
 
 msgid "Antarctica/South_Pole"
 msgstr "Ανταρκτική/South_Pole"
@@ -885,6 +949,10 @@ msgstr "Αυστραλία/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Αυστραλία/Canberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "Αυστραλία/Canberra"
+
 msgid "Australia/Darwin"
 msgstr "Αυστραλία/Darwin"
 
@@ -1178,6 +1246,10 @@ msgstr "Ευρώπη/Μαδρίτη"
 
 msgid "Europe/Malta"
 msgstr "Ευρώπη/Μάλτα"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "Ευρώπη/Μαδρίτη"
 
 msgid "Europe/Minsk"
 msgstr "Ευρώπη/Μίνσκ"

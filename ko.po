@@ -183,6 +183,50 @@ msgstr "아메리카/안티구아(Antigua)"
 msgid "America/Araguaina"
 msgstr "아메리카/아라구에이나(Araguaina)"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "아메리카/부에노스_아이레스(Buenos_Aires)"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "아메리카/카타마르카(Catamarca)"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "아메리카/인디애나/인디애나폴리스(Indianapolis)"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "아메리카/코르도바(Cordoba)"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "아메리카/후후이(Jujuy)"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "아메리카/아라구에이나(Araguaina)"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "아메리카/멘도사(Mendoza)"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "아메리카/인디애나/마렝고(Marengo)"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "아메리카/안티구아(Antigua)"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "아메리카/안티구아(Antigua)"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "아메리카/아라구에이나(Araguaina)"
+
 msgid "America/Aruba"
 msgstr "아메리카/아루바(Aruba)"
 
@@ -191,6 +235,10 @@ msgstr "아메리카/아순시온(Asuncion)"
 
 msgid "America/Atka"
 msgstr "아메리카/아트카(Atka)"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "아메리카/보아_비스타(Boa_Vista)"
 
 msgid "America/Barbados"
 msgstr "아메리카/바베이도스(Barbados)"
@@ -216,6 +264,10 @@ msgstr "아메리카/부에노스_아이레스(Buenos_Aires)"
 msgid "America/Cambridge_Bay"
 msgstr "아메리카/캠브리지_베이(Cambridge_Bay)"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "아메리카/카이만(Cayman)"
+
 msgid "America/Cancun"
 msgstr "아메리카/칸쿤(Cancun)"
 
@@ -236,6 +288,10 @@ msgstr "아메리카/시카고(Chicago)"
 
 msgid "America/Chihuahua"
 msgstr "아메리카/치와와(Chihuahua)"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "아메리카/쿠라카오(Curacao)"
 
 msgid "America/Cordoba"
 msgstr "아메리카/코르도바(Cordoba)"
@@ -522,6 +578,10 @@ msgstr "아메리카/썬더_베이(Thunder_Bay)"
 msgid "America/Tijuana"
 msgstr "아메리카/티후아나(Tijuana)"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "아메리카/토르톨라(Tortola)"
+
 msgid "America/Tortola"
 msgstr "아메리카/토르톨라(Tortola)"
 
@@ -560,6 +620,10 @@ msgstr "남극대륙/맥머도(McMurdo)"
 
 msgid "Antarctica/Palmer"
 msgstr "남극대륙/팔머(Palmer)"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "남극대륙/남극(South_Pole)"
 
 msgid "Antarctica/South_Pole"
 msgstr "남극대륙/남극(South_Pole)"
@@ -882,6 +946,10 @@ msgstr "오스트레일리아/브로큰_힐(Broken_Hill)"
 msgid "Australia/Canberra"
 msgstr "오스트레일리아/캔버라(Canberra)"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "오스트레일리아/캔버라(Canberra)"
+
 msgid "Australia/Darwin"
 msgstr "오스트레일리아/다윈(Darwin)"
 
@@ -1175,6 +1243,10 @@ msgstr "유럽/마드리드(Madrid)"
 
 msgid "Europe/Malta"
 msgstr "유럽/몰타(Malta)"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "유럽/마드리드(Madrid)"
 
 msgid "Europe/Minsk"
 msgstr "유럽/민스크(Minsk)"
