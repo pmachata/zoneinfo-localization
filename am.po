@@ -187,6 +187,50 @@ msgstr "አሜሪካ/አንቲጉዋ"
 msgid "America/Araguaina"
 msgstr "አሜሪካ/አራጉአኢና"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "አሜሪካ/ቡኤኖስ_ኤይሪስ"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "አሜሪካ/ካታማርካ"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "አሜሪካ/አሜሪካ"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "አሜሪካ/ኮርዶባ"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "አሜሪካ/ጁጁይ"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "አሜሪካ/አራጉአኢና"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "አሜሪካ/ሜንዶዛ"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "አሜሪካ/አሜሪካ/ማሬንጎ"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "አሜሪካ/አንቲጉዋ"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "አሜሪካ/አንቲጉዋ"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "አሜሪካ/አራጉአኢና"
+
 msgid "America/Aruba"
 msgstr "አሜሪካ/አሩባ"
 
@@ -195,6 +239,10 @@ msgstr "አሜሪካ/አሱንኮን"
 
 msgid "America/Atka"
 msgstr "America/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "አሜሪካ/ቦአ-ቪስታ"
 
 msgid "America/Barbados"
 msgstr "አሜሪካ/ባርቤዶስ"
@@ -220,6 +268,10 @@ msgstr "አሜሪካ/ቡኤኖስ_ኤይሪስ"
 msgid "America/Cambridge_Bay"
 msgstr "አሜሪካ/ካምብሪጅ_ቤይ"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "አሜሪካ/ኬይማን"
+
 msgid "America/Cancun"
 msgstr "አሜሪካ/ካንኩን"
 
@@ -240,6 +292,10 @@ msgstr "አሜሪካ/ቺካጐ"
 
 msgid "America/Chihuahua"
 msgstr "አሜሪካ/ቺኽዋኽዋ"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "አሜሪካ/ኩራካኦ"
 
 msgid "America/Cordoba"
 msgstr "አሜሪካ/ኮርዶባ"
@@ -526,6 +582,10 @@ msgstr "አሜሪካ/ተንደር ቤይ"
 msgid "America/Tijuana"
 msgstr "አሜሪካ/ቲጁአና"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "አሜሪካ/ቶርቶላ"
+
 msgid "America/Tortola"
 msgstr "አሜሪካ/ቶርቶላ"
 
@@ -564,6 +624,10 @@ msgstr "አንታርክቲካ/ማክሙርዶ"
 
 msgid "Antarctica/Palmer"
 msgstr "አንታርክቲካ/ፓልመር"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Antarctica/South_Pole"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antarctica/South_Pole"
@@ -886,6 +950,10 @@ msgstr "አውስትሬሊያ/ብሮከን ሂል"
 msgid "Australia/Canberra"
 msgstr "አውስትሬሊያ/Canberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "አውስትሬሊያ/Canberra"
+
 msgid "Australia/Darwin"
 msgstr "አውስትሬሊያ/ዳርዊን"
 
@@ -1179,6 +1247,10 @@ msgstr "አውሮፓ/ማርድሪድ"
 
 msgid "Europe/Malta"
 msgstr "አውሮፓ/ማልታ"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "አውሮፓ/ማርድሪድ"
 
 msgid "Europe/Minsk"
 msgstr "አውሮፓ/ሚንስክ"
@@ -1620,4 +1692,3 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
-

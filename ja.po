@@ -187,6 +187,50 @@ msgstr "アメリカ/アンティグア"
 msgid "America/Araguaina"
 msgstr "アメリカ/アラグアイア"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "アメリカ/ブエノスアイレス"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "アメリカ/カタマルカ"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "アメリカ/インディアナ/インディアナポリス"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "アメリカ/コルドバ"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "アメリカ/ジュジュ"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "アメリカ/アラグアイア"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "アメリカ/メンドサ"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "アメリカ/インディアナ/マレンゴ"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "アメリカ/アンティグア"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "アメリカ/アンティグア"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "アメリカ/アラグアイア"
+
 msgid "America/Aruba"
 msgstr "アメリカ/アルーバ"
 
@@ -195,6 +239,10 @@ msgstr "アメリカ/アスンシオン"
 
 msgid "America/Atka"
 msgstr "アメリカ/アトカ"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "アメリカ/ボアヴィスタ"
 
 msgid "America/Barbados"
 msgstr "アメリカ/バルバトス"
@@ -220,6 +268,10 @@ msgstr "アメリカ/ブエノスアイレス"
 msgid "America/Cambridge_Bay"
 msgstr "アメリカ/ケンブリッジベイ"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "アメリカ/ケイマン"
+
 msgid "America/Cancun"
 msgstr "アメリカ/カンカン"
 
@@ -240,6 +292,10 @@ msgstr "アメリカ/シカゴ"
 
 msgid "America/Chihuahua"
 msgstr "アメリカ/チワワ"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "アメリカ/キュラソー"
 
 msgid "America/Cordoba"
 msgstr "アメリカ/コルドバ"
@@ -526,6 +582,10 @@ msgstr "アメリカ/サンダーベイ"
 msgid "America/Tijuana"
 msgstr "アメリカ/ティファナ"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "アメリカ/トルトラ"
+
 msgid "America/Tortola"
 msgstr "アメリカ/トルトラ"
 
@@ -564,6 +624,10 @@ msgstr "南極大陸/マックマード"
 
 msgid "Antarctica/Palmer"
 msgstr "南極大陸/パルメラ"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "南極大陸/サウスポール"
 
 msgid "Antarctica/South_Pole"
 msgstr "南極大陸/サウスポール"
@@ -886,6 +950,10 @@ msgstr "オーストラリア/ブロークンヒル"
 msgid "Australia/Canberra"
 msgstr "オーストラリア/キャンベラ"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "オーストラリア/キャンベラ"
+
 msgid "Australia/Darwin"
 msgstr "オーストラリア/ダーウィン"
 
@@ -1179,6 +1247,10 @@ msgstr "ヨーロッパ/マドリッド"
 
 msgid "Europe/Malta"
 msgstr "ヨーロッパ/マルタ"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "ヨーロッパ/マドリッド"
 
 msgid "Europe/Minsk"
 msgstr "ヨーロッパ/ミンスク"

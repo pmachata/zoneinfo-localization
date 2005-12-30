@@ -1,7 +1,7 @@
 # SLOVENIAN TRANSLATION OF TIMEZONES.
 # Copyright (C) 2003 THE PACKAGE'S COPYRIGHT HOLDER
 # Roman Maurer <roman@lugos.si>, 2001.
-# $Id: sl.po,v 1.4 2004/03/22 19:37:42 bfox Exp $
+# $Id: sl.po,v 1.5 2005/12/30 17:35:07 nphilipp Exp $
 # $Source: /home/fedora/mmcgrath/elvis/cvs/redhat-config-date/po/timezones/sl.po,v $
 #
 msgid ""
@@ -186,6 +186,50 @@ msgstr "Amerika/Antigua"
 msgid "America/Araguaina"
 msgstr "Amerika/Araguaina"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "Amerika/Buenos_Aires"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "Amerika/Catamarca"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "Amerika/Indiana/Indianapolis"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "Amerika/Cordoba"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "Amerika/Jujuy"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "Amerika/Araguaina"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "Amerika/Mendoza"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "Amerika/Indiana/Marengo"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "Amerika/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "Amerika/Antigua"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "Amerika/Araguaina"
+
 msgid "America/Aruba"
 msgstr "Amerika/Aruba"
 
@@ -194,6 +238,10 @@ msgstr "Amerika/Asuncion"
 
 msgid "America/Atka"
 msgstr "Amerika/Atka"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "Amerika/Boa_Vista"
 
 msgid "America/Barbados"
 msgstr "Amerika/Barbados"
@@ -219,6 +267,10 @@ msgstr "Amerika/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Amerika/Cambridge_Bay"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "Amerika/Cayman"
+
 msgid "America/Cancun"
 msgstr "Amerika/Cancun"
 
@@ -239,6 +291,10 @@ msgstr "Amerika/Chicago"
 
 msgid "America/Chihuahua"
 msgstr "Amerika/Chihuahua"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "Amerika/Curacao"
 
 msgid "America/Cordoba"
 msgstr "Amerika/Cordoba"
@@ -525,6 +581,10 @@ msgstr "Amerika/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Amerika/Tijuana"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "Amerika/Tortola"
+
 msgid "America/Tortola"
 msgstr "Amerika/Tortola"
 
@@ -563,6 +623,10 @@ msgstr "Antarktika/McMurdo"
 
 msgid "Antarctica/Palmer"
 msgstr "Antarktika/Palmer"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "Antarktika/Južni_pol"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antarktika/Južni_pol"
@@ -885,6 +949,10 @@ msgstr "Avstralija/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Avstralija/Canberra"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "Avstralija/Canberra"
+
 msgid "Australia/Darwin"
 msgstr "Avstralija/Darwin"
 
@@ -1178,6 +1246,10 @@ msgstr "Evropa/Madrid"
 
 msgid "Europe/Malta"
 msgstr "Evropa/Malta"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "Evropa/Madrid"
 
 msgid "Europe/Minsk"
 msgstr "Evropa/Minsk"

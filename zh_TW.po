@@ -186,6 +186,50 @@ msgstr "美洲/安地卡"
 msgid "America/Araguaina"
 msgstr "美洲/阿拉加依那"
 
+#, fuzzy
+msgid "America/Argentina/Buenos_Aires"
+msgstr "美洲/布宜諾斯艾利斯"
+
+#, fuzzy
+msgid "America/Argentina/Catamarca"
+msgstr "美洲/卡達馬魯卡"
+
+#, fuzzy
+msgid "America/Argentina/ComodRivadavia"
+msgstr "美洲/印第安那州/印第安那"
+
+#, fuzzy
+msgid "America/Argentina/Cordoba"
+msgstr "美洲/哥多巴"
+
+#, fuzzy
+msgid "America/Argentina/Jujuy"
+msgstr "美洲/胡胡伊"
+
+#, fuzzy
+msgid "America/Argentina/La_Rioja"
+msgstr "美洲/阿拉加依那"
+
+#, fuzzy
+msgid "America/Argentina/Mendoza"
+msgstr "美洲/門多薩"
+
+#, fuzzy
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "美洲/印第安那州/馬蘭哥"
+
+#, fuzzy
+msgid "America/Argentina/San_Juan"
+msgstr "美洲/安地卡"
+
+#, fuzzy
+msgid "America/Argentina/Tucuman"
+msgstr "美洲/安地卡"
+
+#, fuzzy
+msgid "America/Argentina/Ushuaia"
+msgstr "美洲/阿拉加依那"
+
 msgid "America/Aruba"
 msgstr "美洲/阿魯巴"
 
@@ -194,6 +238,10 @@ msgstr "美洲/亞松森"
 
 msgid "America/Atka"
 msgstr "美洲/阿提卡"
+
+#, fuzzy
+msgid "America/Bahia"
+msgstr "美洲/伯爾維斯特"
 
 msgid "America/Barbados"
 msgstr "美洲/巴巴多斯"
@@ -219,6 +267,10 @@ msgstr "美洲/布宜諾斯艾利斯"
 msgid "America/Cambridge_Bay"
 msgstr "美洲/劍橋灣"
 
+#, fuzzy
+msgid "America/Campo_Grande"
+msgstr "美洲/開曼"
+
 msgid "America/Cancun"
 msgstr "美洲/坎肯"
 
@@ -239,6 +291,10 @@ msgstr "美洲/芝加哥"
 
 msgid "America/Chihuahua"
 msgstr "美洲/奇瓦瓦"
+
+#, fuzzy
+msgid "America/Coral_Harbour"
+msgstr "美洲/庫拉卡"
 
 msgid "America/Cordoba"
 msgstr "美洲/哥多巴"
@@ -525,6 +581,10 @@ msgstr "美洲/桑德灣"
 msgid "America/Tijuana"
 msgstr "美洲/提娃娜"
 
+#, fuzzy
+msgid "America/Toronto"
+msgstr "美洲/托爾托拉島"
+
 msgid "America/Tortola"
 msgstr "美洲/托爾托拉島"
 
@@ -563,6 +623,10 @@ msgstr "南極洲/麥克默多"
 
 msgid "Antarctica/Palmer"
 msgstr "南極洲/帕瑪"
+
+#, fuzzy
+msgid "Antarctica/Rothera"
+msgstr "南極洲/南極點"
 
 msgid "Antarctica/South_Pole"
 msgstr "南極洲/南極點"
@@ -885,6 +949,10 @@ msgstr "澳洲/斷山"
 msgid "Australia/Canberra"
 msgstr "澳洲/坎培拉"
 
+#, fuzzy
+msgid "Australia/Currie"
+msgstr "澳洲/坎培拉"
+
 msgid "Australia/Darwin"
 msgstr "澳洲/達爾文"
 
@@ -1178,6 +1246,10 @@ msgstr "歐洲/馬德里"
 
 msgid "Europe/Malta"
 msgstr "歐洲/馬爾他"
+
+#, fuzzy
+msgid "Europe/Mariehamn"
+msgstr "歐洲/馬德里"
 
 msgid "Europe/Minsk"
 msgstr "歐洲/明斯克"
