@@ -1,20 +1,21 @@
+# translation of gu.po to Gujarati
 # translation of timezones.po to Gujarati
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-# Ankit Patel <ankit@redhat.com>, 2004.
+# Ankit Patel <ankit@redhat.com>, 2004, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: gu\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-08-23 18:46+0530\n"
+"PO-Revision-Date: 2006-01-02 14:46+0530\n"
 "Last-Translator: Ankit Patel <ankit@redhat.com>\n"
-"Language-Team: Gujarati\n"
+"Language-Team: Gujarati <fedora-trans-gu@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.3.1\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 "\n"
 
 msgid "Africa/Abidjan"
@@ -188,49 +189,38 @@ msgstr "અમેરિકા/એન્ટીગ્વા"
 msgid "America/Araguaina"
 msgstr "અમેરિકા/આરાગ્યુઆઈના"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "અમેરિકા/બ્યુએનોસ એર્સ"
+msgstr "અમેરિકા/આર્જેન્ટિના/બ્યુએનોસ એર્સ"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "અમેરિકા/કાટામાર્કા"
+msgstr "અમેરિકા/આર્જેન્ટિના/કાટામાર્કા"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "અમેરિકા/ઈન્ડિયાના/ઈન્ડિયાનાપોલિસ"
+msgstr "અમેરિકા/આર્જેન્ટિના/કોમોડરીવાડાવીયા"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "અમેરિકા/કોર્ડોબા"
+msgstr "અમેરિકા/આર્જેન્ટિના/કોર્ડોબા"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "અમેરિકા/જ્યુજય"
+msgstr "અમેરિકા/આર્જેન્ટિના/જ્યુજય"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "અમેરિકા/આરાગ્યુઆઈના"
+msgstr "અમેરિકા/આર્જેન્ટિના/લા રીયોજા"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "અમેરિકા/મેન્ડોઝા"
+msgstr "અમેરિકા/આર્જેન્ટિના/મેન્ડોઝા"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "અમેરિકા/ઈન્ડિયાના/મારેંગો"
+msgstr "અમેરિકા/આર્જેન્ટિના/રાયો ગાલેગોસ"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "અમેરિકા/એન્ટીગ્વા"
+msgstr "અમેરિકા/આર્જેન્ટિના/સાન જ્યુઆન"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "અમેરિકા/એન્ટીગ્વા"
+msgstr "અમેરિકા/આર્જેન્ટિના/તુકુમન"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "અમેરિકા/આરાગ્યુઆઈના"
+msgstr "અમેરિકા/આર્જેન્ટિના/યુશુઆઈયા"
 
 msgid "America/Aruba"
 msgstr "અમેરિકા/એરુબા"
@@ -241,9 +231,8 @@ msgstr "અમેરિકા/અસુન્સીઓન"
 msgid "America/Atka"
 msgstr "અમેરિકા/અટ્કા"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "અમેરિકા/બોઆવિત્સા"
+msgstr "અમેરિકા/બાહિયા"
 
 msgid "America/Barbados"
 msgstr "અમેરિકા/બાર્બાડોસ"
@@ -269,9 +258,8 @@ msgstr "અમેરિકા/બ્યુએનોસ એર્સ"
 msgid "America/Cambridge_Bay"
 msgstr "અમેરિકા/કેમ્બ્રિજ બે"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "અમેરિકા/કેયમેન"
+msgstr "અમેરિકા/કામ્પો ગ્રાન્ડે"
 
 msgid "America/Cancun"
 msgstr "અમેરિકા/કેનકન"
@@ -294,9 +282,8 @@ msgstr "અમેરિકા/શિકાગો"
 msgid "America/Chihuahua"
 msgstr "અમેરિકા/ચિહુઆહુઆ"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "અમેરિકા/ક્યુરાકાઓ"
+msgstr "અમેરિકા/કોરાલ ટાપુ"
 
 msgid "America/Cordoba"
 msgstr "અમેરિકા/કોર્ડોબા"
@@ -583,9 +570,8 @@ msgstr "અમેરિકા/થન્ડર બે"
 msgid "America/Tijuana"
 msgstr "અમેરિકા/ટાઈજુઆના"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "અમેરિકા/ટોર્ટોલા"
+msgstr "અમેરિકા/ટોરંટો"
 
 msgid "America/Tortola"
 msgstr "અમેરિકા/ટોર્ટોલા"
@@ -626,9 +612,8 @@ msgstr "એન્ટાર્કટીકા/મેકમર્ડો"
 msgid "Antarctica/Palmer"
 msgstr "એન્ટાર્કટીકા/પાલ્મર"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "એન્ટાર્કટીકા/દક્ષિણ ધ્રુવ"
+msgstr "એન્ટાર્કટીકા/રોથેરા"
 
 msgid "Antarctica/South_Pole"
 msgstr "એન્ટાર્કટીકા/દક્ષિણ ધ્રુવ"
@@ -951,9 +936,8 @@ msgstr "ઓસ્ટ્રેલિયા/બ્રોકન હિલ"
 msgid "Australia/Canberra"
 msgstr "ઓસ્ટ્રેલિયા/કેન્બેરા"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "ઓસ્ટ્રેલિયા/કેન્બેરા"
+msgstr "ઓસ્ટ્રેલિયા/કરી"
 
 msgid "Australia/Darwin"
 msgstr "ઓસ્ટ્રેલિયા/ડાર્વિન"
@@ -1249,9 +1233,8 @@ msgstr "યુરોપ/માડ્રિડ"
 msgid "Europe/Malta"
 msgstr "યુરોપ/માલ્ટા"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "યુરોપ/માડ્રિડ"
+msgstr "યુરોપ/મેરીહામ્ન"
 
 msgid "Europe/Minsk"
 msgstr "યુરોપ/મિન્સ્ક"
@@ -1693,3 +1676,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
