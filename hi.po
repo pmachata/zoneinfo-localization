@@ -1,19 +1,20 @@
 # translation of hi.po to Hindi
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-# Rajesh Ranjan <rranjan@redhat.com>, 2005.
+# Rajesh Ranjan <rranjan@redhat.com>, 2005, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: hi\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2005-03-24 14:32+0530\n"
+"PO-Revision-Date: 2006-01-02 15:08+0530\n"
 "Last-Translator: Rajesh Ranjan <rranjan@redhat.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 
 msgid "Africa/Abidjan"
 msgstr "अफ्रीका/अबीड्जन"
@@ -186,49 +187,38 @@ msgstr "अमेरिका/एंटीगुआ"
 msgid "America/Araguaina"
 msgstr "अमेरिका/अराग्वेना"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "अमेरिका/ब्युनसआयर्स"
+msgstr "अमेरिका/अर्जेंटीना/ब्युनसआयर्स"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "अमेरिका/कैटामारका"
+msgstr "अमेरिका/अर्जेंटीना/कैटामारका"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "अमेरिका/इंडियाना/इंडियानापोलिस"
+msgstr "अमेरिका/अर्जेंटीना/कोमोडरिवाडाविया"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "अमेरिका/कारडोबा"
+msgstr "अमेरिका/अर्जेंटीना/कारडोबा"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "अमेरिका/जुजै"
+msgstr "अमेरिका/अर्जेंटीना/जुजै"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "अमेरिका/अराग्वेना"
+msgstr "अमेरिका/अर्जेंटीना/लारियोजा"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "अमेरिका/मेनडोजा"
+msgstr "अमेरिका/अर्जेंटीना/मेनडोजा"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "अमेरिका/इंडियाना/मेरेंगो"
+msgstr "अमेरिका/अर्जेंटीना/रियो गैलियस"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "अमेरिका/एंटीगुआ"
+msgstr "अमेरिका/अर्जेंटीना/सान जुआन"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "अमेरिका/एंटीगुआ"
+msgstr "अमेरिका/अर्जेंटीना/टकमैन"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "अमेरिका/अराग्वेना"
+msgstr "अमेरिका/अर्जेंटीना/उशुआहिया"
 
 msgid "America/Aruba"
 msgstr "अमेरिका/अरुबा"
@@ -239,9 +229,8 @@ msgstr "अमेरिका/असनशियन"
 msgid "America/Atka"
 msgstr "अमेरिका/अटका"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "अमेरिका/बोआ_विस्ता"
+msgstr "अमेरिका/विस्ता"
 
 msgid "America/Barbados"
 msgstr "अमेरिका/बारबाडोस"
@@ -267,9 +256,8 @@ msgstr "अमेरिका/ब्युनसआयर्स"
 msgid "America/Cambridge_Bay"
 msgstr "अमेरिका/कैम्बरीज़_बे"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "अमेरिका/कैमेन"
+msgstr "अमेरिका/कंपो ग्रैंड"
 
 msgid "America/Cancun"
 msgstr "अमेरिका/कानकुन"
@@ -292,9 +280,8 @@ msgstr "अमेरिका/शिकागो"
 msgid "America/Chihuahua"
 msgstr "अमेरिका/चिहूआहुआ"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "अमेरिका/कुराकाओ"
+msgstr "अमेरिका/कोरल हार्बर"
 
 msgid "America/Cordoba"
 msgstr "अमेरिका/कारडोबा"
@@ -581,9 +568,8 @@ msgstr "अमेरिका/थंडर_बे"
 msgid "America/Tijuana"
 msgstr "अमेरिका/तीजुना"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "अमेरिका/टोर्टोला"
+msgstr "अमेरिका/टोरोंटो"
 
 msgid "America/Tortola"
 msgstr "अमेरिका/टोर्टोला"
@@ -624,9 +610,8 @@ msgstr "अंर्टाटिका/मेकमुरडो"
 msgid "Antarctica/Palmer"
 msgstr "अंर्टाटिका/पामर "
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "अंर्टाटिका/साउथ_पोल"
+msgstr "अंर्टाटिका/रोथेरिया"
 
 msgid "Antarctica/South_Pole"
 msgstr "अंर्टाटिका/साउथ_पोल"
@@ -949,9 +934,8 @@ msgstr "आस्ट्रेलिया/ब्रोकन_हिल"
 msgid "Australia/Canberra"
 msgstr "आस्ट्रेलिया/केनबेरा"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "आस्ट्रेलिया/केनबेरा"
+msgstr "आस्ट्रेलिया/क्यूरी"
 
 msgid "Australia/Darwin"
 msgstr "आस्ट्रेलिया/डारविन"
@@ -1247,9 +1231,8 @@ msgstr "यूरोप/मेड्रिड"
 msgid "Europe/Malta"
 msgstr "यूरोप/माल्टा"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "यूरोप/मेड्रिड"
+msgstr "यूरोप/मेरीहैम"
 
 msgid "Europe/Minsk"
 msgstr "यूरोप/मिंसक"
@@ -1691,3 +1674,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "ज़ुलू"
+
