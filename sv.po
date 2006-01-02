@@ -1,13 +1,13 @@
 # Swedish messages for timezones.
-# Copyright (C) 2004 Christian Rose <menthos@menthos.com>.
+# Copyright (C) 2004, 2005, 2006 Christian Rose <menthos@menthos.com>.
 #
-# $Id: sv.po,v 1.8 2005/12/30 17:35:07 nphilipp Exp $
+# $Id: sv.po,v 1.9 2006/01/02 22:23:33 menthos Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-18 19:45+0100\n"
+"PO-Revision-Date: 2006-01-02 23:32+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -185,49 +185,56 @@ msgstr "Amerika/Antigua"
 msgid "America/Araguaina"
 msgstr "Amerika/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amerika/Buenos_Aires"
+msgstr "Amerika/Argentina/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Amerika/Catamarca"
+msgstr "Amerika/Argentina/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amerika/Indiana/Indianapolis"
+msgstr "America/Argentina/ComodRivadavia"
 
-#, fuzzy
+msgid "America/ComodRivadavia"
+msgstr "America/ComodRivadavia"
+
 msgid "America/Argentina/Cordoba"
-msgstr "Amerika/Cordoba"
+msgstr "Amerika/Argentina/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Amerika/Jujuy"
+msgstr "Amerika/Argentina/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika/Argentina/La_Rioja"
 
-#, fuzzy
+msgid "America/La_Rioja"
+msgstr "Amerika/La_Rioja"
+
 msgid "America/Argentina/Mendoza"
-msgstr "Amerika/Mendoza"
+msgstr "Amerika/Argentina/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amerika/Indiana/Marengo"
+msgstr "Amerika/Argentina/Rio_Gallegos"
 
-#, fuzzy
+msgid "America/Rio_Gallegos"
+msgstr "Amerika/Rio_Gallegos"
+
 msgid "America/Argentina/San_Juan"
-msgstr "Amerika/Antigua"
+msgstr "Amerika/Argentina/San_Juan"
 
-#, fuzzy
+msgid "America/San_Juan"
+msgstr "Amerika/San_Juan"
+
 msgid "America/Argentina/Tucuman"
-msgstr "Amerika/Antigua"
+msgstr "America/Argentina/Tucuman"
 
-#, fuzzy
+msgid "America/Tucuman"
+msgstr "America/Tucuman"
+
 msgid "America/Argentina/Ushuaia"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika/Argentina/Ushuaia"
+
+msgid "America/Ushuaia"
+msgstr "Amerika/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "Amerika/Aruba"
@@ -238,9 +245,8 @@ msgstr "Amerika/Asunción"
 msgid "America/Atka"
 msgstr "Amerika/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Amerika/Boa_Vísta"
+msgstr "Amerika/Bahia"
 
 msgid "America/Barbados"
 msgstr "Amerika/Barbados"
@@ -266,9 +272,8 @@ msgstr "Amerika/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Amerika/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Amerika/Cayman"
+msgstr "Amerika/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "Amerika/Cancún"
@@ -291,9 +296,8 @@ msgstr "Amerika/Chicago"
 msgid "America/Chihuahua"
 msgstr "Amerika/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Amerika/Curacão"
+msgstr "Amerika/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "Amerika/Cordoba"
@@ -580,9 +584,8 @@ msgstr "Amerika/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Amerika/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Amerika/Tortola"
+msgstr "Amerika/Toronto"
 
 msgid "America/Tortola"
 msgstr "Amerika/Tortola"
@@ -623,9 +626,8 @@ msgstr "Antarktis/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antarktis/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antarktis/Sydpolen"
+msgstr "Antarktis/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antarktis/Sydpolen"
@@ -948,9 +950,8 @@ msgstr "Australien/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Australien/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Australien/Canberra"
+msgstr "Australien/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Australien/Darwin"
@@ -1246,9 +1247,8 @@ msgstr "Europa/Madrid"
 msgid "Europe/Malta"
 msgstr "Europa/Malta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Europa/Madrid"
+msgstr "Europa/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Europa/Minsk"
