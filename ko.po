@@ -1,16 +1,17 @@
 # translation of ko.po to Korean
-# Michelle J Kim <mkim@redhat.com>, 2004
+# Michelle J Kim <mkim@redhat.com>, 2004.
+# Michelle Ji Yeen Kim <mkim@redhat.com>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: ko\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-25 16:54+1000\n"
-"Last-Translator: Michelle J Kim <mkim@redhat.com>\n"
-"Language-Team:  <ko@li.org>\n"
+"PO-Revision-Date: 2006-01-03 11:16+1000\n"
+"Last-Translator: Michelle Ji Yeen Kim <mkim@redhat.com>\n"
+"Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: KBabel 1.9.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "아프리카/아비장(Abidjan)"
@@ -183,49 +184,38 @@ msgstr "아메리카/안티구아(Antigua)"
 msgid "America/Araguaina"
 msgstr "아메리카/아라구에이나(Araguaina)"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "아메리카/부에노스_아이레스(Buenos_Aires)"
+msgstr "아메리카/아르헨티나/부에노스_아이레스(Buenos_Aires)"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "아메리카/카타마르카(Catamarca)"
+msgstr "아메리카/아르헨티나/카타마르카(Catamarca)"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "아메리카/인디애나/인디애나폴리스(Indianapolis)"
+msgstr "아메리카/아르헨티나/코모드리바다비아(ComodRivadavia)"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "아메리카/코르도바(Cordoba)"
+msgstr "아메리카/아르헨티나/코르도바(Cordoba)"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "아메리카/후후이(Jujuy)"
+msgstr "아메리카/아른헨티/후후이(Jujuy)"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "아메리카/아라구에이나(Araguaina)"
+msgstr "아메리카/아르헨티나/리오하(La_Rioja)"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "아메리카/멘도사(Mendoza)"
+msgstr "아메리카/아르헨티나/멘도사(Mendoza)"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "아메리카/인디애나/마렝고(Marengo)"
+msgstr "아메리카/아르헨티나/리오 가예고스(Rio_Gallegos)"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "아메리카/안티구아(Antigua)"
+msgstr "아메리카/아르헨티나/산후안(San_Juan)"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "아메리카/안티구아(Antigua)"
+msgstr "아메리카/아르헨티나/투쿠만(Tucuman)"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "아메리카/아라구에이나(Araguaina)"
+msgstr "아메리카/아르헨티나/우수아이아(Ushaia)"
 
 msgid "America/Aruba"
 msgstr "아메리카/아루바(Aruba)"
@@ -236,9 +226,8 @@ msgstr "아메리카/아순시온(Asuncion)"
 msgid "America/Atka"
 msgstr "아메리카/아트카(Atka)"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "아메리카/보아_비스타(Boa_Vista)"
+msgstr "아메리카/바이아(Bahia)"
 
 msgid "America/Barbados"
 msgstr "아메리카/바베이도스(Barbados)"
@@ -264,9 +253,8 @@ msgstr "아메리카/부에노스_아이레스(Buenos_Aires)"
 msgid "America/Cambridge_Bay"
 msgstr "아메리카/캠브리지_베이(Cambridge_Bay)"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "아메리카/카이만(Cayman)"
+msgstr "아메리카/캄푸그란데(Campo_Grande)"
 
 msgid "America/Cancun"
 msgstr "아메리카/칸쿤(Cancun)"
@@ -289,9 +277,8 @@ msgstr "아메리카/시카고(Chicago)"
 msgid "America/Chihuahua"
 msgstr "아메리카/치와와(Chihuahua)"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "아메리카/쿠라카오(Curacao)"
+msgstr "아메리카/코럴하버(Coral_Harbour)"
 
 msgid "America/Cordoba"
 msgstr "아메리카/코르도바(Cordoba)"
@@ -578,9 +565,8 @@ msgstr "아메리카/썬더_베이(Thunder_Bay)"
 msgid "America/Tijuana"
 msgstr "아메리카/티후아나(Tijuana)"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "아메리카/토르톨라(Tortola)"
+msgstr "아메리카/토론토(Toronto)"
 
 msgid "America/Tortola"
 msgstr "아메리카/토르톨라(Tortola)"
@@ -621,9 +607,8 @@ msgstr "남극대륙/맥머도(McMurdo)"
 msgid "Antarctica/Palmer"
 msgstr "남극대륙/팔머(Palmer)"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "남극대륙/남극(South_Pole)"
+msgstr "남극대륙/로데라(Rothera)"
 
 msgid "Antarctica/South_Pole"
 msgstr "남극대륙/남극(South_Pole)"
@@ -932,23 +917,22 @@ msgid "Atlantic/St_Helena"
 msgstr "대서양/세인트_헬레나(St_Helena)"
 
 msgid "Australia/ACT"
-msgstr "오스트레일리아/ACT"
+msgstr "호주/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "오스트레일리아/애들레이드(Adelaide)"
+msgstr "호주/애들레이드(Adelaide)"
 
 msgid "Australia/Brisbane"
-msgstr "오스트레일리아/브리스베인(Brisbane)"
+msgstr "호주/브리스베인(Brisbane)"
 
 msgid "Australia/Broken_Hill"
-msgstr "오스트레일리아/브로큰_힐(Broken_Hill)"
+msgstr "호주/브로큰_힐(Broken_Hill)"
 
 msgid "Australia/Canberra"
-msgstr "오스트레일리아/캔버라(Canberra)"
+msgstr "호주/캔버라(Canberra)"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "오스트레일리아/캔버라(Canberra)"
+msgstr "호주/커리(Currie)"
 
 msgid "Australia/Darwin"
 msgstr "오스트레일리아/다윈(Darwin)"
@@ -1244,9 +1228,8 @@ msgstr "유럽/마드리드(Madrid)"
 msgid "Europe/Malta"
 msgstr "유럽/몰타(Malta)"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "유럽/마드리드(Madrid)"
+msgstr "유럽/마리함(Mariehamn)"
 
 msgid "Europe/Minsk"
 msgstr "유럽/민스크(Minsk)"
@@ -1688,3 +1671,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "줄루(Zulu)"
+
