@@ -1,19 +1,21 @@
-# translation of es.po to 
-# Copyright (C) 2004 Free Software Foundation, Inc.
+# translation of es.po to Spanish
+# translation of es.po to
+# Copyright (C) 2004, 2006 Free Software Foundation, Inc.
 # Tullio Dovera <tdovera@redhat.it>, 2000.
-# Yelitza Louze <ylouze@redhat.com>, 2004
+# Yelitza Louze <ylouze@redhat.com>, 2004.
+# Manuel Ospina <mospina@redhat.com>, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-19 09:12+1000\n"
-"Last-Translator: Yelitza Louze <ylouze@redhat.com>\n"
-"Language-Team:  <es@li.org>\n"
+"PO-Revision-Date: 2006-01-03 11:28+1000\n"
+"Last-Translator: Manuel Ospina <mospina@redhat.com>\n"
+"Language-Team: Spanish <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: KBabel 1.9.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "África/Abidjan"
@@ -186,49 +188,38 @@ msgstr "América/Antigua"
 msgid "America/Araguaina"
 msgstr "América/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "América/Buenos_Aires"
+msgstr "América/Argentina/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "América/Catamarca"
+msgstr "América/Argentina/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "América/Indiana/Indianápolis"
+msgstr "América/Argentina/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "América/Córdoba"
+msgstr "América/Argentina/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "América/Jujuy"
+msgstr "América/Argentina/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "América/Araguaina"
+msgstr "América/Argentina/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "América/Mendoza"
+msgstr "América/Argentina/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "América/Indiana/Marengo"
+msgstr "América/Argentina/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "América/Antigua"
+msgstr "América/Argentina/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "América/Antigua"
+msgstr "América/Argentina/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "América/Araguaina"
+msgstr "América/Argentina/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "América/Aruba"
@@ -239,9 +230,8 @@ msgstr "América/Asunción"
 msgid "America/Atka"
 msgstr "América/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "América/Boa Vista"
+msgstr "América/Bahia"
 
 msgid "America/Barbados"
 msgstr "América/Barbados"
@@ -267,9 +257,8 @@ msgstr "América/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "América/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "América/Caimán"
+msgstr "América/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "América/Cancún"
@@ -292,9 +281,8 @@ msgstr "América/Chicago"
 msgid "America/Chihuahua"
 msgstr "América/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "América/Curacao"
+msgstr "América/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "América/Córdoba"
@@ -581,9 +569,8 @@ msgstr "América/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "América/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "América/Tortola"
+msgstr "América/Toronto"
 
 msgid "America/Tortola"
 msgstr "América/Tortola"
@@ -624,9 +611,8 @@ msgstr "Antártida/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antártida/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antártida/Polo_sur"
+msgstr "Antárctica/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antártida/Polo_sur"
@@ -949,9 +935,8 @@ msgstr "Australia/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Australia/Camberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Australia/Camberra"
+msgstr "Australia/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Australia/Darwin"
@@ -1247,9 +1232,8 @@ msgstr "Europa/Madrid"
 msgid "Europe/Malta"
 msgstr "Europa/Malta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Europa/Madrid"
+msgstr "Europa/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Europa/Minsk"
@@ -1692,5 +1676,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulú"
 
-#~ msgid "Startup through ARC console"
-#~ msgstr "Inicio a través de la consola ARC"
