@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2005-06-25 20:49-0000\n"
+"PO-Revision-Date: 2006-01-04 22:56-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -193,49 +193,41 @@ msgstr "Америка/Антигва"
 msgid "America/Araguaina"
 msgstr "Америка/Арагвијана"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Америка/Буенос_Ајрес"
+msgstr "Америка/Аргентина/Буенос_Ајрес"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Америка/Катамарка"
+msgstr "Америка/Аргентина/Катамарка"
 
 #, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Америка/Индијана/Индијанаполис"
+msgstr "Америка/Аргентина/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Америка/Кордоба"
+msgstr "Америка/Аргентина/Кордоба"
 
 #, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Америка/Jujuy"
+msgstr "Америка/Аргентина/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Америка/Арагвијана"
+msgstr "Америка/Аргентина/Ла_Риоха"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Америка/Мендоза"
+msgstr "Америка/Аргентина/Мендоза"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Америка/Индијана/Маренго"
+msgstr "Америка/Аргентина/Рио_Гаљегос"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Америка/Антигва"
+msgstr "Америка/Аргентина/Сан_Хуан"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Америка/Антигва"
+msgstr "Америка/Аргентина/Тукуман"
 
 #, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Америка/Арагвијана"
+msgstr "Америка/Аргентина/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "Америка/Аруба"
@@ -246,9 +238,8 @@ msgstr "Америка/Асунсион"
 msgid "America/Atka"
 msgstr "Америка/Атка"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Америка/Боа_Виста"
+msgstr "Америка/Баија"
 
 msgid "America/Barbados"
 msgstr "Америка/Барбадос"
@@ -265,9 +256,8 @@ msgstr "Америка/Боа_Виста"
 msgid "America/Bogota"
 msgstr "Америка/Богота"
 
-#, fuzzy
 msgid "America/Boise"
-msgstr "Америка/Boise"
+msgstr "Америка/Боизе"
 
 msgid "America/Buenos_Aires"
 msgstr "Америка/Буенос_Ајрес"
@@ -275,9 +265,8 @@ msgstr "Америка/Буенос_Ајрес"
 msgid "America/Cambridge_Bay"
 msgstr "Америка/Кембриџ_Беј"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Америка/Кајман"
+msgstr "Америка/Кампо_Гранде"
 
 msgid "America/Cancun"
 msgstr "Америка/Канкун"
@@ -300,9 +289,8 @@ msgstr "Америка/Чикаго"
 msgid "America/Chihuahua"
 msgstr "Америка/Чивава"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Америка/Куракао"
+msgstr "Америка/Корал_Харбор"
 
 msgid "America/Cordoba"
 msgstr "Америка/Кордоба"
@@ -653,9 +641,8 @@ msgstr "Антарктик/МекМурдо"
 msgid "Antarctica/Palmer"
 msgstr "Антарктик/Палмер"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Антарктик/Јужни_пол"
+msgstr "Антарктик/Ротера"
 
 msgid "Antarctica/South_Pole"
 msgstr "Антарктик/Јужни_пол"
@@ -721,7 +708,7 @@ msgstr "Азија/Калкута"
 
 #, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Азија/Choibalsana"
+msgstr "Азија/Choibalsan"
 
 msgid "Asia/Chongqing"
 msgstr "Азија/Чонкинг"
@@ -988,9 +975,8 @@ msgstr "Аустралија/Брокен_Хил"
 msgid "Australia/Canberra"
 msgstr "Аустралија/Канбера"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Аустралија/Канбера"
+msgstr "Аустралија/Кјури"
 
 msgid "Australia/Darwin"
 msgstr "Аустралија/Дарвин"
@@ -1323,9 +1309,8 @@ msgstr "Европа/Мадрид"
 msgid "Europe/Malta"
 msgstr "Европа/Малта"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Европа/Мадрид"
+msgstr "Европа/Марихамн"
 
 msgid "Europe/Minsk"
 msgstr "Европа/Минск"
@@ -1800,3 +1785,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Зулу"
+
