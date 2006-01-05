@@ -1,15 +1,27 @@
 # Catalan translations for timezones package.
-# Copyright (C) 2004 Free Software Foundation Inc.
+# Copyright (C) 2004, 2006 Free Software Foundation Inc.
 # This file is distributed under the same license as the
-#  redhat-config-data package.
-# Josep Puigdemont <baldrick@terra.es>, 2004.
+#  system-config-data package.
+# Josep Puigdemont <josep.puigdemont@gmail.com>, 2004, 2006
+#
+# This file is translated according to the glossary and style guide of
+#   Softcatalà. If you plan to modify this file, please read first the page
+#   of the Catalan translation team for the Fedora project at:
+#   http://www.softcatala.org/projectes/fedora/
+#   and contact the previous translator
+#
+# Aquest fitxer s'ha de traduir d'acord amb el recull de termes i la guia
+#   d'estil de Softcatalà. Si voleu modificar aquest fitxer, llegiu si
+#   us plau la pàgina de catalanització del projecte Fedora a:
+#   http://www.softcatala.org/projectes/fedora/
+#   i contacteu l'anterior traductor/a.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-04-08 21:05+0200\n"
-"Last-Translator: Josep Puigdemont <baldrick@terra.es>\n"
+"PO-Revision-Date: 2006-01-05 09:44+0100\n"
+"Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -186,49 +198,38 @@ msgstr "Amèrica/Antigua"
 msgid "America/Araguaina"
 msgstr "Amèrica/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amèrica/Buenos_Aires"
+msgstr "Amèrica/Argentina/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Amèrica/Catamarca"
+msgstr "Amèrica/Argentina/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amèrica/Indiana/Indianàpolis"
+msgstr "Amèrica/Argentina/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Amèrica/Còrdoba"
+msgstr "Amèrica/Argentina/Còrdoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Amèrica/Jujuy"
+msgstr "Amèrica/Argentina/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Amèrica/Araguaina"
+msgstr "Amèrica/Argentina/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Amèrica/Mendoza"
+msgstr "Amèrica/Argentina/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amèrica/Indiana/Marengo"
+msgstr "Amèrica/Argentina/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Amèrica/Antigua"
+msgstr "Amèrica/Argentina/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Amèrica/Antigua"
+msgstr "Amèrica/Argentina/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Amèrica/Araguaina"
+msgstr "Amèrica/Argentina/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "Amèrica/Aruba"
@@ -239,9 +240,8 @@ msgstr "Amèrica/Asuncion"
 msgid "America/Atka"
 msgstr "Amèrica/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Amèrica/Boa_Vista"
+msgstr "Amèrica/Bahia"
 
 msgid "America/Barbados"
 msgstr "Amèrica/Barbados"
@@ -267,9 +267,8 @@ msgstr "Amèrica/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Amèrica/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Amèrica/Cayman"
+msgstr "Amèrica/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "Amèrica/Cancun"
@@ -292,9 +291,8 @@ msgstr "Amèrica/Chicago"
 msgid "America/Chihuahua"
 msgstr "Amèrica/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Amèrica/Curaçao"
+msgstr "Amèrica/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "Amèrica/Còrdoba"
@@ -581,9 +579,8 @@ msgstr "Amèrica/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Amèrica/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Amèrica/Tortola"
+msgstr "Amèrica/Toronto"
 
 msgid "America/Tortola"
 msgstr "Amèrica/Tortola"
@@ -624,9 +621,8 @@ msgstr "Antàrtida/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antàrtida/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antàrtida/Pol_Sud"
+msgstr "Antàrctica/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antàrtida/Pol_Sud"
@@ -949,9 +945,8 @@ msgstr "Austràlia/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Austràlia/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Austràlia/Canberra"
+msgstr "Austràlia/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Austràlia/Darwin"
@@ -1247,9 +1242,8 @@ msgstr "Europa/Madrid"
 msgid "Europe/Malta"
 msgstr "Europa/Malta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Europa/Madrid"
+msgstr "Europe/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Europa/Minsk"
