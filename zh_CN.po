@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-07-08 16:43+1000\n"
-"Last-Translator: Sarah Wang <sarahs@redhat.com>\n"
+"PO-Revision-Date: 2006-01-09 17:26+1000\n"
+"Last-Translator: x <x@gmail.com>\n"
 "Language-Team: Simplified Chinese <i18n@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -186,49 +186,38 @@ msgstr "美洲/安提瓜岛"
 msgid "America/Araguaina"
 msgstr "美洲/阿拉瓜伊纳"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "美洲/布宜诺斯艾利斯"
+msgstr "美洲/阿根廷/布宜诺斯艾利斯"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "美洲/卡塔马卡"
+msgstr "美洲/阿根廷/卡塔马卡"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "美洲/印第安那/印第安纳波利斯"
+msgstr "美洲/阿根廷/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "美洲/科尔多瓦"
+msgstr "美洲/阿根廷/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "美洲/胡胡伊"
+msgstr "美洲/阿根廷/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "美洲/阿拉瓜伊纳"
+msgstr "美洲/阿根廷/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "美洲/门多萨"
+msgstr "美洲/阿根廷/门多萨"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "美洲/印第安那/马伦哥"
+msgstr "美洲/阿根廷/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "美洲/安提瓜岛"
+msgstr "美洲/阿根廷/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "美洲/安提瓜岛"
+msgstr "美洲/阿根廷/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "美洲/阿拉瓜伊纳"
+msgstr "美洲/阿根廷/Ushunia"
 
 msgid "America/Aruba"
 msgstr "美洲/阿鲁巴"
@@ -239,9 +228,8 @@ msgstr "美洲/亚松森"
 msgid "America/Atka"
 msgstr "美洲/阿提卡"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "美洲/泊亚维斯特"
+msgstr "美洲/Bahia"
 
 msgid "America/Barbados"
 msgstr "美洲/巴巴多斯"
@@ -267,9 +255,8 @@ msgstr "美洲/布宜诺斯艾利斯"
 msgid "America/Cambridge_Bay"
 msgstr "美洲/剑桥湾"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "美洲/开曼"
+msgstr "美洲/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "美洲/坎昆"
@@ -292,9 +279,8 @@ msgstr "美洲/芝加哥"
 msgid "America/Chihuahua"
 msgstr "美洲/奇瓦瓦"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "美洲/库拉索"
+msgstr "美洲/Coral港"
 
 msgid "America/Cordoba"
 msgstr "美洲/科尔多瓦"
@@ -581,9 +567,8 @@ msgstr "美洲/桑德贝"
 msgid "America/Tijuana"
 msgstr "美洲/蒂华纳"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "美洲/托投拉"
+msgstr "美洲/多伦多"
 
 msgid "America/Tortola"
 msgstr "美洲/托投拉"
@@ -624,9 +609,8 @@ msgstr "南极洲/麦克默多站"
 msgid "Antarctica/Palmer"
 msgstr "南极洲/帕玛"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "南极洲/南极"
+msgstr "南极洲/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "南极洲/南极"
@@ -949,9 +933,8 @@ msgstr "澳大利亚/断山"
 msgid "Australia/Canberra"
 msgstr "澳大利亚/堪培拉"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "澳大利亚/堪培拉"
+msgstr "澳大利亚/Currie"
 
 msgid "Australia/Darwin"
 msgstr "澳大利亚/达尔文"
@@ -1247,9 +1230,8 @@ msgstr "欧洲/马德里"
 msgid "Europe/Malta"
 msgstr "欧洲/马尔他"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "欧洲/马德里"
+msgstr "欧洲/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "欧洲/明斯克"
@@ -1691,3 +1673,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "祖鲁"
+
