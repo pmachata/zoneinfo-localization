@@ -1,19 +1,21 @@
+# translation of zh_TW.po to Chinese Traditional
 # Translation of zh_TW.po to Chinese (traditional)
 # This file is distributed under the same license as the timezones package.
 # Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
-# Ben Wu <hpwu@redhat.com>, 2002
+# Ben Wu <hpwu@redhat.com>, 2002.
+# Chester Cheng <ccheng@redhat.com>, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: zh_TW\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2003-01-30 11:34+1000\n"
-"Last-Translator: Ben Wu <hpwu@redhat.com>\n"
-"Language-Team: Chinese (Traditional) <i18n-list@redhat.com>\n"
+"PO-Revision-Date: 2006-01-11 15:18+1000\n"
+"Last-Translator: Chester Cheng <ccheng@redhat.com>\n"
+"Language-Team: Chinese Traditional <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.6\n"
+"X-Generator: KBabel 1.9.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "非洲/阿必尚"
@@ -186,49 +188,38 @@ msgstr "美洲/安地卡"
 msgid "America/Araguaina"
 msgstr "美洲/阿拉加依那"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "美洲/布宜諾斯艾利斯"
+msgstr "美洲/阿根廷/布宜諾斯艾利斯"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "美洲/卡達馬魯卡"
+msgstr "美洲/阿根廷/卡達馬魯卡"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "美洲/印第安那州/印第安那"
+msgstr "美洲/阿根廷/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "美洲/哥多巴"
+msgstr "美洲/阿根廷/哥多華"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "美洲/胡胡伊"
+msgstr "美洲/阿根廷/胡胡伊"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "美洲/阿拉加依那"
+msgstr "美洲/阿根廷/拉裏奧哈"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "美洲/門多薩"
+msgstr "美洲/阿根廷/門多薩"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "美洲/印第安那州/馬蘭哥"
+msgstr "美洲/阿根廷/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "美洲/安地卡"
+msgstr "美洲/阿根廷/聖胡安"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "美洲/安地卡"
+msgstr "美洲/阿根廷/圖庫曼"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "美洲/阿拉加依那"
+msgstr "美洲/阿根廷/烏斯懷亞"
 
 msgid "America/Aruba"
 msgstr "美洲/阿魯巴"
@@ -239,9 +230,8 @@ msgstr "美洲/亞松森"
 msgid "America/Atka"
 msgstr "美洲/阿提卡"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "美洲/伯爾維斯特"
+msgstr "美洲/巴伊亞"
 
 msgid "America/Barbados"
 msgstr "美洲/巴巴多斯"
@@ -267,9 +257,8 @@ msgstr "美洲/布宜諾斯艾利斯"
 msgid "America/Cambridge_Bay"
 msgstr "美洲/劍橋灣"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "美洲/開曼"
+msgstr "美洲/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "美洲/坎肯"
@@ -292,9 +281,8 @@ msgstr "美洲/芝加哥"
 msgid "America/Chihuahua"
 msgstr "美洲/奇瓦瓦"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "美洲/庫拉卡"
+msgstr "美洲/珊瑚港"
 
 msgid "America/Cordoba"
 msgstr "美洲/哥多巴"
@@ -581,9 +569,8 @@ msgstr "美洲/桑德灣"
 msgid "America/Tijuana"
 msgstr "美洲/提娃娜"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "美洲/托爾托拉島"
+msgstr "美洲/多倫多"
 
 msgid "America/Tortola"
 msgstr "美洲/托爾托拉島"
@@ -624,9 +611,8 @@ msgstr "南極洲/麥克默多"
 msgid "Antarctica/Palmer"
 msgstr "南極洲/帕瑪"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "南極洲/南極點"
+msgstr "南極洲/羅西拉"
 
 msgid "Antarctica/South_Pole"
 msgstr "南極洲/南極點"
@@ -949,9 +935,8 @@ msgstr "澳洲/斷山"
 msgid "Australia/Canberra"
 msgstr "澳洲/坎培拉"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "澳洲/坎培拉"
+msgstr "澳洲/居禮"
 
 msgid "Australia/Darwin"
 msgstr "澳洲/達爾文"
@@ -1247,9 +1232,8 @@ msgstr "歐洲/馬德里"
 msgid "Europe/Malta"
 msgstr "歐洲/馬爾他"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "歐洲/馬德里"
+msgstr "歐洲/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "歐洲/明斯克"
@@ -1691,3 +1675,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "祖魯"
+
