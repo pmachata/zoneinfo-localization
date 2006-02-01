@@ -1,15 +1,17 @@
+# translation of hu.po to hungarian
 # Arpad Biro <biro_arpad@yahoo.com>, 2004.
+# Szentiványi Gábor <szentivanyi.gabor@ulx.hu>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: hu\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-07-17 14:54+0200\n"
-"Last-Translator: Arpad Biro <biro_arpad@yahoo.com>\n"
-"Language-Team: Hungarian\n"
+"PO-Revision-Date: 2006-02-01 23:31+0100\n"
+"Last-Translator: Szentiványi Gábor <szentivanyi.gabor@ulx.hu>\n"
+"Language-Team: hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.3\n"
+"X-Generator: KBabel 1.10.2\n"
 
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
@@ -182,49 +184,38 @@ msgstr "Amerika/Antigua"
 msgid "America/Araguaina"
 msgstr "Amerika/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amerika/Buenos_Aires"
+msgstr "Amerika/Argentína/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Amerika/Catamarca"
+msgstr "Amerika/Argentína/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amerika/Indiana/Indianapolis"
+msgstr "Amerika/Argentína/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Amerika/Cordoba"
+msgstr "Amerika/Argentína/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Amerika/Jujuy"
+msgstr "Amerika/Argentína/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika/Argentína/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Amerika/Mendoza"
+msgstr "Amerika/Argentína/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amerika/Indiana/Marengo"
+msgstr "Amerika/Argentína/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Amerika/Antigua"
+msgstr "Amerika/Argentína/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Amerika/Antigua"
+msgstr "Amerika/Argentína/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika/Argentína/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "Amerika/Aruba"
@@ -235,9 +226,8 @@ msgstr "Amerika/Asuncion"
 msgid "America/Atka"
 msgstr "Amerika/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Amerika/Boa_Vista"
+msgstr "Amerika/Bahia"
 
 msgid "America/Barbados"
 msgstr "Amerika/Barbados"
@@ -263,9 +253,8 @@ msgstr "Amerika/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "Amerika/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Amerika/Cayman"
+msgstr "Amerika/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "Amerika/Cancun"
@@ -288,9 +277,8 @@ msgstr "Amerika/Chicago"
 msgid "America/Chihuahua"
 msgstr "Amerika/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "Amerika/Cordoba"
@@ -577,9 +565,8 @@ msgstr "Amerika/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Amerika/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Amerika/Tortola"
+msgstr "Amerika/Toronto"
 
 msgid "America/Tortola"
 msgstr "Amerika/Tortola"
@@ -620,9 +607,8 @@ msgstr "Antarktisz/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antarktisz/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antarktisz/Déli-sark"
+msgstr "Antarktisz/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antarktisz/Déli-sark"
@@ -945,9 +931,8 @@ msgstr "Ausztrália/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Ausztrália/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Ausztrália/Canberra"
+msgstr "Ausztrália/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Ausztrália/Darwin"
@@ -1243,9 +1228,8 @@ msgstr "Európa/Madrid"
 msgid "Europe/Malta"
 msgstr "Európa/Málta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Európa/Madrid"
+msgstr "Európa/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Európa/Minszk"
@@ -1687,3 +1671,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
