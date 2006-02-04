@@ -2,15 +2,15 @@
 # Time Config Tool Japanese Translation
 # Copyright (C) 2001 Red Hat, Inc.
 # James Hashida <khashida@redhat.com>, 2003
-#
+# Hirofumi Saito <hi_saito@yk.rim.or.jp>, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ja\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-04-08 17:53GMT+10:00\n"
-"Last-Translator: Kiyoto James Hashida <khashida@redhat.com>\n"
-"Language-Team: Japanese <ja@li.org>\n"
+"PO-Revision-Date: 2006-02-04 21:24+0900\n"
+"Last-Translator: Hirofumi Saito <hi_saito@yk.rim.or.jp>\n"
+"Language-Team: Japanese <fedora-trans-ja@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -187,49 +187,38 @@ msgstr "アメリカ/アンティグア"
 msgid "America/Araguaina"
 msgstr "アメリカ/アラグアイア"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "アメリカ/ブエノスアイレス"
+msgstr "アメリカ/アルゼンチン/ブエノスアイレス"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "アメリカ/カタマルカ"
+msgstr "アメリカ/アルゼンチン/カタマルカ"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "アメリカ/インディアナ/インディアナポリス"
+msgstr "アメリカ/アルゼンチン/コモドロリバダビア"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "アメリカ/コルドバ"
+msgstr "アメリカ/アルゼンチン/コルドバ"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "アメリカ/ジュジュ"
+msgstr "アメリカ/アルゼンチン/ジュジュ"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "アメリカ/アラグアイア"
+msgstr "アメリカ/アルゼンチン/ラリオハ"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "アメリカ/メンドサ"
+msgstr "アメリカ/アルゼンチン/メンドサ"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "アメリカ/インディアナ/マレンゴ"
+msgstr "アメリカ/アルゼンチン/リオガイェゴス"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "アメリカ/アンティグア"
+msgstr "アメリカ/アルゼンチン/サンフアン"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "アメリカ/アンティグア"
+msgstr "アメリカ/アルゼンチン/トゥクマン"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "アメリカ/アラグアイア"
+msgstr "アメリカ/アルゼンチン/ウスアイア"
 
 msgid "America/Aruba"
 msgstr "アメリカ/アルーバ"
@@ -240,9 +229,8 @@ msgstr "アメリカ/アスンシオン"
 msgid "America/Atka"
 msgstr "アメリカ/アトカ"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "アメリカ/ボアヴィスタ"
+msgstr "アメリカ/バイア"
 
 msgid "America/Barbados"
 msgstr "アメリカ/バルバトス"
@@ -268,9 +256,8 @@ msgstr "アメリカ/ブエノスアイレス"
 msgid "America/Cambridge_Bay"
 msgstr "アメリカ/ケンブリッジベイ"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "アメリカ/ケイマン"
+msgstr "アメリカ/カンポグランデ"
 
 msgid "America/Cancun"
 msgstr "アメリカ/カンカン"
@@ -293,9 +280,8 @@ msgstr "アメリカ/シカゴ"
 msgid "America/Chihuahua"
 msgstr "アメリカ/チワワ"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "アメリカ/キュラソー"
+msgstr "アメリカ/コーラルハーバー"
 
 msgid "America/Cordoba"
 msgstr "アメリカ/コルドバ"
@@ -582,9 +568,8 @@ msgstr "アメリカ/サンダーベイ"
 msgid "America/Tijuana"
 msgstr "アメリカ/ティファナ"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "アメリカ/トルトラ"
+msgstr "アメリカ/トロント"
 
 msgid "America/Tortola"
 msgstr "アメリカ/トルトラ"
@@ -625,9 +610,8 @@ msgstr "南極大陸/マックマード"
 msgid "Antarctica/Palmer"
 msgstr "南極大陸/パルメラ"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "南極大陸/サウスポール"
+msgstr "南極大陸/ロゼラ"
 
 msgid "Antarctica/South_Pole"
 msgstr "南極大陸/サウスポール"
@@ -950,9 +934,8 @@ msgstr "オーストラリア/ブロークンヒル"
 msgid "Australia/Canberra"
 msgstr "オーストラリア/キャンベラ"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "オーストラリア/キャンベラ"
+msgstr "オーストラリア/キューリ"
 
 msgid "Australia/Darwin"
 msgstr "オーストラリア/ダーウィン"
@@ -1248,9 +1231,8 @@ msgstr "ヨーロッパ/マドリッド"
 msgid "Europe/Malta"
 msgstr "ヨーロッパ/マルタ"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "ヨーロッパ/マドリッド"
+msgstr "ヨーロッパ/マリーハムン"
 
 msgid "Europe/Minsk"
 msgstr "ヨーロッパ/ミンスク"
