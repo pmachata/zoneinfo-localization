@@ -2,162 +2,165 @@
 # Copyright (C) 2003 Nikos Charonitakis
 # This file is distributed under the same license as the redhat-config-date/timezones package.
 # Nikos Charonitakis <charosn@her.forthnet.gr>, 2003, 2004.
-#
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2006.
+# Dimitrios Michelinakis <dimitris@michelinakis.gr>, 2006.
+# 
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: el\n"
+"Project-Id-Version: system-config-date timezones\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-08-05 21:15+0300\n"
-"Last-Translator: Nikos Charonitakis <charosn@her.forthnet.gr>\n"
-"Language-Team:  <nls@tux.hellug.gr>\n"
+"PO-Revision-Date: 2006-06-03 23:21+0300\n"
+"Last-Translator: Dimitrios Michelinakis <dimitris@michelinakis.gr>\n"
+"Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.3.1\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Africa/Abidjan"
 msgstr "Αφρική/Abidjan"
 
 msgid "Africa/Accra"
-msgstr "Αφρική/Accra"
+msgstr "Αφρική/Άκκρα"
 
 msgid "Africa/Addis_Ababa"
-msgstr "Αφρική/Addis_Ababa"
+msgstr "Αφρική/Αντίς_Αμπέμπα"
 
 msgid "Africa/Algiers"
-msgstr "Αφρική/Algiers"
+msgstr "Αφρική/Αλγέρι"
 
 msgid "Africa/Asmera"
 msgstr "Αφρική/Asmera"
 
 msgid "Africa/Bamako"
-msgstr "Αφρική/Bamako"
+msgstr "Αφρική/Μπαμάκο"
 
 msgid "Africa/Bangui"
-msgstr "Αφρική/Bangui"
+msgstr "Αφρική/Μπανγκούι"
 
 msgid "Africa/Banjul"
-msgstr "Αφρική/Banjul"
+msgstr "Αφρική/Μπανζούλ"
 
 msgid "Africa/Bissau"
-msgstr "Αφρική/Bissau"
+msgstr "Αφρική/Μπισσάου"
 
 msgid "Africa/Blantyre"
 msgstr "Αφρική/Blantyre"
 
 msgid "Africa/Brazzaville"
-msgstr "Αφρική/Brazzaville"
+msgstr "Αφρική/Μπραζαβίλ"
 
 msgid "Africa/Bujumbura"
-msgstr "Αφρική/Bujumbura"
+msgstr "Αφρική/Μπουζουμπούρα"
 
 msgid "Africa/Cairo"
-msgstr "Αφρική/Cairo"
+msgstr "Αφρική/Κάιρο"
 
 msgid "Africa/Casablanca"
-msgstr "Αφρική/Casablanca"
+msgstr "Αφρική/Καζαμπλάνκα"
 
 msgid "Africa/Ceuta"
 msgstr "Αφρική/Ceuta"
 
 msgid "Africa/Conakry"
-msgstr "Αφρική/Conakry"
+msgstr "Αφρική/Κόνακρι"
 
 msgid "Africa/Dakar"
-msgstr "Αφρική/Dakar"
+msgstr "Αφρική/Ντακάρ"
 
 msgid "Africa/Dar_es_Salaam"
 msgstr "Αφρική/Dar_es_Salaam"
 
 msgid "Africa/Djibouti"
-msgstr "Αφρική/Djibouti"
+msgstr "Αφρική/Τζιμπουτί"
 
 msgid "Africa/Douala"
 msgstr "Αφρική/Douala"
 
 msgid "Africa/El_Aaiun"
-msgstr "Αφρική/El_Aaiun"
+msgstr "Αφρική/Ελ_Αϊούν"
 
 msgid "Africa/Freetown"
-msgstr "Αφρική/Freetown"
+msgstr "Αφρική/Φρίταουν"
 
 msgid "Africa/Gaborone"
-msgstr "Αφρική/Gaborone"
+msgstr "Αφρική/Γκαμπορόν"
 
 msgid "Africa/Harare"
-msgstr "Αφρική/Harare"
+msgstr "Αφρική/Χαράρε"
 
 msgid "Africa/Johannesburg"
-msgstr "Αφρική/Johannesburg"
+msgstr "Αφρική/Γιοχάνεσμπουργκ"
 
 msgid "Africa/Kampala"
-msgstr "Αφρική/Kampala"
+msgstr "Αφρική/Καμπάλα"
 
 msgid "Africa/Khartoum"
-msgstr "Αφρική/Khartoum"
+msgstr "Αφρική/Χαρτούμ"
 
 msgid "Africa/Kigali"
-msgstr "Αφρική/Kigali"
+msgstr "Αφρική/Κιγκάλι"
 
 msgid "Africa/Kinshasa"
-msgstr "Αφρική/Kinshasa"
+msgstr "Αφρική/Κινσάσα"
 
 msgid "Africa/Lagos"
 msgstr "Αφρική/Lagos"
 
 msgid "Africa/Libreville"
-msgstr "Αφρική/Libreville"
+msgstr "Αφρική/Λιμπρεβίλ"
 
 msgid "Africa/Lome"
-msgstr "Αφρική/Lome"
+msgstr "Αφρική/Λομέ"
 
 msgid "Africa/Luanda"
-msgstr "Αφρική/Luanda"
+msgstr "Αφρική/Λουάντα"
 
 msgid "Africa/Lubumbashi"
 msgstr "Αφρική/Lubumbashi"
 
 msgid "Africa/Lusaka"
-msgstr "Αφρική/Lusaka"
+msgstr "Αφρική/Λουσάκα"
 
 msgid "Africa/Malabo"
-msgstr "Αφρική/Malabo"
+msgstr "Αφρική/Μαλάμπο"
 
 msgid "Africa/Maputo"
-msgstr "Αφρική/Maputo"
+msgstr "Αφρική/Μαπούτο"
 
 msgid "Africa/Maseru"
-msgstr "Αφρική/Maseru"
+msgstr "Αφρική/Μασερού"
 
 msgid "Africa/Mbabane"
-msgstr "Αφρική/Mbabane"
+msgstr "Αφρική/Μπαμπάνε"
 
 msgid "Africa/Mogadishu"
-msgstr "Αφρική/Mogadishu"
+msgstr "Αφρική/Μογκαντίσου"
 
 msgid "Africa/Monrovia"
-msgstr "Αφρική/Monrovia"
+msgstr "Αφρική/Μονρόβια"
 
 msgid "Africa/Nairobi"
-msgstr "Αφρική/Nairobi"
+msgstr "Αφρική/Ναϊρόμπι"
 
 msgid "Africa/Ndjamena"
-msgstr "Αφρική/Ndjamena"
+msgstr "Αφρική/Τζαμένα"
 
 msgid "Africa/Niamey"
-msgstr "Αφρική/Niamey"
+msgstr "Αφρική/Νιαμέι"
 
 msgid "Africa/Nouakchott"
-msgstr "Αφρική/Nouakchott"
+msgstr "Αφρική/Νουαξότ"
 
 msgid "Africa/Ouagadougou"
-msgstr "Αφρική/Ouagadougou"
+msgstr "Αφρική/Ουαγκαντούγκου"
 
 msgid "Africa/Porto-Novo"
-msgstr "Αφρική/Porto-Novo"
+msgstr "Αφρική/Πόρτο Νόβο"
 
 msgid "Africa/Sao_Tome"
-msgstr "Αφρική/Sao_Tome"
+msgstr "Αφρική/Σάο_Τομέ"
 
 msgid "Africa/Timbuktu"
 msgstr "Αφρική/Timbuktu"
@@ -166,16 +169,16 @@ msgid "Africa/Tripoli"
 msgstr "Αφρική/Τρίπολη"
 
 msgid "Africa/Tunis"
-msgstr "Αφρική/Tunis"
+msgstr "Αφρική/Τύνιδα"
 
 msgid "Africa/Windhoek"
-msgstr "Αφρική/Windhoek"
+msgstr "Αφρική/Γουίντχουκ"
 
 msgid "America/Adak"
 msgstr "Αμερική/Adak"
 
 msgid "America/Anchorage"
-msgstr "Αμερική/Anchorage"
+msgstr "Αμερική/Άνκορατζ"
 
 msgid "America/Anguilla"
 msgstr "Αμερική/Ανγκουίλα"
@@ -186,62 +189,50 @@ msgstr "Αμερική/Αντίγκουα"
 msgid "America/Araguaina"
 msgstr "Αμερική/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Αμερική/Buenos_Aires"
+msgstr "Αμερική/Αργεντινή/Μπουένος_Άιρες"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Αμερική/Catamarca"
+msgstr "Αμερική/Αργεντινή/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Αμερική/Indiana/Indianapolis"
+msgstr "Αμερική/Αργεντινή/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Αμερική/Cordoba"
+msgstr "Αμερική/Αργεντινή/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Αμερική/Jujuy"
+msgstr "Αμερική/Αργεντινή/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Αμερική/Araguaina"
+msgstr "Αμερική/Αργεντινή/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Αμερική/Mendoza"
+msgstr "Αμερική/Αργεντινή/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Αμερική/Indiana/Marengo"
+msgstr "Αμερική/Αργεντινή/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Αμερική/Αντίγκουα"
+msgstr "Αμερική/Αργεντινή/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Αμερική/Αντίγκουα"
+msgstr "Αμερική/Αργεντινή/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Αμερική/Araguaina"
+msgstr "Αμερική/Αργεντινή/Ushuaia"
 
 msgid "America/Aruba"
-msgstr "Αμερική/Aruba"
+msgstr "Αμερική/Αρούμπα"
 
 msgid "America/Asuncion"
-msgstr "Αμερική/Asuncion"
+msgstr "Αμερική/Ασουνσιόν"
 
 msgid "America/Atka"
 msgstr "Αμερική/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Αμερική/Boa_Vista"
+msgstr "Αμερική/Bahia"
 
 msgid "America/Barbados"
 msgstr "Αμερική/Μπαρμπάντος"
@@ -256,35 +247,34 @@ msgid "America/Boa_Vista"
 msgstr "Αμερική/Boa_Vista"
 
 msgid "America/Bogota"
-msgstr "Αμερική/Bogota"
+msgstr "Αμερική/Μπογκοτά"
 
 msgid "America/Boise"
 msgstr "Αμερική/Boise"
 
 msgid "America/Buenos_Aires"
-msgstr "Αμερική/Buenos_Aires"
+msgstr "Αμερική/Μπουένος_Άιρες"
 
 msgid "America/Cambridge_Bay"
 msgstr "Αμερική/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Αμερική/Cayman"
+msgstr "Αμερική/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "Αμερική/Cancun"
 
 msgid "America/Caracas"
-msgstr "Αμερική/Caracas"
+msgstr "Αμερική/Καράκας"
 
 msgid "America/Catamarca"
 msgstr "Αμερική/Catamarca"
 
 msgid "America/Cayenne"
-msgstr "Αμερική/Cayenne"
+msgstr "Αμερική/Καγιέν"
 
 msgid "America/Cayman"
-msgstr "Αμερική/Cayman"
+msgstr "Αμερική/Κάυμαν"
 
 msgid "America/Chicago"
 msgstr "Αμερική/Chicago"
@@ -292,21 +282,20 @@ msgstr "Αμερική/Chicago"
 msgid "America/Chihuahua"
 msgstr "Αμερική/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Αμερική/Curacao"
+msgstr "Αμερική/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "Αμερική/Cordoba"
 
 msgid "America/Costa_Rica"
-msgstr "Αμερική/Costa_Rica"
+msgstr "Αμερική/Κόστα_Ρίκα"
 
 msgid "America/Cuiaba"
 msgstr "Αμερική/Cuiaba"
 
 msgid "America/Curacao"
-msgstr "Αμερική/Curacao"
+msgstr "Αμερική/Κουρακάο"
 
 msgid "America/Danmarkshavn"
 msgstr "Αμερική/Danmarkshavn"
@@ -318,22 +307,22 @@ msgid "America/Dawson_Creek"
 msgstr "Αμερική/Dawson_Creek"
 
 msgid "America/Denver"
-msgstr "Αμερική/Denver"
+msgstr "Αμερική/Ντένβερ"
 
 msgid "America/Detroit"
-msgstr "Αμερική/Detroit"
+msgstr "Αμερική/Ντιτρόιτ"
 
 msgid "America/Dominica"
-msgstr "Αμερική/Dominica"
+msgstr "Αμερική/Ντομίνικα"
 
 msgid "America/Edmonton"
-msgstr "Αμερική/Edmonton"
+msgstr "Αμερική/Έντμοντον"
 
 msgid "America/Eirunepe"
 msgstr "Αμερική/Eirunepe"
 
 msgid "America/El_Salvador"
-msgstr "Αμερική/El_Salvador"
+msgstr "Αμερική/Ελ_Σαλβαδόρ"
 
 msgid "America/Ensenada"
 msgstr "Αμερική/Ensenada"
@@ -360,40 +349,40 @@ msgid "America/Grenada"
 msgstr "Αμερική/Grenada"
 
 msgid "America/Guadeloupe"
-msgstr "Αμερική/Guadeloupe"
+msgstr "Αμερική/Γουαδελούπη"
 
 msgid "America/Guatemala"
-msgstr "Αμερική/Guatemala"
+msgstr "Αμερική/Γουατεμάλα"
 
 msgid "America/Guayaquil"
 msgstr "Αμερική/Guayaquil"
 
 msgid "America/Guyana"
-msgstr "Αμερική/Guyana"
+msgstr "Αμερική/Γουιάνα"
 
 msgid "America/Halifax"
 msgstr "Αμερική/Halifax"
 
 msgid "America/Havana"
-msgstr "Αμερική/Havana"
+msgstr "Αμερική/Αβάνα"
 
 msgid "America/Hermosillo"
 msgstr "Αμερική/Hermosillo"
 
 msgid "America/Indiana/Indianapolis"
-msgstr "Αμερική/Indiana/Indianapolis"
+msgstr "Αμερική/Ιντιάνα/Ιντιανάπολις"
 
 msgid "America/Indiana/Knox"
-msgstr "Αμερική/Indiana/Knox"
+msgstr "Αμερική/Ιντιάνα/Knox"
 
 msgid "America/Indiana/Marengo"
-msgstr "Αμερική/Indiana/Marengo"
+msgstr "Αμερική/Ιντιάνα/Marengo"
 
 msgid "America/Indianapolis"
-msgstr "Αμερική/Indianapolis"
+msgstr "Αμερική/Ιντιανάπολις"
 
 msgid "America/Indiana/Vevay"
-msgstr "Αμερική/Indiana/Vevay"
+msgstr "Αμερική/Ιντιάνα/Vevay"
 
 msgid "America/Inuvik"
 msgstr "Αμερική/Inuvik"
@@ -411,10 +400,10 @@ msgid "America/Juneau"
 msgstr "Αμερική/Juneau"
 
 msgid "America/Kentucky/Louisville"
-msgstr "Αμερική/Kentucky/Louisville"
+msgstr "Αμερική/Κεντάκι/Louisville"
 
 msgid "America/Kentucky/Monticello"
-msgstr "Αμερική/Kentucky/Monticello"
+msgstr "Αμερική/Κεντάκι/Monticello"
 
 msgid "America/Knox_IN"
 msgstr "Αμερική/Knox_IN"
@@ -423,10 +412,10 @@ msgid "America/La_Paz"
 msgstr "Αμερική/La_Paz"
 
 msgid "America/Lima"
-msgstr "Αμερική/Lima"
+msgstr "Αμερική/Λίμα"
 
 msgid "America/Los_Angeles"
-msgstr "Αμερική/Los_Angeles"
+msgstr "Αμερική/Λος_Άντζελες"
 
 msgid "America/Louisville"
 msgstr "Αμερική/Louisville"
@@ -435,7 +424,7 @@ msgid "America/Maceio"
 msgstr "Αμερική/Maceio"
 
 msgid "America/Managua"
-msgstr "Αμερική/Managua"
+msgstr "Αμερική/Μανάγκουα"
 
 msgid "America/Manaus"
 msgstr "Αμερική/Manaus"
@@ -456,28 +445,28 @@ msgid "America/Merida"
 msgstr "Αμερική/Merida"
 
 msgid "America/Mexico_City"
-msgstr "Αμερική/Mexico_City"
+msgstr "Αμερική/Μεξικό"
 
 msgid "America/Miquelon"
-msgstr "Αμερική/Miquelon"
+msgstr "Αμερική/Μικελόν"
 
 msgid "America/Monterrey"
 msgstr "Αμερική/Monterrey"
 
 msgid "America/Montevideo"
-msgstr "Αμερική/Montevideo"
+msgstr "Αμερική/Μοντεβιδέο"
 
 msgid "America/Montreal"
-msgstr "Αμερική/Montreal"
+msgstr "Αμερική/Μόντρεαλ"
 
 msgid "America/Montserrat"
-msgstr "Αμερική/Montserrat"
+msgstr "Αμερική/Μοντσεράτ"
 
 msgid "America/Nassau"
-msgstr "Αμερική/Nassau"
+msgstr "Αμερική/Νασσάου"
 
 msgid "America/New_York"
-msgstr "Αμερική/New_York"
+msgstr "Αμερική/Νέα Υόρκη"
 
 msgid "America/Nipigon"
 msgstr "Αμερική/Nipigon"
@@ -489,34 +478,34 @@ msgid "America/Noronha"
 msgstr "Αμερική/Noronha"
 
 msgid "America/North_Dakota/Center"
-msgstr "Αμερική/North_Dakota/Center"
+msgstr "Αμερική/Βόρεια_Ντακότα/Κέντρο"
 
 msgid "America/Panama"
-msgstr "Αμερική/Panama"
+msgstr "Αμερική/Παναμάς"
 
 msgid "America/Pangnirtung"
 msgstr "Αμερική/Pangnirtung"
 
 msgid "America/Paramaribo"
-msgstr "Αμερική/Paramaribo"
+msgstr "Αμερική/Παραμαρίμπο"
 
 msgid "America/Phoenix"
-msgstr "Αμερική/Phoenix"
+msgstr "Αμερική/Φοίνιξ"
 
 msgid "America/Port-au-Prince"
-msgstr "Αμερική/Port-au-Prince"
+msgstr "Αμερική/Πορτ-ο-Πρενς"
 
 msgid "America/Porto_Acre"
 msgstr "Αμερική/Porto_Acre"
 
 msgid "America/Port_of_Spain"
-msgstr "Αμερική/Port_of_Spain"
+msgstr "Αμερική/Πορτ_οφ_Σπέιν"
 
 msgid "America/Porto_Velho"
 msgstr "Αμερική/Porto_Velho"
 
 msgid "America/Puerto_Rico"
-msgstr "Αμερική/Puerto_Rico"
+msgstr "Αμερική/Πουέρτο Ρίκο"
 
 msgid "America/Rainy_River"
 msgstr "Αμερική/Rainy_River"
@@ -537,13 +526,13 @@ msgid "America/Rosario"
 msgstr "Αμερική/Rosario"
 
 msgid "America/Santiago"
-msgstr "Αμερική/Santiago"
+msgstr "Αμερική/Σαντιάγκο"
 
 msgid "America/Santo_Domingo"
-msgstr "Αμερική/Santo_Domingo"
+msgstr "Αμερική/Άγιος_Δομίνικος"
 
 msgid "America/Sao_Paulo"
-msgstr "Αμερική/Sao_Paulo"
+msgstr "Αμερική/Σάο_Πάολο"
 
 msgid "America/Scoresbysund"
 msgstr "Αμερική/Scoresbysund"
@@ -555,22 +544,22 @@ msgid "America/St_Johns"
 msgstr "Αμερική/St_Johns"
 
 msgid "America/St_Kitts"
-msgstr "Αμερική/St_Kitts"
+msgstr "Αμερική/Αγίου_Χριστόφορου_(Κιτς)"
 
 msgid "America/St_Lucia"
-msgstr "Αμερική/St_Lucia"
+msgstr "Αμερική/Αγία_Λουκία"
 
 msgid "America/St_Thomas"
-msgstr "Αμερική/St_Thomas"
+msgstr "Αμερική/Άγιος_Θωμάς"
 
 msgid "America/St_Vincent"
-msgstr "Αμερική/St_Vincent"
+msgstr "Αμερική/Άγιος_Βικέντιος"
 
 msgid "America/Swift_Current"
 msgstr "Αμερική/Swift_Current"
 
 msgid "America/Tegucigalpa"
-msgstr "Αμερική/Tegucigalpa"
+msgstr "Αμερική/Τεγκουσιγκάλπα"
 
 msgid "America/Thule"
 msgstr "Αμερική/Thule"
@@ -581,15 +570,14 @@ msgstr "Αμερική/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Αμερική/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Αμερική/Tortola"
+msgstr "Αμερική/Τορόντο"
 
 msgid "America/Tortola"
 msgstr "Αμερική/Tortola"
 
 msgid "America/Vancouver"
-msgstr "Αμερική/Vancouver"
+msgstr "Αμερική/Βανκούβερ"
 
 msgid "America/Virgin"
 msgstr "Αμερική/Virgin"
@@ -624,12 +612,11 @@ msgstr "Ανταρκτική/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Ανταρκτική/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Ανταρκτική/South_Pole"
+msgstr "Ανταρκτική/Rothera"
 
 msgid "Antarctica/South_Pole"
-msgstr "Ανταρκτική/South_Pole"
+msgstr "Ανταρκτική/Νότιος_Πόλος"
 
 msgid "Antarctica/Syowa"
 msgstr "Ανταρκτική/Syowa"
@@ -638,7 +625,7 @@ msgid "Antarctica/Vostok"
 msgstr "Ανταρκτική/Vostok"
 
 msgid "Arctic/Longyearbyen"
-msgstr "Αρκτική/Longyearbyen"
+msgstr "Αρκτική/Λόνγκγεαρμπγεν"
 
 msgid "Asia/Aden"
 msgstr "Ασία/Aden"
@@ -647,7 +634,7 @@ msgid "Asia/Almaty"
 msgstr "Ασία/Almaty"
 
 msgid "Asia/Amman"
-msgstr "Ασία/Amman"
+msgstr "Ασία/Αμμάν"
 
 msgid "Asia/Anadyr"
 msgstr "Ασία/Anadyr"
@@ -662,7 +649,7 @@ msgid "Asia/Ashgabat"
 msgstr "Ασία/Ashgabat"
 
 msgid "Asia/Ashkhabad"
-msgstr "Ασία/Ashkhabad"
+msgstr "Ασία/Ασγκαμπάτ"
 
 msgid "Asia/Baghdad"
 msgstr "Ασία/Βαγδάτη"
@@ -674,19 +661,19 @@ msgid "Asia/Baku"
 msgstr "Ασία/Μπακού"
 
 msgid "Asia/Bangkok"
-msgstr "Ασία/Bangkok"
+msgstr "Ασία/Μπανγκόκ"
 
 msgid "Asia/Beirut"
-msgstr "Ασία/Beirut"
+msgstr "Ασία/Βηρυτός"
 
 msgid "Asia/Bishkek"
-msgstr "Ασία/Bishkek"
+msgstr "Ασία/Μπισκέκ"
 
 msgid "Asia/Brunei"
-msgstr "Ασία/Brunei"
+msgstr "Ασία/Μπρουνέι"
 
 msgid "Asia/Calcutta"
-msgstr "Ασία/Calcutta"
+msgstr "Ασία/Καλκούτα"
 
 msgid "Asia/Choibalsan"
 msgstr "Ασία/Choibalsan"
@@ -698,7 +685,7 @@ msgid "Asia/Chungking"
 msgstr "Ασία/Chungking"
 
 msgid "Asia/Colombo"
-msgstr "Ασία/Colombo"
+msgstr "Ασία/Κολόμπο"
 
 msgid "Asia/Dacca"
 msgstr "Ασία/Dacca"
@@ -707,16 +694,16 @@ msgid "Asia/Damascus"
 msgstr "Ασία/Δαμασκός"
 
 msgid "Asia/Dhaka"
-msgstr "Ασία/Dhaka"
+msgstr "Ασία/Ντάκα"
 
 msgid "Asia/Dili"
-msgstr "Ασία/Dili"
+msgstr "Ασία/Ντίλι"
 
 msgid "Asia/Dubai"
-msgstr "Ασία/Dubai"
+msgstr "Ασία/Ντουμπάι"
 
 msgid "Asia/Dushanbe"
-msgstr "Ασία/Dushanbe"
+msgstr "Ασία/Ντουσάνμπε"
 
 msgid "Asia/Gaza"
 msgstr "Ασία/Γάζα"
@@ -725,7 +712,7 @@ msgid "Asia/Harbin"
 msgstr "Ασία/Harbin"
 
 msgid "Asia/Hong_Kong"
-msgstr "Ασία/Hong_Kong"
+msgstr "Ασία/Χονγκ_Κογκ"
 
 msgid "Asia/Hovd"
 msgstr "Ασία/Hovd"
@@ -737,7 +724,7 @@ msgid "Asia/Istanbul"
 msgstr "Ασία/Istanbul"
 
 msgid "Asia/Jakarta"
-msgstr "Ασία/Jakarta"
+msgstr "Ασία/Τζακάρτα"
 
 msgid "Asia/Jayapura"
 msgstr "Ασία/Jayapura"
@@ -752,28 +739,28 @@ msgid "Asia/Kamchatka"
 msgstr "Ασία/Kamchatka"
 
 msgid "Asia/Karachi"
-msgstr "Ασία/Karachi"
+msgstr "Ασία/Καράτσι"
 
 msgid "Asia/Kashgar"
 msgstr "Ασία/Kashgar"
 
 msgid "Asia/Katmandu"
-msgstr "Ασία/Katmandu"
+msgstr "Ασία/Κατμαντού"
 
 msgid "Asia/Krasnoyarsk"
 msgstr "Ασία/Krasnoyarsk"
 
 msgid "Asia/Kuala_Lumpur"
-msgstr "Ασία/Kuala_Lumpur"
+msgstr "Ασία/Κουάλα_Λουμπούρ"
 
 msgid "Asia/Kuching"
 msgstr "Ασία/Kuching"
 
 msgid "Asia/Kuwait"
-msgstr "Ασία/Kuwait"
+msgstr "Ασία/Κουβέιτ"
 
 msgid "Asia/Macao"
-msgstr "Ασία/Macao"
+msgstr "Ασία/Μακάο"
 
 msgid "Asia/Macau"
 msgstr "Ασία/Macau"
@@ -788,7 +775,7 @@ msgid "Asia/Manila"
 msgstr "Ασία/Μανίλα"
 
 msgid "Asia/Muscat"
-msgstr "Ασία/Muscat"
+msgstr "Ασία/Μουσκάτ"
 
 msgid "Asia/Nicosia"
 msgstr "Ασία/Λευκωσία"
@@ -803,13 +790,13 @@ msgid "Asia/Oral"
 msgstr "Ασία/Oral"
 
 msgid "Asia/Phnom_Penh"
-msgstr "Ασία/Phnom_Penh"
+msgstr "Ασία/Πνομ_Πενχ"
 
 msgid "Asia/Pontianak"
 msgstr "Ασία/Pontianak"
 
 msgid "Asia/Pyongyang"
-msgstr "Ασία/Pyongyang"
+msgstr "Ασία/Πιονγιάνγκ"
 
 msgid "Asia/Qatar"
 msgstr "Ασία/Κατάρ"
@@ -821,19 +808,19 @@ msgid "Asia/Rangoon"
 msgstr "Ασία/Rangoon"
 
 msgid "Asia/Riyadh"
-msgstr "Ασία/Riyadh"
+msgstr "Ασία/Ριάντ"
 
 msgid "Asia/Riyadh87"
-msgstr "Ασία/Riyadh87"
+msgstr "Ασία/Ριάντ87"
 
 msgid "Asia/Riyadh88"
-msgstr "Ασία/Riyadh88"
+msgstr "Ασία/Ριάντ88"
 
 msgid "Asia/Riyadh89"
-msgstr "Ασία/Riyadh89"
+msgstr "Ασία/Ριάντ89"
 
 msgid "Asia/Saigon"
-msgstr "Ασία/Saigon"
+msgstr "Ασία/Σαϊγκόν"
 
 msgid "Asia/Sakhalin"
 msgstr "Ασία/Sakhalin"
@@ -845,22 +832,22 @@ msgid "Asia/Seoul"
 msgstr "Ασία/Σεούλ"
 
 msgid "Asia/Shanghai"
-msgstr "Ασία/Shanghai"
+msgstr "Ασία/Σαγκάη"
 
 msgid "Asia/Singapore"
 msgstr "Ασία/Σινγκαπούρη"
 
 msgid "Asia/Taipei"
-msgstr "Ασία/Taipei"
+msgstr "Ασία/Ταϊπέι"
 
 msgid "Asia/Tashkent"
-msgstr "Ασία/Tashkent"
+msgstr "Ασία/Τασκένδη"
 
 msgid "Asia/Tbilisi"
-msgstr "Ασία/Tbilisi"
+msgstr "Ασία/Τιφλίδα"
 
 msgid "Asia/Tehran"
-msgstr "Ασία/Tehran"
+msgstr "Ασία/Τεχεράνη"
 
 msgid "Asia/Tel_Aviv"
 msgstr "Ασία/Τελ_Αβίβ"
@@ -869,10 +856,10 @@ msgid "Asia/Thimbu"
 msgstr "Ασία/Thimbu"
 
 msgid "Asia/Thimphu"
-msgstr "Ασία/Thimphu"
+msgstr "Ασία/Θιμπού"
 
 msgid "Asia/Tokyo"
-msgstr "Ασία/Τόκυο"
+msgstr "Ασία/Τόκιο"
 
 msgid "Asia/Ujung_Pandang"
 msgstr "Ασία/Ujung_Pandang"
@@ -887,10 +874,10 @@ msgid "Asia/Urumqi"
 msgstr "Ασία/Urumqi"
 
 msgid "Asia/Vientiane"
-msgstr "Ασία/Vientiane"
+msgstr "Ασία/Βιεντιάν"
 
 msgid "Asia/Vladivostok"
-msgstr "Ασία/Vladivostok"
+msgstr "Ασία/Βλαδιβοστόκ"
 
 msgid "Asia/Yakutsk"
 msgstr "Ασία/Yakutsk"
@@ -899,22 +886,22 @@ msgid "Asia/Yekaterinburg"
 msgstr "Ασία/Yekaterinburg"
 
 msgid "Asia/Yerevan"
-msgstr "Ασία/Yerevan"
+msgstr "Ασία/Ερεβάν"
 
 msgid "Atlantic/Azores"
-msgstr "Ατλαντικός/Azores"
+msgstr "Ατλαντικός/Αζόρες"
 
 msgid "Atlantic/Bermuda"
-msgstr "Ατλαντικός/Bermuda"
+msgstr "Ατλαντικός/Βερμούδες"
 
 msgid "Atlantic/Canary"
-msgstr "Ατλαντικός/Canary"
+msgstr "Ατλαντικός/Κανάριοι_Νήσοι"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "Ατλαντικός/Cape_Verde"
+msgstr "Ατλαντικός/Πράσινο_Ακρωτήριο"
 
 msgid "Atlantic/Faeroe"
-msgstr "Ατλαντικός/Faeroe"
+msgstr "Ατλαντικός/Φερόες"
 
 msgid "Atlantic/Jan_Mayen"
 msgstr "Ατλαντικός/Jan_Mayen"
@@ -923,25 +910,25 @@ msgid "Atlantic/Madeira"
 msgstr "Ατλαντικός/Madeira"
 
 msgid "Atlantic/Reykjavik"
-msgstr "Ατλαντικός/Reykjavik"
+msgstr "Ατλαντικός/Ρέικιαβικ"
 
 msgid "Atlantic/South_Georgia"
-msgstr "Ατλαντικός/South_Georgia"
+msgstr "Ατλαντικός/Νότια_Γεωργία"
 
 msgid "Atlantic/Stanley"
-msgstr "Ατλαντικός/Stanley"
+msgstr "Ατλαντικός/Στάνλεϊ"
 
 msgid "Atlantic/St_Helena"
-msgstr "Ατλαντικός/St_Helena"
+msgstr "Ατλαντικός/Αγία_Ελένη"
 
 msgid "Australia/ACT"
 msgstr "Αυστραλία/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "Αυστραλία/Adelaide"
+msgstr "Αυστραλία/Αδελαΐδα"
 
 msgid "Australia/Brisbane"
-msgstr "Αυστραλία/Brisbane"
+msgstr "Αυστραλία/Μπρίσμπεϊν"
 
 msgid "Australia/Broken_Hill"
 msgstr "Αυστραλία/Broken_Hill"
@@ -949,9 +936,8 @@ msgstr "Αυστραλία/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Αυστραλία/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Αυστραλία/Canberra"
+msgstr "Αυστραλία/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Αυστραλία/Darwin"
@@ -978,7 +964,7 @@ msgid "Australia/NSW"
 msgstr "Αυστραλία/NSW"
 
 msgid "Australia/Perth"
-msgstr "Αυστραλία/Perth"
+msgstr "Αυστραλία/Πέρθ"
 
 msgid "Australia/Queensland"
 msgstr "Αυστραλία/Queensland"
@@ -987,7 +973,7 @@ msgid "Australia/South"
 msgstr "Αυστραλία/Νότια"
 
 msgid "Australia/Sydney"
-msgstr "Αυστραλία/Sydney"
+msgstr "Αυστραλία/Σίδνεϊ"
 
 msgid "Australia/Tasmania"
 msgstr "Αυστραλία/Tasmania"
@@ -1206,7 +1192,7 @@ msgid "Europe/Budapest"
 msgstr "Ευρώπη/Βουδαπέστη"
 
 msgid "Europe/Chisinau"
-msgstr "Ευρώπη/Chisinau"
+msgstr "Ευρώπη/Κισινάου"
 
 msgid "Europe/Copenhagen"
 msgstr "Ευρώπη/Κοπενχάγη"
@@ -1247,9 +1233,8 @@ msgstr "Ευρώπη/Μαδρίτη"
 msgid "Europe/Malta"
 msgstr "Ευρώπη/Μάλτα"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Ευρώπη/Μαδρίτη"
+msgstr "Ευρώπη/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Ευρώπη/Μίνσκ"
@@ -1282,7 +1267,7 @@ msgid "Europe/Samara"
 msgstr "Ευρώπη/Σαμάρα"
 
 msgid "Europe/San_Marino"
-msgstr "Ευρώπη/Άγιος Μαρίνος"
+msgstr "Ευρώπη/Άγιος_Μαρίνος"
 
 msgid "Europe/Sarajevo"
 msgstr "Ευρώπη/Σεράγεβο"
@@ -1336,13 +1321,13 @@ msgid "Europe/Zurich"
 msgstr "Ευρώπη/Ζυρίχη"
 
 msgid "Factory"
-msgstr ""
+msgstr "Εργοστάσιο"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "GB-Eire"
-msgstr ""
+msgstr "GB-Eire"
 
 msgid "GMT"
 msgstr "GMT"
@@ -1369,7 +1354,7 @@ msgid "Iceland"
 msgstr "Ισλανδία"
 
 msgid "Indian/Antananarivo"
-msgstr "Ινδικός/Antananarivo"
+msgstr "Ινδικός/Ανταναναρίβο"
 
 msgid "Indian/Chagos"
 msgstr "Ινδικός/Chagos"
@@ -1378,7 +1363,7 @@ msgid "Indian/Christmas"
 msgstr "Ινδικός/Christmas"
 
 msgid "Indian/Cocos"
-msgstr "Ινδικός/Cocos"
+msgstr "Ινδικός/Κόκος"
 
 msgid "Indian/Comoro"
 msgstr "Ινδικός/Comoro"
@@ -1390,16 +1375,16 @@ msgid "Indian/Mahe"
 msgstr "Ινδικός/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Ινδικός/Maldives"
+msgstr "Ινδικός/Μαλδίβες"
 
 msgid "Indian/Mauritius"
-msgstr "Ινδικός/Mauritius"
+msgstr "Ινδικός/Μαυρίκιος"
 
 msgid "Indian/Mayotte"
-msgstr "Ινδικός/Mayotte"
+msgstr "Ινδικός/Μαγιότ"
 
 msgid "Indian/Reunion"
-msgstr "Ινδικός/Reunion"
+msgstr "Ινδικός/Ρεϋνιόν"
 
 msgid "Iran"
 msgstr "Ιράν"
@@ -1414,7 +1399,7 @@ msgid "Japan"
 msgstr "Ιαπωνία"
 
 msgid "Kwajalein"
-msgstr ""
+msgstr "Kwajalein"
 
 msgid "Libya"
 msgstr "Λιβύη"
@@ -1447,7 +1432,7 @@ msgid "MST7MDT"
 msgstr "MST7MDT"
 
 msgid "Navajo"
-msgstr ""
+msgstr "Ναβάχο"
 
 msgid "NZ"
 msgstr "NZ"
@@ -1456,7 +1441,7 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "Ειρηνικός/Apia"
+msgstr "Ειρηνικός/Άπια"
 
 msgid "Pacific/Auckland"
 msgstr "Ειρηνικός/Auckland"
@@ -1474,7 +1459,7 @@ msgid "Pacific/Enderbury"
 msgstr "Ειρηνικός/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr "Ειρηνικός/Fakaofo"
+msgstr "Ειρηνικός/Φακαόφο"
 
 msgid "Pacific/Fiji"
 msgstr "Ειρηνικός/Φίτζι"
@@ -1492,7 +1477,7 @@ msgid "Pacific/Guadalcanal"
 msgstr "Ειρηνικός/Guadalcanal"
 
 msgid "Pacific/Guam"
-msgstr "Ειρηνικός/Guam"
+msgstr "Ειρηνικός/Γκουάμ"
 
 msgid "Pacific/Honolulu"
 msgstr "Ειρηνικός/Χονολουλού"
@@ -1519,31 +1504,31 @@ msgid "Pacific/Midway"
 msgstr "Ειρηνικός/Midway"
 
 msgid "Pacific/Nauru"
-msgstr "Ειρηνικός/Nauru"
+msgstr "Ειρηνικός/Ναουρού"
 
 msgid "Pacific/Niue"
-msgstr "Ειρηνικός/Niue"
+msgstr "Ειρηνικός/Νιούε"
 
 msgid "Pacific/Norfolk"
-msgstr "Ειρηνικός/Norfolk"
+msgstr "Ειρηνικός/Νόρφοκ"
 
 msgid "Pacific/Noumea"
-msgstr "Ειρηνικός/Noumea"
+msgstr "Ειρηνικός/Νουμέα"
 
 msgid "Pacific/Pago_Pago"
-msgstr "Ειρηνικός/Pago_Pago"
+msgstr "Ειρηνικός/Πάγκο_Πάγκο"
 
 msgid "Pacific/Palau"
-msgstr "Ειρηνικός/Palau"
+msgstr "Ειρηνικός/Παλάου"
 
 msgid "Pacific/Pitcairn"
-msgstr "Ειρηνικός/Pitcairn"
+msgstr "Ειρηνικός/Πίτκαιρν"
 
 msgid "Pacific/Ponape"
 msgstr "Ειρηνικός/Ponape"
 
 msgid "Pacific/Port_Moresby"
-msgstr "Ειρηνικός/Port_Moresby"
+msgstr "Ειρηνικός/Πορτ_Μόρεσμπι"
 
 msgid "Pacific/Rarotonga"
 msgstr "Ειρηνικός/Rarotonga"
@@ -1570,7 +1555,7 @@ msgid "Pacific/Wake"
 msgstr "Ειρηνικός/Wake"
 
 msgid "Pacific/Wallis"
-msgstr "Ειρηνικός/Wallis"
+msgstr "Ειρηνικός/Βαλίς"
 
 msgid "Pacific/Yap"
 msgstr "Ειρηνικός/Yap"
@@ -1642,7 +1627,7 @@ msgid "UCT"
 msgstr "UCT"
 
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 msgid "US/Alaska"
 msgstr "ΗΠΑ/Αλάσκα"
@@ -1684,10 +1669,11 @@ msgid "UTC"
 msgstr "UTC"
 
 msgid "WET"
-msgstr ""
+msgstr "WET"
 
 msgid "W-SU"
 msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Ζουλού"
+
