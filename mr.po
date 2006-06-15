@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mr\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-06-14 19:28+0530\n"
+"PO-Revision-Date: 2006-06-15 15:17+0530\n"
 "Last-Translator: Rahul Bhalerao <rbhalera@redhat.com>\n"
 "Language-Team: Marathi\n"
 "MIME-Version: 1.0\n"
@@ -1505,243 +1505,183 @@ msgstr "पॅसीफिक/क्वाजालेन"
 msgid "Pacific/Majuro"
 msgstr "पॅसीफिक/मजूरो"
 
-#, fuzzy
 msgid "Pacific/Marquesas"
-msgstr "पैसीफिक/मार्कसास"
+msgstr "पॅसीफिक/मार्कसास"
 
-#, fuzzy
 msgid "Pacific/Midway"
-msgstr "पैसीफिक/मिडवे"
+msgstr "पॅसीफिक/मिडवे"
 
-#, fuzzy
 msgid "Pacific/Nauru"
-msgstr "पैसीफिक/नोरु"
+msgstr "पॅसीफिक/नोरु"
 
-#, fuzzy
 msgid "Pacific/Niue"
-msgstr "पैसीफिक/नीयू"
+msgstr "पॅसीफिक/नीयू"
 
-#, fuzzy
 msgid "Pacific/Norfolk"
-msgstr "पैसीफिक/नारफोक"
+msgstr "पॅसीफिक/नारफोक"
 
-#, fuzzy
 msgid "Pacific/Noumea"
-msgstr "पैसीफिक/नामिया"
+msgstr "पॅसीफिक/नामिया"
 
-#, fuzzy
 msgid "Pacific/Pago_Pago"
-msgstr "पैसीफिक/पैगो_पैगो"
+msgstr "पॅसीफिक/पॅगो_पॅगो"
 
-#, fuzzy
 msgid "Pacific/Palau"
-msgstr "पैसीफिक/पलाउ"
+msgstr "पॅसीफिक/पलाउ"
 
-#, fuzzy
 msgid "Pacific/Pitcairn"
-msgstr "पैसीफिक/पिटकेरीन"
+msgstr "पॅसीफिक/पिटकेरीन"
 
-#, fuzzy
 msgid "Pacific/Ponape"
-msgstr "पैसीफिक/पोनापे"
+msgstr "पॅसीफिक/पोनापे"
 
-#, fuzzy
 msgid "Pacific/Port_Moresby"
-msgstr "पैसीफिक/पोर्ट_मोर्सबी"
+msgstr "पॅसीफिक/पोर्ट_मोर्सबी"
 
-#, fuzzy
 msgid "Pacific/Rarotonga"
-msgstr "पैसीफिक/ररोतंगा"
+msgstr "पॅसीफिक/ररोतंगा"
 
-#, fuzzy
 msgid "Pacific/Saipan"
-msgstr "पैसीफिक/सैपेन"
+msgstr "पॅसीफिक/सैपेन"
 
-#, fuzzy
 msgid "Pacific/Samoa"
-msgstr "पैसीफिक/समोआ"
+msgstr "पॅसीफिक/समोआ"
 
-#, fuzzy
 msgid "Pacific/Tahiti"
-msgstr "पैसीफिक/ताहिटी"
+msgstr "पॅसीफिक/ताहिटी"
 
-#, fuzzy
 msgid "Pacific/Tarawa"
-msgstr "पैसीफिक/तारावा"
+msgstr "पॅसीफिक/तारावा"
 
-#, fuzzy
 msgid "Pacific/Tongatapu"
-msgstr "पैसीफिक/टंगटपू"
+msgstr "पॅसीफिक/टंगटपू"
 
-#, fuzzy
 msgid "Pacific/Truk"
-msgstr "पैसीफिक/त्रुक"
+msgstr "पॅसीफिक/त्रुक"
 
-#, fuzzy
 msgid "Pacific/Wake"
-msgstr "पैसीफिक/वेक"
+msgstr "पॅसीफिक/वेक"
 
-#, fuzzy
 msgid "Pacific/Wallis"
-msgstr "पैसीफिक/वालिस"
+msgstr "पॅसीफिक/वालिस"
 
-#, fuzzy
 msgid "Pacific/Yap"
-msgstr "पैसीफिक/याप"
+msgstr "पॅसीफिक/याप"
 
-#, fuzzy
 msgid "Poland"
 msgstr "पोलंड"
 
-#, fuzzy
 msgid "Portugal"
 msgstr "पुर्तगाल"
 
-#, fuzzy
 msgid "PRC"
 msgstr "PRC"
 
-#, fuzzy
 msgid "PST8PDT"
 msgstr "PST8PDT"
 
-#, fuzzy
 msgid "ROC"
 msgstr "ROC"
 
-#, fuzzy
 msgid "ROK"
 msgstr "ROK"
 
-#, fuzzy
 msgid "Singapore"
 msgstr "सिंगापुर"
 
-#, fuzzy
 msgid "SystemV/AST4"
 msgstr "SystemV/AST4"
 
-#, fuzzy
 msgid "SystemV/AST4ADT"
 msgstr "SystemV/AST4ADT"
 
-#, fuzzy
 msgid "SystemV/CST6"
 msgstr "SystemV/CST6"
 
-#, fuzzy
 msgid "SystemV/CST6CDT"
 msgstr "SystemV/CST6CDT"
 
-#, fuzzy
 msgid "SystemV/EST5"
 msgstr "SystemV/EST5"
 
-#, fuzzy
 msgid "SystemV/EST5EDT"
 msgstr "SystemV/EST5EDT"
 
-#, fuzzy
 msgid "SystemV/HST10"
 msgstr "SystemV/HST10"
 
-#, fuzzy
 msgid "SystemV/MST7"
 msgstr "SystemV/MST7"
 
-#, fuzzy
 msgid "SystemV/MST7MDT"
 msgstr "SystemV/MST7MDT"
 
-#, fuzzy
 msgid "SystemV/PST8"
 msgstr "SystemV/PST8"
 
-#, fuzzy
 msgid "SystemV/PST8PDT"
 msgstr "SystemV/PST8PDT"
 
-#, fuzzy
 msgid "SystemV/YST9"
 msgstr "SystemV/YST9"
 
-#, fuzzy
 msgid "SystemV/YST9YDT"
 msgstr "SystemV/YST9YDT"
 
-#, fuzzy
 msgid "Turkey"
 msgstr "तुर्की"
 
-#, fuzzy
 msgid "UCT"
 msgstr "UCT"
 
-#, fuzzy
 msgid "Universal"
 msgstr "यूनिवर्सल"
 
-#, fuzzy
 msgid "US/Alaska"
 msgstr "US/अलास्का"
 
-#, fuzzy
 msgid "US/Aleutian"
 msgstr "US/एल्यूशन"
 
-#, fuzzy
 msgid "US/Arizona"
 msgstr "US/एरीजोना"
 
-#, fuzzy
 msgid "US/Central"
 msgstr "US/केन्द्रीय"
 
-#, fuzzy
 msgid "US/Eastern"
-msgstr "US/पूर्वी"
+msgstr "US/पूर्वीय"
 
-#, fuzzy
 msgid "US/East-Indiana"
 msgstr "US/पूर्व-इंडियाना"
 
-#, fuzzy
 msgid "US/Hawaii"
 msgstr "US/हवाई"
 
-#, fuzzy
 msgid "US/Indiana-Starke"
 msgstr "US/इंडियाना-स्टार्क"
 
-#, fuzzy
 msgid "US/Michigan"
 msgstr "US/मिसिगन"
 
-#, fuzzy
 msgid "US/Mountain"
 msgstr "US/माउन्टेन"
 
-#, fuzzy
 msgid "US/Pacific"
-msgstr "US/पैसीफिक"
+msgstr "US/पॅसीफिक"
 
-#, fuzzy
 msgid "US/Samoa"
 msgstr "US/समोवा"
 
-#, fuzzy
 msgid "UTC"
 msgstr "UTC"
 
-#, fuzzy
 msgid "WET"
 msgstr "WET"
 
-#, fuzzy
 msgid "W-SU"
 msgstr "W-SU"
 
-#, fuzzy
 msgid "Zulu"
 msgstr "झुलू"
 
