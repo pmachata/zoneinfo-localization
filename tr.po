@@ -1,11 +1,12 @@
 # translation of tr.po to Turkish
 # Bahadir Yagan <bahadir.yagan@mentorsystem.com>, 2004.
+# Egemen Metin Turan <mturan@aegee-ankara.org>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: tr\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-03-18 23:08+0200\n"
-"Last-Translator: Nilgün Belma Bugüner <nilgun@superonline.com>\n"
+"PO-Revision-Date: 2006-06-23 09:33+0200\n"
+"Last-Translator: Egemen Metin Turan <mturan@aegee-ankara.org>\n"
 "Language-Team: Turkish <fedora-trans-tr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Adisababa"
 
 msgid "Africa/Algiers"
-msgstr "Afrika/Algiers"
+msgstr "Afrika/Cezayir"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -160,7 +161,7 @@ msgid "Africa/Timbuktu"
 msgstr "Afrika/Timbuktu"
 
 msgid "Africa/Tripoli"
-msgstr "Afrika/Tripoli"
+msgstr "Afrika/Trablus"
 
 msgid "Africa/Tunis"
 msgstr "Afrika/Tunus"
@@ -183,49 +184,38 @@ msgstr "Amerika/Antigua"
 msgid "America/Araguaina"
 msgstr "Amerika/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amerika/Buenos_Aires"
+msgstr "Amerika/Arjantin/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Amerika/Catamarca"
+msgstr "Amerika/Arjantin/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amerika/Indiana/Indianapolis"
+msgstr "Amerika/Arjantin/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Amerika/Kordoba"
+msgstr "Amerika/Arjantin/Kordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Amerika/Jujuy"
+msgstr "Amerika/Arjantin/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika//Arjantin/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Amerika/Mendoza"
+msgstr "Amerika/Arjantin/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amerika/Indiana/Marengo"
+msgstr "Amerika/Arjantin/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Amerika/Antigua"
+msgstr "Amerika/Arjantin/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Amerika/Antigua"
+msgstr "Amerika/Arjantin/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Amerika/Araguaina"
+msgstr "Amerika/Arjantin/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "Amerika/Aruba"
@@ -236,9 +226,8 @@ msgstr "Amerika/Asuncion"
 msgid "America/Atka"
 msgstr "Amerika/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Amerika/Boa_Vista"
+msgstr "Amerika/Bahia"
 
 msgid "America/Barbados"
 msgstr "Amerika/Barbados"
@@ -262,11 +251,10 @@ msgid "America/Buenos_Aires"
 msgstr "Amerika/Buenos_Aires"
 
 msgid "America/Cambridge_Bay"
-msgstr "Amerika/Glace_Bay"
+msgstr "Amerika/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Amerika/Kayman"
+msgstr "Amerika/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "Amerika/Cancun"
@@ -289,9 +277,8 @@ msgstr "Amerika/Şikago"
 msgid "America/Chihuahua"
 msgstr "Amerika/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Coral_Limanı"
 
 msgid "America/Cordoba"
 msgstr "Amerika/Kordoba"
@@ -303,7 +290,7 @@ msgid "America/Cuiaba"
 msgstr "Amerika/Cuiaba"
 
 msgid "America/Curacao"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Kurakao"
 
 msgid "America/Danmarkshavn"
 msgstr "Amerika/Danmarkshavn"
@@ -375,7 +362,7 @@ msgid "America/Havana"
 msgstr "Amerika/Havana"
 
 msgid "America/Hermosillo"
-msgstr "Amerika/Detroit"
+msgstr "Amerika/Hermosillo"
 
 msgid "America/Indiana/Indianapolis"
 msgstr "Amerika/Indiana/Indianapolis"
@@ -399,7 +386,7 @@ msgid "America/Iqaluit"
 msgstr "Amerika/Iqaluit"
 
 msgid "America/Jamaica"
-msgstr "Amerika/Jamaica"
+msgstr "Amerika/Jameika"
 
 msgid "America/Jujuy"
 msgstr "Amerika/Jujuy"
@@ -453,7 +440,7 @@ msgid "America/Merida"
 msgstr "Amerika/Mendoza"
 
 msgid "America/Mexico_City"
-msgstr "Amerika/Meksiko_Siti"
+msgstr "Amerika/Meksiko"
 
 msgid "America/Miquelon"
 msgstr "Amerika/Miquelon"
@@ -578,9 +565,8 @@ msgstr "Amerika/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "Amerika/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Amerika/Tortola"
+msgstr "Amerika/Toronto"
 
 msgid "America/Tortola"
 msgstr "Amerika/Tortola"
@@ -621,9 +607,8 @@ msgstr "Antartika/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antartika/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antartika/Güney_Kutbu"
+msgstr "Antartika/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antartika/Güney_Kutbu"
@@ -701,13 +686,13 @@ msgid "Asia/Dacca"
 msgstr "Asya/Dakka"
 
 msgid "Asia/Damascus"
-msgstr "Asya/Damascus"
+msgstr "Asya/Şam"
 
 msgid "Asia/Dhaka"
 msgstr "Asya/Daka"
 
 msgid "Asia/Dili"
-msgstr "Asya/Tbilisi"
+msgstr "Asya/Dili"
 
 msgid "Asia/Dubai"
 msgstr "Asya/Dubai"
@@ -740,7 +725,7 @@ msgid "Asia/Jayapura"
 msgstr "Asya/Jayapura"
 
 msgid "Asia/Jerusalem"
-msgstr "Asya/Jerusalem"
+msgstr "Asya/Kudüs"
 
 msgid "Asia/Kabul"
 msgstr "Asya/Kabil"
@@ -788,7 +773,7 @@ msgid "Asia/Muscat"
 msgstr "Asya/Muscat"
 
 msgid "Asia/Nicosia"
-msgstr "Asya/Nikozya"
+msgstr "Asya/Lefkoşa"
 
 msgid "Asia/Novosibirsk"
 msgstr "Asya/Novosibirsk"
@@ -854,7 +839,7 @@ msgid "Asia/Tashkent"
 msgstr "Asya/Taşkent"
 
 msgid "Asia/Tbilisi"
-msgstr "Asya/Tbilisi"
+msgstr "Asya/Tiflis"
 
 msgid "Asia/Tehran"
 msgstr "Asya/Tahran"
@@ -896,7 +881,7 @@ msgid "Asia/Yekaterinburg"
 msgstr "Asya/Yekaterinburg"
 
 msgid "Asia/Yerevan"
-msgstr "Asya/Yerevan"
+msgstr "Asya/Erivan"
 
 msgid "Atlantic/Azores"
 msgstr "Atlantik/Azorlar"
@@ -908,7 +893,7 @@ msgid "Atlantic/Canary"
 msgstr "Atlantik/Kanarya"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "Atlantik/Keyp_Verde"
+msgstr "Atlantik/Cape_Verde"
 
 msgid "Atlantic/Faeroe"
 msgstr "Atlantik/Faroe"
@@ -935,20 +920,19 @@ msgid "Australia/ACT"
 msgstr "Avustralya/ACT"
 
 msgid "Australia/Adelaide"
-msgstr "Avustralya/Adelayd"
+msgstr "Avustralya/Adelaide"
 
 msgid "Australia/Brisbane"
-msgstr "Avustralya/Brisbeyn"
+msgstr "Avustralya/Brisbane"
 
 msgid "Australia/Broken_Hill"
 msgstr "Avustralya/Broken_Hill"
 
 msgid "Australia/Canberra"
-msgstr "Avustralya/Kanberra"
+msgstr "Avustralya/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Avustralya/Kanberra"
+msgstr "Avustralya/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Avustralya/Darwin"
@@ -966,10 +950,10 @@ msgid "Australia/Lord_Howe"
 msgstr "Avustralya/Lord_Howe"
 
 msgid "Australia/Melbourne"
-msgstr "Avustralya/Melburn"
+msgstr "Avustralya/Melbourne"
 
 msgid "Australia/North"
-msgstr "Avustralya/North"
+msgstr "Avustralya/Kuzey"
 
 msgid "Australia/NSW"
 msgstr "Avustralya/NSW"
@@ -981,7 +965,7 @@ msgid "Australia/Queensland"
 msgstr "Avustralya/Queensland"
 
 msgid "Australia/South"
-msgstr "Avustralya/South"
+msgstr "Avustralya/Güney"
 
 msgid "Australia/Sydney"
 msgstr "Avustralya/Sidney"
@@ -993,7 +977,7 @@ msgid "Australia/Victoria"
 msgstr "Avustralya/Victoria"
 
 msgid "Australia/West"
-msgstr "Avustralya/West"
+msgstr "Avustralya/Batı"
 
 msgid "Australia/Yancowinna"
 msgstr "Avustralya/Yancowinna"
@@ -1020,7 +1004,7 @@ msgid "Canada/Eastern"
 msgstr "Kanada/Doğu"
 
 msgid "Canada/East-Saskatchewan"
-msgstr "Kanada/Doğu-Saskaçevan"
+msgstr "Kanada/East-Saskatchewan"
 
 msgid "Canada/Mountain"
 msgstr "Kanada/Dağlık"
@@ -1041,10 +1025,10 @@ msgid "CET"
 msgstr "CET"
 
 msgid "Chile/Continental"
-msgstr "Şili/Continental"
+msgstr "Şili/Kıta"
 
 msgid "Chile/EasterIsland"
-msgstr "Şili/EasterIsland"
+msgstr "Şili/EasterAdaları"
 
 msgid "CST6CDT"
 msgstr "CST6CDT"
@@ -1203,13 +1187,13 @@ msgid "Europe/Budapest"
 msgstr "Avrupa/Budapeşte"
 
 msgid "Europe/Chisinau"
-msgstr "Avrupa/Chisinau"
+msgstr "Avrupa/Kişinev"
 
 msgid "Europe/Copenhagen"
 msgstr "Avrupa/Kopenhag"
 
 msgid "Europe/Dublin"
-msgstr "Avrupa/Dablin"
+msgstr "Avrupa/Dublin"
 
 msgid "Europe/Gibraltar"
 msgstr "Avrupa/Cebelitarık"
@@ -1244,9 +1228,8 @@ msgstr "Avrupa/Madrit"
 msgid "Europe/Malta"
 msgstr "Avrupa/Malta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Avrupa/Madrit"
+msgstr "Avrupa/Mariehamn"
 
 msgid "Europe/Minsk"
 msgstr "Avrupa/Minsk"
@@ -1258,7 +1241,7 @@ msgid "Europe/Moscow"
 msgstr "Avrupa/Moskova"
 
 msgid "Europe/Nicosia"
-msgstr "Avrupa/Nikozya"
+msgstr "Avrupa/Lefkoşa"
 
 msgid "Europe/Oslo"
 msgstr "Avrupa/Oslo"
@@ -1282,13 +1265,13 @@ msgid "Europe/San_Marino"
 msgstr "Avrupa/San_Marino"
 
 msgid "Europe/Sarajevo"
-msgstr "Avrupa/Sarayevo"
+msgstr "Avrupa/Saray_Bosna"
 
 msgid "Europe/Simferopol"
 msgstr "Avrupa/Simferopol"
 
 msgid "Europe/Skopje"
-msgstr "Avrupa/Skopje"
+msgstr "Avrupa/Üsküp"
 
 msgid "Europe/Sofia"
 msgstr "Avrupa/Sofya"
@@ -1363,40 +1346,40 @@ msgid "HST"
 msgstr "HST"
 
 msgid "Iceland"
-msgstr "Iceland"
+msgstr "İzlanda"
 
 msgid "Indian/Antananarivo"
-msgstr "Indian/Antananarivo"
+msgstr "Hint_Okyanusu/Antananarivo"
 
 msgid "Indian/Chagos"
-msgstr "Indian/Chagos"
+msgstr "Hint_Okyanusu/Chagos"
 
 msgid "Indian/Christmas"
-msgstr "Indian/Christmas"
+msgstr "Hint_Okyanusu/Christmas"
 
 msgid "Indian/Cocos"
-msgstr "Indian/Cocos"
+msgstr "Hint_Okyanusu/Cocos"
 
 msgid "Indian/Comoro"
-msgstr "Indian/Comoro"
+msgstr "Hint_Okyanusu/Comoro"
 
 msgid "Indian/Kerguelen"
-msgstr "Indian/Kerguelen"
+msgstr "Hint_Okyanusu/Kerguelen"
 
 msgid "Indian/Mahe"
-msgstr "Indian/Mahe"
+msgstr "Hint_Okyanusu/Mahe"
 
 msgid "Indian/Maldives"
-msgstr "Indian/Maldives"
+msgstr "Hint_Okyanusu/Maldives"
 
 msgid "Indian/Mauritius"
-msgstr "Indian/Mauritius"
+msgstr "Hint_Okyanusu/Mauritius"
 
 msgid "Indian/Mayotte"
-msgstr "Indian/Mayotte"
+msgstr "Hint_Okyanusu/Mayotte"
 
 msgid "Indian/Reunion"
-msgstr "Indian/Reunion"
+msgstr "Hint_Okyanusu/Reunion"
 
 msgid "Iran"
 msgstr "İran"
@@ -1405,7 +1388,7 @@ msgid "Israel"
 msgstr "İsrail"
 
 msgid "Jamaica"
-msgstr "Jameyka"
+msgstr "Jameika"
 
 msgid "Japan"
 msgstr "Japonya"
@@ -1642,40 +1625,40 @@ msgid "Universal"
 msgstr "Evrensel"
 
 msgid "US/Alaska"
-msgstr "US/Alaska"
+msgstr "ABD/Alaska"
 
 msgid "US/Aleutian"
-msgstr "US/Aleutian"
+msgstr "ABD/Aleutian"
 
 msgid "US/Arizona"
-msgstr "US/Arizona"
+msgstr "ABD/Arizona"
 
 msgid "US/Central"
-msgstr "US/Central"
+msgstr "ABD/Merkez"
 
 msgid "US/Eastern"
-msgstr "US/Eastern"
+msgstr "ABD/Doğu"
 
 msgid "US/East-Indiana"
-msgstr "US/East-Indiana"
+msgstr "ABD/East-Indiana"
 
 msgid "US/Hawaii"
-msgstr "US/Hawaii"
+msgstr "ABD/Hawaii"
 
 msgid "US/Indiana-Starke"
-msgstr "US/Indiana-Starke"
+msgstr "ABD/Indiana-Starke"
 
 msgid "US/Michigan"
-msgstr "US/Michigan"
+msgstr "ABD/Michigan"
 
 msgid "US/Mountain"
-msgstr "US/Mountain"
+msgstr "ABD/Mountain"
 
 msgid "US/Pacific"
-msgstr "US/Pacific"
+msgstr "ABD/Pasifik"
 
-msgid "US/Samoa"
-msgstr "US/Samoa"
+msgid "ABD/Samoa"
+msgstr "ABD/Samoa"
 
 msgid "UTC"
 msgstr "UTC"
@@ -1687,4 +1670,4 @@ msgid "W-SU"
 msgstr "W-SU"
 
 msgid "Zulu"
-msgstr "Sıfır"
+msgstr "Zulu"
