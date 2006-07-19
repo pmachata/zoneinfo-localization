@@ -1,13 +1,17 @@
+# translation of gl.po to 
+# , 2006.
+# , 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: gl\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2001-02-19 22:44+0100\n"
-"Last-Translator: Jesús Bravo Álvarez <jba@pobox.com>\n"
-"Language-Team: Galician <trasno@ceu.fi.udc.es>\n"
+"PO-Revision-Date: 2006-07-19 21:58+0200\n"
+"Last-Translator: \n"
+"Language-Team:  <gl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
 
 msgid "Africa/Abidjan"
 msgstr "África/Abidxán"
@@ -180,21 +184,18 @@ msgstr "América/Antiga"
 msgid "America/Araguaina"
 msgstr "América/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "América/Bos_Aires"
+msgstr "América/Arxentina/Bos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "América/Catamarca"
+msgstr "América/Arxentina/Catamarca"
 
 #, fuzzy
 msgid "America/Argentina/ComodRivadavia"
 msgstr "América/Indiana/Indianapolis"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "América/Córdoba"
+msgstr "Amárica/Arxentina/Córdoba"
 
 #, fuzzy
 msgid "America/Argentina/Jujuy"
@@ -204,9 +205,8 @@ msgstr "América/Juyjuy"
 msgid "America/Argentina/La_Rioja"
 msgstr "América/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "América/Mendoza"
+msgstr "América/Arxentina/Mendoza"
 
 #, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
@@ -216,13 +216,11 @@ msgstr "América/Indiana/Marengo"
 msgid "America/Argentina/San_Juan"
 msgstr "América/Antiga"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "América/Antiga"
+msgstr "América/Arxentina/Tucumán"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "América/Araguaina"
+msgstr "América/Arxentina/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "América/Aruba"
@@ -233,9 +231,8 @@ msgstr "América/Asunción"
 msgid "America/Atka"
 msgstr "América/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "América/Boa_Vista"
+msgstr "América/Baía"
 
 msgid "America/Barbados"
 msgstr "América/Barbados"
@@ -578,9 +575,8 @@ msgstr "América/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "América/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "América/Tortola"
+msgstr "América/Toronto"
 
 msgid "America/Tortola"
 msgstr "América/Tortola"
@@ -621,9 +617,8 @@ msgstr "Antártida/Mac_Murdo"
 msgid "Antarctica/Palmer"
 msgstr "Antártida/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antártida/Polo_Sur"
+msgstr "Antártida/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antártida/Polo_Sur"
@@ -631,9 +626,8 @@ msgstr "Antártida/Polo_Sur"
 msgid "Antarctica/Syowa"
 msgstr "Antártida/Syowa"
 
-#, fuzzy
 msgid "Antarctica/Vostok"
-msgstr "Antártida/Mawson"
+msgstr "Antártida/Vostok"
 
 msgid "Arctic/Longyearbyen"
 msgstr "Ártico/Longyearbyen"
@@ -775,9 +769,8 @@ msgstr "Asia/Kuvait"
 msgid "Asia/Macao"
 msgstr "Asia/Macao"
 
-#, fuzzy
 msgid "Asia/Macau"
-msgstr "Asia/Macao"
+msgstr "Asia/Macau"
 
 msgid "Asia/Magadan"
 msgstr "Asia/Magadan"
@@ -801,9 +794,8 @@ msgstr "Asia/Novosibirsk"
 msgid "Asia/Omsk"
 msgstr "Asia/Omsk"
 
-#, fuzzy
 msgid "Asia/Oral"
-msgstr "Asia/Kabul"
+msgstr "Asia/Oral"
 
 msgid "Asia/Phnom_Penh"
 msgstr "Asia/Phnom_Penh"
@@ -1697,3 +1689,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulú"
+
