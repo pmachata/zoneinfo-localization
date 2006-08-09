@@ -1,13 +1,14 @@
 # translation of ko.po to Korean
 # Michelle J Kim <mkim@redhat.com>, 2004.
 # Michelle Ji Yeen Kim <mkim@redhat.com>, 2006.
+# Eunju Kim <eukim@redhat.com>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: ko\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-01-03 11:16+1000\n"
-"Last-Translator: Michelle Ji Yeen Kim <mkim@redhat.com>\n"
-"Language-Team: Korean\n"
+"PO-Revision-Date: 2006-08-09 11:07+1000\n"
+"Last-Translator: Eunju Kim <eukim@redhat.com>\n"
+"Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -293,7 +294,7 @@ msgid "America/Curacao"
 msgstr "아메리카/쿠라카오(Curacao)"
 
 msgid "America/Danmarkshavn"
-msgstr "아메리카/Danmarkshavn"
+msgstr "아메리카/단마크샤븐(Danmarkshavn)"
 
 msgid "America/Dawson"
 msgstr "아메리카/도슨(Dawson)"
@@ -443,7 +444,7 @@ msgid "America/Mexico_City"
 msgstr "아메리카/멕시코_시티(Mexico_City)"
 
 msgid "America/Miquelon"
-msgstr "아메리카/Miquelon"
+msgstr "아메리카/미클롱(Miquelon)"
 
 msgid "America/Monterrey"
 msgstr "아메리카/몬테레이(Monterrey)"
@@ -515,7 +516,7 @@ msgid "America/Regina"
 msgstr "아메리카/리자이나(Regina)"
 
 msgid "America/Rio_Branco"
-msgstr "아메리카/Rio_Branco"
+msgstr "아메리카/리오_브랑코(Rio_Branco)"
 
 msgid "America/Rosario"
 msgstr "아메리카/로사리오(Rosario)"
@@ -617,7 +618,7 @@ msgid "Antarctica/Syowa"
 msgstr "남극대륙/쇼와(Syowa)"
 
 msgid "Antarctica/Vostok"
-msgstr "남극대륙/Vostok"
+msgstr "남극대륙/보스토크(Vostok)"
 
 msgid "Arctic/Longyearbyen"
 msgstr "북극해/롱이어벤(Longyearbyen)"
@@ -671,10 +672,10 @@ msgid "Asia/Calcutta"
 msgstr "아시아/캘커타(Calcutta)"
 
 msgid "Asia/Choibalsan"
-msgstr "아시아/Choibalsan"
+msgstr "아시아/초이발산(Choibalsan)"
 
 msgid "Asia/Chongqing"
-msgstr "아시아/Chongqing"
+msgstr "아시아/충칭(Chongqing)"
 
 msgid "Asia/Chungking"
 msgstr "아시아/충칭(Chungking)"
@@ -764,7 +765,7 @@ msgid "Asia/Magadan"
 msgstr "아시아/마가단(Magadan)"
 
 msgid "Asia/Makassar"
-msgstr "아시아/Makassar"
+msgstr "아시아/마카사르(Makassar)"
 
 msgid "Asia/Manila"
 msgstr "아시아/마닐라(Manila)"
@@ -782,13 +783,13 @@ msgid "Asia/Omsk"
 msgstr "아시아/옴스크(Omsk)"
 
 msgid "Asia/Oral"
-msgstr "아시아/Oral"
+msgstr "아시아/오럴(Oral)"
 
 msgid "Asia/Phnom_Penh"
 msgstr "아시아/프놈_펜(Phnom_Penh)"
 
 msgid "Asia/Pontianak"
-msgstr "아시아/Pontianak"
+msgstr "아시아/폰티아나크(Pontianak)"
 
 msgid "Asia/Pyongyang"
 msgstr "아시아/평양(Pyongyang)"
@@ -797,7 +798,7 @@ msgid "Asia/Qatar"
 msgstr "아시아/카타르(Qatar)"
 
 msgid "Asia/Qyzylorda"
-msgstr "아시아/Qyzylorda"
+msgstr "아시아/키질로르다(Qyzylorda)"
 
 msgid "Asia/Rangoon"
 msgstr "아시아/랑군(Rangoon)"
@@ -818,7 +819,7 @@ msgid "Asia/Saigon"
 msgstr "아시아/사이공(Saigon)"
 
 msgid "Asia/Sakhalin"
-msgstr "아시아/Sakhalin"
+msgstr "아시아/사할린(Sakhalin)"
 
 msgid "Asia/Samarkand"
 msgstr "아시아/사마르칸트(Samarkand)"
@@ -935,52 +936,52 @@ msgid "Australia/Currie"
 msgstr "호주/커리(Currie)"
 
 msgid "Australia/Darwin"
-msgstr "오스트레일리아/다윈(Darwin)"
+msgstr "호주/다윈(Darwin)"
 
 msgid "Australia/Hobart"
-msgstr "오스트레일리아/호바트(Hobart)"
+msgstr "호주/호바트(Hobart)"
 
 msgid "Australia/LHI"
-msgstr "오스트레일리아/LHI"
+msgstr "호주/LHI"
 
 msgid "Australia/Lindeman"
-msgstr "오스트레일리아/린드만(Lindeman)"
+msgstr "호주/린드만(Lindeman)"
 
 msgid "Australia/Lord_Howe"
-msgstr "오스트레일리아/로드_하우(Lord_Howe)"
+msgstr "호주/로드_하우(Lord_Howe)"
 
 msgid "Australia/Melbourne"
-msgstr "오스트레일리아/멜버른(Melbourne)"
+msgstr "호주/멜버른(Melbourne)"
 
 msgid "Australia/North"
-msgstr "오스트레일리아/북부(North)"
+msgstr "호주/북부(North)"
 
 msgid "Australia/NSW"
-msgstr "오스트레일리아/NSW"
+msgstr "호주/뉴사우스웨일즈(NSW)"
 
 msgid "Australia/Perth"
-msgstr "오스트레일리아/퍼스(Perth)"
+msgstr "호주/퍼스(Perth)"
 
 msgid "Australia/Queensland"
-msgstr "오스트레일리아/퀸스랜드(Queensland)"
+msgstr "호주/퀸스랜드(Queensland)"
 
 msgid "Australia/South"
-msgstr "오스트레일리아/남부(South)"
+msgstr "호주/남부(South)"
 
 msgid "Australia/Sydney"
-msgstr "오스트레일리아/시드니(Sydney)"
+msgstr "호주/시드니(Sydney)"
 
 msgid "Australia/Tasmania"
-msgstr "오스트레일리아/태스마니아(Tasmania)"
+msgstr "호주/태스마니아(Tasmania)"
 
 msgid "Australia/Victoria"
-msgstr "오스트레일리아/빅토리아(Victoria)"
+msgstr "호주/빅토리아(Victoria)"
 
 msgid "Australia/West"
-msgstr "오스트레일리아/서부(West)"
+msgstr "호주/서부(West)"
 
 msgid "Australia/Yancowinna"
-msgstr "오스트레일리아/얀코위나(Yancowinna)"
+msgstr "호주/얀코위나(Yancowinna)"
 
 msgid "Brazil/Acre"
 msgstr "브라질/아크레(Acre)"
