@@ -2,12 +2,13 @@
 # Copyright (C) 2005 Red Hat, Inc.
 # This file is distributed under the same license as the timezones package.
 # Zoltan Čala <zolika@sezampro.yu>, 1999.
+# Miloš Komarčević <kmilos@gmail.com>, 2005.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-01-04 22:56-0000\n"
+"PO-Revision-Date: 2006-08-20 19:15+0100\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -32,27 +33,23 @@ msgstr "Африка/Асмера"
 msgid "Africa/Bamako"
 msgstr "Африка/Бамако"
 
-#, fuzzy
 msgid "Africa/Bangui"
-msgstr "Африка/Bangui"
+msgstr "Африка/Бангуј"
 
-#, fuzzy
 msgid "Africa/Banjul"
-msgstr "Африка/Banjul"
+msgstr "Африка/Банџул"
 
 msgid "Africa/Bissau"
 msgstr "Африка/Бисау"
 
-#, fuzzy
 msgid "Africa/Blantyre"
-msgstr "Африка/Blantyre"
+msgstr "Африка/Блентајр"
 
 msgid "Africa/Brazzaville"
 msgstr "Африка/Бразавил"
 
-#, fuzzy
 msgid "Africa/Bujumbura"
-msgstr "Африка/Bujumbura"
+msgstr "Африка/Буџумбура"
 
 msgid "Africa/Cairo"
 msgstr "Африка/Каиро"
@@ -60,9 +57,8 @@ msgstr "Африка/Каиро"
 msgid "Africa/Casablanca"
 msgstr "Африка/Казабланка"
 
-#, fuzzy
 msgid "Africa/Ceuta"
-msgstr "Африка/Ceuta"
+msgstr "Африка/Сеута"
 
 msgid "Africa/Conakry"
 msgstr "Африка/Конакри"
@@ -79,9 +75,8 @@ msgstr "Африка/Џибути"
 msgid "Africa/Douala"
 msgstr "Африка/Дуала"
 
-#, fuzzy
 msgid "Africa/El_Aaiun"
-msgstr "Африка/El_Aaiun"
+msgstr "Африка/Ел_Ајун"
 
 msgid "Africa/Freetown"
 msgstr "Африка/Фритаун"
@@ -113,9 +108,8 @@ msgstr "Африка/Лагос"
 msgid "Africa/Libreville"
 msgstr "Африка/Либервил"
 
-#, fuzzy
 msgid "Africa/Lome"
-msgstr "Африка/Lome"
+msgstr "Африка/Ломе"
 
 msgid "Africa/Luanda"
 msgstr "Африка/Луанда"
@@ -153,9 +147,8 @@ msgstr "Африка/Нџамена"
 msgid "Africa/Niamey"
 msgstr "Африка/Ниамеј"
 
-#, fuzzy
 msgid "Africa/Nouakchott"
-msgstr "Африка/Nouakchott"
+msgstr "Африка/Нуакчот"
 
 msgid "Africa/Ouagadougou"
 msgstr "Африка/Уагадугу"
@@ -346,9 +339,8 @@ msgstr "Америка/Форт_Вејн"
 msgid "America/Glace_Bay"
 msgstr "Америка/Глејс_Беј"
 
-#, fuzzy
 msgid "America/Godthab"
-msgstr "Америка/Godthab"
+msgstr "Америка/Годтаб"
 
 msgid "America/Goose_Bay"
 msgstr "Америка/Гус_Беј"
@@ -398,9 +390,8 @@ msgstr "Америка/Индијана/Вевај"
 msgid "America/Inuvik"
 msgstr "Америка/Инувик"
 
-#, fuzzy
 msgid "America/Iqaluit"
-msgstr "Америка/Iqaluit"
+msgstr "Америка/Икалујт"
 
 msgid "America/Jamaica"
 msgstr "Америка/Јамајка"
@@ -409,9 +400,8 @@ msgstr "Америка/Јамајка"
 msgid "America/Jujuy"
 msgstr "Америка/Jujuy"
 
-#, fuzzy
 msgid "America/Juneau"
-msgstr "Америка/Juneau"
+msgstr "Америка/Жуно"
 
 msgid "America/Kentucky/Louisville"
 msgstr "Америка/Кентаки/Луивил"
@@ -419,7 +409,6 @@ msgstr "Америка/Кентаки/Луивил"
 msgid "America/Kentucky/Monticello"
 msgstr "Америка/Кентаки/Монтичело"
 
-#, fuzzy
 msgid "America/Knox_IN"
 msgstr "Америка/Нокс_IN"
 
@@ -527,9 +516,8 @@ msgstr "Америка/Порторико"
 msgid "America/Rainy_River"
 msgstr "Америка/Рејни_Ривер"
 
-#, fuzzy
 msgid "America/Rankin_Inlet"
-msgstr "Америка/Rankin_Inlet"
+msgstr "Америка/Ранкинов_рукавац"
 
 #, fuzzy
 msgid "America/Recife"
@@ -553,9 +541,8 @@ msgstr "Америка/Санто_Доминго"
 msgid "America/Sao_Paulo"
 msgstr "Америка/Сао_Паоло"
 
-#, fuzzy
 msgid "America/Scoresbysund"
-msgstr "Америка/Scoresbysund"
+msgstr "Америка/Скорзбисунд"
 
 msgid "America/Shiprock"
 msgstr "Америка/Шипрок"
@@ -587,9 +574,8 @@ msgstr "Америка/Свифт_Карент"
 msgid "America/Tegucigalpa"
 msgstr "Америка/Tegusigalpa"
 
-#, fuzzy
 msgid "America/Thule"
-msgstr "Америка/Thule"
+msgstr "Америка/Тул"
 
 msgid "America/Thunder_Bay"
 msgstr "Америка/Тандер_Беј"
@@ -597,9 +583,8 @@ msgstr "Америка/Тандер_Беј"
 msgid "America/Tijuana"
 msgstr "Америка/Тихуана"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Америка/Тортола"
+msgstr "Америка/Торонто"
 
 msgid "America/Tortola"
 msgstr "Америка/Тортола"
@@ -668,13 +653,11 @@ msgstr "Азија/Аман"
 msgid "Asia/Anadyr"
 msgstr "Азија/Анадир"
 
-#, fuzzy
 msgid "Asia/Aqtau"
-msgstr "Азија/Aqtau"
+msgstr "Азија/Актау"
 
-#, fuzzy
 msgid "Asia/Aqtobe"
-msgstr "Азија/Aqtobe"
+msgstr "Азија/Актобе"
 
 msgid "Asia/Ashgabat"
 msgstr "Азија/Ашгабат"
@@ -899,16 +882,14 @@ msgstr "Азија/Токио"
 msgid "Asia/Ujung_Pandang"
 msgstr "Азија/Ујанг_Панданг"
 
-#, fuzzy
 msgid "Asia/Ulaanbaatar"
-msgstr "Азија/Ulaanbaatar"
+msgstr "Азија/Уланбатар"
 
 msgid "Asia/Ulan_Bator"
 msgstr "Азија/Улан_Батор"
 
-#, fuzzy
 msgid "Asia/Urumqi"
-msgstr "Азија/Urumqi"
+msgstr "Азија/Урумчи"
 
 msgid "Asia/Vientiane"
 msgstr "Азија/Вијентијан"
