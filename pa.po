@@ -232,6 +232,10 @@ msgstr "ਅਮਰੀਕਾ/ਅਰੂਬਾ"
 msgid "America/Asuncion"
 msgstr "ਅਮਰੀਕਾ/ਅਸਨਸੀਨ"
 
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "ਅਮਰੀਕਾ/ਅਟਕਾ"
+
 msgid "America/Atka"
 msgstr "ਅਮਰੀਕਾ/ਅਟਕਾ"
 
@@ -246,6 +250,10 @@ msgstr "ਅਮਰੀਕਾ/ਬੀਲੀਮ"
 
 msgid "America/Belize"
 msgstr "ਅਮਰੀਕਾ/ਬੀਲਿਜ਼ੀ"
+
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "ਅਮਰੀਕਾ/ਕਾਨਕੂਨ"
 
 msgid "America/Boa_Vista"
 msgstr "ਅਮਰੀਕਾ/ਬੋਵੀਸਟਾ"
@@ -382,10 +390,18 @@ msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਕਨੋਸ਼"
 msgid "America/Indiana/Marengo"
 msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਮਰੀਨਗੋ"
 
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਮਰੀਨਗੋ"
+
 msgid "America/Indianapolis"
 msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾਪੋਲੀਸ"
 
 msgid "America/Indiana/Vevay"
+msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਵੀਵਾਆ"
+
+#, fuzzy
+msgid "America/Indiana/Vincennes"
 msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ/ਵੀਵਾਆ"
 
 msgid "America/Inuvik"
@@ -454,6 +470,10 @@ msgstr "ਅਮਰੀਕਾ/ਮੈਕਸੀਕਿ ਸ਼ਹਿਰ"
 msgid "America/Miquelon"
 msgstr "ਅਮਰੀਕਾ/ਮੀਕਊਇਲੋਨ"
 
+#, fuzzy
+msgid "America/Moncton"
+msgstr "ਅਮਰੀਕਾ/ਈਡਮੋਨਟੋਨ"
+
 msgid "America/Monterrey"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟੀਰੀਓ"
 
@@ -482,6 +502,10 @@ msgid "America/Noronha"
 msgstr "ਅਮਰੀਕਾ/ਨੋਰੋਹਾ"
 
 msgid "America/North_Dakota/Center"
+msgstr "ਅਮਰੀਕਾ/ਉਤਰੀ ਡਾਕੋਟਾ/ਕੇਦਰੀ"
+
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
 msgstr "ਅਮਰੀਕਾ/ਉਤਰੀ ਡਾਕੋਟਾ/ਕੇਦਰੀ"
 
 msgid "America/Panama"
@@ -1207,11 +1231,23 @@ msgstr "ਯੂਰਪ/ਡੂਬਲਿਨ"
 msgid "Europe/Gibraltar"
 msgstr "ਯੂਰਪ/ਗਿਬਰਲਟਾਰ"
 
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "ਯੂਰਪ/ਐਥਨਜ਼"
+
 msgid "Europe/Helsinki"
 msgstr "ਯੂਰਪ/ਹੀਲਸੀਨਕੀ"
 
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "ਯੂਰਪ/ਓਸਲੋ"
+
 msgid "Europe/Istanbul"
 msgstr "ਯੂਰਪ/ਇਸਟਾਨਬੂਲ"
+
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "ਯੂਰਪ/ਪੈਰਿਸ"
 
 msgid "Europe/Kaliningrad"
 msgstr "ਯੂਰਪ/ਕਾਲੀਨੀਗਰਾਡ"
@@ -1311,6 +1347,10 @@ msgstr "ਯੂਰਪ/ਵੀਆਨਾ"
 
 msgid "Europe/Vilnius"
 msgstr "ਯੂਰਪ/ਵੀਲਨੀਅਸ"
+
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "ਯੂਰਪ/ਬੀਲਗਰੇਡ"
 
 msgid "Europe/Warsaw"
 msgstr "ਯੂਰਪ/ਵਾਟਸਾ"
@@ -1585,45 +1625,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "ਸਿੰਘਾਪੁਰ"
 
-msgid "SystemV/AST4"
-msgstr "ਸਿਸਟਮV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "ਸਿਸਟਮV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "ਸਿਸਟਮV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "ਸਿਸਟਮV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "ਸਿਸਟਮV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "ਸਿਸਟਮV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "ਸਿਸਟਮV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "ਸਿਸਟਮV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "ਸਿਸਟਮV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "ਸਿਸਟਮV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "ਸਿਸਟਮV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "ਸਿਸਟਮV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "ਸਿਸਟਮV/YST9YDT"
-
 msgid "Turkey"
 msgstr "ਤੁਰਕੀ"
 
@@ -1666,6 +1667,10 @@ msgstr "ਅਮਰੀਕਾ/ਪਹਾੜੀ"
 msgid "US/Pacific"
 msgstr "ਅਮਰੀਕਾ/ਪ੍ਰਸ਼ਾਂਤ"
 
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "ਅਮਰੀਕਾ/ਪ੍ਰਸ਼ਾਂਤ"
+
 msgid "US/Samoa"
 msgstr "ਅਮਰੀਕਾ/ਸਾਮੋਨਾ"
 
@@ -1681,3 +1686,41 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
 
+#~ msgid "SystemV/AST4"
+#~ msgstr "ਸਿਸਟਮV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "ਸਿਸਟਮV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "ਸਿਸਟਮV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "ਸਿਸਟਮV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "ਸਿਸਟਮV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "ਸਿਸਟਮV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "ਸਿਸਟਮV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "ਸਿਸਟਮV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "ਸਿਸਟਮV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "ਸਿਸਟਮV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "ਸਿਸਟਮV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "ਸਿਸਟਮV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "ਸਿਸਟਮV/YST9YDT"
