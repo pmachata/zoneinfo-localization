@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-08-20 19:15+0100\n"
+"PO-Revision-Date: 2006-09-12 16:10+0100\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora@prevod.org>\n"
 "MIME-Version: 1.0\n"
@@ -228,6 +228,9 @@ msgstr "Amerika/Aruba"
 msgid "America/Asuncion"
 msgstr "Amerika/Asunsion"
 
+msgid "America/Atikokan"
+msgstr "Amerika/Atikokan"
+
 msgid "America/Atka"
 msgstr "Amerika/Atka"
 
@@ -242,6 +245,9 @@ msgstr "Amerika/Belem"
 
 msgid "America/Belize"
 msgstr "Amerika/Belize"
+
+msgid "America/Blanc-Sablon"
+msgstr "Amerika/Blan-Sablon"
 
 msgid "America/Boa_Vista"
 msgstr "Amerika/Boa_Vista"
@@ -381,11 +387,17 @@ msgstr "Amerika/Indijana/Noks"
 msgid "America/Indiana/Marengo"
 msgstr "Amerika/Indijana/Marengo"
 
+msgid "America/Indiana/Petersburg"
+msgstr "Amerika/Indijana/Pitersburg"
+
 msgid "America/Indianapolis"
 msgstr "Amerika/Indijanapolis"
 
 msgid "America/Indiana/Vevay"
 msgstr "Amerika/Indijana/Vevaj"
+
+msgid "America/Indiana/Vincennes"
+msgstr "Amerika/Indijana/Vinsens"
 
 msgid "America/Inuvik"
 msgstr "Amerika/Inuvik"
@@ -456,6 +468,9 @@ msgstr "Amerika/Meksiko_Siti"
 msgid "America/Miquelon"
 msgstr "Amerika/Mikelon"
 
+msgid "America/Moncton"
+msgstr "Amerika/Monkton"
+
 msgid "America/Monterrey"
 msgstr "Amerika/Monterej"
 
@@ -485,6 +500,9 @@ msgstr "Amerika/Noronja"
 
 msgid "America/North_Dakota/Center"
 msgstr "Amerika/Severna_Dakota/Centar"
+
+msgid "America/North_Dakota/New_Salem"
+msgstr "Amerika/Severna_Dakota/Nju_Salem"
 
 msgid "America/Panama"
 msgstr "Amerika/Panama"
@@ -1260,11 +1278,20 @@ msgstr "Evropa/Dablin"
 msgid "Europe/Gibraltar"
 msgstr "Evropa/Gibraltar"
 
+msgid "Europe/Guernsey"
+msgstr "Evropa/Gernzi"
+
 msgid "Europe/Helsinki"
 msgstr "Evropa/Helsinki"
 
+msgid "Europe/Isle_of_Man"
+msgstr "Evropa/Ostrvo Man"
+
 msgid "Europe/Istanbul"
 msgstr "Evropa/Carigrad"
+
+msgid "Europe/Jersey"
+msgstr "Evropa/Džerzi"
 
 msgid "Europe/Kaliningrad"
 msgstr "Evropa/Kaljinjingrad"
@@ -1364,6 +1391,9 @@ msgstr "Evropa/Beč"
 
 msgid "Europe/Vilnius"
 msgstr "Evropa/Vilnijus"
+
+msgid "Europe/Volgograd"
+msgstr "Evropa/Volgograd"
 
 msgid "Europe/Warsaw"
 msgstr "Evropa/Varšava"
@@ -1654,58 +1684,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "Singapur"
 
-#, fuzzy
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-#, fuzzy
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-#, fuzzy
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-#, fuzzy
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-#, fuzzy
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-#, fuzzy
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-#, fuzzy
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-#, fuzzy
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-#, fuzzy
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-#, fuzzy
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-#, fuzzy
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-#, fuzzy
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-#, fuzzy
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
 msgid "Turkey"
 msgstr "Turska"
 
@@ -1748,6 +1726,9 @@ msgstr "SAD/Planine"
 
 msgid "US/Pacific"
 msgstr "SAD/Pacifik"
+
+msgid "US/Pacific-New"
+msgstr "SAD/Pacifik-Novo"
 
 msgid "US/Samoa"
 msgstr "SAD/Samoa"
