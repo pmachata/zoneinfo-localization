@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gu\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-01-02 14:46+0530\n"
+"PO-Revision-Date: 2006-09-12 17:55+0530\n"
 "Last-Translator: Ankit Patel <ankit@redhat.com>\n"
 "Language-Team: Gujarati <fedora-trans-gu@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 "\n"
 "\n"
 
@@ -229,6 +229,9 @@ msgstr "અમેરિકા/એરુબા"
 msgid "America/Asuncion"
 msgstr "અમેરિકા/અસુન્સીઓન"
 
+msgid "America/Atikokan"
+msgstr "અમેરિકા/અટિકોકાન"
+
 msgid "America/Atka"
 msgstr "અમેરિકા/અટ્કા"
 
@@ -243,6 +246,9 @@ msgstr "અમેરિકા/બેલેમ"
 
 msgid "America/Belize"
 msgstr "અમેરિકા/બેલિઝ"
+
+msgid "America/Blanc-Sablon"
+msgstr "અમેરિકા/બ્લેન્ક-સાબ્લોન"
 
 msgid "America/Boa_Vista"
 msgstr "અમેરિકા/બોઆવિત્સા"
@@ -379,11 +385,17 @@ msgstr "અમેરિકા/ઈન્ડિયાના/ક્નોક્સ"
 msgid "America/Indiana/Marengo"
 msgstr "અમેરિકા/ઈન્ડિયાના/મારેંગો"
 
+msgid "America/Indiana/Petersburg"
+msgstr "અમેરિકા/ઈન્ડિયાના/પીટર્સબર્ગ"
+
 msgid "America/Indianapolis"
 msgstr "અમેરિકા/ઈન્ડિયાનાપોલિસ"
 
 msgid "America/Indiana/Vevay"
 msgstr "અમેરિકા/ઈન્ડિયાના/વેવે"
+
+msgid "America/Indiana/Vincennes"
+msgstr "અમેરિકા/ઈન્ડિયાના/વિન્સેનીઝ"
 
 msgid "America/Inuvik"
 msgstr "અમેરિકા/ઈનુવિક"
@@ -451,6 +463,9 @@ msgstr "અમેરિકા/મેક્સિકો શહેર"
 msgid "America/Miquelon"
 msgstr "અમેરિકા/મિકેલોન"
 
+msgid "America/Moncton"
+msgstr "અમેરિકા/મોન્ક્ટન"
+
 msgid "America/Monterrey"
 msgstr "અમેરિકા/મોન્ટેરી"
 
@@ -480,6 +495,9 @@ msgstr "અમેરિકા/નોરોન્હા"
 
 msgid "America/North_Dakota/Center"
 msgstr "અમેરિકા/ઉત્તર ડાકોતા/સેન્ટર"
+
+msgid "America/North_Dakota/New_Salem"
+msgstr "અમેરિકા/ઉત્તર ડાકોતા/ન્યુ સાલેમ"
 
 msgid "America/Panama"
 msgstr "અમેરિકા/પનામા"
@@ -1204,11 +1222,20 @@ msgstr "યુરોપ/ડબ્લીન"
 msgid "Europe/Gibraltar"
 msgstr "યુરોપ/ગિબ્રાલ્ટાર"
 
+msgid "Europe/Guernsey"
+msgstr "યુરોપ/ગ્યુર્નસી"
+
 msgid "Europe/Helsinki"
 msgstr "યુરોપ/હેલ્સીન્કી"
 
+msgid "Europe/Isle_of_Man"
+msgstr "યુરોપ/ઈસલ ઓફ મેન"
+
 msgid "Europe/Istanbul"
 msgstr "યુરોપ/ઈસ્તંબુલ"
+
+msgid "Europe/Jersey"
+msgstr "યુરોપ/જર્સી"
 
 msgid "Europe/Kaliningrad"
 msgstr "યુરોપ/કાલિનીન્ગ્રાડ"
@@ -1308,6 +1335,9 @@ msgstr "યુરોપ/વિયેના"
 
 msgid "Europe/Vilnius"
 msgstr "યુરોપ/વિલનિયસ"
+
+msgid "Europe/Volgograd"
+msgstr "યુરોપ/વોલ્ગોગ્રેડ"
 
 msgid "Europe/Warsaw"
 msgstr "યુરોપ/વોરસો"
@@ -1582,45 +1612,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "સિંગાપુર"
 
-msgid "SystemV/AST4"
-msgstr "સિસ્ટમV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "સિસ્ટમV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "સિસ્ટમV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "સિસ્ટમV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "સિસ્ટમV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "સિસ્ટમV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "સિસ્ટમV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "સિસ્ટમV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "સિસ્ટમV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "સિસ્ટમV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "સિસ્ટમV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "સિસ્ટમV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "સિસ્ટમV/YST9YDT"
-
 msgid "Turkey"
 msgstr "તુર્કી"
 
@@ -1663,6 +1654,9 @@ msgstr "US/પર્વતમાળા"
 msgid "US/Pacific"
 msgstr "US/પેસિફિક"
 
+msgid "US/Pacific-New"
+msgstr "US/પેસિફિક-ન્યુ"
+
 msgid "US/Samoa"
 msgstr "US/સમોઆ"
 
@@ -1677,3 +1671,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
