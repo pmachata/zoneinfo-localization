@@ -2,15 +2,16 @@
 # Ani Peter <apeter@redhat.com>, 2006.
 msgid ""
 msgstr ""
-"Last-Translator: Ani Peter <apeter@redhat.com>\n"
-"PO-Revision-Date: 2006-05-25 09:39+0530\n"
 "Project-Id-Version: ml\n"
+"PO-Revision-Date: 2006-05-25 09:39+0530\n"
+"Last-Translator: Ani Peter <apeter@redhat.com>\n"
 "Language-Team: Malayalam\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
 
 msgid "Africa/Abidjan"
 msgstr "ആഫ്റിക്ക/ആബിജാന്‍"
@@ -222,6 +223,10 @@ msgstr "അമേരിക്ക/അറൂബ"
 msgid "America/Asuncion"
 msgstr "അമേരിക്ക/അസൂണ്‍സ്യോന്‍"
 
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "അമേരിക്ക/അട്ട്ക്ക"
+
 msgid "America/Atka"
 msgstr "അമേരിക്ക/അട്ട്ക്ക"
 
@@ -236,6 +241,10 @@ msgstr "അമേരിക്ക/ബെലെം"
 
 msgid "America/Belize"
 msgstr "അമേരിക്ക/ബെലീസ്"
+
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "അമേരിക്ക/ക്യാന്‍കൂണ്‍"
 
 msgid "America/Boa_Vista"
 msgstr "അമേരിക്ക/ബ്വാ_വിസ്താ"
@@ -372,10 +381,18 @@ msgstr "അമേരിക്ക/ഇന്‍ഡ്യാന/നോക്സ്"
 msgid "America/Indiana/Marengo"
 msgstr "അമേരിക്ക/ഇന്‍ഡ്യാന/മാരെന്‍ഗോ"
 
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "അമേരിക്ക/ഇന്‍ഡ്യാന/മാരെന്‍ഗോ"
+
 msgid "America/Indianapolis"
 msgstr "അമേരിക്ക/ഇന്‍ഡ്യാനപോളിസ്"
 
 msgid "America/Indiana/Vevay"
+msgstr "അമേരിക്ക/ഇന്‍ഡ്യാന/വെവായ്"
+
+#, fuzzy
+msgid "America/Indiana/Vincennes"
 msgstr "അമേരിക്ക/ഇന്‍ഡ്യാന/വെവായ്"
 
 msgid "America/Inuvik"
@@ -444,6 +461,10 @@ msgstr "അമേരിക്ക/മെക്സിക്കോ_സിറ്റ�
 msgid "America/Miquelon"
 msgstr "അമേരിക്ക/മിക്ക്വിലോണ്‍ "
 
+#, fuzzy
+msgid "America/Moncton"
+msgstr "അമേരിക്ക/എട്മണ്‍ട്ടണ്‍"
+
 msgid "America/Monterrey"
 msgstr "അമേരിക്ക/മോണ്‍ട്ടെറീ"
 
@@ -472,6 +493,10 @@ msgid "America/Noronha"
 msgstr "അമേരിക്ക/നൊറോണ"
 
 msgid "America/North_Dakota/Center"
+msgstr "അമേരിക്ക/നോറ്‍ത്ത്_ഡക്കോറ്റ/സെന്‍ററ്‍"
+
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
 msgstr "അമേരിക്ക/നോറ്‍ത്ത്_ഡക്കോറ്റ/സെന്‍ററ്‍"
 
 msgid "America/Panama"
@@ -1197,11 +1222,23 @@ msgstr "യൂറോപ്പ്/ഡ്യൂബ്ളിന്‍"
 msgid "Europe/Gibraltar"
 msgstr "യൂറോപ്പ്/ഗിബ്രാല്റ്റര്‍"
 
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "യൂറോപ്പ്/ഏഥന്‍സ്"
+
 msgid "Europe/Helsinki"
 msgstr "യൂറോപ്പ്/ഹെല്‍സിന്‍ഖി"
 
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "യൂറോപ്പ്/ഓസ്ലോ"
+
 msgid "Europe/Istanbul"
 msgstr "യൂറോപ്പ്/ഇസ്റ്റാന്‍ബുല്‍"
+
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "യൂറോപ്പ്/പാരീസ്"
 
 msgid "Europe/Kaliningrad"
 msgstr "യൂറോപ്പ്/കലിനിന്‍ഗ്രാഡ്"
@@ -1301,6 +1338,10 @@ msgstr "യൂറോപ്പ്/വിയെന്ന"
 
 msgid "Europe/Vilnius"
 msgstr "യൂറോപ്പ്/വില്‍നെയസ്"
+
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "യൂറോപ്പ്/ബെല്‍ഗ്രേഡ്"
 
 msgid "Europe/Warsaw"
 msgstr "യൂറോപ്പ്/വാര്‍സൌ"
@@ -1575,45 +1616,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "സിംഗപ്പൂര്‍"
 
-msgid "SystemV/AST4"
-msgstr "സിസ്റ്റംV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "സിസ്റ്റംV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "സിസ്റ്റംV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "സിസ്റ്റംV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "സിസ്റ്റംV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "സിസ്റ്റംV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "സിസ്റ്റംV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "സിസ്റ്റംV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "സിസ്റ്റംV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "സിസ്റ്റംV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "സിസ്റ്റംV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "സിസ്റ്റംV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "സിസ്റ്റംV/YST9YDT"
-
 msgid "Turkey"
 msgstr "തുര്‍ക്കി"
 
@@ -1656,6 +1658,10 @@ msgstr "US/മൌണ്‍ടന്‍"
 msgid "US/Pacific"
 msgstr "US/പസിഫിക്ക്"
 
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "US/പസിഫിക്ക്"
+
 msgid "US/Samoa"
 msgstr "US/സമോവ"
 
@@ -1671,3 +1677,41 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "സുളു"
 
+#~ msgid "SystemV/AST4"
+#~ msgstr "സിസ്റ്റംV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "സിസ്റ്റംV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "സിസ്റ്റംV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "സിസ്റ്റംV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "സിസ്റ്റംV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "സിസ്റ്റംV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "സിസ്റ്റംV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "സിസ്റ്റംV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "സിസ്റ്റംV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "സിസ്റ്റംV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "സിസ്റ്റംV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "സിസ്റ്റംV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "സിസ്റ്റംV/YST9YDT"
