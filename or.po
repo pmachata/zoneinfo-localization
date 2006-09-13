@@ -15,7 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
 "\n"
 
 msgid "Africa/Abidjan"
@@ -228,6 +229,10 @@ msgstr "ଆମେରିକା/ଅରୁବା"
 msgid "America/Asuncion"
 msgstr "ଆମେରିକା/ଅସନଶିୟନ"
 
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "ଆମେରିକା/ଅଟକା"
+
 msgid "America/Atka"
 msgstr "ଆମେରିକା/ଅଟକା"
 
@@ -242,6 +247,10 @@ msgstr "ଆମେରିକା/ବେଲେମ"
 
 msgid "America/Belize"
 msgstr "ଆମେରିକା/ବେଲିଜ"
+
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "ଆମେରିକା/କାନକୁନ"
 
 msgid "America/Boa_Vista"
 msgstr "ଆମେରିକା/ବୋଆ_ଭିସ୍ଟା"
@@ -378,10 +387,18 @@ msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ନକ୍ସ"
 msgid "America/Indiana/Marengo"
 msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ମାରେଙ୍ଗୋ"
 
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ମାରେଙ୍ଗୋ"
+
 msgid "America/Indianapolis"
 msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନାପୋଲିସ"
 
 msgid "America/Indiana/Vevay"
+msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଭିଭେ"
+
+#, fuzzy
+msgid "America/Indiana/Vincennes"
 msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଭିଭେ"
 
 msgid "America/Inuvik"
@@ -450,6 +467,10 @@ msgstr "ଆମେରିକା/ମେକ୍ସିକୋ_ସହର"
 msgid "America/Miquelon"
 msgstr "ଆମେରିକା/ମିକ୍ଲୋନ"
 
+#, fuzzy
+msgid "America/Moncton"
+msgstr "ଆମେରିକା/ଏଡମୋଣ୍ଟୋନ"
+
 msgid "America/Monterrey"
 msgstr "ଆମେରିକା/ମାଣ୍ଟୋରୀ"
 
@@ -478,6 +499,10 @@ msgid "America/Noronha"
 msgstr "ଆମେରିକା/ନୋରୋଂହା"
 
 msgid "America/North_Dakota/Center"
+msgstr "ଆମେରିକା/ଉତ୍ତର_ଡକୋଟା/ମଦ୍ଦ୍ଯ"
+
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
 msgstr "ଆମେରିକା/ଉତ୍ତର_ଡକୋଟା/ମଦ୍ଦ୍ଯ"
 
 msgid "America/Panama"
@@ -1203,11 +1228,23 @@ msgstr "ୟୁରୋପ/ଡବ୍ଲିନ"
 msgid "Europe/Gibraltar"
 msgstr "ୟୁରୋପ/ଜିବ୍ରାଲ୍ଟର"
 
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "ୟୁରୋପ/ଏଥେନ୍ସ"
+
 msgid "Europe/Helsinki"
 msgstr "ୟୁରୋପ/ହେଲସିଙ୍କୀ"
 
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "ୟୁରୋପ/ଓସଲୋ"
+
 msgid "Europe/Istanbul"
 msgstr "ୟୁରୋପ/ଇସ୍ତାଂବୁଲ"
+
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "ୟୁରୋପ/ପାରିସ"
 
 msgid "Europe/Kaliningrad"
 msgstr "ୟୁରୋପ/କାଲିନୀଗ୍ରାଡ"
@@ -1307,6 +1344,10 @@ msgstr "ୟୁରୋପ/ଭିୟେନା"
 
 msgid "Europe/Vilnius"
 msgstr "ୟୁରୋପ/ଭିଲନିୟସ"
+
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "ୟୁରୋପ/ବେଲଗ୍ରେଡ"
 
 msgid "Europe/Warsaw"
 msgstr "ୟୁରୋପ/ଓ୍ବାରସୋ"
@@ -1581,45 +1622,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "ସିଙ୍ଗାପୁର"
 
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
 msgid "Turkey"
 msgstr "ତୁର୍କୀ"
 
@@ -1662,6 +1664,10 @@ msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର/ମାଉଣ୍ଟେନ"
 msgid "US/Pacific"
 msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର/ପେସୀଫିକ"
 
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର/ପେସୀଫିକ"
+
 msgid "US/Samoa"
 msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର/ସମୋଆ"
 
@@ -1677,3 +1683,41 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "ଜୁଲୁ"
 
+#~ msgid "SystemV/AST4"
+#~ msgstr "SystemV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "SystemV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "SystemV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "SystemV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "SystemV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "SystemV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "SystemV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "SystemV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "SystemV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "SystemV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "SystemV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "SystemV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "SystemV/YST9YDT"
