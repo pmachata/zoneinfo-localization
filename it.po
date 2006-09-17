@@ -1,4 +1,4 @@
-# translation of  it to italian
+# translation of it.po to Italiano
 # ITALIAN translation of 1.0.
 # Copyright (C) 2001 Red Hat, Inc.
 #
@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-01-03 07:16+0100\n"
+"PO-Revision-Date: 2006-09-17 14:19+0200\n"
 "Last-Translator: Francesco Tombolini <tombo@adamantio.net>\n"
-"Language-Team: Italiano <Fedora-trans-it@redhat.com>\n"
+"Language-Team: Italiano <fedora-trans-it@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 msgid "Africa/Abidjan"
@@ -230,9 +230,8 @@ msgstr "America/Aruba"
 msgid "America/Asuncion"
 msgstr "America/Asuncion"
 
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "America/Atka"
+msgstr "America/Atikokan"
 
 msgid "America/Atka"
 msgstr "America/Atka"
@@ -249,9 +248,8 @@ msgstr "America/Belem"
 msgid "America/Belize"
 msgstr "America/Belize"
 
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "America/Cancun"
+msgstr "America/Blanc-Sablon"
 
 msgid "America/Boa_Vista"
 msgstr "America/Boa_Vista"
@@ -388,9 +386,8 @@ msgstr "America/Indiana/Knox"
 msgid "America/Indiana/Marengo"
 msgstr "America/Indiana/Marengo"
 
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "America/Indiana/Marengo"
+msgstr "America/Indiana/Petersburg"
 
 msgid "America/Indianapolis"
 msgstr "America/Indianapolis"
@@ -398,9 +395,8 @@ msgstr "America/Indianapolis"
 msgid "America/Indiana/Vevay"
 msgstr "America/Indiana/Vevay"
 
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "America/Indiana/Vevay"
+msgstr "America/Indiana/Vincennes"
 
 msgid "America/Inuvik"
 msgstr "America/Inuvik"
@@ -468,9 +464,8 @@ msgstr "America/Mexico_City"
 msgid "America/Miquelon"
 msgstr "America/Miquelon"
 
-#, fuzzy
 msgid "America/Moncton"
-msgstr "America/Edmonton"
+msgstr "America/Moncton"
 
 msgid "America/Monterrey"
 msgstr "America/Monterrey"
@@ -502,9 +497,8 @@ msgstr "America/Noronha"
 msgid "America/North_Dakota/Center"
 msgstr "America/Dakota_del_Nord/Centro"
 
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "America/Dakota_del_Nord/Centro"
+msgstr "America/Dakota_del_Nord/New_Salem"
 
 msgid "America/Panama"
 msgstr "America/Panama"
@@ -1229,23 +1223,20 @@ msgstr "Europa/Dublino"
 msgid "Europe/Gibraltar"
 msgstr "Europa/Gibilterra"
 
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Europa/Atene"
+msgstr "Europa/Guernsey"
 
 msgid "Europe/Helsinki"
 msgstr "Europa/Helsinki"
 
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Europa/Oslo"
+msgstr "Europa/Isola_di_Man"
 
 msgid "Europe/Istanbul"
 msgstr "Europa/Istanbul"
 
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Europa/Parigi"
+msgstr "Europa/Jersey"
 
 msgid "Europe/Kaliningrad"
 msgstr "Europa/Kaliningrad"
@@ -1346,9 +1337,8 @@ msgstr "Europa/Vienna"
 msgid "Europe/Vilnius"
 msgstr "Europa/Vilnius"
 
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Europa/Belgrado"
+msgstr "Europa/Volgograd"
 
 msgid "Europe/Warsaw"
 msgstr "Europa/Varsavia"
@@ -1665,9 +1655,8 @@ msgstr "US/Mountain"
 msgid "US/Pacific"
 msgstr "US/Pacific"
 
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "US/Pacific"
+msgstr "US/Nuovo-Pacifico"
 
 msgid "US/Samoa"
 msgstr "US/Samoa"
@@ -1684,41 +1673,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulu"
 
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
