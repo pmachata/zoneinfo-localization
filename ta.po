@@ -1,18 +1,21 @@
-# translation of ta.po to 
+# translation of ta.po to Tamil
+# translation of ta.po to
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2006.
+# Felix <ifelix@redhat.com>, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ta\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-03-06 15:55+0530\n"
-"Last-Translator: \n"
-"Language-Team:  <ta@li.org>\n"
+"PO-Revision-Date: 2006-09-18 18:27+0530\n"
+"Last-Translator: Felix <ifelix@redhat.com>\n"
+"Language-Team: Tamil <ta@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 
 msgid "Africa/Abidjan"
 msgstr "ஆப்ரிக்கா/அபிட்ஜான்"
@@ -224,12 +227,11 @@ msgstr "அமெரிக்கா/அரூபா"
 msgid "America/Asuncion"
 msgstr "அமேரிக்கா/அஸுன்சியான்"
 
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "அமேரிக்கா/அட்கா"
+msgstr "அமெரிக்கா/அடிகோகன்"
 
 msgid "America/Atka"
-msgstr "அமேரிக்கா/அட்கா"
+msgstr "அமெரிக்கா/அட்கா"
 
 msgid "America/Bahia"
 msgstr "அமெரிக்கா/பஹியா"
@@ -243,12 +245,11 @@ msgstr "அமேரிக்கா/பேலெம்"
 msgid "America/Belize"
 msgstr "அமேரிக்கா/பெல்சி"
 
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "அமெரிக்கா/கன்குன்"
+msgstr "அமெரிக்கா/ப்ளாங்-சேப்லான்"
 
 msgid "America/Boa_Vista"
-msgstr "அமேரிக்கா/போவா_விஸ்டா"
+msgstr "அமெரிக்கா/போவா_விஸ்டா"
 
 msgid "America/Bogota"
 msgstr "அமேரிக்கா/பொகோடா"
@@ -382,9 +383,8 @@ msgstr "அமெரிக்கா/இந்தியானா/க்னாஸ�
 msgid "America/Indiana/Marengo"
 msgstr "அமெரிக்கா/இந்தியானா/மரேன்கோ"
 
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "அமெரிக்கா/இந்தியானா/மரேன்கோ"
+msgstr "அமெரிக்கா/இந்தியானா/பீட்டர்ஸ்பெர்க்"
 
 msgid "America/Indianapolis"
 msgstr "அமெரிக்கா/இந்தியானாபோலிஸ்"
@@ -392,9 +392,8 @@ msgstr "அமெரிக்கா/இந்தியானாபோலிஸ�
 msgid "America/Indiana/Vevay"
 msgstr "அமெரிக்கா/இந்தியானா/விவேயை"
 
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "அமெரிக்கா/இந்தியானா/விவேயை"
+msgstr "அமெரிக்கா/இந்தியானா/வின்சினெஸ்"
 
 msgid "America/Inuvik"
 msgstr "அமெரிக்கா/இனுவிக்"
@@ -462,9 +461,8 @@ msgstr "அமெரிக்கா/மெக்சிகோ_சிடி"
 msgid "America/Miquelon"
 msgstr "அமெரிக்கா/மிகுவெலொன்"
 
-#, fuzzy
 msgid "America/Moncton"
-msgstr "அமெரிக்கா/எட்மாந்டொன்"
+msgstr "அமெரிக்கா/மாங்க்டான்"
 
 msgid "America/Monterrey"
 msgstr "அமெரிக்கா/மோந்டெரி"
@@ -496,9 +494,8 @@ msgstr "அமெரிக்கா/நொரொன்ஹ"
 msgid "America/North_Dakota/Center"
 msgstr "அமெரிக்கா/நார்த்_டக்கோடா/மையம்"
 
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "அமெரிக்கா/நார்த்_டக்கோடா/மையம்"
+msgstr "அமெரிக்கா/வட_டக்கோடா/புது_சலீம்"
 
 msgid "America/Panama"
 msgstr "அமெரிக்கா/பனாமா"
@@ -1223,23 +1220,20 @@ msgstr "இந்தியன்/டுபிலின்"
 msgid "Europe/Gibraltar"
 msgstr "ஈரோப்/கிபிரால்டர்"
 
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "ஈரோப்/அதென்ஸ்"
+msgstr "ஐரோப்பா/க்யுர்ன்சே"
 
 msgid "Europe/Helsinki"
 msgstr "ஈரோப்/ஹெல்சிங்கி"
 
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "ஈரோப்/ஒஸ்லொ"
+msgstr "ஐரோப்பா/ஸ்லே_ஆஃப்_மேன்"
 
 msgid "Europe/Istanbul"
 msgstr "ஈரோப்/ஸ்டான்புல்"
 
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "ஈரோப்/பாரிஸ்"
+msgstr "ஐரோப்பா/ஜெர்சி"
 
 msgid "Europe/Kaliningrad"
 msgstr "ஈரோப்/கலின்ன்கிராடு"
@@ -1340,9 +1334,8 @@ msgstr "ஈரோப்/வீன்னா"
 msgid "Europe/Vilnius"
 msgstr "ஈரோப்/வில்லினியஸ்"
 
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "ஈரோப்/பெல்கிரேடு"
+msgstr "ஐரோப்பா/வால்கோக்ரேட்"
 
 msgid "Europe/Warsaw"
 msgstr "ஈரோப்/வார்சாவ்"
@@ -1659,9 +1652,8 @@ msgstr "யுஎஸ்/"
 msgid "US/Pacific"
 msgstr "யுஎஸ்/பசிபிக்"
 
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "யுஎஸ்/பசிபிக்"
+msgstr "யுஎஸ்/பசிபிக்-நியு"
 
 msgid "US/Samoa"
 msgstr "யுஎஸ்/சமோ"
@@ -1678,41 +1670,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "சுலு"
 
-#~ msgid "SystemV/AST4"
-#~ msgstr "சிஸ்டம்V/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "சிஸ்டம்V/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "சிஸ்டம்V/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "சிஸ்டம்V/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "சிஸ்டம்V/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "சிஸ்டம்V/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "சிஸ்டம்V/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "சிஸ்டம்V/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "சிஸ்டம்V/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "சிஸ்டம்V/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "சிஸ்டம்V/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "சிஸ்டம்V/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "சிஸ்டம்V/YST9YDT"
