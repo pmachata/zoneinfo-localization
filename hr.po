@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones 0\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-09-15 23:09+0100\n"
+"PO-Revision-Date: 2006-09-19 23:12+0100\n"
 "Last-Translator: Renato Pavicic <renato@translator-shop.org>\n"
 "Language-Team: Croatian Reanto Pavicic <lokalizacija@linux.hr repavici@globalnet.hr>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "Afrika/Adis_Ababa"
 
 msgid "Africa/Algiers"
-msgstr "Africa/Algiers"
+msgstr "Afrika/Algiers"
 
 msgid "Africa/Asmera"
 msgstr "Afrika/Asmera"
@@ -52,7 +52,7 @@ msgid "Africa/Bujumbura"
 msgstr "Afrika/Bujumbura"
 
 msgid "Africa/Cairo"
-msgstr "Africa/Cairo"
+msgstr "Afrika/Kairo"
 
 msgid "Africa/Casablanca"
 msgstr "Afrika/Casablanca"
@@ -544,7 +544,7 @@ msgid "America/Santiago"
 msgstr "Amerika/Santiago"
 
 msgid "America/Santo_Domingo"
-msgstr "America/Santo_Domingo"
+msgstr "Amerika/Santo_Domingo"
 
 msgid "America/Sao_Paulo"
 msgstr "Amerika/Sao_Paulo"
@@ -847,7 +847,7 @@ msgid "Asia/Seoul"
 msgstr "Azija/Seul"
 
 msgid "Asia/Shanghai"
-msgstr "Azijia/Shanghai"
+msgstr "Azija/Shanghai"
 
 msgid "Asia/Singapore"
 msgstr "Azija/Singapore"
@@ -937,7 +937,7 @@ msgid "Atlantic/St_Helena"
 msgstr "Atlantik/Sv._Helena"
 
 msgid "Australia/ACT"
-msgstr "Australia/ACT"
+msgstr "Australija/ACT"
 
 msgid "Australia/Adelaide"
 msgstr "Australija/Adelaide"
@@ -949,7 +949,7 @@ msgid "Australia/Broken_Hill"
 msgstr "Australija/Broken_Hill"
 
 msgid "Australia/Canberra"
-msgstr "Australia/Canberra"
+msgstr "Australija/Canberra"
 
 msgid "Australia/Currie"
 msgstr "Australija/Currie"
@@ -961,7 +961,7 @@ msgid "Australia/Hobart"
 msgstr "Australija/Hobart"
 
 msgid "Australia/LHI"
-msgstr "Australia/LHI"
+msgstr "Australija/LHI"
 
 msgid "Australia/Lindeman"
 msgstr "Australija/Lindeman"
@@ -973,34 +973,34 @@ msgid "Australia/Melbourne"
 msgstr "Australija/Melbourne"
 
 msgid "Australia/North"
-msgstr "Australia/Sjever"
+msgstr "Australija/Sjever"
 
 msgid "Australia/NSW"
-msgstr "Australia/NSW"
+msgstr "Australija/New South Wels"
 
 msgid "Australia/Perth"
 msgstr "Australija/Perth"
 
 msgid "Australia/Queensland"
-msgstr "Australia/Queensland"
+msgstr "Australija/Queensland"
 
 msgid "Australia/South"
-msgstr "Australia/Jug"
+msgstr "Australija/Jug"
 
 msgid "Australia/Sydney"
 msgstr "Australija/Sydney"
 
 msgid "Australia/Tasmania"
-msgstr "Australia/Tasmania"
+msgstr "Australija/Tasmania"
 
 msgid "Australia/Victoria"
-msgstr "Australia/Victoria"
+msgstr "Australija/Victoria"
 
 msgid "Australia/West"
-msgstr "Australia/Zapad"
+msgstr "Australija/Zapad"
 
 msgid "Australia/Yancowinna"
-msgstr "Australia/Yancowinna"
+msgstr "Australija/Yancowinna"
 
 msgid "Brazil/Acre"
 msgstr "Brazil/Acre"
@@ -1033,7 +1033,7 @@ msgid "Canada/Newfoundland"
 msgstr "Kanada/Newfoundland"
 
 msgid "Canada/Pacific"
-msgstr "Kanada/Pacifik"
+msgstr "Kanada/Tihi_ocean"
 
 msgid "Canada/Saskatchewan"
 msgstr "Kanada/Saskatchewan"
@@ -1210,7 +1210,7 @@ msgid "Europe/Chisinau"
 msgstr "Europa/Chisinau"
 
 msgid "Europe/Copenhagen"
-msgstr "Europa/Copenhagen"
+msgstr "Europa/Kopenhagen"
 
 msgid "Europe/Dublin"
 msgstr "Europa/Dublin"
@@ -1393,7 +1393,7 @@ msgid "Indian/Cocos"
 msgstr "Indijski_ocean/Kokosovi otoci"
 
 msgid "Indian/Comoro"
-msgstr "Indijski ocean/Komoro otoci"
+msgstr "Indijski_ocean/Komoro otoci"
 
 msgid "Indian/Kerguelen"
 msgstr "Indijski_ocean/Kerguelen"
@@ -1408,7 +1408,7 @@ msgid "Indian/Mauritius"
 msgstr "Indijski_ocean/Mauricijus"
 
 msgid "Indian/Mayotte"
-msgstr "Indijski ocean/Mayotte"
+msgstr "Indijski_ocean/Mayotte"
 
 msgid "Indian/Reunion"
 msgstr "Indijski_ocean/Reunion"
@@ -1468,124 +1468,124 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 msgid "Pacific/Apia"
-msgstr "Pacifik/Apia"
+msgstr "Tihi_ocean/Apia"
 
 msgid "Pacific/Auckland"
-msgstr "Pacifik/Auckland"
+msgstr "Tihi_ocean/Auckland"
 
 msgid "Pacific/Chatham"
-msgstr "Pacifik/Chatham"
+msgstr "Tihi_ocean/Chatham"
 
 msgid "Pacific/Easter"
-msgstr "Pacifik/Easter"
+msgstr "Tihi_ocean/Easter"
 
 msgid "Pacific/Efate"
-msgstr "Pacifik/Efate"
+msgstr "Tihi_ocean/Efate"
 
 msgid "Pacific/Enderbury"
-msgstr "Pacifik/Enderbury"
+msgstr "Tihi_ocean/Enderbury"
 
 msgid "Pacific/Fakaofo"
-msgstr "Pacific/Fakaofo"
+msgstr "Tihi_ocean/Fakaofo"
 
 msgid "Pacific/Fiji"
-msgstr "Pacifik/Fiji"
+msgstr "Tihi_ocean/Fiji"
 
 msgid "Pacific/Funafuti"
-msgstr "Pacifik/Funafuti"
+msgstr "Tihi_ocean/Funafuti"
 
 msgid "Pacific/Galapagos"
-msgstr "Pacifik/Galapagos"
+msgstr "Tihi_ocean/Galapagos"
 
 msgid "Pacific/Gambier"
-msgstr "Pacifik/Gambier"
+msgstr "Tihi_ocean/Gambier"
 
 msgid "Pacific/Guadalcanal"
-msgstr "Pacifik/Guadalcanal"
+msgstr "Tihi_ocean/Guadalcanal"
 
 msgid "Pacific/Guam"
-msgstr "Pacifik/Guam"
+msgstr "Tihi_ocean/Guam"
 
 msgid "Pacific/Honolulu"
-msgstr "Pacifik/Honolulu"
+msgstr "Tihi_ocean/Honolulu"
 
 msgid "Pacific/Johnston"
-msgstr "Pacific/Johnston"
+msgstr "Tihi_ocean/Johnston"
 
 msgid "Pacific/Kiritimati"
-msgstr "Pacifik/Kiritimati"
+msgstr "Tihi_ocean/Kiritimati"
 
 msgid "Pacific/Kosrae"
-msgstr "Pacifik/Kosrae"
+msgstr "Tihi_ocean/Kosrae"
 
 msgid "Pacific/Kwajalein"
-msgstr "Pacifik/Kwajalein"
+msgstr "Tihi_ocean/Kwajalein"
 
 msgid "Pacific/Majuro"
-msgstr "Pacifik/Majuro"
+msgstr "Tihi_ocean/Majuro"
 
 msgid "Pacific/Marquesas"
-msgstr "Pacifik/Marquesas"
+msgstr "Tihi_ocean/Marquesas"
 
 msgid "Pacific/Midway"
-msgstr "Pacifik/Midway"
+msgstr "Tihi_ocean/Midway"
 
 msgid "Pacific/Nauru"
-msgstr "Pacifik/Nauru"
+msgstr "Tihi_ocean/Nauru"
 
 msgid "Pacific/Niue"
-msgstr "Pacifik/Niue"
+msgstr "Tihi_ocean/Niue"
 
 msgid "Pacific/Norfolk"
-msgstr "Pacifik/Norfolk"
+msgstr "Tihi_ocean/Norfolk"
 
 msgid "Pacific/Noumea"
-msgstr "Pacifik/Noumea"
+msgstr "Tihi_ocean/Noumea"
 
 msgid "Pacific/Pago_Pago"
-msgstr "Pacifik/Pago_Pago"
+msgstr "Tihi_ocean/Pago_Pago"
 
 msgid "Pacific/Palau"
-msgstr "Pacifik/Palau"
+msgstr "Tihi_ocean/Palau"
 
 msgid "Pacific/Pitcairn"
-msgstr "Pacifik/Pitcairn"
+msgstr "Tihi_ocean/Pitcairn"
 
 msgid "Pacific/Ponape"
-msgstr "Pacifik/Ponape"
+msgstr "Tihi_ocean/Ponape"
 
 msgid "Pacific/Port_Moresby"
-msgstr "Pacifik/Port_Moresby"
+msgstr "Tihi_ocean/Port_Moresby"
 
 msgid "Pacific/Rarotonga"
-msgstr "Pacifik/Rarotonga"
+msgstr "Tihi_ocean/Rarotonga"
 
 msgid "Pacific/Saipan"
-msgstr "Pacifik/Saipan"
+msgstr "Tihi_ocean/Saipan"
 
 msgid "Pacific/Samoa"
-msgstr "Pacifik/Samoa"
+msgstr "Tihi_ocean/Samoa"
 
 msgid "Pacific/Tahiti"
-msgstr "Pacifik/Tahiti"
+msgstr "Tihi_ocean/Tahiti"
 
 msgid "Pacific/Tarawa"
-msgstr "Pacifik/Tarawa"
+msgstr "Tihi_ocean/Tarawa"
 
 msgid "Pacific/Tongatapu"
-msgstr "Pacifik/Tongatapu"
+msgstr "Tihi_ocean/Tongatapu"
 
 msgid "Pacific/Truk"
-msgstr "Pacifik/Truk"
+msgstr "Tihi_ocean/Truk"
 
 msgid "Pacific/Wake"
-msgstr "Pacifik/Wake"
+msgstr "Tihi_ocean/Wake"
 
 msgid "Pacific/Wallis"
-msgstr "Pacifik/Wallis"
+msgstr "Tihi_ocean/Wallis"
 
 msgid "Pacific/Yap"
-msgstr "Pacifik/Yap"
+msgstr "Tihi_ocean/Yap"
 
 msgid "Poland"
 msgstr "Poljska"
@@ -1648,7 +1648,7 @@ msgid "US/Mountain"
 msgstr "SAD/Planine"
 
 msgid "US/Pacific"
-msgstr "SAD/Pacifik"
+msgstr "SAD/Tihi_ocean"
 
 msgid "US/Pacific-New"
 msgstr "SAD/Tihi_ocean-Novo"
