@@ -1,3 +1,4 @@
+# translation of bn_IN.po to Bengali India
 # translation of bn_IN.po to Bangla (INDIA)
 # translation of bn_IN.po to Bangla (INDIA)
 # translation of bn_IN.po to Bangla (INDIA)
@@ -15,14 +16,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn_IN\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-01-17 14:40+0530\n"
+"PO-Revision-Date: 2006-09-26 15:18+0530\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
-"Language-Team: Bangla (INDIA) <redhat-translation@bengalinux.org>\n"
+"Language-Team: Bengali India\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 
 msgid "Africa/Abidjan"
 msgstr "আফ্রিকা/অবিজান"
@@ -34,7 +35,7 @@ msgid "Africa/Addis_Ababa"
 msgstr "আফ্রিকা/আডিস_আবাবা"
 
 msgid "Africa/Algiers"
-msgstr "আফ্রিকা/এলজিয়ার্স"
+msgstr "আফ্রিকা/অ্যালজিয়ার্স"
 
 msgid "Africa/Asmera"
 msgstr "আফ্রিকা/আসমেরা"
@@ -112,7 +113,7 @@ msgid "Africa/Kinshasa"
 msgstr "আফ্রিকা/কিনশাসা"
 
 msgid "Africa/Lagos"
-msgstr "আফ্রিকা/লেগোস"
+msgstr "আফ্রিকা/লাগোস"
 
 msgid "Africa/Libreville"
 msgstr "আফ্রিকা/লিবারভিল"
@@ -199,7 +200,7 @@ msgid "America/Argentina/Buenos_Aires"
 msgstr "আমেরিকা/আর্জেনটিনা/বুয়েনোস_আয়ারস"
 
 msgid "America/Argentina/Catamarca"
-msgstr "আমেরিকা/আর্জেনটিনা/কেটামার্কা"
+msgstr "আমেরিকা/আর্জেনটিনা/কাটামার্কা"
 
 msgid "America/Argentina/ComodRivadavia"
 msgstr "আমেরিকা/আর্জেনটিনা/কোমোডরিভাডাভিয়া"
@@ -274,10 +275,10 @@ msgid "America/Caracas"
 msgstr "আমেরিকা/কেরাকাস"
 
 msgid "America/Catamarca"
-msgstr "আমেরিকা/কেটামার্কা"
+msgstr "আমেরিকা/কাটামার্কা"
 
 msgid "America/Cayenne"
-msgstr "আমেরিকা/সায়েন"
+msgstr "আমেরিকা/কেয়েন"
 
 msgid "America/Cayman"
 msgstr "আমেরিকা/কেমেন"
@@ -316,7 +317,7 @@ msgid "America/Denver"
 msgstr "আমেরিকা/ডেনভার"
 
 msgid "America/Detroit"
-msgstr "আমেরিকা/ডেট্রোয়েট"
+msgstr "আমেরিকা/ডেট্রয়েট"
 
 msgid "America/Dominica"
 msgstr "আমেরিকা/ডোমিনিকা"
@@ -898,37 +899,37 @@ msgid "Asia/Yerevan"
 msgstr "এশিয়া/ইয়ারভান"
 
 msgid "Atlantic/Azores"
-msgstr "অ্যাটলান্টিক/এজোরে"
+msgstr "আটলান্টিক/এজোরে"
 
 msgid "Atlantic/Bermuda"
-msgstr "অ্যাটলান্টিক/বারমুডা"
+msgstr "আটলান্টিক/বারমুডা"
 
 msgid "Atlantic/Canary"
-msgstr "অ্যাটলান্টিক/ক্যানারি"
+msgstr "আটলান্টিক/ক্যানারি"
 
 msgid "Atlantic/Cape_Verde"
-msgstr "অ্যাটলান্টিক/কেপ_ভার্ডি"
+msgstr "আটলান্টিক/কেপ_ভার্ডি"
 
 msgid "Atlantic/Faeroe"
-msgstr "অ্যাটলান্টিক/ফেরো"
+msgstr "আটলান্টিক/ফেরো"
 
 msgid "Atlantic/Jan_Mayen"
-msgstr "অ্যাটলান্টিক/জান_মায়েন"
+msgstr "আটলান্টিক/জান_মায়েন"
 
 msgid "Atlantic/Madeira"
-msgstr "অ্যাটলান্টিক/মাদিইরা"
+msgstr "আটলান্টিক/মাদিইরা"
 
 msgid "Atlantic/Reykjavik"
-msgstr "অ্যাটলান্টিক/রিকয়াভিক"
+msgstr "আটলান্টিক/রিকয়াভিক"
 
 msgid "Atlantic/South_Georgia"
-msgstr "অ্যাটলান্টিক/সাউথ_জর্জিয়া"
+msgstr "আটলান্টিক/সাউথ_জর্জিয়া"
 
 msgid "Atlantic/Stanley"
-msgstr "অ্যাটলান্টিক/স্টেনলি"
+msgstr "আটলান্টিক/স্টেনলি"
 
 msgid "Atlantic/St_Helena"
-msgstr "অ্যাটলান্টিক/সেন্ট_হেলেনা"
+msgstr "আটলান্টিক/সেন্ট_হেলেনা"
 
 msgid "Australia/ACT"
 msgstr "অস্ট্রেলিয়া/ACT"
@@ -1156,7 +1157,7 @@ msgid "Etc/GMT+9"
 msgstr "Etc/GMT+9"
 
 msgid "Etc/Greenwich"
-msgstr "Etc/গ্রিণউইচ"
+msgstr "Etc/গ্রিনউইচ"
 
 msgid "Etc/UCT"
 msgstr "Etc/UCT"
@@ -1237,7 +1238,7 @@ msgid "Europe/Luxembourg"
 msgstr "ইউরোপ/লুক্সেমবুর্গ"
 
 msgid "Europe/Madrid"
-msgstr "ইউরোপ/মাড্রিড"
+msgstr "ইউরোপ/মাদ্রিদ"
 
 msgid "Europe/Malta"
 msgstr "ইউরোপ/মল্টা"
@@ -1330,7 +1331,7 @@ msgid "Europe/Zurich"
 msgstr "ইউরোপ/জুরিখ"
 
 msgid "Factory"
-msgstr "কারখানা"
+msgstr "ফ্যাক্টরি"
 
 msgid "GB"
 msgstr "গ্রেট ব্রিটেন"
@@ -1575,7 +1576,7 @@ msgid "Poland"
 msgstr "পোল্যান্ড"
 
 msgid "Portugal"
-msgstr "পর্টুগাল"
+msgstr "পর্তুগাল"
 
 msgid "PRC"
 msgstr "PRC"
