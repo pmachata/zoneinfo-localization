@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn_IN\n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-09-26 15:18+0530\n"
+"PO-Revision-Date: 2006-09-27 11:56+0530\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
 "Language-Team: Bengali India\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"\n"
 
 msgid "Africa/Abidjan"
 msgstr "আফ্রিকা/অবিজান"
@@ -235,6 +236,9 @@ msgstr "আমেরিকা/আরুবা"
 msgid "America/Asuncion"
 msgstr "আমেরিকা/অ্যাসানশিয়ান"
 
+msgid "America/Atikokan"
+msgstr "আমেরিকা/আটিকোকান"
+
 msgid "America/Atka"
 msgstr "আমেরিকা/আটকা"
 
@@ -249,6 +253,9 @@ msgstr "আমেরিকা/বেলেম"
 
 msgid "America/Belize"
 msgstr "আমেরিকা/বেলিজে"
+
+msgid "America/Blanc-Sablon"
+msgstr "আমেরিকা/ব্লাঙ্ক-সাবলোন"
 
 msgid "America/Boa_Vista"
 msgstr "আমেরিকা/বোয়া_ভিস্টা"
@@ -386,11 +393,17 @@ msgstr "আমেরিকা/ইন্ডিয়ানা/নোক্স"
 msgid "America/Indiana/Marengo"
 msgstr "আমেরিকা/ইন্ডিয়ানা/মারেঙ্গো"
 
+msgid "America/Indiana/Petersburg"
+msgstr "আমেরিকা/ইন্ডিয়ানা/পিটার্সবার্গ"
+
 msgid "America/Indianapolis"
 msgstr "আমেরিকা/ইন্ডিয়ানাপোলিস"
 
 msgid "America/Indiana/Vevay"
 msgstr "আমেরিকা/ইন্ডিয়ানা/ভিভে"
+
+msgid "America/Indiana/Vincennes"
+msgstr "আমেরিকা/ইন্ডিয়ানা/ভিনসেন"
 
 msgid "America/Inuvik"
 msgstr "আমেরিকা/ইনুভিক"
@@ -460,6 +473,9 @@ msgstr "আমেরিকা/মেক্সিকো_সিটি"
 msgid "America/Miquelon"
 msgstr "আমেরিকা/মিকেলন"
 
+msgid "America/Moncton"
+msgstr "আমেরিকা/মঙ্কটন"
+
 msgid "America/Monterrey"
 msgstr "আমেরিকা/মন্টেরি"
 
@@ -489,6 +505,9 @@ msgstr "আমেরিকা/নোরোনহা"
 
 msgid "America/North_Dakota/Center"
 msgstr "আমেরিকা/নর্থ_ডাকোটা/সেন্টার"
+
+msgid "America/North_Dakota/New_Salem"
+msgstr "আমেরিকা/নর্থ_ডাকোটা/নিউ_সেলাম"
 
 msgid "America/Panama"
 msgstr "আমেরিকা/পানামা"
@@ -1213,11 +1232,20 @@ msgstr "ইউরোপ/ডাবলিন"
 msgid "Europe/Gibraltar"
 msgstr "ইউরোপ/জিব্রালটার"
 
+msgid "Europe/Guernsey"
+msgstr "ইউরোপ/গুয়ের্ন্সে"
+
 msgid "Europe/Helsinki"
 msgstr "ইউরোপ/হেলসিঙ্কি"
 
+msgid "Europe/Isle_of_Man"
+msgstr "ইউরোপ/আইল_অফ_ম্যান"
+
 msgid "Europe/Istanbul"
 msgstr "ইউরোপ/ইস্তানবুল"
+
+msgid "Europe/Jersey"
+msgstr "ইউরোপ/জার্সি"
 
 msgid "Europe/Kaliningrad"
 msgstr "ইউরোপ/কালিনিনগ্রাড"
@@ -1317,6 +1345,9 @@ msgstr "ইউরোপ/ভিয়েনা"
 
 msgid "Europe/Vilnius"
 msgstr "ইউরোপ/ভিলনিয়াস"
+
+msgid "Europe/Volgograd"
+msgstr "ইউরোপ/ভোল্গোগ্রাড"
 
 msgid "Europe/Warsaw"
 msgstr "ইউরোপ/ওয়ারস"
@@ -1593,45 +1624,6 @@ msgstr "ROK"
 msgid "Singapore"
 msgstr "সিঙ্গাপুর"
 
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
 msgid "Turkey"
 msgstr "তুরস্ক"
 
@@ -1674,6 +1666,9 @@ msgstr "যুক্তরাষ্ট্র/মাউন্টেন"
 
 msgid "US/Pacific"
 msgstr "যুক্তরাষ্ট্র/প্যাসিফিক"
+
+msgid "US/Pacific-New"
+msgstr "যুক্তরাষ্ট্র/প্যাসিফিক-নিউ"
 
 msgid "US/Samoa"
 msgstr "যুক্তরাষ্ট্র/সামোয়া"
