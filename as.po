@@ -1,0 +1,1677 @@
+# translation of as.po to Assamese
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Amitakhya Phukan <amitakhya.phukan@gmail.com>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: as\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-06 16:12+0100\n"
+"PO-Revision-Date: 2006-10-01 12:07+0530\n"
+"Last-Translator: Amitakhya Phukan <amitakhya.phukan@gmail.com>\n"
+"Language-Team: Assamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+msgid "Africa/Abidjan"
+msgstr "আফ্রিকা/অবিজান"
+
+msgid "Africa/Accra"
+msgstr "আফ্রিকা/আক্রা"
+
+msgid "Africa/Addis_Ababa"
+msgstr "আফ্রিকা/আডিস আবাবা (_A)"
+
+msgid "Africa/Algiers"
+msgstr "আফ্রিকা/অ্যালজিয়ার্স"
+
+msgid "Africa/Asmera"
+msgstr "আফ্রিকা/আস্মেৰা"
+
+msgid "Africa/Bamako"
+msgstr "আফ্রিকা/বামাকো"
+
+msgid "Africa/Bangui"
+msgstr "আফ্রিকা/বাঙ্গুই"
+
+msgid "Africa/Banjul"
+msgstr "আফ্রিকা/বানজুল"
+
+msgid "Africa/Bissau"
+msgstr "আফ্রিকা/বিচাউ"
+
+msgid "Africa/Blantyre"
+msgstr "আফ্রিকা/ব্ল্যানটায়াৰ"
+
+msgid "Africa/Brazzaville"
+msgstr "আফ্রিকা/ব্রাজাভিল"
+
+msgid "Africa/Bujumbura"
+msgstr "আফ্রিকা/বুজুমবুৰা"
+
+msgid "Africa/Cairo"
+msgstr "আফ্রিকা/কায়ৰো"
+
+msgid "Africa/Casablanca"
+msgstr "আফ্রিকা/কাচাব্লাঙ্কা"
+
+msgid "Africa/Ceuta"
+msgstr "আফ্রিকা/থেউটা"
+
+msgid "Africa/Conakry"
+msgstr "আফ্রিকা/কোনাক্রি"
+
+msgid "Africa/Dakar"
+msgstr "আফ্রিকা/ডাকাৰ"
+
+msgid "Africa/Dar_es_Salaam"
+msgstr "আফ্রিকা/ডাৰ_এস_চালাম"
+
+msgid "Africa/Djibouti"
+msgstr "আফ্রিকা/জিবুতি"
+
+msgid "Africa/Douala"
+msgstr "আফ্রিকা/ডুয়ালা"
+
+msgid "Africa/El_Aaiun"
+msgstr "আফ্রিকা/এল আউইন (_A)"
+
+msgid "Africa/Freetown"
+msgstr "আফ্রিকা/ফ্রিটাউন"
+
+msgid "Africa/Gaborone"
+msgstr "আফ্রিকা/গ্যাবাৰোন"
+
+msgid "Africa/Harare"
+msgstr "আফ্রিকা/হাৰাৰে"
+
+msgid "Africa/Johannesburg"
+msgstr "আফ্রিকা/জোহানেচ্বাৰ্গ"
+
+msgid "Africa/Kampala"
+msgstr "আফ্রিকা/কাম্পালা"
+
+msgid "Africa/Khartoum"
+msgstr "আফ্রিকা/খাৰতৌম"
+
+msgid "Africa/Kigali"
+msgstr "আফ্রিকা/কিগালি"
+
+msgid "Africa/Kinshasa"
+msgstr "আফ্রিকা/কিন্চাচা"
+
+msgid "Africa/Lagos"
+msgstr "আফ্রিকা/লাগোচ্"
+
+msgid "Africa/Libreville"
+msgstr "আফ্রিকা/লিবাৰভিল"
+
+msgid "Africa/Lome"
+msgstr "আফ্রিকা/লোমে"
+
+msgid "Africa/Luanda"
+msgstr "আফ্রিকা/লুয়ান্ডা"
+
+msgid "Africa/Lubumbashi"
+msgstr "আফ্রিকা/লুবুম্বাশি"
+
+msgid "Africa/Lusaka"
+msgstr "আফ্রিকা/লুচাকা"
+
+msgid "Africa/Malabo"
+msgstr "আফ্রিকা/মালাবো"
+
+msgid "Africa/Maputo"
+msgstr "আফ্রিকা/মাপুতো"
+
+msgid "Africa/Maseru"
+msgstr "আফ্রিকা/মাচেৰু"
+
+msgid "Africa/Mbabane"
+msgstr "আফ্রিকা/আমবাবানে"
+
+msgid "Africa/Mogadishu"
+msgstr "আফ্রিকা/মোগাডিশু"
+
+msgid "Africa/Monrovia"
+msgstr "আফ্রিকা/মোন্ৰোভিয়া"
+
+msgid "Africa/Nairobi"
+msgstr "আফ্রিকা/নায়ৰোবি"
+
+msgid "Africa/Ndjamena"
+msgstr "আফ্রিকা/আনজামেনা"
+
+msgid "Africa/Niamey"
+msgstr "আফ্রিকা/নিয়ামে"
+
+msgid "Africa/Nouakchott"
+msgstr "আফ্রিকা/নোয়াকশোট"
+
+msgid "Africa/Ouagadougou"
+msgstr "আফ্রিকা/ওয়াগাডুগু"
+
+msgid "Africa/Porto-Novo"
+msgstr "আফ্রিকা/পোর্টো-নোভো"
+
+msgid "Africa/Sao_Tome"
+msgstr "আফ্রিকা/সাও_টোমে"
+
+msgid "Africa/Timbuktu"
+msgstr "আফ্রিকা/টিম্বাকটু"
+
+msgid "Africa/Tripoli"
+msgstr "আফ্রিকা/ট্রিপোলি"
+
+msgid "Africa/Tunis"
+msgstr "আফ্রিকা/টিউনিস"
+
+msgid "Africa/Windhoek"
+msgstr "আফ্রিকা/ভিন্টহুক"
+
+msgid "America/Adak"
+msgstr "আমেৰিকা/আদাক"
+
+msgid "America/Anchorage"
+msgstr "আমেৰিকা/অ্যাঙ্কোৰেজ"
+
+msgid "America/Anguilla"
+msgstr "আমেৰিকা/অ্যাঙ্গিলা"
+
+msgid "America/Antigua"
+msgstr "আমেৰিকা/অ্যান্টিগা"
+
+msgid "America/Araguaina"
+msgstr "আমেৰিকা/আৰাগুয়েনা"
+
+msgid "America/Argentina/Buenos_Aires"
+msgstr "আমেৰিকা/আর্জেনটিনা/বুয়েনোচ্ আয়াৰ্চ (_A)"
+
+msgid "America/Argentina/Catamarca"
+msgstr "আমেৰিকা/আর্জেনটিনা/কাটামার্কা"
+
+msgid "America/Argentina/ComodRivadavia"
+msgstr "আমেৰিকা/আর্জেনটিনা/কোমোডৰিভাডাভিয়া"
+
+msgid "America/Argentina/Cordoba"
+msgstr "আমেৰিকা/আর্জেনটিনা/কোর্ডোবা"
+
+msgid "America/Argentina/Jujuy"
+msgstr "আমেৰিকা/আর্জেনটিনা/জুজুই"
+
+msgid "America/Argentina/La_Rioja"
+msgstr "আমেৰিকা/আর্জেনটিনা/লা ৰিওজা (_R)"
+
+msgid "America/Argentina/Mendoza"
+msgstr "আমেৰিকা/আর্জেনটিনা/মেন্ডোজা"
+
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "আমেৰিকা/আর্জেনটিনা/ৰিও গেলিগোচ্ (_G)"
+
+msgid "America/Argentina/San_Juan"
+msgstr "আমেৰিকা/আর্জেনটিনা/চান হুয়ান (_J)"
+
+msgid "America/Argentina/Tucuman"
+msgstr "আমেৰিকা/আর্জেনটিনা/টুকুমান"
+
+msgid "America/Argentina/Ushuaia"
+msgstr "আমেৰিকা/আর্জেনটিনা/উশুয়াইয়া"
+
+msgid "America/Aruba"
+msgstr "আমেৰিকা/আৰুবা"
+
+msgid "America/Asuncion"
+msgstr "আমেৰিকা/অ্যাচানশিয়ান"
+
+msgid "America/Atikokan"
+msgstr "আমেৰিকা/আটিকোকান"
+
+msgid "America/Atka"
+msgstr "আমেৰিকা/আটকা"
+
+msgid "America/Bahia"
+msgstr "আমেৰিকা/বাহিয়া"
+
+msgid "America/Barbados"
+msgstr "আমেৰিকা/বাৰবাডোচ্"
+
+msgid "America/Belem"
+msgstr "আমেৰিকা/বেলেম"
+
+msgid "America/Belize"
+msgstr "আমেৰিকা/বেলিজে"
+
+msgid "America/Blanc-Sablon"
+msgstr "আমেৰিকা/ব্লাঙ্ক-চাবলোন"
+
+msgid "America/Boa_Vista"
+msgstr "আমেৰিকা/বোয়া_ভিস্টা"
+
+msgid "America/Bogota"
+msgstr "আমেৰিকা/বোগোটা"
+
+msgid "America/Boise"
+msgstr "আমেৰিকা/বোয়স"
+
+msgid "America/Buenos_Aires"
+msgstr "আমেৰিকা/বুয়েনোচ্ আয়াৰ্চ (_A)"
+
+msgid "America/Cambridge_Bay"
+msgstr "আমেৰিকা/কেমব্রিজ বে (_B)"
+
+msgid "America/Campo_Grande"
+msgstr "আমেৰিকা/কাম্পো গ্রান্ডে (_G)"
+
+msgid "America/Cancun"
+msgstr "আমেৰিকা/কেনকুন"
+
+msgid "America/Caracas"
+msgstr "আমেৰিকা/কেৰাকাস"
+
+msgid "America/Catamarca"
+msgstr "আমেৰিকা/কাটামার্কা"
+
+msgid "America/Cayenne"
+msgstr "আমেৰিকা/কেয়েন"
+
+msgid "America/Cayman"
+msgstr "আমেৰিকা/কেমেন"
+
+msgid "America/Chicago"
+msgstr "আমেৰিকা/শিকাগো"
+
+msgid "America/Chihuahua"
+msgstr "আমেৰিকা/চিহুৱাহুৱা"
+
+msgid "America/Coral_Harbour"
+msgstr "আমেৰিকা/কোৰেল হার্বাৰ (_H)"
+
+msgid "America/Cordoba"
+msgstr "আমেৰিকা/কোর্ডোবা"
+
+msgid "America/Costa_Rica"
+msgstr "আমেৰিকা/কোস্টা ৰিকা (_R)"
+
+msgid "America/Cuiaba"
+msgstr "আমেৰিকা/কুইয়াবা"
+
+msgid "America/Curacao"
+msgstr "আমেৰিকা/কুৰাকাও"
+
+msgid "America/Danmarkshavn"
+msgstr "আমেৰিকা/ডানমার্কশওয়ান"
+
+msgid "America/Dawson"
+msgstr "আমেৰিকা/ডসন"
+
+msgid "America/Dawson_Creek"
+msgstr "আমেৰিকা/ডসন ক্রিক (_C)"
+
+msgid "America/Denver"
+msgstr "আমেৰিকা/ডেনভাৰ"
+
+msgid "America/Detroit"
+msgstr "আমেৰিকা/ডেট্রয়েট"
+
+msgid "America/Dominica"
+msgstr "আমেৰিকা/ডোমিনিকা"
+
+msgid "America/Edmonton"
+msgstr "আমেৰিকা/এডমনটন"
+
+msgid "America/Eirunepe"
+msgstr "আমেৰিকা/ইৰুনেপে"
+
+msgid "America/El_Salvador"
+msgstr "আমেৰিকা/এল সালভাডোৰ (_S)"
+
+msgid "America/Ensenada"
+msgstr "আমেৰিকা/এনচেনাডা"
+
+msgid "America/Fortaleza"
+msgstr "আমেৰিকা/ফোর্টালেজা"
+
+msgid "America/Fort_Wayne"
+msgstr "আমেৰিকা/ফোর্ট ওয়েইন (_W)"
+
+# not appropriate imho
+msgid "America/Glace_Bay"
+msgstr "আমেৰিকা/গ্লেস বে (_B)"
+
+msgid "America/Godthab"
+msgstr "আমেৰিকা/গডথাব"
+
+msgid "America/Goose_Bay"
+msgstr "আমেৰিকা/গূজ বে (_B)"
+
+msgid "America/Grand_Turk"
+msgstr "আমেৰিকা/গ্র্যান্ড টার্ক (_T)"
+
+msgid "America/Grenada"
+msgstr "আমেৰিকা/গ্রেনাডা"
+
+msgid "America/Guadeloupe"
+msgstr "আমেৰিকা/গুয়াডেলুপ"
+
+msgid "America/Guatemala"
+msgstr "আমেৰিকা/গুয়াটেমালা"
+
+msgid "America/Guayaquil"
+msgstr "আমেৰিকা/গায়াকুইল"
+
+msgid "America/Guyana"
+msgstr "আমেৰিকা/গায়ানা"
+
+msgid "America/Halifax"
+msgstr "আমেৰিকা/হ্যালিফ্যাক্স"
+
+msgid "America/Havana"
+msgstr "আমেৰিকা/হাভানা"
+
+msgid "America/Hermosillo"
+msgstr "আমেৰিকা/হার্মোসিলো"
+
+msgid "America/Indiana/Indianapolis"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/ইন্ডিয়ানাপোলিস"
+
+msgid "America/Indiana/Knox"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/নোক্স"
+
+msgid "America/Indiana/Marengo"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/মাৰেঙ্গো"
+
+msgid "America/Indiana/Petersburg"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/পিটার্সবার্গ"
+
+msgid "America/Indianapolis"
+msgstr "আমেৰিকা/ইন্ডিয়ানাপোলিস"
+
+msgid "America/Indiana/Vevay"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/ভিভে"
+
+msgid "America/Indiana/Vincennes"
+msgstr "আমেৰিকা/ইন্ডিয়ানা/ভিনসেন"
+
+msgid "America/Inuvik"
+msgstr "আমেৰিকা/ইনুভিক"
+
+# not sure
+msgid "America/Iqaluit"
+msgstr "আমেৰিকা/ইকালুইট"
+
+# not sure
+msgid "America/Jamaica"
+msgstr "আমেৰিকা/জামাইকা"
+
+msgid "America/Jujuy"
+msgstr "আমেৰিকা/জুজুই"
+
+msgid "America/Juneau"
+msgstr "আমেৰিকা/জুনিউ"
+
+msgid "America/Kentucky/Louisville"
+msgstr "আমেৰিকা/কেন্টাকি/লুইভিল"
+
+msgid "America/Kentucky/Monticello"
+msgstr "আমেৰিকা/কেন্টাকি/মোন্টিচেলো"
+
+msgid "America/Knox_IN"
+msgstr "আমেৰিকা/নোক্স ইন (_I)"
+
+msgid "America/La_Paz"
+msgstr "আমেৰিকা/লা পাজ (_P)"
+
+msgid "America/Lima"
+msgstr "আমেৰিকা/লিমা"
+
+msgid "America/Los_Angeles"
+msgstr "আমেৰিকা/লস অ্যাঞ্জেল্চ্ (_A)"
+
+msgid "America/Louisville"
+msgstr "আমেৰিকা/লুইভিল"
+
+msgid "America/Maceio"
+msgstr "আমেৰিকা/মাচিও"
+
+msgid "America/Managua"
+msgstr "আমেৰিকা/মানাগুয়া"
+
+msgid "America/Manaus"
+msgstr "আমেৰিকা/মানাউস"
+
+msgid "America/Martinique"
+msgstr "আমেৰিকা/মার্টিনিক"
+
+msgid "America/Mazatlan"
+msgstr "আমেৰিকা/মাজাতলান"
+
+msgid "America/Mendoza"
+msgstr "আমেৰিকা/মেন্ডোজা"
+
+msgid "America/Menominee"
+msgstr "আমেৰিকা/মেনোমিনি"
+
+msgid "America/Merida"
+msgstr "আমেৰিকা/মেৰিডা"
+
+msgid "America/Mexico_City"
+msgstr "আমেৰিকা/মেক্সিকো সিটি (_C)"
+
+msgid "America/Miquelon"
+msgstr "আমেৰিকা/মিকেলন"
+
+msgid "America/Moncton"
+msgstr "আমেৰিকা/মঙ্কটন"
+
+msgid "America/Monterrey"
+msgstr "আমেৰিকা/মণ্টেৰি"
+
+msgid "America/Montevideo"
+msgstr "আমেৰিকা/মন্টেভিডিও"
+
+msgid "America/Montreal"
+msgstr "আমেৰিকা/মনট্রিল"
+
+msgid "America/Montserrat"
+msgstr "আমেৰিকা/মন্টচেৰাত"
+
+msgid "America/Nassau"
+msgstr "আমেৰিকা/নাসাউ"
+
+msgid "America/New_York"
+msgstr "আমেৰিকা/নিউ ইয়োর্ক (_Y)"
+
+msgid "America/Nipigon"
+msgstr "আমেৰিকা/নিপিগন"
+
+msgid "America/Nome"
+msgstr "আমেৰিকা/নোম"
+
+msgid "America/Noronha"
+msgstr "আমেৰিকা/নোৰোনহা"
+
+msgid "America/North_Dakota/Center"
+msgstr "আমেৰিকা/নর্থ ডাকোটা (_D)/চেন্টাৰ"
+
+msgid "America/North_Dakota/New_Salem"
+msgstr "আমেৰিকা/নর্থ_ডাকোটা/নিউ_সেলাম"
+
+msgid "America/Panama"
+msgstr "আমেৰিকা/পানামা"
+
+msgid "America/Pangnirtung"
+msgstr "আমেৰিকা/পাংনিৰতুং"
+
+msgid "America/Paramaribo"
+msgstr "আমেৰিকা/পাৰামাৰিবো"
+
+msgid "America/Phoenix"
+msgstr "আমেৰিকা/ফিনিক্স"
+
+msgid "America/Port-au-Prince"
+msgstr "আমেৰিকা/পোর্ট_ও_প্রিন্স"
+
+msgid "America/Porto_Acre"
+msgstr "আমেৰিকা/পোর্তো একৰ (_A)"
+
+msgid "America/Port_of_Spain"
+msgstr "আমেৰিকা/পোর্ট_অফ_স্পেন"
+
+msgid "America/Porto_Velho"
+msgstr "আমেৰিকা/পোর্তো_ভেলহো"
+
+msgid "America/Puerto_Rico"
+msgstr "আমেৰিকা/পুয়ের্তো ৰিকো (_R)"
+
+msgid "America/Rainy_River"
+msgstr "আমেৰিকা/ৰেইনি ৰিভাৰ (_R)"
+
+msgid "America/Rankin_Inlet"
+msgstr "আমেৰিকা/ৰেঙ্কিন ইনলেট (_I)"
+
+msgid "America/Recife"
+msgstr "আমেৰিকা/ৰিসাইফে"
+
+msgid "America/Regina"
+msgstr "আমেৰিকা/ৰেজিনা"
+
+msgid "America/Rio_Branco"
+msgstr "আমেৰিকা/ৰিও ব্রাঙ্কো (_B)"
+
+msgid "America/Rosario"
+msgstr "আমেৰিকা/ৰোজাৰিও"
+
+msgid "America/Santiago"
+msgstr "আমেৰিকা/চান্টিয়াগো"
+
+msgid "America/Santo_Domingo"
+msgstr "আমেৰিকা/চান্টো ডোমিঙ্গো (_D)"
+
+msgid "America/Sao_Paulo"
+msgstr "আমেৰিকা/চাও পাওলো(_P)"
+
+msgid "America/Scoresbysund"
+msgstr "আমেৰিকা/স্কোর্সবিসান্ড"
+
+msgid "America/Shiprock"
+msgstr "আমেৰিকা/শিপৰক"
+
+msgid "America/St_Johns"
+msgstr "আমেৰিকা/চেন্ট জন্চ্ (_J)"
+
+msgid "America/St_Kitts"
+msgstr "আমেৰিকা/চেন্ট কিট্চ্ (_K)"
+
+msgid "America/St_Lucia"
+msgstr "আমেৰিকা/চেন্ট্ লুূচিয়া (_L)"
+
+msgid "America/St_Thomas"
+msgstr "আমেৰিকা/চেন্ট্ থোমাচ্ (_T)"
+
+msgid "America/St_Vincent"
+msgstr "আমেৰিকা/চেন্ট্ ভিনচেন্ট্ (_V)"
+
+msgid "America/Swift_Current"
+msgstr "আমেৰিকা/চ্যুইফ্ট্ কাৰেন্ট্ (_C)"
+
+msgid "America/Tegucigalpa"
+msgstr "আমেৰিকা/তেগুচিগাল্পা"
+
+msgid "America/Thule"
+msgstr "আমেৰিকা/থুল"
+
+msgid "America/Thunder_Bay"
+msgstr "আমেৰিকা/থান্ডাৰ বে (_B)"
+
+msgid "America/Tijuana"
+msgstr "আমেৰিকা/থেওয়ানা"
+
+msgid "America/Toronto"
+msgstr "আমেৰিকা/টৰোন্টো"
+
+msgid "America/Tortola"
+msgstr "আমেৰিকা/টৰটলা"
+
+msgid "America/Vancouver"
+msgstr "আমেৰিকা/ভ্যাংকুভাৰ"
+
+msgid "America/Virgin"
+msgstr "আমেৰিকা/ভার্জিন"
+
+msgid "America/Whitehorse"
+msgstr "আমেৰিকা/ওয়াইটহর্স"
+
+msgid "America/Winnipeg"
+msgstr "আমেৰিকা/উইনিপেগ"
+
+msgid "America/Yakutat"
+msgstr "আমেৰিকা/ইয়াকুতাত"
+
+msgid "America/Yellowknife"
+msgstr "আমেৰিকা/ইয়েল্লোনাইফ"
+
+msgid "Antarctica/Casey"
+msgstr "অ্যান্টার্কটিকা/ক্যাসি"
+
+msgid "Antarctica/Davis"
+msgstr "অ্যান্টার্কটিকা/ডেভিচ্"
+
+msgid "Antarctica/DumontDUrville"
+msgstr "অ্যান্টার্কটিকা/দুমোন্ত দ্য উৰভিল"
+
+msgid "Antarctica/Mawson"
+msgstr "অ্যান্টার্কটিকা/মচন"
+
+msgid "Antarctica/McMurdo"
+msgstr "অ্যান্টার্কটিকা/ম্যাকমার্ডো"
+
+msgid "Antarctica/Palmer"
+msgstr "অ্যান্টার্কটিকা/পাল্মাৰ"
+
+msgid "Antarctica/Rothera"
+msgstr "অ্যান্টার্কটিকা/ৰোথেৰা"
+
+msgid "Antarctica/South_Pole"
+msgstr "অ্যান্টার্কটিকা/দক্ষিণ মেৰু (_P)"
+
+msgid "Antarctica/Syowa"
+msgstr "অ্যান্টার্কটিকা/চিওয়া"
+
+msgid "Antarctica/Vostok"
+msgstr "অ্যান্টার্কটিকা/ভোস্টক"
+
+msgid "Arctic/Longyearbyen"
+msgstr "আর্কটিক/লংইয়াৰবেন"
+
+msgid "Asia/Aden"
+msgstr "এশিয়া/এডেন"
+
+msgid "Asia/Almaty"
+msgstr "এশিয়া/আলমাটি"
+
+msgid "Asia/Amman"
+msgstr "এশিয়া/আম্মান"
+
+msgid "Asia/Anadyr"
+msgstr "এশিয়া/আনাদিৰ"
+
+msgid "Asia/Aqtau"
+msgstr "এশিয়া/আকতু"
+
+msgid "Asia/Aqtobe"
+msgstr "এশিয়া/আকতোবে"
+
+msgid "Asia/Ashgabat"
+msgstr "এশিয়া/আশ‌গাবাত"
+
+msgid "Asia/Ashkhabad"
+msgstr "এশিয়া/আশখাবাদ"
+
+msgid "Asia/Baghdad"
+msgstr "এশিয়া/বাগদাদ"
+
+msgid "Asia/Bahrain"
+msgstr "এশিয়া/বাহৰেন"
+
+msgid "Asia/Baku"
+msgstr "এশিয়া/বাকু"
+
+msgid "Asia/Bangkok"
+msgstr "এশিয়া/ব্যাঙ্কক"
+
+msgid "Asia/Beirut"
+msgstr "এশিয়া/বেইৰুট"
+
+msgid "Asia/Bishkek"
+msgstr "এশিয়া/বিশকেক"
+
+msgid "Asia/Brunei"
+msgstr "এশিয়া/ব্রুনেই"
+
+msgid "Asia/Calcutta"
+msgstr "এশিয়া/কলকাতা"
+
+msgid "Asia/Choibalsan"
+msgstr "এশিয়া/চৈবালছান"
+
+msgid "Asia/Chongqing"
+msgstr "এশিয়া/চোংকিং"
+
+msgid "Asia/Chungking"
+msgstr "এশিয়া/চুংকিং"
+
+msgid "Asia/Colombo"
+msgstr "এশিয়া/কোলোম্বো"
+
+msgid "Asia/Dacca"
+msgstr "এশিয়া/ঢাকা"
+
+msgid "Asia/Damascus"
+msgstr "এশিয়া/ডামাচ্কাচ্"
+
+msgid "Asia/Dhaka"
+msgstr "এশিয়া/ঢাকা"
+
+msgid "Asia/Dili"
+msgstr "এশিয়া/ডিলি"
+
+msgid "Asia/Dubai"
+msgstr "এশিয়া/দুবাই"
+
+msgid "Asia/Dushanbe"
+msgstr "এশিয়া/দুশানবে"
+
+msgid "Asia/Gaza"
+msgstr "এশিয়া/গাজা"
+
+msgid "Asia/Harbin"
+msgstr "এশিয়া/হার্বিন"
+
+msgid "Asia/Hong_Kong"
+msgstr "এশিয়া/হং কং (_K)"
+
+msgid "Asia/Hovd"
+msgstr "এশিয়া/হোভড"
+
+msgid "Asia/Irkutsk"
+msgstr "এশিয়া/ইৰকুট্স্ক্"
+
+msgid "Asia/Istanbul"
+msgstr "এশিয়া/ইস্তানবুল"
+
+msgid "Asia/Jakarta"
+msgstr "এশিয়া/জাকার্তা"
+
+msgid "Asia/Jayapura"
+msgstr "এশিয়া/জায়াপুৰা"
+
+msgid "Asia/Jerusalem"
+msgstr "এশিয়া/জেৰুচেলাম"
+
+msgid "Asia/Kabul"
+msgstr "এশিয়া/কাবুল"
+
+msgid "Asia/Kamchatka"
+msgstr "এশিয়া/কামচাটকা"
+
+msgid "Asia/Karachi"
+msgstr "এশিয়া/কৰাচী"
+
+msgid "Asia/Kashgar"
+msgstr "এশিয়া/কাশগাৰা"
+
+msgid "Asia/Katmandu"
+msgstr "এশিয়া/কাটমান্ডু"
+
+msgid "Asia/Krasnoyarsk"
+msgstr "এশিয়া/ক্রাসনোয়ার্স্ক"
+
+msgid "Asia/Kuala_Lumpur"
+msgstr "এশিয়া/কুয়ালা লাম্পুৰ (_L)"
+
+msgid "Asia/Kuching"
+msgstr "এশিয়া/কুচিং"
+
+msgid "Asia/Kuwait"
+msgstr "এশিয়া/কুৱেইত"
+
+msgid "Asia/Macao"
+msgstr "এশিয়া/মাকাও"
+
+msgid "Asia/Macau"
+msgstr "এশিয়া/মাকাও"
+
+msgid "Asia/Magadan"
+msgstr "এশিয়া/মাগাদান"
+
+msgid "Asia/Makassar"
+msgstr "এশিয়া/মাকাচ্চাৰ"
+
+msgid "Asia/Manila"
+msgstr "এশিয়া/ম্যানিলা"
+
+msgid "Asia/Muscat"
+msgstr "এশিয়া/মাসকাট"
+
+msgid "Asia/Nicosia"
+msgstr "এশিয়া/নিকোসিয়া"
+
+msgid "Asia/Novosibirsk"
+msgstr "এশিয়া/নোভোসিবার্স্ক"
+
+msgid "Asia/Omsk"
+msgstr "এশিয়া/ওমস্ক"
+
+msgid "Asia/Oral"
+msgstr "এশিয়া/ওৰাল"
+
+msgid "Asia/Phnom_Penh"
+msgstr "এশিয়া/নোম ফেন (_P)"
+
+msgid "Asia/Pontianak"
+msgstr "এশিয়া/পন্টিয়ানাক"
+
+msgid "Asia/Pyongyang"
+msgstr "এশিয়া/পিয়োংইয়াং"
+
+msgid "Asia/Qatar"
+msgstr "এশিয়া/কাতাৰ"
+
+msgid "Asia/Qyzylorda"
+msgstr "এশিয়া/কিজিলোর্দা"
+
+msgid "Asia/Rangoon"
+msgstr "এশিয়া/ইয়াংগন"
+
+msgid "Asia/Riyadh"
+msgstr "এশিয়া/ৰিয়াধ"
+
+msgid "Asia/Riyadh87"
+msgstr "এশিয়া/ৰিয়াধ৮৭"
+
+msgid "Asia/Riyadh88"
+msgstr "এশিয়া/ৰিয়াধ৮৮"
+
+msgid "Asia/Riyadh89"
+msgstr "এশিয়া/ৰিয়াধ৮৯"
+
+msgid "Asia/Saigon"
+msgstr "এশিয়া/সায়গন"
+
+msgid "Asia/Sakhalin"
+msgstr "এশিয়া/শাকালিন"
+
+msgid "Asia/Samarkand"
+msgstr "এশিয়া/সামাৰখান্দ"
+
+msgid "Asia/Seoul"
+msgstr "এশিয়া/চিওল"
+
+msgid "Asia/Shanghai"
+msgstr "এশিয়া/সাংঘাই"
+
+msgid "Asia/Singapore"
+msgstr "এশিয়া/সিঙ্গাপুৰ"
+
+msgid "Asia/Taipei"
+msgstr "এশিয়া/তাইপে"
+
+msgid "Asia/Tashkent"
+msgstr "এশিয়া/তাসকেন্ত"
+
+msgid "Asia/Tbilisi"
+msgstr "এশিয়া/তবিলিশি"
+
+msgid "Asia/Tehran"
+msgstr "এশিয়া/তেহেৰান"
+
+msgid "Asia/Tel_Aviv"
+msgstr "এশিয়া/তেল আভিভ (_A)"
+
+msgid "Asia/Thimbu"
+msgstr "এশিয়া/থিম্বু"
+
+msgid "Asia/Thimphu"
+msgstr "এশিয়া/থিম্পু"
+
+msgid "Asia/Tokyo"
+msgstr "এশিয়া/টোকিও"
+
+msgid "Asia/Ujung_Pandang"
+msgstr "এশিয়া/উজুং পান্দাং (_P)"
+
+msgid "Asia/Ulaanbaatar"
+msgstr "এশিয়া/উলানবাতোৰ"
+
+msgid "Asia/Ulan_Bator"
+msgstr "এশিয়া/উলান বাতোৰ (_B)"
+
+msgid "Asia/Urumqi"
+msgstr "এশিয়া/উৰুমকি"
+
+msgid "Asia/Vientiane"
+msgstr "এশিয়া/ভিয়েনতিয়েন"
+
+msgid "Asia/Vladivostok"
+msgstr "এশিয়া/ভ্লাডিভোস্টক"
+
+msgid "Asia/Yakutsk"
+msgstr "এশিয়া/ইয়াকুটস"
+
+msgid "Asia/Yekaterinburg"
+msgstr "এশিয়া/ইয়াকাতাৰিনবুর্গ"
+
+msgid "Asia/Yerevan"
+msgstr "এশিয়া/ইয়াৰ্ভান"
+
+msgid "Atlantic/Azores"
+msgstr "আটলান্টিক/এজোৰে"
+
+msgid "Atlantic/Bermuda"
+msgstr "আটলান্টিক/বাৰমুডা"
+
+msgid "Atlantic/Canary"
+msgstr "আটলান্টিক/ক্যানাৰি"
+
+msgid "Atlantic/Cape_Verde"
+msgstr "আটলান্টিক/কেপ ভার্ডি (_V)"
+
+msgid "Atlantic/Faeroe"
+msgstr "আটলান্টিক/ফেৰো"
+
+msgid "Atlantic/Jan_Mayen"
+msgstr "আটলান্টিক/জান মায়েন (_M)"
+
+msgid "Atlantic/Madeira"
+msgstr "আটলান্টিক/মাদিইৰা"
+
+msgid "Atlantic/Reykjavik"
+msgstr "আটলান্টিক/ৰিকয়াভিক"
+
+msgid "Atlantic/South_Georgia"
+msgstr "আটলান্টিক/চাউথ জর্জিয়া (_G)"
+
+msgid "Atlantic/Stanley"
+msgstr "আটলান্টিক/স্টেনলি"
+
+msgid "Atlantic/St_Helena"
+msgstr "আটলান্টিক/চেন্ট্ হেলেনা (_H)"
+
+msgid "Australia/ACT"
+msgstr "অস্ট্রেলিয়া/ACT"
+
+msgid "Australia/Adelaide"
+msgstr "অস্ট্রেলিয়া/অ্যাডিলেড"
+
+msgid "Australia/Brisbane"
+msgstr "অস্ট্রেলিয়া/ব্রিসবেন"
+
+msgid "Australia/Broken_Hill"
+msgstr "অস্ট্রেলিয়া/ব্রোকেন হিল (_H)"
+
+msgid "Australia/Canberra"
+msgstr "অস্ট্রেলিয়া/ক্যানবেৰা"
+
+msgid "Australia/Currie"
+msgstr "অস্ট্রেলিয়া/কাৰি"
+
+msgid "Australia/Darwin"
+msgstr "অস্ট্রেলিয়া/ডাৰউইন"
+
+msgid "Australia/Hobart"
+msgstr "অস্ট্রেলিয়া/হোবার্ট"
+
+msgid "Australia/LHI"
+msgstr "অস্ট্রেলিয়া/LHI"
+
+msgid "Australia/Lindeman"
+msgstr "অস্ট্রেলিয়া/লিন্ডাম্যান"
+
+msgid "Australia/Lord_Howe"
+msgstr "অস্ট্রেলিয়া/লর্ড হাউই (_H)"
+
+msgid "Australia/Melbourne"
+msgstr "অস্ট্রেলিয়া/মেলবোর্ন"
+
+msgid "Australia/North"
+msgstr "অস্ট্রেলিয়া/উত্তৰ"
+
+msgid "Australia/NSW"
+msgstr "অস্ট্রেলিয়া/নিউ সাইথ ওয়েলস"
+
+msgid "Australia/Perth"
+msgstr "অস্ট্রেলিয়া/পার্থ"
+
+msgid "Australia/Queensland"
+msgstr "অস্ট্রেলিয়া/কুইন্সল্যান্ড"
+
+msgid "Australia/South"
+msgstr "অস্ট্রেলিয়া/দক্ষিণ"
+
+msgid "Australia/Sydney"
+msgstr "অস্ট্রেলিয়া/চিড্নি"
+
+msgid "Australia/Tasmania"
+msgstr "অস্ট্রেলিয়া/তাচ্মানিয়া"
+
+msgid "Australia/Victoria"
+msgstr "অস্ট্রেলিয়া/ভিক্টোৰিয়া"
+
+msgid "Australia/West"
+msgstr "অস্ট্রেলিয়া/পশ্চিম"
+
+msgid "Australia/Yancowinna"
+msgstr "অস্ট্রেলিয়া/ইয়ানকোউইনা"
+
+msgid "Brazil/Acre"
+msgstr "ব্রাজিল/একৰ"
+
+msgid "Brazil/DeNoronha"
+msgstr "ব্রাজিল/ডিনহোনহা"
+
+msgid "Brazil/East"
+msgstr "ব্রাজিল/পূর্ব"
+
+msgid "Brazil/West"
+msgstr "ব্রাজিল/পশ্চিম"
+
+msgid "Canada/Atlantic"
+msgstr "কানাডা/আটলান্টিক"
+
+msgid "Canada/Central"
+msgstr "কানাডা/চেন্ট্রেল"
+
+msgid "Canada/Eastern"
+msgstr "কানাডা/পূর্ব"
+
+msgid "Canada/East-Saskatchewan"
+msgstr "কানাডা/পূর্ব-সাসকাচুয়ান"
+
+msgid "Canada/Mountain"
+msgstr "কানাডা/মাউন্টেন"
+
+msgid "Canada/Newfoundland"
+msgstr "কানাডা/নিউফাউন্ডল্যান্ড"
+
+msgid "Canada/Pacific"
+msgstr "কানাডা/প্যাচিফিক"
+
+msgid "Canada/Saskatchewan"
+msgstr "কানাডা/সাসকাচুয়ান"
+
+msgid "Canada/Yukon"
+msgstr "কানাডা/ইউকোন"
+
+msgid "CET"
+msgstr "CET"
+
+msgid "Chile/Continental"
+msgstr "চিলি/কন্টিনেন্টাল"
+
+msgid "Chile/EasterIsland"
+msgstr "চিলি/ইস্টাৰআইল্যান্ড"
+
+msgid "CST6CDT"
+msgstr "CST6CDT"
+
+msgid "Cuba"
+msgstr "কিউবা"
+
+msgid "EET"
+msgstr "EET"
+
+msgid "Egypt"
+msgstr "মিচৰ"
+
+msgid "Eire"
+msgstr "আয়াৰ"
+
+msgid "EST"
+msgstr "EST"
+
+msgid "EST5EDT"
+msgstr "EST5EDT"
+
+msgid "Etc/GMT"
+msgstr "Etc/GMT"
+
+msgid "Etc/GMT0"
+msgstr "Etc/GMT0"
+
+msgid "Etc/GMT-0"
+msgstr "Etc/GMT-0"
+
+msgid "Etc/GMT+0"
+msgstr "Etc/GMT+0"
+
+msgid "Etc/GMT-1"
+msgstr "Etc/GMT-1"
+
+msgid "Etc/GMT+1"
+msgstr "Etc/GMT+1"
+
+msgid "Etc/GMT-10"
+msgstr "Etc/GMT-10"
+
+msgid "Etc/GMT+10"
+msgstr "Etc/GMT+10"
+
+msgid "Etc/GMT-11"
+msgstr "Etc/GMT-11"
+
+msgid "Etc/GMT+11"
+msgstr "Etc/GMT+11"
+
+msgid "Etc/GMT-12"
+msgstr "Etc/GMT-12"
+
+msgid "Etc/GMT+12"
+msgstr "Etc/GMT+12"
+
+msgid "Etc/GMT-13"
+msgstr "Etc/GMT-13"
+
+msgid "Etc/GMT-14"
+msgstr "Etc/GMT-14"
+
+msgid "Etc/GMT-2"
+msgstr "Etc/GMT-2"
+
+msgid "Etc/GMT+2"
+msgstr "Etc/GMT+2"
+
+msgid "Etc/GMT-3"
+msgstr "Etc/GMT-3"
+
+msgid "Etc/GMT+3"
+msgstr "Etc/GMT+3"
+
+msgid "Etc/GMT-4"
+msgstr "Etc/GMT-4"
+
+msgid "Etc/GMT+4"
+msgstr "Etc/GMT+4"
+
+msgid "Etc/GMT-5"
+msgstr "Etc/GMT-5"
+
+msgid "Etc/GMT+5"
+msgstr "Etc/GMT+5"
+
+msgid "Etc/GMT-6"
+msgstr "Etc/GMT-6"
+
+msgid "Etc/GMT+6"
+msgstr "Etc/GMT+6"
+
+msgid "Etc/GMT-7"
+msgstr "Etc/GMT-7"
+
+msgid "Etc/GMT+7"
+msgstr "Etc/GMT+7"
+
+msgid "Etc/GMT-8"
+msgstr "Etc/GMT-8"
+
+msgid "Etc/GMT+8"
+msgstr "Etc/GMT+8"
+
+msgid "Etc/GMT-9"
+msgstr "Etc/GMT-9"
+
+msgid "Etc/GMT+9"
+msgstr "Etc/GMT+9"
+
+msgid "Etc/Greenwich"
+msgstr "Etc/গ্রিনউইচ"
+
+msgid "Etc/UCT"
+msgstr "Etc/UCT"
+
+msgid "Etc/Universal"
+msgstr "Etc/Universal"
+
+msgid "Etc/UTC"
+msgstr "Etc/UTC"
+
+msgid "Etc/Zulu"
+msgstr "Etc/জুলু"
+
+msgid "Europe/Amsterdam"
+msgstr "ইউৰোপ/আমস্টাৰডাম"
+
+msgid "Europe/Andorra"
+msgstr "ইউৰোপ/এন্ডোৰা"
+
+msgid "Europe/Athens"
+msgstr "ইউৰোপ/এথেন্স"
+
+msgid "Europe/Belfast"
+msgstr "ইউৰোপ/বেলফাস্ট"
+
+msgid "Europe/Belgrade"
+msgstr "ইউৰোপ/বেলগ্রেড"
+
+msgid "Europe/Berlin"
+msgstr "ইউৰোপ/বার্লিন"
+
+msgid "Europe/Bratislava"
+msgstr "ইউৰোপ/ব্রাতিসলাভা"
+
+msgid "Europe/Brussels"
+msgstr "ইউৰোপ/ব্রাসেলস"
+
+msgid "Europe/Bucharest"
+msgstr "ইউৰোপ/বুখাৰেস্ট"
+
+msgid "Europe/Budapest"
+msgstr "ইউৰোপ/বুডাপেস্ট"
+
+msgid "Europe/Chisinau"
+msgstr "ইউৰোপ/চিশিনাউ"
+
+msgid "Europe/Copenhagen"
+msgstr "ইউৰোপ/কোপেনহেগেন"
+
+msgid "Europe/Dublin"
+msgstr "ইউৰোপ/ডাবলিন"
+
+msgid "Europe/Gibraltar"
+msgstr "ইউৰোপ/জিব্রালটাৰ"
+
+msgid "Europe/Guernsey"
+msgstr "ইউৰোপ/গুয়ের্ন্সে"
+
+msgid "Europe/Helsinki"
+msgstr "ইউৰোপ/হেলসিঙ্কি"
+
+msgid "Europe/Isle_of_Man"
+msgstr "ইউৰোপ/আইল_অফ_ম্যান"
+
+msgid "Europe/Istanbul"
+msgstr "ইউৰোপ/ইস্তানবুল"
+
+msgid "Europe/Jersey"
+msgstr "ইউৰোপ/জার্সি"
+
+msgid "Europe/Kaliningrad"
+msgstr "ইউৰোপ/কালিনিনগ্রাড"
+
+msgid "Europe/Kiev"
+msgstr "ইউৰোপ/কিভ"
+
+msgid "Europe/Lisbon"
+msgstr "ইউৰোপ/লিচ্বন্"
+
+msgid "Europe/Ljubljana"
+msgstr "ইউৰোপ/লুবলইয়ানা"
+
+msgid "Europe/London"
+msgstr "ইউৰোপ/লণ্ডন"
+
+msgid "Europe/Luxembourg"
+msgstr "ইউৰোপ/লুক্সেমবুর্গ"
+
+msgid "Europe/Madrid"
+msgstr "ইউৰোপ/মাদ্রিদ"
+
+msgid "Europe/Malta"
+msgstr "ইউৰোপ/মল্টা"
+
+msgid "Europe/Mariehamn"
+msgstr "ইউৰোপ/মাৰিহাম"
+
+msgid "Europe/Minsk"
+msgstr "ইউৰোপ/মিনস্ক"
+
+msgid "Europe/Monaco"
+msgstr "ইউৰোপ/মোনেকো"
+
+msgid "Europe/Moscow"
+msgstr "ইউৰোপ/মস্কো"
+
+msgid "Europe/Nicosia"
+msgstr "ইউৰোপ/নিকোসিয়া"
+
+msgid "Europe/Oslo"
+msgstr "ইউৰোপ/ওসলো"
+
+msgid "Europe/Paris"
+msgstr "ইউৰোপ/প্যাৰিশ্ব"
+
+msgid "Europe/Prague"
+msgstr "ইউৰোপ/প্রাগ"
+
+msgid "Europe/Riga"
+msgstr "ইউৰোপ/ৰিগা"
+
+msgid "Europe/Rome"
+msgstr "ইউৰোপ/ৰোম"
+
+msgid "Europe/Samara"
+msgstr "ইউৰোপ/সামাৰা"
+
+msgid "Europe/San_Marino"
+msgstr "ইউৰোপ/চান মাৰিনো (_M)"
+
+msgid "Europe/Sarajevo"
+msgstr "ইউৰোপ/সাৰায়েভো"
+
+msgid "Europe/Simferopol"
+msgstr "ইউৰোপ/সিম্ফিৰোপেল"
+
+msgid "Europe/Skopje"
+msgstr "ইউৰোপ/স্কপয়া"
+
+msgid "Europe/Sofia"
+msgstr "ইউৰোপ/সোফিয়া"
+
+msgid "Europe/Stockholm"
+msgstr "ইউৰোপ/স্টকহোম"
+
+msgid "Europe/Tallinn"
+msgstr "ইউৰোপ/ট্যালিন"
+
+msgid "Europe/Tirane"
+msgstr "ইউৰোপ/তিৰানা"
+
+msgid "Europe/Tiraspol"
+msgstr "ইউৰোপ/তিৰাসপোল"
+
+msgid "Europe/Uzhgorod"
+msgstr "ইউৰোপ/উজগোৰোদ"
+
+msgid "Europe/Vaduz"
+msgstr "ইউৰোপ/ভাদুজ"
+
+msgid "Europe/Vatican"
+msgstr "ইউৰোপ/ভ্যাটিকেন"
+
+msgid "Europe/Vienna"
+msgstr "ইউৰোপ/ভিয়েনা"
+
+msgid "Europe/Vilnius"
+msgstr "ইউৰোপ/ভিলনিয়াস"
+
+msgid "Europe/Volgograd"
+msgstr "ইউৰোপ/ভোল্গোগ্রাড"
+
+msgid "Europe/Warsaw"
+msgstr "ইউৰোপ/ওয়াৰস"
+
+msgid "Europe/Zagreb"
+msgstr "ইউৰোপ/জাগ্রেব"
+
+msgid "Europe/Zaporozhye"
+msgstr "ইউৰোপ/জাপোৰোযেই"
+
+msgid "Europe/Zurich"
+msgstr "ইউৰোপ/জুৰিখ"
+
+msgid "Factory"
+msgstr "ফ্যাক্টৰি"
+
+msgid "GB"
+msgstr "গ্রেট ব্রিটেন"
+
+msgid "GB-Eire"
+msgstr "গ্রেট ব্রিটেন-আয়াৰ"
+
+msgid "GMT"
+msgstr "GMT"
+
+msgid "GMT0"
+msgstr "GMT0"
+
+msgid "GMT-0"
+msgstr "GMT-0"
+
+msgid "GMT+0"
+msgstr "GMT+0"
+
+msgid "Greenwich"
+msgstr "গ্রিনউইচ"
+
+msgid "Hongkong"
+msgstr "হং কং"
+
+msgid "HST"
+msgstr "HST"
+
+msgid "Iceland"
+msgstr "আইসল্যান্ড"
+
+msgid "Indian/Antananarivo"
+msgstr "ভাৰত মহাসাগৰ/আন্তানানাৰিভো"
+
+msgid "Indian/Chagos"
+msgstr "ভাৰত মহাসাগৰ/চাগোস"
+
+msgid "Indian/Christmas"
+msgstr "ভাৰত মহাসাগৰ/ক্রিস্টমাস"
+
+msgid "Indian/Cocos"
+msgstr "ভাৰত মহাসাগৰ/কোকোস"
+
+msgid "Indian/Comoro"
+msgstr "ভাৰত মহাসাগৰ/কোমোৰো"
+
+msgid "Indian/Kerguelen"
+msgstr "ভাৰত মহাসাগৰ/কাৰগুয়েলেন"
+
+msgid "Indian/Mahe"
+msgstr "ভাৰত মহাসাগৰ/মাহে"
+
+msgid "Indian/Maldives"
+msgstr "ভাৰত মহাসাগৰ/মালদিভ"
+
+msgid "Indian/Mauritius"
+msgstr "ভাৰত মহাসাগৰ/মৰিশাস"
+
+msgid "Indian/Mayotte"
+msgstr "ভাৰত মহাসাগৰ/মেয়োতে"
+
+msgid "Indian/Reunion"
+msgstr "ভাৰত মহাসাগৰ/ৰিউনিয়ন"
+
+msgid "Iran"
+msgstr "ইৰাণ"
+
+msgid "Israel"
+msgstr "ইজ্ৰায়েল"
+
+msgid "Jamaica"
+msgstr "জামাইকা"
+
+msgid "Japan"
+msgstr "জাপান"
+
+msgid "Kwajalein"
+msgstr "কয়াজালিইন"
+
+msgid "Libya"
+msgstr "লিবিয়া"
+
+msgid "MET"
+msgstr "MET"
+
+msgid "Mexico/BajaNorte"
+msgstr "মেক্সিকো/বাহানোর্তে"
+
+msgid "Mexico/BajaSur"
+msgstr "মেক্সিকো/বাহাসুৰ"
+
+msgid "Mexico/General"
+msgstr "মেক্সিকো/সাধাৰণ"
+
+msgid "Mideast/Riyadh87"
+msgstr "মধ্যপ্রাচ্য/ৰিয়াধ৮৭"
+
+msgid "Mideast/Riyadh88"
+msgstr "মধ্যপ্রাচ্য/ৰিয়াধ৮৮"
+
+msgid "Mideast/Riyadh89"
+msgstr "মধ্যপ্রাচ্য/ৰিয়াধ৮৯"
+
+msgid "MST"
+msgstr "MST"
+
+msgid "MST7MDT"
+msgstr "MST7MDT"
+
+msgid "Navajo"
+msgstr "নাভাজো"
+
+msgid "NZ"
+msgstr "NZ"
+
+msgid "NZ-CHAT"
+msgstr "NZ-CHAT"
+
+msgid "Pacific/Apia"
+msgstr "প্রশান্ত মহাসাগৰ/এপিয়া"
+
+msgid "Pacific/Auckland"
+msgstr "প্রশান্ত মহাসাগৰ/অকল্যান্ড"
+
+msgid "Pacific/Chatham"
+msgstr "প্রশান্ত মহাসাগৰ/চ্যাটহাম"
+
+msgid "Pacific/Easter"
+msgstr "প্রশান্ত মহাসাগৰ/ইস্টাৰ"
+
+msgid "Pacific/Efate"
+msgstr "প্রশান্ত মহাসাগৰ/এফাতে"
+
+msgid "Pacific/Enderbury"
+msgstr "প্রশান্ত মহাসাগৰ/এন্ডাৰবুৰি"
+
+msgid "Pacific/Fakaofo"
+msgstr "প্রশান্ত মহাসাগৰ/ফাকাওফো"
+
+msgid "Pacific/Fiji"
+msgstr "প্রশান্ত মহাসাগৰ/ফিজি"
+
+msgid "Pacific/Funafuti"
+msgstr "প্রশান্ত মহাসাগৰ/ফুনাফুতি"
+
+msgid "Pacific/Galapagos"
+msgstr "প্রশান্ত মহাসাগৰ/গালাপাগোস"
+
+msgid "Pacific/Gambier"
+msgstr "প্রশান্ত মহাসাগৰ/গ্যামবিয়ার"
+
+msgid "Pacific/Guadalcanal"
+msgstr "প্রশান্ত মহাসাগৰ/গুয়াডালকানাল"
+
+msgid "Pacific/Guam"
+msgstr "প্রশান্ত মহাসাগৰ/গুয়াম"
+
+msgid "Pacific/Honolulu"
+msgstr "প্রশান্ত মহাসাগৰ/হনোলুলু"
+
+msgid "Pacific/Johnston"
+msgstr "প্রশান্ত মহাসাগৰ/জনস্টন"
+
+msgid "Pacific/Kiritimati"
+msgstr "প্রশান্ত মহাসাগৰ/কিৰিতিমাটি"
+
+# is this kiribati?
+msgid "Pacific/Kosrae"
+msgstr "প্রশান্ত মহাসাগৰ/কোসৰে"
+
+msgid "Pacific/Kwajalein"
+msgstr "প্রশান্ত মহাসাগৰ/কয়াজালিইন"
+
+msgid "Pacific/Majuro"
+msgstr "প্রশান্ত মহাসাগৰ/মাজুৰো"
+
+msgid "Pacific/Marquesas"
+msgstr "প্রশান্ত মহাসাগৰ/মাৰকিসাস"
+
+# not sure
+msgid "Pacific/Midway"
+msgstr "প্রশান্ত মহাসাগৰ/মিডওয়ে"
+
+msgid "Pacific/Nauru"
+msgstr "প্রশান্ত মহাসাগৰ/নাউৰু"
+
+msgid "Pacific/Niue"
+msgstr "প্রশান্ত মহাসাগৰ/নিউ"
+
+msgid "Pacific/Norfolk"
+msgstr "প্রশান্ত মহাসাগৰ/নোৰফোল্ক"
+
+msgid "Pacific/Noumea"
+msgstr "প্রশান্ত মহাসাগৰ/নুমিয়া"
+
+msgid "Pacific/Pago_Pago"
+msgstr "প্রশান্ত মহাসাগৰ/পাগো_পাগো"
+
+msgid "Pacific/Palau"
+msgstr "প্রশান্ত মহাসাগৰ/পালাউ"
+
+msgid "Pacific/Pitcairn"
+msgstr "প্রশান্ত মহাসাগৰ/পিটকেয়ার্ন"
+
+msgid "Pacific/Ponape"
+msgstr "প্রশান্ত মহাসাগৰ/পোনাপে"
+
+msgid "Pacific/Port_Moresby"
+msgstr "প্রশান্ত মহাসাগৰ/পোর্ট-মোর্সবি"
+
+msgid "Pacific/Rarotonga"
+msgstr "প্রশান্ত মহাসাগৰ/ৰাৰোটোঙ্গা"
+
+msgid "Pacific/Saipan"
+msgstr "প্রশান্ত মহাসাগৰ/সাইপান"
+
+msgid "Pacific/Samoa"
+msgstr "প্রশান্ত মহাসাগৰ/সামোয়া"
+
+msgid "Pacific/Tahiti"
+msgstr "প্রশান্ত মহাসাগৰ/তাহিতি"
+
+msgid "Pacific/Tarawa"
+msgstr "প্রশান্ত মহাসাগৰ/তাৰাওয়া"
+
+msgid "Pacific/Tongatapu"
+msgstr "প্রশান্ত মহাসাগৰ/টোঙ্গাটাপু"
+
+msgid "Pacific/Truk"
+msgstr "প্রশান্ত মহাসাগৰ/ট্রুক"
+
+msgid "Pacific/Wake"
+msgstr "প্রশান্ত মহাসাগৰ/ওয়েক"
+
+msgid "Pacific/Wallis"
+msgstr "প্রশান্ত মহাসাগৰ/ওয়ালিস"
+
+msgid "Pacific/Yap"
+msgstr "প্রশান্ত মহাসাগৰ/ইয়াপ"
+
+msgid "Poland"
+msgstr "পোল্যান্ড"
+
+msgid "Portugal"
+msgstr "পর্তুগাল"
+
+msgid "PRC"
+msgstr "PRC"
+
+msgid "PST8PDT"
+msgstr "PST8PDT"
+
+msgid "ROC"
+msgstr "ROC"
+
+msgid "ROK"
+msgstr "ROK"
+
+msgid "Singapore"
+msgstr "সিঙ্গাপুৰ"
+
+msgid "Turkey"
+msgstr "তুৰস্ক"
+
+msgid "UCT"
+msgstr "UCT"
+
+msgid "Universal"
+msgstr "Universal"
+
+msgid "US/Alaska"
+msgstr "যুক্তৰাষ্ট্র/আলাস্কা"
+
+msgid "US/Aleutian"
+msgstr "যুক্তৰাষ্ট্র/আলিউশিয়ান"
+
+msgid "US/Arizona"
+msgstr "যুক্তৰাষ্ট্র/আৰিজোনা"
+
+msgid "US/Central"
+msgstr "যুক্তৰাষ্ট্র/চেন্ট্রেল"
+
+msgid "US/Eastern"
+msgstr "যুক্তৰাষ্ট্র/ইচ্টার্ন"
+
+# msgstr "যুক্তৰাষ্ট্র/পূর্ববর্তী"
+msgid "US/East-Indiana"
+msgstr "যুক্তৰাষ্ট্র/পূর্ব-ইন্ডিয়ানা"
+
+msgid "US/Hawaii"
+msgstr "যুক্তৰাষ্ট্র/হাওয়াই"
+
+msgid "US/Indiana-Starke"
+msgstr "যুক্তৰাষ্ট্র/ইন্ডিয়ানা-স্টার্ক"
+
+msgid "US/Michigan"
+msgstr "যুক্তৰাষ্ট্র/মিশিগান"
+
+msgid "US/Mountain"
+msgstr "যুক্তৰাষ্ট্র/মাউন্টেন"
+
+msgid "US/Pacific"
+msgstr "যুক্তৰাষ্ট্র/প্যাসিফিক"
+
+msgid "US/Pacific-New"
+msgstr "যুক্তৰাষ্ট্র/প্যাসিফিক-নিউ"
+
+msgid "US/Samoa"
+msgstr "যুক্তৰাষ্ট্র/সামোয়া"
+
+msgid "UTC"
+msgstr "UTC"
+
+msgid "WET"
+msgstr "WET"
+
+msgid "W-SU"
+msgstr "W-SU"
+
+msgid "Zulu"
+msgstr "জুলু"
+
