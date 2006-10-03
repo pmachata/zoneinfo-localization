@@ -1,8 +1,7 @@
 # Timezones Greek Translation.
 # Copyright (C) 2003 Nikos Charonitakis
 # This file is distributed under the same license as the redhat-config-date/timezones package.
-# Nikos Charonitakis <charosn@her.forthnet.gr>, 2003, 2004.
-# Nikos Charonitakis <charosn@her.forthnet.gr>, 2006.
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2003, 2004, 2006.
 # Dimitrios Michelinakis <dimitris@michelinakis.gr>, 2006.
 # 
 # 
@@ -11,12 +10,12 @@ msgstr ""
 "Project-Id-Version: system-config-date timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2006-06-03 23:21+0300\n"
+"PO-Revision-Date: 2006-10-03 16:38+0300\n"
 "Last-Translator: Dimitrios Michelinakis <dimitris@michelinakis.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Africa/Abidjan"
 msgstr "Αφρική/Abidjan"
@@ -228,9 +227,8 @@ msgstr "Αμερική/Αρούμπα"
 msgid "America/Asuncion"
 msgstr "Αμερική/Ασουνσιόν"
 
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Αμερική/Atka"
+msgstr "Αμερική/Ατικόκαν"
 
 msgid "America/Atka"
 msgstr "Αμερική/Atka"
@@ -247,9 +245,8 @@ msgstr "Αμερική/Belem"
 msgid "America/Belize"
 msgstr "Αμερική/Μπελίζε"
 
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Αμερική/Cancun"
+msgstr "Αμερική/Blanc-Sablon"
 
 msgid "America/Boa_Vista"
 msgstr "Αμερική/Boa_Vista"
@@ -386,9 +383,8 @@ msgstr "Αμερική/Ιντιάνα/Knox"
 msgid "America/Indiana/Marengo"
 msgstr "Αμερική/Ιντιάνα/Marengo"
 
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Αμερική/Ιντιάνα/Marengo"
+msgstr "Αμερική/Ιντιάνα/Πετρούπολη"
 
 msgid "America/Indianapolis"
 msgstr "Αμερική/Ιντιανάπολις"
@@ -396,9 +392,8 @@ msgstr "Αμερική/Ιντιανάπολις"
 msgid "America/Indiana/Vevay"
 msgstr "Αμερική/Ιντιάνα/Vevay"
 
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Αμερική/Ιντιάνα/Vevay"
+msgstr "Αμερική/Ιντιάνα/Vincennes"
 
 msgid "America/Inuvik"
 msgstr "Αμερική/Inuvik"
@@ -466,9 +461,8 @@ msgstr "Αμερική/Μεξικό"
 msgid "America/Miquelon"
 msgstr "Αμερική/Μικελόν"
 
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Αμερική/Έντμοντον"
+msgstr "Αμερική/Moncton"
 
 msgid "America/Monterrey"
 msgstr "Αμερική/Monterrey"
@@ -500,9 +494,8 @@ msgstr "Αμερική/Noronha"
 msgid "America/North_Dakota/Center"
 msgstr "Αμερική/Βόρεια_Ντακότα/Κέντρο"
 
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Αμερική/Βόρεια_Ντακότα/Κέντρο"
+msgstr "Αμερική/Βόρεια_Ντακότα/Νέο_Σάλεμ"
 
 msgid "America/Panama"
 msgstr "Αμερική/Παναμάς"
@@ -1227,23 +1220,20 @@ msgstr "Ευρώπη/Δουβλίνο"
 msgid "Europe/Gibraltar"
 msgstr "Ευρώπη/Γιβραλτάρ"
 
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Ευρώπη/Αθήνα"
+msgstr "Ευρώπη/Γκουέρσνευ"
 
 msgid "Europe/Helsinki"
 msgstr "Ευρώπη/Ελνσίνκι"
 
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Ευρώπη/Όσλο"
+msgstr "Ευρώπη/Νήσος_Μαν"
 
 msgid "Europe/Istanbul"
 msgstr "Ευρώπη/Κωνσταντινούπολη"
 
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Ευρώπη/Παρίσι"
+msgstr "Ευρώπη/Τζέρσεϊ"
 
 msgid "Europe/Kaliningrad"
 msgstr "Ευρώπη/Kaliningrad"
@@ -1344,9 +1334,8 @@ msgstr "Ευρώπη/Βιέννη"
 msgid "Europe/Vilnius"
 msgstr "Ευρώπη/Βίλνα"
 
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Ευρώπη/Βελιγράδι"
+msgstr "Ευρώπη/Volgograd"
 
 msgid "Europe/Warsaw"
 msgstr "Ευρώπη/Βαρσοβία"
@@ -1663,9 +1652,8 @@ msgstr "ΗΠΑ/Mountain"
 msgid "US/Pacific"
 msgstr "ΗΠΑ/Ειρηνικός"
 
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "ΗΠΑ/Ειρηνικός"
+msgstr "ΗΠΑ/Ειρηνικός-Νέος"
 
 msgid "US/Samoa"
 msgstr "ΗΠΑ/Σαμόα"
