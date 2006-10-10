@@ -224,6 +224,10 @@ msgstr "아메리카/아루바(Aruba)"
 msgid "America/Asuncion"
 msgstr "아메리카/아순시온(Asuncion)"
 
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "아메리카/아트카(Atka)"
+
 msgid "America/Atka"
 msgstr "아메리카/아트카(Atka)"
 
@@ -238,6 +242,10 @@ msgstr "아메리카/벨렘(Belem)"
 
 msgid "America/Belize"
 msgstr "아메리카/벨리즈(Belize)"
+
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "아메리카/칸쿤(Cancun)"
 
 msgid "America/Boa_Vista"
 msgstr "아메리카/보아_비스타(Boa_Vista)"
@@ -374,10 +382,18 @@ msgstr "아메리카/인디애나/녹스(Knox)"
 msgid "America/Indiana/Marengo"
 msgstr "아메리카/인디애나/마렝고(Marengo)"
 
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "아메리카/인디애나/마렝고(Marengo)"
+
 msgid "America/Indianapolis"
 msgstr "아메리카/인디애나폴리스(Indianapolis)"
 
 msgid "America/Indiana/Vevay"
+msgstr "아메리카/인디애나/베베이(Vevay)"
+
+#, fuzzy
+msgid "America/Indiana/Vincennes"
 msgstr "아메리카/인디애나/베베이(Vevay)"
 
 msgid "America/Inuvik"
@@ -446,6 +462,10 @@ msgstr "아메리카/멕시코_시티(Mexico_City)"
 msgid "America/Miquelon"
 msgstr "아메리카/미클롱(Miquelon)"
 
+#, fuzzy
+msgid "America/Moncton"
+msgstr "아메리카/에드몬톤(Edmonton)"
+
 msgid "America/Monterrey"
 msgstr "아메리카/몬테레이(Monterrey)"
 
@@ -474,6 +494,10 @@ msgid "America/Noronha"
 msgstr "아메리카/노롱야(Noronha)"
 
 msgid "America/North_Dakota/Center"
+msgstr "아메리카/북 다코타/중부"
+
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
 msgstr "아메리카/북 다코타/중부"
 
 msgid "America/Panama"
@@ -1199,11 +1223,23 @@ msgstr "유럽/더블린(Dublin)"
 msgid "Europe/Gibraltar"
 msgstr "유럽/지브롤터(Gibraltar)"
 
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "유럽/아테네(Athens)"
+
 msgid "Europe/Helsinki"
 msgstr "유럽/헬싱키(Helsinki)"
 
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "유럽/오슬로(Oslo)"
+
 msgid "Europe/Istanbul"
 msgstr "유럽/이스탄불(Istanbul)"
+
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "유럽/파리(Paris)"
 
 msgid "Europe/Kaliningrad"
 msgstr "유럽/칼리닌그라드(Kaliningrad)"
@@ -1303,6 +1339,10 @@ msgstr "유럽/비엔나(Vienna)"
 
 msgid "Europe/Vilnius"
 msgstr "유럽/빌니우스(Vilnius)"
+
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "유럽/벨그라드(Belgrade)"
 
 msgid "Europe/Warsaw"
 msgstr "유럽/바르샤바(Warsaw)"
@@ -1577,45 +1617,6 @@ msgstr "대한민국(ROK)"
 msgid "Singapore"
 msgstr "싱가포르(Singapore)"
 
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
 msgid "Turkey"
 msgstr "터키(Turkey)"
 
@@ -1658,6 +1659,10 @@ msgstr "미국/산맥(Mountain)"
 msgid "US/Pacific"
 msgstr "미국/태평양(Pacific)"
 
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "미국/태평양(Pacific)"
+
 msgid "US/Samoa"
 msgstr "미국/사모아(Samoa)"
 
@@ -1673,3 +1678,41 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "줄루(Zulu)"
 
+#~ msgid "SystemV/AST4"
+#~ msgstr "SystemV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "SystemV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "SystemV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "SystemV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "SystemV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "SystemV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "SystemV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "SystemV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "SystemV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "SystemV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "SystemV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "SystemV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "SystemV/YST9YDT"
