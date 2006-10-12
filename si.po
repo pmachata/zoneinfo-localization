@@ -224,6 +224,9 @@ msgstr ""
 msgid "America/Asuncion"
 msgstr ""
 
+msgid "America/Atikokan"
+msgstr ""
+
 msgid "America/Atka"
 msgstr ""
 
@@ -237,6 +240,9 @@ msgid "America/Belem"
 msgstr ""
 
 msgid "America/Belize"
+msgstr ""
+
+msgid "America/Blanc-Sablon"
 msgstr ""
 
 msgid "America/Boa_Vista"
@@ -374,10 +380,16 @@ msgstr ""
 msgid "America/Indiana/Marengo"
 msgstr ""
 
+msgid "America/Indiana/Petersburg"
+msgstr ""
+
 msgid "America/Indianapolis"
 msgstr ""
 
 msgid "America/Indiana/Vevay"
+msgstr ""
+
+msgid "America/Indiana/Vincennes"
 msgstr ""
 
 msgid "America/Inuvik"
@@ -446,6 +458,9 @@ msgstr ""
 msgid "America/Miquelon"
 msgstr ""
 
+msgid "America/Moncton"
+msgstr ""
+
 msgid "America/Monterrey"
 msgstr ""
 
@@ -474,6 +489,9 @@ msgid "America/Noronha"
 msgstr ""
 
 msgid "America/North_Dakota/Center"
+msgstr ""
+
+msgid "America/North_Dakota/New_Salem"
 msgstr ""
 
 msgid "America/Panama"
@@ -1199,10 +1217,19 @@ msgstr ""
 msgid "Europe/Gibraltar"
 msgstr ""
 
+msgid "Europe/Guernsey"
+msgstr ""
+
 msgid "Europe/Helsinki"
 msgstr ""
 
+msgid "Europe/Isle_of_Man"
+msgstr ""
+
 msgid "Europe/Istanbul"
+msgstr ""
+
+msgid "Europe/Jersey"
 msgstr ""
 
 msgid "Europe/Kaliningrad"
@@ -1302,6 +1329,9 @@ msgid "Europe/Vienna"
 msgstr ""
 
 msgid "Europe/Vilnius"
+msgstr ""
+
+msgid "Europe/Volgograd"
 msgstr ""
 
 msgid "Europe/Warsaw"
@@ -1577,45 +1607,6 @@ msgstr ""
 msgid "Singapore"
 msgstr ""
 
-msgid "SystemV/AST4"
-msgstr ""
-
-msgid "SystemV/AST4ADT"
-msgstr ""
-
-msgid "SystemV/CST6"
-msgstr ""
-
-msgid "SystemV/CST6CDT"
-msgstr ""
-
-msgid "SystemV/EST5"
-msgstr ""
-
-msgid "SystemV/EST5EDT"
-msgstr ""
-
-msgid "SystemV/HST10"
-msgstr ""
-
-msgid "SystemV/MST7"
-msgstr ""
-
-msgid "SystemV/MST7MDT"
-msgstr ""
-
-msgid "SystemV/PST8"
-msgstr ""
-
-msgid "SystemV/PST8PDT"
-msgstr ""
-
-msgid "SystemV/YST9"
-msgstr ""
-
-msgid "SystemV/YST9YDT"
-msgstr ""
-
 msgid "Turkey"
 msgstr ""
 
@@ -1656,6 +1647,9 @@ msgid "US/Mountain"
 msgstr ""
 
 msgid "US/Pacific"
+msgstr ""
+
+msgid "US/Pacific-New"
 msgstr ""
 
 msgid "US/Samoa"
