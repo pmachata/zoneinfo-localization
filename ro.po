@@ -1,17 +1,20 @@
+# Romanian translation of timezone
 # Cristian Gafton <gafton@redhat.com>, 2004.
+# Răzvan Corneliu C.R. VILT <razvan.vilt@linux360.ro>, 2006.
+# Alexandru Szasz <alexxed@gmail.com>, 2006.
 # 
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones 3.0\n"
+"Project-Id-Version: timezones cvs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-04-12 17:04-0400\n"
-"PO-Revision-Date: 2004-06-22 15:43+0300\n"
-"Last-Translator: Răzvan Corneliu C.R. VILT <razvan.vilt@linux360.ro>\n"
-"Language-Team: Romanian <ro_team@linux360.ro>\n"
+"PO-Revision-Date: 2006-11-16 23:33+0200\n"
+"Last-Translator: Alexandru Szasz <alexxed@gmail.com>\n"
+"Language-Team: Romanian <gnomero-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8-bit"
 
 msgid "Africa/Abidjan"
 msgstr "Africa/Abidjan"
@@ -184,49 +187,38 @@ msgstr "America/Antigua"
 msgid "America/Araguaina"
 msgstr "America/Araguaina"
 
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "America/Buenos_Aires"
+msgstr "America/Argentina/Buenos_Aires"
 
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "America/Catamarca"
+msgstr "America/Argentina/Catamarca"
 
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "America/Indiana/Indianapolis"
+msgstr "America/Argentina/ComodRivadavia"
 
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "America/Cordoba"
+msgstr "America/Argentina/Cordoba"
 
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "America/Jujuy"
+msgstr "America/Argentina/Jujuy"
 
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "America/Araguaina"
+msgstr "America/Argentina/La_Rioja"
 
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "America/Mendoza"
+msgstr "America/Argentina/Mendoza"
 
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "America/Indiana/Marengo"
+msgstr "America/Argentina/Rio_Gallegos"
 
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "America/Antigua"
+msgstr "America/Argentina/San_Juan"
 
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "America/Antigua"
+msgstr "America/Argentina/Tucuman"
 
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "America/Araguaina"
+msgstr "America/Argentina/Ushuaia"
 
 msgid "America/Aruba"
 msgstr "America/Aruba"
@@ -237,9 +229,8 @@ msgstr "America/Asuncion"
 msgid "America/Atka"
 msgstr "America/Atka"
 
-#, fuzzy
 msgid "America/Bahia"
-msgstr "America/Boa_Vista"
+msgstr "America/Bahia"
 
 msgid "America/Barbados"
 msgstr "America/Barbados"
@@ -265,9 +256,8 @@ msgstr "America/Buenos_Aires"
 msgid "America/Cambridge_Bay"
 msgstr "America/Cambridge_Bay"
 
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "America/Cayman"
+msgstr "America/Campo_Grande"
 
 msgid "America/Cancun"
 msgstr "America/Cancun"
@@ -290,9 +280,8 @@ msgstr "America/Chicago"
 msgid "America/Chihuahua"
 msgstr "America/Chihuahua"
 
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "America/Curacao"
+msgstr "America/Coral_Harbour"
 
 msgid "America/Cordoba"
 msgstr "America/Cordoba"
@@ -579,9 +568,8 @@ msgstr "America/Thunder_Bay"
 msgid "America/Tijuana"
 msgstr "America/Tijuana"
 
-#, fuzzy
 msgid "America/Toronto"
-msgstr "America/Tortola"
+msgstr "America/Toronto"
 
 msgid "America/Tortola"
 msgstr "America/Tortola"
@@ -622,9 +610,8 @@ msgstr "Antarctica/McMurdo"
 msgid "Antarctica/Palmer"
 msgstr "Antarctica/Palmer"
 
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Antarctica/South_Pole"
+msgstr "Antarctica/Rothera"
 
 msgid "Antarctica/South_Pole"
 msgstr "Antarctica/South_Pole"
@@ -947,9 +934,8 @@ msgstr "Australia/Broken_Hill"
 msgid "Australia/Canberra"
 msgstr "Australia/Canberra"
 
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Australia/Canberra"
+msgstr "Australia/Currie"
 
 msgid "Australia/Darwin"
 msgstr "Australia/Darwin"
@@ -1174,164 +1160,163 @@ msgid "Etc/Zulu"
 msgstr "Etc/Zulu"
 
 msgid "Europe/Amsterdam"
-msgstr "Europe/Amsterdam"
+msgstr "Europa/Amsterdam"
 
 msgid "Europe/Andorra"
-msgstr "Europe/Andorra"
+msgstr "Europa/Andorra"
 
 msgid "Europe/Athens"
-msgstr "Europe/Athens"
+msgstr "Europa/Athens"
 
 msgid "Europe/Belfast"
-msgstr "Europe/Belfast"
+msgstr "Europa/Belfast"
 
 msgid "Europe/Belgrade"
-msgstr "Europe/Belgrade"
+msgstr "Europa/Belgrad"
 
 msgid "Europe/Berlin"
-msgstr "Europe/Berlin"
+msgstr "Europa/Berlin"
 
 msgid "Europe/Bratislava"
-msgstr "Europe/Bratislava"
+msgstr "Europa/Bratislava"
 
 msgid "Europe/Brussels"
-msgstr "Europe/Brussels"
+msgstr "Europa/Brussels"
 
 msgid "Europe/Bucharest"
-msgstr "Europe/Bucharest"
+msgstr "Europa/Bucureşti"
 
 msgid "Europe/Budapest"
-msgstr "Europe/Budapest"
+msgstr "Europa/Budapesta"
 
 msgid "Europe/Chisinau"
-msgstr "Europe/Chisinau"
+msgstr "Europa/Chisinau"
 
 msgid "Europe/Copenhagen"
-msgstr "Europe/Copenhagen"
+msgstr "Europa/Copenhagen"
 
 msgid "Europe/Dublin"
-msgstr "Europe/Dublin"
+msgstr "Europa/Dublin"
 
 msgid "Europe/Gibraltar"
-msgstr "Europe/Gibraltar"
+msgstr "Europa/Gibraltar"
 
 msgid "Europe/Helsinki"
-msgstr "Europe/Helsinki"
+msgstr "Europa/Helsinki"
 
 msgid "Europe/Istanbul"
-msgstr "Europe/Istanbul"
+msgstr "Europa/Istanbul"
 
 msgid "Europe/Kaliningrad"
-msgstr "Europe/Kaliningrad"
+msgstr "Europa/Kaliningrad"
 
 msgid "Europe/Kiev"
-msgstr "Europe/Kiev"
+msgstr "Europa/Kiev"
 
 msgid "Europe/Lisbon"
-msgstr "Europe/Lisbon"
+msgstr "Europa/Lisabona"
 
 msgid "Europe/Ljubljana"
-msgstr "Europe/Ljubljana"
+msgstr "Europa/Ljubljana"
 
 msgid "Europe/London"
-msgstr "Europe/London"
+msgstr "Europa/London"
 
 msgid "Europe/Luxembourg"
-msgstr "Europe/Luxembourg"
+msgstr "Europa/Luxemburg"
 
 msgid "Europe/Madrid"
-msgstr "Europe/Madrid"
+msgstr "Europa/Madrid"
 
 msgid "Europe/Malta"
-msgstr "Europe/Malta"
+msgstr "Europa/Malta"
 
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Europe/Madrid"
+msgstr "Europa/Mariehamn"
 
 msgid "Europe/Minsk"
-msgstr "Europe/Minsk"
+msgstr "Europa/Minsk"
 
 msgid "Europe/Monaco"
-msgstr "Europe/Monaco"
+msgstr "Europa/Monaco"
 
 msgid "Europe/Moscow"
-msgstr "Europe/Moscow"
+msgstr "Europa/Moscova"
 
 msgid "Europe/Nicosia"
-msgstr "Europe/Nicosia"
+msgstr "Europa/Nicosia"
 
 msgid "Europe/Oslo"
-msgstr "Europe/Oslo"
+msgstr "Europa/Oslo"
 
 msgid "Europe/Paris"
-msgstr "Europe/Paris"
+msgstr "Europa/Paris"
 
 msgid "Europe/Prague"
-msgstr "Europe/Prague"
+msgstr "Europa/Prague"
 
 msgid "Europe/Riga"
-msgstr "Europe/Riga"
+msgstr "Europa/Riga"
 
 msgid "Europe/Rome"
-msgstr "Europe/Rome"
+msgstr "Europa/Roma"
 
 msgid "Europe/Samara"
-msgstr "Europe/Samara"
+msgstr "Europa/Samara"
 
 msgid "Europe/San_Marino"
-msgstr "Europe/San_Marino"
+msgstr "Europa/San_Marino"
 
 msgid "Europe/Sarajevo"
-msgstr "Europe/Sarajevo"
+msgstr "Europa/Sarajevo"
 
 msgid "Europe/Simferopol"
-msgstr "Europe/Simferopol"
+msgstr "Europa/Simferopol"
 
 msgid "Europe/Skopje"
-msgstr "Europe/Skopje"
+msgstr "Europa/Skopje"
 
 msgid "Europe/Sofia"
-msgstr "Europe/Sofia"
+msgstr "Europa/Sofia"
 
 msgid "Europe/Stockholm"
-msgstr "Europe/Stockholm"
+msgstr "Europa/Stockholm"
 
 msgid "Europe/Tallinn"
-msgstr "Europe/Tallinn"
+msgstr "Europa/Tallinn"
 
 msgid "Europe/Tirane"
-msgstr "Europe/Tirane"
+msgstr "Europa/Tirane"
 
 msgid "Europe/Tiraspol"
-msgstr "Europe/Tiraspol"
+msgstr "Europa/Tiraspol"
 
 msgid "Europe/Uzhgorod"
-msgstr "Europe/Uzhgorod"
+msgstr "Europa/Uzhgorod"
 
 msgid "Europe/Vaduz"
-msgstr "Europe/Vaduz"
+msgstr "Europa/Vaduz"
 
 msgid "Europe/Vatican"
-msgstr "Europe/Vatican"
+msgstr "Europa/Vatican"
 
 msgid "Europe/Vienna"
-msgstr "Europe/Vienna"
+msgstr "Europa/Vienna"
 
 msgid "Europe/Vilnius"
-msgstr "Europe/Vilnius"
+msgstr "Europa/Vilnius"
 
 msgid "Europe/Warsaw"
-msgstr "Europe/Warsaw"
+msgstr "Europa/Warsaw"
 
 msgid "Europe/Zagreb"
-msgstr "Europe/Zagreb"
+msgstr "Europa/Zagreb"
 
 msgid "Europe/Zaporozhye"
-msgstr "Europe/Zaporozhye"
+msgstr "Europa/Zaporozhye"
 
 msgid "Europe/Zurich"
-msgstr "Europe/Zurich"
+msgstr "Europa/Zurich"
 
 msgid "Factory"
 msgstr "Factory"
@@ -1421,13 +1406,13 @@ msgid "MET"
 msgstr "MET"
 
 msgid "Mexico/BajaNorte"
-msgstr "Mexico/BajaNorte"
+msgstr "Mexic/BajaNorte"
 
 msgid "Mexico/BajaSur"
-msgstr "Mexico/BajaSur"
+msgstr "Mexic/BajaSur"
 
 msgid "Mexico/General"
-msgstr "Mexico/General"
+msgstr "Mexic/General"
 
 msgid "Mideast/Riyadh87"
 msgstr "Mideast/Riyadh87"
@@ -1689,3 +1674,4 @@ msgstr "W-SU"
 
 msgid "Zulu"
 msgstr "Zulu"
+
