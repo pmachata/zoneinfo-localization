@@ -15,6 +15,7 @@ all: $(NLSPACKAGE).pot $(CATALOGS)
 
 $(NLSPACKAGE).pot::
 	cp -dpf $(NLSPACKAGE) $(NLSPACKAGE).new
+	chmod u+rw $(NLSPACKAGE).new
 	for tzfile in `cd /usr/share/zoneinfo; find . -type f -or -type l | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)" | sort | cut -d '/' -f 2- `; do \
 		echo "$$tzfile"; \
 	done | while read tz; do \
