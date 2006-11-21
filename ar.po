@@ -7,7 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
-"POT-Creation-Date: 2002-04-12 17:04-0400\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-21 15:30+0100\n"
 "PO-Revision-Date: 2004-04-11 03:10+0200\n"
 "Last-Translator: Ahmad Khalifa <ahmadkhalifa@hotmail.com>\n"
 "Language-Team: Arabic <support@arabeyes.org>\n"
@@ -16,1679 +17,2279 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.0.2\n"
 
+#: timezones.h:1
 msgid "Africa/Abidjan"
 msgstr "أفريقيا/أبيدجان"
 
+#: timezones.h:2
 msgid "Africa/Accra"
 msgstr "أفريقيا/أكرا"
 
+#: timezones.h:3
 msgid "Africa/Addis_Ababa"
 msgstr "أفريقيا/أديس_أبابا"
 
+#: timezones.h:4
 msgid "Africa/Algiers"
 msgstr "أفريقيا/الجزائر"
 
+#: timezones.h:5
 msgid "Africa/Asmera"
 msgstr "أفريقيا/أسمِرا"
 
+#: timezones.h:6
 msgid "Africa/Bamako"
 msgstr "أفريقيا/باماكو"
 
+#: timezones.h:7
 msgid "Africa/Bangui"
 msgstr "أفريقيا/بانجوي"
 
+#: timezones.h:8
 msgid "Africa/Banjul"
 msgstr "أفريقيا/بانجول"
 
+#: timezones.h:9
 msgid "Africa/Bissau"
 msgstr "أفريقيا/بيسو"
 
+#: timezones.h:10
 msgid "Africa/Blantyre"
 msgstr "بلانتير"
 
+#: timezones.h:11
 msgid "Africa/Brazzaville"
 msgstr "أفريقيا/برازافيل"
 
+#: timezones.h:12
 msgid "Africa/Bujumbura"
 msgstr "أفريقيا/بوجومبورا"
 
+#: timezones.h:13
 msgid "Africa/Cairo"
 msgstr "أفريقيا/القاهرة"
 
+#: timezones.h:14
 msgid "Africa/Casablanca"
 msgstr "أفريقيا/الدار البيضاء"
 
+#: timezones.h:15
 msgid "Africa/Ceuta"
 msgstr "أفريقيا/سيوتا"
 
+#: timezones.h:16
 msgid "Africa/Conakry"
 msgstr "أفريقيا/كوناكري"
 
+#: timezones.h:17
 msgid "Africa/Dakar"
 msgstr "أفريقيا/داكار"
 
+#: timezones.h:18
 msgid "Africa/Dar_es_Salaam"
 msgstr "أفريقيا/دار_السلام"
 
+#: timezones.h:19
 msgid "Africa/Djibouti"
 msgstr "أفريقيا/جيبوتي"
 
+#: timezones.h:20
 msgid "Africa/Douala"
 msgstr "أفريقيا/دوالا"
 
+#: timezones.h:21
 msgid "Africa/El_Aaiun"
 msgstr "أفريقيا/العيون"
 
+#: timezones.h:22
 msgid "Africa/Freetown"
 msgstr "أفريقيا/فريتاون"
 
+#: timezones.h:23
 msgid "Africa/Gaborone"
 msgstr "أفريقيا/جابورون"
 
+#: timezones.h:24
 msgid "Africa/Harare"
 msgstr "أفريقيا/هاراري"
 
+#: timezones.h:25
 msgid "Africa/Johannesburg"
 msgstr "أفريقيا/جوهانسبرج"
 
+#: timezones.h:26
 msgid "Africa/Kampala"
 msgstr "أفريقيا/كامبالا"
 
+#: timezones.h:27
 msgid "Africa/Khartoum"
 msgstr "أفريقيا/الخرطوم"
 
+#: timezones.h:28
 msgid "Africa/Kigali"
 msgstr "أفريقيا/كيجالي"
 
+#: timezones.h:29
 msgid "Africa/Kinshasa"
 msgstr "أفريقيا/كينشاسا"
 
+#: timezones.h:30
 msgid "Africa/Lagos"
 msgstr "أفريقيا/لاجوس"
 
+#: timezones.h:31
 msgid "Africa/Libreville"
 msgstr "أفريقيا/ليبريفيل"
 
+#: timezones.h:32
 msgid "Africa/Lome"
 msgstr "أفريقيا/لوم"
 
+#: timezones.h:33
 msgid "Africa/Luanda"
 msgstr "أفريقيا/لواندا"
 
+#: timezones.h:34
 msgid "Africa/Lubumbashi"
 msgstr "أفريقيا/لوبومباشي"
 
+#: timezones.h:35
 msgid "Africa/Lusaka"
 msgstr "أفريقيا/لوساكا"
 
+#: timezones.h:36
 msgid "Africa/Malabo"
 msgstr "أفريقيا/مالابو"
 
+#: timezones.h:37
 msgid "Africa/Maputo"
 msgstr "أفريقيا/مابوتو"
 
+#: timezones.h:38
 msgid "Africa/Maseru"
 msgstr "أفريقيا/ماسيرو"
 
+#: timezones.h:39
 msgid "Africa/Mbabane"
 msgstr "أفريقيا/مباباني"
 
+#: timezones.h:40
 msgid "Africa/Mogadishu"
 msgstr "أفريقيا/موجاديشو"
 
+#: timezones.h:41
 msgid "Africa/Monrovia"
 msgstr "أفريقيا/مونروفيا"
 
+#: timezones.h:42
 msgid "Africa/Nairobi"
 msgstr "أفريقيا/نايروبي"
 
+#: timezones.h:43
 msgid "Africa/Ndjamena"
 msgstr "أفريقيا/ندجامِِنا"
 
+#: timezones.h:44
 msgid "Africa/Niamey"
 msgstr "أفريقيا/نيامي"
 
+#: timezones.h:45
 msgid "Africa/Nouakchott"
 msgstr "أفريقيا/نواكشوت"
 
+#: timezones.h:46
 msgid "Africa/Ouagadougou"
 msgstr "أفريقيا/أواجادوجو"
 
+#: timezones.h:47
 msgid "Africa/Porto-Novo"
 msgstr "أفريقيا/بورتو_نوفو"
 
+#: timezones.h:48
 msgid "Africa/Sao_Tome"
 msgstr "أفريقيا/ساو_توم"
 
+#: timezones.h:49
 msgid "Africa/Timbuktu"
 msgstr "أفريقيا/تيمبَكتو"
 
+#: timezones.h:50
 msgid "Africa/Tripoli"
 msgstr "أفريقيا/تريبولي"
 
+#: timezones.h:51
 msgid "Africa/Tunis"
 msgstr "أفريقيا/تونس"
 
+#: timezones.h:52
 msgid "Africa/Windhoek"
 msgstr "أفريقيا/ويندهويك"
 
+#: timezones.h:53
 msgid "America/Adak"
 msgstr "أمريكا/أداك"
 
+#: timezones.h:54
 msgid "America/Anchorage"
 msgstr "أمريكا/أنكوراج"
 
+#: timezones.h:55
 msgid "America/Anguilla"
 msgstr "أمريكا/أنجويلا"
 
+#: timezones.h:56
 msgid "America/Antigua"
 msgstr "أمريكا/أنتيجوا"
 
+#: timezones.h:57
 msgid "America/Araguaina"
 msgstr "أمريكا/أراجواينا"
 
+#: timezones.h:58
 #, fuzzy
 msgid "America/Argentina/Buenos_Aires"
 msgstr "أمريكا/بوينوس_آيريس"
 
+#: timezones.h:59
 #, fuzzy
 msgid "America/Argentina/Catamarca"
 msgstr "أمريكا/كاتاماركا"
 
+#: timezones.h:60
 #, fuzzy
 msgid "America/Argentina/ComodRivadavia"
 msgstr "أمريكا/إنديانا/إنديانابوليس"
 
+#: timezones.h:61
 #, fuzzy
 msgid "America/Argentina/Cordoba"
 msgstr "أمريكا/كوردوبا"
 
+#: timezones.h:62
 #, fuzzy
 msgid "America/Argentina/Jujuy"
 msgstr "أمريكا/جوجوي"
 
+#: timezones.h:63
 #, fuzzy
 msgid "America/Argentina/La_Rioja"
 msgstr "أمريكا/أراجواينا"
 
+#: timezones.h:64
 #, fuzzy
 msgid "America/Argentina/Mendoza"
 msgstr "أمريكا/مندوزا"
 
+#: timezones.h:65
 #, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
 msgstr "أمريكا/إنديانا/ماريجنو"
 
+#: timezones.h:66
 #, fuzzy
 msgid "America/Argentina/San_Juan"
 msgstr "أمريكا/أنتيجوا"
 
+#: timezones.h:67
 #, fuzzy
 msgid "America/Argentina/Tucuman"
 msgstr "أمريكا/أنتيجوا"
 
+#: timezones.h:68
 #, fuzzy
 msgid "America/Argentina/Ushuaia"
 msgstr "أمريكا/أراجواينا"
 
+#: timezones.h:69
 msgid "America/Aruba"
 msgstr "أمريكا/أروبا"
 
+#: timezones.h:70
 msgid "America/Asuncion"
 msgstr "أمريكا/أسونسيون"
 
+#: timezones.h:71
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "أمريكا/أتكا"
+
+#: timezones.h:72
 msgid "America/Atka"
 msgstr "أمريكا/أتكا"
 
+#: timezones.h:73
 #, fuzzy
 msgid "America/Bahia"
 msgstr "أمريكا/بوا_فيزتا"
 
+#: timezones.h:74
 msgid "America/Barbados"
 msgstr "أمريكا/باربادوس"
 
+#: timezones.h:75
 msgid "America/Belem"
 msgstr "أمريكا/بيليم"
 
+#: timezones.h:76
 msgid "America/Belize"
 msgstr "أمريكا/بيليز"
 
+#: timezones.h:77
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "أمريكا/كانكون"
+
+#: timezones.h:78
 msgid "America/Boa_Vista"
 msgstr "أمريكا/بوا_فيزتا"
 
+#: timezones.h:79
 msgid "America/Bogota"
 msgstr "أمريكا/بوجوتا"
 
+#: timezones.h:80
 msgid "America/Boise"
 msgstr "أمريكا/بويز"
 
+#: timezones.h:81
 msgid "America/Buenos_Aires"
 msgstr "أمريكا/بوينوس_آيريس"
 
+#: timezones.h:82
 msgid "America/Cambridge_Bay"
 msgstr "أمريكا/كامبريدج_باي"
 
+#: timezones.h:83
 #, fuzzy
 msgid "America/Campo_Grande"
 msgstr "أمريكا/كايمن"
 
+#: timezones.h:84
 msgid "America/Cancun"
 msgstr "أمريكا/كانكون"
 
+#: timezones.h:85
 msgid "America/Caracas"
 msgstr "أمريكا/كاراكاس"
 
+#: timezones.h:86
 msgid "America/Catamarca"
 msgstr "أمريكا/كاتاماركا"
 
+#: timezones.h:87
 msgid "America/Cayenne"
 msgstr "أمريكا/كايّن"
 
+#: timezones.h:88
 msgid "America/Cayman"
 msgstr "أمريكا/كايمن"
 
+#: timezones.h:89
 msgid "America/Chicago"
 msgstr "أمريكا/شيكاغو"
 
+#: timezones.h:90
 msgid "America/Chihuahua"
 msgstr "أمريكا/شيواوا"
 
+#: timezones.h:91
 #, fuzzy
 msgid "America/Coral_Harbour"
 msgstr "أمريكا/كوراكاو"
 
+#: timezones.h:92
 msgid "America/Cordoba"
 msgstr "أمريكا/كوردوبا"
 
+#: timezones.h:93
 msgid "America/Costa_Rica"
 msgstr "أمريكا/كوستا_ريكا"
 
+#: timezones.h:94
 msgid "America/Cuiaba"
 msgstr "أمريكا/كويابا"
 
+#: timezones.h:95
 msgid "America/Curacao"
 msgstr "أمريكا/كوراكاو"
 
+#: timezones.h:96
 msgid "America/Danmarkshavn"
 msgstr "أمريكا/دانماركشافن"
 
+#: timezones.h:97
 msgid "America/Dawson"
 msgstr "أمريكا/دوسُن"
 
+#: timezones.h:98
 msgid "America/Dawson_Creek"
 msgstr "أمريكا/دوسُن_كرييك"
 
+#: timezones.h:99
 msgid "America/Denver"
 msgstr "أمريكا/دنفر"
 
+#: timezones.h:100
 msgid "America/Detroit"
 msgstr "أمريكا/ديترويت"
 
+#: timezones.h:101
 msgid "America/Dominica"
 msgstr "أمريكا/دومينيكا"
 
+#: timezones.h:102
 msgid "America/Edmonton"
 msgstr "أمريكا/إدمنتون"
 
+#: timezones.h:103
 msgid "America/Eirunepe"
 msgstr "أمريكا/إيريونيب"
 
+#: timezones.h:104
 msgid "America/El_Salvador"
 msgstr "أمريكا/إلسَلفادور"
 
+#: timezones.h:105
 msgid "America/Ensenada"
 msgstr "أمريكا/إنسنادا"
 
+#: timezones.h:106
 msgid "America/Fortaleza"
 msgstr "أمريكا/فورتاليزا"
 
+#: timezones.h:107
 msgid "America/Fort_Wayne"
 msgstr "أمريكا/فورت_واين"
 
+#: timezones.h:108
 msgid "America/Glace_Bay"
 msgstr "أمريكا/جليس_باي"
 
+#: timezones.h:109
 msgid "America/Godthab"
 msgstr "أمريكا/جَدثاب"
 
+#: timezones.h:110
 msgid "America/Goose_Bay"
 msgstr "أمريكا/جوّس_باي"
 
+#: timezones.h:111
 msgid "America/Grand_Turk"
 msgstr "أمريكا/جراند_تِرْك"
 
+#: timezones.h:112
 msgid "America/Grenada"
 msgstr "أمريكا/جرينادا"
 
+#: timezones.h:113
 msgid "America/Guadeloupe"
 msgstr "أمريكا/جوادالوبي"
 
+#: timezones.h:114
 msgid "America/Guatemala"
 msgstr "أمريكا/جواتيمالا"
 
+#: timezones.h:115
 msgid "America/Guayaquil"
 msgstr "أمريكا/جواياكويل"
 
+#: timezones.h:116
 msgid "America/Guyana"
 msgstr "أمريكا/جويانا"
 
+#: timezones.h:117
 msgid "America/Halifax"
 msgstr "أمريكا/هاليفاكس"
 
+#: timezones.h:118
 msgid "America/Havana"
 msgstr "أمريكا/هافانا"
 
+#: timezones.h:119
 msgid "America/Hermosillo"
 msgstr "أمريكا/هيرموزيلو"
 
+#: timezones.h:120
 msgid "America/Indiana/Indianapolis"
 msgstr "أمريكا/إنديانا/إنديانابوليس"
 
+#: timezones.h:121
 msgid "America/Indiana/Knox"
 msgstr "أمريكا/إنديانا/نوكس"
 
+#: timezones.h:122
 msgid "America/Indiana/Marengo"
 msgstr "أمريكا/إنديانا/ماريجنو"
 
+#: timezones.h:123
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "أمريكا/إنديانا/ماريجنو"
+
+#: timezones.h:124
 msgid "America/Indianapolis"
 msgstr "أمريكا/إنديانابوليس"
 
+#: timezones.h:125
 msgid "America/Indiana/Vevay"
 msgstr "أمريكا/إنديانا/فيفاي"
 
+#: timezones.h:126
+#, fuzzy
+msgid "America/Indiana/Vincennes"
+msgstr "أمريكا/إنديانا/فيفاي"
+
+#: timezones.h:127
 msgid "America/Inuvik"
 msgstr "أمريكا/إنوفيك"
 
+#: timezones.h:128
 msgid "America/Iqaluit"
 msgstr "أمريكا/إكالويت"
 
+#: timezones.h:129
 msgid "America/Jamaica"
 msgstr "أمريكا/جامايكا"
 
+#: timezones.h:130
 msgid "America/Jujuy"
 msgstr "أمريكا/جوجوي"
 
+#: timezones.h:131
 msgid "America/Juneau"
 msgstr "أمريكا/جونو"
 
+#: timezones.h:132
 msgid "America/Kentucky/Louisville"
 msgstr "أمريكا/كِنْتاكي/لويسفيلل"
 
+#: timezones.h:133
 msgid "America/Kentucky/Monticello"
 msgstr "أمريكا/كِنْتاكي/مونتيسيللو"
 
+#: timezones.h:134
 msgid "America/Knox_IN"
 msgstr "أمريكا/نوكس_إن"
 
+#: timezones.h:135
 msgid "America/La_Paz"
 msgstr "أمريكا/ﻻ_باز"
 
+#: timezones.h:136
 msgid "America/Lima"
 msgstr "أمريكا/ليما"
 
+#: timezones.h:137
 msgid "America/Los_Angeles"
 msgstr "أمريكا/لوس_أنجلوس"
 
+#: timezones.h:138
 msgid "America/Louisville"
 msgstr "أمريكا/لويسفيلل"
 
+#: timezones.h:139
 msgid "America/Maceio"
 msgstr "أمريكا/ماسيو"
 
+#: timezones.h:140
 msgid "America/Managua"
 msgstr "أمريكا/ماناجوا"
 
+#: timezones.h:141
 msgid "America/Manaus"
 msgstr "أمريكا/ماناوس"
 
+#: timezones.h:142
 msgid "America/Martinique"
 msgstr "أمريكا/مارتينيك"
 
+#: timezones.h:143
 msgid "America/Mazatlan"
 msgstr "أمريكا/مازاتلان"
 
+#: timezones.h:144
 msgid "America/Mendoza"
 msgstr "أمريكا/مندوزا"
 
+#: timezones.h:145
 msgid "America/Menominee"
 msgstr "أمريكا/مينومين"
 
+#: timezones.h:146
 msgid "America/Merida"
 msgstr "أمريكا/ميريدا"
 
+#: timezones.h:147
 msgid "America/Mexico_City"
 msgstr "أمريكا/مكسيكو_سيتى"
 
+#: timezones.h:148
 msgid "America/Miquelon"
 msgstr "أمريكا/ميكويلون"
 
+#: timezones.h:149
+#, fuzzy
+msgid "America/Moncton"
+msgstr "أمريكا/إدمنتون"
+
+#: timezones.h:150
 msgid "America/Monterrey"
 msgstr "أمريكا/مونتيرى"
 
+#: timezones.h:151
 msgid "America/Montevideo"
 msgstr "أمريكا/مونتفيديو"
 
+#: timezones.h:152
 msgid "America/Montreal"
 msgstr "أمريكا/مونتريال"
 
+#: timezones.h:153
 msgid "America/Montserrat"
 msgstr "أمريكا/مونتسِرات"
 
+#: timezones.h:154
 msgid "America/Nassau"
 msgstr "أمريكا/ناساو"
 
+#: timezones.h:155
 msgid "America/New_York"
 msgstr "أمريكا/نيو_يورك"
 
+#: timezones.h:156
 msgid "America/Nipigon"
 msgstr "أمريكا/نيبيجون"
 
+#: timezones.h:157
 msgid "America/Nome"
 msgstr "أمريكا/نوم"
 
+#: timezones.h:158
 msgid "America/Noronha"
 msgstr "أمريكا/نورونها"
 
+#: timezones.h:159
 msgid "America/North_Dakota/Center"
 msgstr "أمريكا/شمال_داكوتا/منتصف"
 
+#: timezones.h:160
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
+msgstr "أمريكا/شمال_داكوتا/منتصف"
+
+#: timezones.h:161
 msgid "America/Panama"
 msgstr "أمريكا/باناما"
 
+#: timezones.h:162
 msgid "America/Pangnirtung"
 msgstr "أمريكا/بانجنيرتونج"
 
+#: timezones.h:163
 msgid "America/Paramaribo"
 msgstr "أمريكا/باراماريبو"
 
+#: timezones.h:164
 msgid "America/Phoenix"
 msgstr "أمريكا/فينِكْس"
 
+#: timezones.h:165
 msgid "America/Port-au-Prince"
 msgstr "أمريكا/بورت_أو_برينس"
 
+#: timezones.h:166
 msgid "America/Porto_Acre"
 msgstr "أمريكا/بورتو_آكرى"
 
+#: timezones.h:167
 msgid "America/Port_of_Spain"
 msgstr "أمريكا/بورت_أوف_سباين"
 
+#: timezones.h:168
 msgid "America/Porto_Velho"
 msgstr "أمريكا/بورتو_فيلهو"
 
+#: timezones.h:169
 msgid "America/Puerto_Rico"
 msgstr "أمريكا/بويرتو_ريكو"
 
+#: timezones.h:170
 msgid "America/Rainy_River"
 msgstr "أمريكا/رْايني_ريفر"
 
+#: timezones.h:171
 msgid "America/Rankin_Inlet"
 msgstr "أمريكا/رانكين_إنلت"
 
+#: timezones.h:172
 msgid "America/Recife"
 msgstr "أمريكا/ريسايف"
 
+#: timezones.h:173
 msgid "America/Regina"
 msgstr "أمريكا/ريجينا"
 
+#: timezones.h:174
 msgid "America/Rio_Branco"
 msgstr "أمريكا/ريو_برانكو"
 
+#: timezones.h:175
 msgid "America/Rosario"
 msgstr "أمريكا/روسااريو"
 
+#: timezones.h:176
 msgid "America/Santiago"
 msgstr "أمريكا/سانتياجو"
 
+#: timezones.h:177
 msgid "America/Santo_Domingo"
 msgstr "أمريكا/سانتو_دومينجو"
 
+#: timezones.h:178
 msgid "America/Sao_Paulo"
 msgstr "أمريكا/ساو_باولو"
 
+#: timezones.h:179
 msgid "America/Scoresbysund"
 msgstr "أمريكا/سكورزبايساند"
 
+#: timezones.h:180
 msgid "America/Shiprock"
 msgstr "أمريكا/شيبروك"
 
+#: timezones.h:181
 msgid "America/St_Johns"
 msgstr "أمريكا/سانت_جونز"
 
+#: timezones.h:182
 msgid "America/St_Kitts"
 msgstr "أمريكا/سانت_كيتس"
 
+#: timezones.h:183
 msgid "America/St_Lucia"
 msgstr "أمريكا/سانت_لوسيا"
 
+#: timezones.h:184
 msgid "America/St_Thomas"
 msgstr "أمريكا/سانت_توماس"
 
+#: timezones.h:185
 msgid "America/St_Vincent"
 msgstr "أمريكا/سانت_فينسنت"
 
+#: timezones.h:186
 msgid "America/Swift_Current"
 msgstr "أمريكا/سويفت_كارانت"
 
+#: timezones.h:187
 msgid "America/Tegucigalpa"
 msgstr "أمريكا/تيجوسيجالبا"
 
+#: timezones.h:188
 msgid "America/Thule"
 msgstr "أمريكا/ثول"
 
+#: timezones.h:189
 msgid "America/Thunder_Bay"
 msgstr "أمريكا/ثاندر_باي"
 
+#: timezones.h:190
 msgid "America/Tijuana"
 msgstr "أمريكا/تيوانا"
 
+#: timezones.h:191
 #, fuzzy
 msgid "America/Toronto"
 msgstr "أمريكا/تورتولا"
 
+#: timezones.h:192
 msgid "America/Tortola"
 msgstr "أمريكا/تورتولا"
 
+#: timezones.h:193
 msgid "America/Vancouver"
 msgstr "أمريكا/فانكوفر"
 
+#: timezones.h:194
 msgid "America/Virgin"
 msgstr "أمريكا/فيرجين"
 
+#: timezones.h:195
 msgid "America/Whitehorse"
 msgstr "أمريكا/وايتهورس"
 
+#: timezones.h:196
 msgid "America/Winnipeg"
 msgstr "أمريكا/وينيبيج"
 
+#: timezones.h:197
 msgid "America/Yakutat"
 msgstr "أمريكا/ياكوتات"
 
+#: timezones.h:198
 msgid "America/Yellowknife"
 msgstr "أمريكا/يِلونايف"
 
+#: timezones.h:199
 msgid "Antarctica/Casey"
 msgstr "أنتارتيكا/كاسى"
 
+#: timezones.h:200
 msgid "Antarctica/Davis"
 msgstr "أنتارتيكا/دافيس"
 
+#: timezones.h:201
 msgid "Antarctica/DumontDUrville"
 msgstr "أنتارتيكا/دومنتدىأورفيل"
 
+#: timezones.h:202
 msgid "Antarctica/Mawson"
 msgstr "أنتارتيكا/ماوسون"
 
+#: timezones.h:203
 msgid "Antarctica/McMurdo"
 msgstr "أنتارتيكا/مكموردو"
 
+#: timezones.h:204
 msgid "Antarctica/Palmer"
 msgstr "أنتارتيكا/بالمر"
 
+#: timezones.h:205
 #, fuzzy
 msgid "Antarctica/Rothera"
 msgstr "أنتارتيكا/القطب_الجنوبي"
 
+#: timezones.h:206
 msgid "Antarctica/South_Pole"
 msgstr "أنتارتيكا/القطب_الجنوبي"
 
+#: timezones.h:207
 msgid "Antarctica/Syowa"
 msgstr "أنتارتيكا/سيأُوا"
 
+#: timezones.h:208
 msgid "Antarctica/Vostok"
 msgstr "أنتارتيكا/فوستوك"
 
+#: timezones.h:209
 msgid "Arctic/Longyearbyen"
 msgstr "أنتارتيكا/لونجيإربيين"
 
+#: timezones.h:210
 msgid "Asia/Aden"
 msgstr "أسيا/أدن"
 
+#: timezones.h:211
 msgid "Asia/Almaty"
 msgstr "أسيا/ألماتي"
 
+#: timezones.h:212
 msgid "Asia/Amman"
 msgstr "أسيا/عمّان"
 
+#: timezones.h:213
 msgid "Asia/Anadyr"
 msgstr "أسيا/أنادير"
 
+#: timezones.h:214
 msgid "Asia/Aqtau"
 msgstr "أسيا/أكتوا"
 
+#: timezones.h:215
 msgid "Asia/Aqtobe"
 msgstr "أسيا/أكتوب"
 
+#: timezones.h:216
 msgid "Asia/Ashgabat"
 msgstr "أسيا/أشجابات"
 
+#: timezones.h:217
 msgid "Asia/Ashkhabad"
 msgstr "أسيا/أشخاباد"
 
+#: timezones.h:218
 msgid "Asia/Baghdad"
 msgstr "أسيا/بغداد"
 
+#: timezones.h:219
 msgid "Asia/Bahrain"
 msgstr "أسيا/بحرين"
 
+#: timezones.h:220
 msgid "Asia/Baku"
 msgstr "أسيا/باكو"
 
+#: timezones.h:221
 msgid "Asia/Bangkok"
 msgstr "أسيا/بانجكوك"
 
+#: timezones.h:222
 msgid "Asia/Beirut"
 msgstr "أسيا/بيروت"
 
+#: timezones.h:223
 msgid "Asia/Bishkek"
 msgstr "أسيا/بيشكِكْ"
 
+#: timezones.h:224
 msgid "Asia/Brunei"
 msgstr "أسيا/بروناى"
 
+#: timezones.h:225
 msgid "Asia/Calcutta"
 msgstr "أسيا/كالكاتّا"
 
+#: timezones.h:226
 msgid "Asia/Choibalsan"
 msgstr "أسيا/شويبالسان"
 
+#: timezones.h:227
 msgid "Asia/Chongqing"
 msgstr "أسيا/شونجقينج"
 
+#: timezones.h:228
 msgid "Asia/Chungking"
 msgstr "أسيا/شونجكينج"
 
+#: timezones.h:229
 msgid "Asia/Colombo"
 msgstr "أسيا/كولومبو"
 
+#: timezones.h:230
 msgid "Asia/Dacca"
 msgstr "أسيا/داكّا"
 
+#: timezones.h:231
 msgid "Asia/Damascus"
 msgstr "أسيا/دمشق"
 
+#: timezones.h:232
 msgid "Asia/Dhaka"
 msgstr "أسيا/داكّا"
 
+#: timezones.h:233
 msgid "Asia/Dili"
 msgstr "أسيا/ديلى"
 
+#: timezones.h:234
 msgid "Asia/Dubai"
 msgstr "أسيا/دبى"
 
+#: timezones.h:235
 msgid "Asia/Dushanbe"
 msgstr "أسيا/دوشانبى"
 
+#: timezones.h:236
 msgid "Asia/Gaza"
 msgstr "أسيا/غزة"
 
+#: timezones.h:237
 msgid "Asia/Harbin"
 msgstr "أسيا/هاربِن"
 
+#: timezones.h:238
 msgid "Asia/Hong_Kong"
 msgstr "أسيا/هونج_كونج"
 
+#: timezones.h:239
 msgid "Asia/Hovd"
 msgstr "أسيا/هوفد"
 
+#: timezones.h:240
 msgid "Asia/Irkutsk"
 msgstr "أسيا/إركوتسك"
 
+#: timezones.h:241
 msgid "Asia/Istanbul"
 msgstr "أسيا/إسطنبول"
 
+#: timezones.h:242
 msgid "Asia/Jakarta"
 msgstr "أسيا/جاكارتا"
 
+#: timezones.h:243
 msgid "Asia/Jayapura"
 msgstr "أسيا/جيابورا"
 
+#: timezones.h:244
 msgid "Asia/Jerusalem"
 msgstr "أسيا/القدس"
 
+#: timezones.h:245
 msgid "Asia/Kabul"
 msgstr "أسيا/كابول"
 
+#: timezones.h:246
 msgid "Asia/Kamchatka"
 msgstr "أسيا/كامشَتكا"
 
+#: timezones.h:247
 msgid "Asia/Karachi"
 msgstr "أسيا/كاراتشي"
 
+#: timezones.h:248
 msgid "Asia/Kashgar"
 msgstr "أسيا/كاشجَر"
 
+#: timezones.h:249
 msgid "Asia/Katmandu"
 msgstr "أسيا/كاتمَندو"
 
+#: timezones.h:250
 msgid "Asia/Krasnoyarsk"
 msgstr "أسيا/كراسنويارسك"
 
+#: timezones.h:251
 msgid "Asia/Kuala_Lumpur"
 msgstr "أسيا/كوالا_لامبور"
 
+#: timezones.h:252
 msgid "Asia/Kuching"
 msgstr "أسيا/كوتشينج"
 
+#: timezones.h:253
 msgid "Asia/Kuwait"
 msgstr "أسيا/كويت"
 
+#: timezones.h:254
 msgid "Asia/Macao"
 msgstr "أسيا/ماكاو"
 
+#: timezones.h:255
 msgid "Asia/Macau"
 msgstr "أسيا/ماكاو"
 
+#: timezones.h:256
 msgid "Asia/Magadan"
 msgstr "أسيا/مَجادان"
 
+#: timezones.h:257
 msgid "Asia/Makassar"
 msgstr "أسيا/مكاسّار"
 
+#: timezones.h:258
 msgid "Asia/Manila"
 msgstr "أسيا/مانيلا"
 
+#: timezones.h:259
 msgid "Asia/Muscat"
 msgstr "أسيا/مسقط"
 
+#: timezones.h:260
 msgid "Asia/Nicosia"
 msgstr "أسيا/نيكوسيا"
 
+#: timezones.h:261
 msgid "Asia/Novosibirsk"
 msgstr "أسيا/نوفوسيبيرسك"
 
+#: timezones.h:262
 msgid "Asia/Omsk"
 msgstr "أسيا/أُمْسك"
 
+#: timezones.h:263
 msgid "Asia/Oral"
 msgstr "أسيا/أورال"
 
+#: timezones.h:264
 msgid "Asia/Phnom_Penh"
 msgstr "أسيا/فنوم_بن"
 
+#: timezones.h:265
 msgid "Asia/Pontianak"
 msgstr "أسيا/بونتياناك"
 
+#: timezones.h:266
 msgid "Asia/Pyongyang"
 msgstr "أسيا/بيونجيانج"
 
+#: timezones.h:267
 msgid "Asia/Qatar"
 msgstr "أسيا/قطر"
 
+#: timezones.h:268
 msgid "Asia/Qyzylorda"
 msgstr "أسيا/كيزيلوردا"
 
+#: timezones.h:269
 msgid "Asia/Rangoon"
 msgstr "أسيا/رانجون"
 
+#: timezones.h:270
 msgid "Asia/Riyadh"
 msgstr "أسيا/رياض"
 
+#: timezones.h:271
 msgid "Asia/Riyadh87"
 msgstr "أسيا/رياض87"
 
+#: timezones.h:272
 msgid "Asia/Riyadh88"
 msgstr "أسيا/رياض88"
 
+#: timezones.h:273
 msgid "Asia/Riyadh89"
 msgstr "أسيا/رياض89"
 
+#: timezones.h:274
 msgid "Asia/Saigon"
 msgstr "أسيا/سايجون"
 
+#: timezones.h:275
 msgid "Asia/Sakhalin"
 msgstr "أسيا/ساخالين"
 
+#: timezones.h:276
 msgid "Asia/Samarkand"
 msgstr "أسيا/سمرقند"
 
+#: timezones.h:277
 msgid "Asia/Seoul"
 msgstr "أسيا/سيول"
 
+#: timezones.h:278
 msgid "Asia/Shanghai"
 msgstr "أسيا/شنغهاي"
 
+#: timezones.h:279
 msgid "Asia/Singapore"
 msgstr "أسيا/سنغافورة"
 
+#: timezones.h:280
 msgid "Asia/Taipei"
 msgstr "أسيا/تايباي"
 
+#: timezones.h:281
 msgid "Asia/Tashkent"
 msgstr "أسيا/تاشكنت"
 
+#: timezones.h:282
 msgid "Asia/Tbilisi"
 msgstr "أسيا/بيليسي"
 
+#: timezones.h:283
 msgid "Asia/Tehran"
 msgstr "أسيا/طهران"
 
+#: timezones.h:284
 msgid "Asia/Tel_Aviv"
 msgstr "أسيا/تل_أبيب"
 
+#: timezones.h:285
 msgid "Asia/Thimbu"
 msgstr "أسيا/تيمبو"
 
+#: timezones.h:286
 msgid "Asia/Thimphu"
 msgstr "أسيا/تيمفو"
 
+#: timezones.h:287
 msgid "Asia/Tokyo"
 msgstr "أسيا/طوكيو"
 
+#: timezones.h:288
 msgid "Asia/Ujung_Pandang"
 msgstr "أسيا/أوجونج_باندانج"
 
+#: timezones.h:289
 msgid "Asia/Ulaanbaatar"
 msgstr "أسيا/أولانباتار"
 
+#: timezones.h:290
 msgid "Asia/Ulan_Bator"
 msgstr "أسيا/أولان_باتور"
 
+#: timezones.h:291
 msgid "Asia/Urumqi"
 msgstr "أسيا/أورومكي"
 
+#: timezones.h:292
 msgid "Asia/Vientiane"
 msgstr "أسيا/فيينتيان"
 
+#: timezones.h:293
 msgid "Asia/Vladivostok"
 msgstr "أسيا/فلاديفستك"
 
+#: timezones.h:294
 msgid "Asia/Yakutsk"
 msgstr "أسيا/ياكوتسك"
 
+#: timezones.h:295
 msgid "Asia/Yekaterinburg"
 msgstr "أسيا/يكاترينبورج"
 
+#: timezones.h:296
 msgid "Asia/Yerevan"
 msgstr "أسيا/يريفان"
 
+#: timezones.h:297
 msgid "Atlantic/Azores"
 msgstr "أطلنطي/أزورز"
 
+#: timezones.h:298
 msgid "Atlantic/Bermuda"
 msgstr "أطلنطي/برمودا"
 
+#: timezones.h:299
 msgid "Atlantic/Canary"
 msgstr "أطلنطي/كناري"
 
+#: timezones.h:300
 msgid "Atlantic/Cape_Verde"
 msgstr "أطلنطي/كيب_فيرد"
 
+#: timezones.h:301
 msgid "Atlantic/Faeroe"
 msgstr "أطلنطي/فيرو"
 
+#: timezones.h:302
 msgid "Atlantic/Jan_Mayen"
 msgstr "أطلنطي/جان_ماين"
 
+#: timezones.h:303
 msgid "Atlantic/Madeira"
 msgstr "أطلنطي/ماديرا"
 
+#: timezones.h:304
 msgid "Atlantic/Reykjavik"
 msgstr "أطلنطي/ريتشافك"
 
+#: timezones.h:305
 msgid "Atlantic/South_Georgia"
 msgstr "أطلنطي/جنوب_جورجيا"
 
+#: timezones.h:306
 msgid "Atlantic/Stanley"
 msgstr "أطلنطي/ستانلي"
 
+#: timezones.h:307
 msgid "Atlantic/St_Helena"
 msgstr "أطلنطي/سانت_هيلينا"
 
+#: timezones.h:308
 msgid "Australia/ACT"
 msgstr "أستراليا/ACT"
 
+#: timezones.h:309
 msgid "Australia/Adelaide"
 msgstr "أستراليا/أديلايد"
 
+#: timezones.h:310
 msgid "Australia/Brisbane"
 msgstr "أستراليا/بريسباين"
 
+#: timezones.h:311
 msgid "Australia/Broken_Hill"
 msgstr "أستراليا/بروكن_هيل"
 
+#: timezones.h:312
 msgid "Australia/Canberra"
 msgstr "أستراليا/كانبِرا"
 
+#: timezones.h:313
 #, fuzzy
 msgid "Australia/Currie"
 msgstr "أستراليا/كانبِرا"
 
+#: timezones.h:314
 msgid "Australia/Darwin"
 msgstr "أستراليا/داروين"
 
+#: timezones.h:315
 msgid "Australia/Hobart"
 msgstr "أستراليا/هوبارت"
 
+#: timezones.h:316
 msgid "Australia/LHI"
 msgstr "أستراليا/LHI"
 
+#: timezones.h:317
 msgid "Australia/Lindeman"
 msgstr "أستراليا/ليندمان"
 
+#: timezones.h:318
 msgid "Australia/Lord_Howe"
 msgstr "أستراليا/لورد_هاو"
 
+#: timezones.h:319
 msgid "Australia/Melbourne"
 msgstr "أستراليا/ملبورن"
 
+#: timezones.h:320
 msgid "Australia/North"
 msgstr "أستراليا/شمال"
 
+#: timezones.h:321
 msgid "Australia/NSW"
 msgstr "أستراليا/NSW"
 
+#: timezones.h:322
 msgid "Australia/Perth"
 msgstr "أستراليا/بيرث"
 
+#: timezones.h:323
 msgid "Australia/Queensland"
 msgstr "أستراليا/كوينزلاند"
 
+#: timezones.h:324
 msgid "Australia/South"
 msgstr "أستراليا/جنوب"
 
+#: timezones.h:325
 msgid "Australia/Sydney"
 msgstr "أستراليا/سيدني"
 
+#: timezones.h:326
 msgid "Australia/Tasmania"
 msgstr "أستراليا/تازمانيا"
 
+#: timezones.h:327
 msgid "Australia/Victoria"
 msgstr "أستراليا/فيكتوريا"
 
+#: timezones.h:328
 msgid "Australia/West"
 msgstr "أستراليا/غرب"
 
+#: timezones.h:329
 msgid "Australia/Yancowinna"
 msgstr "أستراليا/يانكوينا"
 
+#: timezones.h:330
 msgid "Brazil/Acre"
 msgstr "برازيل/أكري"
 
+#: timezones.h:331
 msgid "Brazil/DeNoronha"
 msgstr "برازيل/دينورونها"
 
+#: timezones.h:332
 msgid "Brazil/East"
 msgstr "برازيل/شرق"
 
+#: timezones.h:333
 msgid "Brazil/West"
 msgstr "برازيل/غرب"
 
+#: timezones.h:334
 msgid "Canada/Atlantic"
 msgstr "كندا/أطلنطي"
 
+#: timezones.h:335
 msgid "Canada/Central"
 msgstr "كندا/وسط"
 
+#: timezones.h:336
 msgid "Canada/Eastern"
 msgstr "كندا/شرقي"
 
+#: timezones.h:337
 msgid "Canada/East-Saskatchewan"
 msgstr "كندا/شرق-ساسكاتشون"
 
+#: timezones.h:338
 msgid "Canada/Mountain"
 msgstr "كندا/جبل"
 
+#: timezones.h:339
 msgid "Canada/Newfoundland"
 msgstr "كندا/أرض_جديدة"
 
+#: timezones.h:340
 msgid "Canada/Pacific"
 msgstr "كندا/هادئ"
 
+#: timezones.h:341
 msgid "Canada/Saskatchewan"
 msgstr "كندا/ساسكاتشون"
 
+#: timezones.h:342
 msgid "Canada/Yukon"
 msgstr "كندا/يوكون"
 
+#: timezones.h:343
 msgid "CET"
 msgstr "CET"
 
+#: timezones.h:344
 msgid "Chile/Continental"
 msgstr "شيلي/كونتيننتال"
 
+#: timezones.h:345
 msgid "Chile/EasterIsland"
 msgstr "شيلي/إيسترأيلاند"
 
+#: timezones.h:346
 msgid "CST6CDT"
 msgstr "CST6CDT"
 
+#: timezones.h:347
 msgid "Cuba"
 msgstr "كوبا"
 
+#: timezones.h:348
 msgid "EET"
 msgstr "EET"
 
+#: timezones.h:349
 msgid "Egypt"
 msgstr "مصر"
 
+#: timezones.h:350
 msgid "Eire"
 msgstr "آير"
 
+#: timezones.h:351
 msgid "EST"
 msgstr "EST"
 
+#: timezones.h:352
 msgid "EST5EDT"
 msgstr "EST5EDT"
 
+#: timezones.h:353
 msgid "Etc/GMT"
 msgstr "Etc/GMT"
 
+#: timezones.h:354
 msgid "Etc/GMT0"
 msgstr "Etc/GMT0"
 
+#: timezones.h:355
 msgid "Etc/GMT-0"
 msgstr "Etc/GMT-0"
 
+#: timezones.h:356
 msgid "Etc/GMT+0"
 msgstr "Etc/GMT+0"
 
+#: timezones.h:357
 msgid "Etc/GMT-1"
 msgstr "Etc/GMT-1"
 
+#: timezones.h:358
 msgid "Etc/GMT+1"
 msgstr "Etc/GMT+1"
 
+#: timezones.h:359
 msgid "Etc/GMT-10"
 msgstr "Etc/GMT-10"
 
+#: timezones.h:360
 msgid "Etc/GMT+10"
 msgstr "Etc/GMT+10"
 
+#: timezones.h:361
 msgid "Etc/GMT-11"
 msgstr "Etc/GMT-11"
 
+#: timezones.h:362
 msgid "Etc/GMT+11"
 msgstr "Etc/GMT+11"
 
+#: timezones.h:363
 msgid "Etc/GMT-12"
 msgstr "Etc/GMT-12"
 
+#: timezones.h:364
 msgid "Etc/GMT+12"
 msgstr "Etc/GMT+12"
 
+#: timezones.h:365
 msgid "Etc/GMT-13"
 msgstr "Etc/GMT-13"
 
+#: timezones.h:366
 msgid "Etc/GMT-14"
 msgstr "Etc/GMT-14"
 
+#: timezones.h:367
 msgid "Etc/GMT-2"
 msgstr "Etc/GMT-2"
 
+#: timezones.h:368
 msgid "Etc/GMT+2"
 msgstr "Etc/GMT+2"
 
+#: timezones.h:369
 msgid "Etc/GMT-3"
 msgstr "Etc/GMT-3"
 
+#: timezones.h:370
 msgid "Etc/GMT+3"
 msgstr "Etc/GMT+3"
 
+#: timezones.h:371
 msgid "Etc/GMT-4"
 msgstr "Etc/GMT-4"
 
+#: timezones.h:372
 msgid "Etc/GMT+4"
 msgstr "Etc/GMT+4"
 
+#: timezones.h:373
 msgid "Etc/GMT-5"
 msgstr "Etc/GMT-5"
 
+#: timezones.h:374
 msgid "Etc/GMT+5"
 msgstr "Etc/GMT+5"
 
+#: timezones.h:375
 msgid "Etc/GMT-6"
 msgstr "Etc/GMT-6"
 
+#: timezones.h:376
 msgid "Etc/GMT+6"
 msgstr "Etc/GMT+6"
 
+#: timezones.h:377
 msgid "Etc/GMT-7"
 msgstr "Etc/GMT-7"
 
+#: timezones.h:378
 msgid "Etc/GMT+7"
 msgstr "Etc/GMT+7"
 
+#: timezones.h:379
 msgid "Etc/GMT-8"
 msgstr "Etc/GMT-8"
 
+#: timezones.h:380
 msgid "Etc/GMT+8"
 msgstr "Etc/GMT+8"
 
+#: timezones.h:381
 msgid "Etc/GMT-9"
 msgstr "Etc/GMT-9"
 
+#: timezones.h:382
 msgid "Etc/GMT+9"
 msgstr "Etc/GMT+9"
 
+#: timezones.h:383
 msgid "Etc/Greenwich"
 msgstr "Etc/غرينتش"
 
+#: timezones.h:384
 msgid "Etc/UCT"
 msgstr "Etc/UCT"
 
+#: timezones.h:385
 msgid "Etc/Universal"
 msgstr "Etc/Universal"
 
+#: timezones.h:386
 msgid "Etc/UTC"
 msgstr "Etc/UTC"
 
+#: timezones.h:387
 msgid "Etc/Zulu"
 msgstr "Etc/Zulu"
 
+#: timezones.h:388
 msgid "Europe/Amsterdam"
 msgstr "أوروبا/أمستردام"
 
+#: timezones.h:389
 msgid "Europe/Andorra"
 msgstr "أوروبا/أندورا"
 
+#: timezones.h:390
 msgid "Europe/Athens"
 msgstr "أوروبا/أثينا"
 
+#: timezones.h:391
 msgid "Europe/Belfast"
 msgstr "أوروبا/بلفاست"
 
+#: timezones.h:392
 msgid "Europe/Belgrade"
 msgstr "أوروبا/بلجراد"
 
+#: timezones.h:393
 msgid "Europe/Berlin"
 msgstr "أوروبا/برلين"
 
+#: timezones.h:394
 msgid "Europe/Bratislava"
 msgstr "أوروبا/براتيسلافا"
 
+#: timezones.h:395
 msgid "Europe/Brussels"
 msgstr "أوروبا/بروكسل"
 
+#: timezones.h:396
 msgid "Europe/Bucharest"
 msgstr "أوروبا/بوخارست"
 
+#: timezones.h:397
 msgid "Europe/Budapest"
 msgstr "أوروبا/بودابست"
 
+#: timezones.h:398
 msgid "Europe/Chisinau"
 msgstr "أوروبا/شيزيناو"
 
+#: timezones.h:399
 msgid "Europe/Copenhagen"
 msgstr "أوروبا/كوبنهاجن"
 
+#: timezones.h:400
 msgid "Europe/Dublin"
 msgstr "أوروبا/دوبلن"
 
+#: timezones.h:401
 msgid "Europe/Gibraltar"
 msgstr "أوروبا/جبل_طارق"
 
+#: timezones.h:402
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "أوروبا/أثينا"
+
+#: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "أوروبا/هلسينكي"
 
+#: timezones.h:404
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "أوروبا/أوسلو"
+
+#: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "أوروبا/إسطنبول"
 
+#: timezones.h:406
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "أوروبا/باريس"
+
+#: timezones.h:407
 msgid "Europe/Kaliningrad"
 msgstr "أوروبا/كالينينجراد"
 
+#: timezones.h:408
 msgid "Europe/Kiev"
 msgstr "أوروبا/كييف"
 
+#: timezones.h:409
 msgid "Europe/Lisbon"
 msgstr "أوروبا/ليسبون"
 
+#: timezones.h:410
 msgid "Europe/Ljubljana"
 msgstr "أوروبا/ليوبليانا"
 
+#: timezones.h:411
 msgid "Europe/London"
 msgstr "أوروبا/لندن"
 
+#: timezones.h:412
 msgid "Europe/Luxembourg"
 msgstr "أوروبا/لوكسمبرج"
 
+#: timezones.h:413
 msgid "Europe/Madrid"
 msgstr "أوروبا/مدريد"
 
+#: timezones.h:414
 msgid "Europe/Malta"
 msgstr "أوروبا/مالطا"
 
+#: timezones.h:415
 #, fuzzy
 msgid "Europe/Mariehamn"
 msgstr "أوروبا/مدريد"
 
+#: timezones.h:416
 msgid "Europe/Minsk"
 msgstr "أوروبا/مينسك"
 
+#: timezones.h:417
 msgid "Europe/Monaco"
 msgstr "أوروبا/موناكو"
 
+#: timezones.h:418
 msgid "Europe/Moscow"
 msgstr "أوروبا/موسكو"
 
+#: timezones.h:419
 msgid "Europe/Nicosia"
 msgstr "أوروبا/نيكوسيا"
 
+#: timezones.h:420
 msgid "Europe/Oslo"
 msgstr "أوروبا/أوسلو"
 
+#: timezones.h:421
 msgid "Europe/Paris"
 msgstr "أوروبا/باريس"
 
+#: timezones.h:422
+#, fuzzy
+msgid "Europe/Podgorica"
+msgstr "أوروبا/أندورا"
+
+#: timezones.h:423
 msgid "Europe/Prague"
 msgstr "أوروبا/براج"
 
+#: timezones.h:424
 msgid "Europe/Riga"
 msgstr "أوروبا/ريجا"
 
+#: timezones.h:425
 msgid "Europe/Rome"
 msgstr "أوروبا/روما"
 
+#: timezones.h:426
 msgid "Europe/Samara"
 msgstr "أوروبا/سامارا"
 
+#: timezones.h:427
 msgid "Europe/San_Marino"
 msgstr "أوروبا/سان_مارينو"
 
+#: timezones.h:428
 msgid "Europe/Sarajevo"
 msgstr "أوروبا/ساراييفو"
 
+#: timezones.h:429
 msgid "Europe/Simferopol"
 msgstr "أوروبا/سيمفيروبول"
 
+#: timezones.h:430
 msgid "Europe/Skopje"
 msgstr "أوروبا/سكوبيا"
 
+#: timezones.h:431
 msgid "Europe/Sofia"
 msgstr "أوروبا/صوفيا"
 
+#: timezones.h:432
 msgid "Europe/Stockholm"
 msgstr "أوروبا/ستوكهولم"
 
+#: timezones.h:433
 msgid "Europe/Tallinn"
 msgstr "أوروبا/تلّين"
 
+#: timezones.h:434
 msgid "Europe/Tirane"
 msgstr "أوروبا/تيران"
 
+#: timezones.h:435
 msgid "Europe/Tiraspol"
 msgstr "أوروبا/تيراسبول"
 
+#: timezones.h:436
 msgid "Europe/Uzhgorod"
 msgstr "أوروبا/أوزجورود"
 
+#: timezones.h:437
 msgid "Europe/Vaduz"
 msgstr "أوروبا/فادوز"
 
+#: timezones.h:438
 msgid "Europe/Vatican"
 msgstr "أوروبا/فاتيكان"
 
+#: timezones.h:439
 msgid "Europe/Vienna"
 msgstr "أوروبا/فيينا"
 
+#: timezones.h:440
 msgid "Europe/Vilnius"
 msgstr "أوروبا/فيلنيوس"
 
+#: timezones.h:441
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "أوروبا/بلجراد"
+
+#: timezones.h:442
 msgid "Europe/Warsaw"
 msgstr "أوروبا/وارسوا"
 
+#: timezones.h:443
 msgid "Europe/Zagreb"
 msgstr "أوروبا/زاغريب"
 
+#: timezones.h:444
 msgid "Europe/Zaporozhye"
 msgstr "أوروبا/زابوروزي"
 
+#: timezones.h:445
 msgid "Europe/Zurich"
 msgstr "أوروبا/زيورخ"
 
+#: timezones.h:446
 msgid "Factory"
 msgstr "مصنع"
 
+#: timezones.h:447
 msgid "GB"
 msgstr "GB"
 
+#: timezones.h:448
 msgid "GB-Eire"
 msgstr "GB-آير"
 
+#: timezones.h:449
 msgid "GMT"
 msgstr "GMT"
 
+#: timezones.h:450
 msgid "GMT0"
 msgstr "GMT0"
 
+#: timezones.h:451
 msgid "GMT-0"
 msgstr "GMT-0"
 
+#: timezones.h:452
 msgid "GMT+0"
 msgstr "GMT+0"
 
+#: timezones.h:453
 msgid "Greenwich"
 msgstr "غرينتش"
 
+#: timezones.h:454
 msgid "Hongkong"
 msgstr "هونجكونج"
 
+#: timezones.h:455
 msgid "HST"
 msgstr "HST"
 
+#: timezones.h:456
 msgid "Iceland"
 msgstr "أيسلاند"
 
+#: timezones.h:457
 msgid "Indian/Antananarivo"
 msgstr "هندي/أنتاناناريفو"
 
+#: timezones.h:458
 msgid "Indian/Chagos"
 msgstr "هندي/شاجوس"
 
+#: timezones.h:459
 msgid "Indian/Christmas"
 msgstr "هندي/كريستماس"
 
+#: timezones.h:460
 msgid "Indian/Cocos"
 msgstr "هندي/كوكوس"
 
+#: timezones.h:461
 msgid "Indian/Comoro"
 msgstr "هندي/كومورو"
 
+#: timezones.h:462
 msgid "Indian/Kerguelen"
 msgstr "هندي/كيرجيولن"
 
+#: timezones.h:463
 msgid "Indian/Mahe"
 msgstr "هندي/ماهي"
 
+#: timezones.h:464
 msgid "Indian/Maldives"
 msgstr "هندي/مالديف"
 
+#: timezones.h:465
 msgid "Indian/Mauritius"
 msgstr "هندي/موريشيوس"
 
+#: timezones.h:466
 msgid "Indian/Mayotte"
 msgstr "هندي/مايوتي"
 
+#: timezones.h:467
 msgid "Indian/Reunion"
 msgstr "هندي/رييونيون"
 
+#: timezones.h:468
 msgid "Iran"
 msgstr "إيران"
 
+#: timezones.h:469
 msgid "Israel"
 msgstr "إسرائيل"
 
+#: timezones.h:470
 msgid "Jamaica"
 msgstr "جامايكا"
 
+#: timezones.h:471
 msgid "Japan"
 msgstr "يابان"
 
+#: timezones.h:472
 msgid "Kwajalein"
 msgstr "كوجالين"
 
+#: timezones.h:473
 msgid "Libya"
 msgstr "ليبيا"
 
+#: timezones.h:474
 msgid "MET"
 msgstr "MET"
 
+#: timezones.h:475
 msgid "Mexico/BajaNorte"
 msgstr "مكسيك/بايانورتي"
 
+#: timezones.h:476
 msgid "Mexico/BajaSur"
 msgstr "مكسيك/باياسور"
 
+#: timezones.h:477
 msgid "Mexico/General"
 msgstr "مكسيك/عام"
 
+#: timezones.h:478
 msgid "Mideast/Riyadh87"
 msgstr "شرق_أوسط/رياض87"
 
+#: timezones.h:479
 msgid "Mideast/Riyadh88"
 msgstr "شرق_أوسط/رياض88"
 
+#: timezones.h:480
 msgid "Mideast/Riyadh89"
 msgstr "شرق_أوسط/رياض89"
 
+#: timezones.h:481
 msgid "MST"
 msgstr "MST"
 
+#: timezones.h:482
 msgid "MST7MDT"
 msgstr "MST7MDT"
 
+#: timezones.h:483
 msgid "Navajo"
 msgstr "نافايو"
 
+#: timezones.h:484
 msgid "NZ"
 msgstr "NZ"
 
+#: timezones.h:485
 msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
+#: timezones.h:486
 msgid "Pacific/Apia"
 msgstr "هادئ/أبيا"
 
+#: timezones.h:487
 msgid "Pacific/Auckland"
 msgstr "هادئ/أوكلاند"
 
+#: timezones.h:488
 msgid "Pacific/Chatham"
 msgstr "هادئ/شاثام"
 
+#: timezones.h:489
 msgid "Pacific/Easter"
 msgstr "هادئ/إيستر"
 
+#: timezones.h:490
 msgid "Pacific/Efate"
 msgstr "هادئ/إفاتي"
 
+#: timezones.h:491
 msgid "Pacific/Enderbury"
 msgstr "هادئ/إندربوري"
 
+#: timezones.h:492
 msgid "Pacific/Fakaofo"
 msgstr "هادئ/فاكاوفو"
 
+#: timezones.h:493
 msgid "Pacific/Fiji"
 msgstr "هادئ/فيجي"
 
+#: timezones.h:494
 msgid "Pacific/Funafuti"
 msgstr "هادئ/فونافوتي"
 
+#: timezones.h:495
 msgid "Pacific/Galapagos"
 msgstr "هادئ/جالاباجوس"
 
+#: timezones.h:496
 msgid "Pacific/Gambier"
 msgstr "هادئ/جامبيير"
 
+#: timezones.h:497
 msgid "Pacific/Guadalcanal"
 msgstr "هادئ/جوادالكانال"
 
+#: timezones.h:498
 msgid "Pacific/Guam"
 msgstr "هادئ/جوام"
 
+#: timezones.h:499
 msgid "Pacific/Honolulu"
 msgstr "هادئ/هونولولو"
 
+#: timezones.h:500
 msgid "Pacific/Johnston"
 msgstr "هادئ/جونستون"
 
+#: timezones.h:501
 msgid "Pacific/Kiritimati"
 msgstr "هادئ/كيريتيماتي"
 
+#: timezones.h:502
 msgid "Pacific/Kosrae"
 msgstr "هادئ/كوسراي"
 
+#: timezones.h:503
 msgid "Pacific/Kwajalein"
 msgstr "هادئ/كواجالين"
 
+#: timezones.h:504
 msgid "Pacific/Majuro"
 msgstr "هادئ/ماجورو"
 
+#: timezones.h:505
 msgid "Pacific/Marquesas"
 msgstr "هادئ/ماركويساس"
 
+#: timezones.h:506
 msgid "Pacific/Midway"
 msgstr "هادئ/ميدواي"
 
+#: timezones.h:507
 msgid "Pacific/Nauru"
 msgstr "هادئ/ناورو"
 
+#: timezones.h:508
 msgid "Pacific/Niue"
 msgstr "هادئ/نيو"
 
+#: timezones.h:509
 msgid "Pacific/Norfolk"
 msgstr "هادئ/نورفولك"
 
+#: timezones.h:510
 msgid "Pacific/Noumea"
 msgstr "هادئ/نوميا"
 
+#: timezones.h:511
 msgid "Pacific/Pago_Pago"
 msgstr "هادئ/باجو_باجو"
 
+#: timezones.h:512
 msgid "Pacific/Palau"
 msgstr "هادئ/بالاو"
 
+#: timezones.h:513
 msgid "Pacific/Pitcairn"
 msgstr "هادئ/بيتكايرن"
 
+#: timezones.h:514
 msgid "Pacific/Ponape"
 msgstr "هادئ/بونابي"
 
+#: timezones.h:515
 msgid "Pacific/Port_Moresby"
 msgstr "هادئ/بورت_مورسبي"
 
+#: timezones.h:516
 msgid "Pacific/Rarotonga"
 msgstr "هادئ/راروتونجا"
 
+#: timezones.h:517
 msgid "Pacific/Saipan"
 msgstr "هادئ/سايبان"
 
+#: timezones.h:518
 msgid "Pacific/Samoa"
 msgstr "هادئ/ساموا"
 
+#: timezones.h:519
 msgid "Pacific/Tahiti"
 msgstr "هادئ/تاهيتي"
 
+#: timezones.h:520
 msgid "Pacific/Tarawa"
 msgstr "هادئ/تاراوا"
 
+#: timezones.h:521
 msgid "Pacific/Tongatapu"
 msgstr "هادئ/تونجاتابو"
 
+#: timezones.h:522
 msgid "Pacific/Truk"
 msgstr "هادئ/تروك"
 
+#: timezones.h:523
 msgid "Pacific/Wake"
 msgstr "هادئ/وايك"
 
+#: timezones.h:524
 msgid "Pacific/Wallis"
 msgstr "هادئ/واليس"
 
+#: timezones.h:525
 msgid "Pacific/Yap"
 msgstr "هادئ/ياب"
 
+#: timezones.h:526
 msgid "Poland"
 msgstr "بولندا"
 
+#: timezones.h:527
 msgid "Portugal"
 msgstr "برتغال"
 
+#: timezones.h:528
 msgid "PRC"
 msgstr "PRC"
 
+#: timezones.h:529
 msgid "PST8PDT"
 msgstr "PST8PDT"
 
+#: timezones.h:530
 msgid "ROC"
 msgstr "ROC"
 
+#: timezones.h:531
 msgid "ROK"
 msgstr "ROK"
 
+#: timezones.h:532
 msgid "Singapore"
 msgstr "سنغافورة"
 
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
+#: timezones.h:533
 msgid "Turkey"
 msgstr "تركيا"
 
+#: timezones.h:534
 msgid "UCT"
 msgstr "UCT"
 
+#: timezones.h:535
 msgid "Universal"
 msgstr "Universal"
 
+#: timezones.h:536
 msgid "US/Alaska"
 msgstr "US/ألاسكا"
 
+#: timezones.h:537
 msgid "US/Aleutian"
 msgstr "US/أليوتيان"
 
+#: timezones.h:538
 msgid "US/Arizona"
 msgstr "US/أريزونا"
 
+#: timezones.h:539
 msgid "US/Central"
 msgstr "US/وسط"
 
+#: timezones.h:540
 msgid "US/Eastern"
 msgstr "US/شرقي"
 
+#: timezones.h:541
 msgid "US/East-Indiana"
 msgstr "US/شرق-إنديانا"
 
+#: timezones.h:542
 msgid "US/Hawaii"
 msgstr "US/هاواي"
 
+#: timezones.h:543
 msgid "US/Indiana-Starke"
 msgstr "US/إنديانا-ستاركي"
 
+#: timezones.h:544
 msgid "US/Michigan"
 msgstr "US/ميتشيجان"
 
+#: timezones.h:545
 msgid "US/Mountain"
 msgstr "US/جبل"
 
+#: timezones.h:546
 msgid "US/Pacific"
 msgstr "US/هادئ"
 
+#: timezones.h:547
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "US/هادئ"
+
+#: timezones.h:548
 msgid "US/Samoa"
 msgstr "US/ساموا"
 
+#: timezones.h:549
 msgid "UTC"
 msgstr "UTC"
 
+#: timezones.h:550
 msgid "WET"
 msgstr "WET"
 
+#: timezones.h:551
 msgid "W-SU"
 msgstr "W-SU"
 
+#: timezones.h:552
 msgid "Zulu"
 msgstr "Zulu"
+
+#~ msgid "SystemV/AST4"
+#~ msgstr "SystemV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "SystemV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "SystemV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "SystemV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "SystemV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "SystemV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "SystemV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "SystemV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "SystemV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "SystemV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "SystemV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "SystemV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "SystemV/YST9YDT"
