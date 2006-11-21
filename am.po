@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: timezones VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2002-04-12 17:04-0400\n"
+"POT-Creation-Date: 2006-11-21 15:30+0100\n"
 "PO-Revision-Date: 2005-01-24 10:03+EDT\n"
 "Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
 "Language-Team: Amharic <am-translate@geez.org>\n"
@@ -16,1679 +16,2279 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: timezones.h:1
 msgid "Africa/Abidjan"
 msgstr "አፍሪካ/አቢጃን"
 
+#: timezones.h:2
 msgid "Africa/Accra"
 msgstr "አፍሪካ/አክራ"
 
+#: timezones.h:3
 msgid "Africa/Addis_Ababa"
 msgstr "አፍሪካ/አዲስ አበባ"
 
+#: timezones.h:4
 msgid "Africa/Algiers"
 msgstr "አፍሪካ/አልጀርስ"
 
+#: timezones.h:5
 msgid "Africa/Asmera"
 msgstr "አፍሪካ/አሥመራ"
 
+#: timezones.h:6
 msgid "Africa/Bamako"
 msgstr "አፍሪካ/ባማኮ"
 
+#: timezones.h:7
 msgid "Africa/Bangui"
 msgstr "አፍሪካ/ባንጉዊ"
 
+#: timezones.h:8
 msgid "Africa/Banjul"
 msgstr "አፍሪካ/ባንጁል"
 
+#: timezones.h:9
 msgid "Africa/Bissau"
 msgstr "አፍሪካ/ቢሳዎ"
 
+#: timezones.h:10
 msgid "Africa/Blantyre"
 msgstr "አፍሪካ/ብላንቲረ"
 
+#: timezones.h:11
 msgid "Africa/Brazzaville"
 msgstr "አፍሪካ/ብራዛቪል"
 
+#: timezones.h:12
 msgid "Africa/Bujumbura"
 msgstr "አፍሪካ/ቡጁምቡራ"
 
+#: timezones.h:13
 msgid "Africa/Cairo"
 msgstr "አፍሪካ/ካይሮ"
 
+#: timezones.h:14
 msgid "Africa/Casablanca"
 msgstr "አፍሪካ/ካዛብላንካ"
 
+#: timezones.h:15
 msgid "Africa/Ceuta"
 msgstr "አፍሪካ/ኬውታ"
 
+#: timezones.h:16
 msgid "Africa/Conakry"
 msgstr "አፍሪካ/ኮናክሪ"
 
+#: timezones.h:17
 msgid "Africa/Dakar"
 msgstr "አፍሪካ/ዳካር"
 
+#: timezones.h:18
 msgid "Africa/Dar_es_Salaam"
 msgstr "አፍሪካ/ዳሬሰላም"
 
+#: timezones.h:19
 msgid "Africa/Djibouti"
 msgstr "አፍሪካ/ጅቡቲ"
 
+#: timezones.h:20
 msgid "Africa/Douala"
 msgstr "አፍሪካ/ዱዋላ"
 
+#: timezones.h:21
 msgid "Africa/El_Aaiun"
 msgstr "አፍሪካ/ኤል አኢውን"
 
+#: timezones.h:22
 msgid "Africa/Freetown"
 msgstr "አፍሪካ/ፍሪታውን"
 
+#: timezones.h:23
 msgid "Africa/Gaborone"
 msgstr "አፍሪካ/ጋቦሮን"
 
+#: timezones.h:24
 msgid "Africa/Harare"
 msgstr "አፍሪካ/ሀራሬ"
 
+#: timezones.h:25
 msgid "Africa/Johannesburg"
 msgstr "አፍሪካ/ጆሀንስበርግ"
 
+#: timezones.h:26
 msgid "Africa/Kampala"
 msgstr "አፍሪካ/ካምፓላ"
 
+#: timezones.h:27
 msgid "Africa/Khartoum"
 msgstr "አፍሪካ/ካርቱም"
 
+#: timezones.h:28
 msgid "Africa/Kigali"
 msgstr "አፍሪካ/ኪጋሊ"
 
+#: timezones.h:29
 msgid "Africa/Kinshasa"
 msgstr "አፍሪካ/ኪንሻሳ"
 
+#: timezones.h:30
 msgid "Africa/Lagos"
 msgstr "አፍሪካ/ሌጎስ"
 
+#: timezones.h:31
 msgid "Africa/Libreville"
 msgstr "አፍሪካ/ሊብሬቪል"
 
+#: timezones.h:32
 msgid "Africa/Lome"
 msgstr "አፍሪካ/ሎሜ"
 
+#: timezones.h:33
 msgid "Africa/Luanda"
 msgstr "አፍሪካ/ሉዋንዳ"
 
+#: timezones.h:34
 msgid "Africa/Lubumbashi"
 msgstr "አፍሪካ/ሉቡምባሺ"
 
+#: timezones.h:35
 msgid "Africa/Lusaka"
 msgstr "አፍሪካ/ሉሳካ"
 
+#: timezones.h:36
 msgid "Africa/Malabo"
 msgstr "አፍሪካ/ማላቡ"
 
+#: timezones.h:37
 msgid "Africa/Maputo"
 msgstr "አፍሪካ/ማፑቶ"
 
+#: timezones.h:38
 msgid "Africa/Maseru"
 msgstr "አፍሪካ/ማሴሩ"
 
+#: timezones.h:39
 msgid "Africa/Mbabane"
 msgstr "አፍሪካ/ምባባኔ"
 
+#: timezones.h:40
 msgid "Africa/Mogadishu"
 msgstr "አፍሪካ/ሞቃዲሹ"
 
+#: timezones.h:41
 msgid "Africa/Monrovia"
 msgstr "አፍሪካ/ሞንሮቪያ"
 
+#: timezones.h:42
 msgid "Africa/Nairobi"
 msgstr "አፍሪካ/ናይሮቢ"
 
+#: timezones.h:43
 msgid "Africa/Ndjamena"
 msgstr "አፍሪካ/ኒጃሜና"
 
+#: timezones.h:44
 msgid "Africa/Niamey"
 msgstr "አፍሪካ/ኒያሜይ"
 
+#: timezones.h:45
 msgid "Africa/Nouakchott"
 msgstr "አፍሪካ/ኑዋክቾት"
 
+#: timezones.h:46
 msgid "Africa/Ouagadougou"
 msgstr "አፍሪካ/ኡጋዱጉ"
 
+#: timezones.h:47
 msgid "Africa/Porto-Novo"
 msgstr "አፍሪካ/Porto-Novo"
 
+#: timezones.h:48
 msgid "Africa/Sao_Tome"
 msgstr "አፍሪካ/ሳኦ-ቶሜ"
 
+#: timezones.h:49
 msgid "Africa/Timbuktu"
 msgstr "አፍሪካ/ቲምቡክቱ"
 
+#: timezones.h:50
 msgid "Africa/Tripoli"
 msgstr "አፍሪካ/ትሪፖሊ"
 
+#: timezones.h:51
 msgid "Africa/Tunis"
 msgstr "አፍሪካ/ቱኒዝ"
 
+#: timezones.h:52
 msgid "Africa/Windhoek"
 msgstr "አፍሪካ/ዊንድሆዌክ"
 
+#: timezones.h:53
 msgid "America/Adak"
 msgstr "አሜሪካ/አዳክ"
 
+#: timezones.h:54
 msgid "America/Anchorage"
 msgstr "አሜሪካ/አንኮራጅ"
 
+#: timezones.h:55
 msgid "America/Anguilla"
 msgstr "አሜሪካ/አንጉኢላ"
 
+#: timezones.h:56
 msgid "America/Antigua"
 msgstr "አሜሪካ/አንቲጉዋ"
 
+#: timezones.h:57
 msgid "America/Araguaina"
 msgstr "አሜሪካ/አራጉአኢና"
 
+#: timezones.h:58
 #, fuzzy
 msgid "America/Argentina/Buenos_Aires"
 msgstr "አሜሪካ/ቡኤኖስ_ኤይሪስ"
 
+#: timezones.h:59
 #, fuzzy
 msgid "America/Argentina/Catamarca"
 msgstr "አሜሪካ/ካታማርካ"
 
+#: timezones.h:60
 #, fuzzy
 msgid "America/Argentina/ComodRivadavia"
 msgstr "አሜሪካ/አሜሪካ"
 
+#: timezones.h:61
 #, fuzzy
 msgid "America/Argentina/Cordoba"
 msgstr "አሜሪካ/ኮርዶባ"
 
+#: timezones.h:62
 #, fuzzy
 msgid "America/Argentina/Jujuy"
 msgstr "አሜሪካ/ጁጁይ"
 
+#: timezones.h:63
 #, fuzzy
 msgid "America/Argentina/La_Rioja"
 msgstr "አሜሪካ/አራጉአኢና"
 
+#: timezones.h:64
 #, fuzzy
 msgid "America/Argentina/Mendoza"
 msgstr "አሜሪካ/ሜንዶዛ"
 
+#: timezones.h:65
 #, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
 msgstr "አሜሪካ/አሜሪካ/ማሬንጎ"
 
+#: timezones.h:66
 #, fuzzy
 msgid "America/Argentina/San_Juan"
 msgstr "አሜሪካ/አንቲጉዋ"
 
+#: timezones.h:67
 #, fuzzy
 msgid "America/Argentina/Tucuman"
 msgstr "አሜሪካ/አንቲጉዋ"
 
+#: timezones.h:68
 #, fuzzy
 msgid "America/Argentina/Ushuaia"
 msgstr "አሜሪካ/አራጉአኢና"
 
+#: timezones.h:69
 msgid "America/Aruba"
 msgstr "አሜሪካ/አሩባ"
 
+#: timezones.h:70
 msgid "America/Asuncion"
 msgstr "አሜሪካ/አሱንኮን"
 
+#: timezones.h:71
+#, fuzzy
+msgid "America/Atikokan"
+msgstr "America/Atka"
+
+#: timezones.h:72
 msgid "America/Atka"
 msgstr "America/Atka"
 
+#: timezones.h:73
 #, fuzzy
 msgid "America/Bahia"
 msgstr "አሜሪካ/ቦአ-ቪስታ"
 
+#: timezones.h:74
 msgid "America/Barbados"
 msgstr "አሜሪካ/ባርቤዶስ"
 
+#: timezones.h:75
 msgid "America/Belem"
 msgstr "አሜሪካ/በለም"
 
+#: timezones.h:76
 msgid "America/Belize"
 msgstr "አሜሪካ/ቤሊዝ"
 
+#: timezones.h:77
+#, fuzzy
+msgid "America/Blanc-Sablon"
+msgstr "አሜሪካ/ካንኩን"
+
+#: timezones.h:78
 msgid "America/Boa_Vista"
 msgstr "አሜሪካ/ቦአ-ቪስታ"
 
+#: timezones.h:79
 msgid "America/Bogota"
 msgstr "አሜሪካ/ቦጎታ"
 
+#: timezones.h:80
 msgid "America/Boise"
 msgstr "አሜሪካ/ቦይስ"
 
+#: timezones.h:81
 msgid "America/Buenos_Aires"
 msgstr "አሜሪካ/ቡኤኖስ_ኤይሪስ"
 
+#: timezones.h:82
 msgid "America/Cambridge_Bay"
 msgstr "አሜሪካ/ካምብሪጅ_ቤይ"
 
+#: timezones.h:83
 #, fuzzy
 msgid "America/Campo_Grande"
 msgstr "አሜሪካ/ኬይማን"
 
+#: timezones.h:84
 msgid "America/Cancun"
 msgstr "አሜሪካ/ካንኩን"
 
+#: timezones.h:85
 msgid "America/Caracas"
 msgstr "አሜሪካ/ካራካስ"
 
+#: timezones.h:86
 msgid "America/Catamarca"
 msgstr "አሜሪካ/ካታማርካ"
 
+#: timezones.h:87
 msgid "America/Cayenne"
 msgstr "አሜሪካ/ካኤን"
 
+#: timezones.h:88
 msgid "America/Cayman"
 msgstr "አሜሪካ/ኬይማን"
 
+#: timezones.h:89
 msgid "America/Chicago"
 msgstr "አሜሪካ/ቺካጐ"
 
+#: timezones.h:90
 msgid "America/Chihuahua"
 msgstr "አሜሪካ/ቺኽዋኽዋ"
 
+#: timezones.h:91
 #, fuzzy
 msgid "America/Coral_Harbour"
 msgstr "አሜሪካ/ኩራካኦ"
 
+#: timezones.h:92
 msgid "America/Cordoba"
 msgstr "አሜሪካ/ኮርዶባ"
 
+#: timezones.h:93
 msgid "America/Costa_Rica"
 msgstr "አሜሪካ/ኮስታሪካ"
 
+#: timezones.h:94
 msgid "America/Cuiaba"
 msgstr "አሜሪካ/ኩባ"
 
+#: timezones.h:95
 msgid "America/Curacao"
 msgstr "አሜሪካ/ኩራካኦ"
 
+#: timezones.h:96
 msgid "America/Danmarkshavn"
 msgstr "አሜሪካ/ዴንማርክ"
 
+#: timezones.h:97
 msgid "America/Dawson"
 msgstr "አሜሪካ/ዳውሰን"
 
+#: timezones.h:98
 msgid "America/Dawson_Creek"
 msgstr "አሜሪካ/ዳውሰን_ክሪክ"
 
+#: timezones.h:99
 msgid "America/Denver"
 msgstr "አሜሪካ/ዴንቨር"
 
+#: timezones.h:100
 msgid "America/Detroit"
 msgstr "አሜሪካ/ዲትሮይት"
 
+#: timezones.h:101
 msgid "America/Dominica"
 msgstr "አሜሪካ/ዶሚኒካ"
 
+#: timezones.h:102
 msgid "America/Edmonton"
 msgstr "አሜሪካ/ኤድመንተን"
 
+#: timezones.h:103
 msgid "America/Eirunepe"
 msgstr "አሜሪካ/ኢሩኔፕ"
 
+#: timezones.h:104
 msgid "America/El_Salvador"
 msgstr "አሜሪካ/ኤልሳልቫዶር"
 
+#: timezones.h:105
 msgid "America/Ensenada"
 msgstr "አሜሪካ/Ensenada"
 
+#: timezones.h:106
 msgid "America/Fortaleza"
 msgstr "አሜሪካ/ፎርታለዛ"
 
+#: timezones.h:107
 msgid "America/Fort_Wayne"
 msgstr "አሜሪካ/Fort_Wayne"
 
+#: timezones.h:108
 msgid "America/Glace_Bay"
 msgstr "አሜሪካ/ግሌስ_ቤይ"
 
+#: timezones.h:109
 msgid "America/Godthab"
 msgstr "አሜሪካ/ጐድታኽብ"
 
+#: timezones.h:110
 msgid "America/Goose_Bay"
 msgstr "አሜሪካ/ጉዝ_ቤይ"
 
+#: timezones.h:111
 msgid "America/Grand_Turk"
 msgstr "አሜሪካ/ግራንድ_ቱርክ"
 
+#: timezones.h:112
 msgid "America/Grenada"
 msgstr "አሜሪካ/ግረናዳ"
 
+#: timezones.h:113
 msgid "America/Guadeloupe"
 msgstr "አሜሪካ/ጉአደሉፔ"
 
+#: timezones.h:114
 msgid "America/Guatemala"
 msgstr "አሜሪካ/ጓቲማላ"
 
+#: timezones.h:115
 msgid "America/Guayaquil"
 msgstr "አሜሪካ/ጓያኪል"
 
+#: timezones.h:116
 msgid "America/Guyana"
 msgstr "አሜሪካ/ጉያና"
 
+#: timezones.h:117
 msgid "America/Halifax"
 msgstr "አሜሪካ/ሀሊፋክስ"
 
+#: timezones.h:118
 msgid "America/Havana"
 msgstr "አሜሪካ/ሀቫና"
 
+#: timezones.h:119
 msgid "America/Hermosillo"
 msgstr "አሜሪካ/ሄርሞሲሎ"
 
+#: timezones.h:120
 msgid "America/Indiana/Indianapolis"
 msgstr "አሜሪካ/አሜሪካ"
 
+#: timezones.h:121
 msgid "America/Indiana/Knox"
 msgstr "አሜሪካ/አሜሪካ/ክኖክስ"
 
+#: timezones.h:122
 msgid "America/Indiana/Marengo"
 msgstr "አሜሪካ/አሜሪካ/ማሬንጎ"
 
+#: timezones.h:123
+#, fuzzy
+msgid "America/Indiana/Petersburg"
+msgstr "አሜሪካ/አሜሪካ/ማሬንጎ"
+
+#: timezones.h:124
 msgid "America/Indianapolis"
 msgstr "አሜሪካ/ኢንዲያናፖሊስ"
 
+#: timezones.h:125
 msgid "America/Indiana/Vevay"
 msgstr "አሜሪካ/አሜሪካ/ቬቫይ"
 
+#: timezones.h:126
+#, fuzzy
+msgid "America/Indiana/Vincennes"
+msgstr "አሜሪካ/አሜሪካ/ቬቫይ"
+
+#: timezones.h:127
 msgid "America/Inuvik"
 msgstr "አሜሪካ/ኢኑቪክ"
 
+#: timezones.h:128
 msgid "America/Iqaluit"
 msgstr "አሜሪካ/ኢካሊኡት"
 
+#: timezones.h:129
 msgid "America/Jamaica"
 msgstr "አሜሪካ/ጃማይካ"
 
+#: timezones.h:130
 msgid "America/Jujuy"
 msgstr "አሜሪካ/ጁጁይ"
 
+#: timezones.h:131
 msgid "America/Juneau"
 msgstr "አሜሪካ/ጁነአኡ"
 
+#: timezones.h:132
 msgid "America/Kentucky/Louisville"
 msgstr "አሜሪካ/አሜሪካ/Louisville"
 
+#: timezones.h:133
 msgid "America/Kentucky/Monticello"
 msgstr "አሜሪካ/አሜሪካ/ሞንቲሴሎ"
 
+#: timezones.h:134
 msgid "America/Knox_IN"
 msgstr "አሜሪካ/Knox_IN"
 
+#: timezones.h:135
 msgid "America/La_Paz"
 msgstr "አሜሪካ/ላ_ፓዝ"
 
+#: timezones.h:136
 msgid "America/Lima"
 msgstr "አሜሪካ/ሊማ"
 
+#: timezones.h:137
 msgid "America/Los_Angeles"
 msgstr "አሜሪካ/ሎስ_አንጀለስ"
 
+#: timezones.h:138
 msgid "America/Louisville"
 msgstr "አሜሪካ/ሉዊስቪለ"
 
+#: timezones.h:139
 msgid "America/Maceio"
 msgstr "አሜሪካ/ማቺዎ"
 
+#: timezones.h:140
 msgid "America/Managua"
 msgstr "አሜሪካ/ማናጉዋ"
 
+#: timezones.h:141
 msgid "America/Manaus"
 msgstr "አሜሪካ/ማናኡስ"
 
+#: timezones.h:142
 msgid "America/Martinique"
 msgstr "አሜሪካ/ማርቲኒክ"
 
+#: timezones.h:143
 msgid "America/Mazatlan"
 msgstr "አሜሪካ/ማዛቲአን"
 
+#: timezones.h:144
 msgid "America/Mendoza"
 msgstr "አሜሪካ/ሜንዶዛ"
 
+#: timezones.h:145
 msgid "America/Menominee"
 msgstr "አሜሪካ/መኖሚኔ"
 
+#: timezones.h:146
 msgid "America/Merida"
 msgstr "አሜሪካ/ሜሪዳ"
 
+#: timezones.h:147
 msgid "America/Mexico_City"
 msgstr "አሜሪካ/ሜክሲኮ_ሲቲ"
 
+#: timezones.h:148
 msgid "America/Miquelon"
 msgstr "አሜሪካ/ሚኩእሎን"
 
+#: timezones.h:149
+#, fuzzy
+msgid "America/Moncton"
+msgstr "አሜሪካ/ኤድመንተን"
+
+#: timezones.h:150
 msgid "America/Monterrey"
 msgstr "አሜሪካ/ሞንተሪ"
 
+#: timezones.h:151
 msgid "America/Montevideo"
 msgstr "አሜሪካ/ሞንተቪዴዮ"
 
+#: timezones.h:152
 msgid "America/Montreal"
 msgstr "አሜሪካ/ሞንትሪያል"
 
+#: timezones.h:153
 msgid "America/Montserrat"
 msgstr "አሜሪካ/ሞንትሰራት"
 
+#: timezones.h:154
 msgid "America/Nassau"
 msgstr "አሜሪካ/ናሳው"
 
+#: timezones.h:155
 msgid "America/New_York"
 msgstr "አሜሪካ/ኒውዮርክ"
 
+#: timezones.h:156
 msgid "America/Nipigon"
 msgstr "አሜሪካ/ኒፒጎን"
 
+#: timezones.h:157
 msgid "America/Nome"
 msgstr "አሜሪካ/ኖሜ"
 
+#: timezones.h:158
 msgid "America/Noronha"
 msgstr "አሜሪካ/ኖሮሃ"
 
+#: timezones.h:159
 msgid "America/North_Dakota/Center"
 msgstr "አሜሪካ/አሜሪካ"
 
+#: timezones.h:160
+#, fuzzy
+msgid "America/North_Dakota/New_Salem"
+msgstr "አሜሪካ/አሜሪካ"
+
+#: timezones.h:161
 msgid "America/Panama"
 msgstr "አሜሪካ/ፓናማ"
 
+#: timezones.h:162
 msgid "America/Pangnirtung"
 msgstr "አሜሪካ/ፓንግኒርቱንግ"
 
+#: timezones.h:163
 msgid "America/Paramaribo"
 msgstr "አሜሪካ/ፓራማሪቦ"
 
+#: timezones.h:164
 msgid "America/Phoenix"
 msgstr "አሜሪካ/ፎኔክስ"
 
+#: timezones.h:165
 msgid "America/Port-au-Prince"
 msgstr "አሜሪካ/Port-au-Prince"
 
+#: timezones.h:166
 msgid "America/Porto_Acre"
 msgstr "አሜሪካ/Porto_Acre"
 
+#: timezones.h:167
 msgid "America/Port_of_Spain"
 msgstr "አሜሪካ/ፖርት ኦፍ ስፔን"
 
+#: timezones.h:168
 msgid "America/Porto_Velho"
 msgstr "አሜሪካ/ፖርቶ ቨልሆ"
 
+#: timezones.h:169
 msgid "America/Puerto_Rico"
 msgstr "አሜሪካ/ፖርቶሪኮ"
 
+#: timezones.h:170
 msgid "America/Rainy_River"
 msgstr "አሜሪካ/ሬኒ ሪቨር"
 
+#: timezones.h:171
 msgid "America/Rankin_Inlet"
 msgstr "አሜሪካ/ራንኪን ኢንሌት"
 
+#: timezones.h:172
 msgid "America/Recife"
 msgstr "አሜሪካ/ሪሲፋይ"
 
+#: timezones.h:173
 msgid "America/Regina"
 msgstr "አሜሪካ/ሬጂና"
 
+#: timezones.h:174
 msgid "America/Rio_Branco"
 msgstr "አሜሪካ/ሪኦ ብራንኮ"
 
+#: timezones.h:175
 msgid "America/Rosario"
 msgstr "America/Rosario"
 
+#: timezones.h:176
 msgid "America/Santiago"
 msgstr "አሜሪካ/ሳንቲያጎ"
 
+#: timezones.h:177
 msgid "America/Santo_Domingo"
 msgstr "አሜሪካ/ሳንቶ ዶሚንጎ"
 
+#: timezones.h:178
 msgid "America/Sao_Paulo"
 msgstr "አሜሪካ/ሳኦ ፓውሎ"
 
+#: timezones.h:179
 msgid "America/Scoresbysund"
 msgstr "አሜሪካ/ስኮረስቢሱንድ"
 
+#: timezones.h:180
 msgid "America/Shiprock"
 msgstr "አሜሪካ/Shiprock"
 
+#: timezones.h:181
 msgid "America/St_Johns"
 msgstr "አሜሪካ/ሴንት ጆንስ"
 
+#: timezones.h:182
 msgid "America/St_Kitts"
 msgstr "አሜሪካ/ሴንት ኪትስ"
 
+#: timezones.h:183
 msgid "America/St_Lucia"
 msgstr "አሜሪካ/ሴንት ሉቺያ"
 
+#: timezones.h:184
 msgid "America/St_Thomas"
 msgstr "አሜሪካ/ሴንት ቶማስ"
 
+#: timezones.h:185
 msgid "America/St_Vincent"
 msgstr "አሜሪካ/ሴንት ቪንሰንት"
 
+#: timezones.h:186
 msgid "America/Swift_Current"
 msgstr "አሜሪካ/ስዊፍት ከረንት"
 
+#: timezones.h:187
 msgid "America/Tegucigalpa"
 msgstr "አሜሪካ/ተጉቺጋልፓ"
 
+#: timezones.h:188
 msgid "America/Thule"
 msgstr "አሜሪካ/ቱለ"
 
+#: timezones.h:189
 msgid "America/Thunder_Bay"
 msgstr "አሜሪካ/ተንደር ቤይ"
 
+#: timezones.h:190
 msgid "America/Tijuana"
 msgstr "አሜሪካ/ቲጁአና"
 
+#: timezones.h:191
 #, fuzzy
 msgid "America/Toronto"
 msgstr "አሜሪካ/ቶርቶላ"
 
+#: timezones.h:192
 msgid "America/Tortola"
 msgstr "አሜሪካ/ቶርቶላ"
 
+#: timezones.h:193
 msgid "America/Vancouver"
 msgstr "አሜሪካ/ቫንኩቨር"
 
+#: timezones.h:194
 msgid "America/Virgin"
 msgstr "America/Virgin"
 
+#: timezones.h:195
 msgid "America/Whitehorse"
 msgstr "አሜሪካ/ሁዋይትሆርስ"
 
+#: timezones.h:196
 msgid "America/Winnipeg"
 msgstr "አሜሪካ/ዊኒፔግ"
 
+#: timezones.h:197
 msgid "America/Yakutat"
 msgstr "አሜሪካ/ያኩታት"
 
+#: timezones.h:198
 msgid "America/Yellowknife"
 msgstr "አሜሪካ/የሎውናይፍ"
 
+#: timezones.h:199
 msgid "Antarctica/Casey"
 msgstr "አንታርክቲካ/ቼሲ"
 
+#: timezones.h:200
 msgid "Antarctica/Davis"
 msgstr "አንታርክቲካ/ዴቪስ"
 
+#: timezones.h:201
 msgid "Antarctica/DumontDUrville"
 msgstr "አንታርክቲካ/ዱሞንትዱርቪል"
 
+#: timezones.h:202
 msgid "Antarctica/Mawson"
 msgstr "አንታርክቲካ/ማውሰን"
 
+#: timezones.h:203
 msgid "Antarctica/McMurdo"
 msgstr "አንታርክቲካ/ማክሙርዶ"
 
+#: timezones.h:204
 msgid "Antarctica/Palmer"
 msgstr "አንታርክቲካ/ፓልመር"
 
+#: timezones.h:205
 #, fuzzy
 msgid "Antarctica/Rothera"
 msgstr "Antarctica/South_Pole"
 
+#: timezones.h:206
 msgid "Antarctica/South_Pole"
 msgstr "Antarctica/South_Pole"
 
+#: timezones.h:207
 msgid "Antarctica/Syowa"
 msgstr "አንታርክቲካ/ስዮዋ"
 
+#: timezones.h:208
 msgid "Antarctica/Vostok"
 msgstr "አንታርክቲካ/ቮስቱክ"
 
+#: timezones.h:209
 msgid "Arctic/Longyearbyen"
 msgstr "Arctic/Longyearbyen"
 
+#: timezones.h:210
 msgid "Asia/Aden"
 msgstr "እስያ/ኤደን"
 
+#: timezones.h:211
 msgid "Asia/Almaty"
 msgstr "እስያ/አልማቲ"
 
+#: timezones.h:212
 msgid "Asia/Amman"
 msgstr "እስያ/አማን"
 
+#: timezones.h:213
 msgid "Asia/Anadyr"
 msgstr "እስያ/አናዲር"
 
+#: timezones.h:214
 msgid "Asia/Aqtau"
 msgstr "እስያ/አክታው"
 
+#: timezones.h:215
 msgid "Asia/Aqtobe"
 msgstr "እስያ/አክቶቤ"
 
+#: timezones.h:216
 msgid "Asia/Ashgabat"
 msgstr "እስያ/አሽጋባት"
 
+#: timezones.h:217
 msgid "Asia/Ashkhabad"
 msgstr "እስያ/Ashkhabad"
 
+#: timezones.h:218
 msgid "Asia/Baghdad"
 msgstr "እስያ/ባግዳድ"
 
+#: timezones.h:219
 msgid "Asia/Bahrain"
 msgstr "እስያ/ባህሬን"
 
+#: timezones.h:220
 msgid "Asia/Baku"
 msgstr "እስያ/ባኩ"
 
+#: timezones.h:221
 msgid "Asia/Bangkok"
 msgstr "እስያ/ባንኮክ"
 
+#: timezones.h:222
 msgid "Asia/Beirut"
 msgstr "እስያ/ቤይሩት"
 
+#: timezones.h:223
 msgid "Asia/Bishkek"
 msgstr "እስያ/ቢሽኬክ"
 
+#: timezones.h:224
 msgid "Asia/Brunei"
 msgstr "እስያ/ብሩኒ"
 
+#: timezones.h:225
 msgid "Asia/Calcutta"
 msgstr "እስያ/ካልኩታ"
 
+#: timezones.h:226
 msgid "Asia/Choibalsan"
 msgstr "እስያ/ቾይባልሳን"
 
+#: timezones.h:227
 msgid "Asia/Chongqing"
 msgstr "እስያ/ቾንግኪንግ"
 
+#: timezones.h:228
 msgid "Asia/Chungking"
 msgstr "Asia/Chungking"
 
+#: timezones.h:229
 msgid "Asia/Colombo"
 msgstr "እስያ/ኮሎምቦ"
 
+#: timezones.h:230
 msgid "Asia/Dacca"
 msgstr "እስያ/Dacca"
 
+#: timezones.h:231
 msgid "Asia/Damascus"
 msgstr "እስያ/ዳማስከስ"
 
+#: timezones.h:232
 msgid "Asia/Dhaka"
 msgstr "እስያ/ዳካ"
 
+#: timezones.h:233
 msgid "Asia/Dili"
 msgstr "እስያ/ዲሊ"
 
+#: timezones.h:234
 msgid "Asia/Dubai"
 msgstr "እስያ/ዱባይ"
 
+#: timezones.h:235
 msgid "Asia/Dushanbe"
 msgstr "እስያ/ዱስሃንቤ"
 
+#: timezones.h:236
 msgid "Asia/Gaza"
 msgstr "እስያ/ጋዛ"
 
+#: timezones.h:237
 msgid "Asia/Harbin"
 msgstr "እስያ/ባርቢን"
 
+#: timezones.h:238
 msgid "Asia/Hong_Kong"
 msgstr "እስያ/ሆንግ ኮንግ"
 
+#: timezones.h:239
 msgid "Asia/Hovd"
 msgstr "እስያ/ሆቭድ"
 
+#: timezones.h:240
 msgid "Asia/Irkutsk"
 msgstr "እስያ/ኢርኩትስክ"
 
+#: timezones.h:241
 msgid "Asia/Istanbul"
 msgstr "Asia/Istanbul"
 
+#: timezones.h:242
 msgid "Asia/Jakarta"
 msgstr "እስያ/ጃካርታ"
 
+#: timezones.h:243
 msgid "Asia/Jayapura"
 msgstr "እስያ/ጃያፑራ"
 
+#: timezones.h:244
 msgid "Asia/Jerusalem"
 msgstr "እስያ/እየሩሳሌም"
 
+#: timezones.h:245
 msgid "Asia/Kabul"
 msgstr "እስያ/ካቡል"
 
+#: timezones.h:246
 msgid "Asia/Kamchatka"
 msgstr "እስያ/ካምቻትካ"
 
+#: timezones.h:247
 msgid "Asia/Karachi"
 msgstr "እስያ/ካራቺ"
 
+#: timezones.h:248
 msgid "Asia/Kashgar"
 msgstr "እስያ/ካሽጋር"
 
+#: timezones.h:249
 msgid "Asia/Katmandu"
 msgstr "እስያ/ካትማንዱ"
 
+#: timezones.h:250
 msgid "Asia/Krasnoyarsk"
 msgstr "እስያ/ክራስኖያሽክ"
 
+#: timezones.h:251
 msgid "Asia/Kuala_Lumpur"
 msgstr "እስያ/ኳላልምፑር"
 
+#: timezones.h:252
 msgid "Asia/Kuching"
 msgstr "እስያ/ኩቺንግ"
 
+#: timezones.h:253
 msgid "Asia/Kuwait"
 msgstr "እስያ/ኩዌት"
 
+#: timezones.h:254
 msgid "Asia/Macao"
 msgstr "እስያ/Macao"
 
+#: timezones.h:255
 msgid "Asia/Macau"
 msgstr "እስያ/ማካው"
 
+#: timezones.h:256
 msgid "Asia/Magadan"
 msgstr "እስያ/ማጋዳን"
 
+#: timezones.h:257
 msgid "Asia/Makassar"
 msgstr "እስያ/ማካሳር"
 
+#: timezones.h:258
 msgid "Asia/Manila"
 msgstr "እስያ/ማኒላ"
 
+#: timezones.h:259
 msgid "Asia/Muscat"
 msgstr "እስያ/ሙስካት"
 
+#: timezones.h:260
 msgid "Asia/Nicosia"
 msgstr "እስያ/ኒኮሲያ"
 
+#: timezones.h:261
 msgid "Asia/Novosibirsk"
 msgstr "እስያ/ኖቮሲቢርስክ"
 
+#: timezones.h:262
 msgid "Asia/Omsk"
 msgstr "እስያ/ኦምስክ"
 
+#: timezones.h:263
 msgid "Asia/Oral"
 msgstr "እስያ/ኦራል"
 
+#: timezones.h:264
 msgid "Asia/Phnom_Penh"
 msgstr "እስያ/ፕኖም_ፔንኽ"
 
+#: timezones.h:265
 msgid "Asia/Pontianak"
 msgstr "እስያ/ፖንቲአንካ"
 
+#: timezones.h:266
 msgid "Asia/Pyongyang"
 msgstr "እስያ/ፒዮንግያንግ"
 
+#: timezones.h:267
 msgid "Asia/Qatar"
 msgstr "እስያ/ኳታር"
 
+#: timezones.h:268
 msgid "Asia/Qyzylorda"
 msgstr "እስያ/ኪዝያሎርዳ"
 
+#: timezones.h:269
 msgid "Asia/Rangoon"
 msgstr "እስያ/ራንጎን"
 
+#: timezones.h:270
 msgid "Asia/Riyadh"
 msgstr "እስያ/ሪያድኽ"
 
+#: timezones.h:271
 msgid "Asia/Riyadh87"
 msgstr "እስያ/ሪያድ87"
 
+#: timezones.h:272
 msgid "Asia/Riyadh88"
 msgstr "እስያ/ሪያድ88"
 
+#: timezones.h:273
 msgid "Asia/Riyadh89"
 msgstr "እስያ/ሪያድ89"
 
+#: timezones.h:274
 msgid "Asia/Saigon"
 msgstr "እስያ/ሳይጎን"
 
+#: timezones.h:275
 msgid "Asia/Sakhalin"
 msgstr "እስያ/ሳክሃሊን"
 
+#: timezones.h:276
 msgid "Asia/Samarkand"
 msgstr "እስያ/ሳማርካንድ"
 
+#: timezones.h:277
 msgid "Asia/Seoul"
 msgstr "እስያ/ሴውል"
 
+#: timezones.h:278
 msgid "Asia/Shanghai"
 msgstr "እስያ/ሻንጋይ"
 
+#: timezones.h:279
 msgid "Asia/Singapore"
 msgstr "እስያ/ሲንጋፖር"
 
+#: timezones.h:280
 msgid "Asia/Taipei"
 msgstr "እስያ/ታኢፓይ"
 
+#: timezones.h:281
 msgid "Asia/Tashkent"
 msgstr "እስያ/ታሽኬንት"
 
+#: timezones.h:282
 msgid "Asia/Tbilisi"
 msgstr "እስያ/ቲብሊሲ"
 
+#: timezones.h:283
 msgid "Asia/Tehran"
 msgstr "እስያ/ቴሂራን"
 
+#: timezones.h:284
 msgid "Asia/Tel_Aviv"
 msgstr "እስያ/Tel_Aviv"
 
+#: timezones.h:285
 msgid "Asia/Thimbu"
 msgstr "እስያ/Thimbu"
 
+#: timezones.h:286
 msgid "Asia/Thimphu"
 msgstr "እስያ/ቲምፕሁ"
 
+#: timezones.h:287
 msgid "Asia/Tokyo"
 msgstr "እስያ/ቶኪዮ"
 
+#: timezones.h:288
 msgid "Asia/Ujung_Pandang"
 msgstr "እስያ/Ujung_Pandang"
 
+#: timezones.h:289
 msgid "Asia/Ulaanbaatar"
 msgstr "እስያ/ኡላንባታር"
 
+#: timezones.h:290
 msgid "Asia/Ulan_Bator"
 msgstr "እስያ/Ulan_Bator"
 
+#: timezones.h:291
 msgid "Asia/Urumqi"
 msgstr "እስያ/ኡሩምኪ"
 
+#: timezones.h:292
 msgid "Asia/Vientiane"
 msgstr "እስያ/ቫይንቲአን"
 
+#: timezones.h:293
 msgid "Asia/Vladivostok"
 msgstr "እስያ/ቭላዲቮስቱክ"
 
+#: timezones.h:294
 msgid "Asia/Yakutsk"
 msgstr "እስያ/ያኩትስክ"
 
+#: timezones.h:295
 msgid "Asia/Yekaterinburg"
 msgstr "እስያ/የካተሪንበርግ"
 
+#: timezones.h:296
 msgid "Asia/Yerevan"
 msgstr "እስያ/የረቫን"
 
+#: timezones.h:297
 msgid "Atlantic/Azores"
 msgstr "አትላንቲክ/አዞረስ"
 
+#: timezones.h:298
 msgid "Atlantic/Bermuda"
 msgstr "አትላንቲክ/ቤርሙዳ"
 
+#: timezones.h:299
 msgid "Atlantic/Canary"
 msgstr "አትላንቲክ/ካናሪ"
 
+#: timezones.h:300
 msgid "Atlantic/Cape_Verde"
 msgstr "አትላንቲክ/ኬፕ_ቫርዴ"
 
+#: timezones.h:301
 msgid "Atlantic/Faeroe"
 msgstr "አትላንቲክ/ፋእሮይ"
 
+#: timezones.h:302
 msgid "Atlantic/Jan_Mayen"
 msgstr "Atlantic/Jan_Mayen"
 
+#: timezones.h:303
 msgid "Atlantic/Madeira"
 msgstr "አትላንቲክ/ማዴኢራ"
 
+#: timezones.h:304
 msgid "Atlantic/Reykjavik"
 msgstr "አትላንቲክ/ሬይክጃቪክ"
 
+#: timezones.h:305
 msgid "Atlantic/South_Georgia"
 msgstr "አትላንቲክ/ደቡብ ጂዎርጂያ"
 
+#: timezones.h:306
 msgid "Atlantic/Stanley"
 msgstr "አትላንቲክ/ስታንሊ"
 
+#: timezones.h:307
 msgid "Atlantic/St_Helena"
 msgstr "አትላንቲክ/ሴንት ሄሌና"
 
+#: timezones.h:308
 msgid "Australia/ACT"
 msgstr "አውስትሬሊያ/ACT"
 
+#: timezones.h:309
 msgid "Australia/Adelaide"
 msgstr "አውስትሬሊያ/አዴላኢደ"
 
+#: timezones.h:310
 msgid "Australia/Brisbane"
 msgstr "አውስትሬሊያ/ቢሪስባን"
 
+#: timezones.h:311
 msgid "Australia/Broken_Hill"
 msgstr "አውስትሬሊያ/ብሮከን ሂል"
 
+#: timezones.h:312
 msgid "Australia/Canberra"
 msgstr "አውስትሬሊያ/Canberra"
 
+#: timezones.h:313
 #, fuzzy
 msgid "Australia/Currie"
 msgstr "አውስትሬሊያ/Canberra"
 
+#: timezones.h:314
 msgid "Australia/Darwin"
 msgstr "አውስትሬሊያ/ዳርዊን"
 
+#: timezones.h:315
 msgid "Australia/Hobart"
 msgstr "አውስትሬሊያ/ሆባርት"
 
+#: timezones.h:316
 msgid "Australia/LHI"
 msgstr "አውስትሬሊያ/LHI"
 
+#: timezones.h:317
 msgid "Australia/Lindeman"
 msgstr "አውስትሬሊያ/ሊንደማን"
 
+#: timezones.h:318
 msgid "Australia/Lord_Howe"
 msgstr "አውስትሬሊያ/ሎርድ ሆዌ"
 
+#: timezones.h:319
 msgid "Australia/Melbourne"
 msgstr "አውስትሬሊያ/ሜልቦኡመ"
 
+#: timezones.h:320
 msgid "Australia/North"
 msgstr "አውስትሬሊያ/North"
 
+#: timezones.h:321
 msgid "Australia/NSW"
 msgstr "አውስትሬሊያ/NSW"
 
+#: timezones.h:322
 msgid "Australia/Perth"
 msgstr "አውስትሬሊያ/ፕርዝ"
 
+#: timezones.h:323
 msgid "Australia/Queensland"
 msgstr "አውስትሬሊያ/Queensland"
 
+#: timezones.h:324
 msgid "Australia/South"
 msgstr "አውስትሬሊያ/South"
 
+#: timezones.h:325
 msgid "Australia/Sydney"
 msgstr "አውስትሬሊያ/ሲድኒ"
 
+#: timezones.h:326
 msgid "Australia/Tasmania"
 msgstr "አውስትሬሊያ/Tasmania"
 
+#: timezones.h:327
 msgid "Australia/Victoria"
 msgstr "አውስትሬሊያ/Victoria"
 
+#: timezones.h:328
 msgid "Australia/West"
 msgstr "አውስትሬሊያ/West"
 
+#: timezones.h:329
 msgid "Australia/Yancowinna"
 msgstr "አውስትሬሊያ/Yancowinna"
 
+#: timezones.h:330
 msgid "Brazil/Acre"
 msgstr "ብራዚል/Acre"
 
+#: timezones.h:331
 msgid "Brazil/DeNoronha"
 msgstr "ብራዚል/DeNoronha"
 
+#: timezones.h:332
 msgid "Brazil/East"
 msgstr "ብራዚል/East"
 
+#: timezones.h:333
 msgid "Brazil/West"
 msgstr "ብራዚል/West"
 
+#: timezones.h:334
 msgid "Canada/Atlantic"
 msgstr "ካናዳCanada/Atlantic"
 
+#: timezones.h:335
 msgid "Canada/Central"
 msgstr "ካናዳCanada/Central"
 
+#: timezones.h:336
 msgid "Canada/Eastern"
 msgstr "ካናዳ/Eastern"
 
+#: timezones.h:337
 msgid "Canada/East-Saskatchewan"
 msgstr "ካናዳ/East-Saskatchewan"
 
+#: timezones.h:338
 msgid "Canada/Mountain"
 msgstr "ካናዳ/Mountain"
 
+#: timezones.h:339
 msgid "Canada/Newfoundland"
 msgstr "ካናዳ/Newfoundland"
 
+#: timezones.h:340
 msgid "Canada/Pacific"
 msgstr "ካናዳ/Pacific"
 
+#: timezones.h:341
 msgid "Canada/Saskatchewan"
 msgstr "ካናዳ/Saskatchewan"
 
+#: timezones.h:342
 msgid "Canada/Yukon"
 msgstr "ካናዳ/Yukon"
 
+#: timezones.h:343
 msgid "CET"
 msgstr "CET"
 
+#: timezones.h:344
 msgid "Chile/Continental"
 msgstr "Chile/Continental"
 
+#: timezones.h:345
 msgid "Chile/EasterIsland"
 msgstr "Chile/EasterIsland"
 
+#: timezones.h:346
 msgid "CST6CDT"
 msgstr "CST6CDT"
 
+#: timezones.h:347
 msgid "Cuba"
 msgstr "ኩባ"
 
+#: timezones.h:348
 msgid "EET"
 msgstr "EET"
 
+#: timezones.h:349
 msgid "Egypt"
 msgstr "ግብጽ"
 
+#: timezones.h:350
 msgid "Eire"
 msgstr "Eire"
 
+#: timezones.h:351
 msgid "EST"
 msgstr "EST"
 
+#: timezones.h:352
 msgid "EST5EDT"
 msgstr "EST5EDT"
 
+#: timezones.h:353
 msgid "Etc/GMT"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:354
 msgid "Etc/GMT0"
 msgstr "ወዘተ/GMT0"
 
+#: timezones.h:355
 msgid "Etc/GMT-0"
 msgstr "ወዘተ/GMT-0"
 
+#: timezones.h:356
 msgid "Etc/GMT+0"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:357
 msgid "Etc/GMT-1"
 msgstr "ወዘተ/GMT-1"
 
+#: timezones.h:358
 msgid "Etc/GMT+1"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:359
 msgid "Etc/GMT-10"
 msgstr "ወዘተ/GMT-10"
 
+#: timezones.h:360
 msgid "Etc/GMT+10"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:361
 msgid "Etc/GMT-11"
 msgstr "ወዘተ/GMT-11"
 
+#: timezones.h:362
 msgid "Etc/GMT+11"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:363
 msgid "Etc/GMT-12"
 msgstr "ወዘተ/GMT-12"
 
+#: timezones.h:364
 msgid "Etc/GMT+12"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:365
 msgid "Etc/GMT-13"
 msgstr "ወዘተ/GMT-13"
 
+#: timezones.h:366
 msgid "Etc/GMT-14"
 msgstr "ወዘተ/GMT-14"
 
+#: timezones.h:367
 msgid "Etc/GMT-2"
 msgstr "ወዘተ/GMT-2"
 
+#: timezones.h:368
 msgid "Etc/GMT+2"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:369
 msgid "Etc/GMT-3"
 msgstr "ወዘተ/GMT-3"
 
+#: timezones.h:370
 msgid "Etc/GMT+3"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:371
 msgid "Etc/GMT-4"
 msgstr "ወዘተ/GMT-4"
 
+#: timezones.h:372
 msgid "Etc/GMT+4"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:373
 msgid "Etc/GMT-5"
 msgstr "ወዘተ/GMT-5"
 
+#: timezones.h:374
 msgid "Etc/GMT+5"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:375
 msgid "Etc/GMT-6"
 msgstr "ወዘተ/GMT-6"
 
+#: timezones.h:376
 msgid "Etc/GMT+6"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:377
 msgid "Etc/GMT-7"
 msgstr "ወዘተ/GMT-7"
 
+#: timezones.h:378
 msgid "Etc/GMT+7"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:379
 msgid "Etc/GMT-8"
 msgstr "ወዘተ/GMT-8"
 
+#: timezones.h:380
 msgid "Etc/GMT+8"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:381
 msgid "Etc/GMT-9"
 msgstr "ወዘተ/GMT-9"
 
+#: timezones.h:382
 msgid "Etc/GMT+9"
 msgstr "ወዘተ/GMT"
 
+#: timezones.h:383
 msgid "Etc/Greenwich"
 msgstr "ወዘተ/Greenwich"
 
+#: timezones.h:384
 msgid "Etc/UCT"
 msgstr "ወዘተ/UCT"
 
+#: timezones.h:385
 msgid "Etc/Universal"
 msgstr "Etc/Universal"
 
+#: timezones.h:386
 msgid "Etc/UTC"
 msgstr "ወዘተ/UTC"
 
+#: timezones.h:387
 msgid "Etc/Zulu"
 msgstr "ወዘተ/Zulu"
 
+#: timezones.h:388
 msgid "Europe/Amsterdam"
 msgstr "አውሮፓ/አምስተርዳም"
 
+#: timezones.h:389
 msgid "Europe/Andorra"
 msgstr "አውሮፓ/አንዶራ"
 
+#: timezones.h:390
 msgid "Europe/Athens"
 msgstr "አውሮፓ/አቴንስ"
 
+#: timezones.h:391
 msgid "Europe/Belfast"
 msgstr "አውሮፓ/ቤልፋስት"
 
+#: timezones.h:392
 msgid "Europe/Belgrade"
 msgstr "አውሮፓ/በልግሬድ"
 
+#: timezones.h:393
 msgid "Europe/Berlin"
 msgstr "አውሮፓ/በርሊን"
 
+#: timezones.h:394
 msgid "Europe/Bratislava"
 msgstr "አውሮፓ/Bratislava"
 
+#: timezones.h:395
 msgid "Europe/Brussels"
 msgstr "አውሮፓ/ብራስልስ"
 
+#: timezones.h:396
 msgid "Europe/Bucharest"
 msgstr "አውሮፓ/ቡቻረስት"
 
+#: timezones.h:397
 msgid "Europe/Budapest"
 msgstr "አውሮፓ/ቡዳፒስት"
 
+#: timezones.h:398
 msgid "Europe/Chisinau"
 msgstr "አውሮፓ/ቺሲናው"
 
+#: timezones.h:399
 msgid "Europe/Copenhagen"
 msgstr "አውሮፓ/ኮፐንሀገን"
 
+#: timezones.h:400
 msgid "Europe/Dublin"
 msgstr "አውሮፓ/ዱብሊን"
 
+#: timezones.h:401
 msgid "Europe/Gibraltar"
 msgstr "አውሮፓ/ጊብራልታር"
 
+#: timezones.h:402
+#, fuzzy
+msgid "Europe/Guernsey"
+msgstr "አውሮፓ/አቴንስ"
+
+#: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "አውሮፓ/ሀልሲንኪ"
 
+#: timezones.h:404
+#, fuzzy
+msgid "Europe/Isle_of_Man"
+msgstr "አውሮፓ/ኦስሎ"
+
+#: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "አውሮፓ/ኢስታንቡል"
 
+#: timezones.h:406
+#, fuzzy
+msgid "Europe/Jersey"
+msgstr "አውሮፓ/ፓርስ"
+
+#: timezones.h:407
 msgid "Europe/Kaliningrad"
 msgstr "አውሮፓ/ካሊኒንጋርድ"
 
+#: timezones.h:408
 msgid "Europe/Kiev"
 msgstr "አውሮፓ/ካይቭ"
 
+#: timezones.h:409
 msgid "Europe/Lisbon"
 msgstr "አውሮፓ/ሊስቦን"
 
+#: timezones.h:410
 msgid "Europe/Ljubljana"
 msgstr "አውሮፓ/Ljubljana"
 
+#: timezones.h:411
 msgid "Europe/London"
 msgstr "አውሮፓ/ሎንዶን"
 
+#: timezones.h:412
 msgid "Europe/Luxembourg"
 msgstr "አውሮፓ/ሉክዘምበርግ"
 
+#: timezones.h:413
 msgid "Europe/Madrid"
 msgstr "አውሮፓ/ማርድሪድ"
 
+#: timezones.h:414
 msgid "Europe/Malta"
 msgstr "አውሮፓ/ማልታ"
 
+#: timezones.h:415
 #, fuzzy
 msgid "Europe/Mariehamn"
 msgstr "አውሮፓ/ማርድሪድ"
 
+#: timezones.h:416
 msgid "Europe/Minsk"
 msgstr "አውሮፓ/ሚንስክ"
 
+#: timezones.h:417
 msgid "Europe/Monaco"
 msgstr "አውሮፓ/ሞናኮ"
 
+#: timezones.h:418
 msgid "Europe/Moscow"
 msgstr "አውሮፓ/ማስኮ"
 
+#: timezones.h:419
 msgid "Europe/Nicosia"
 msgstr "አውሮፓ/Nicosia"
 
+#: timezones.h:420
 msgid "Europe/Oslo"
 msgstr "አውሮፓ/ኦስሎ"
 
+#: timezones.h:421
 msgid "Europe/Paris"
 msgstr "አውሮፓ/ፓርስ"
 
+#: timezones.h:422
+#, fuzzy
+msgid "Europe/Podgorica"
+msgstr "አውሮፓ/አንዶራ"
+
+#: timezones.h:423
 msgid "Europe/Prague"
 msgstr "አውሮፓ/ፓራጓይ"
 
+#: timezones.h:424
 msgid "Europe/Riga"
 msgstr "አውሮፓ/ሪጋ"
 
+#: timezones.h:425
 msgid "Europe/Rome"
 msgstr "አውሮፓ/ሮም"
 
+#: timezones.h:426
 msgid "Europe/Samara"
 msgstr "አውሮፓ/ሳማራ"
 
+#: timezones.h:427
 msgid "Europe/San_Marino"
 msgstr "አውሮፓ/San_Marino"
 
+#: timezones.h:428
 msgid "Europe/Sarajevo"
 msgstr "አውሮፓ/Sarajevo"
 
+#: timezones.h:429
 msgid "Europe/Simferopol"
 msgstr "አውሮፓ/ሲምፈሮፖል"
 
+#: timezones.h:430
 msgid "Europe/Skopje"
 msgstr "አውሮፓ/Skopje"
 
+#: timezones.h:431
 msgid "Europe/Sofia"
 msgstr "አውሮፓ/ሶፊያ"
 
+#: timezones.h:432
 msgid "Europe/Stockholm"
 msgstr "አውሮፓ/ስቶኮልም"
 
+#: timezones.h:433
 msgid "Europe/Tallinn"
 msgstr "አውሮፓ/ታሊን"
 
+#: timezones.h:434
 msgid "Europe/Tirane"
 msgstr "አውሮፓ/ቲራን"
 
+#: timezones.h:435
 msgid "Europe/Tiraspol"
 msgstr "አውሮፓ/Tiraspol"
 
+#: timezones.h:436
 msgid "Europe/Uzhgorod"
 msgstr "አውሮፓ/ኡዝጎሩድ"
 
+#: timezones.h:437
 msgid "Europe/Vaduz"
 msgstr "አውሮፓ/ቫዱዝ"
 
+#: timezones.h:438
 msgid "Europe/Vatican"
 msgstr "አውሮፓ/Vatican"
 
+#: timezones.h:439
 msgid "Europe/Vienna"
 msgstr "አውሮፓ/ቫይና"
 
+#: timezones.h:440
 msgid "Europe/Vilnius"
 msgstr "አውሮፓ/ቪልኒኡስ"
 
+#: timezones.h:441
+#, fuzzy
+msgid "Europe/Volgograd"
+msgstr "አውሮፓ/በልግሬድ"
+
+#: timezones.h:442
 msgid "Europe/Warsaw"
 msgstr "አውሮፓ/ዋርሶ"
 
+#: timezones.h:443
 msgid "Europe/Zagreb"
 msgstr "አውሮፓ/Zagreb"
 
+#: timezones.h:444
 msgid "Europe/Zaporozhye"
 msgstr "አውሮፓ/ዛፖሮዝሂይ"
 
+#: timezones.h:445
 msgid "Europe/Zurich"
 msgstr "አውሮፓ/ዙሪክ"
 
+#: timezones.h:446
 msgid "Factory"
 msgstr "Factory"
 
+#: timezones.h:447
 msgid "GB"
 msgstr "GB"
 
+#: timezones.h:448
 msgid "GB-Eire"
 msgstr "GB-Eire"
 
+#: timezones.h:449
 msgid "GMT"
 msgstr "GMT"
 
+#: timezones.h:450
 msgid "GMT0"
 msgstr "GMT0"
 
+#: timezones.h:451
 msgid "GMT-0"
 msgstr "GMT-0"
 
+#: timezones.h:452
 msgid "GMT+0"
 msgstr "GMT+0"
 
+#: timezones.h:453
 msgid "Greenwich"
 msgstr "Greenwich"
 
+#: timezones.h:454
 msgid "Hongkong"
 msgstr "ሆንግኮንግ"
 
+#: timezones.h:455
 msgid "HST"
 msgstr "HST"
 
+#: timezones.h:456
 msgid "Iceland"
 msgstr "አይስላንድ"
 
+#: timezones.h:457
 msgid "Indian/Antananarivo"
 msgstr "ሕንድ/አንታናአሪቮ"
 
+#: timezones.h:458
 msgid "Indian/Chagos"
 msgstr "ሕንድ/ቻጎስ"
 
+#: timezones.h:459
 msgid "Indian/Christmas"
 msgstr "ሕንድ/ገና"
 
+#: timezones.h:460
 msgid "Indian/Cocos"
 msgstr "ሕንድ/ኮኮስ"
 
+#: timezones.h:461
 msgid "Indian/Comoro"
 msgstr "ሕንድ/ኮሞሮ"
 
+#: timezones.h:462
 msgid "Indian/Kerguelen"
 msgstr "ሕንድ/ከርጉኤለን"
 
+#: timezones.h:463
 msgid "Indian/Mahe"
 msgstr "ሕንድ/ማሂ"
 
+#: timezones.h:464
 msgid "Indian/Maldives"
 msgstr "ሕንድ/ማልዲቪስ"
 
+#: timezones.h:465
 msgid "Indian/Mauritius"
 msgstr "ሕንድ/ሞሪሽየስ"
 
+#: timezones.h:466
 msgid "Indian/Mayotte"
 msgstr "ሕንድ/ማዮቴ"
 
+#: timezones.h:467
 msgid "Indian/Reunion"
 msgstr "ሕንድ/ሪዩኒየን"
 
+#: timezones.h:468
 msgid "Iran"
 msgstr "ኢራን"
 
+#: timezones.h:469
 msgid "Israel"
 msgstr "እስራኤል"
 
+#: timezones.h:470
 msgid "Jamaica"
 msgstr "ጃማይካ"
 
+#: timezones.h:471
 msgid "Japan"
 msgstr "ጃፓን"
 
+#: timezones.h:472
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
+#: timezones.h:473
 msgid "Libya"
 msgstr "ሊቢያ"
 
+#: timezones.h:474
 msgid "MET"
 msgstr "MET"
 
+#: timezones.h:475
 msgid "Mexico/BajaNorte"
 msgstr "Mexico/BajaNorte"
 
+#: timezones.h:476
 msgid "Mexico/BajaSur"
 msgstr "Mexico/BajaSur"
 
+#: timezones.h:477
 msgid "Mexico/General"
 msgstr "Mexico/General"
 
+#: timezones.h:478
 msgid "Mideast/Riyadh87"
 msgstr "Mideast/Riyadh87"
 
+#: timezones.h:479
 msgid "Mideast/Riyadh88"
 msgstr "Mideast/Riyadh88"
 
+#: timezones.h:480
 msgid "Mideast/Riyadh89"
 msgstr "Mideast/Riyadh89"
 
+#: timezones.h:481
 msgid "MST"
 msgstr "MST"
 
+#: timezones.h:482
 msgid "MST7MDT"
 msgstr "MST7MDT"
 
+#: timezones.h:483
 msgid "Navajo"
 msgstr "Navajo"
 
+#: timezones.h:484
 msgid "NZ"
 msgstr "NZ"
 
+#: timezones.h:485
 msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
+#: timezones.h:486
 msgid "Pacific/Apia"
 msgstr "ፓሲፊክ/አፒያ"
 
+#: timezones.h:487
 msgid "Pacific/Auckland"
 msgstr "ፓሲፊክ/ኦክላንድ"
 
+#: timezones.h:488
 msgid "Pacific/Chatham"
 msgstr "ፓሲፊክ/ቻትሃም"
 
+#: timezones.h:489
 msgid "Pacific/Easter"
 msgstr "ፓሲፊክ/ኢስተር"
 
+#: timezones.h:490
 msgid "Pacific/Efate"
 msgstr "ፓሲፊክ/ኤፋተ"
 
+#: timezones.h:491
 msgid "Pacific/Enderbury"
 msgstr "ፓሲፊክ/እንደርቡርይ"
 
+#: timezones.h:492
 msgid "Pacific/Fakaofo"
 msgstr "ፓሲፊክ/ፋካኦፎ"
 
+#: timezones.h:493
 msgid "Pacific/Fiji"
 msgstr "ፓሲፊክ/ፊጂ"
 
+#: timezones.h:494
 msgid "Pacific/Funafuti"
 msgstr "ፓሲፊክ/ፉናፉቲ"
 
+#: timezones.h:495
 msgid "Pacific/Galapagos"
 msgstr "ፓሲፊክ/ጋላፓጎስ"
 
+#: timezones.h:496
 msgid "Pacific/Gambier"
 msgstr "ፓሲፊክ/ጋምባየር"
 
+#: timezones.h:497
 msgid "Pacific/Guadalcanal"
 msgstr "ፓሲፊክ/ጉዋዳልካናል"
 
+#: timezones.h:498
 msgid "Pacific/Guam"
 msgstr "ፓሲፊክ/ጉዋም"
 
+#: timezones.h:499
 msgid "Pacific/Honolulu"
 msgstr "ፓሲፊክ/ሆኖሉሉ"
 
+#: timezones.h:500
 msgid "Pacific/Johnston"
 msgstr "ፓሲፊክ/ጆንስቶን"
 
+#: timezones.h:501
 msgid "Pacific/Kiritimati"
 msgstr "ፓሲፊክ/ኪሪቲማቲ"
 
+#: timezones.h:502
 msgid "Pacific/Kosrae"
 msgstr "ፓሲፊክ/ኮስራይ"
 
+#: timezones.h:503
 msgid "Pacific/Kwajalein"
 msgstr "ፓሲፊክ/ክዋጃላይን"
 
+#: timezones.h:504
 msgid "Pacific/Majuro"
 msgstr "ፓሲፊክ/ማጁሮ"
 
+#: timezones.h:505
 msgid "Pacific/Marquesas"
 msgstr "ፓሲፊክ/ማሩኩሳስ"
 
+#: timezones.h:506
 msgid "Pacific/Midway"
 msgstr "ፓሲፊክ/ሚድዌ"
 
+#: timezones.h:507
 msgid "Pacific/Nauru"
 msgstr "ፓሲፊክ/ናውሩ"
 
+#: timezones.h:508
 msgid "Pacific/Niue"
 msgstr "ፓሲፊክ/ኒዌ"
 
+#: timezones.h:509
 msgid "Pacific/Norfolk"
 msgstr "ፓሲፊክ/ኑርፎልክ"
 
+#: timezones.h:510
 msgid "Pacific/Noumea"
 msgstr "ፓሲፊክ/ኖኡሜአ"
 
+#: timezones.h:511
 msgid "Pacific/Pago_Pago"
 msgstr "ፓሲፊክ/ፓጎ_ፓጎ"
 
+#: timezones.h:512
 msgid "Pacific/Palau"
 msgstr "ፓሲፊክ/ፓላው"
 
+#: timezones.h:513
 msgid "Pacific/Pitcairn"
 msgstr "ፓሲፊክ/ፒትኬም"
 
+#: timezones.h:514
 msgid "Pacific/Ponape"
 msgstr "ፓሲፊክ/ፖኔፕ"
 
+#: timezones.h:515
 msgid "Pacific/Port_Moresby"
 msgstr "ፓሲፊክ/ፖርት_ሞረስቢ"
 
+#: timezones.h:516
 msgid "Pacific/Rarotonga"
 msgstr "ፓሲፊክ/ራሮቶንጋ"
 
+#: timezones.h:517
 msgid "Pacific/Saipan"
 msgstr "ፓሲፊክ/ሳይፓን"
 
+#: timezones.h:518
 msgid "Pacific/Samoa"
 msgstr "ፓሲፊክ/Samoa"
 
+#: timezones.h:519
 msgid "Pacific/Tahiti"
 msgstr "ፓሲፊክ/ታሂቲ"
 
+#: timezones.h:520
 msgid "Pacific/Tarawa"
 msgstr "ፓሲፊክ/ታራዋ"
 
+#: timezones.h:521
 msgid "Pacific/Tongatapu"
 msgstr "ፓሲፊክ/ቶንጋታፑ"
 
+#: timezones.h:522
 msgid "Pacific/Truk"
 msgstr "ፓሲፊክ/ትሩክ"
 
+#: timezones.h:523
 msgid "Pacific/Wake"
 msgstr "ፓሲፊክ/ዌክ"
 
+#: timezones.h:524
 msgid "Pacific/Wallis"
 msgstr "ፓሲፊክ/ዋሊስ"
 
+#: timezones.h:525
 msgid "Pacific/Yap"
 msgstr "ፓሲፊክ/ያፕ"
 
+#: timezones.h:526
 msgid "Poland"
 msgstr "ፖላንድ"
 
+#: timezones.h:527
 msgid "Portugal"
 msgstr "ፖርቱጋል"
 
+#: timezones.h:528
 msgid "PRC"
 msgstr "PRC"
 
+#: timezones.h:529
 msgid "PST8PDT"
 msgstr "PST8PDT"
 
+#: timezones.h:530
 msgid "ROC"
 msgstr "ROC"
 
+#: timezones.h:531
 msgid "ROK"
 msgstr "ROK"
 
+#: timezones.h:532
 msgid "Singapore"
 msgstr "ሲንጋፖር"
 
-msgid "SystemV/AST4"
-msgstr "SystemV/AST4"
-
-msgid "SystemV/AST4ADT"
-msgstr "SystemV/AST4ADT"
-
-msgid "SystemV/CST6"
-msgstr "SystemV/CST6"
-
-msgid "SystemV/CST6CDT"
-msgstr "SystemV/CST6CDT"
-
-msgid "SystemV/EST5"
-msgstr "SystemV/EST5"
-
-msgid "SystemV/EST5EDT"
-msgstr "SystemV/EST5EDT"
-
-msgid "SystemV/HST10"
-msgstr "SystemV/HST10"
-
-msgid "SystemV/MST7"
-msgstr "SystemV/MST7"
-
-msgid "SystemV/MST7MDT"
-msgstr "SystemV/MST7MDT"
-
-msgid "SystemV/PST8"
-msgstr "SystemV/PST8"
-
-msgid "SystemV/PST8PDT"
-msgstr "SystemV/PST8PDT"
-
-msgid "SystemV/YST9"
-msgstr "SystemV/YST9"
-
-msgid "SystemV/YST9YDT"
-msgstr "SystemV/YST9YDT"
-
+#: timezones.h:533
 msgid "Turkey"
 msgstr "ቱርክ"
 
+#: timezones.h:534
 msgid "UCT"
 msgstr "UCT"
 
+#: timezones.h:535
 msgid "Universal"
 msgstr "Universal"
 
+#: timezones.h:536
 msgid "US/Alaska"
 msgstr "US/Alaska"
 
+#: timezones.h:537
 msgid "US/Aleutian"
 msgstr "US/Aleutian"
 
+#: timezones.h:538
 msgid "US/Arizona"
 msgstr "US/Arizona"
 
+#: timezones.h:539
 msgid "US/Central"
 msgstr "US/Central"
 
+#: timezones.h:540
 msgid "US/Eastern"
 msgstr "US/Eastern"
 
+#: timezones.h:541
 msgid "US/East-Indiana"
 msgstr "US/East-Indiana"
 
+#: timezones.h:542
 msgid "US/Hawaii"
 msgstr "US/Hawaii"
 
+#: timezones.h:543
 msgid "US/Indiana-Starke"
 msgstr "US/Indiana-Starke"
 
+#: timezones.h:544
 msgid "US/Michigan"
 msgstr "US/Michigan"
 
+#: timezones.h:545
 msgid "US/Mountain"
 msgstr "US/Mountain"
 
+#: timezones.h:546
 msgid "US/Pacific"
 msgstr "US/Pacific"
 
+#: timezones.h:547
+#, fuzzy
+msgid "US/Pacific-New"
+msgstr "US/Pacific"
+
+#: timezones.h:548
 msgid "US/Samoa"
 msgstr "US/Samoa"
 
+#: timezones.h:549
 msgid "UTC"
 msgstr "UTC"
 
+#: timezones.h:550
 msgid "WET"
 msgstr "WET"
 
+#: timezones.h:551
 msgid "W-SU"
 msgstr "W-SU"
 
+#: timezones.h:552
 msgid "Zulu"
 msgstr "Zulu"
+
+#~ msgid "SystemV/AST4"
+#~ msgstr "SystemV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "SystemV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "SystemV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "SystemV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "SystemV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "SystemV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "SystemV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "SystemV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "SystemV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "SystemV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "SystemV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "SystemV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "SystemV/YST9YDT"
