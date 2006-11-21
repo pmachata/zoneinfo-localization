@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-09-12 20:40+0200\n"
+"PO-Revision-Date: 2006-11-21 16:12+0200\n"
 "Last-Translator: Radosław Zawartko <radzaw@lnet.szn.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1698,9 +1698,8 @@ msgid "Europe/Paris"
 msgstr "Europa/Paryż"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Europa/Wołgograd"
+msgstr "Europa/Podgorica"
 
 #: timezones.h:423
 msgid "Europe/Prague"
