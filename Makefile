@@ -9,19 +9,35 @@ NLSPACKAGE = timezones
 
 CATALOGS = $(shell ls *.po | sed 's/po/mo/')
 
-POTFILES  = /dev/null
+POTFILES  = $(NLSPACKAGE).h
 
 all: $(NLSPACKAGE).pot $(CATALOGS)
 
 $(NLSPACKAGE).pot::
-	xgettext --default-domain=$(NLSPACKAGE) \
-		--add-comments --keyword=_ --keyword=N_ $(POTFILES)
-	echo >> $(NLSPACKAGE).po
-	for a in `cd /usr/share/zoneinfo; find . -type f -or -type l | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)" | sort | cut -d '/' -f 2- `; do printf "msgid \"%s\"\nmsgstr \"\"\n\n" $$a ; done >> $(NLSPACKAGE).po
-	if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
-	    rm -f $(NLSPACKAGE).po; \
+	cp -dpf $(NLSPACKAGE) $(NLSPACKAGE).new
+	for tzfile in `cd /usr/share/zoneinfo; find . -type f -or -type l | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)" | sort | cut -d '/' -f 2- `; do \
+		echo "$$tzfile"; \
+	done | while read tz; do \
+		if ! fgrep -x -q "$$tz" $(NLSPACKAGE); then \
+			echo "$$tz"; \
+		fi; \
+	done >> $(NLSPACKAGE).new
+	sort -u $(NLSPACKAGE).new > $(NLSPACKAGE).new.new
+	mv -f $(NLSPACKAGE).new.new $(NLSPACKAGE).new
+	if ! cmp -s $(NLSPACKAGE) $(NLSPACKAGE).new; then \
+		mv $(NLSPACKAGE).new $(NLSPACKAGE); \
+		for tz in `cat $(NLSPACKAGE)`; do \
+			echo "N_(\"$$tz\");"; \
+		done > timezones.h; \
+		xgettext --default-domain=$(NLSPACKAGE) \
+			--add-comments --keyword=_ --keyword=N_ $(POTFILES); \
+		if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
+	    	rm -f $(NLSPACKAGE).po; \
+		else \
+	    	mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
+		fi; \
 	else \
-	    mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
+		rm -f $(NLSPACKAGE).new; \
 	fi
 
 update-po: Makefile
