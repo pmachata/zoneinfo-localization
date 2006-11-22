@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-09-18 18:27+0530\n"
+"PO-Revision-Date: 2006-11-22 11:27+0530\n"
 "Last-Translator: Felix <ifelix@redhat.com>\n"
 "Language-Team: Tamil <ta@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 "\n"
 
 #: timezones.h:1
@@ -1704,9 +1704,8 @@ msgid "Europe/Paris"
 msgstr "ஈரோப்/பாரிஸ்"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "ஐரோப்பா/வால்கோக்ரேட்"
+msgstr "ஐரோப்பா/போட்கோர்கா"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -2227,3 +2226,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "சுலு"
+
