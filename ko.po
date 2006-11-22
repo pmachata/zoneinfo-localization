@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: ko\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-08-09 11:07+1000\n"
+"PO-Revision-Date: 2006-11-22 18:22+1000\n"
 "Last-Translator: Eunju Kim <eukim@redhat.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -296,9 +296,8 @@ msgid "America/Asuncion"
 msgstr "아메리카/아순시온(Asuncion)"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "아메리카/아트카(Atka)"
+msgstr "아메리카/아티코칸(Atikokan)"
 
 #: timezones.h:72
 msgid "America/Atka"
@@ -321,9 +320,8 @@ msgid "America/Belize"
 msgstr "아메리카/벨리즈(Belize)"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "아메리카/칸쿤(Cancun)"
+msgstr "아메리카/블랑-사브론(Blanc-Sablon)"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -506,9 +504,8 @@ msgid "America/Indiana/Marengo"
 msgstr "아메리카/인디애나/마렝고(Marengo)"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "아메리카/인디애나/마렝고(Marengo)"
+msgstr "아메리카/인디애나/페테르스부르그(Petersburg)"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -519,9 +516,8 @@ msgid "America/Indiana/Vevay"
 msgstr "아메리카/인디애나/베베이(Vevay)"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "아메리카/인디애나/베베이(Vevay)"
+msgstr "아메리카/인디애나/빈센느(Vincennes)"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -612,9 +608,8 @@ msgid "America/Miquelon"
 msgstr "아메리카/미클롱(Miquelon)"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "아메리카/에드몬톤(Edmonton)"
+msgstr "아메리카/몽톤(Moncton)"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -657,9 +652,8 @@ msgid "America/North_Dakota/Center"
 msgstr "아메리카/북 다코타/중부"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "아메리카/북 다코타/중부"
+msgstr "아메리카/북 다코타/뉴살렘(New_Salem)"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -1626,27 +1620,24 @@ msgid "Europe/Gibraltar"
 msgstr "유럽/지브롤터(Gibraltar)"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "유럽/아테네(Athens)"
+msgstr "유럽/건지(Guernsey)"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "유럽/헬싱키(Helsinki)"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "유럽/오슬로(Oslo)"
+msgstr "유럽/맨섬(Isle_of_Man)"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "유럽/이스탄불(Istanbul)"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "유럽/파리(Paris)"
+msgstr "유럽/저지(Jersey)"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1709,9 +1700,8 @@ msgid "Europe/Paris"
 msgstr "유럽/파리(Paris)"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "유럽/벨그라드(Belgrade)"
+msgstr "유럽/포드고리차(Podgorica)"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1786,9 +1776,8 @@ msgid "Europe/Vilnius"
 msgstr "유럽/빌니우스(Vilnius)"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "유럽/벨그라드(Belgrade)"
+msgstr "유럽/볼고그라드(Volgograd)"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2211,9 +2200,8 @@ msgid "US/Pacific"
 msgstr "미국/태평양(Pacific)"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "미국/태평양(Pacific)"
+msgstr "미국/태평양(Pacific-New)"
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2235,41 +2223,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "줄루(Zulu)"
 
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
