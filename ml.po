@@ -5,14 +5,14 @@ msgstr ""
 "Project-Id-Version: ml\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-09-25 17:06+0530\n"
+"PO-Revision-Date: 2006-11-24 11:45+0530\n"
 "Last-Translator: Ani Peter <apeter@redhat.com>\n"
 "Language-Team: Malayalam\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 "\n"
 "\n"
 
@@ -1701,9 +1701,8 @@ msgid "Europe/Paris"
 msgstr "യൂറോപ്പ്/പാരീസ്"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "യൂറോപ്പ്/വോള്‍ഗോഗ്രാഡ്"
+msgstr "യൂറോപ്പ്/പോഡ്ഗോറിക്കാ"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -2224,3 +2223,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "സുളു"
+
