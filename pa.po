@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: pa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-16 16:13+0530\n"
+"PO-Revision-Date: 2006-11-24 09:45+0530\n"
 "Last-Translator: A S Alam <apbrar@gmail.com>\n"
 "Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -1707,9 +1707,8 @@ msgid "Europe/Paris"
 msgstr "ਯੂਰਪ/ਪੈਰਿਸ"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "ਯੂਰਪ/ਵੋਲਗੋਗਰਾਡ"
+msgstr "ਯੂਰਪ/ਪੋਡਗੋਰੀਸਾ"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -2230,3 +2229,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
+
