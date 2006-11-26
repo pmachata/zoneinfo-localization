@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-01-05 09:44+0100\n"
+"PO-Revision-Date: 2006-11-26 17:41+0100\n"
 "Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
@@ -309,9 +309,8 @@ msgid "America/Asuncion"
 msgstr "Amèrica/Asuncion"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Amèrica/Atka"
+msgstr "Amèrica/Atikokan"
 
 #: timezones.h:72
 msgid "America/Atka"
@@ -334,9 +333,8 @@ msgid "America/Belize"
 msgstr "Amèrica/Belize"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Amèrica/Cancun"
+msgstr "Amèrica/Blanc-Sablon"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -519,9 +517,8 @@ msgid "America/Indiana/Marengo"
 msgstr "Amèrica/Indiana/Marengo"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Amèrica/Indiana/Marengo"
+msgstr "Amèrica/Indiana/Petersburg"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -532,9 +529,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Amèrica/Indiana/Vevay"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Amèrica/Indiana/Vevay"
+msgstr "Amèrica/Indiana/Vincennes"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -625,9 +621,8 @@ msgid "America/Miquelon"
 msgstr "Amèrica/Miquelon"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Amèrica/Edmonton"
+msgstr "Amèrica/Moncton"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -670,9 +665,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Amèrica/Dakota_del_Nord/Center"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Amèrica/Dakota_del_Nord/Center"
+msgstr "Amèrica/Dakota_del_Nord/New_Salem"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -1639,27 +1633,24 @@ msgid "Europe/Gibraltar"
 msgstr "Europa/Gibraltar"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Europa/Atenes"
+msgstr "Europa/Guernsey"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Europa/Helsinki"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Europa/Oslo"
+msgstr "Europa/Illa_de_Man"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Europa/Estambul"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Europa/París"
+msgstr "Europa/Jersey"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1722,9 +1713,8 @@ msgid "Europe/Paris"
 msgstr "Europa/París"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Europa/Andorra"
+msgstr "Europa/Podgorica"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1799,9 +1789,8 @@ msgid "Europe/Vilnius"
 msgstr "Europa/Vilnius"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Europa/Belgrad"
+msgstr "Europa/Volgograd"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2224,9 +2213,8 @@ msgid "US/Pacific"
 msgstr "US/Pacífic"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "US/Pacífic"
+msgstr "US/Pacífic-Nou"
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2246,7 +2234,7 @@ msgstr "W-SU"
 
 #: timezones.h:552
 msgid "Zulu"
-msgstr "Zulú"
+msgstr "Zulu"
 
 #~ msgid "SystemV/AST4"
 #~ msgstr "SystemV/AST4"
