@@ -1,4 +1,5 @@
-# translation of te.po to 
+# translation of te.po to Telugu
+# translation of te.po to
 # translation of te1.po to
 # translation of te.po to
 # , 2006.
@@ -13,14 +14,15 @@
 # , 2006.
 # , 2006.
 # , 2006.
+# Sree Ganesh <sthottem@redhat.com>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: te\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-10-31 16:28+0530\n"
-"Last-Translator: \n"
-"Language-Team:  <en@li.org>\n"
+"PO-Revision-Date: 2006-11-30 18:40+0530\n"
+"Last-Translator: Sree Ganesh <sthottem@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1711,9 +1713,8 @@ msgid "Europe/Paris"
 msgstr "యూరప్/పారిస్"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "యూరప్/వోల్గోగార్డు"
+msgstr "యూరప్/పొడ్గోరికా"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -2234,3 +2235,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "జూలు"
+
