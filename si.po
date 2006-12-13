@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: si\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-09 14:44+0530\n"
+"PO-Revision-Date: 2006-12-13 12:26+0530\n"
 "Last-Translator: Tyronne Wickramarathne <tywickra@redhat.com>\n"
 "Language-Team: Sinhala <en@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1703,9 +1703,8 @@ msgid "Europe/Paris"
 msgstr "යුරෝපය/පැරිස්"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "යුරෝපය/වෝලොග්‍රාඩ්"
+msgstr "යුරෝපය/පොඩ්ගොරිකාග්‍රාඩ්"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -2226,3 +2225,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "සූලු"
+
