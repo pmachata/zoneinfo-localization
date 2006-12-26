@@ -1,14 +1,14 @@
 # Finnish translation of timezones.
 # Lauri Nurmi <lanurmi@iki.fi>, 2004.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2004-01-24 11:05+0200\n"
-"Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
-"Language-Team: Gnome Finnish Translation Team \n"
+"PO-Revision-Date: 2006-12-26 23:55+0200\n"
+"Last-Translator: Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>\n"
+"Language-Team: Gnome Finnish Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -242,59 +242,48 @@ msgid "America/Araguaina"
 msgstr "Amerikka/Araguaina"
 
 #: timezones.h:58
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Amerikka/Buenos_Aires"
+msgstr "Amerikka/Argentiina/Buenos_Aires"
 
 #: timezones.h:59
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Amerikka/Catamarca"
+msgstr "Amerikka/Argentiina/Catamarca"
 
 #: timezones.h:60
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amerikka/Indiana/Indianapolis"
+msgstr "Amerikka/Argentiina/ComodRivadavia"
 
 #: timezones.h:61
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Amerikka/Cordoba"
+msgstr "Amerikka/Argentiina/Cordoba"
 
 #: timezones.h:62
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Amerikka/Jujuy"
+msgstr "Amerikka/Argentiina/Jujuy"
 
 #: timezones.h:63
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Amerikka/Araguaina"
+msgstr "Amerikka/Argentiina/La_Rioja"
 
 #: timezones.h:64
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Amerikka/Mendoza"
+msgstr "Amerikka/Argentiina/Mendoza"
 
 #: timezones.h:65
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Amerikka/Indiana/Marengo"
+msgstr "Amerikka/Argentiina/Rio_Gallegos"
 
 #: timezones.h:66
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Amerikka/Antigua"
+msgstr "Amerikka/Argentiina/San_Juan"
 
 #: timezones.h:67
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Amerikka/Antigua"
+msgstr "Amerikka/Argentiina/Tucuman"
 
 #: timezones.h:68
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Amerikka/Araguaina"
+msgstr "Amerikka/Argentiina/Ushuaia"
 
 #: timezones.h:69
 msgid "America/Aruba"
@@ -305,18 +294,16 @@ msgid "America/Asuncion"
 msgstr "Amerikka/Asuncion"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Amerikka/Atka"
+msgstr "Amerikka/Atikokan"
 
 #: timezones.h:72
 msgid "America/Atka"
 msgstr "Amerikka/Atka"
 
 #: timezones.h:73
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Amerikka/Boa_Vista"
+msgstr "Amerikka/Bahia"
 
 #: timezones.h:74
 msgid "America/Barbados"
@@ -331,9 +318,8 @@ msgid "America/Belize"
 msgstr "Amerikka/Belize"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Amerikka/Cancun"
+msgstr "Amerikka/Bahia"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -356,9 +342,8 @@ msgid "America/Cambridge_Bay"
 msgstr "Amerikka/Cambridge_Bay"
 
 #: timezones.h:83
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Amerikka/Cayman"
+msgstr "Amerikka/Campo_Grande"
 
 #: timezones.h:84
 msgid "America/Cancun"
@@ -389,9 +374,8 @@ msgid "America/Chihuahua"
 msgstr "Amerikka/Chihuahua"
 
 #: timezones.h:91
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Amerikka/Curacao"
+msgstr "Amerikka/Coral_Harbour"
 
 #: timezones.h:92
 msgid "America/Cordoba"
@@ -518,9 +502,8 @@ msgid "America/Indiana/Marengo"
 msgstr "Amerikka/Indiana/Marengo"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Amerikka/Indiana/Marengo"
+msgstr "Amerikka/Indiana/Petersburg"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -531,9 +514,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Amerikka/Indiana/Vevay"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Amerikka/Indiana/Vevay"
+msgstr "Amerikka/Indiana/Vincennes"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -624,9 +606,8 @@ msgid "America/Miquelon"
 msgstr "Amerikka/Miquelon"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Amerikka/Edmonton"
+msgstr "Amerikka/Moncton"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -669,9 +650,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Amerikka/North_Dakota/Center"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Amerikka/North_Dakota/Center"
+msgstr "Amerikka/North_Dakota/New_Salem"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -794,9 +774,8 @@ msgid "America/Tijuana"
 msgstr "Amerikka/Tijuana"
 
 #: timezones.h:191
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Amerikka/Tortola"
+msgstr "Amerikka/Toronto"
 
 #: timezones.h:192
 msgid "America/Tortola"
@@ -851,9 +830,8 @@ msgid "Antarctica/Palmer"
 msgstr "Etelämanner/Palmer"
 
 #: timezones.h:205
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Etelämanner/Etelänapa"
+msgstr "Etelämanner/Rothera"
 
 #: timezones.h:206
 msgid "Antarctica/South_Pole"
@@ -1284,9 +1262,8 @@ msgid "Australia/Canberra"
 msgstr "Australia/Canberra"
 
 #: timezones.h:313
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Australia/Canberra"
+msgstr "Australia/Currie"
 
 #: timezones.h:314
 msgid "Australia/Darwin"
@@ -1641,27 +1618,24 @@ msgid "Europe/Gibraltar"
 msgstr "Eurooppa/Gibraltar"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Eurooppa/Ateena"
+msgstr "Eurooppa/Guernsey"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Eurooppa/Helsinki"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Eurooppa/Oslo"
+msgstr "Eurooppa/Mansaari"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Eurooppa/Istanbul"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Eurooppa/Pariisi"
+msgstr "Eurooppa/Jersey"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1696,9 +1670,8 @@ msgid "Europe/Malta"
 msgstr "Eurooppa/Malta"
 
 #: timezones.h:415
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Eurooppa/Madrid"
+msgstr "Eurooppa/Maarianhamina"
 
 #: timezones.h:416
 msgid "Europe/Minsk"
@@ -1725,9 +1698,8 @@ msgid "Europe/Paris"
 msgstr "Eurooppa/Pariisi"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Eurooppa/Andorra"
+msgstr "Eurooppa/Podgorica"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1802,9 +1774,8 @@ msgid "Europe/Vilnius"
 msgstr "Eurooppa/Vilna"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Eurooppa/Belgrad"
+msgstr "Eurooppa/Volgograd"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2227,9 +2198,8 @@ msgid "US/Pacific"
 msgstr "Yhdysvallat/Pacific"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "Yhdysvallat/Pacific"
+msgstr "Yhdysvallat/Pacific-New"
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2254,39 +2224,28 @@ msgstr "UTC"
 
 #~ msgid "SystemV/AST4"
 #~ msgstr "SystemV/AST4"
-
 #~ msgid "SystemV/AST4ADT"
 #~ msgstr "SystemV/AST4ADT"
-
 #~ msgid "SystemV/CST6"
 #~ msgstr "SystemV/CST6"
-
 #~ msgid "SystemV/CST6CDT"
 #~ msgstr "SystemV/CST6CDT"
-
 #~ msgid "SystemV/EST5"
 #~ msgstr "SystemV/EST5"
-
 #~ msgid "SystemV/EST5EDT"
 #~ msgstr "SystemV/EST5EDT"
-
 #~ msgid "SystemV/HST10"
 #~ msgstr "SystemV/HST10"
-
 #~ msgid "SystemV/MST7"
 #~ msgstr "SystemV/MST7"
-
 #~ msgid "SystemV/MST7MDT"
 #~ msgstr "SystemV/MST7MDT"
-
 #~ msgid "SystemV/PST8"
 #~ msgstr "SystemV/PST8"
-
 #~ msgid "SystemV/PST8PDT"
 #~ msgstr "SystemV/PST8PDT"
-
 #~ msgid "SystemV/YST9"
 #~ msgstr "SystemV/YST9"
-
 #~ msgid "SystemV/YST9YDT"
 #~ msgstr "SystemV/YST9YDT"
+
