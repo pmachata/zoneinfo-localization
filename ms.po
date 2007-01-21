@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: system-config-date\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-06-18 23:43+0800\n"
+"PO-Revision-Date: 2007-01-22 01:41+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <gabai-penyumbang@lists.sf.net>\n"
 "MIME-Version: 1.0\n"
@@ -296,7 +296,7 @@ msgstr "Amerika/Asuncion"
 #: timezones.h:71
 #, fuzzy
 msgid "America/Atikokan"
-msgstr "Amerika/Atka"
+msgstr "Amerika/Adak"
 
 #: timezones.h:72
 msgid "America/Atka"
@@ -321,7 +321,7 @@ msgstr "Amerika/Belize"
 #: timezones.h:77
 #, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Amerika/Cancun"
+msgstr "Amerika/Boa_Vista"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -506,7 +506,7 @@ msgstr "Amerika/Indiana/Marengo"
 #: timezones.h:123
 #, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Amerika/Indiana/Marengo"
+msgstr "Amerika/Indiana/Indianapolis"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -519,7 +519,7 @@ msgstr "Amerika/Indiana/Vevay"
 #: timezones.h:126
 #, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Indianapolis"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -612,7 +612,7 @@ msgstr "Amerika/Miquelon"
 #: timezones.h:149
 #, fuzzy
 msgid "America/Moncton"
-msgstr "Amerika/Edmonton"
+msgstr "Amerika/Adak"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -1626,7 +1626,7 @@ msgstr "Eropah/Gibraltar"
 #: timezones.h:402
 #, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Eropah/Athens"
+msgstr "Eropah/Amsterdam"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
@@ -1635,7 +1635,7 @@ msgstr "Eropah/Helsinki"
 #: timezones.h:404
 #, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Eropah/Oslo"
+msgstr "Man-Yong Lee"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
@@ -1644,7 +1644,7 @@ msgstr "Eropah/Istanbul"
 #: timezones.h:406
 #, fuzzy
 msgid "Europe/Jersey"
-msgstr "Eropah/Paris"
+msgstr "New Jersey"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1707,9 +1707,8 @@ msgid "Europe/Paris"
 msgstr "Eropah/Paris"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Eropah/Andorra"
+msgstr "Eropah/Podgorica"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1784,9 +1783,8 @@ msgid "Europe/Vilnius"
 msgstr "Eropah/Vilnius"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Eropah/Belgrade"
+msgstr "Eropah/Volgograd"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2209,9 +2207,8 @@ msgid "US/Pacific"
 msgstr "US/Pacific"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "US/Pacific"
+msgstr "US/Pasifik-Baru"
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2233,41 +2230,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulu"
 
-#~ msgid "SystemV/AST4"
-#~ msgstr "SistemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SistemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SistemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SistemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SistemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SistemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SistemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SistemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SistemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SistemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SistemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SistemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SistemV/YST9YDT"
