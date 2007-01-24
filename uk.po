@@ -297,9 +297,8 @@ msgid "America/Asuncion"
 msgstr "Америка/Асунсьйон"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Америка/Атка"
+msgstr "Америка/Атикокан"
 
 #: timezones.h:72
 msgid "America/Atka"
@@ -322,9 +321,8 @@ msgid "America/Belize"
 msgstr "Америка/Ѓеліза"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Америка/Канкан"
+msgstr "Америка/Бланк-Саблон"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -507,9 +505,8 @@ msgid "America/Indiana/Marengo"
 msgstr "Америка/Індіана/Marengo"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Америка/Індіана/Marengo"
+msgstr "Америка/Індіана/Петербург"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -520,9 +517,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Америка/Індіана/Vevay"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Америка/Індіана/Vevay"
+msgstr "Америка/Індіана/Вінсеннес"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -613,9 +609,8 @@ msgid "America/Miquelon"
 msgstr "Америка/Miquelon"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Америка/Едмонтон"
+msgstr "Америка/Монктон"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -658,9 +653,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Америка/Північна Дакота/Центр"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Америка/Північна Дакота/Центр"
+msgstr "Америка/Північна Дакота/Нью_Салем"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -1627,27 +1621,24 @@ msgid "Europe/Gibraltar"
 msgstr "Європа/Гібралтар"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Європа/Афіни"
+msgstr "Європа/Гернси"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Європа/Хельсінкі"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Європа/Осло"
+msgstr "Європа/Острів_Мен"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Європа/Стамбул"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Європа/Париж"
+msgstr "Європа/Джерсі"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1710,9 +1701,8 @@ msgid "Europe/Paris"
 msgstr "Європа/Париж"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Європа/Андорра"
+msgstr "Європа/Подгориця"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1787,9 +1777,8 @@ msgid "Europe/Vilnius"
 msgstr "Європа/Вільнюс"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Європа/Белград"
+msgstr "Європа/Волгоград"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2209,12 +2198,11 @@ msgstr "США/Mountain"
 
 #: timezones.h:546
 msgid "US/Pacific"
-msgstr "США/Pacific"
+msgstr "США/Тихий_океан"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "США/Pacific"
+msgstr "США/Тихий_океан_нов"
 
 #: timezones.h:548
 msgid "US/Samoa"
