@@ -1,15 +1,15 @@
 # translation of cs.po to Czech
-# Copyright (C) 2004 Miloslav Trmac <mitr@volny.cz>
-# Milan Kerslager <kerslage@linux.cz>
+# Milan Kerslager <kerslage@linux.cz>, 2002, 2007.
 # Miloslav Trmac <mitr@volny.cz>, 2004.
 # Nikola Štohanzl <niko@srnet.cz>, 2006.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: cs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-01-28 17:19+0100\n"
-"Last-Translator: Nikola Štohanzl <niko@srnet.cz>\n"
+"PO-Revision-Date: 2007-01-26 16:28+0100\n"
+"Last-Translator: Milan Kerslager <kerslage@linux.cz>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -299,9 +299,8 @@ msgid "America/Asuncion"
 msgstr "Amerika/Asuncion"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Amerika/Atka"
+msgstr "Amerika/Atikokan"
 
 #: timezones.h:72
 msgid "America/Atka"
@@ -324,9 +323,8 @@ msgid "America/Belize"
 msgstr "Amerika/Belize"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Amerika/Cancun"
+msgstr "Amerika/Blanc-Sablon"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -509,9 +507,8 @@ msgid "America/Indiana/Marengo"
 msgstr "Amerika/Indiana/Marengo"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Amerika/Indiana/Marengo"
+msgstr "Amerika/Indiana/Petersburg"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -522,9 +519,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Amerika/Indiana/Vevay"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Vincennes"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -615,9 +611,8 @@ msgid "America/Miquelon"
 msgstr "Amerika/Miquelon"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Amerika/Edmonton"
+msgstr "Amerika/Moncton"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -660,9 +655,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Amerika/Severní_Dakota/Střed"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Amerika/Severní_Dakota/Střed"
+msgstr "Amerika/Severní_Dakota/New_Salem"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -1629,27 +1623,24 @@ msgid "Europe/Gibraltar"
 msgstr "Evropa/Gibraltar"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Evropa/Athény"
+msgstr "Evropa/Guernsey"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Evropa/Helsinky"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Evropa/Oslo"
+msgstr "Evropa/Isle_of_Man"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Evropa/Istanbul"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Evropa/Paříž"
+msgstr "Evropa/Jersey"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1712,9 +1703,8 @@ msgid "Europe/Paris"
 msgstr "Evropa/Paříž"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Evropa/Andora"
+msgstr "Evropa/Podgorica"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1789,9 +1779,8 @@ msgid "Europe/Vilnius"
 msgstr "Evropa/Vilnius"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Evropa/Bělehrad"
+msgstr "Evropa/Volgograd"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2214,9 +2203,8 @@ msgid "US/Pacific"
 msgstr "US/Pacifik"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "US/Pacifik"
+msgstr "US/Pacifik-Nový"
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2237,42 +2225,3 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "Zulu"
-
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
