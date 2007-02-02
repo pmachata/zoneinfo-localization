@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: system-config-date\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-01-22 01:41+0800\n"
+"PO-Revision-Date: 2007-02-02 21:11+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <gabai-penyumbang@lists.sf.net>\n"
 "MIME-Version: 1.0\n"
@@ -1624,27 +1624,24 @@ msgid "Europe/Gibraltar"
 msgstr "Eropah/Gibraltar"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Eropah/Amsterdam"
+msgstr "Eropah/Guernsey"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Eropah/Helsinki"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Man-Yong Lee"
+msgstr "Eropah/Isle_of_Man"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Eropah/Istanbul"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "New Jersey"
+msgstr "Eropah/Jersey"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
