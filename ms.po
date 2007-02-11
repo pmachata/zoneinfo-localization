@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: system-config-date\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-02-02 21:11+0800\n"
+"PO-Revision-Date: 2007-02-11 22:37+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <gabai-penyumbang@lists.sf.net>\n"
 "MIME-Version: 1.0\n"
@@ -517,9 +517,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Amerika/Indiana/Vevay"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Amerika/Indiana/Indianapolis"
+msgstr "Amerika/Indiana/Vincennes"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -610,9 +609,8 @@ msgid "America/Miquelon"
 msgstr "Amerika/Miquelon"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Amerika/Adak"
+msgstr "Amerika/Moncton"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -655,9 +653,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Amerika/North_Dakota/Center"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Amerika/North_Dakota/Center"
+msgstr "Amerika/North_Dakota/New_Salem"
 
 #: timezones.h:161
 msgid "America/Panama"
