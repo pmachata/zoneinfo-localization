@@ -1,26 +1,21 @@
-# translation of bg.po to 
-# translation of bg.po to
-# translation of bg.po to
-# translation of bg.po to
-# translation of bg.po to
-# translation of bg.po to
-# translation of bg.po to
-# translation of bg.po to
+# translation of bg.pot to Bulgarian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2006 THE PACKAGE'S COPYRIGHT HOLDER.
-# Николай Сърмаджиев,преносим <nikolayds@msn.com>, 2004.
 #
+# Николай Сърмаджиев,преносим <nikolayds@msn.com>, 2004.
+# Doncho N. Gunchev <gunchev@gmail.com>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-06-19 13:23+0300\n"
-"Last-Translator: Николай Сърмаджиев,преносим <nikolayds@msn.com>\n"
-"Language-Team:  <bg@li.org>\n"
+"PO-Revision-Date: 2007-03-12 18:31+0200\n"
+"Last-Translator: Doncho N. Gunchev <gunchev@gmail.com>\n"
+"Language-Team: Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -251,59 +246,48 @@ msgid "America/Araguaina"
 msgstr "Америка/Арагуайна"
 
 #: timezones.h:58
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "Америка/Буенос_Айрес"
+msgstr "Америка/Аржентина/Буенос_Айрес"
 
 #: timezones.h:59
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "Америка/Катамарка"
+msgstr "Америка/Аржентина/Катамарка"
 
 #: timezones.h:60
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Америка/Индиана/Индианаполис"
+msgstr "Америка/Аржентина/Комодоро-Ривадавия"
 
 #: timezones.h:61
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "Америка/Кордова"
+msgstr "Америка/Аржентина/Кордова"
 
 #: timezones.h:62
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "Америка/Юию"
+msgstr "Америка/Аржентина/Юию"
 
 #: timezones.h:63
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "Америка/Арагуайна"
+msgstr "Америка/Аржентина/Риоха"
 
 #: timezones.h:64
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "Америка/Мендоза"
+msgstr "Америка/Аржентина/Мендоза"
 
 #: timezones.h:65
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "Америка/Индиана/Маренго"
+msgstr "Америка/Аржентина/Рио_Галегос"
 
 #: timezones.h:66
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "Америка/Антигуа"
+msgstr "Америка/Аржентина/Сан_Хуан"
 
 #: timezones.h:67
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "Америка/Антигуа"
+msgstr "Америка/Аржентина/Тукуман"
 
 #: timezones.h:68
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "Америка/Арагуайна"
+msgstr "Америка/Аржентина/Ушуая"
 
 #: timezones.h:69
 msgid "America/Aruba"
@@ -314,18 +298,16 @@ msgid "America/Asuncion"
 msgstr "Америка/Асунсион"
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "Америка/Атка"
+msgstr "Америка/Атикокан"
 
 #: timezones.h:72
 msgid "America/Atka"
 msgstr "Америка/Атка"
 
 #: timezones.h:73
-#, fuzzy
 msgid "America/Bahia"
-msgstr "Америка/Боа_Виста"
+msgstr "Америка/Байя"
 
 #: timezones.h:74
 msgid "America/Barbados"
@@ -340,9 +322,8 @@ msgid "America/Belize"
 msgstr "Америка/Белийз"
 
 #: timezones.h:77
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "Америка/Канкун"
+msgstr "Америка/Бланк-Саблон"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -365,9 +346,8 @@ msgid "America/Cambridge_Bay"
 msgstr "Америка/Кеймбридж_Бей"
 
 #: timezones.h:83
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "Америка/Кайман"
+msgstr "Америка/Кампо-Гранде"
 
 #: timezones.h:84
 msgid "America/Cancun"
@@ -398,9 +378,8 @@ msgid "America/Chihuahua"
 msgstr "Америка/Чихуахуа"
 
 #: timezones.h:91
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "Америка/Каракао"
+msgstr "Америка/Корал_Харбър"
 
 #: timezones.h:92
 msgid "America/Cordoba"
@@ -527,9 +506,8 @@ msgid "America/Indiana/Marengo"
 msgstr "Америка/Индиана/Маренго"
 
 #: timezones.h:123
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "Америка/Индиана/Маренго"
+msgstr "Америка/Индиана/Питърсбърг"
 
 #: timezones.h:124
 msgid "America/Indianapolis"
@@ -540,9 +518,8 @@ msgid "America/Indiana/Vevay"
 msgstr "Америка/Индиана/Вевай"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "Америка/Индиана/Вевай"
+msgstr ""
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -633,9 +610,8 @@ msgid "America/Miquelon"
 msgstr "Америка/Микелон"
 
 #: timezones.h:149
-#, fuzzy
 msgid "America/Moncton"
-msgstr "Америка/Едмънтън"
+msgstr "Америка/Монктън"
 
 #: timezones.h:150
 msgid "America/Monterrey"
@@ -678,9 +654,8 @@ msgid "America/North_Dakota/Center"
 msgstr "Америка/Северна_Дакота/Център"
 
 #: timezones.h:160
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "Америка/Северна_Дакота/Център"
+msgstr "Америка/Северна_Дакота/Ню_Сейлъм"
 
 #: timezones.h:161
 msgid "America/Panama"
@@ -803,9 +778,8 @@ msgid "America/Tijuana"
 msgstr "Америка/Тихуана"
 
 #: timezones.h:191
-#, fuzzy
 msgid "America/Toronto"
-msgstr "Америка/Тортола"
+msgstr "Америка/Торонто"
 
 #: timezones.h:192
 msgid "America/Tortola"
@@ -860,9 +834,8 @@ msgid "Antarctica/Palmer"
 msgstr "Антарктика/Палмър"
 
 #: timezones.h:205
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "Антарктика/Южен_Полюс"
+msgstr ""
 
 #: timezones.h:206
 msgid "Antarctica/South_Pole"
@@ -1293,9 +1266,8 @@ msgid "Australia/Canberra"
 msgstr "Австралия/Канбера"
 
 #: timezones.h:313
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "Австралия/Канбера"
+msgstr ""
 
 #: timezones.h:314
 msgid "Australia/Darwin"
@@ -1650,27 +1622,24 @@ msgid "Europe/Gibraltar"
 msgstr "Европа/Гибралтар"
 
 #: timezones.h:402
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "Европа/Атина"
+msgstr ""
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
 msgstr "Европа/Хелзинки"
 
 #: timezones.h:404
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "Европа/Осло"
+msgstr ""
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
 msgstr "Европа/Истанбул"
 
 #: timezones.h:406
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "Европа/Париж"
+msgstr "Европа/Джърси"
 
 #: timezones.h:407
 msgid "Europe/Kaliningrad"
@@ -1705,9 +1674,8 @@ msgid "Europe/Malta"
 msgstr "Европа/Малта"
 
 #: timezones.h:415
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "Европа/Мадрид"
+msgstr "Европа/Мариехамн"
 
 #: timezones.h:416
 msgid "Europe/Minsk"
@@ -1734,9 +1702,8 @@ msgid "Europe/Paris"
 msgstr "Европа/Париж"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "Европа/Андора"
+msgstr "Европа/Подгорица"
 
 #: timezones.h:423
 msgid "Europe/Prague"
@@ -1811,9 +1778,8 @@ msgid "Europe/Vilnius"
 msgstr "Европа/Вилнюс"
 
 #: timezones.h:441
-#, fuzzy
 msgid "Europe/Volgograd"
-msgstr "Европа/Белград"
+msgstr "Европа/Волгоград"
 
 #: timezones.h:442
 msgid "Europe/Warsaw"
@@ -2236,9 +2202,8 @@ msgid "US/Pacific"
 msgstr "САЩ/Тихоокеанско"
 
 #: timezones.h:547
-#, fuzzy
 msgid "US/Pacific-New"
-msgstr "САЩ/Тихоокеанско"
+msgstr ""
 
 #: timezones.h:548
 msgid "US/Samoa"
@@ -2260,41 +2225,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Зулу"
 
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
