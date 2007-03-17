@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the timezones package.
 # Zoltan Čala <zolika@sezampro.yu>, 1999.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
+# Igor Miletić <grejigl-gnomeprevod@yahoo.ca>, 2007.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-03-16 14:15-0500\n"
-"Last-Translator: Igor Miletic <grejigl-gnomeprevod@yahoo.ca>\n"
+"PO-Revision-Date: 2007-03-17 16:44-0000\n"
+"Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora@prevod.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -262,7 +263,7 @@ msgstr "Америка/Аргентина/Кордоба"
 
 #: timezones.h:62
 msgid "America/Argentina/Jujuy"
-msgstr "Америка/Аргентина/Џуџуи"
+msgstr "Америка/Аргентина/Хухуи"
 
 #: timezones.h:63
 msgid "America/Argentina/La_Rioja"
@@ -398,7 +399,7 @@ msgstr "Америка/Куракао"
 
 #: timezones.h:96
 msgid "America/Danmarkshavn"
-msgstr "Америка/Денмаркшон"
+msgstr "Америка/Денмарксхавен"
 
 #: timezones.h:97
 msgid "America/Dawson"
@@ -425,9 +426,8 @@ msgid "America/Edmonton"
 msgstr "Америка/Едмонтон"
 
 #: timezones.h:103
-#, fuzzy
 msgid "America/Eirunepe"
-msgstr "Америка/Eirunepe"
+msgstr "Америка/Ејрунепе"
 
 #: timezones.h:104
 msgid "America/El_Salvador"
@@ -535,7 +535,7 @@ msgstr "Америка/Јамајка"
 
 #: timezones.h:130
 msgid "America/Jujuy"
-msgstr "Америка/Џуџуи"
+msgstr "Америка/Хухуи"
 
 #: timezones.h:131
 msgid "America/Juneau"
@@ -703,7 +703,7 @@ msgstr "Америка/Ранкинов_рукавац"
 
 #: timezones.h:172
 msgid "America/Recife"
-msgstr "Америка/Редифи"
+msgstr "Америка/Ресифи"
 
 #: timezones.h:173
 msgid "America/Regina"
@@ -763,7 +763,7 @@ msgstr "Америка/Свифт_Карент"
 
 #: timezones.h:187
 msgid "America/Tegucigalpa"
-msgstr "Америка/Тегусгалпа"
+msgstr "Америка/Тегусигалпа"
 
 #: timezones.h:188
 msgid "America/Thule"
@@ -818,9 +818,8 @@ msgid "Antarctica/Davis"
 msgstr "Антарктик/Дејвис"
 
 #: timezones.h:201
-#, fuzzy
 msgid "Antarctica/DumontDUrville"
-msgstr "Антарктик/DumontDUrville"
+msgstr "Антарктик/ДумонтДУрвил"
 
 #: timezones.h:202
 msgid "Antarctica/Mawson"
@@ -919,9 +918,8 @@ msgid "Asia/Calcutta"
 msgstr "Азија/Калкута"
 
 #: timezones.h:226
-#, fuzzy
 msgid "Asia/Choibalsan"
-msgstr "Азија/Choibalsan"
+msgstr "Азија/Чојбалсан"
 
 #: timezones.h:227
 msgid "Asia/Chongqing"
@@ -1077,7 +1075,7 @@ msgstr "Азија/Пном_Пен"
 
 #: timezones.h:265
 msgid "Asia/Pontianak"
-msgstr "Азија/Понтијак"
+msgstr "Азија/Понтијанак"
 
 #: timezones.h:266
 msgid "Asia/Pyongyang"
@@ -1089,7 +1087,7 @@ msgstr "Азија/Катар"
 
 #: timezones.h:268
 msgid "Asia/Qyzylorda"
-msgstr "Азија/Понтијак"
+msgstr "Азија/Кизилорда"
 
 #: timezones.h:269
 msgid "Asia/Rangoon"
@@ -1248,7 +1246,6 @@ msgid "Atlantic/St_Helena"
 msgstr "Атлантик/Св_Хелена"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Australia/ACT"
 msgstr "Аустралија/ACT"
 
@@ -1906,7 +1903,7 @@ msgstr "Јапан"
 
 #: timezones.h:472
 msgid "Kwajalein"
-msgstr "Кваџалеин"
+msgstr "Кваџалин"
 
 #: timezones.h:473
 msgid "Libya"
@@ -2030,7 +2027,7 @@ msgstr "Пацифик/Косре"
 
 #: timezones.h:503
 msgid "Pacific/Kwajalein"
-msgstr "Пацифик/Кваџалеин"
+msgstr "Пацифик/Кваџалин"
 
 #: timezones.h:504
 msgid "Pacific/Majuro"
