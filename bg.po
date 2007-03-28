@@ -1,17 +1,19 @@
+# translation of bg.po to Bulgarian
 # translation of bg.pot to Bulgarian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2006 THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Николай Сърмаджиев,преносим <nikolayds@msn.com>, 2004.
 # Doncho N. Gunchev <gunchev@gmail.com>, 2007.
+# Miroslav Ivanov <satyr@globalnet.bg>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-03-12 18:31+0200\n"
-"Last-Translator: Doncho N. Gunchev <gunchev@gmail.com>\n"
-"Language-Team: Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>\n"
+"PO-Revision-Date: 2007-03-28 10:07+0300\n"
+"Last-Translator: Miroslav Ivanov <satyr@globalnet.bg>\n"
+"Language-Team: Bulgarian <bg@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +37,7 @@ msgstr "Африка/Алжир"
 
 #: timezones.h:5
 msgid "Africa/Asmera"
-msgstr "Африка/Ас-мера"
+msgstr "Африка/Асмера"
 
 #: timezones.h:6
 msgid "Africa/Bamako"
@@ -255,7 +257,7 @@ msgstr "Америка/Аржентина/Катамарка"
 
 #: timezones.h:60
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Америка/Аржентина/Комодоро-Ривадавия"
+msgstr "Америка/Аржентина/Комодоро_Ривадавия"
 
 #: timezones.h:61
 msgid "America/Argentina/Cordoba"
@@ -323,7 +325,7 @@ msgstr "Америка/Белийз"
 
 #: timezones.h:77
 msgid "America/Blanc-Sablon"
-msgstr "Америка/Бланк-Саблон"
+msgstr "Америка/Блан-Саблон"
 
 #: timezones.h:78
 msgid "America/Boa_Vista"
@@ -519,7 +521,7 @@ msgstr "Америка/Индиана/Вевай"
 
 #: timezones.h:126
 msgid "America/Indiana/Vincennes"
-msgstr ""
+msgstr "Америка/Индиана/Винсен"
 
 #: timezones.h:127
 msgid "America/Inuvik"
@@ -835,7 +837,7 @@ msgstr "Антарктика/Палмър"
 
 #: timezones.h:205
 msgid "Antarctica/Rothera"
-msgstr ""
+msgstr "Антарктика/Ротера"
 
 #: timezones.h:206
 msgid "Antarctica/South_Pole"
@@ -1267,7 +1269,7 @@ msgstr "Австралия/Канбера"
 
 #: timezones.h:313
 msgid "Australia/Currie"
-msgstr ""
+msgstr "Австралия/Къри"
 
 #: timezones.h:314
 msgid "Australia/Darwin"
@@ -1623,7 +1625,7 @@ msgstr "Европа/Гибралтар"
 
 #: timezones.h:402
 msgid "Europe/Guernsey"
-msgstr ""
+msgstr "Европа/Гернси"
 
 #: timezones.h:403
 msgid "Europe/Helsinki"
@@ -1631,7 +1633,7 @@ msgstr "Европа/Хелзинки"
 
 #: timezones.h:404
 msgid "Europe/Isle_of_Man"
-msgstr ""
+msgstr "Европа/о-в Ман"
 
 #: timezones.h:405
 msgid "Europe/Istanbul"
@@ -2179,7 +2181,7 @@ msgstr "САЩ/Източно"
 
 #: timezones.h:541
 msgid "US/East-Indiana"
-msgstr "САЩ/Източно-Индиана"
+msgstr "САЩ/Източна_Индиана"
 
 #: timezones.h:542
 msgid "US/Hawaii"
@@ -2203,7 +2205,7 @@ msgstr "САЩ/Тихоокеанско"
 
 #: timezones.h:547
 msgid "US/Pacific-New"
-msgstr ""
+msgstr "САЩ/Нова Тихоокеанска зона"
 
 #: timezones.h:548
 msgid "US/Samoa"
