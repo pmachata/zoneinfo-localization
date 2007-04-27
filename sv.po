@@ -3,7 +3,7 @@
 # Christian Rose <menthos@menthos.com>, 2004, 2005, 2006
 # Magnus Larsson <fedoratrans@gmail.com>, 2007.
 #
-# $Id: sv.po,v 1.11 2007/01/19 03:31:08 raada Exp $
+# $Id: sv.po,v 1.12 2007/04/27 09:16:29 nphilipp Exp $
 #
 msgid ""
 msgstr ""
@@ -1970,6 +1970,7 @@ msgid "Pacific/Chatham"
 msgstr "Stilla_Havet/Chatham"
 
 #: timezones.h:489
+#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Stilla_Havet/Påskön"
 
