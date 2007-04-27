@@ -2,7 +2,7 @@
 # Copyright (C) 1999 Free Software Foundation, Inc.
 # Mohammad DAMT <mdamt@linux.or.id>, 1999.
 # Teguh DC <dheche@brawijaya.ac.id>, 2004-2006.
-# $Id: id.po,v 1.9 2006/11/21 14:37:16 nphilipp Exp $
+# $Id: id.po,v 1.10 2007/04/27 09:16:28 nphilipp Exp $
 #
 msgid ""
 msgstr ""
@@ -1980,6 +1980,7 @@ msgid "Pacific/Chatham"
 msgstr "Pasifik/Chatham"
 
 #: timezones.h:489
+#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pasifik/Easter"
 

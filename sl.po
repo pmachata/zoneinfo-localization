@@ -1,7 +1,7 @@
 # SLOVENIAN TRANSLATION OF TIMEZONES.
 # Copyright (C) 2003 THE PACKAGE'S COPYRIGHT HOLDER
 # Roman Maurer <roman@lugos.si>, 2001.
-# $Id: sl.po,v 1.6 2006/11/21 14:37:18 nphilipp Exp $
+# $Id: sl.po,v 1.7 2007/04/27 09:16:29 nphilipp Exp $
 # $Source: /home/fedora/mmcgrath/elvis/cvs/redhat-config-date/po/timezones/sl.po,v $
 #
 msgid ""
@@ -1998,6 +1998,7 @@ msgid "Pacific/Chatham"
 msgstr "Pacifik/Chatham"
 
 #: timezones.h:489
+#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacifik/Easter"
 
