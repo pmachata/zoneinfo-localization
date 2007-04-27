@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-21 17:33+0000\n"
+"PO-Revision-Date: 2007-04-27 15:18+0100\n"
 "Last-Translator: Pedro Morais <morais@poli.org>\n"
 "Language-Team: pt <morais@poli.org>\n"
 "MIME-Version: 1.0\n"
@@ -2033,7 +2033,6 @@ msgid "Pacific/Chatham"
 msgstr "Pacífico/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacífico/Easter"
 
