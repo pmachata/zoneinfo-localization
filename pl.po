@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-21 16:12+0200\n"
+"PO-Revision-Date: 2007-04-27 13:00+0200\n"
 "Last-Translator: Radosław Zawartko <radzaw@lnet.szn.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1966,7 +1966,6 @@ msgid "Pacific/Chatham"
 msgstr "Pacyfik/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacyfik/Wyspa_Wielkanocna"
 
