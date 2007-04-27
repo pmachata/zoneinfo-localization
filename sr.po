@@ -10,9 +10,9 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-03-17 16:44-0000\n"
+"PO-Revision-Date: 2007-04-27 18:41-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
-"Language-Team: Serbian (sr) <fedora@prevod.org>\n"
+"Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1970,9 +1970,8 @@ msgid "Pacific/Chatham"
 msgstr "Пацифик/Чатам"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Пацифик/Ускршња_острва"
+msgstr "Пацифик/Ускршња"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
@@ -2225,4 +2224,3 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "Зулу"
-
