@@ -2032,7 +2032,9 @@ msgstr "Pacífico/Auckland"
 msgid "Pacific/Chatham"
 msgstr "Pacífico/Chatham"
 
+#. This is the Easter Island, not the holiday, please don't just unfuzzy it again ;-). See http://bugzilla.redhat.com/237930
 #: timezones.h:489
+#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacífico/Easter"
 
