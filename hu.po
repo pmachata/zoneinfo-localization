@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: system-config-date/timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-03-26 22:24+0200\n"
+"PO-Revision-Date: 2007-04-29 23:50+0200\n"
 "Last-Translator: Arpad Biro <biro_arpad@yahoo.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -571,7 +571,7 @@ msgstr "Amerika/Maceio"
 
 #: timezones.h:140
 msgid "America/Managua"
-msgstr "Amerika/Manaqua"
+msgstr "Amerika/Managua"
 
 #: timezones.h:141
 msgid "America/Manaus"
@@ -955,7 +955,7 @@ msgstr "Ázsia/Dushanbe"
 
 #: timezones.h:236
 msgid "Asia/Gaza"
-msgstr "Ázsia/GĂĄza"
+msgstr "Ázsia/Gáza"
 
 #: timezones.h:237
 msgid "Asia/Harbin"
@@ -1423,143 +1423,143 @@ msgstr "EST5EDT"
 
 #: timezones.h:353
 msgid "Etc/GMT"
-msgstr "Stb./GMT"
+msgstr "Egyéb/GMT"
 
 #: timezones.h:354
 msgid "Etc/GMT0"
-msgstr "Stb./GMT0"
+msgstr "Egyéb/GMT0"
 
 #: timezones.h:355
 msgid "Etc/GMT-0"
-msgstr "Stb./GMT-0"
+msgstr "Egyéb/GMT-0"
 
 #: timezones.h:356
 msgid "Etc/GMT+0"
-msgstr "Stb./GMT+0"
+msgstr "Egyéb/GMT+0"
 
 #: timezones.h:357
 msgid "Etc/GMT-1"
-msgstr "Stb./GMT-1"
+msgstr "Egyéb/GMT-1"
 
 #: timezones.h:358
 msgid "Etc/GMT+1"
-msgstr "Stb./GMT+1"
+msgstr "Egyéb/GMT+1"
 
 #: timezones.h:359
 msgid "Etc/GMT-10"
-msgstr "Stb./GMT-10"
+msgstr "Egyéb/GMT-10"
 
 #: timezones.h:360
 msgid "Etc/GMT+10"
-msgstr "Stb./GMT+10"
+msgstr "Egyéb/GMT+10"
 
 #: timezones.h:361
 msgid "Etc/GMT-11"
-msgstr "Stb./GMT-11"
+msgstr "Egyéb/GMT-11"
 
 #: timezones.h:362
 msgid "Etc/GMT+11"
-msgstr "Stb./GMT+11"
+msgstr "Egyéb/GMT+11"
 
 #: timezones.h:363
 msgid "Etc/GMT-12"
-msgstr "Stb./GMT-12"
+msgstr "Egyéb/GMT-12"
 
 #: timezones.h:364
 msgid "Etc/GMT+12"
-msgstr "Stb./GMT+12"
+msgstr "Egyéb/GMT+12"
 
 #: timezones.h:365
 msgid "Etc/GMT-13"
-msgstr "Stb./GMT-13"
+msgstr "Egyéb/GMT-13"
 
 #: timezones.h:366
 msgid "Etc/GMT-14"
-msgstr "Stb./GMT-14"
+msgstr "Egyéb/GMT-14"
 
 #: timezones.h:367
 msgid "Etc/GMT-2"
-msgstr "Stb./GMT-2"
+msgstr "Egyéb/GMT-2"
 
 #: timezones.h:368
 msgid "Etc/GMT+2"
-msgstr "Stb./GMT+2"
+msgstr "Egyéb/GMT+2"
 
 #: timezones.h:369
 msgid "Etc/GMT-3"
-msgstr "Stb./GMT-3"
+msgstr "Egyéb/GMT-3"
 
 #: timezones.h:370
 msgid "Etc/GMT+3"
-msgstr "Stb./GMT+3"
+msgstr "Egyéb/GMT+3"
 
 #: timezones.h:371
 msgid "Etc/GMT-4"
-msgstr "Stb./GMT-4"
+msgstr "Egyéb/GMT-4"
 
 #: timezones.h:372
 msgid "Etc/GMT+4"
-msgstr "Stb./GMT+4"
+msgstr "Egyéb/GMT+4"
 
 #: timezones.h:373
 msgid "Etc/GMT-5"
-msgstr "Stb./GMT-5"
+msgstr "Egyéb/GMT-5"
 
 #: timezones.h:374
 msgid "Etc/GMT+5"
-msgstr "Stb./GMT+5"
+msgstr "Egyéb/GMT+5"
 
 #: timezones.h:375
 msgid "Etc/GMT-6"
-msgstr "Stb./GMT-6"
+msgstr "Egyéb/GMT-6"
 
 #: timezones.h:376
 msgid "Etc/GMT+6"
-msgstr "Stb./GMT+6"
+msgstr "Egyéb/GMT+6"
 
 #: timezones.h:377
 msgid "Etc/GMT-7"
-msgstr "Stb./GMT-7"
+msgstr "Egyéb/GMT-7"
 
 #: timezones.h:378
 msgid "Etc/GMT+7"
-msgstr "Stb./GMT+7"
+msgstr "Egyéb/GMT+7"
 
 #: timezones.h:379
 msgid "Etc/GMT-8"
-msgstr "Stb./GMT-8"
+msgstr "Egyéb/GMT-8"
 
 #: timezones.h:380
 msgid "Etc/GMT+8"
-msgstr "Stb./GMT+8"
+msgstr "Egyéb/GMT+8"
 
 #: timezones.h:381
 msgid "Etc/GMT-9"
-msgstr "Stb./GMT-9"
+msgstr "Egyéb/GMT-9"
 
 #: timezones.h:382
 msgid "Etc/GMT+9"
-msgstr "Stb./GMT+9"
+msgstr "Egyéb/GMT+9"
 
 #: timezones.h:383
 msgid "Etc/Greenwich"
-msgstr "Stb./Greenwich"
+msgstr "Egyéb/Greenwich"
 
 #: timezones.h:384
 msgid "Etc/UCT"
-msgstr "Stb./UCT"
+msgstr "Egyéb/UCT"
 
 #: timezones.h:385
 msgid "Etc/Universal"
-msgstr "Stb./Universal"
+msgstr "Egyéb/Universal"
 
 #: timezones.h:386
 msgid "Etc/UTC"
-msgstr "Stb./UTC"
+msgstr "Egyéb/UTC"
 
 #: timezones.h:387
 msgid "Etc/Zulu"
-msgstr "Stb./Zulu"
+msgstr "Egyéb/Zulu"
 
 #: timezones.h:388
 msgid "Europe/Amsterdam"
@@ -1711,7 +1711,7 @@ msgstr "Európa/Riga"
 
 #: timezones.h:425
 msgid "Europe/Rome"
-msgstr "Európa/RĂłma"
+msgstr "Európa/Róma"
 
 #: timezones.h:426
 msgid "Europe/Samara"
@@ -1966,9 +1966,8 @@ msgid "Pacific/Chatham"
 msgstr "Csendes-óceán/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Csendes-óceán/Easter"
+msgstr "Csendes-óceán/Húsvét-sziget"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
