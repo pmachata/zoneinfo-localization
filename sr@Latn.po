@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-27 18:41-0000\n"
+"PO-Revision-Date: 2007-04-29 18:47-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -1971,7 +1971,7 @@ msgstr "Pacifik/Čatam"
 
 #: timezones.h:489
 msgid "Pacific/Easter"
-msgstr "Pacifik/Uskršnja"
+msgstr "Pacifik/Uskršnje ostrvo"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
