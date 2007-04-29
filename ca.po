@@ -1,8 +1,8 @@
 # Catalan translations for timezones package.
-# Copyright (C) 2004, 2006 Free Software Foundation Inc.
+# Copyright (C) 2004, 2006, 2007 Free Software Foundation Inc.
 # This file is distributed under the same license as the
 #  system-config-data package.
-# Josep Puigdemont <josep.puigdemont@gmail.com>, 2004, 2006
+# Josep Puigdemont <josep.puigdemont@gmail.com>, 2004, 2006, 2007
 #
 # This file is translated according to the glossary and style guide of
 #   Softcatalà. If you plan to modify this file, please read first the page
@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-26 17:41+0100\n"
+"PO-Revision-Date: 2007-04-29 17:41+0100\n"
 "Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
@@ -1981,7 +1981,6 @@ msgid "Pacific/Chatham"
 msgstr "Pacífic/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacífic/Pasqua"
 
