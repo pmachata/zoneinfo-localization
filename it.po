@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-30 02:59+0200\n"
+"PO-Revision-Date: 2007-04-30 03:08+0200\n"
 "Last-Translator: Francesco Tombolini <tombo@adamantio.net>\n"
 "Language-Team: italiano <fedora-trans-it@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -1399,7 +1399,7 @@ msgstr "Chile/Continentale"
 
 #: timezones.h:345
 msgid "Chile/EasterIsland"
-msgstr "Chile/Isola di Pasqua"
+msgstr "Cile/Isola di Pasqua"
 
 #: timezones.h:346
 msgid "CST6CDT"
@@ -1975,7 +1975,7 @@ msgstr "Oceano Pacifico/Chatham"
 
 #: timezones.h:489
 msgid "Pacific/Easter"
-msgstr "Pacifico/Easter"
+msgstr "Pacifico/Isola di Pasqua"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
