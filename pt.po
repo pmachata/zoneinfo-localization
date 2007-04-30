@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-27 15:18+0100\n"
+"PO-Revision-Date: 2007-04-30 15:56+0100\n"
 "Last-Translator: Pedro Morais <morais@poli.org>\n"
 "Language-Team: pt <morais@poli.org>\n"
 "MIME-Version: 1.0\n"
@@ -2034,9 +2034,8 @@ msgstr "Pacífico/Chatham"
 
 #. This is the Easter Island, not the holiday, please don't just unfuzzy it again ;-). See http://bugzilla.redhat.com/237930
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Pacífico/Easter"
+msgstr "Pacífico/Páscoa"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
