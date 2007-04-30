@@ -1,24 +1,24 @@
-# translation of it.po to 
-# translation of it.po to Italiano
+# translation of it.po to italiano
+# translation of it.po to
 # ITALIAN translation of 1.0.
 # Copyright (C) 2001 Red Hat, Inc.
 #
 #
 # Bettina De Monti (bdemonti@redhat.it), 2000.
 # Bettina De Monti <bdemonti@redhat.it>, 2004.
-# Francesco Tombolini <tombo@adamantio.net>, 2006.
+# Francesco Tombolini <tombo@adamantio.net>, 2006, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-28 07:28+0100\n"
-"Last-Translator: \n"
-"Language-Team:  <it@li.org>\n"
+"PO-Revision-Date: 2007-04-30 02:59+0200\n"
+"Last-Translator: Francesco Tombolini <tombo@adamantio.net>\n"
+"Language-Team: italiano <fedora-trans-it@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: timezones.h:1
@@ -1974,9 +1974,8 @@ msgid "Pacific/Chatham"
 msgstr "Oceano Pacifico/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Oceano Pacifico/Easter"
+msgstr "Pacifico/Easter"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
