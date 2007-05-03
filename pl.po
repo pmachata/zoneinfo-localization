@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-27 13:00+0200\n"
+"PO-Revision-Date: 2007-05-03 19:48+0200\n"
 "Last-Translator: Radosław Zawartko <radzaw@lnet.szn.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -855,7 +855,7 @@ msgstr "Azja/Aden"
 
 #: timezones.h:211
 msgid "Asia/Almaty"
-msgstr "Azja/Ałma_Ata"
+msgstr "Azja/Ałma Ata"
 
 #: timezones.h:212
 msgid "Asia/Amman"
@@ -1167,7 +1167,7 @@ msgstr "Azja/Ujung_Pandag"
 
 #: timezones.h:289
 msgid "Asia/Ulaanbaatar"
-msgstr "Azja/Ułan_Bator"
+msgstr "Azja/Ułan Bator"
 
 #: timezones.h:290
 msgid "Asia/Ulan_Bator"
@@ -1215,7 +1215,7 @@ msgstr "Atlantyk/Wyspy_Zielonego_Przylądka"
 
 #: timezones.h:301
 msgid "Atlantic/Faeroe"
-msgstr "Atlantyk/Wyspy_Owcze"
+msgstr "Atlantyk/Wyspy Owcze"
 
 #: timezones.h:302
 msgid "Atlantic/Jan_Mayen"
@@ -1391,7 +1391,7 @@ msgstr "Chile/Kontynentalny"
 
 #: timezones.h:345
 msgid "Chile/EasterIsland"
-msgstr "Chile/Wyspa_Wielkanocna"
+msgstr "Chile/Wyspa Wielkanocna"
 
 #: timezones.h:346
 msgid "CST6CDT"
@@ -1847,11 +1847,11 @@ msgstr "Indyjski/Czagos"
 
 #: timezones.h:459
 msgid "Indian/Christmas"
-msgstr "Indyjski/Wyspa_Bożego_Narodzenia"
+msgstr "Indyjski/Wyspa Bożego Narodzenia"
 
 #: timezones.h:460
 msgid "Indian/Cocos"
-msgstr "Indyjski/Wyspy_Kokosowe"
+msgstr "Indyjski/Wyspy Kokosowe"
 
 #: timezones.h:461
 msgid "Indian/Comoro"
@@ -1859,7 +1859,7 @@ msgstr "Indyjski/Komory"
 
 #: timezones.h:462
 msgid "Indian/Kerguelen"
-msgstr "Indyjski/Wyspy_Kerguelena"
+msgstr "Indyjski/Wyspy Kerguelena"
 
 #: timezones.h:463
 msgid "Indian/Mahe"
@@ -1967,7 +1967,7 @@ msgstr "Pacyfik/Chatham"
 
 #: timezones.h:489
 msgid "Pacific/Easter"
-msgstr "Pacyfik/Wyspa_Wielkanocna"
+msgstr "Pacyfik/Wyspa Wielkanocna"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
