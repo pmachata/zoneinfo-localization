@@ -4,14 +4,15 @@
 # James Hashida <khashida@redhat.com>, 2003.
 # Hirofumi Saito <hi_saito@yk.rim.or.jp>, 2006.
 # Noriko Mizumoto <noriko@redhat.com>, 2006.
+# Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>, 2007
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ja\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-28 10:00+1000\n"
-"Last-Translator: Noriko Mizumoto <noriko@redhat.com>\n"
+"PO-Revision-Date: 2007-05-05 12:18+0900\n"
+"Last-Translator: Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>\n"
 "Language-Team: Japanese <fedora-trans-ja@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1396,7 +1397,7 @@ msgstr "チリ/大陸"
 
 #: timezones.h:345
 msgid "Chile/EasterIsland"
-msgstr "チリ/東諸島"
+msgstr "チリ/イースター島"
 
 #: timezones.h:346
 msgid "CST6CDT"
@@ -1971,9 +1972,8 @@ msgid "Pacific/Chatham"
 msgstr "太平洋/シャタン"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "太平洋/イースター"
+msgstr "太平洋/イースター島"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
