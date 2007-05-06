@@ -1,7 +1,7 @@
 # Catalan translations for timezones package.
 # Copyright (C) 2004, 2006, 2007 Free Software Foundation Inc.
 # This file is distributed under the same license as the
-#  system-config-data package.
+#  system-config-date package.
 # Josep Puigdemont <josep.puigdemont@gmail.com>, 2004, 2006, 2007
 #
 # This file is translated according to the glossary and style guide of
@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-29 17:41+0100\n"
+"PO-Revision-Date: 2007-05-06 17:41+0100\n"
 "Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
@@ -846,7 +846,7 @@ msgstr "Antàrtida/Palmer"
 
 #: timezones.h:205
 msgid "Antarctica/Rothera"
-msgstr "Antàrctica/Rothera"
+msgstr "Antàrtida/Rothera"
 
 #: timezones.h:206
 msgid "Antarctica/South_Pole"
