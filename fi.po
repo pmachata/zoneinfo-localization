@@ -1,17 +1,20 @@
 # Finnish translation of timezones.
-# Lauri Nurmi <lanurmi@iki.fi>, 2004.
 #
+# Lauri Nurmi <lanurmi@iki.fi>, 2004.
+# Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-12-26 23:55+0200\n"
+"PO-Revision-Date: 2007-05-07 00:35+0300\n"
 "Last-Translator: Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>\n"
 "Language-Team: Gnome Finnish Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -1966,7 +1969,6 @@ msgid "Pacific/Chatham"
 msgstr "Tyyni_valtameri/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Tyyni_valtameri/Easter"
 
@@ -2222,31 +2224,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "UTC"
-
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
 
