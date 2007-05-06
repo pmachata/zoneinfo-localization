@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: cs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-01-26 16:28+0100\n"
+"PO-Revision-Date: 2007-05-06 16:29+0100\n"
 "Last-Translator: Milan Kerslager <kerslage@linux.cz>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -1971,9 +1971,8 @@ msgid "Pacific/Chatham"
 msgstr "Pacifik/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Pacifik/Velikonoční ostrovy"
+msgstr "Pacifik/Velikonoční"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
