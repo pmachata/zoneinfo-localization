@@ -3,19 +3,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Amitakhya Phukan <amitakhya.phukan@gmail.com>, 2006.
-# Amitakhya Phukan <aphukan@redhat.com>, 2006.
+# Amitakhya Phukan <aphukan@redhat.com>, 2006, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: as\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-24 01:34+0530\n"
+"PO-Revision-Date: 2007-05-08 15:55+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@redhat.com>\n"
 "Language-Team: Assamese <assam@mm.assam-glug.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1)\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -1973,9 +1974,8 @@ msgid "Pacific/Chatham"
 msgstr "প্রশান্ত মহাসাগৰ/চ্যাটহাম"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "প্রশান্ত মহাসাগৰ/ইস্টাৰ"
+msgstr "প্রশান্ত মহাসাগৰ/ঈষ্টাৰ"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
@@ -2231,3 +2231,4 @@ msgstr "W-SU"
 #: timezones.h:552
 msgid "Zulu"
 msgstr "জুলু"
+
