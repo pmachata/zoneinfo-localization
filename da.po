@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: da\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-04-15 10:48+0200\n"
+"PO-Revision-Date: 2007-05-10 15:54+0200\n"
 "Last-Translator: Keld Simonsen <keld@rap.dk>\n"
 "Language-Team:  <da@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1968,9 +1968,8 @@ msgid "Pacific/Chatham"
 msgstr "Stillehav/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
-msgstr "Stillehav/Easter"
+msgstr "Stillehavet/Easter"
 
 #: timezones.h:490
 msgid "Pacific/Efate"
