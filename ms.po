@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: system-config-date\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2007-03-25 23:19+0800\n"
+"PO-Revision-Date: 2007-05-13 00:27+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <gabai-penyumbang@lists.sf.net>\n"
 "MIME-Version: 1.0\n"
@@ -1966,7 +1966,6 @@ msgid "Pacific/Chatham"
 msgstr "Pasifik/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pasifik/Easter"
 
