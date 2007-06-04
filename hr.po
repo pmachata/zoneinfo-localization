@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: timezones 0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-11-21 15:30+0100\n"
-"PO-Revision-Date: 2006-11-22 01:53+0100\n"
+"PO-Revision-Date: 2007-06-04 23:41+0100\n"
 "Last-Translator: Renato Pavicic <renato@translator-shop.org>\n"
 "Language-Team: Croatian Reanto Pavicic <lokalizacija@linux.hr repavici@globalnet.hr>\n"
 "MIME-Version: 1.0\n"
@@ -1969,7 +1969,6 @@ msgid "Pacific/Chatham"
 msgstr "Tihi_ocean/Chatham"
 
 #: timezones.h:489
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Tihi_ocean/Easter"
 
