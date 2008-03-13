@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: timezones 3.0.13\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-12-10 16:55+0100\n"
+"PO-Revision-Date: 2008-03-13 14:04+0100\n"
 "Last-Translator: Espen Stefansen <espenas@gmail.com>\n"
 "Language-Team: Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -30,9 +30,8 @@ msgid "Africa/Algiers"
 msgstr "Afrika/Algerie"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afrika/Asmera"
+msgstr "Afrika/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -515,9 +514,8 @@ msgid "America/Indianapolis"
 msgstr "Amerika/Indianapolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Tell City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -528,9 +526,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Amerika/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Amerika/Indiana/Vincennes"
+msgstr "Amerika/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -593,9 +590,8 @@ msgid "America/Manaus"
 msgstr "Amerika/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amerika/Maceio"
+msgstr "Amerika/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -726,9 +722,8 @@ msgid "America/Regina"
 msgstr "Amerika/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amerika/Belem"
+msgstr "Amerika/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -759,9 +754,8 @@ msgid "America/Shiprock"
 msgstr "Amerika/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amerika/Belem"
+msgstr "Amerika/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1248,7 +1242,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlanterhavet/Færøyene"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlanterhavet/Færøyene"
 
@@ -1305,9 +1298,8 @@ msgid "Australia/Darwin"
 msgstr "Australia/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Australia/Queensland"
+msgstr "Australia/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2006,7 +1998,6 @@ msgid "Pacific/Chatham"
 msgstr "Stillehavet/Chathamøyene"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Stillehavet/Påskeøya"
 
@@ -2261,42 +2252,3 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "Zulu"
-
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
