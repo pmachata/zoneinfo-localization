@@ -1,22 +1,23 @@
-# translation of ta.po to Tamil
+# translation of timezones.tip.ta.po to Tamil
 # translation of ta.po to
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2006.
-# Felix <ifelix@redhat.com>, 2006.
 #
+# Felix <ifelix@redhat.com>, 2006.
+# I. Felix <ifelix@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: ta\n"
+"Project-Id-Version: timezones.tip.ta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-11-22 11:27+0530\n"
-"Last-Translator: Felix <ifelix@redhat.com>\n"
-"Language-Team: Tamil <ta@li.org>\n"
+"PO-Revision-Date: 2008-03-14 16:13+0530\n"
+"Last-Translator: I. Felix <ifelix@redhat.com>\n"
+"Language-Team: Tamil <fedora-trans-ta@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n\n"
 "\n"
 "\n"
 
@@ -37,9 +38,8 @@ msgid "Africa/Algiers"
 msgstr "ஆப்ரிக்கா/அல்கெர்ஸ்"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "ஆப்ரிக்கா/அழ்மேரா"
+msgstr "ஆப்பிரிக்கா/அஸ்மாரா"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -522,9 +522,8 @@ msgid "America/Indianapolis"
 msgstr "அமெரிக்கா/இந்தியானாபோலிஸ்"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "அமெரிக்கா/இந்தியானா/விவேயை"
+msgstr "அமெரிக்கா/இந்தியானா/டெல்_சிட்டி"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -535,9 +534,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "அமெரிக்கா/இந்தியானா/வின்சினெஸ்"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "அமெரிக்கா/இந்தியானா/வின்சினெஸ்"
+msgstr "அமெரிக்கா/இந்தியானா/வினாமாக்"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -600,9 +598,8 @@ msgid "America/Manaus"
 msgstr "அமெரிக்கா/மனௌஸ்"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "அமெரிக்கா/மகய்யோ"
+msgstr "அமெரிக்கா/மாரிகாட்"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -733,9 +730,8 @@ msgid "America/Regina"
 msgstr "அமெரிக்கா/ரிஜினா"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "அமேரிக்கா/பேலெம்"
+msgstr "அமெரிக்கா/ரிசோல்ட்"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -766,9 +762,8 @@ msgid "America/Shiprock"
 msgstr "அமெரிக்கா/ஷிப்ராக்"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "அமேரிக்கா/பேலெம்"
+msgstr "அமெரிக்கா/செயிண்ட்பரித்லேமே"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1255,9 +1250,8 @@ msgid "Atlantic/Faeroe"
 msgstr "அட்லாந்டிக்/ஃபெரோரெ"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "அட்லாந்டிக்/ஃபெரோரெ"
+msgstr "அட்லாண்டிக்/ஃபெரோரெ"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1312,9 +1306,8 @@ msgid "Australia/Darwin"
 msgstr "ஆஸ்ட்ரேலியா/டார்வின்"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "ஆஸ்ட்ரேலியா/க்வீன்ஸ்லாண்டு"
+msgstr "ஆஸ்ட்ரேலியா/யுக்லா"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2013,7 +2006,6 @@ msgid "Pacific/Chatham"
 msgstr "பசிபிக்/சத்தம்"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "பசிபிக்/ஈஸ்டர்"
 
@@ -2268,3 +2260,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "சுலு"
+
