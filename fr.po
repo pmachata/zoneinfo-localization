@@ -1,18 +1,19 @@
-# translation of fr.po to Français
+# translation of timezones.tip.po to french
 # translation of fr.po to
 # Copyright (C) 2001 Red Hat, Inc.
 #
 # Bettina De Monti <bdemonti@redhat.it>, 2001, 2006.
 # Thomas Canniot <thomas.canniot@laposte.net>, 2006.
 # Alain PORTAL <aportal@univ-montp2.fr>, 2007.
+# Gauthier Ancelin <gauthier.ancelin@laposte.net>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: fr\n"
+"Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-04-29 13:19+0200\n"
-"Last-Translator: Alain PORTAL <aportal@univ-montp2.fr>\n"
-"Language-Team: Français <traduc@traduc.org>\n"
+"PO-Revision-Date: 2008-03-11 22:41+0100\n"
+"Last-Translator: Gauthier Ancelin <gauthier.ancelin@laposte.net>\n"
+"Language-Team: french <fedora-trans-fr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,9 +36,8 @@ msgid "Africa/Algiers"
 msgstr "Afrique/Alger"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afrique/Asmera"
+msgstr "Afrique/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -520,9 +520,8 @@ msgid "America/Indianapolis"
 msgstr "Amérique/Indianapolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amérique/Indiana/Vevay"
+msgstr "Amérique/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -533,9 +532,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Amérique/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Amérique/Indiana/Vincennes"
+msgstr "Amérique/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -598,9 +596,8 @@ msgid "America/Manaus"
 msgstr "Amérique/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amérique/Maceio"
+msgstr "Amérique/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -731,9 +728,8 @@ msgid "America/Regina"
 msgstr "Amérique/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amérique/Belém"
+msgstr "Amérique/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -764,9 +760,8 @@ msgid "America/Shiprock"
 msgstr "Amérique/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amérique/Belém"
+msgstr "Amérique/Saint_Barthélemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1253,7 +1248,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlantique/Féroé"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlantique/Féroé"
 
@@ -1310,9 +1304,8 @@ msgid "Australia/Darwin"
 msgstr "Australie/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Australie/Queensland"
+msgstr "Australie/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2265,3 +2258,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "Zulu"
+
