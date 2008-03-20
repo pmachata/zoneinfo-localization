@@ -1,19 +1,21 @@
-# translation of ko.po to Korean
+# translation of timezones.tip.po to Korean
 # Michelle J Kim <mkim@redhat.com>, 2004.
 # Michelle Ji Yeen Kim <mkim@redhat.com>, 2006.
-# Eunju Kim <eukim@redhat.com>, 2006.
+# Eunju Kim <eukim@redhat.com>, 2006, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: ko\n"
+"Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-11-22 18:22+1000\n"
+"PO-Revision-Date: 2008-03-20 15:19+1000\n"
 "Last-Translator: Eunju Kim <eukim@redhat.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -32,9 +34,8 @@ msgid "Africa/Algiers"
 msgstr "아프리카/알제(Algiers)"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "아프리카/아스마라(Asmera)"
+msgstr "아프리카/아스마라(Asmara)"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -517,9 +518,8 @@ msgid "America/Indianapolis"
 msgstr "아메리카/인디애나폴리스(Indianapolis)"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "아메리카/인디애나/베베이(Vevay)"
+msgstr "아메리카/인디애나/텔_시티(Tell_City) "
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -530,9 +530,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "아메리카/인디애나/빈센느(Vincennes)"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "아메리카/인디애나/빈센느(Vincennes)"
+msgstr "아메리카/인디애나/워너맥(Winamac)"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -595,9 +594,8 @@ msgid "America/Manaus"
 msgstr "아메리카/마나우스(Manaus)"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "아메리카/마세이오(Maceio)"
+msgstr "아메리카/마리곳(Marigot)"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -728,9 +726,8 @@ msgid "America/Regina"
 msgstr "아메리카/리자이나(Regina)"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "아메리카/벨렘(Belem)"
+msgstr "아메리카/레졸루트(Resolute) "
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -761,9 +758,8 @@ msgid "America/Shiprock"
 msgstr "아메리카/쉬프록(Shiprock)"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "아메리카/벨렘(Belem)"
+msgstr "아메리카/세인트_바데레미(St_Barthelemy)"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1250,9 +1246,8 @@ msgid "Atlantic/Faeroe"
 msgstr "대서양/페로(Faeroe)"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "대서양/페로(Faeroe)"
+msgstr "대서양/페로(Faroe)"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1307,9 +1302,8 @@ msgid "Australia/Darwin"
 msgstr "호주/다윈(Darwin)"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "호주/퀸스랜드(Queensland)"
+msgstr "호주/유클라(Eucla)"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2008,7 +2002,6 @@ msgid "Pacific/Chatham"
 msgstr "태평양/채담(Chatham)"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "태평양/이스터(Easter)"
 
@@ -2263,3 +2256,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "줄루(Zulu)"
+
