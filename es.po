@@ -1,24 +1,22 @@
-# translation of timezones.tip.es.po to Spanish
+# translation of es.po to Spanish
 # translation of es.po to
-# Copyright (C) 2004, 2006, 2008 Free Software Foundation, Inc.
-#
+# Copyright (C) 2004, 2006 Free Software Foundation, Inc.
 # Tullio Dovera <tdovera@redhat.it>, 2000.
 # Yelitza Louze <ylouze@redhat.com>, 2004.
 # Manuel Ospina <mospina@redhat.com>, 2006.
-# Domingo Becker <domingobecker@gmail.com>, 2008.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones.tip.es\n"
+"Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2008-03-27 23:46-0300\n"
-"Last-Translator: Domingo Becker <domingobecker@gmail.com>\n"
-"Language-Team: Spanish <fedora-trans-es@redhat.com>\n"
+"PO-Revision-Date: 2007-04-29 12:32-0300\n"
+"Last-Translator: Domingo Becker <beckerde@hotmail.com>\n"
+"Language-Team: Spanish <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.9.1\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -37,6 +35,7 @@ msgid "Africa/Algiers"
 msgstr "África/Argelia"
 
 #: timezones.h:5
+#, fuzzy
 msgid "Africa/Asmara"
 msgstr "África/Asmera"
 
@@ -521,8 +520,9 @@ msgid "America/Indianapolis"
 msgstr "América/Indianápolis"
 
 #: timezones.h:126
+#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "América/Indiana/Ciudad_Tell"
+msgstr "América/Indiana/Vevay"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -533,8 +533,9 @@ msgid "America/Indiana/Vincennes"
 msgstr "América/Indiana/Vencennes"
 
 #: timezones.h:129
+#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "América/Indiana/Winamac"
+msgstr "América/Indiana/Vencennes"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -597,8 +598,9 @@ msgid "America/Manaus"
 msgstr "América/Manaus"
 
 #: timezones.h:145
+#, fuzzy
 msgid "America/Marigot"
-msgstr "América/Marigot"
+msgstr "América/Maceio"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -618,11 +620,11 @@ msgstr "América/Menominee"
 
 #: timezones.h:150
 msgid "America/Merida"
-msgstr "América/Mendoza"
+msgstr "América/Merida"
 
 #: timezones.h:151
 msgid "America/Mexico_City"
-msgstr "América/Ciudad_de_Méjico"
+msgstr "América/Ciudad_de_México"
 
 #: timezones.h:152
 msgid "America/Miquelon"
@@ -634,7 +636,7 @@ msgstr "América/Moncton"
 
 #: timezones.h:154
 msgid "America/Monterrey"
-msgstr "América/Montserrat"
+msgstr "América/Monterrey"
 
 #: timezones.h:155
 msgid "America/Montevideo"
@@ -729,8 +731,9 @@ msgid "America/Regina"
 msgstr "América/Regina"
 
 #: timezones.h:178
+#, fuzzy
 msgid "America/Resolute"
-msgstr "América/Resolute"
+msgstr "América/Belem"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -761,8 +764,9 @@ msgid "America/Shiprock"
 msgstr "América/Shiprock"
 
 #: timezones.h:186
+#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "América/San Bartolomé"
+msgstr "América/Belem"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1249,6 +1253,7 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlántico/Feroe"
 
 #: timezones.h:308
+#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlántico/Feroe"
 
@@ -1305,8 +1310,9 @@ msgid "Australia/Darwin"
 msgstr "Australia/Darwin"
 
 #: timezones.h:322
+#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Australia/Euclas"
+msgstr "Australia/Queensland"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2260,3 +2266,41 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulú"
 
+#~ msgid "SystemV/AST4"
+#~ msgstr "SystemV/AST4"
+
+#~ msgid "SystemV/AST4ADT"
+#~ msgstr "SystemV/AST4ADT"
+
+#~ msgid "SystemV/CST6"
+#~ msgstr "SystemV/CST6"
+
+#~ msgid "SystemV/CST6CDT"
+#~ msgstr "SystemV/CST6CDT"
+
+#~ msgid "SystemV/EST5"
+#~ msgstr "SystemV/EST5"
+
+#~ msgid "SystemV/EST5EDT"
+#~ msgstr "SystemV/EST5EDT"
+
+#~ msgid "SystemV/HST10"
+#~ msgstr "SystemV/HST10"
+
+#~ msgid "SystemV/MST7"
+#~ msgstr "SystemV/MST7"
+
+#~ msgid "SystemV/MST7MDT"
+#~ msgstr "SystemV/MST7MDT"
+
+#~ msgid "SystemV/PST8"
+#~ msgstr "SystemV/PST8"
+
+#~ msgid "SystemV/PST8PDT"
+#~ msgstr "SystemV/PST8PDT"
+
+#~ msgid "SystemV/YST9"
+#~ msgstr "SystemV/YST9"
+
+#~ msgid "SystemV/YST9YDT"
+#~ msgstr "SystemV/YST9YDT"
