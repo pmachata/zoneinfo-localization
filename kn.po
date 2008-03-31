@@ -1,21 +1,22 @@
-# translation of kn.po to Kannada
+# translation of timezones.tip.kn.po to Kannada
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
 # shankar Prasad <svenkate@redhat.com>, 2006.
+# Shankar Prasad <svenkate@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: kn\n"
+"Project-Id-Version: timezones.tip.kn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-12-18 12:21+0530\n"
-"Last-Translator: shankar Prasad <svenkate@redhat.com>\n"
+"PO-Revision-Date: 2008-03-28 23:38+0530\n"
+"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
 "Language-Team: Kannada <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 "\n"
 "\n"
 
@@ -36,7 +37,6 @@ msgid "Africa/Algiers"
 msgstr "ಆಫ್ರಿಕಾ/ಅಲ್ಗೈರಸ್"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
 msgstr "ಆಫ್ರಿಕಾ/ಅಸ್ಮೆರ"
 
@@ -521,9 +521,8 @@ msgid "America/Indianapolis"
 msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾಪೊಲಿಸ್"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾ/ವೆವೆ"
+msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾ/ಟೆಲ್_ಸಿಟಿ"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -534,9 +533,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾ/ವಿನ್ಸೆನ್ನೆಸ್"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾ/ವಿನ್ಸೆನ್ನೆಸ್"
+msgstr "ಅಮೆರಿಕ/ಇಂಡಿಯಾನಾ/ವಿನಾಮ್ಯಾಕ್"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -599,9 +597,8 @@ msgid "America/Manaus"
 msgstr "ಅಮೆರಿಕ/ಮನಾವುಸ್"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "ಅಮೆರಿಕ/ಮ್ಯಾಸಿಯೊ"
+msgstr "ಅಮೆರಿಕ/ಮ್ಯಾರಿಗಾಟ್"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -732,9 +729,8 @@ msgid "America/Regina"
 msgstr "ಅಮೆರಿಕ/ರೆಗಿನಾ"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "ಅಮೆರಿಕ/ಬೆಲೆಮ್"
+msgstr "ಅಮೆರಿಕ/ರೆಸಲ್ಯೂಟ್"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -765,9 +761,8 @@ msgid "America/Shiprock"
 msgstr "ಅಮೆರಿಕ/ಶಿಪ್ರಾಕ್"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "ಅಮೆರಿಕ/ಬೆಲೆಮ್"
+msgstr "ಅಮೆರಿಕ/ಸೈಂಟ್_ಬಾರ್ತಲ್ಮಿ"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1251,10 +1246,9 @@ msgstr "ಅಟ್ಲಾಂಟಿಕ್/ಕೇಪ್_ವರ್ಡ್"
 
 #: timezones.h:307
 msgid "Atlantic/Faeroe"
-msgstr "ಅಟ್ಲಾಂಟಿಕ್/ಫೆರೋ"
+msgstr "ಅಟ್ಲಾಂಟಿಕ್/ಫೈರೋ"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "ಅಟ್ಲಾಂಟಿಕ್/ಫೆರೋ"
 
@@ -1311,9 +1305,8 @@ msgid "Australia/Darwin"
 msgstr "ಆಸ್ಟ್ರೇಲಿಯಾ/ಡಾರ್ವಿನ್"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "ಆಸ್ಟ್ರೇಲಿಯಾ/ಕ್ವೇನ್ಸ್ ಲ್ಯಾಂಡ್"
+msgstr "ಆಸ್ಟ್ರೇಲಿಯಾ/ಯೂಕ್ಲಾ"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2012,7 +2005,6 @@ msgid "Pacific/Chatham"
 msgstr "ಪೆಸಿಫಿಕ್/ಚತಾಮ್"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "ಪೆಸಿಫಿಕ್/ಈಸ್ಟರ್"
 
@@ -2267,3 +2259,4 @@ msgstr "ಡಬ್ಲ್ಯು-ಎಸ್ ಯು"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "ಝುಲು"
+
