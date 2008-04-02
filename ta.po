@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: timezones.tip.ta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2008-03-14 16:13+0530\n"
+"PO-Revision-Date: 2008-04-02 15:34+0530\n"
 "Last-Translator: I. Felix <ifelix@redhat.com>\n"
 "Language-Team: Tamil <fedora-trans-ta@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "ஆப்ரிக்கா/அல்கெர்ஸ்"
 
 #: timezones.h:5
 msgid "Africa/Asmara"
-msgstr "ஆப்பிரிக்கா/அஸ்மாரா"
+msgstr "ஆப்ரிக்கா/அஸ்மாரா"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -523,7 +523,7 @@ msgstr "அமெரிக்கா/இந்தியானாபோலிஸ�
 
 #: timezones.h:126
 msgid "America/Indiana/Tell_City"
-msgstr "அமெரிக்கா/இந்தியானா/டெல்_சிட்டி"
+msgstr "அமெரிக்கா/இந்தியானா/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -535,7 +535,7 @@ msgstr "அமெரிக்கா/இந்தியானா/வின்ச�
 
 #: timezones.h:129
 msgid "America/Indiana/Winamac"
-msgstr "அமெரிக்கா/இந்தியானா/வினாமாக்"
+msgstr "அமெரிக்கா/இந்தியானா/வின்னாமேக்"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -599,7 +599,7 @@ msgstr "அமெரிக்கா/மனௌஸ்"
 
 #: timezones.h:145
 msgid "America/Marigot"
-msgstr "அமெரிக்கா/மாரிகாட்"
+msgstr "அமெரிக்கா/மாரிகோட்"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -763,7 +763,7 @@ msgstr "அமெரிக்கா/ஷிப்ராக்"
 
 #: timezones.h:186
 msgid "America/St_Barthelemy"
-msgstr "அமெரிக்கா/செயிண்ட்பரித்லேமே"
+msgstr "அமெரிக்கா/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1251,7 +1251,7 @@ msgstr "அட்லாந்டிக்/ஃபெரோரெ"
 
 #: timezones.h:308
 msgid "Atlantic/Faroe"
-msgstr "அட்லாண்டிக்/ஃபெரோரெ"
+msgstr "அட்லாந்டிக்/ஃபெரோ"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1307,7 +1307,7 @@ msgstr "ஆஸ்ட்ரேலியா/டார்வின்"
 
 #: timezones.h:322
 msgid "Australia/Eucla"
-msgstr "ஆஸ்ட்ரேலியா/யுக்லா"
+msgstr "ஆஸ்ட்ரேலியா/யூக்லா"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
