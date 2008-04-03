@@ -5,20 +5,22 @@
 # Paul Gampe <pgampe@redhat.com>, 2003.
 # David Barzilay <barzilay@redhat.com>, 2004.
 # Rodrigo Padula de Oliveira <rodrigopadula@gmail.com>, 2006.
-# Igor Pires Soares <igor@projetofedora.org>, 2006.
+# Igor Pires Soares <igor@projetofedora.org>, 2006,2007,2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: pt_BR\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-04-27 11:27-0300\n"
+"PO-Revision-Date: 2008-04-02 15:26-0300\n"
 "Last-Translator: Igor Pires Soares <igor@projetofedora.org>\n"
 "Language-Team: Brazilian Portuguese <fedora-trans-pt_br@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -37,7 +39,6 @@ msgid "Africa/Algiers"
 msgstr "África/Argélia"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
 msgstr "África/Asmara"
 
@@ -522,9 +523,8 @@ msgid "America/Indianapolis"
 msgstr "América/Indianápolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "América/Indiana/Vevay"
+msgstr "América/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -535,9 +535,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "América/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "América/Indiana/Vincennes"
+msgstr "América/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -600,9 +599,8 @@ msgid "America/Manaus"
 msgstr "América/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "América/Maceió"
+msgstr "América/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -733,9 +731,8 @@ msgid "America/Regina"
 msgstr "América/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "América/Belem"
+msgstr "América/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -766,9 +763,8 @@ msgid "America/Shiprock"
 msgstr "América/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "América/Belem"
+msgstr "América/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1255,7 +1251,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlântico/Faroe"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlântico/Faroe"
 
@@ -1312,9 +1307,8 @@ msgid "Australia/Darwin"
 msgstr "Austrália/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Austrália/Queensland"
+msgstr "Austrália/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2270,40 +2264,28 @@ msgstr "Zulu"
 
 #~ msgid "SystemV/AST4"
 #~ msgstr "SystemV/AST4"
-
 #~ msgid "SystemV/AST4ADT"
 #~ msgstr "SystemV/AST4ADT"
-
 #~ msgid "SystemV/CST6"
 #~ msgstr "SystemV/CST6"
-
 #~ msgid "SystemV/CST6CDT"
 #~ msgstr "SystemV/CST6CDT"
-
 #~ msgid "SystemV/EST5"
 #~ msgstr "SystemV/EST5"
-
 #~ msgid "SystemV/EST5EDT"
 #~ msgstr "SystemV/EST5EDT"
-
 #~ msgid "SystemV/HST10"
 #~ msgstr "SystemV/HST10"
-
 #~ msgid "SystemV/MST7"
 #~ msgstr "SystemV/MST7"
-
 #~ msgid "SystemV/MST7MDT"
 #~ msgstr "SystemV/MST7MDT"
-
 #~ msgid "SystemV/PST8"
 #~ msgstr "SystemV/PST8"
-
 #~ msgid "SystemV/PST8PDT"
 #~ msgstr "SystemV/PST8PDT"
-
 #~ msgid "SystemV/YST9"
 #~ msgstr "SystemV/YST9"
-
 #~ msgid "SystemV/YST9YDT"
 #~ msgstr "SystemV/YST9YDT"
 
@@ -6282,9 +6264,8 @@ msgstr "Zulu"
 #, fuzzy
 #~ msgid "right/Zulu"
 #~ msgstr "Etc/Zulu"
-
 #~ msgid "Startup through ARC console"
 #~ msgstr "Iniciando pela console ARC"
-
 #~ msgid "Asia/Ishigaki"
 #~ msgstr "Ásia/Ishigaki"
+
