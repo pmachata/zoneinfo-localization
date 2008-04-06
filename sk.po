@@ -1,18 +1,21 @@
 # timezones sk.po
-# Copyright (C) 2002 RedHat, Inc.
+# Copyright (C) 2002-2008 RedHat, Inc.
 # Stanislav Meduna <stano@eunet.sk>, 1999.
 # Marcel Telka <marcel@telka.sk>, 2002.
+# Mike Karas <zoliqe@gmail.com>, 2007.
+# Pavol Šimo <palo.simo@gmail.com>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-04-03 13:14+0200\n"
-"Last-Translator: Mike Karas <zoliqe@gmail.com>\n"
+"PO-Revision-Date: 2008-02-20 17:24+0100\n"
+"Last-Translator: Pavol Šimo <palo.simo@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -20,20 +23,19 @@ msgstr "Afrika/Abidjan"
 
 #: timezones.h:2
 msgid "Africa/Accra"
-msgstr "Afrika/Accra"
+msgstr "Afrika/Akkra"
 
 #: timezones.h:3
 msgid "Africa/Addis_Ababa"
-msgstr "Afrika/Addis_Ababa"
+msgstr "Afrika/Adis_Abeba"
 
 #: timezones.h:4
 msgid "Africa/Algiers"
-msgstr "Afrika/Algiers"
+msgstr "Afrika/Alžír"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afrika/Asmera"
+msgstr "Afrika/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -69,11 +71,11 @@ msgstr "Afrika/Bujumbura"
 
 #: timezones.h:14
 msgid "Africa/Cairo"
-msgstr "Afrika/Cairo"
+msgstr "Afrika/Káhira"
 
 #: timezones.h:15
 msgid "Africa/Casablanca"
-msgstr "Afrika/Casablanca"
+msgstr "Afrika/Kasablanka"
 
 #: timezones.h:16
 msgid "Africa/Ceuta"
@@ -81,7 +83,7 @@ msgstr "Afrika/Ceuta"
 
 #: timezones.h:17
 msgid "Africa/Conakry"
-msgstr "Afrika/Conakry"
+msgstr "Afrika/Konakry"
 
 #: timezones.h:18
 msgid "Africa/Dakar"
@@ -89,11 +91,11 @@ msgstr "Afrika/Dakar"
 
 #: timezones.h:19
 msgid "Africa/Dar_es_Salaam"
-msgstr "Afrika/Dar_es_Salaam"
+msgstr "Afrika/Dar_es_Salám"
 
 #: timezones.h:20
 msgid "Africa/Djibouti"
-msgstr "Afrika/Djibouti"
+msgstr "Afrika/Džibuti"
 
 #: timezones.h:21
 msgid "Africa/Douala"
@@ -101,7 +103,7 @@ msgstr "Afrika/Douala"
 
 #: timezones.h:22
 msgid "Africa/El_Aaiun"
-msgstr "Afrika/El_Aaiun"
+msgstr "Afrika/El-Aaiún"
 
 #: timezones.h:23
 msgid "Africa/Freetown"
@@ -257,11 +259,11 @@ msgstr "Amerika/Argentína/Catamarca"
 
 #: timezones.h:61
 msgid "America/Argentina/ComodRivadavia"
-msgstr "Amerika/Argentína/ComodRivadavia"
+msgstr "Amerika/Argentína/Rivadavia"
 
 #: timezones.h:62
 msgid "America/Argentina/Cordoba"
-msgstr "Amerika/Argentína/Cordoba"
+msgstr "Amerika/Argentína/Kordoba"
 
 #: timezones.h:63
 msgid "America/Argentina/Jujuy"
@@ -516,9 +518,8 @@ msgid "America/Indianapolis"
 msgstr "Amerika/Indianapolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -529,9 +530,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Amerika/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Amerika/Indiana/Vincennes"
+msgstr "Amerika/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -594,13 +594,12 @@ msgid "America/Manaus"
 msgstr "Amerika/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amerika/Maceio"
+msgstr "Amerika/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
-msgstr "Amerika/Martinique"
+msgstr "Amerika/Martinik"
 
 #: timezones.h:147
 msgid "America/Mazatlan"
@@ -727,9 +726,8 @@ msgid "America/Regina"
 msgstr "Amerika/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amerika/Belem"
+msgstr "Amerika/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -760,9 +758,8 @@ msgid "America/Shiprock"
 msgstr "Amerika/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amerika/Belem"
+msgstr "Amerika/St_Barthélemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1246,12 +1243,11 @@ msgstr "Atlantik/Cape_Verde"
 
 #: timezones.h:307
 msgid "Atlantic/Faeroe"
-msgstr "Atlantik/Faeroe"
+msgstr "Atlantik/Faerské ostrovy"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "Atlantik/Faeroe"
+msgstr "Atlantik/Faerské ostrovy"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1306,9 +1302,8 @@ msgid "Australia/Darwin"
 msgstr "Austrália/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Austrália/Queensland"
+msgstr "Austrália/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -1412,7 +1407,7 @@ msgstr "Kanada/Newfoundland"
 
 #: timezones.h:348
 msgid "Canada/Pacific"
-msgstr "Kanada/Pacific"
+msgstr "Kanada/Pacifický"
 
 #: timezones.h:349
 msgid "Canada/Saskatchewan"
@@ -1880,47 +1875,47 @@ msgstr "Island"
 
 #: timezones.h:465
 msgid "Indian/Antananarivo"
-msgstr "Indian/Antananarivo"
+msgstr "Indický/Antananarivo"
 
 #: timezones.h:466
 msgid "Indian/Chagos"
-msgstr "Indian/Chagos"
+msgstr "Indický/Chagos"
 
 #: timezones.h:467
 msgid "Indian/Christmas"
-msgstr "Indian/Christmas"
+msgstr "Indický/Christmas"
 
 #: timezones.h:468
 msgid "Indian/Cocos"
-msgstr "Indian/Cocos"
+msgstr "Indický/Kokosové ostrovy"
 
 #: timezones.h:469
 msgid "Indian/Comoro"
-msgstr "Indian/Comoro"
+msgstr "Indický/Komory"
 
 #: timezones.h:470
 msgid "Indian/Kerguelen"
-msgstr "Indian/Kerguelen"
+msgstr "Indický/Kergueleny"
 
 #: timezones.h:471
 msgid "Indian/Mahe"
-msgstr "Indian/Mahe"
+msgstr "Indický/Mahé"
 
 #: timezones.h:472
 msgid "Indian/Maldives"
-msgstr "Indian/Maldives"
+msgstr "Indický/Maledivy"
 
 #: timezones.h:473
 msgid "Indian/Mauritius"
-msgstr "Indian/Mauritius"
+msgstr "Indický/Maurícius"
 
 #: timezones.h:474
 msgid "Indian/Mayotte"
-msgstr "Indian/Mayotte"
+msgstr "Indický/Mayotte"
 
 #: timezones.h:475
 msgid "Indian/Reunion"
-msgstr "Indian/Reunion"
+msgstr "Indický/Reunion"
 
 #: timezones.h:476
 msgid "Iran"
@@ -1932,7 +1927,7 @@ msgstr "Izrael"
 
 #: timezones.h:478
 msgid "Jamaica"
-msgstr "Jamaica"
+msgstr "Jamajka"
 
 #: timezones.h:479
 msgid "Japan"
@@ -2007,7 +2002,6 @@ msgid "Pacific/Chatham"
 msgstr "Pacifik/Chatham"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pacifik/Easter"
 
@@ -2197,7 +2191,7 @@ msgstr "Universal"
 
 #: timezones.h:544
 msgid "US/Alaska"
-msgstr "US/Aliaška"
+msgstr "US/Aljaška"
 
 #: timezones.h:545
 msgid "US/Aleutian"
