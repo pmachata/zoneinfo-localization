@@ -1,21 +1,26 @@
+# translation of timezones.tip.sr.po to Serbian
 # Serbian translations for timezones
 # Copyright (C) 2005 Red Hat, Inc.
 # This file is distributed under the same license as the timezones package.
+#
 # Zoltan Čala <zolika@sezampro.yu>, 1999.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
 # Igor Miletić <grejigl-gnomeprevod@yahoo.ca>, 2007.
-#
+# Igor Miletic <grejigl-gnomeprevod@yahoo.ca>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: timezones.tip.sr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-04-29 18:47-0000\n"
-"Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
-"Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
+"PO-Revision-Date: 2008-04-06 00:43-0400\n"
+"Last-Translator: Igor Miletic <grejigl-gnomeprevod@yahoo.ca>\n"
+"Language-Team: Serbian <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -34,9 +39,8 @@ msgid "Africa/Algiers"
 msgstr "Африка/Алжир"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Африка/Асмера"
+msgstr "Африка/Асмара"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -519,9 +523,8 @@ msgid "America/Indianapolis"
 msgstr "Америка/Индијанаполис"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Америка/Индијана/Вевај"
+msgstr "Америка/Индијана/Тел_Сити"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -532,9 +535,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Америка/Индијана/Винсенс"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Америка/Индијана/Винсенс"
+msgstr "Америка/Индијана/Винамак"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -599,7 +601,7 @@ msgstr "Америка/Манаус"
 #: timezones.h:145
 #, fuzzy
 msgid "America/Marigot"
-msgstr "Америка/Масејо"
+msgstr "Америка/Марижот"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -732,7 +734,7 @@ msgstr "Америка/Регина"
 #: timezones.h:178
 #, fuzzy
 msgid "America/Resolute"
-msgstr "Америка/Белем"
+msgstr "Америка/Резолут"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -763,9 +765,8 @@ msgid "America/Shiprock"
 msgstr "Америка/Шипрок"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Америка/Белем"
+msgstr "Америка/Свети_Бартоломеј"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1252,7 +1253,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Атлантик/Фарска_острва"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Атлантик/Фарска_острва"
 
@@ -1311,7 +1311,7 @@ msgstr "Аустралија/Дарвин"
 #: timezones.h:322
 #, fuzzy
 msgid "Australia/Eucla"
-msgstr "Аустралија/Квинсленд"
+msgstr "Аустралија/Јукла"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
