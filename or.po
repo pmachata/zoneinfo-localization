@@ -1,22 +1,23 @@
-# translation of or.po to Oriya
+# translation of timezones.tip.or.po to Oriya
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Subhransu Behera <sbehera@redhat.com>, 2006.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2007.
+# saroj kumar padhy <saroz.kumar@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: or\n"
+"Project-Id-Version: timezones.tip.or\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-05-25 11:44+0530\n"
-"Last-Translator: Subhransu Behera <arya_subhransu@yahoo.co.in>\n"
+"PO-Revision-Date: 2008-04-22 12:26+0530\n"
+"Last-Translator: saroj kumar padhy <saroz.kumar@gmail.com>\n"
 "Language-Team: Oriya <oriya-group@lists.sarovar.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 "\n"
 "\n"
 "\n"
@@ -40,7 +41,6 @@ msgid "Africa/Algiers"
 msgstr "ଆଫ୍ରୀକା/ଅଲଜିୟର୍ସ"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
 msgstr "ଆଫ୍ରୀକା/ଅସମେରା"
 
@@ -525,9 +525,8 @@ msgid "America/Indianapolis"
 msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନାପୋଲିସ"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଭିଭେ"
+msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଟେଲ୍_ସିଟି"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -538,9 +537,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଭିନସେନ୍ସ"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ଭିନସେନ୍ସ"
+msgstr "ଆମେରିକା/ଇଣ୍ଡିୟାନା/ୱିନାମେକ୍"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -603,9 +601,8 @@ msgid "America/Manaus"
 msgstr "ଆମେରିକା/ମୈନାସ"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "ଆମେରିକା/ମୈସିୟୋ"
+msgstr "ଆମେରିକା/ମେରିଗଟ୍"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -736,9 +733,8 @@ msgid "America/Regina"
 msgstr "ଆମେରିକା/ରେଜୀନା"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "ଆମେରିକା/ବେଲେମ"
+msgstr "ଆମେରିକା/ରିଜୋଲ୍ଯୁଟ୍"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -769,9 +765,8 @@ msgid "America/Shiprock"
 msgstr "ଆମେରିକା/ଶିପରୋକ"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "ଆମେରିକା/ବେଲେମ"
+msgstr "ଆମେରିକା/ସେଇଣ୍ଟ୍_ବାର୍ଥେଲେମୀ"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1258,9 +1253,8 @@ msgid "Atlantic/Faeroe"
 msgstr "ଆଟଲାଣ୍ଟିକ/ଫୈରୋ"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "ଆଟଲାଣ୍ଟିକ/ଫୈରୋ"
+msgstr "ଆଟଲାଣ୍ଟିକ/ଫେରୋ"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1315,9 +1309,8 @@ msgid "Australia/Darwin"
 msgstr "ଅଷ୍ଟ୍ରେଲିୟା/ଡାରୱିନ"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "ଅଷ୍ଟ୍ରେଲିୟା/କୁଇନ୍ସଲ୍ଯାଣ୍ଡ"
+msgstr "ଅଷ୍ଟ୍ରେଲିୟା/ଇଉକ୍ଲା"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2270,3 +2263,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "ଜୁଲୁ"
+
