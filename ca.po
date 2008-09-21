@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-05-06 17:41+0100\n"
+"PO-Revision-Date: 2008-09-21 17:41+0100\n"
 "Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
@@ -45,9 +45,8 @@ msgid "Africa/Algiers"
 msgstr "Àfrica/Algiers"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Àfrica/Asmera"
+msgstr "Àfrica/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -530,9 +529,8 @@ msgid "America/Indianapolis"
 msgstr "Amèrica/Indianàpolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amèrica/Indiana/Vevay"
+msgstr "Amèrica/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -543,9 +541,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Amèrica/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Amèrica/Indiana/Vincennes"
+msgstr "Amèrica/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -608,9 +605,8 @@ msgid "America/Manaus"
 msgstr "Amèrica/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amèrica/Maceio"
+msgstr "Amèrica/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -741,9 +737,8 @@ msgid "America/Regina"
 msgstr "Amèrica/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amèrica/Belem"
+msgstr "Amèrica/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -774,9 +769,8 @@ msgid "America/Shiprock"
 msgstr "Amèrica/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amèrica/Belem"
+msgstr "Amèrica/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1263,9 +1257,8 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlàntic/Faeroe"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "Atlàntic/Faeroe"
+msgstr "Atlàntic/Faroe"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1320,9 +1313,8 @@ msgid "Australia/Darwin"
 msgstr "Austràlia/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Austràlia/Queensland"
+msgstr "Austràlia/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
