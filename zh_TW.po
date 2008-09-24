@@ -1,23 +1,23 @@
-# translation of zh_TW.po to Chinese, Traditional
-# translation of zh_TW.po to Chinese Traditional
+# translation of timezones.tip.po to Traditional Chinese
 # Translation of zh_TW.po to Chinese (traditional)
 # This file is distributed under the same license as the timezones package.
 # Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
+#
 # Ben Wu <hpwu@redhat.com>, 2002.
 # Chester Cheng <ccheng@redhat.com>, 2006.
-#
+# Terry Chuang <tchuang@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: zh_TW\n"
+"Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-11-26 19:44+1000\n"
-"Last-Translator: Chester Cheng <ccheng@redhat.com>\n"
-"Language-Team: Chinese, Traditional <zh_TW@li.org>\n"
+"PO-Revision-Date: 2008-09-24 13:41+1000\n"
+"Last-Translator: Terry Chuang <tchuang@redhat.com>\n"
+"Language-Team: Traditional Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -36,9 +36,8 @@ msgid "Africa/Algiers"
 msgstr "非洲/阿爾及爾"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "非洲/阿斯馬拉"
+msgstr "非洲/阿斯瑪拉"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -521,9 +520,8 @@ msgid "America/Indianapolis"
 msgstr "美洲/印第安那"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "美洲/印第安那州/Vevay"
+msgstr "美洲/印第安那州/泰爾城"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -534,9 +532,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "美洲/印第安那州/溫森斯"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "美洲/印第安那州/溫森斯"
+msgstr "美洲/印第安那州/威納馬克"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -599,9 +596,8 @@ msgid "America/Manaus"
 msgstr "美洲/瑪瑙斯"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "美洲/Maceio"
+msgstr "美洲/聖馬丁行政區首都"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -732,9 +728,8 @@ msgid "America/Regina"
 msgstr "美洲/芮吉娜"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "美洲/貝倫"
+msgstr "美洲/雷索盧特"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -765,9 +760,8 @@ msgid "America/Shiprock"
 msgstr "美洲/艦石城"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "美洲/貝倫"
+msgstr "美洲/聖巴托洛繆島"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1254,7 +1248,6 @@ msgid "Atlantic/Faeroe"
 msgstr "大西洋/法羅群島"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "大西洋/法羅群島"
 
@@ -1311,9 +1304,8 @@ msgid "Australia/Darwin"
 msgstr "澳洲/達爾文"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "澳洲/昆士蘭"
+msgstr "澳洲/尤克拉"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2012,7 +2004,6 @@ msgid "Pacific/Chatham"
 msgstr "太平洋/卡森"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "太平洋/復活島"
 
@@ -2267,3 +2258,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "祖魯"
+
