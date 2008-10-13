@@ -1,18 +1,19 @@
 # Swedish messages for timezones.
-# Copyright (C) 2004, 2006 Free Software Foundation, Inc.
+# Copyright © 2004, 2006, 2008 Free Software Foundation, Inc.
 # Christian Rose <menthos@menthos.com>, 2004, 2005, 2006
 # Magnus Larsson <fedoratrans@gmail.com>, 2007.
+# Göran Uddeborg <goeran@uddeborg.se>, 2008.
 #
-# $Id: sv.po,v 1.13 2007/05/05 04:24:40 raada Exp $
+# $Id: timezones.po,v 1.2 2008-10-13 22:56:35+02 göran Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-05-04 22:22-0400\n"
-"Last-Translator: Christian Rose <menthos@menthos.com>\n"
-"Language-Team: Swedish <sv@li.org>\n"
+"PO-Revision-Date: 2008-10-13 22:56+0200\n"
+"Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,9 +35,8 @@ msgid "Africa/Algiers"
 msgstr "Afrika/Alger"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afrika/Asmera"
+msgstr "Afrika/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -519,9 +519,8 @@ msgid "America/Indianapolis"
 msgstr "Amerika/Indianapolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -532,9 +531,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "America/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "America/Indiana/Vincennes"
+msgstr "America/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -597,9 +595,8 @@ msgid "America/Manaus"
 msgstr "Amerika/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amerika/Maceio"
+msgstr "America/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -730,9 +727,8 @@ msgid "America/Regina"
 msgstr "Amerika/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amerika/Belém"
+msgstr "America/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -763,9 +759,8 @@ msgid "America/Shiprock"
 msgstr "Amerika/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amerika/Belém"
+msgstr "America/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1252,7 +1247,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlanten/Färöarna"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlanten/Färöarna"
 
@@ -1309,9 +1303,8 @@ msgid "Australia/Darwin"
 msgstr "Australien/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Australien/Queensland"
+msgstr "Australia/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2264,60 +2257,3 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "Z-tid"
-
-#~ msgid "America/ComodRivadavia"
-#~ msgstr "America/ComodRivadavia"
-
-#~ msgid "America/La_Rioja"
-#~ msgstr "Amerika/La_Rioja"
-
-#~ msgid "America/Rio_Gallegos"
-#~ msgstr "Amerika/Rio_Gallegos"
-
-#~ msgid "America/San_Juan"
-#~ msgstr "Amerika/San_Juan"
-
-#~ msgid "America/Tucuman"
-#~ msgstr "America/Tucuman"
-
-#~ msgid "America/Ushuaia"
-#~ msgstr "Amerika/Ushuaia"
-
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
