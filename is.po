@@ -1,14 +1,17 @@
+# translation of system-config-date.master-timezones.po to icelandic
+# Sveinn í Felli <sveinki@nett.is>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones 1.22\n"
+"Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2006-12-08 01:30+0000\n"
-"Last-Translator: Richard Allen <ra@ra.is>\n"
-"Language-Team: is <kde-isl@mmedia.is>\n"
+"PO-Revision-Date: 2009-03-20 07:44+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: icelandic <kde-isl@molar.is>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -27,9 +30,8 @@ msgid "Africa/Algiers"
 msgstr "Afríka/Algiers"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afríka/Asmera"
+msgstr "Afríka/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -512,9 +514,8 @@ msgid "America/Indianapolis"
 msgstr "Ameríka/Indianapolis"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Ameríka/Indiana/Vevay"
+msgstr "Ameríka/Indiana/Tell_City"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
@@ -525,9 +526,8 @@ msgid "America/Indiana/Vincennes"
 msgstr "Ameríka/Indiana/Vincennes"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Ameríka/Indiana/Vincennes"
+msgstr "Ameríka/Indiana/Winamac"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -590,9 +590,8 @@ msgid "America/Manaus"
 msgstr "Ameríka/Manaus"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Ameríka/Maceio"
+msgstr "Ameríka/Marigot"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -723,9 +722,8 @@ msgid "America/Regina"
 msgstr "Ameríka/Regina"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Ameríka/Belem"
+msgstr "Ameríka/Resolute"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -756,9 +754,8 @@ msgid "America/Shiprock"
 msgstr "Ameríka/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Ameríka/Belem"
+msgstr "Ameríka/St_Barthelemy"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1245,9 +1242,8 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlandshafið/Faeroe"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "Atlandshafið/Faeroe"
+msgstr "Atlantshaf/Færeyjar"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1302,9 +1298,8 @@ msgid "Australia/Darwin"
 msgstr "Ástralía/Darwin"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Ástralía/Queensland"
+msgstr "Ástralía/Eucla"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -2257,3 +2252,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "Zúlu"
+
