@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2008-04-10 00:17-0000\n"
+"PO-Revision-Date: 2008-04-03 07:57+0100\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -761,11 +761,9 @@ msgstr "Amerika/Skorzbisund"
 msgid "America/Shiprock"
 msgstr "Amerika/Šiprok"
 
-# Sv_Vartolomej? Sv_Barts? Sent_Barts? Sv_Bartelemi?
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amerika/Sent_Bartelemi"
+msgstr "Amerika/Sv_Bartolomej"
 
 #: timezones.h:187
 msgid "America/St_Johns"
