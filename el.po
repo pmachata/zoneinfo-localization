@@ -12,14 +12,14 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2007-04-29 11:59+0100\n"
-"Last-Translator: Dimitris Glezos <dimitris@glezos.com>\n"
+"PO-Revision-Date: 2009-04-06 23:57+0200\n"
+"Last-Translator: thalia papoutsaki <saliyath@gmail.com>\n"
 "Language-Team: Greek <fedora-trans-el@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -38,7 +38,6 @@ msgid "Africa/Algiers"
 msgstr "Αφρική/Αλγέρι"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
 msgstr "Αφρική/Asmera"
 
@@ -523,7 +522,6 @@ msgid "America/Indianapolis"
 msgstr "Αμερική/Ιντιανάπολις"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
 msgstr "Αμερική/Ιντιάνα/Vevay"
 
@@ -767,9 +765,8 @@ msgid "America/Shiprock"
 msgstr "Αμερική/Shiprock"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Αμερική/Belem"
+msgstr "Αμερική/Άγιος Βαρθολομαιος (Σεν Μπαρτς)"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -1256,9 +1253,8 @@ msgid "Atlantic/Faeroe"
 msgstr "Ατλαντικός/Φερόες"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "Ατλαντικός/Φερόες"
+msgstr "Ατλαντικός/Φερόες Νήσοι"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -2268,3 +2264,4 @@ msgstr "W-SU"
 #: timezones.h:560
 msgid "Zulu"
 msgstr "Ζουλού"
+
