@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2008-11-15 12:46+0100\n"
-"Last-Translator: Rui Gouveia <rui.gouveia@globaltek.pt>\n"
+"PO-Revision-Date: 2009-04-08 00:52+0100\n"
+"Last-Translator: Ricardo Pinto <ricardo.bigote@gmail.com>\n"
 "Language-Team: pt <morais@poli.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -82,215 +82,215 @@ msgstr ""
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
-msgstr "Africa/Abidjan"
+msgstr "África/Abidjan"
 
 #: timezones.h:2
 msgid "Africa/Accra"
-msgstr "Africa/Accra"
+msgstr "África/Accra"
 
 #: timezones.h:3
 msgid "Africa/Addis_Ababa"
-msgstr "Africa/Addis_Ababa"
+msgstr "África/Addis_Ababa"
 
 #: timezones.h:4
 msgid "Africa/Algiers"
-msgstr "Africa/Algiers"
+msgstr "África/Algiers"
 
 #: timezones.h:5
 msgid "Africa/Asmara"
-msgstr "Africa/Asmara"
+msgstr "África/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
-msgstr "Africa/Asmera"
+msgstr "África/Asmera"
 
 #: timezones.h:7
 msgid "Africa/Bamako"
-msgstr "Africa/Bamako"
+msgstr "África/Bamako"
 
 #: timezones.h:8
 msgid "Africa/Bangui"
-msgstr "Africa/Bangui"
+msgstr "África/Bangui"
 
 #: timezones.h:9
 msgid "Africa/Banjul"
-msgstr "Africa/Banjul"
+msgstr "África/Banjul"
 
 #: timezones.h:10
 msgid "Africa/Bissau"
-msgstr "Africa/Bissau"
+msgstr "África/Bissau"
 
 #: timezones.h:11
 msgid "Africa/Blantyre"
-msgstr "Africa/Blantyre"
+msgstr "África/Blantyre"
 
 #: timezones.h:12
 msgid "Africa/Brazzaville"
-msgstr "Africa/Brazzaville"
+msgstr "África/Brazzaville"
 
 #: timezones.h:13
 msgid "Africa/Bujumbura"
-msgstr "Africa/Bujumbura"
+msgstr "África/Bujumbura"
 
 #: timezones.h:14
 msgid "Africa/Cairo"
-msgstr "Africa/Cairo"
+msgstr "África/Cairo"
 
 #: timezones.h:15
 msgid "Africa/Casablanca"
-msgstr "Africa/Casablanca"
+msgstr "África/Casablanca"
 
 #: timezones.h:16
 msgid "Africa/Ceuta"
-msgstr "Africa/Ceuta"
+msgstr "África/Ceuta"
 
 #: timezones.h:17
 msgid "Africa/Conakry"
-msgstr "Africa/Conakry"
+msgstr "África/Conakry"
 
 #: timezones.h:18
 msgid "Africa/Dakar"
-msgstr "Africa/Dakar"
+msgstr "África/Dakar"
 
 #: timezones.h:19
 msgid "Africa/Dar_es_Salaam"
-msgstr "Africa/Dar_es_Salaam"
+msgstr "África/Dar_es_Salaam"
 
 #: timezones.h:20
 msgid "Africa/Djibouti"
-msgstr "Africa/Djibouti"
+msgstr "África/Djibouti"
 
 #: timezones.h:21
 msgid "Africa/Douala"
-msgstr "Africa/Douala"
+msgstr "África/Douala"
 
 #: timezones.h:22
 msgid "Africa/El_Aaiun"
-msgstr "Africa/El_Aaiun"
+msgstr "África/El_Aaiun"
 
 #: timezones.h:23
 msgid "Africa/Freetown"
-msgstr "Africa/Freetown"
+msgstr "África/Freetown"
 
 #: timezones.h:24
 msgid "Africa/Gaborone"
-msgstr "Africa/Gaborone"
+msgstr "África/Gaborone"
 
 #: timezones.h:25
 msgid "Africa/Harare"
-msgstr "Africa/Harare"
+msgstr "África/Harare"
 
 #: timezones.h:26
 msgid "Africa/Johannesburg"
-msgstr "Africa/Johannesburg"
+msgstr "África/Johannesburg"
 
 #: timezones.h:27
 msgid "Africa/Kampala"
-msgstr "Africa/Kampala"
+msgstr "África/Kampala"
 
 #: timezones.h:28
 msgid "Africa/Khartoum"
-msgstr "Africa/Khartoum"
+msgstr "África/Khartoum"
 
 #: timezones.h:29
 msgid "Africa/Kigali"
-msgstr "Africa/Kigali"
+msgstr "África/Kigali"
 
 #: timezones.h:30
 msgid "Africa/Kinshasa"
-msgstr "Africa/Kinshasa"
+msgstr "África/Kinshasa"
 
 #: timezones.h:31
 msgid "Africa/Lagos"
-msgstr "Africa/Lagos"
+msgstr "África/Lagos"
 
 #: timezones.h:32
 msgid "Africa/Libreville"
-msgstr "Africa/Libreville"
+msgstr "África/Libreville"
 
 #: timezones.h:33
 msgid "Africa/Lome"
-msgstr "Africa/Lome"
+msgstr "África/Lome"
 
 #: timezones.h:34
 msgid "Africa/Luanda"
-msgstr "Africa/Luanda"
+msgstr "África/Luanda"
 
 #: timezones.h:35
 msgid "Africa/Lubumbashi"
-msgstr "Africa/Lubumbashi"
+msgstr "África/Lubumbashi"
 
 #: timezones.h:36
 msgid "Africa/Lusaka"
-msgstr "Africa/Lusaka"
+msgstr "África/Lusaka"
 
 #: timezones.h:37
 msgid "Africa/Malabo"
-msgstr "Africa/Malabo"
+msgstr "África/Malabo"
 
 #: timezones.h:38
 msgid "Africa/Maputo"
-msgstr "Africa/Maputo"
+msgstr "África/Maputo"
 
 #: timezones.h:39
 msgid "Africa/Maseru"
-msgstr "Africa/Maseru"
+msgstr "África/Maseru"
 
 #: timezones.h:40
 msgid "Africa/Mbabane"
-msgstr "Africa/Mbabane"
+msgstr "África/Mbabane"
 
 #: timezones.h:41
 msgid "Africa/Mogadishu"
-msgstr "Africa/Mogadishu"
+msgstr "África/Mogadishu"
 
 #: timezones.h:42
 msgid "Africa/Monrovia"
-msgstr "Africa/Monrovia"
+msgstr "África/Monrovia"
 
 #: timezones.h:43
 msgid "Africa/Nairobi"
-msgstr "Africa/Nairobi"
+msgstr "África/Nairobi"
 
 #: timezones.h:44
 msgid "Africa/Ndjamena"
-msgstr "Africa/Ndjamena"
+msgstr "África/Ndjamena"
 
 #: timezones.h:45
 msgid "Africa/Niamey"
-msgstr "Africa/Niamey"
+msgstr "África/Niamey"
 
 #: timezones.h:46
 msgid "Africa/Nouakchott"
-msgstr "Africa/Nouakchott"
+msgstr "África/Nouakchott"
 
 #: timezones.h:47
 msgid "Africa/Ouagadougou"
-msgstr "Africa/Ouagadougou"
+msgstr "África/Ouagadougou"
 
 #: timezones.h:48
 msgid "Africa/Porto-Novo"
-msgstr "Africa/Porto-Novo"
+msgstr "África/Porto-Novo"
 
 #: timezones.h:49
 msgid "Africa/Sao_Tome"
-msgstr "Africa/Sao_Tome"
+msgstr "África/Sao_Tome"
 
 #: timezones.h:50
 msgid "Africa/Timbuktu"
-msgstr "Africa/Timbuktu"
+msgstr "África/Timbuktu"
 
 #: timezones.h:51
 msgid "Africa/Tripoli"
-msgstr "Africa/Tripoli"
+msgstr "África/Tripoli"
 
 #: timezones.h:52
 msgid "Africa/Tunis"
-msgstr "Africa/Tunis"
+msgstr "África/Tunis"
 
 #: timezones.h:53
 msgid "Africa/Windhoek"
-msgstr "Africa/Windhoek"
+msgstr "África/Windhoek"
 
 #: timezones.h:54
 msgid "America/Adak"
@@ -326,7 +326,7 @@ msgstr "América/Argentina/ComodRivadavia"
 
 #: timezones.h:62
 msgid "America/Argentina/Cordoba"
-msgstr "America/Argentina/Córdova"
+msgstr "América/Argentina/Córdova"
 
 #: timezones.h:63
 msgid "America/Argentina/Jujuy"
@@ -494,7 +494,7 @@ msgstr "América/Edmonton"
 
 #: timezones.h:104
 msgid "America/Eirunepe"
-msgstr "America/Eirunepe"
+msgstr "América/Eirunepe"
 
 #: timezones.h:105
 msgid "America/El_Salvador"
@@ -782,7 +782,7 @@ msgstr "América/Rankin_Inlet"
 
 #: timezones.h:176
 msgid "America/Recife"
-msgstr "America/Recife"
+msgstr "América/Recife"
 
 #: timezones.h:177
 msgid "America/Regina"
@@ -1030,7 +1030,7 @@ msgstr "Ásia/Damascus"
 
 #: timezones.h:238
 msgid "Asia/Dhaka"
-msgstr "Asia/Dhaka"
+msgstr "Ásia/Dhaka"
 
 #: timezones.h:239
 msgid "Asia/Dili"
@@ -1938,47 +1938,47 @@ msgstr "Islândia"
 
 #: timezones.h:465
 msgid "Indian/Antananarivo"
-msgstr "India/Antananarivo"
+msgstr "Índia/Antananarivo"
 
 #: timezones.h:466
 msgid "Indian/Chagos"
-msgstr "India/Chagos"
+msgstr "Índia/Chagos"
 
 #: timezones.h:467
 msgid "Indian/Christmas"
-msgstr "India/Christmas"
+msgstr "Índia/Christmas"
 
 #: timezones.h:468
 msgid "Indian/Cocos"
-msgstr "India/Cocos"
+msgstr "Índia/Cocos"
 
 #: timezones.h:469
 msgid "Indian/Comoro"
-msgstr "India/Comoro"
+msgstr "Índia/Comoro"
 
 #: timezones.h:470
 msgid "Indian/Kerguelen"
-msgstr "India/Kerguelen"
+msgstr "Índia/Kerguelen"
 
 #: timezones.h:471
 msgid "Indian/Mahe"
-msgstr "India/Mahe"
+msgstr "Índia/Mahe"
 
 #: timezones.h:472
 msgid "Indian/Maldives"
-msgstr "India/Maldives"
+msgstr "Índia/Maldives"
 
 #: timezones.h:473
 msgid "Indian/Mauritius"
-msgstr "India/Mauritius"
+msgstr "Índia/Mauritius"
 
 #: timezones.h:474
 msgid "Indian/Mayotte"
-msgstr "India/Mayotte"
+msgstr "Índia/Mayotte"
 
 #: timezones.h:475
 msgid "Indian/Reunion"
-msgstr "India/Reunion"
+msgstr "Índia/Reunion"
 
 #: timezones.h:476
 msgid "Iran"
@@ -2002,7 +2002,7 @@ msgstr "Kwajalein"
 
 #: timezones.h:481
 msgid "Libya"
-msgstr "Libia"
+msgstr "Líbia"
 
 #: timezones.h:482
 msgid "MET"
