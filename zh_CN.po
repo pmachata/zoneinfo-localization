@@ -9,6 +9,7 @@
 # Leah Liu <lliu@redhat.com>, 2008.
 # Leah Liu <lliu@redhat.com>, 2009.
 # Tian Shixiong <tiansworld@gmail.com>, 2009.
+# Gong Han <Gong@fedoraproject.org>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -1137,83 +1138,87 @@ msgstr "亚洲/仰光"
 
 #: timezones.h:276
 msgid "Asia/Riyadh"
-msgstr ""
+msgstr "亚洲/利雅得"
 
 #: timezones.h:277
 msgid "Asia/Riyadh87"
-msgstr ""
+msgstr "亚洲/利雅得87"
 
 #: timezones.h:278
 msgid "Asia/Riyadh88"
-msgstr ""
+msgstr "亚洲/利雅得88"
 
 #: timezones.h:279
 msgid "Asia/Riyadh89"
-msgstr ""
+msgstr "亚洲/利雅得89"
 
 #: timezones.h:280
 msgid "Asia/Saigon"
-msgstr ""
+msgstr "亚洲/西贡"
 
 #: timezones.h:281
 msgid "Asia/Sakhalin"
-msgstr ""
+msgstr "亚洲/萨哈林"
 
 #: timezones.h:282
 msgid "Asia/Samarkand"
-msgstr ""
+msgstr "亚洲/撒马尔罕"
 
 #: timezones.h:283
 msgid "Asia/Seoul"
-msgstr ""
+msgstr "亚洲/汉城"
 
 #: timezones.h:284
 msgid "Asia/Shanghai"
-msgstr ""
+msgstr "亚洲/上海"
 
 #: timezones.h:285
 msgid "Asia/Singapore"
-msgstr ""
+msgstr "亚洲/新加坡"
 
 #: timezones.h:286
 msgid "Asia/Taipei"
-msgstr ""
+msgstr "亚洲/台北"
 
 #: timezones.h:287
 msgid "Asia/Tashkent"
-msgstr ""
+msgstr "亚洲/塔什干"
 
 #: timezones.h:288
 msgid "Asia/Tbilisi"
-msgstr ""
+msgstr "亚洲/第比利斯"
 
 #: timezones.h:289
 msgid "Asia/Tehran"
-msgstr ""
+msgstr "亚洲/德黑兰"
 
+#, fuzzy
 #: timezones.h:290
 msgid "Asia/Tel_Aviv"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:291
 msgid "Asia/Thimbu"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:292
 msgid "Asia/Thimphu"
 msgstr ""
 
 #: timezones.h:293
 msgid "Asia/Tokyo"
-msgstr ""
+msgstr "亚洲/东京"
 
+#, fuzzy
 #: timezones.h:294
 msgid "Asia/Ujung_Pandang"
 msgstr ""
 
 #: timezones.h:295
 msgid "Asia/Ulaanbaatar"
-msgstr ""
+msgstr "亚洲/乌兰巴托"
 
 #: timezones.h:296
 msgid "Asia/Ulan_Bator"
@@ -1221,231 +1226,249 @@ msgstr ""
 
 #: timezones.h:297
 msgid "Asia/Urumqi"
-msgstr ""
+msgstr "亚洲/乌鲁木齐"
 
 #: timezones.h:298
 msgid "Asia/Vientiane"
-msgstr ""
+msgstr "亚洲/万象"
 
 #: timezones.h:299
 msgid "Asia/Vladivostok"
-msgstr ""
+msgstr "亚洲/符拉迪沃斯托克"
 
 #: timezones.h:300
 msgid "Asia/Yakutsk"
-msgstr ""
+msgstr "亚洲/雅库茨克"
 
 #: timezones.h:301
 msgid "Asia/Yekaterinburg"
-msgstr ""
+msgstr "亚洲/叶卡捷琳堡"
 
 #: timezones.h:302
 msgid "Asia/Yerevan"
-msgstr ""
+msgstr "亚洲/埃里温"
 
 #: timezones.h:303
 msgid "Atlantic/Azores"
-msgstr ""
+msgstr "大西洋/亚速尔群岛"
 
 #: timezones.h:304
 msgid "Atlantic/Bermuda"
-msgstr ""
+msgstr "大西洋/百慕大"
 
 #: timezones.h:305
 msgid "Atlantic/Canary"
-msgstr ""
+msgstr "大西洋/加那利"
 
+#, fuzzy
 #: timezones.h:306
 msgid "Atlantic/Cape_Verde"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:307
 msgid "Atlantic/Faeroe"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:308
 msgid "Atlantic/Faroe"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
 msgstr ""
 
 #: timezones.h:310
 msgid "Atlantic/Madeira"
-msgstr ""
+msgstr "大西洋/马德拉"
 
 #: timezones.h:311
 msgid "Atlantic/Reykjavik"
-msgstr ""
+msgstr "大西洋/雷克雅未克"
 
+#, fuzzy
 #: timezones.h:312
 msgid "Atlantic/South_Georgia"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:313
 msgid "Atlantic/Stanley"
 msgstr ""
+
+#, fuzzy
 
 #: timezones.h:314
 msgid "Atlantic/St_Helena"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:315
 msgid "Australia/ACT"
 msgstr ""
 
 #: timezones.h:316
 msgid "Australia/Adelaide"
-msgstr ""
+msgstr "澳大利亚/阿德莱德"
 
 #: timezones.h:317
 msgid "Australia/Brisbane"
-msgstr ""
+msgstr "澳大利亚/布里斯班"
 
+#, fuzzy
 #: timezones.h:318
 msgid "Australia/Broken_Hill"
 msgstr ""
 
 #: timezones.h:319
 msgid "Australia/Canberra"
-msgstr ""
+msgstr "澳大利亚/堪培拉"
 
 #: timezones.h:320
 msgid "Australia/Currie"
-msgstr ""
+msgstr "澳大利亚/柯里"
 
 #: timezones.h:321
 msgid "Australia/Darwin"
-msgstr ""
+msgstr "澳大利亚/达尔文"
 
+#, fuzzy
 #: timezones.h:322
 msgid "Australia/Eucla"
 msgstr ""
 
 #: timezones.h:323
 msgid "Australia/Hobart"
-msgstr ""
+msgstr "澳大利亚/霍巴特"
 
+#, fuzzy
 #: timezones.h:324
 msgid "Australia/LHI"
 msgstr ""
 
 #: timezones.h:325
 msgid "Australia/Lindeman"
-msgstr ""
+msgstr "澳大利亚/夫林曼"
 
+#, fuzzy
 #: timezones.h:326
 msgid "Australia/Lord_Howe"
 msgstr ""
 
 #: timezones.h:327
 msgid "Australia/Melbourne"
-msgstr ""
+msgstr "澳大利亚/墨尔本"
 
 #: timezones.h:328
 msgid "Australia/North"
-msgstr ""
+msgstr "澳大利亚/北部"
 
 #: timezones.h:329
 msgid "Australia/NSW"
-msgstr ""
+msgstr "澳大利亚/新南威尔士州"
 
 #: timezones.h:330
 msgid "Australia/Perth"
-msgstr ""
+msgstr "澳大利亚/珀斯"
 
 #: timezones.h:331
 msgid "Australia/Queensland"
-msgstr ""
+msgstr "澳大利亚/昆士兰州"
 
 #: timezones.h:332
 msgid "Australia/South"
-msgstr ""
+msgstr "澳大利亚/南部"
 
 #: timezones.h:333
 msgid "Australia/Sydney"
-msgstr ""
+msgstr "澳大利亚/悉尼"
 
 #: timezones.h:334
 msgid "Australia/Tasmania"
-msgstr ""
+msgstr "澳大利亚/塔斯马尼亚"
 
 #: timezones.h:335
 msgid "Australia/Victoria"
-msgstr ""
+msgstr "澳大利亚/维多利亚"
 
 #: timezones.h:336
 msgid "Australia/West"
-msgstr ""
+msgstr "澳大利亚/西部"
 
+#, fuzzy
 #: timezones.h:337
 msgid "Australia/Yancowinna"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:338
 msgid "Brazil/Acre"
 msgstr ""
 
+#, fuzzy
 #: timezones.h:339
 msgid "Brazil/DeNoronha"
 msgstr ""
 
 #: timezones.h:340
 msgid "Brazil/East"
-msgstr ""
+msgstr "巴西/东部"
 
 #: timezones.h:341
 msgid "Brazil/West"
-msgstr ""
+msgstr "巴西/西部"
 
 #: timezones.h:342
 msgid "Canada/Atlantic"
-msgstr ""
+msgstr "加拿大/大西洋"
 
 #: timezones.h:343
 msgid "Canada/Central"
-msgstr ""
+msgstr "加拿大/中部"
 
 #: timezones.h:344
 msgid "Canada/Eastern"
-msgstr ""
+msgstr "加拿大/东部"
 
 #: timezones.h:345
 msgid "Canada/East-Saskatchewan"
-msgstr ""
+msgstr "加拿大/东萨斯喀彻温"
 
+#, fuzzy
 #: timezones.h:346
 msgid "Canada/Mountain"
 msgstr ""
 
 #: timezones.h:347
 msgid "Canada/Newfoundland"
-msgstr ""
+msgstr "加拿大/纽芬兰"
 
 #: timezones.h:348
 msgid "Canada/Pacific"
-msgstr ""
+msgstr "加拿大/太平洋"
 
 #: timezones.h:349
 msgid "Canada/Saskatchewan"
-msgstr ""
+msgstr "加拿大/萨斯喀彻温"
 
 #: timezones.h:350
 msgid "Canada/Yukon"
-msgstr ""
+msgstr "加拿大/育空"
 
+#, fuzzy
 #: timezones.h:351
 msgid "CET"
 msgstr ""
 
 #: timezones.h:352
 msgid "Chile/Continental"
-msgstr ""
+msgstr "智利/大陆"
 
 #: timezones.h:353
 msgid "Chile/EasterIsland"
-msgstr ""
+msgstr "智利/东岛"
 
 #: timezones.h:354
 msgid "CST6CDT"
@@ -1617,348 +1640,355 @@ msgstr ""
 
 #: timezones.h:396
 msgid "Europe/Amsterdam"
-msgstr ""
+msgstr "欧洲/阿姆斯特丹"
 
 #: timezones.h:397
 msgid "Europe/Andorra"
-msgstr ""
+msgstr "欧洲/安道尔"
 
 #: timezones.h:398
 msgid "Europe/Athens"
-msgstr ""
+msgstr "欧洲/雅典"
 
 #: timezones.h:399
 msgid "Europe/Belfast"
-msgstr ""
+msgstr "欧洲/贝尔法斯特"
 
 #: timezones.h:400
 msgid "Europe/Belgrade"
-msgstr ""
+msgstr "欧洲/贝尔格莱德"
 
 #: timezones.h:401
 msgid "Europe/Berlin"
-msgstr ""
+msgstr "欧洲/柏林"
 
 #: timezones.h:402
 msgid "Europe/Bratislava"
-msgstr ""
+msgstr "欧洲/布拉迪斯拉发"
 
 #: timezones.h:403
 msgid "Europe/Brussels"
-msgstr ""
+msgstr "欧洲/布鲁塞尔"
 
 #: timezones.h:404
 msgid "Europe/Bucharest"
-msgstr ""
+msgstr "欧洲/布加勒斯特"
 
 #: timezones.h:405
 msgid "Europe/Budapest"
-msgstr ""
+msgstr "欧洲/布达佩斯"
 
 #: timezones.h:406
 msgid "Europe/Chisinau"
-msgstr ""
+msgstr "欧洲/基希讷乌"
 
 #: timezones.h:407
 msgid "Europe/Copenhagen"
-msgstr ""
+msgstr "欧洲/哥本哈根"
 
 #: timezones.h:408
 msgid "Europe/Dublin"
-msgstr ""
+msgstr "欧洲/都柏林"
 
 #: timezones.h:409
 msgid "Europe/Gibraltar"
-msgstr ""
+msgstr "欧洲/直布罗陀"
 
 #: timezones.h:410
 msgid "Europe/Guernsey"
-msgstr ""
+msgstr "欧洲/格恩西岛"
 
 #: timezones.h:411
 msgid "Europe/Helsinki"
-msgstr ""
+msgstr "欧洲/赫尔辛基"
 
+#, fuzzy
 #: timezones.h:412
 msgid "Europe/Isle_of_Man"
 msgstr ""
 
 #: timezones.h:413
 msgid "Europe/Istanbul"
-msgstr ""
+msgstr "欧洲/伊斯坦布尔"
 
 #: timezones.h:414
 msgid "Europe/Jersey"
-msgstr ""
+msgstr "欧洲/新泽西州"
 
 #: timezones.h:415
 msgid "Europe/Kaliningrad"
-msgstr ""
+msgstr "欧洲/加里宁格勒"
 
 #: timezones.h:416
 msgid "Europe/Kiev"
-msgstr ""
+msgstr "欧洲/基辅"
 
 #: timezones.h:417
 msgid "Europe/Lisbon"
-msgstr ""
+msgstr "欧洲/里斯本"
 
 #: timezones.h:418
 msgid "Europe/Ljubljana"
-msgstr ""
+msgstr "欧洲/卢布尔雅那"
 
 #: timezones.h:419
 msgid "Europe/London"
-msgstr ""
+msgstr "伦敦"
 
 #: timezones.h:420
 msgid "Europe/Luxembourg"
-msgstr ""
+msgstr "欧洲/卢森堡"
 
 #: timezones.h:421
 msgid "Europe/Madrid"
-msgstr ""
+msgstr "欧洲/马德里"
 
 #: timezones.h:422
 msgid "Europe/Malta"
-msgstr ""
+msgstr "欧洲/马耳他"
 
 #: timezones.h:423
 msgid "Europe/Mariehamn"
-msgstr ""
+msgstr "欧洲/玛丽港"
 
 #: timezones.h:424
 msgid "Europe/Minsk"
-msgstr ""
+msgstr "欧洲/明斯克"
 
 #: timezones.h:425
 msgid "Europe/Monaco"
-msgstr ""
+msgstr "欧洲/摩纳哥"
 
 #: timezones.h:426
 msgid "Europe/Moscow"
-msgstr ""
+msgstr "欧洲/莫斯科"
 
 #: timezones.h:427
 msgid "Europe/Nicosia"
-msgstr ""
+msgstr "欧洲/尼科西亚"
 
 #: timezones.h:428
 msgid "Europe/Oslo"
-msgstr ""
+msgstr "欧洲/奥斯陆"
 
 #: timezones.h:429
 msgid "Europe/Paris"
-msgstr ""
+msgstr "欧洲/巴黎"
 
 #: timezones.h:430
 msgid "Europe/Podgorica"
-msgstr ""
+msgstr "欧洲/波德戈里察"
 
 #: timezones.h:431
 msgid "Europe/Prague"
-msgstr ""
+msgstr "欧洲/布拉格"
 
 #: timezones.h:432
 msgid "Europe/Riga"
-msgstr ""
+msgstr "欧洲/里加"
 
 #: timezones.h:433
 msgid "Europe/Rome"
-msgstr ""
+msgstr "欧洲/罗马"
 
 #: timezones.h:434
 msgid "Europe/Samara"
-msgstr ""
+msgstr "欧洲/萨马拉"
 
+#, fuzzy
 #: timezones.h:435
 msgid "Europe/San_Marino"
 msgstr ""
 
 #: timezones.h:436
 msgid "Europe/Sarajevo"
-msgstr ""
+msgstr "欧洲/萨拉热窝"
 
 #: timezones.h:437
 msgid "Europe/Simferopol"
-msgstr ""
+msgstr "欧洲/辛菲罗波尔"
 
 #: timezones.h:438
 msgid "Europe/Skopje"
-msgstr ""
+msgstr "欧洲/斯科普里"
 
 #: timezones.h:439
 msgid "Europe/Sofia"
-msgstr ""
+msgstr "欧洲/索非亚"
 
 #: timezones.h:440
 msgid "Europe/Stockholm"
-msgstr ""
+msgstr "欧洲/斯德哥尔摩"
 
 #: timezones.h:441
 msgid "Europe/Tallinn"
-msgstr ""
+msgstr "欧洲/塔林"
 
 #: timezones.h:442
 msgid "Europe/Tirane"
-msgstr ""
+msgstr "欧洲/地拉那"
 
 #: timezones.h:443
 msgid "Europe/Tiraspol"
-msgstr ""
+msgstr "欧洲/蒂拉斯波"
 
+#, fuzzy
 #: timezones.h:444
 msgid "Europe/Uzhgorod"
 msgstr ""
 
 #: timezones.h:445
 msgid "Europe/Vaduz"
-msgstr ""
+msgstr "欧洲/瓦杜兹"
 
 #: timezones.h:446
 msgid "Europe/Vatican"
-msgstr ""
+msgstr "欧洲/梵蒂冈"
 
 #: timezones.h:447
 msgid "Europe/Vienna"
-msgstr ""
+msgstr "欧洲/维也纳"
 
 #: timezones.h:448
 msgid "Europe/Vilnius"
-msgstr ""
+msgstr "欧洲/维尔纽斯"
 
 #: timezones.h:449
 msgid "Europe/Volgograd"
-msgstr ""
+msgstr "欧洲/伏尔加格勒"
 
 #: timezones.h:450
 msgid "Europe/Warsaw"
-msgstr ""
+msgstr "欧洲/华沙"
 
 #: timezones.h:451
 msgid "Europe/Zagreb"
-msgstr ""
+msgstr "欧洲/萨格勒布"
 
 #: timezones.h:452
 msgid "Europe/Zaporozhye"
-msgstr ""
+msgstr "欧洲/扎波罗热"
 
 #: timezones.h:453
 msgid "Europe/Zurich"
-msgstr ""
+msgstr "欧洲/苏黎世"
 
+#, fuzzy
 #: timezones.h:454
 msgid "Factory"
 msgstr ""
 
 #: timezones.h:455
 msgid "GB"
-msgstr ""
+msgstr "英国"
 
 #: timezones.h:456
 msgid "GB-Eire"
-msgstr ""
+msgstr "英国-爱尔兰"
 
 #: timezones.h:457
 msgid "GMT"
-msgstr ""
+msgstr "格林尼治标准时间"
 
 #: timezones.h:458
 msgid "GMT0"
-msgstr ""
+msgstr "格林尼治标准时间0"
 
 #: timezones.h:459
 msgid "GMT-0"
-msgstr ""
+msgstr "格林尼治标准时间-0"
 
 #: timezones.h:460
 msgid "GMT+0"
-msgstr ""
+msgstr "格林尼治标准时间+0"
 
 #: timezones.h:461
 msgid "Greenwich"
-msgstr ""
+msgstr "格林威治"
 
 #: timezones.h:462
 msgid "Hongkong"
-msgstr ""
+msgstr "香港"
 
+#, fuzzy
 #: timezones.h:463
 msgid "HST"
 msgstr ""
 
 #: timezones.h:464
 msgid "Iceland"
-msgstr ""
+msgstr "冰岛"
 
 #: timezones.h:465
 msgid "Indian/Antananarivo"
-msgstr ""
+msgstr "印度/塔那那利佛"
 
 #: timezones.h:466
 msgid "Indian/Chagos"
-msgstr ""
+msgstr "印度/戈斯"
 
+#, fuzzy
 #: timezones.h:467
 msgid "Indian/Christmas"
 msgstr ""
 
 #: timezones.h:468
 msgid "Indian/Cocos"
-msgstr ""
+msgstr "印度/科科斯"
 
 #: timezones.h:469
 msgid "Indian/Comoro"
-msgstr ""
+msgstr "印度/科摩罗"
 
 #: timezones.h:470
 msgid "Indian/Kerguelen"
-msgstr ""
+msgstr "印度/克尔格伦"
 
 #: timezones.h:471
 msgid "Indian/Mahe"
-msgstr ""
+msgstr "印度/马埃"
 
 #: timezones.h:472
 msgid "Indian/Maldives"
-msgstr ""
+msgstr "印度/马尔代夫"
 
 #: timezones.h:473
 msgid "Indian/Mauritius"
-msgstr ""
+msgstr "印度/毛里求斯"
 
 #: timezones.h:474
 msgid "Indian/Mayotte"
-msgstr ""
+msgstr "印度/马约特岛"
 
 #: timezones.h:475
 msgid "Indian/Reunion"
-msgstr ""
+msgstr "印度/留尼汪"
 
 #: timezones.h:476
 msgid "Iran"
-msgstr ""
+msgstr "伊朗"
 
 #: timezones.h:477
 msgid "Israel"
-msgstr ""
+msgstr "以色列"
 
 #: timezones.h:478
 msgid "Jamaica"
-msgstr ""
+msgstr "牙买加"
 
 #: timezones.h:479
 msgid "Japan"
-msgstr ""
+msgstr "日本"
 
 #: timezones.h:480
 msgid "Kwajalein"
-msgstr ""
+msgstr "夸贾林"
 
 #: timezones.h:481
 msgid "Libya"
-msgstr ""
+msgstr "利比亚"
 
+#, fuzzy
 #: timezones.h:482
 msgid "MET"
 msgstr ""
