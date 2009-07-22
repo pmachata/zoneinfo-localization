@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: system-config-date.master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2009-07-21 20:32+0800\n"
+"PO-Revision-Date: 2009-07-22 11:19+0800\n"
 "Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -308,6 +308,7 @@ msgid "America/Asuncion"
 msgstr "美洲/亚松森"
 
 #: timezones.h:72
+#, fuzzy
 msgid "America/Atikokan"
 msgstr "美洲/Atikokan"
 
@@ -525,6 +526,7 @@ msgid "America/Indianapolis"
 msgstr "美洲/印第安纳波利斯"
 
 #: timezones.h:126
+#, fuzzy
 msgid "America/Indiana/Tell_City"
 msgstr "美洲/印第安纳/Tell_City"
 
@@ -569,6 +571,7 @@ msgid "America/Kentucky/Monticello"
 msgstr "美洲/肯塔基/蒙蒂塞洛"
 
 #: timezones.h:137
+#, fuzzy
 msgid "America/Knox_IN"
 msgstr "美洲/Knox_IN"
 
@@ -802,7 +805,7 @@ msgstr "美洲/图勒"
 
 #: timezones.h:195
 msgid "America/Thunder_Bay"
-msgstr "美洲/桑德贝"
+msgstr "美洲/桑德湾"
 
 #: timezones.h:196
 msgid "America/Tijuana"
@@ -849,6 +852,7 @@ msgid "Antarctica/Davis"
 msgstr "南极洲/戴维斯"
 
 #: timezones.h:207
+#, fuzzy
 msgid "Antarctica/DumontDUrville"
 msgstr "南极洲/DumontDUrville"
 
@@ -1318,6 +1322,7 @@ msgid "Australia/Hobart"
 msgstr "澳大利亚/霍巴特"
 
 #: timezones.h:324
+#, fuzzy
 msgid "Australia/LHI"
 msgstr "澳大利亚/LHI"
 
@@ -1370,6 +1375,7 @@ msgid "Australia/West"
 msgstr "澳大利亚/西部"
 
 #: timezones.h:337
+#, fuzzy
 msgid "Australia/Yancowinna"
 msgstr "澳大利亚/Yancowinna"
 
@@ -1466,6 +1472,7 @@ msgid "EST5EDT"
 msgstr ""
 
 #: timezones.h:361
+#, fuzzy
 msgid "Etc/GMT"
 msgstr "Etc/格林威治标准时间"
 
@@ -1586,6 +1593,7 @@ msgid "Etc/GMT+9"
 msgstr ""
 
 #: timezones.h:391
+#, fuzzy
 msgid "Etc/Greenwich"
 msgstr "Etc/格林威治"
 
@@ -1954,14 +1962,17 @@ msgid "MET"
 msgstr ""
 
 #: timezones.h:483
+#, fuzzy
 msgid "Mexico/BajaNorte"
 msgstr "墨西哥/BajaNorte"
 
 #: timezones.h:484
+#, fuzzy
 msgid "Mexico/BajaSur"
 msgstr "墨西哥/BajaSur"
 
 #: timezones.h:485
+#, fuzzy
 msgid "Mexico/General"
 msgstr "墨西哥/General"
 
@@ -2146,6 +2157,7 @@ msgid "Pacific/Truk"
 msgstr "太平洋/特鲁克"
 
 #: timezones.h:531
+#, fuzzy
 msgid "Pacific/Wake"
 msgstr "太平洋/Wake"
 
@@ -2174,10 +2186,12 @@ msgid "PST8PDT"
 msgstr ""
 
 #: timezones.h:538
+#, fuzzy
 msgid "ROC"
 msgstr "ROC"
 
 #: timezones.h:539
+#, fuzzy
 msgid "ROK"
 msgstr "ROK"
 
@@ -2194,6 +2208,7 @@ msgid "UCT"
 msgstr "通用调整时间"
 
 #: timezones.h:543
+#, fuzzy
 msgid "Universal"
 msgstr "Universal"
 
