@@ -1,691 +1,1980 @@
-# translation of smolt.master.po to Simplified Chinese
-# translation of zh-CN.po to
-# Chinese translations for translate_rhel package
-# translate_rhel 软件包的简体中文翻译.
-# Copyright (C) 2007 ORGANIZATION
+# translation of system-config-date.master-timezones.po to Simplified Chinese
+# translation of zh_CN.po to
+# Simplified Chinese Version of timezone.
+# Copyright (C) 2002 Red Hat, Inc.
 #
-# Xi HUANG <xhuang@dhcp-93.brisbane.redhat.com>, 2007.
-# Xi HUANG <xhuang@redhat.com>, 2007.
-# Leah Liu <lliu@redhat.com>, 2008, 2009.
+# Sarah Wang <sarahs@redhat.com>, 2003.
+# Xi Huang <xhuang@redhat.com>, 2006.
+# Leah Liu <lliu@redhat.com>, 2008.
+# Leah Liu <lliu@redhat.com>, 2009.
+# Tian Shixiong <tiansworld@gmail.com>, 2009.
+# Gong Han <Gong@fedoraproject.org>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: smolt.master\n"
+"Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-08 15:06+0200\n"
-"PO-Revision-Date: 2009-08-19 09:46+1000\n"
+"POT-Creation-Date: 2009-07-29 14:58+0200\n"
+"PO-Revision-Date: 2009-08-18 11:02+1000\n"
 "Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: deleteProfile.py:36 smolt.py:360
-#, python-format
-msgid "Server Message: \"%s\""
-msgstr "服务器信息：\"%s\""
-
-#: deleteProfile.py:46 sendProfile.py:48
-msgid "enable debug information"
-msgstr "启用调试信息"
-
-#: deleteProfile.py:51 sendProfile.py:58
-#, python-format
-msgid "specify the URL of the server (default \"%default\")"
-msgstr "指定服务器的 URL（缺省为 \"%default\"）"
-
-#: deleteProfile.py:56 sendProfile.py:73
-msgid "print information only, do not send"
-msgstr "只显示信息而不发送信息"
-
-#: deleteProfile.py:61 sendProfile.py:88
-#, python-format
-msgid "specify HTTP user agent (default \"%default\")"
-msgstr "指定 HTTP 用户代理（缺省为 \"%default\"）"
-
-#: deleteProfile.py:66 sendProfile.py:93
-#, python-format
-msgid "specify HTTP timeout in seconds (default %default seconds)"
-msgstr "指定 HTTP 的超时时间（缺省为 %default 秒）"
-
-#: deleteProfile.py:70 sendProfile.py:112
-msgid "specify which uuid to use, useful for debugging and testing mostly."
-msgstr "指定要使用的 uuid，多半用于调试及测试。"
-
-#: deleteProfile.py:89
-msgid "Error contacting Server:"
-msgstr "连接服务器错误："
-
-#: deleteProfile.py:97
-msgid "Profile removed, please verify at"
-msgstr "配置文件被删除，请验证"
-
-#: gui.py:35 sendProfile.py:177 smolt.py:655
-msgid "General"
-msgstr "常规"
-
-#: gui.py:37
-msgid "Distribution"
-msgstr "分布"
-
-#: gui.py:82
-msgid "Label"
-msgstr "标签"
-
-#: gui.py:83
-msgid "Data"
-msgstr "数据"
-
-#: gui.py:115
-msgid "Bus"
-msgstr "总线"
-
-#: gui.py:116
-msgid "Driver"
-msgstr "驱动"
-
-#: gui.py:117
-msgid "Type"
-msgstr "类型"
-
-#: gui.py:118
-msgid "Description"
-msgstr "描述"
-
-#: privacypolicy.py:3
-#, fuzzy, python-format
-msgid ""
-"<span></span>\n"
-"Smolt will only send hardware and basic operating system information to the\n"
-"Fedora smolt server (smoon).  The only tie from the database to a "
-"submitters\n"
-"machine is the UUID.  As long as the submitter does not give out this UUID\n"
-"the submission is anonymous.  If at any point in time a user wants to "
-"delete\n"
-"his/her profile from the database they need only run<br>\n"
-"<br>\n"
-"&nbsp;&nbsp;&nbsp;<tt>smoltDeleteProfile</tt><br>\n"
-"<br>\n"
-"The information sent to the smolt database server should be considered "
-"public\n"
-"in that anyone can view the statistics, data and share machine profiles.  "
-"In \n"
-"many ways smolt is designed to get hardware vendors and other 3rd parties'\n"
-"attention.  As such, not only will this information be shared with 3rd "
-"parties,\n"
-"we will be using smolt as leverage to gain better support for open source\n"
-"drivers and better support in general.<br>\n"
-"<br>\n"
-"IP Logging:  In Fedora's smolt install all web traffic goes through a proxy\n"
-"server first.  This is the only place IP addresses are being logged and "
-"they\n"
-"are kept on that server for a period of 4 weeks at which time log rotation\n"
-"removes these logs.  The Fedora Project does not aggregate IP addresses in\n"
-"the smolt database.  These logs are private and will not be available to "
-"the\n"
-"general public.<br>\n"
-"<br>\n"
-"Users unhappy with this policy should simply not use smolt.  Users with\n"
-"questions about this policy should contact the Fedora Infrastructure Team "
-"at\n"
-"<a href=\"mailto:%(mail)s\">%(mail)s</a>.  Also remember that users can "
-"delete their\n"
-"profiles at any time using<br>\n"
-"<br>\n"
-"&nbsp;&nbsp;&nbsp;<tt>smoltDeleteProfile</tt><br>\n"
-"<br>\n"
-"Thanks for participating and for your interest in our privacy policy.\n"
+#: ../src/date_gui.py:137
+msgid "Server"
 msgstr ""
-"Smolt 将只能将硬件和基本操作系统信息发送到\n"
-"Fedora smolt 服务器（smoon）。数据库与提交机器间的唯一纽带就是 UUID。\n"
-"只要提交者没有给出这个 UUID\n"
-"那么提交就是匿名的。如果任何时候某个用户想要从删除\n"
-"数据库中删除他们的侧写，他们只需要运行\n"
-"\n"
-"     smoltDeleteProfile\n"
-"\n"
-"发送到 smolt 数据库服务器的信息应被视为公共\n"
-"信息，因此任何人都可以查看状态、数据以及共享机器侧写。 smolt\n"
-"被设计为可使用很多方法引起硬件销售商以及第三方的重视，\n"
-"我们将利用 smolt 作为杠杆来获得对开源\n"
-"驱动程序的更好支持以及普遍意义上的更好支持。\n"
-"\n"
-"IP 日志：在 Fedora 的 smolt 中首先安装所有网页流量需要通过的代理服务器。\n"
-"这是唯一存放已登录 IP 地址的地方，\n"
-"而且这些地址会在那个服务器中保存四周，之后会被时间日志轮换删除。\n"
-"Fedora Project 不会在 smolt 数据库中收集 ip 地址。\n"
-"这些日志是专用的，且在一般公共信息中\n"
-"不可用。\n"
-"不喜欢这个策略的用户可以不使用 smolt。对这个策略\n"
-"有疑问的用户应该联络 Fedora 构架团队。\n"
-"网站 fedoraproject.org。还请记住：用户无法在使用 \"smoltDeleteProfile\" 时删"
-"除其\n"
-"侧写。\n"
 
-#: scan.py:41
-msgid "Current rating for vendor/model."
-msgstr "零售商/型号的目前等级"
-
-#: scan.py:45
-msgid "Unrated/Unknown"
-msgstr "未评级/未知"
-
-#: scan.py:46
-msgid "Non-working"
-msgstr "非工作"
-
-#: scan.py:47
-msgid "Partially-working"
-msgstr "部分工作"
-
-#: scan.py:48
-msgid "Requires 3rd party drivers"
-msgstr "需要第三方驱动程序"
-
-#: scan.py:49
-msgid "Works, needs additional configuration"
-msgstr "工作，需要额外配置"
-
-#: scan.py:50
-msgid "Works out of the box"
-msgstr "即刻使用"
-
-#: scan.py:58
-#, python-format
-msgid "Scanning %s for known errata.\n"
-msgstr "为未知勘误扫描 %s。\n"
-
-#: scan.py:88
-msgid "\tErrata Found!"
-msgstr "\t找到勘误！"
-
-#: scan.py:91
-msgid "\tNo errata found, if this machine is having issues please go to"
-msgstr "\t没有找到勘误，如果机器出现问题，请到"
-
-#: scan.py:92
-msgid "\tyour profile and create a wiki page for the device so others can"
-msgstr "\t您的侧写中并为该设备删除一个 wiki，以方便"
-
-#: scan.py:93
-msgid "\tbenefit"
-msgstr "\t好处"
-
-#: scan.py:101 smolt.py:1157
-msgid "Error:"
-msgstr "错误："
-
-#: scan.py:103 smolt.py:1159
-msgid "Hint:"
-msgstr "提示："
-
-#: sendProfile.py:53 smoltGui.py:327
-msgid "specify the location of the (only) config file to use"
-msgstr "指定（只有）config 文件使用的位置"
-
-#: sendProfile.py:63
-msgid "(optional) Fedora Account System registration"
-msgstr "（可选）Fedora 帐户系统注册"
-
-#: sendProfile.py:68
-msgid "password, will prompt if not specified"
-msgstr "密码，如未指定会提示"
-
-#: sendProfile.py:78
-msgid "don't prompt to send, just send"
-msgstr "直接发送而不要提示发送"
-
-#: sendProfile.py:83
-msgid "continue to send until success"
-msgstr "继续发送直至成功发送"
-
-#: sendProfile.py:98
-msgid ""
-"this is an automated checkin, will only run if the \"smolt\" service has "
-"been started"
-msgstr "这是自动的 checkin，只有在 \"smolt\" 服务已经被启动时才会运行。"
-
-#: sendProfile.py:103
-msgid "only scan this machine for known hardware errata, do not send profile."
-msgstr "只能为未知硬件勘误扫描这台机器，不要发送侧写。"
-
-#: sendProfile.py:108
-msgid "do not scan this machine for know hardware errata, only submit profile."
-msgstr "不要扫描这台机器了解硬件勘误，只要提交侧写即刻。"
-
-#: sendProfile.py:122
-msgid "Request a new public UUID"
-msgstr "需要一个新的公用 UUID"
-
-#: sendProfile.py:126
-msgid "HTTP proxy"
-msgstr "HTTP proxy"
-
-#: sendProfile.py:146
-msgid "Smolt set to checkin but checkins are disabled (hint: service smolt start)"
-msgstr "设置 Smolt 为 checkin，但 checkin 被禁用（提示：service smolt start）"
-
-#: sendProfile.py:156
-#, python-format
-msgid "Success!  Your new public UUID is: %s"
-msgstr "成功！您的新公用 UUID 为：%s"
-
-#: sendProfile.py:172
-msgid "Smolt has collected four types of information:"
-msgstr "Smolt 收集了四类信息："
-
-#: sendProfile.py:173
-msgid "Do you want to .."
-msgstr "您是否想要......"
-
-#: sendProfile.py:174
-msgid "(v)iew details on collected information?"
-msgstr "查看收集的信息详情（_v）？"
-
-#: sendProfile.py:175
-msgid "(s)end this information to the Smolt server? (or [y] for yes)"
-msgstr "将这个信息发送到 Smolt 服务器吗（_s）？（[y] 代表是）"
-
-#: sendProfile.py:176
-msgid "(q)uit Smolt?  (or [n] for no)"
-msgstr "退出 Smolt（_q）？（[n] 代表否）"
-
-#: sendProfile.py:178 smolt.py:669
-msgid "Devices"
-msgstr "设备"
-
-#: sendProfile.py:179
-msgid "File system-related"
-msgstr "与文件系统相关的"
-
-#: sendProfile.py:180
-msgid "Distribution-specific"
-msgstr "具体描述"
-
-#: sendProfile.py:213
-msgid "Your choice (s/v/q/y/n): "
-msgstr "您的选择（s/v/q/y/n）："
-
-#: sendProfile.py:215 sendProfile.py:234
-msgid "Exiting..."
-msgstr "退出..."
-
-#: sendProfile.py:217
-msgid "s|y|yes"
-msgstr "s|y|yes"
-
-#: sendProfile.py:220
-msgid "q|n|no"
-msgstr "q|n|no"
-
-#: sendProfile.py:222
-msgid "v"
-msgstr "v"
-
-#: sendProfile.py:246
-msgid "Retry Enabled - Retrying"
-msgstr "启用重试 - 正在重试"
-
-#: sendProfile.py:255
-msgid "Could not send - Exiting"
-msgstr "不能发送 － 退出"
-
-#: sendProfile.py:260
-msgid "Password:"
-msgstr "密码："
-
-#: sendProfile.py:265
-msgid "Registration Failed, Try again"
-msgstr "注册失败，重试"
-
-#: sendProfile.py:276
+#: ../src/date_gui.py:156
 #, python-format
 msgid ""
-"To share your profile: \n"
-"\t%s (public)"
+"The NTP initscript (%s) does not seem to be functioning properly.  Try "
+"running 'rpm -V ntp' to see if the initscript has been modified.  system-"
+"config-date will exit now."
 msgstr ""
-"共享您的侧写：\n"
-"\t%s（公用）"
 
-#: sendProfile.py:280
-#, python-format
-msgid "\tAdmin Password: %s"
-msgstr "\t管理员密码：%s"
-
-#: sendProfile.py:283
-msgid "No Public UUID found!  Please re-run with -n to generate a new public uuid"
-msgstr "没有找到公用 UUID！请使用 -n 重新运行以获得新的公用 uuid"
-
-#: smoltFirstBoot.py:38 smoltFirstBoot.py:39
-msgid "Hardware Profile"
-msgstr "硬件配置"
-
-#: smoltFirstBoot.py:56
-msgid ""
-"Are you sure you wouldn't like to send the profile?  Submitting your profile "
-"is a valuable source of information for our development and can help "
-"troubleshoot issues that may come up with your hardware."
-msgstr ""
-"您确定不发送配置文件吗？对于我们的开发来说，提交您的配置是很有价值的信息来"
-"源，这可以帮助我们解决您的硬件方面的问题。"
-
-#: smoltFirstBoot.py:64
-msgid "_Reconsider sending"
-msgstr "重新考虑发送"
-
-#: smoltFirstBoot.py:65
-msgid "_No, do not send."
-msgstr "不，不发送。"
-
-#: smoltFirstBoot.py:92
-msgid ""
-"Smolt is a hardware profiler for The Fedora Project.  Submitting your "
-"profile is a great way to give back to the community as this information is "
-"used to help focus our efforts on popular hardware and platforms.  "
-"Submissions are anonymous.  Sending your profile will enable a monthly "
-"update."
-msgstr ""
-"Smolt 是 Fedora 项目的一个硬件配置工具。提交您的硬件配置是对社区的重要回馈，"
-"因为这些信息可以用来帮助我们确认流行的硬件和平台。提交是匿名的。发送您的配置"
-"将启用每月的更新。"
-
-#: smoltFirstBoot.py:119
-msgid "_Participate in KernelOOPS"
-msgstr "分享 KernelOOPS"
-
-#: smoltFirstBoot.py:120
-msgid "Submit profile link to _Bodhi"
-msgstr "将侧写连接提交至 _Bodhi"
-
-#: smoltFirstBoot.py:122
-msgid "_Send Profile"
-msgstr "发送侧写（_S）"
-
-#: smoltFirstBoot.py:123
-msgid "D_o not send profile"
-msgstr "不要发送配置文件"
-
-#: smoltGui.py:92
-msgid "Smolt"
-msgstr "Smolt"
-
-#: smoltGui.py:97
-msgid "&File"
-msgstr "&文件"
-
-#: smoltGui.py:98
-msgid "&Help"
-msgstr "&帮助"
-
-#: smoltGui.py:101
-msgid "&Send Profile"
-msgstr "&发送侧写"
-
-#: smoltGui.py:102
-msgid "&My Smolt Page"
-msgstr "&我的 Smolt 页"
-
-#: smoltGui.py:103
-msgid "&Exit"
-msgstr "&退出"
-
-#: smoltGui.py:104
-msgid "Show &Privacy Policy"
-msgstr "&显示隐私策略"
-
-#: smoltGui.py:105
-msgid "&About"
-msgstr "&关于"
-
-#: smoltGui.py:106
-msgid "About &Qt"
-msgstr "&关于 Qt"
-
-#: smoltGui.py:120
-msgid "Main Tool Bar"
-msgstr "主工具条"
-
-#: smoltGui.py:170
-msgid "No distribution-specific data yet"
-msgstr "还没有具体描述数据"
-
-#: smoltGui.py:175 smoltGui.py:238
+#: ../src/date_gui.py:162 ../src/scdMainWindow.py:321
 msgid "Error"
-msgstr "错误"
+msgstr ""
 
-#: smoltGui.py:239
-msgid "An error occurred while sending the data to the server."
-msgstr "发送数据至服务器时出现错误。"
+#: ../src/date_gui.py:318
+#, python-format
+msgid "Checking whether NTP server '%s' is reachable..."
+msgstr ""
 
-#: smoltGui.py:246
-msgid "Profile Sent"
-msgstr "侧写已发送"
-
-#: smoltGui.py:247
+#: ../src/date_gui.py:337
 #, python-format
 msgid ""
-"<b>Your profile was sent successfully!</b><br>\t\t\t\t<br>\t\t\t\tYour "
-"profiles is available online at:<br>\t\t\t\t<a href=\"%(url)s\">%(url)s</"
-"a><br>\t\t\t\t<br>\t\t\t\tYour profile admin password is:<br><i>%(password)"
-"s</i>"
+"You cancelled checking whether NTP server '%s' is reachable. Do you still "
+"want your changes to take effect?"
 msgstr ""
-"<b>您的侧写已经成功发送！</b><br>\t\t\t\t<br>\t\t\t\t您的侧写位于：<br>\t\t\t\t<a href=\"%(url)s\">%(url)s</"
-"a><br>\t\t\t\t<br>\t\t\t\t您侧写的管理员密码为：<br><i>%(password)s</i>"
 
-#: smoltGui.py:270
-msgid "Privacy Policy"
-msgstr "隐私策略"
-
-#: smoltGui.py:284
-#, python-format
-msgid "<h3>Smolt Qt</h3>Version %(version)s<br/>"
-msgstr "<h3>Smolt Qt</h3>Version %(version)s<br/>"
-
-#: smoltGui.py:285
-msgid ""
-"<br/>Smolt Qt is a Smolt GUI client to submit Smolt hardware profiles \t\t\t"
-"\tto a Smoon server.<br/>"
-msgstr ""
-"<br/>Smolt Qt 是用来将 Smolt 硬件侧写发送到 Smoon 服务器\t\t\t"
-"\t的 Smolt GUI 客户端。<br/>"
-
-#: smoltGui.py:288
-msgid ""
-"<b>About Smolt:</b><br/>The smolt hardware profiler is a server-client \t\t\t"
-"\tsystem that does a hardware scan against a machine and sends the results \t"
-"\t\t\tto a public Fedora Project turbogears server. The sends are anonymous "
-"\t\t\t\tand should not contain any private information other than the "
-"physical \t\t\t\thardware information and basic OS info.<br/>"
-msgstr ""
-"<b>关于 Smolt：</b><br/>Smolt 硬件侧写程序是一个服务器-客户端\t\t\t"
-"\t系统，它会对机器中的硬件进行扫描并将结果发送至t"
-"\t\t\t公共 Fedora 项目 turbogears 服务器。发送是匿名 "
-"\t\t\t\t的且不会包含物理硬件及\t\t\t\t基本操作系统信息外的任何私人信息。<br/>"
-
-#: smoltGui.py:294
-msgid "<b>Authors:</b><br/>Carlos Gonçalves &lt;mail@cgoncalves.info&gt;"
-msgstr "<b>作者：</b><br/>Carlos Gonçalves &lt;mail@cgoncalves.info&gt;"
-
-#: smoltGui.py:296
+#: ../src/date_gui.py:351
 #, python-format
 msgid ""
-"%(title)s<br>\t\t\t\t%(description)s<br>\t\t\t\t%(authors)s<br>\t\t\t\t<br>\t"
-"\t\t\t<b>License:</b><br>\t\t\t\tThis program is free software; you can "
-"redistribute it and/or \t\t\t\tmodify it under the terms of the GNU General "
-"Public License \t\t\t\tas published by the Free Software Foundation; either "
-"version 3 \t\t\t\tof the License, or (at your option) any later version."
+"Host '%s' is not reachable or doesn't act as an NTP server. Do you still "
+"want your changes to take effect?"
 msgstr ""
-"%(title)s<br>\t\t\t\t%(description)s<br>\t\t\t\t%(authors)s<br>\t\t\t\t<br>\t"
-"\t\t\t<b>许可证：</b><br>\t\t\t\t这个程序是一个免费软件，您可以根据自由软件基金 "
-"公布的 GNU 通用\t\t\t\t公共许可证版本 3 或者 "
-"之后的\t\t\t\t任意版本（根据您的需要）中的 "
-"条款\t\t\t\t重新发布和/或者修改它。"
 
-#: smolt.py:362
+#: ../src/date_gui.py:382
+msgid "New NTP Server"
+msgstr ""
+
+#: ../src/scdMainWindow.py:57
+msgid "Date and Time"
+msgstr ""
+
+#: ../src/scdMainWindow.py:58 ../system-config-date.desktop.in.h:1
+msgid "Change system date and time"
+msgstr ""
+
+#: ../src/scdMainWindow.py:74
 #, python-format
-msgid "Could not contact server: %s"
-msgstr "不能够连接服务器：%s"
-
-#: smolt.py:412
-msgid "Could not bind to dbus.  Is dbus running?"
-msgstr "无法绑定到 dbus。dbus 正在运行吗？"
-
-#: smolt.py:418
 msgid ""
-"Could not connect to hal, is it running?\n"
-"Run \"service haldaemon start\" as root"
-msgstr ""
-"无法连接到 hal，它是否正在运行？\n"
-"请以根用户身份运行 \"service haldaemon start\" "
-
-#: smolt.py:507
-msgid ""
-"\tYour pub_uuid could not be written.\n"
+"Couldn't connect to one of these time servers:\n"
 "\n"
-msgstr ""
-"\t您的 pub_uuid 无法被覆盖。\n"
+"%s\n"
 "\n"
-
-#: smolt.py:516
-#, python-format
-msgid "\tYour admin token  could not be cached: %s\n"
-msgstr "\t无法缓存您的管理员令牌：%s\n"
-
-#: smolt.py:536 smolt.py:579 smolt.py:609
-#, python-format
-msgid "Error contacting Server: %s"
-msgstr "连接服务器错误：%s"
-
-#: smolt.py:545 smolt.py:596
-msgid "Wrong version, server incapable of handling your client"
-msgstr "错误版本，服务器无法处理您的客户端"
-
-#: smolt.py:550
-msgid "Something went wrong fetching a token"
+"Either none of them are available or the firewall settings on your computer "
+"are blocking NTP connections.\n"
+"\n"
+"Do you want to change your configuration to work around this issue now?"
 msgstr ""
 
-#: smolt.py:589
+#: ../src/scdMainWindow.py:98
+msgid "Failed to set time and date."
+msgstr ""
+
+#: ../src/scdMainWindow.py:101
+msgid ""
+"Failed to synchronize hardware clock. This may be because there is no "
+"hardware clock accessible, e.g. when running in a virtualized environment."
+msgstr ""
+
+#: ../src/scdMainWindow.py:114
+msgid "Please specify an NTP server to use or enable NTP broadcast."
+msgstr ""
+
+#: ../src/scdMainWindow.py:169
+msgid "Contacting NTP server.  Please wait..."
+msgstr ""
+
+#: ../src/scdMainWindow.py:299
+msgid ""
+"The help viewer could not be found. To be able to view help you need to "
+"install the 'yelp' package."
+msgstr ""
+
+#: ../src/system-config-date.py:44
+msgid ""
+"Usage: system-config-date [options]\n"
+"Enduser options:\n"
+"-h|--help        Display this help message\n"
+"Reserved options:\n"
+"--page <page>    Display page <page>\n"
+msgstr ""
+
+#. Starting the GUI failed, so let's start the text mode UI
+#: ../src/system-config-date.py:56
+msgid "Text mode interface is deprecated\n"
+msgstr ""
+
+#: ../src/system-config-date.py:75
 #, python-format
-msgid "An error has occured while contacting the server: %s"
-msgstr "联系服务器时出错：%s"
+msgid "option(s) '%s' not recognized\n"
+msgstr ""
 
-#: smolt.py:618 smolt.py:691
-msgid "OS"
-msgstr "OS"
-
-#: smolt.py:619 smolt.py:692
-msgid "Default run level"
-msgstr "缺省的运行级别"
-
-#: smolt.py:620 smolt.py:693
-msgid "Language"
-msgstr "语言"
-
-#: smolt.py:677
-msgid "Filesystem Information"
-msgstr "文件系统信息"
-
-#: smolt.py:690
-msgid "UUID"
-msgstr "UUID"
-
-#: smolt.py:694
-msgid "Platform"
-msgstr "平台"
-
-#: smolt.py:695
-msgid "BogoMIPS"
-msgstr "BogoMIPS"
-
-#: smolt.py:696
-msgid "CPU Vendor"
-msgstr "CPU 供应商"
-
-#: smolt.py:697
-msgid "CPU Model"
-msgstr "CPU 型号"
-
-#: smolt.py:698
-msgid "CPU Stepping"
-msgstr "CPU 改变"
-
-#: smolt.py:699
-msgid "CPU Family"
-msgstr "CPU 产品线"
-
-#: smolt.py:700
-msgid "CPU Model Num"
-msgstr "CPU 型号号码"
-
-#: smolt.py:701
-msgid "Number of CPUs"
-msgstr "CPU 数量"
-
-#: smolt.py:702
-msgid "CPU Speed"
-msgstr "CPU 速度"
-
-#: smolt.py:703
-msgid "System Memory"
-msgstr "系统内存"
-
-#: smolt.py:704
-msgid "System Swap"
-msgstr "系统交换空间"
-
-#: smolt.py:705
-msgid "Vendor"
-msgstr "供应商"
-
-#: smolt.py:706
-msgid "System"
-msgstr "系统"
-
-#: smolt.py:707
-msgid "Form factor"
-msgstr "Form factor"
-
-#: smolt.py:708
-msgid "Kernel"
-msgstr "内核"
-
-#: smolt.py:709
-msgid "SELinux Enabled"
-msgstr "启用 SELinux"
-
-#: smolt.py:710
-msgid "SELinux Policy"
-msgstr "SELinux 策略"
-
-#: smolt.py:711
-msgid "SELinux Enforce"
-msgstr "强制 SELinux"
-
-#: smolt.py:1180
-msgid "Unable to save UUID, continuing...\n"
-msgstr "无法保存 UUID，继续...\n"
-
-#: smolt.py:1181
-#, python-format
-msgid "Your UUID file could not be created: %s\n"
-msgstr "无法为您生成 UUID 文件：%s\n"
-
-#: smolt.py:1184
-msgid "Unable to determine UUID of system!\n"
-msgstr "无法确定系统 UUID！\n"
-
-#: smolt.py:1203
-#, python-format
-msgid "Error determining public UUID: %s"
-msgstr "决定公共 UUID 时出错：%s"
-
-#: smolt.py:1204
+#: ../src/timeconfig.py:44
 #, fuzzy
-msgid "Unable to determine Public UUID!\n"
-msgstr "无法确定系统 UUID！\n"
+msgid "OK"
+msgstr "ROK"
 
-#: software.py:44
-msgid "Cannot Determine Runlevel"
-msgstr "无法确定运行级别"
+#: ../src/timeconfig.py:44
+msgid "Cancel"
+msgstr ""
 
+#: ../src/timeconfig.py:46
+msgid "Select the time zone for the system."
+msgstr ""
+
+#: ../src/timeconfig.py:71
+msgid "System clock uses UTC"
+msgstr ""
+
+#: ../src/timeconfig.py:73
+msgid "Timezone Selection"
+msgstr ""
+
+#: ../src/timeconfig.py:97
+msgid "You must be root to run timeconfig."
+msgstr ""
+
+#: ../src/timezoneBackend.py:60 ../src/timezoneBackend.py:80
+#, python-format
+msgid "Error copying time zone (from %(fromFile)s): %(msg)s"
+msgstr ""
+
+#: ../src/timezoneBackend.py:65 ../src/timezoneBackend.py:85
+#, python-format
+msgid "Changing permission of time zone: %s"
+msgstr ""
+
+#: ../src/timezoneBackend.py:73
+msgid "Error removing /var/spool/postfix/etc/localtime"
+msgstr ""
+
+#: ../src/timezone_map_gui.py:185
+msgid "Non-geographic timezones"
+msgstr ""
+
+#: ../src/timezone_map_gui.py:261
+msgid ", "
+msgstr ""
+
+#: ../src/timezone_map_gui.py:272
+#, python-format
+msgid "Selected city: %(city)s (%(comments)s)"
+msgstr ""
+
+#: ../src/timezone_map_gui.py:274
+#, python-format
+msgid "Selected city: %s"
+msgstr ""
+
+#: ../src/timezone_map_gui.py:300 ../src/system-config-date.glade:839
+msgid "Please select the nearest city in your time zone:"
+msgstr ""
+
+#: ../src/timezone_map_gui.py:340
+msgid "Use button 2 or 3 for panning and the scrollwheel to zoom in or out."
+msgstr ""
+
+#: ../src/system-config-date.glade:8
+msgid "Date/Time Properties"
+msgstr ""
+
+#: ../src/system-config-date.glade:56
+msgid "Current date and time:"
+msgstr ""
+
+#: ../src/system-config-date.glade:113
+msgid ""
+"Use this option if you want to keep your computer's clock synchronized with "
+"an NTP time server."
+msgstr ""
+
+#: ../src/system-config-date.glade:115
+msgid "Synchronize date and time over the network"
+msgstr ""
+
+#: ../src/system-config-date.glade:150
+msgid "Manually set the date and time of your system:"
+msgstr ""
+
+#: ../src/system-config-date.glade:211
+msgid "<b>_Date</b>"
+msgstr ""
+
+#: ../src/system-config-date.glade:260
+msgid "_Hour : "
+msgstr ""
+
+#: ../src/system-config-date.glade:289
+msgid "_Minute : "
+msgstr ""
+
+#: ../src/system-config-date.glade:318
+msgid "_Second : "
+msgstr ""
+
+#: ../src/system-config-date.glade:412
+msgid "<b>Time</b>"
+msgstr ""
+
+#: ../src/system-config-date.glade:495
+msgid ""
+"Synchronize date and time on your computer with a remote time server using "
+"the Network Time Protocol:"
+msgstr ""
+
+#: ../src/system-config-date.glade:628
+msgid "<b>NTP Servers</b>"
+msgstr ""
+
+#: ../src/system-config-date.glade:672
+msgid ""
+"Use this option if the system clock should be synchronized to your time "
+"server before starting the service. Don't use this option if your time "
+"server regularly can't be reached, e.g. on a laptop, as synchronization may "
+"block until a timeout has passed."
+msgstr ""
+
+#: ../src/system-config-date.glade:674
+msgid "S_ynchronize system clock before starting service"
+msgstr ""
+
+#: ../src/system-config-date.glade:692
+msgid ""
+"Use this option if you have e.g. a radio controlled clock device that "
+"synchronizes your computer's clock with an authoritative time source."
+msgstr ""
+
+#: ../src/system-config-date.glade:694
+msgid "Use _Local Time Source"
+msgstr ""
+
+#: ../src/system-config-date.glade:711
+msgid ""
+"Use this option if your computer should broadcast for an NTP server on the "
+"local subnet."
+msgstr ""
+
+#: ../src/system-config-date.glade:713
+msgid "Enable NTP _Broadcast"
+msgstr ""
+
+#: ../src/system-config-date.glade:733
+msgid "_Advanced Options"
+msgstr ""
+
+#: ../src/system-config-date.glade:809
+msgid "Date and _Time"
+msgstr ""
+
+#: ../src/system-config-date.glade:879
+msgid ""
+"Use this if you want to automatically switch between normal and daylight "
+"savings time. Don't use this if you have other operating systems on this "
+"computer which adjust the hardware clock to achieve this, e.g. Microsoft "
+"Windows(tm)."
+msgstr ""
+
+#: ../src/system-config-date.glade:881
+msgid "_System clock uses UTC"
+msgstr ""
+
+#: ../src/system-config-date.glade:905
+msgid "Time _Zone"
+msgstr ""
+
+#: ../system-config-date.desktop.in.h:2
+msgid "Date & Time"
+msgstr ""
+
+#~ msgid "Africa/Abidjan"
+#~ msgstr "非洲/阿比让"
+
+#~ msgid "Africa/Accra"
+#~ msgstr "非洲/阿克拉"
+
+#~ msgid "Africa/Addis_Ababa"
+#~ msgstr "非洲/亚地斯亚贝巴"
+
+#~ msgid "Africa/Algiers"
+#~ msgstr "非洲/阿尔及尔"
+
+#~ msgid "Africa/Asmara"
+#~ msgstr "非洲/阿斯马拉"
+
+#~ msgid "Africa/Asmera"
+#~ msgstr "非洲/阿斯美拉"
+
+#~ msgid "Africa/Bamako"
+#~ msgstr "非洲/巴马科"
+
+#~ msgid "Africa/Bangui"
+#~ msgstr "非洲/班吉"
+
+#~ msgid "Africa/Banjul"
+#~ msgstr "非洲/班珠尔"
+
+#~ msgid "Africa/Bissau"
+#~ msgstr "非洲/比绍"
+
+#~ msgid "Africa/Blantyre"
+#~ msgstr "非洲/布兰太尔"
+
+#~ msgid "Africa/Brazzaville"
+#~ msgstr "非洲/布拉柴维尔"
+
+#~ msgid "Africa/Bujumbura"
+#~ msgstr "非洲/布琼布拉"
+
+#~ msgid "Africa/Cairo"
+#~ msgstr "非洲/开罗"
+
+#~ msgid "Africa/Casablanca"
+#~ msgstr "非洲/卡萨布兰卡"
+
+#~ msgid "Africa/Ceuta"
+#~ msgstr "非洲/西屋达"
+
+#~ msgid "Africa/Conakry"
+#~ msgstr "非洲/科纳克里"
+
+#~ msgid "Africa/Dakar"
+#~ msgstr "非洲/达喀尔"
+
+#~ msgid "Africa/Dar_es_Salaam"
+#~ msgstr "非洲/达勒斯萨拉姆"
+
+#~ msgid "Africa/Djibouti"
+#~ msgstr "非洲/吉布提"
+
+#~ msgid "Africa/Douala"
+#~ msgstr "非洲/杜阿拉"
+
+#~ msgid "Africa/El_Aaiun"
+#~ msgstr "非洲/阿尤恩"
+
+#~ msgid "Africa/Freetown"
+#~ msgstr "非洲/弗里敦"
+
+#~ msgid "Africa/Gaborone"
+#~ msgstr "非洲/哈博罗内"
+
+#~ msgid "Africa/Harare"
+#~ msgstr "非洲/哈拉雷"
+
+#~ msgid "Africa/Johannesburg"
+#~ msgstr "非洲/约翰内斯堡"
+
+#~ msgid "Africa/Kampala"
+#~ msgstr "非洲/坎帕拉"
+
+#~ msgid "Africa/Khartoum"
+#~ msgstr "非洲/喀什木"
+
+#~ msgid "Africa/Kigali"
+#~ msgstr "非洲/基加利"
+
+#~ msgid "Africa/Kinshasa"
+#~ msgstr "非洲/金沙萨"
+
+#~ msgid "Africa/Lagos"
+#~ msgstr "非洲/拉格斯"
+
+#~ msgid "Africa/Libreville"
+#~ msgstr "非洲/立伯维尔"
+
+#~ msgid "Africa/Lome"
+#~ msgstr "非洲/洛美"
+
+#~ msgid "Africa/Luanda"
+#~ msgstr "非洲/卢旺达"
+
+#~ msgid "Africa/Lubumbashi"
+#~ msgstr "非洲/卢本巴希"
+
+#~ msgid "Africa/Lusaka"
+#~ msgstr "非洲/卢萨卡"
+
+#~ msgid "Africa/Malabo"
+#~ msgstr "非洲/马拉博"
+
+#~ msgid "Africa/Maputo"
+#~ msgstr "非洲/马普托"
+
+#~ msgid "Africa/Maseru"
+#~ msgstr "非洲/马塞卢"
+
+#~ msgid "Africa/Mbabane"
+#~ msgstr "非洲/母巴巴纳"
+
+#~ msgid "Africa/Mogadishu"
+#~ msgstr "非洲/摩加迪沙"
+
+#~ msgid "Africa/Monrovia"
+#~ msgstr "非洲/蒙罗维亚"
+
+#~ msgid "Africa/Nairobi"
+#~ msgstr "非洲/内罗毕"
+
+#~ msgid "Africa/Ndjamena"
+#~ msgstr "非洲/恩贾梅纳"
+
+#~ msgid "Africa/Niamey"
+#~ msgstr "非洲/尼亚美"
+
+#~ msgid "Africa/Nouakchott"
+#~ msgstr "非洲/努瓦肖克特"
+
+#~ msgid "Africa/Ouagadougou"
+#~ msgstr "非洲/瓦加杜古"
+
+#~ msgid "Africa/Porto-Novo"
+#~ msgstr "非洲/波多诺伏"
+
+#~ msgid "Africa/Sao_Tome"
+#~ msgstr "非洲/圣多美"
+
+#~ msgid "Africa/Timbuktu"
+#~ msgstr "非洲/延巴克图"
+
+#~ msgid "Africa/Tripoli"
+#~ msgstr "非洲/的黎波里"
+
+#~ msgid "Africa/Tunis"
+#~ msgstr "非洲/突尼斯"
+
+#~ msgid "Africa/Windhoek"
+#~ msgstr "非洲/温得和克"
+
+#~ msgid "America/Adak"
+#~ msgstr "美洲/阿达克"
+
+#~ msgid "America/Anchorage"
+#~ msgstr "美洲/安克雷奇"
+
+#~ msgid "America/Anguilla"
+#~ msgstr "美洲/安圭拉"
+
+#~ msgid "America/Antigua"
+#~ msgstr "美洲/安提瓜"
+
+#~ msgid "America/Araguaina"
+#~ msgstr "美洲/阿拉瓜伊纳"
+
+#~ msgid "America/Argentina/Buenos_Aires"
+#~ msgstr "美洲/阿根廷/布宜诺斯艾利斯"
+
+#~ msgid "America/Argentina/Catamarca"
+#~ msgstr "美洲/阿根廷/卡它马卡"
+
+#~ msgid "America/Argentina/ComodRivadavia"
+#~ msgstr "美洲/阿根廷/ComodRivadavia"
+
+#~ msgid "America/Argentina/Cordoba"
+#~ msgstr "美洲/阿根廷/科尔多瓦"
+
+#~ msgid "America/Argentina/Jujuy"
+#~ msgstr "美洲/阿根廷/胡胡伊"
+
+#~ msgid "America/Argentina/La_Rioja"
+#~ msgstr "美洲/阿根廷/拉里奥哈"
+
+#~ msgid "America/Argentina/Mendoza"
+#~ msgstr "美洲/阿根廷/门多萨"
+
+#~ msgid "America/Argentina/Rio_Gallegos"
+#~ msgstr "美洲/阿根廷/里奥加耶格斯"
+
+#~ msgid "America/Argentina/San_Juan"
+#~ msgstr "美洲/阿根廷/圣胡安"
+
+#~ msgid "America/Argentina/Tucuman"
+#~ msgstr "美洲/阿根廷/图库曼"
+
+#~ msgid "America/Argentina/Ushuaia"
+#~ msgstr "美洲/阿根廷/乌斯怀亚"
+
+#~ msgid "America/Aruba"
+#~ msgstr "美洲/阿鲁巴"
+
+#~ msgid "America/Asuncion"
+#~ msgstr "美洲/亚松森"
+
+#~ msgid "America/Atikokan"
+#~ msgstr "美洲/阿蒂科肯"
+
+#~ msgid "America/Atka"
+#~ msgstr "美洲/阿特卡"
+
+#~ msgid "America/Bahia"
+#~ msgstr "美洲/巴伊亚"
+
+#~ msgid "America/Barbados"
+#~ msgstr "美洲/巴巴多斯"
+
+#~ msgid "America/Belem"
+#~ msgstr "美洲/贝伦"
+
+#~ msgid "America/Belize"
+#~ msgstr "美洲/伯利兹"
+
+#~ msgid "America/Blanc-Sablon"
+#~ msgstr "美洲/勃朗峰萨伯隆"
+
+#~ msgid "America/Boa_Vista"
+#~ msgstr "美洲/博阿维斯塔"
+
+#~ msgid "America/Bogota"
+#~ msgstr "美洲/波哥大"
+
+#~ msgid "America/Boise"
+#~ msgstr "美洲/博伊西"
+
+#~ msgid "America/Buenos_Aires"
+#~ msgstr "美洲/布宜诺斯艾利斯"
+
+#~ msgid "America/Cambridge_Bay"
+#~ msgstr "美洲/剑桥湾"
+
+#~ msgid "America/Campo_Grande"
+#~ msgstr "美洲/大坎普"
+
+#~ msgid "America/Cancun"
+#~ msgstr "美洲/坎昆"
+
+#~ msgid "America/Caracas"
+#~ msgstr "美洲/加拉加斯"
+
+#~ msgid "America/Catamarca"
+#~ msgstr "美洲/卡塔马卡"
+
+#~ msgid "America/Cayenne"
+#~ msgstr "美洲/卡宴"
+
+#~ msgid "America/Cayman"
+#~ msgstr "美洲/开曼"
+
+#~ msgid "America/Chicago"
+#~ msgstr "美洲/芝加哥"
+
+#~ msgid "America/Chihuahua"
+#~ msgstr "美洲/奇瓦瓦"
+
+#~ msgid "America/Coral_Harbour"
+#~ msgstr "美洲/科勒尔港"
+
+#~ msgid "America/Cordoba"
+#~ msgstr "美洲/科尔多瓦"
+
+#~ msgid "America/Costa_Rica"
+#~ msgstr "美洲/哥斯达黎加"
+
+#~ msgid "America/Cuiaba"
+#~ msgstr "美洲/库亚巴"
+
+#~ msgid "America/Curacao"
+#~ msgstr "美洲/库拉索"
+
+#~ msgid "America/Danmarkshavn"
+#~ msgstr "美洲/格陵兰"
+
+#~ msgid "America/Dawson"
+#~ msgstr "美洲/道森"
+
+#~ msgid "America/Dawson_Creek"
+#~ msgstr "美洲/道森克里克"
+
+#~ msgid "America/Denver"
+#~ msgstr "美洲/丹佛"
+
+#~ msgid "America/Detroit"
+#~ msgstr "美洲/底特律"
+
+#~ msgid "America/Dominica"
+#~ msgstr "美洲/多米尼加"
+
+#~ msgid "America/Edmonton"
+#~ msgstr "美洲/埃德蒙顿"
+
+#~ msgid "America/Eirunepe"
+#~ msgstr "美洲/埃鲁内佩"
+
+#~ msgid "America/El_Salvador"
+#~ msgstr "美洲/厄瓜多尔"
+
+#~ msgid "America/Ensenada"
+#~ msgstr "美洲/恩塞纳达"
+
+#~ msgid "America/Fortaleza"
+#~ msgstr "美洲/福塔莱萨"
+
+#~ msgid "America/Fort_Wayne"
+#~ msgstr "美洲/韦恩堡"
+
+#~ msgid "America/Glace_Bay"
+#~ msgstr "美洲/塔斯湾"
+
+#~ msgid "America/Godthab"
+#~ msgstr "美洲/戈特雷布"
+
+#~ msgid "America/Goose_Bay"
+#~ msgstr "美洲/鹅湾"
+
+#~ msgid "America/Grand_Turk"
+#~ msgstr "美洲/大特克"
+
+#~ msgid "America/Grenada"
+#~ msgstr "美洲/格林纳达"
+
+#~ msgid "America/Guadeloupe"
+#~ msgstr "美洲/瓜德罗普岛"
+
+#~ msgid "America/Guatemala"
+#~ msgstr "美洲/危地马拉"
+
+#~ msgid "America/Guayaquil"
+#~ msgstr "美洲/圭亚基尔"
+
+#~ msgid "America/Guyana"
+#~ msgstr "美洲/圭亚那"
+
+#~ msgid "America/Halifax"
+#~ msgstr "美洲/哈里发克斯"
+
+#~ msgid "America/Havana"
+#~ msgstr "美洲/哈瓦那"
+
+#~ msgid "America/Hermosillo"
+#~ msgstr "美洲/埃莫西约"
+
+#~ msgid "America/Indiana/Indianapolis"
+#~ msgstr "美洲/印第安纳/印第安纳波利斯"
+
+#~ msgid "America/Indiana/Knox"
+#~ msgstr "美洲/印第安纳/诺克斯"
+
+#~ msgid "America/Indiana/Marengo"
+#~ msgstr "美洲/印第安纳/马伦戈"
+
+#~ msgid "America/Indiana/Petersburg"
+#~ msgstr "美洲/印第安纳/彼得堡"
+
+#~ msgid "America/Indianapolis"
+#~ msgstr "美洲/印第安纳波利斯"
+
+#~ msgid "America/Indiana/Tell_City"
+#~ msgstr "美洲/印第安纳/Tell_City"
+
+#~ msgid "America/Indiana/Vevay"
+#~ msgstr "美洲/印第安纳/维维市"
+
+#~ msgid "America/Indiana/Vincennes"
+#~ msgstr "美洲/印第安纳/温森斯"
+
+#~ msgid "America/Indiana/Winamac"
+#~ msgstr "美洲/印第安纳/威纳马克"
+
+#~ msgid "America/Inuvik"
+#~ msgstr "美洲/伊努维克"
+
+#~ msgid "America/Iqaluit"
+#~ msgstr "美洲/伊卡瑞特"
+
+#~ msgid "America/Jamaica"
+#~ msgstr "美洲/牙买加"
+
+#~ msgid "America/Jujuy"
+#~ msgstr "美洲/胡胡伊"
+
+#~ msgid "America/Juneau"
+#~ msgstr "美洲/朱诺"
+
+#~ msgid "America/Kentucky/Louisville"
+#~ msgstr "美洲/肯塔基/路易斯维尔"
+
+#~ msgid "America/Kentucky/Monticello"
+#~ msgstr "美洲/肯塔基/蒙蒂塞洛"
+
+#~ msgid "America/Knox_IN"
+#~ msgstr "美洲/Knox_IN"
+
+#~ msgid "America/La_Paz"
+#~ msgstr "美洲/拉巴斯"
+
+#~ msgid "America/Lima"
+#~ msgstr "美洲/利马"
+
+#~ msgid "America/Los_Angeles"
+#~ msgstr "美洲/洛杉矶"
+
+#~ msgid "America/Louisville"
+#~ msgstr "美洲/路易斯维尔"
+
+#~ msgid "America/Maceio"
+#~ msgstr "美洲/马赛约"
+
+#~ msgid "America/Managua"
+#~ msgstr "美洲/马那瓜"
+
+#~ msgid "America/Manaus"
+#~ msgstr "美洲/玛瑙斯"
+
+#~ msgid "America/Marigot"
+#~ msgstr "美洲/马利戈特"
+
+#~ msgid "America/Martinique"
+#~ msgstr "美洲/马提尼克岛"
+
+#~ msgid "America/Mazatlan"
+#~ msgstr "美洲/马萨特兰"
+
+#~ msgid "America/Mendoza"
+#~ msgstr "美洲/门多萨"
+
+#~ msgid "America/Menominee"
+#~ msgstr "美洲/梅诺米尼"
+
+#~ msgid "America/Merida"
+#~ msgstr "美洲/梅里达"
+
+#~ msgid "America/Mexico_City"
+#~ msgstr "美洲/墨西哥城"
+
+#~ msgid "America/Miquelon"
+#~ msgstr "美洲/密克隆岛"
+
+#~ msgid "America/Moncton"
+#~ msgstr "美洲/蒙古顿"
+
+#~ msgid "America/Monterrey"
+#~ msgstr "美洲/蒙特雷"
+
+#~ msgid "America/Montevideo"
+#~ msgstr "美洲/蒙得维的亚"
+
+#~ msgid "America/Montreal"
+#~ msgstr "美洲/蒙特利尔"
+
+#~ msgid "America/Montserrat"
+#~ msgstr "美洲/蒙特塞拉特"
+
+#~ msgid "America/Nassau"
+#~ msgstr "美洲/拿骚"
+
+#~ msgid "America/New_York"
+#~ msgstr "美洲/纽约"
+
+#~ msgid "America/Nipigon"
+#~ msgstr "美洲/尼皮贡"
+
+#~ msgid "America/Nome"
+#~ msgstr "美洲/诺姆"
+
+#~ msgid "America/Noronha"
+#~ msgstr "美洲/诺罗尼亚"
+
+#~ msgid "America/North_Dakota/Center"
+#~ msgstr "美洲/北达科他/中心"
+
+#~ msgid "America/North_Dakota/New_Salem"
+#~ msgstr "美洲/北达科他州/新塞勒姆"
+
+#~ msgid "America/Panama"
+#~ msgstr "美洲/巴拿马"
+
+#~ msgid "America/Pangnirtung"
+#~ msgstr "美洲/庞纳唐"
+
+#~ msgid "America/Paramaribo"
+#~ msgstr "美洲/帕拉马里博"
+
+#~ msgid "America/Phoenix"
+#~ msgstr "美洲/菲尼克斯"
+
+#~ msgid "America/Port-au-Prince"
+#~ msgstr "美洲/太子港"
+
+#~ msgid "America/Porto_Acre"
+#~ msgstr "美洲/波尔图阿克里"
+
+#~ msgid "America/Port_of_Spain"
+#~ msgstr "美洲/西班牙港"
+
+#~ msgid "America/Porto_Velho"
+#~ msgstr "美洲/波多韦柳"
+
+#~ msgid "America/Puerto_Rico"
+#~ msgstr "美洲/波多黎各"
+
+#~ msgid "America/Rainy_River"
+#~ msgstr "美洲/雨季河"
+
+#~ msgid "America/Rankin_Inlet"
+#~ msgstr "美洲/金进"
+
+#~ msgid "America/Recife"
+#~ msgstr "美洲/累西腓"
+
+#~ msgid "America/Regina"
+#~ msgstr "美洲/瑞吉纳"
+
+#~ msgid "America/Resolute"
+#~ msgstr "美洲/雷索卢特"
+
+#~ msgid "America/Rio_Branco"
+#~ msgstr "美洲/里奥布朗库"
+
+#~ msgid "America/Rosario"
+#~ msgstr "美洲/罗萨利奥"
+
+#~ msgid "America/Santiago"
+#~ msgstr "美洲/圣地亚哥"
+
+#~ msgid "America/Santo_Domingo"
+#~ msgstr "美洲/圣多明戈"
+
+#~ msgid "America/Sao_Paulo"
+#~ msgstr "美洲/圣保罗"
+
+#~ msgid "America/Scoresbysund"
+#~ msgstr "美洲/斯科斯比松"
+
+#~ msgid "America/Shiprock"
+#~ msgstr "美洲/希普罗克"
+
+#~ msgid "America/St_Barthelemy"
+#~ msgstr "美洲/圣巴泰勒米"
+
+#~ msgid "America/St_Johns"
+#~ msgstr "美洲/圣琼斯"
+
+#~ msgid "America/St_Kitts"
+#~ msgstr "美洲/圣基茨"
+
+#~ msgid "America/St_Lucia"
+#~ msgstr "美洲/圣卢西亚"
+
+#~ msgid "America/St_Thomas"
+#~ msgstr "美洲/圣托马斯"
+
+#~ msgid "America/St_Vincent"
+#~ msgstr "美洲/圣文森特"
+
+#~ msgid "America/Swift_Current"
+#~ msgstr "美洲/斯威夫特卡伦特"
+
+#~ msgid "America/Tegucigalpa"
+#~ msgstr "美洲/特古西加尔巴"
+
+#~ msgid "America/Thule"
+#~ msgstr "美洲/图勒"
+
+#~ msgid "America/Thunder_Bay"
+#~ msgstr "美洲/桑德湾"
+
+#~ msgid "America/Tijuana"
+#~ msgstr "美洲/蒂华纳"
+
+#~ msgid "America/Toronto"
+#~ msgstr "美洲/多伦多"
+
+#~ msgid "America/Tortola"
+#~ msgstr "美洲/托尔托拉"
+
+#~ msgid "America/Vancouver"
+#~ msgstr "美洲/温哥华"
+
+#~ msgid "America/Virgin"
+#~ msgstr "美洲/维京"
+
+#~ msgid "America/Whitehorse"
+#~ msgstr "美洲/怀特霍斯"
+
+#~ msgid "America/Winnipeg"
+#~ msgstr "美洲/温尼伯斯"
+
+#~ msgid "America/Yakutat"
+#~ msgstr "美洲/压库塔特"
+
+#~ msgid "America/Yellowknife"
+#~ msgstr "美洲/耶洛奈夫"
+
+#~ msgid "Antarctica/Casey"
+#~ msgstr "南极洲/卡西"
+
+#~ msgid "Antarctica/Davis"
+#~ msgstr "南极洲/戴维斯"
+
+#~ msgid "Antarctica/DumontDUrville"
+#~ msgstr "南极洲/DumontDUrville"
+
+#~ msgid "Antarctica/Mawson"
+#~ msgstr "南极洲/莫森"
+
+#~ msgid "Antarctica/McMurdo"
+#~ msgstr "南极洲/麦克默多"
+
+#~ msgid "Antarctica/Palmer"
+#~ msgstr "南极洲/帕尔默"
+
+#~ msgid "Antarctica/Rothera"
+#~ msgstr "南极洲/罗瑟拉"
+
+#~ msgid "Antarctica/South_Pole"
+#~ msgstr "南极洲/南极点"
+
+#~ msgid "Antarctica/Syowa"
+#~ msgstr "南极洲/昭和"
+
+#~ msgid "Antarctica/Vostok"
+#~ msgstr "南极洲/沃斯托克"
+
+#~ msgid "Arctic/Longyearbyen"
+#~ msgstr "北极/朗伊尔城"
+
+#~ msgid "Asia/Aden"
+#~ msgstr "亚洲/亚丁"
+
+#~ msgid "Asia/Almaty"
+#~ msgstr "亚洲/阿拉木图"
+
+#~ msgid "Asia/Amman"
+#~ msgstr "亚洲/阿曼"
+
+#~ msgid "Asia/Anadyr"
+#~ msgstr "亚洲/阿纳德尔"
+
+#~ msgid "Asia/Aqtau"
+#~ msgstr "亚洲/阿克陶"
+
+#~ msgid "Asia/Aqtobe"
+#~ msgstr "亚洲/阿克托贝"
+
+#~ msgid "Asia/Ashgabat"
+#~ msgstr "亚洲/阿什哈巴德"
+
+#~ msgid "Asia/Ashkhabad"
+#~ msgstr "亚洲/阿什哈巴德"
+
+#~ msgid "Asia/Baghdad"
+#~ msgstr "亚洲/巴格达"
+
+#~ msgid "Asia/Bahrain"
+#~ msgstr "亚洲/巴林"
+
+#~ msgid "Asia/Baku"
+#~ msgstr "亚洲/巴库"
+
+#~ msgid "Asia/Bangkok"
+#~ msgstr "亚洲/曼谷"
+
+#~ msgid "Asia/Beirut"
+#~ msgstr "亚洲/贝鲁特"
+
+#~ msgid "Asia/Bishkek"
+#~ msgstr "亚洲/比什凯克"
+
+#~ msgid "Asia/Brunei"
+#~ msgstr "亚洲/文莱"
+
+#~ msgid "Asia/Calcutta"
+#~ msgstr "亚洲/加尔各答"
+
+#~ msgid "Asia/Choibalsan"
+#~ msgstr "亚洲/乔巴山"
+
+#~ msgid "Asia/Chongqing"
+#~ msgstr "亚洲/重庆"
+
+#~ msgid "Asia/Chungking"
+#~ msgstr "亚洲/重庆"
+
+#~ msgid "Asia/Colombo"
+#~ msgstr "亚洲/科伦坡"
+
+#~ msgid "Asia/Dacca"
+#~ msgstr "亚洲/达卡"
+
+#~ msgid "Asia/Damascus"
+#~ msgstr "亚洲/大马士革"
+
+#~ msgid "Asia/Dhaka"
+#~ msgstr "亚洲/达卡"
+
+#~ msgid "Asia/Dili"
+#~ msgstr "亚洲/帝力"
+
+#~ msgid "Asia/Dubai"
+#~ msgstr "亚洲/杜拜"
+
+#~ msgid "Asia/Dushanbe"
+#~ msgstr "亚洲/杜尚别"
+
+#~ msgid "Asia/Gaza"
+#~ msgstr "亚洲/加沙"
+
+#~ msgid "Asia/Harbin"
+#~ msgstr "亚洲/哈尔滨"
+
+#~ msgid "Asia/Hong_Kong"
+#~ msgstr "亚洲/香港"
+
+#~ msgid "Asia/Hovd"
+#~ msgstr "亚洲/科布多"
+
+#~ msgid "Asia/Irkutsk"
+#~ msgstr "亚洲/伊尔库茨克"
+
+#~ msgid "Asia/Istanbul"
+#~ msgstr "亚洲/伊斯坦布尔"
+
+#~ msgid "Asia/Jakarta"
+#~ msgstr "亚洲/雅加达"
+
+#~ msgid "Asia/Jayapura"
+#~ msgstr "亚洲/查亚普拉"
+
+#~ msgid "Asia/Jerusalem"
+#~ msgstr "亚洲/耶路撒冷"
+
+#~ msgid "Asia/Kabul"
+#~ msgstr "亚洲/喀布尔"
+
+#~ msgid "Asia/Kamchatka"
+#~ msgstr "亚洲/勘察加"
+
+#~ msgid "Asia/Karachi"
+#~ msgstr "亚洲/卡拉奇"
+
+#~ msgid "Asia/Kashgar"
+#~ msgstr "亚洲/喀什"
+
+#~ msgid "Asia/Katmandu"
+#~ msgstr "亚洲/加德满都"
+
+#~ msgid "Asia/Krasnoyarsk"
+#~ msgstr "亚洲/克拉斯诺亚尔斯克"
+
+#~ msgid "Asia/Kuala_Lumpur"
+#~ msgstr "亚洲/吉隆坡"
+
+#~ msgid "Asia/Kuching"
+#~ msgstr "亚洲/古晋"
+
+#~ msgid "Asia/Kuwait"
+#~ msgstr "亚洲/科威特"
+
+#~ msgid "Asia/Macao"
+#~ msgstr "亚洲/澳门"
+
+#~ msgid "Asia/Macau"
+#~ msgstr "亚洲/澳门"
+
+#~ msgid "Asia/Magadan"
+#~ msgstr "亚洲/马加丹"
+
+#~ msgid "Asia/Makassar"
+#~ msgstr "亚洲/马卡萨"
+
+#~ msgid "Asia/Manila"
+#~ msgstr "亚洲/马尼拉"
+
+#~ msgid "Asia/Muscat"
+#~ msgstr "亚洲/马斯咯特"
+
+#~ msgid "Asia/Nicosia"
+#~ msgstr "亚洲/尼科西亚"
+
+#~ msgid "Asia/Novosibirsk"
+#~ msgstr "亚洲/新西伯利亚"
+
+#~ msgid "Asia/Omsk"
+#~ msgstr "亚洲/鄂木斯克"
+
+#~ msgid "Asia/Oral"
+#~ msgstr "亚洲/Oral"
+
+#~ msgid "Asia/Phnom_Penh"
+#~ msgstr "亚洲/金边"
+
+#~ msgid "Asia/Pontianak"
+#~ msgstr "亚洲/坤甸"
+
+#~ msgid "Asia/Pyongyang"
+#~ msgstr "亚洲/平壤"
+
+#~ msgid "Asia/Qatar"
+#~ msgstr "亚洲/卡塔尔"
+
+#~ msgid "Asia/Qyzylorda"
+#~ msgstr "亚洲/克孜勒奥尔达"
+
+#~ msgid "Asia/Rangoon"
+#~ msgstr "亚洲/仰光"
+
+#~ msgid "Asia/Riyadh"
+#~ msgstr "亚洲/利雅得"
+
+#~ msgid "Asia/Riyadh87"
+#~ msgstr "亚洲/利雅得87"
+
+#~ msgid "Asia/Riyadh88"
+#~ msgstr "亚洲/利雅得88"
+
+#~ msgid "Asia/Riyadh89"
+#~ msgstr "亚洲/利雅得89"
+
+#~ msgid "Asia/Saigon"
+#~ msgstr "亚洲/西贡"
+
+#~ msgid "Asia/Sakhalin"
+#~ msgstr "亚洲/萨哈林"
+
+#~ msgid "Asia/Samarkand"
+#~ msgstr "亚洲/撒马尔罕"
+
+#~ msgid "Asia/Seoul"
+#~ msgstr "亚洲/汉城"
+
+#~ msgid "Asia/Shanghai"
+#~ msgstr "亚洲/上海"
+
+#~ msgid "Asia/Singapore"
+#~ msgstr "亚洲/新加坡"
+
+#~ msgid "Asia/Taipei"
+#~ msgstr "亚洲/台北"
+
+#~ msgid "Asia/Tashkent"
+#~ msgstr "亚洲/塔什干"
+
+#~ msgid "Asia/Tbilisi"
+#~ msgstr "亚洲/第比利斯"
+
+#~ msgid "Asia/Tehran"
+#~ msgstr "亚洲/德黑兰"
+
+#~ msgid "Asia/Tel_Aviv"
+#~ msgstr "亚洲/特拉维夫市"
+
+#~ msgid "Asia/Thimbu"
+#~ msgstr "亚洲/廷布"
+
+#~ msgid "Asia/Thimphu"
+#~ msgstr "亚洲/廷布"
+
+#~ msgid "Asia/Tokyo"
+#~ msgstr "亚洲/东京"
+
+#~ msgid "Asia/Ujung_Pandang"
+#~ msgstr "亚洲/乌戎潘当"
+
+#~ msgid "Asia/Ulaanbaatar"
+#~ msgstr "亚洲/乌兰巴托"
+
+#~ msgid "Asia/Ulan_Bator"
+#~ msgstr "亚洲/乌兰巴托"
+
+#~ msgid "Asia/Urumqi"
+#~ msgstr "亚洲/乌鲁木齐"
+
+#~ msgid "Asia/Vientiane"
+#~ msgstr "亚洲/万象"
+
+#~ msgid "Asia/Vladivostok"
+#~ msgstr "亚洲/符拉迪沃斯托克"
+
+#~ msgid "Asia/Yakutsk"
+#~ msgstr "亚洲/雅库茨克"
+
+#~ msgid "Asia/Yekaterinburg"
+#~ msgstr "亚洲/叶卡捷琳堡"
+
+#~ msgid "Asia/Yerevan"
+#~ msgstr "亚洲/埃里温"
+
+#~ msgid "Atlantic/Azores"
+#~ msgstr "大西洋/亚速尔群岛"
+
+#~ msgid "Atlantic/Bermuda"
+#~ msgstr "大西洋/百慕大"
+
+#~ msgid "Atlantic/Canary"
+#~ msgstr "大西洋/加那利"
+
+#~ msgid "Atlantic/Cape_Verde"
+#~ msgstr "大西洋/佛得角"
+
+#~ msgid "Atlantic/Faeroe"
+#~ msgstr "大西洋/法罗群岛"
+
+#~ msgid "Atlantic/Faroe"
+#~ msgstr "大西洋/法罗群岛"
+
+#~ msgid "Atlantic/Jan_Mayen"
+#~ msgstr "大西洋/扬马延岛"
+
+#~ msgid "Atlantic/Madeira"
+#~ msgstr "大西洋/马德拉"
+
+#~ msgid "Atlantic/Reykjavik"
+#~ msgstr "大西洋/雷克雅未克"
+
+#~ msgid "Atlantic/South_Georgia"
+#~ msgstr "大西洋/南乔治亚"
+
+#~ msgid "Atlantic/Stanley"
+#~ msgstr "大西洋/斯坦利港"
+
+#~ msgid "Atlantic/St_Helena"
+#~ msgstr "大西洋/圣赫勒拿岛"
+
+#~ msgid "Australia/ACT"
+#~ msgstr "澳大利亚/首都"
+
+#~ msgid "Australia/Adelaide"
+#~ msgstr "澳大利亚/阿德莱德"
+
+#~ msgid "Australia/Brisbane"
+#~ msgstr "澳大利亚/布里斯班"
+
+#~ msgid "Australia/Broken_Hill"
+#~ msgstr "澳大利亚/布罗肯希尔"
+
+#~ msgid "Australia/Canberra"
+#~ msgstr "澳大利亚/堪培拉"
+
+#~ msgid "Australia/Currie"
+#~ msgstr "澳大利亚/柯里"
+
+#~ msgid "Australia/Darwin"
+#~ msgstr "澳大利亚/达尔文"
+
+#~ msgid "Australia/Eucla"
+#~ msgstr "澳大利亚/尤克拉"
+
+#~ msgid "Australia/Hobart"
+#~ msgstr "澳大利亚/霍巴特"
+
+#~ msgid "Australia/LHI"
+#~ msgstr "澳大利亚/豪勋爵岛"
+
+#~ msgid "Australia/Lindeman"
+#~ msgstr "澳大利亚/夫林曼"
+
+#~ msgid "Australia/Lord_Howe"
+#~ msgstr "澳大利亚/豪勋爵"
+
+#~ msgid "Australia/Melbourne"
+#~ msgstr "澳大利亚/墨尔本"
+
+#~ msgid "Australia/North"
+#~ msgstr "澳大利亚/北部"
+
+#~ msgid "Australia/NSW"
+#~ msgstr "澳大利亚/新南威尔士州"
+
+#~ msgid "Australia/Perth"
+#~ msgstr "澳大利亚/珀斯"
+
+#~ msgid "Australia/Queensland"
+#~ msgstr "澳大利亚/昆士兰州"
+
+#~ msgid "Australia/South"
+#~ msgstr "澳大利亚/南部"
+
+#~ msgid "Australia/Sydney"
+#~ msgstr "澳大利亚/悉尼"
+
+#~ msgid "Australia/Tasmania"
+#~ msgstr "澳大利亚/塔斯马尼亚"
+
+#~ msgid "Australia/Victoria"
+#~ msgstr "澳大利亚/维多利亚"
+
+#~ msgid "Australia/West"
+#~ msgstr "澳大利亚/西部"
+
+#~ msgid "Australia/Yancowinna"
+#~ msgstr "澳大利亚/扬科维拉"
+
+#~ msgid "Brazil/Acre"
+#~ msgstr "巴西/阿克里"
+
+#~ msgid "Brazil/DeNoronha"
+#~ msgstr "巴西/德诺罗尼亚"
+
+#~ msgid "Brazil/East"
+#~ msgstr "巴西/东部"
+
+#~ msgid "Brazil/West"
+#~ msgstr "巴西/西部"
+
+#~ msgid "Canada/Atlantic"
+#~ msgstr "加拿大/大西洋"
+
+#~ msgid "Canada/Central"
+#~ msgstr "加拿大/中部"
+
+#~ msgid "Canada/Eastern"
+#~ msgstr "加拿大/东部"
+
+#~ msgid "Canada/East-Saskatchewan"
+#~ msgstr "加拿大/东萨斯喀彻温"
+
+#~ msgid "Canada/Mountain"
+#~ msgstr "加拿大/山区"
+
+#~ msgid "Canada/Newfoundland"
+#~ msgstr "加拿大/纽芬兰"
+
+#~ msgid "Canada/Pacific"
+#~ msgstr "加拿大/太平洋"
+
+#~ msgid "Canada/Saskatchewan"
+#~ msgstr "加拿大/萨斯喀彻温"
+
+#~ msgid "Canada/Yukon"
+#~ msgstr "加拿大/育空"
+
+#~ msgid "CET"
+#~ msgstr "欧洲中部时间"
+
+#~ msgid "Chile/Continental"
+#~ msgstr "智利/大陆"
+
+#~ msgid "Chile/EasterIsland"
+#~ msgstr "智利/东岛"
+
+#~ msgid "CST6CDT"
+#~ msgstr "CST6CDT"
+
+#~ msgid "Cuba"
+#~ msgstr "古巴"
+
+#~ msgid "EET"
+#~ msgstr "欧洲东部时间"
+
+#~ msgid "Egypt"
+#~ msgstr "埃及"
+
+#~ msgid "Eire"
+#~ msgstr "爱尔兰"
+
+#~ msgid "EST"
+#~ msgstr "(美国)东部标准时间"
+
+#~ msgid "EST5EDT"
+#~ msgstr "EST5EDT"
+
+#~ msgid "Etc/GMT"
+#~ msgstr "Etc/GMT"
+
+#~ msgid "Etc/GMT0"
+#~ msgstr "Etc/GMT0"
+
+#~ msgid "Etc/GMT-0"
+#~ msgstr "Etc/GMT-0"
+
+#~ msgid "Etc/GMT+0"
+#~ msgstr "Etc/GMT+0"
+
+#~ msgid "Etc/GMT-1"
+#~ msgstr "Etc/GMT-1"
+
+#~ msgid "Etc/GMT+1"
+#~ msgstr "Etc/GMT+1"
+
+#~ msgid "Etc/GMT-10"
+#~ msgstr "Etc/GMT-10"
+
+#~ msgid "Etc/GMT+10"
+#~ msgstr "Etc/GMT+10"
+
+#~ msgid "Etc/GMT-11"
+#~ msgstr "Etc/GMT-11"
+
+#~ msgid "Etc/GMT+11"
+#~ msgstr "Etc/GMT+11"
+
+#~ msgid "Etc/GMT-12"
+#~ msgstr "Etc/GMT-12"
+
+#~ msgid "Etc/GMT+12"
+#~ msgstr "Etc/GMT+12"
+
+#~ msgid "Etc/GMT-13"
+#~ msgstr "Etc/GMT-13"
+
+#~ msgid "Etc/GMT-14"
+#~ msgstr "Etc/GMT-14"
+
+#~ msgid "Etc/GMT-2"
+#~ msgstr "Etc/GMT-2"
+
+#~ msgid "Etc/GMT+2"
+#~ msgstr "Etc/GMT+2"
+
+#~ msgid "Etc/GMT-3"
+#~ msgstr "Etc/GMT-3"
+
+#~ msgid "Etc/GMT+3"
+#~ msgstr "Etc/GMT+3"
+
+#~ msgid "Etc/GMT-4"
+#~ msgstr "Etc/GMT-4"
+
+#~ msgid "Etc/GMT+4"
+#~ msgstr "Etc/GMT+4"
+
+#~ msgid "Etc/GMT-5"
+#~ msgstr "Etc/GMT-5"
+
+#~ msgid "Etc/GMT+5"
+#~ msgstr "Etc/GMT+5"
+
+#~ msgid "Etc/GMT-6"
+#~ msgstr "Etc/GMT-6"
+
+#~ msgid "Etc/GMT+6"
+#~ msgstr "Etc/GMT+6"
+
+#~ msgid "Etc/GMT-7"
+#~ msgstr "Etc/GMT-7"
+
+#~ msgid "Etc/GMT+7"
+#~ msgstr "Etc/GMT+7"
+
+#~ msgid "Etc/GMT-8"
+#~ msgstr "Etc/GMT-8"
+
+#~ msgid "Etc/GMT+8"
+#~ msgstr "Etc/GMT+8"
+
+#~ msgid "Etc/GMT-9"
+#~ msgstr "Etc/GMT-9"
+
+#~ msgid "Etc/GMT+9"
+#~ msgstr "Etc/GMT+9"
+
+#~ msgid "Etc/Greenwich"
+#~ msgstr "Etc/格林威治"
+
+#~ msgid "Etc/UCT"
+#~ msgstr "Etc/UCT"
+
+#~ msgid "Etc/Universal"
+#~ msgstr "Etc/通用"
+
+#~ msgid "Etc/UTC"
+#~ msgstr "Etc/UTC"
+
+#~ msgid "Etc/Zulu"
+#~ msgstr "Etc/祖鲁"
+
+#~ msgid "Europe/Amsterdam"
+#~ msgstr "欧洲/阿姆斯特丹"
+
+#~ msgid "Europe/Andorra"
+#~ msgstr "欧洲/安道尔"
+
+#~ msgid "Europe/Athens"
+#~ msgstr "欧洲/雅典"
+
+#~ msgid "Europe/Belfast"
+#~ msgstr "欧洲/贝尔法斯特"
+
+#~ msgid "Europe/Belgrade"
+#~ msgstr "欧洲/贝尔格莱德"
+
+#~ msgid "Europe/Berlin"
+#~ msgstr "欧洲/柏林"
+
+#~ msgid "Europe/Bratislava"
+#~ msgstr "欧洲/布拉迪斯拉发"
+
+#~ msgid "Europe/Brussels"
+#~ msgstr "欧洲/布鲁塞尔"
+
+#~ msgid "Europe/Bucharest"
+#~ msgstr "欧洲/布加勒斯特"
+
+#~ msgid "Europe/Budapest"
+#~ msgstr "欧洲/布达佩斯"
+
+#~ msgid "Europe/Chisinau"
+#~ msgstr "欧洲/基希讷乌"
+
+#~ msgid "Europe/Copenhagen"
+#~ msgstr "欧洲/哥本哈根"
+
+#~ msgid "Europe/Dublin"
+#~ msgstr "欧洲/都柏林"
+
+#~ msgid "Europe/Gibraltar"
+#~ msgstr "欧洲/直布罗陀"
+
+#~ msgid "Europe/Guernsey"
+#~ msgstr "欧洲/格恩西岛"
+
+#~ msgid "Europe/Helsinki"
+#~ msgstr "欧洲/赫尔辛基"
+
+#~ msgid "Europe/Isle_of_Man"
+#~ msgstr "欧洲/马恩岛"
+
+#~ msgid "Europe/Istanbul"
+#~ msgstr "欧洲/伊斯坦布尔"
+
+#~ msgid "Europe/Jersey"
+#~ msgstr "欧洲/新泽西州"
+
+#~ msgid "Europe/Kaliningrad"
+#~ msgstr "欧洲/加里宁格勒"
+
+#~ msgid "Europe/Kiev"
+#~ msgstr "欧洲/基辅"
+
+#~ msgid "Europe/Lisbon"
+#~ msgstr "欧洲/里斯本"
+
+#~ msgid "Europe/Ljubljana"
+#~ msgstr "欧洲/卢布尔雅那"
+
+#~ msgid "Europe/London"
+#~ msgstr "欧洲/伦敦"
+
+#~ msgid "Europe/Luxembourg"
+#~ msgstr "欧洲/卢森堡"
+
+#~ msgid "Europe/Madrid"
+#~ msgstr "欧洲/马德里"
+
+#~ msgid "Europe/Malta"
+#~ msgstr "欧洲/马耳他"
+
+#~ msgid "Europe/Mariehamn"
+#~ msgstr "欧洲/玛丽港"
+
+#~ msgid "Europe/Minsk"
+#~ msgstr "欧洲/明斯克"
+
+#~ msgid "Europe/Monaco"
+#~ msgstr "欧洲/摩纳哥"
+
+#~ msgid "Europe/Moscow"
+#~ msgstr "欧洲/莫斯科"
+
+#~ msgid "Europe/Nicosia"
+#~ msgstr "欧洲/尼科西亚"
+
+#~ msgid "Europe/Oslo"
+#~ msgstr "欧洲/奥斯陆"
+
+#~ msgid "Europe/Paris"
+#~ msgstr "欧洲/巴黎"
+
+#~ msgid "Europe/Podgorica"
+#~ msgstr "欧洲/波德戈里察"
+
+#~ msgid "Europe/Prague"
+#~ msgstr "欧洲/布拉格"
+
+#~ msgid "Europe/Riga"
+#~ msgstr "欧洲/里加"
+
+#~ msgid "Europe/Rome"
+#~ msgstr "欧洲/罗马"
+
+#~ msgid "Europe/Samara"
+#~ msgstr "欧洲/萨马拉"
+
+#~ msgid "Europe/San_Marino"
+#~ msgstr "欧洲/圣马利诺"
+
+#~ msgid "Europe/Sarajevo"
+#~ msgstr "欧洲/萨拉热窝"
+
+#~ msgid "Europe/Simferopol"
+#~ msgstr "欧洲/辛菲罗波尔"
+
+#~ msgid "Europe/Skopje"
+#~ msgstr "欧洲/斯科普里"
+
+#~ msgid "Europe/Sofia"
+#~ msgstr "欧洲/索非亚"
+
+#~ msgid "Europe/Stockholm"
+#~ msgstr "欧洲/斯德哥尔摩"
+
+#~ msgid "Europe/Tallinn"
+#~ msgstr "欧洲/塔林"
+
+#~ msgid "Europe/Tirane"
+#~ msgstr "欧洲/地拉那"
+
+#~ msgid "Europe/Tiraspol"
+#~ msgstr "欧洲/蒂拉斯波"
+
+#~ msgid "Europe/Uzhgorod"
+#~ msgstr "欧洲/乌日哥罗德"
+
+#~ msgid "Europe/Vaduz"
+#~ msgstr "欧洲/瓦杜兹"
+
+#~ msgid "Europe/Vatican"
+#~ msgstr "欧洲/梵蒂冈"
+
+#~ msgid "Europe/Vienna"
+#~ msgstr "欧洲/维也纳"
+
+#~ msgid "Europe/Vilnius"
+#~ msgstr "欧洲/维尔纽斯"
+
+#~ msgid "Europe/Volgograd"
+#~ msgstr "欧洲/伏尔加格勒"
+
+#~ msgid "Europe/Warsaw"
+#~ msgstr "欧洲/华沙"
+
+#~ msgid "Europe/Zagreb"
+#~ msgstr "欧洲/萨格勒布"
+
+#~ msgid "Europe/Zaporozhye"
+#~ msgstr "欧洲/扎波罗热"
+
+#~ msgid "Europe/Zurich"
+#~ msgstr "欧洲/苏黎世"
+
+#~ msgid "Factory"
+#~ msgstr "出厂"
+
+#~ msgid "GB"
+#~ msgstr "英国"
+
+#~ msgid "GB-Eire"
+#~ msgstr "英国-爱尔兰"
+
+#~ msgid "GMT"
+#~ msgstr "格林尼治标准时间"
+
+#~ msgid "GMT0"
+#~ msgstr "格林尼治标准时间0"
+
+#~ msgid "GMT-0"
+#~ msgstr "格林尼治标准时间-0"
+
+#~ msgid "GMT+0"
+#~ msgstr "格林尼治标准时间+0"
+
+#~ msgid "Greenwich"
+#~ msgstr "格林威治"
+
+#~ msgid "Hongkong"
+#~ msgstr "香港"
+
+#~ msgid "HST"
+#~ msgstr "夏威夷标准时间"
+
+#~ msgid "Iceland"
+#~ msgstr "冰岛"
+
+#~ msgid "Indian/Antananarivo"
+#~ msgstr "印度/塔那那利佛"
+
+#~ msgid "Indian/Chagos"
+#~ msgstr "印度/戈斯"
+
+#~ msgid "Indian/Christmas"
+#~ msgstr "印度/圣诞岛"
+
+#~ msgid "Indian/Cocos"
+#~ msgstr "印度/科科斯"
+
+#~ msgid "Indian/Comoro"
+#~ msgstr "印度/科摩罗"
+
+#~ msgid "Indian/Kerguelen"
+#~ msgstr "印度/克尔格伦"
+
+#~ msgid "Indian/Mahe"
+#~ msgstr "印度/马埃"
+
+#~ msgid "Indian/Maldives"
+#~ msgstr "印度/马尔代夫"
+
+#~ msgid "Indian/Mauritius"
+#~ msgstr "印度/毛里求斯"
+
+#~ msgid "Indian/Mayotte"
+#~ msgstr "印度/马约特岛"
+
+#~ msgid "Indian/Reunion"
+#~ msgstr "印度/留尼汪"
+
+#~ msgid "Iran"
+#~ msgstr "伊朗"
+
+#~ msgid "Israel"
+#~ msgstr "以色列"
+
+#~ msgid "Jamaica"
+#~ msgstr "牙买加"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Kwajalein"
+#~ msgstr "夸贾林"
+
+#~ msgid "Libya"
+#~ msgstr "利比亚"
+
+#~ msgid "MET"
+#~ msgstr "MET"
+
+#~ msgid "Mexico/BajaNorte"
+#~ msgstr "墨西哥/北下诺特"
+
+#~ msgid "Mexico/BajaSur"
+#~ msgstr "墨西哥/北下苏尔"
+
+#~ msgid "Mexico/General"
+#~ msgstr "墨西哥/普通地区"
+
+#~ msgid "Mideast/Riyadh87"
+#~ msgstr "中东/利雅得87"
+
+#~ msgid "Mideast/Riyadh88"
+#~ msgstr "中东/利雅得88"
+
+#~ msgid "Mideast/Riyadh89"
+#~ msgstr "中东/利雅得89"
+
+#~ msgid "MST"
+#~ msgstr "MST"
+
+#~ msgid "MST7MDT"
+#~ msgstr "MST7MDT"
+
+#~ msgid "Navajo"
+#~ msgstr "纳瓦霍"
+
+#~ msgid "NZ"
+#~ msgstr "新西兰"
+
+#~ msgid "NZ-CHAT"
+#~ msgstr "NZ-CHAT"
+
+#~ msgid "Pacific/Apia"
+#~ msgstr "太平洋/阿皮亚"
+
+#~ msgid "Pacific/Auckland"
+#~ msgstr "太平洋/奥克兰"
+
+#~ msgid "Pacific/Chatham"
+#~ msgstr "太平洋/查塔姆群岛"
+
+#~ msgid "Pacific/Easter"
+#~ msgstr "太平洋/复活节岛"
+
+#~ msgid "Pacific/Efate"
+#~ msgstr "太平洋/埃法特岛"
+
+#~ msgid "Pacific/Enderbury"
+#~ msgstr "太平洋/恩德伯里"
+
+#~ msgid "Pacific/Fakaofo"
+#~ msgstr "太平洋/法考福"
+
+#~ msgid "Pacific/Fiji"
+#~ msgstr "太平洋/斐济"
+
+#~ msgid "Pacific/Funafuti"
+#~ msgstr "太平洋/富纳富提"
+
+#~ msgid "Pacific/Galapagos"
+#~ msgstr "太平洋/加拉帕戈斯群岛"
+
+#~ msgid "Pacific/Gambier"
+#~ msgstr "太平洋/甘比尔群岛"
+
+#~ msgid "Pacific/Guadalcanal"
+#~ msgstr "太平洋/瓜达尔卡纳尔岛"
+
+#~ msgid "Pacific/Guam"
+#~ msgstr "太平洋/关岛"
+
+#~ msgid "Pacific/Honolulu"
+#~ msgstr "太平洋/火奴鲁鲁"
+
+#~ msgid "Pacific/Johnston"
+#~ msgstr "太平洋/约翰斯顿"
+
+#~ msgid "Pacific/Kiritimati"
+#~ msgstr "太平洋/克瑞提马提"
+
+#~ msgid "Pacific/Kosrae"
+#~ msgstr "太平洋/科斯雷"
+
+#~ msgid "Pacific/Kwajalein"
+#~ msgstr "太平洋/瓜加林岛"
+
+#~ msgid "Pacific/Majuro"
+#~ msgstr "太平洋/马朱罗"
+
+#~ msgid "Pacific/Marquesas"
+#~ msgstr "太平洋/马克萨斯"
+
+#~ msgid "Pacific/Midway"
+#~ msgstr "太平洋/中途岛"
+
+#~ msgid "Pacific/Nauru"
+#~ msgstr "太平洋/瑙鲁"
+
+#~ msgid "Pacific/Niue"
+#~ msgstr "太平洋/纽埃"
+
+#~ msgid "Pacific/Norfolk"
+#~ msgstr "太平洋/诺福克"
+
+#~ msgid "Pacific/Noumea"
+#~ msgstr "太平洋/努美阿"
+
+#~ msgid "Pacific/Pago_Pago"
+#~ msgstr "太平洋/帕果帕果"
+
+#~ msgid "Pacific/Palau"
+#~ msgstr "太平洋/帕劳"
+
+#~ msgid "Pacific/Pitcairn"
+#~ msgstr "太平洋/皮特凯恩"
+
+#~ msgid "Pacific/Ponape"
+#~ msgstr "太平洋/波纳佩岛"
+
+#~ msgid "Pacific/Port_Moresby"
+#~ msgstr "太平洋/莫尔兹比港"
+
+#~ msgid "Pacific/Rarotonga"
+#~ msgstr "太平洋/拉罗汤加"
+
+#~ msgid "Pacific/Saipan"
+#~ msgstr "太平洋/塞班岛"
+
+#~ msgid "Pacific/Samoa"
+#~ msgstr "太平洋/萨摩亚"
+
+#~ msgid "Pacific/Tahiti"
+#~ msgstr "太平洋/塔希提岛"
+
+#~ msgid "Pacific/Tarawa"
+#~ msgstr "太平洋/塔拉瓦"
+
+#~ msgid "Pacific/Tongatapu"
+#~ msgstr "太平洋/汤加"
+
+#~ msgid "Pacific/Truk"
+#~ msgstr "太平洋/特鲁克"
+
+#~ msgid "Pacific/Wake"
+#~ msgstr "太平洋/威克岛"
+
+#~ msgid "Pacific/Wallis"
+#~ msgstr "太平洋/瓦利斯"
+
+#~ msgid "Pacific/Yap"
+#~ msgstr "太平洋/雅浦群岛"
+
+#~ msgid "Poland"
+#~ msgstr "波兰"
+
+#~ msgid "Portugal"
+#~ msgstr "葡萄牙"
+
+#~ msgid "PRC"
+#~ msgstr "中华人民共和国"
+
+#~ msgid "PST8PDT"
+#~ msgstr "PST8PDT"
+
+#~ msgid "ROC"
+#~ msgstr "ROC"
+
+#~ msgid "Singapore"
+#~ msgstr "新加坡"
+
+#~ msgid "Turkey"
+#~ msgstr "土耳其"
+
+#~ msgid "UCT"
+#~ msgstr "通用调整时间"
+
+#~ msgid "Universal"
+#~ msgstr "通用"
+
+#~ msgid "US/Alaska"
+#~ msgstr "美国/阿拉斯加"
+
+#~ msgid "US/Aleutian"
+#~ msgstr "美国/阿留申群岛"
+
+#~ msgid "US/Arizona"
+#~ msgstr "美国/亚利桑那"
+
+#~ msgid "US/Central"
+#~ msgstr "美国/中部"
+
+#~ msgid "US/Eastern"
+#~ msgstr "美国/东部"
+
+#~ msgid "US/East-Indiana"
+#~ msgstr "美国/东印第安纳"
+
+#~ msgid "US/Hawaii"
+#~ msgstr "美国/夏威夷"
+
+#~ msgid "US/Indiana-Starke"
+#~ msgstr "美国/印第安纳-斯塔克"
+
+#~ msgid "US/Michigan"
+#~ msgstr "美国/密歇根"
+
+#~ msgid "US/Mountain"
+#~ msgstr "美国/山区"
+
+#~ msgid "US/Pacific"
+#~ msgstr "美国/太平洋"
+
+#~ msgid "US/Pacific-New"
+#~ msgstr "美国/新太平洋"
+
+#~ msgid "US/Samoa"
+#~ msgstr "美国/萨摩亚"
+
+#~ msgid "UTC"
+#~ msgstr "世界标准时间"
+
+#~ msgid "WET"
+#~ msgstr "WET"
+
+#~ msgid "W-SU"
+#~ msgstr "W-SU"
+
+#~ msgid "Zulu"
+#~ msgstr "祖鲁"
