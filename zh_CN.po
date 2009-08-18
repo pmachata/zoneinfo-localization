@@ -1,4 +1,4 @@
-# translation of system-config-date.master.po to Simplified Chinese
+# translation of system-config-date.master-timezones.po to Simplified Chinese
 # translation of zh_CN.po to
 # Simplified Chinese Version of timezone.
 # Copyright (C) 2002 Red Hat, Inc.
@@ -11,15 +11,16 @@
 # Gong Han <Gong@fedoraproject.org>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: zh_CN\n"
+"Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2009-07-22 11:19+0800\n"
+"PO-Revision-Date: 2009-08-18 11:02+1000\n"
 "Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -262,7 +263,6 @@ msgid "America/Argentina/Catamarca"
 msgstr "美洲/阿根廷/卡它马卡"
 
 #: timezones.h:61
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
 msgstr "美洲/阿根廷/ComodRivadavia"
 
@@ -307,9 +307,8 @@ msgid "America/Asuncion"
 msgstr "美洲/亚松森"
 
 #: timezones.h:72
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "美洲/Atikokan"
+msgstr "美洲/阿蒂科肯"
 
 #: timezones.h:73
 msgid "America/Atka"
@@ -436,9 +435,8 @@ msgid "America/Edmonton"
 msgstr "美洲/埃德蒙顿"
 
 #: timezones.h:104
-#, fuzzy
 msgid "America/Eirunepe"
-msgstr "美洲/Eirunepe"
+msgstr "美洲/埃鲁内佩"
 
 #: timezones.h:105
 msgid "America/El_Salvador"
@@ -525,7 +523,6 @@ msgid "America/Indianapolis"
 msgstr "美洲/印第安纳波利斯"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
 msgstr "美洲/印第安纳/Tell_City"
 
@@ -570,7 +567,6 @@ msgid "America/Kentucky/Monticello"
 msgstr "美洲/肯塔基/蒙蒂塞洛"
 
 #: timezones.h:137
-#, fuzzy
 msgid "America/Knox_IN"
 msgstr "美洲/Knox_IN"
 
@@ -851,7 +847,6 @@ msgid "Antarctica/Davis"
 msgstr "南极洲/戴维斯"
 
 #: timezones.h:207
-#, fuzzy
 msgid "Antarctica/DumontDUrville"
 msgstr "南极洲/DumontDUrville"
 
@@ -1100,7 +1095,6 @@ msgid "Asia/Omsk"
 msgstr "亚洲/鄂木斯克"
 
 #: timezones.h:269
-#, fuzzy
 msgid "Asia/Oral"
 msgstr "亚洲/Oral"
 
@@ -1321,9 +1315,8 @@ msgid "Australia/Hobart"
 msgstr "澳大利亚/霍巴特"
 
 #: timezones.h:324
-#, fuzzy
 msgid "Australia/LHI"
-msgstr "澳大利亚/LHI"
+msgstr "澳大利亚/豪勋爵岛"
 
 #: timezones.h:325
 msgid "Australia/Lindeman"
@@ -1374,9 +1367,8 @@ msgid "Australia/West"
 msgstr "澳大利亚/西部"
 
 #: timezones.h:337
-#, fuzzy
 msgid "Australia/Yancowinna"
-msgstr "澳大利亚/Yancowinna"
+msgstr "澳大利亚/扬科维拉"
 
 #: timezones.h:338
 msgid "Brazil/Acre"
@@ -1444,7 +1436,7 @@ msgstr "智利/东岛"
 
 #: timezones.h:354
 msgid "CST6CDT"
-msgstr ""
+msgstr "CST6CDT"
 
 #: timezones.h:355
 msgid "Cuba"
@@ -1468,149 +1460,147 @@ msgstr "(美国)东部标准时间"
 
 #: timezones.h:360
 msgid "EST5EDT"
-msgstr ""
+msgstr "EST5EDT"
 
 #: timezones.h:361
-#, fuzzy
 msgid "Etc/GMT"
-msgstr "Etc/格林威治标准时间"
+msgstr "Etc/GMT"
 
 #: timezones.h:362
 msgid "Etc/GMT0"
-msgstr ""
+msgstr "Etc/GMT0"
 
 #: timezones.h:363
 msgid "Etc/GMT-0"
-msgstr ""
+msgstr "Etc/GMT-0"
 
 #: timezones.h:364
 msgid "Etc/GMT+0"
-msgstr ""
+msgstr "Etc/GMT+0"
 
 #: timezones.h:365
 msgid "Etc/GMT-1"
-msgstr ""
+msgstr "Etc/GMT-1"
 
 #: timezones.h:366
 msgid "Etc/GMT+1"
-msgstr ""
+msgstr "Etc/GMT+1"
 
 #: timezones.h:367
 msgid "Etc/GMT-10"
-msgstr ""
+msgstr "Etc/GMT-10"
 
 #: timezones.h:368
 msgid "Etc/GMT+10"
-msgstr ""
+msgstr "Etc/GMT+10"
 
 #: timezones.h:369
 msgid "Etc/GMT-11"
-msgstr ""
+msgstr "Etc/GMT-11"
 
 #: timezones.h:370
 msgid "Etc/GMT+11"
-msgstr ""
+msgstr "Etc/GMT+11"
 
 #: timezones.h:371
 msgid "Etc/GMT-12"
-msgstr ""
+msgstr "Etc/GMT-12"
 
 #: timezones.h:372
 msgid "Etc/GMT+12"
-msgstr ""
+msgstr "Etc/GMT+12"
 
 #: timezones.h:373
 msgid "Etc/GMT-13"
-msgstr ""
+msgstr "Etc/GMT-13"
 
 #: timezones.h:374
 msgid "Etc/GMT-14"
-msgstr ""
+msgstr "Etc/GMT-14"
 
 #: timezones.h:375
 msgid "Etc/GMT-2"
-msgstr ""
+msgstr "Etc/GMT-2"
 
 #: timezones.h:376
 msgid "Etc/GMT+2"
-msgstr ""
+msgstr "Etc/GMT+2"
 
 #: timezones.h:377
 msgid "Etc/GMT-3"
-msgstr ""
+msgstr "Etc/GMT-3"
 
 #: timezones.h:378
 msgid "Etc/GMT+3"
-msgstr ""
+msgstr "Etc/GMT+3"
 
 #: timezones.h:379
 msgid "Etc/GMT-4"
-msgstr ""
+msgstr "Etc/GMT-4"
 
 #: timezones.h:380
 msgid "Etc/GMT+4"
-msgstr ""
+msgstr "Etc/GMT+4"
 
 #: timezones.h:381
 msgid "Etc/GMT-5"
-msgstr ""
+msgstr "Etc/GMT-5"
 
 #: timezones.h:382
 msgid "Etc/GMT+5"
-msgstr ""
+msgstr "Etc/GMT+5"
 
 #: timezones.h:383
 msgid "Etc/GMT-6"
-msgstr ""
+msgstr "Etc/GMT-6"
 
 #: timezones.h:384
 msgid "Etc/GMT+6"
-msgstr ""
+msgstr "Etc/GMT+6"
 
 #: timezones.h:385
 msgid "Etc/GMT-7"
-msgstr ""
+msgstr "Etc/GMT-7"
 
 #: timezones.h:386
 msgid "Etc/GMT+7"
-msgstr ""
+msgstr "Etc/GMT+7"
 
 #: timezones.h:387
 msgid "Etc/GMT-8"
-msgstr ""
+msgstr "Etc/GMT-8"
 
 #: timezones.h:388
 msgid "Etc/GMT+8"
-msgstr ""
+msgstr "Etc/GMT+8"
 
 #: timezones.h:389
 msgid "Etc/GMT-9"
-msgstr ""
+msgstr "Etc/GMT-9"
 
 #: timezones.h:390
 msgid "Etc/GMT+9"
-msgstr ""
+msgstr "Etc/GMT+9"
 
 #: timezones.h:391
-#, fuzzy
 msgid "Etc/Greenwich"
 msgstr "Etc/格林威治"
 
 #: timezones.h:392
 msgid "Etc/UCT"
-msgstr ""
+msgstr "Etc/UCT"
 
 #: timezones.h:393
 msgid "Etc/Universal"
-msgstr ""
+msgstr "Etc/通用"
 
 #: timezones.h:394
 msgid "Etc/UTC"
-msgstr ""
+msgstr "Etc/UTC"
 
 #: timezones.h:395
 msgid "Etc/Zulu"
-msgstr ""
+msgstr "Etc/祖鲁"
 
 #: timezones.h:396
 msgid "Europe/Amsterdam"
@@ -1846,7 +1836,7 @@ msgstr "欧洲/苏黎世"
 
 #: timezones.h:454
 msgid "Factory"
-msgstr ""
+msgstr "出厂"
 
 #: timezones.h:455
 msgid "GB"
@@ -1958,22 +1948,19 @@ msgstr "利比亚"
 
 #: timezones.h:482
 msgid "MET"
-msgstr ""
+msgstr "MET"
 
 #: timezones.h:483
-#, fuzzy
 msgid "Mexico/BajaNorte"
-msgstr "墨西哥/BajaNorte"
+msgstr "墨西哥/北下诺特"
 
 #: timezones.h:484
-#, fuzzy
 msgid "Mexico/BajaSur"
-msgstr "墨西哥/BajaSur"
+msgstr "墨西哥/北下苏尔"
 
 #: timezones.h:485
-#, fuzzy
 msgid "Mexico/General"
-msgstr "墨西哥/General"
+msgstr "墨西哥/普通地区"
 
 #: timezones.h:486
 msgid "Mideast/Riyadh87"
@@ -1989,11 +1976,11 @@ msgstr "中东/利雅得89"
 
 #: timezones.h:489
 msgid "MST"
-msgstr ""
+msgstr "MST"
 
 #: timezones.h:490
 msgid "MST7MDT"
-msgstr ""
+msgstr "MST7MDT"
 
 #: timezones.h:491
 msgid "Navajo"
@@ -2005,7 +1992,7 @@ msgstr "新西兰"
 
 #: timezones.h:493
 msgid "NZ-CHAT"
-msgstr ""
+msgstr "NZ-CHAT"
 
 #: timezones.h:494
 msgid "Pacific/Apia"
@@ -2156,9 +2143,8 @@ msgid "Pacific/Truk"
 msgstr "太平洋/特鲁克"
 
 #: timezones.h:531
-#, fuzzy
 msgid "Pacific/Wake"
-msgstr "太平洋/Wake"
+msgstr "太平洋/威克岛"
 
 #: timezones.h:532
 msgid "Pacific/Wallis"
@@ -2182,15 +2168,13 @@ msgstr "中华人民共和国"
 
 #: timezones.h:537
 msgid "PST8PDT"
-msgstr ""
+msgstr "PST8PDT"
 
 #: timezones.h:538
-#, fuzzy
 msgid "ROC"
 msgstr "ROC"
 
 #: timezones.h:539
-#, fuzzy
 msgid "ROK"
 msgstr "ROK"
 
@@ -2207,9 +2191,8 @@ msgid "UCT"
 msgstr "通用调整时间"
 
 #: timezones.h:543
-#, fuzzy
 msgid "Universal"
-msgstr "Universal"
+msgstr "通用"
 
 #: timezones.h:544
 msgid "US/Alaska"
@@ -2269,12 +2252,13 @@ msgstr "世界标准时间"
 
 #: timezones.h:558
 msgid "WET"
-msgstr ""
+msgstr "WET"
 
 #: timezones.h:559
 msgid "W-SU"
-msgstr ""
+msgstr "W-SU"
 
 #: timezones.h:560
 msgid "Zulu"
 msgstr "祖鲁"
+
