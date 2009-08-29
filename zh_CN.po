@@ -1,2264 +1,2009 @@
-# translation of system-config-date.master-timezones.po to Simplified Chinese
+# translation of timezones.tip.po to Simplified Chinese
+# translation of zh_CN.po to
 # translation of zh_CN.po to
 # Simplified Chinese Version of timezone.
 # Copyright (C) 2002 Red Hat, Inc.
-#
 # Sarah Wang <sarahs@redhat.com>, 2003.
 # Xi Huang <xhuang@redhat.com>, 2006.
 # Leah Liu <lliu@redhat.com>, 2008.
-# Leah Liu <lliu@redhat.com>, 2009.
-# Tian Shixiong <tiansworld@gmail.com>, 2009.
-# Gong Han <Gong@fedoraproject.org>, 2009.
+# Yu Feng <rainwoodman@gmail.com>, 2008.
+# Yu Feng <rainwoodman@gmail.com>, 2009.
+# pingman <pingman@fedoraproject.org>, 2009.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones\n"
+"Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2009-08-18 11:02+1000\n"
-"Last-Translator: Leah Liu <lliu@redhat.com>\n"
-"Language-Team: Simplified Chinese <zh@li.org>\n"
+"POT-Creation-Date: 2008-01-30 14:34+0100\n"
+"PO-Revision-Date: 2009-08-29 19:45+0800\n"
+"Last-Translator: pingman <pingman@fedoraproject.org>\n"
+"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-
-#: timezones.h:1
-msgid "Africa/Abidjan"
-msgstr "非洲/阿比让"
-
-#: timezones.h:2
-msgid "Africa/Accra"
-msgstr "非洲/阿克拉"
-
-#: timezones.h:3
-msgid "Africa/Addis_Ababa"
-msgstr "非洲/亚地斯亚贝巴"
-
-#: timezones.h:4
-msgid "Africa/Algiers"
-msgstr "非洲/阿尔及尔"
-
-#: timezones.h:5
-msgid "Africa/Asmara"
-msgstr "非洲/阿斯马拉"
-
-#: timezones.h:6
-msgid "Africa/Asmera"
-msgstr "非洲/阿斯美拉"
-
-#: timezones.h:7
-msgid "Africa/Bamako"
-msgstr "非洲/巴马科"
-
-#: timezones.h:8
-msgid "Africa/Bangui"
-msgstr "非洲/班吉"
-
-#: timezones.h:9
-msgid "Africa/Banjul"
-msgstr "非洲/班珠尔"
-
-#: timezones.h:10
-msgid "Africa/Bissau"
-msgstr "非洲/比绍"
-
-#: timezones.h:11
-msgid "Africa/Blantyre"
-msgstr "非洲/布兰太尔"
-
-#: timezones.h:12
-msgid "Africa/Brazzaville"
-msgstr "非洲/布拉柴维尔"
-
-#: timezones.h:13
-msgid "Africa/Bujumbura"
-msgstr "非洲/布琼布拉"
-
-#: timezones.h:14
-msgid "Africa/Cairo"
-msgstr "非洲/开罗"
-
-#: timezones.h:15
-msgid "Africa/Casablanca"
-msgstr "非洲/卡萨布兰卡"
-
-#: timezones.h:16
-msgid "Africa/Ceuta"
-msgstr "非洲/西屋达"
-
-#: timezones.h:17
-msgid "Africa/Conakry"
-msgstr "非洲/科纳克里"
-
-#: timezones.h:18
-msgid "Africa/Dakar"
-msgstr "非洲/达喀尔"
-
-#: timezones.h:19
-msgid "Africa/Dar_es_Salaam"
-msgstr "非洲/达勒斯萨拉姆"
-
-#: timezones.h:20
-msgid "Africa/Djibouti"
-msgstr "非洲/吉布提"
-
-#: timezones.h:21
-msgid "Africa/Douala"
-msgstr "非洲/杜阿拉"
-
-#: timezones.h:22
-msgid "Africa/El_Aaiun"
-msgstr "非洲/阿尤恩"
-
-#: timezones.h:23
-msgid "Africa/Freetown"
-msgstr "非洲/弗里敦"
-
-#: timezones.h:24
-msgid "Africa/Gaborone"
-msgstr "非洲/哈博罗内"
-
-#: timezones.h:25
-msgid "Africa/Harare"
-msgstr "非洲/哈拉雷"
-
-#: timezones.h:26
-msgid "Africa/Johannesburg"
-msgstr "非洲/约翰内斯堡"
-
-#: timezones.h:27
-msgid "Africa/Kampala"
-msgstr "非洲/坎帕拉"
-
-#: timezones.h:28
-msgid "Africa/Khartoum"
-msgstr "非洲/喀什木"
-
-#: timezones.h:29
-msgid "Africa/Kigali"
-msgstr "非洲/基加利"
-
-#: timezones.h:30
-msgid "Africa/Kinshasa"
-msgstr "非洲/金沙萨"
-
-#: timezones.h:31
-msgid "Africa/Lagos"
-msgstr "非洲/拉格斯"
-
-#: timezones.h:32
-msgid "Africa/Libreville"
-msgstr "非洲/立伯维尔"
-
-#: timezones.h:33
-msgid "Africa/Lome"
-msgstr "非洲/洛美"
-
-#: timezones.h:34
-msgid "Africa/Luanda"
-msgstr "非洲/卢旺达"
-
-#: timezones.h:35
-msgid "Africa/Lubumbashi"
-msgstr "非洲/卢本巴希"
-
-#: timezones.h:36
-msgid "Africa/Lusaka"
-msgstr "非洲/卢萨卡"
-
-#: timezones.h:37
-msgid "Africa/Malabo"
-msgstr "非洲/马拉博"
-
-#: timezones.h:38
-msgid "Africa/Maputo"
-msgstr "非洲/马普托"
-
-#: timezones.h:39
-msgid "Africa/Maseru"
-msgstr "非洲/马塞卢"
-
-#: timezones.h:40
-msgid "Africa/Mbabane"
-msgstr "非洲/母巴巴纳"
-
-#: timezones.h:41
-msgid "Africa/Mogadishu"
-msgstr "非洲/摩加迪沙"
-
-#: timezones.h:42
-msgid "Africa/Monrovia"
-msgstr "非洲/蒙罗维亚"
-
-#: timezones.h:43
-msgid "Africa/Nairobi"
-msgstr "非洲/内罗毕"
-
-#: timezones.h:44
-msgid "Africa/Ndjamena"
-msgstr "非洲/恩贾梅纳"
-
-#: timezones.h:45
-msgid "Africa/Niamey"
-msgstr "非洲/尼亚美"
-
-#: timezones.h:46
-msgid "Africa/Nouakchott"
-msgstr "非洲/努瓦肖克特"
-
-#: timezones.h:47
-msgid "Africa/Ouagadougou"
-msgstr "非洲/瓦加杜古"
-
-#: timezones.h:48
-msgid "Africa/Porto-Novo"
-msgstr "非洲/波多诺伏"
-
-#: timezones.h:49
-msgid "Africa/Sao_Tome"
-msgstr "非洲/圣多美"
-
-#: timezones.h:50
-msgid "Africa/Timbuktu"
-msgstr "非洲/延巴克图"
-
-#: timezones.h:51
-msgid "Africa/Tripoli"
-msgstr "非洲/的黎波里"
-
-#: timezones.h:52
-msgid "Africa/Tunis"
-msgstr "非洲/突尼斯"
-
-#: timezones.h:53
-msgid "Africa/Windhoek"
-msgstr "非洲/温得和克"
-
-#: timezones.h:54
-msgid "America/Adak"
-msgstr "美洲/阿达克"
-
-#: timezones.h:55
-msgid "America/Anchorage"
-msgstr "美洲/安克雷奇"
-
-#: timezones.h:56
-msgid "America/Anguilla"
-msgstr "美洲/安圭拉"
-
-#: timezones.h:57
-msgid "America/Antigua"
-msgstr "美洲/安提瓜"
-
-#: timezones.h:58
-msgid "America/Araguaina"
-msgstr "美洲/阿拉瓜伊纳"
-
-#: timezones.h:59
-msgid "America/Argentina/Buenos_Aires"
-msgstr "美洲/阿根廷/布宜诺斯艾利斯"
-
-#: timezones.h:60
-msgid "America/Argentina/Catamarca"
-msgstr "美洲/阿根廷/卡它马卡"
-
-#: timezones.h:61
-msgid "America/Argentina/ComodRivadavia"
-msgstr "美洲/阿根廷/ComodRivadavia"
-
-#: timezones.h:62
-msgid "America/Argentina/Cordoba"
-msgstr "美洲/阿根廷/科尔多瓦"
-
-#: timezones.h:63
-msgid "America/Argentina/Jujuy"
-msgstr "美洲/阿根廷/胡胡伊"
-
-#: timezones.h:64
-msgid "America/Argentina/La_Rioja"
-msgstr "美洲/阿根廷/拉里奥哈"
-
-#: timezones.h:65
-msgid "America/Argentina/Mendoza"
-msgstr "美洲/阿根廷/门多萨"
-
-#: timezones.h:66
-msgid "America/Argentina/Rio_Gallegos"
-msgstr "美洲/阿根廷/里奥加耶格斯"
-
-#: timezones.h:67
-msgid "America/Argentina/San_Juan"
-msgstr "美洲/阿根廷/圣胡安"
-
-#: timezones.h:68
-msgid "America/Argentina/Tucuman"
-msgstr "美洲/阿根廷/图库曼"
-
-#: timezones.h:69
-msgid "America/Argentina/Ushuaia"
-msgstr "美洲/阿根廷/乌斯怀亚"
-
-#: timezones.h:70
-msgid "America/Aruba"
-msgstr "美洲/阿鲁巴"
-
-#: timezones.h:71
-msgid "America/Asuncion"
-msgstr "美洲/亚松森"
-
-#: timezones.h:72
-msgid "America/Atikokan"
-msgstr "美洲/阿蒂科肯"
-
-#: timezones.h:73
-msgid "America/Atka"
-msgstr "美洲/阿特卡"
-
-#: timezones.h:74
-msgid "America/Bahia"
-msgstr "美洲/巴伊亚"
-
-#: timezones.h:75
-msgid "America/Barbados"
-msgstr "美洲/巴巴多斯"
-
-#: timezones.h:76
-msgid "America/Belem"
-msgstr "美洲/贝伦"
-
-#: timezones.h:77
-msgid "America/Belize"
-msgstr "美洲/伯利兹"
-
-#: timezones.h:78
-msgid "America/Blanc-Sablon"
-msgstr "美洲/勃朗峰萨伯隆"
-
-#: timezones.h:79
-msgid "America/Boa_Vista"
-msgstr "美洲/博阿维斯塔"
-
-#: timezones.h:80
-msgid "America/Bogota"
-msgstr "美洲/波哥大"
-
-#: timezones.h:81
-msgid "America/Boise"
-msgstr "美洲/博伊西"
-
-#: timezones.h:82
-msgid "America/Buenos_Aires"
-msgstr "美洲/布宜诺斯艾利斯"
-
-#: timezones.h:83
-msgid "America/Cambridge_Bay"
-msgstr "美洲/剑桥湾"
-
-#: timezones.h:84
-msgid "America/Campo_Grande"
-msgstr "美洲/大坎普"
-
-#: timezones.h:85
-msgid "America/Cancun"
-msgstr "美洲/坎昆"
-
-#: timezones.h:86
-msgid "America/Caracas"
-msgstr "美洲/加拉加斯"
-
-#: timezones.h:87
-msgid "America/Catamarca"
-msgstr "美洲/卡塔马卡"
-
-#: timezones.h:88
-msgid "America/Cayenne"
-msgstr "美洲/卡宴"
-
-#: timezones.h:89
-msgid "America/Cayman"
-msgstr "美洲/开曼"
-
-#: timezones.h:90
-msgid "America/Chicago"
-msgstr "美洲/芝加哥"
-
-#: timezones.h:91
-msgid "America/Chihuahua"
-msgstr "美洲/奇瓦瓦"
-
-#: timezones.h:92
-msgid "America/Coral_Harbour"
-msgstr "美洲/科勒尔港"
-
-#: timezones.h:93
-msgid "America/Cordoba"
-msgstr "美洲/科尔多瓦"
-
-#: timezones.h:94
-msgid "America/Costa_Rica"
-msgstr "美洲/哥斯达黎加"
-
-#: timezones.h:95
-msgid "America/Cuiaba"
-msgstr "美洲/库亚巴"
-
-#: timezones.h:96
-msgid "America/Curacao"
-msgstr "美洲/库拉索"
-
-#: timezones.h:97
-msgid "America/Danmarkshavn"
-msgstr "美洲/格陵兰"
-
-#: timezones.h:98
-msgid "America/Dawson"
-msgstr "美洲/道森"
-
-#: timezones.h:99
-msgid "America/Dawson_Creek"
-msgstr "美洲/道森克里克"
-
-#: timezones.h:100
-msgid "America/Denver"
-msgstr "美洲/丹佛"
-
-#: timezones.h:101
-msgid "America/Detroit"
-msgstr "美洲/底特律"
-
-#: timezones.h:102
-msgid "America/Dominica"
-msgstr "美洲/多米尼加"
-
-#: timezones.h:103
-msgid "America/Edmonton"
-msgstr "美洲/埃德蒙顿"
-
-#: timezones.h:104
-msgid "America/Eirunepe"
-msgstr "美洲/埃鲁内佩"
-
-#: timezones.h:105
-msgid "America/El_Salvador"
-msgstr "美洲/厄瓜多尔"
-
-#: timezones.h:106
-msgid "America/Ensenada"
-msgstr "美洲/恩塞纳达"
-
-#: timezones.h:107
-msgid "America/Fortaleza"
-msgstr "美洲/福塔莱萨"
-
-#: timezones.h:108
-msgid "America/Fort_Wayne"
-msgstr "美洲/韦恩堡"
-
-#: timezones.h:109
-msgid "America/Glace_Bay"
-msgstr "美洲/塔斯湾"
-
-#: timezones.h:110
-msgid "America/Godthab"
-msgstr "美洲/戈特雷布"
-
-#: timezones.h:111
-msgid "America/Goose_Bay"
-msgstr "美洲/鹅湾"
-
-#: timezones.h:112
-msgid "America/Grand_Turk"
-msgstr "美洲/大特克"
-
-#: timezones.h:113
-msgid "America/Grenada"
-msgstr "美洲/格林纳达"
-
-#: timezones.h:114
-msgid "America/Guadeloupe"
-msgstr "美洲/瓜德罗普岛"
-
-#: timezones.h:115
-msgid "America/Guatemala"
-msgstr "美洲/危地马拉"
-
-#: timezones.h:116
-msgid "America/Guayaquil"
-msgstr "美洲/圭亚基尔"
-
-#: timezones.h:117
-msgid "America/Guyana"
-msgstr "美洲/圭亚那"
-
-#: timezones.h:118
-msgid "America/Halifax"
-msgstr "美洲/哈里发克斯"
-
-#: timezones.h:119
-msgid "America/Havana"
-msgstr "美洲/哈瓦那"
-
-#: timezones.h:120
-msgid "America/Hermosillo"
-msgstr "美洲/埃莫西约"
-
-#: timezones.h:121
-msgid "America/Indiana/Indianapolis"
-msgstr "美洲/印第安纳/印第安纳波利斯"
-
-#: timezones.h:122
-msgid "America/Indiana/Knox"
-msgstr "美洲/印第安纳/诺克斯"
-
-#: timezones.h:123
-msgid "America/Indiana/Marengo"
-msgstr "美洲/印第安纳/马伦戈"
-
-#: timezones.h:124
-msgid "America/Indiana/Petersburg"
-msgstr "美洲/印第安纳/彼得堡"
-
-#: timezones.h:125
-msgid "America/Indianapolis"
-msgstr "美洲/印第安纳波利斯"
-
-#: timezones.h:126
-msgid "America/Indiana/Tell_City"
-msgstr "美洲/印第安纳/Tell_City"
-
-#: timezones.h:127
-msgid "America/Indiana/Vevay"
-msgstr "美洲/印第安纳/维维市"
-
-#: timezones.h:128
-msgid "America/Indiana/Vincennes"
-msgstr "美洲/印第安纳/温森斯"
-
-#: timezones.h:129
-msgid "America/Indiana/Winamac"
-msgstr "美洲/印第安纳/威纳马克"
-
-#: timezones.h:130
-msgid "America/Inuvik"
-msgstr "美洲/伊努维克"
-
-#: timezones.h:131
-msgid "America/Iqaluit"
-msgstr "美洲/伊卡瑞特"
-
-#: timezones.h:132
-msgid "America/Jamaica"
-msgstr "美洲/牙买加"
-
-#: timezones.h:133
-msgid "America/Jujuy"
-msgstr "美洲/胡胡伊"
-
-#: timezones.h:134
-msgid "America/Juneau"
-msgstr "美洲/朱诺"
-
-#: timezones.h:135
-msgid "America/Kentucky/Louisville"
-msgstr "美洲/肯塔基/路易斯维尔"
-
-#: timezones.h:136
-msgid "America/Kentucky/Monticello"
-msgstr "美洲/肯塔基/蒙蒂塞洛"
-
-#: timezones.h:137
-msgid "America/Knox_IN"
-msgstr "美洲/Knox_IN"
-
-#: timezones.h:138
-msgid "America/La_Paz"
-msgstr "美洲/拉巴斯"
-
-#: timezones.h:139
-msgid "America/Lima"
-msgstr "美洲/利马"
-
-#: timezones.h:140
-msgid "America/Los_Angeles"
-msgstr "美洲/洛杉矶"
-
-#: timezones.h:141
-msgid "America/Louisville"
-msgstr "美洲/路易斯维尔"
-
-#: timezones.h:142
-msgid "America/Maceio"
-msgstr "美洲/马赛约"
-
-#: timezones.h:143
-msgid "America/Managua"
-msgstr "美洲/马那瓜"
-
-#: timezones.h:144
-msgid "America/Manaus"
-msgstr "美洲/玛瑙斯"
-
-#: timezones.h:145
-msgid "America/Marigot"
-msgstr "美洲/马利戈特"
-
-#: timezones.h:146
-msgid "America/Martinique"
-msgstr "美洲/马提尼克岛"
-
-#: timezones.h:147
-msgid "America/Mazatlan"
-msgstr "美洲/马萨特兰"
-
-#: timezones.h:148
-msgid "America/Mendoza"
-msgstr "美洲/门多萨"
-
-#: timezones.h:149
-msgid "America/Menominee"
-msgstr "美洲/梅诺米尼"
-
-#: timezones.h:150
-msgid "America/Merida"
-msgstr "美洲/梅里达"
-
-#: timezones.h:151
-msgid "America/Mexico_City"
-msgstr "美洲/墨西哥城"
-
-#: timezones.h:152
-msgid "America/Miquelon"
-msgstr "美洲/密克隆岛"
-
-#: timezones.h:153
-msgid "America/Moncton"
-msgstr "美洲/蒙古顿"
-
-#: timezones.h:154
-msgid "America/Monterrey"
-msgstr "美洲/蒙特雷"
-
-#: timezones.h:155
-msgid "America/Montevideo"
-msgstr "美洲/蒙得维的亚"
-
-#: timezones.h:156
-msgid "America/Montreal"
-msgstr "美洲/蒙特利尔"
-
-#: timezones.h:157
-msgid "America/Montserrat"
-msgstr "美洲/蒙特塞拉特"
-
-#: timezones.h:158
-msgid "America/Nassau"
-msgstr "美洲/拿骚"
-
-#: timezones.h:159
-msgid "America/New_York"
-msgstr "美洲/纽约"
-
-#: timezones.h:160
-msgid "America/Nipigon"
-msgstr "美洲/尼皮贡"
-
-#: timezones.h:161
-msgid "America/Nome"
-msgstr "美洲/诺姆"
-
-#: timezones.h:162
-msgid "America/Noronha"
-msgstr "美洲/诺罗尼亚"
-
-#: timezones.h:163
-msgid "America/North_Dakota/Center"
-msgstr "美洲/北达科他/中心"
-
-#: timezones.h:164
-msgid "America/North_Dakota/New_Salem"
-msgstr "美洲/北达科他州/新塞勒姆"
-
-#: timezones.h:165
-msgid "America/Panama"
-msgstr "美洲/巴拿马"
-
-#: timezones.h:166
-msgid "America/Pangnirtung"
-msgstr "美洲/庞纳唐"
-
-#: timezones.h:167
-msgid "America/Paramaribo"
-msgstr "美洲/帕拉马里博"
-
-#: timezones.h:168
-msgid "America/Phoenix"
-msgstr "美洲/菲尼克斯"
-
-#: timezones.h:169
-msgid "America/Port-au-Prince"
-msgstr "美洲/太子港"
-
-#: timezones.h:170
-msgid "America/Porto_Acre"
-msgstr "美洲/波尔图阿克里"
-
-#: timezones.h:171
-msgid "America/Port_of_Spain"
-msgstr "美洲/西班牙港"
-
-#: timezones.h:172
-msgid "America/Porto_Velho"
-msgstr "美洲/波多韦柳"
-
-#: timezones.h:173
-msgid "America/Puerto_Rico"
-msgstr "美洲/波多黎各"
-
-#: timezones.h:174
-msgid "America/Rainy_River"
-msgstr "美洲/雨季河"
-
-#: timezones.h:175
-msgid "America/Rankin_Inlet"
-msgstr "美洲/金进"
-
-#: timezones.h:176
-msgid "America/Recife"
-msgstr "美洲/累西腓"
-
-#: timezones.h:177
-msgid "America/Regina"
-msgstr "美洲/瑞吉纳"
-
-#: timezones.h:178
-msgid "America/Resolute"
-msgstr "美洲/雷索卢特"
-
-#: timezones.h:179
-msgid "America/Rio_Branco"
-msgstr "美洲/里奥布朗库"
-
-#: timezones.h:180
-msgid "America/Rosario"
-msgstr "美洲/罗萨利奥"
-
-#: timezones.h:181
-msgid "America/Santiago"
-msgstr "美洲/圣地亚哥"
-
-#: timezones.h:182
-msgid "America/Santo_Domingo"
-msgstr "美洲/圣多明戈"
-
-#: timezones.h:183
-msgid "America/Sao_Paulo"
-msgstr "美洲/圣保罗"
-
-#: timezones.h:184
-msgid "America/Scoresbysund"
-msgstr "美洲/斯科斯比松"
-
-#: timezones.h:185
-msgid "America/Shiprock"
-msgstr "美洲/希普罗克"
-
-#: timezones.h:186
-msgid "America/St_Barthelemy"
-msgstr "美洲/圣巴泰勒米"
-
-#: timezones.h:187
-msgid "America/St_Johns"
-msgstr "美洲/圣琼斯"
-
-#: timezones.h:188
-msgid "America/St_Kitts"
-msgstr "美洲/圣基茨"
-
-#: timezones.h:189
-msgid "America/St_Lucia"
-msgstr "美洲/圣卢西亚"
-
-#: timezones.h:190
-msgid "America/St_Thomas"
-msgstr "美洲/圣托马斯"
-
-#: timezones.h:191
-msgid "America/St_Vincent"
-msgstr "美洲/圣文森特"
-
-#: timezones.h:192
-msgid "America/Swift_Current"
-msgstr "美洲/斯威夫特卡伦特"
-
-#: timezones.h:193
-msgid "America/Tegucigalpa"
-msgstr "美洲/特古西加尔巴"
-
-#: timezones.h:194
-msgid "America/Thule"
-msgstr "美洲/图勒"
-
-#: timezones.h:195
-msgid "America/Thunder_Bay"
-msgstr "美洲/桑德湾"
-
-#: timezones.h:196
-msgid "America/Tijuana"
-msgstr "美洲/蒂华纳"
-
-#: timezones.h:197
-msgid "America/Toronto"
-msgstr "美洲/多伦多"
-
-#: timezones.h:198
-msgid "America/Tortola"
-msgstr "美洲/托尔托拉"
-
-#: timezones.h:199
-msgid "America/Vancouver"
-msgstr "美洲/温哥华"
-
-#: timezones.h:200
-msgid "America/Virgin"
-msgstr "美洲/维京"
-
-#: timezones.h:201
-msgid "America/Whitehorse"
-msgstr "美洲/怀特霍斯"
-
-#: timezones.h:202
-msgid "America/Winnipeg"
-msgstr "美洲/温尼伯斯"
-
-#: timezones.h:203
-msgid "America/Yakutat"
-msgstr "美洲/压库塔特"
-
-#: timezones.h:204
-msgid "America/Yellowknife"
-msgstr "美洲/耶洛奈夫"
-
-#: timezones.h:205
-msgid "Antarctica/Casey"
-msgstr "南极洲/卡西"
-
-#: timezones.h:206
-msgid "Antarctica/Davis"
-msgstr "南极洲/戴维斯"
-
-#: timezones.h:207
-msgid "Antarctica/DumontDUrville"
-msgstr "南极洲/DumontDUrville"
-
-#: timezones.h:208
-msgid "Antarctica/Mawson"
-msgstr "南极洲/莫森"
-
-#: timezones.h:209
-msgid "Antarctica/McMurdo"
-msgstr "南极洲/麦克默多"
-
-#: timezones.h:210
-msgid "Antarctica/Palmer"
-msgstr "南极洲/帕尔默"
-
-#: timezones.h:211
-msgid "Antarctica/Rothera"
-msgstr "南极洲/罗瑟拉"
-
-#: timezones.h:212
-msgid "Antarctica/South_Pole"
-msgstr "南极洲/南极点"
-
-#: timezones.h:213
-msgid "Antarctica/Syowa"
-msgstr "南极洲/昭和"
-
-#: timezones.h:214
-msgid "Antarctica/Vostok"
-msgstr "南极洲/沃斯托克"
-
-#: timezones.h:215
-msgid "Arctic/Longyearbyen"
-msgstr "北极/朗伊尔城"
-
-#: timezones.h:216
-msgid "Asia/Aden"
-msgstr "亚洲/亚丁"
-
-#: timezones.h:217
-msgid "Asia/Almaty"
-msgstr "亚洲/阿拉木图"
-
-#: timezones.h:218
-msgid "Asia/Amman"
-msgstr "亚洲/阿曼"
-
-#: timezones.h:219
-msgid "Asia/Anadyr"
-msgstr "亚洲/阿纳德尔"
-
-#: timezones.h:220
-msgid "Asia/Aqtau"
-msgstr "亚洲/阿克陶"
-
-#: timezones.h:221
-msgid "Asia/Aqtobe"
-msgstr "亚洲/阿克托贝"
-
-#: timezones.h:222
-msgid "Asia/Ashgabat"
-msgstr "亚洲/阿什哈巴德"
-
-#: timezones.h:223
-msgid "Asia/Ashkhabad"
-msgstr "亚洲/阿什哈巴德"
-
-#: timezones.h:224
-msgid "Asia/Baghdad"
-msgstr "亚洲/巴格达"
-
-#: timezones.h:225
-msgid "Asia/Bahrain"
-msgstr "亚洲/巴林"
-
-#: timezones.h:226
-msgid "Asia/Baku"
-msgstr "亚洲/巴库"
-
-#: timezones.h:227
-msgid "Asia/Bangkok"
-msgstr "亚洲/曼谷"
-
-#: timezones.h:228
-msgid "Asia/Beirut"
-msgstr "亚洲/贝鲁特"
-
-#: timezones.h:229
-msgid "Asia/Bishkek"
-msgstr "亚洲/比什凯克"
-
-#: timezones.h:230
-msgid "Asia/Brunei"
-msgstr "亚洲/文莱"
-
-#: timezones.h:231
-msgid "Asia/Calcutta"
-msgstr "亚洲/加尔各答"
-
-#: timezones.h:232
-msgid "Asia/Choibalsan"
-msgstr "亚洲/乔巴山"
-
-#: timezones.h:233
-msgid "Asia/Chongqing"
-msgstr "亚洲/重庆"
-
-#: timezones.h:234
-msgid "Asia/Chungking"
-msgstr "亚洲/重庆"
-
-#: timezones.h:235
-msgid "Asia/Colombo"
-msgstr "亚洲/科伦坡"
-
-#: timezones.h:236
-msgid "Asia/Dacca"
-msgstr "亚洲/达卡"
-
-#: timezones.h:237
-msgid "Asia/Damascus"
-msgstr "亚洲/大马士革"
-
-#: timezones.h:238
-msgid "Asia/Dhaka"
-msgstr "亚洲/达卡"
-
-#: timezones.h:239
-msgid "Asia/Dili"
-msgstr "亚洲/帝力"
-
-#: timezones.h:240
-msgid "Asia/Dubai"
-msgstr "亚洲/杜拜"
-
-#: timezones.h:241
-msgid "Asia/Dushanbe"
-msgstr "亚洲/杜尚别"
-
-#: timezones.h:242
-msgid "Asia/Gaza"
-msgstr "亚洲/加沙"
-
-#: timezones.h:243
-msgid "Asia/Harbin"
-msgstr "亚洲/哈尔滨"
-
-#: timezones.h:244
-msgid "Asia/Hong_Kong"
-msgstr "亚洲/香港"
-
-#: timezones.h:245
-msgid "Asia/Hovd"
-msgstr "亚洲/科布多"
-
-#: timezones.h:246
-msgid "Asia/Irkutsk"
-msgstr "亚洲/伊尔库茨克"
-
-#: timezones.h:247
-msgid "Asia/Istanbul"
-msgstr "亚洲/伊斯坦布尔"
-
-#: timezones.h:248
-msgid "Asia/Jakarta"
-msgstr "亚洲/雅加达"
-
-#: timezones.h:249
-msgid "Asia/Jayapura"
-msgstr "亚洲/查亚普拉"
-
-#: timezones.h:250
-msgid "Asia/Jerusalem"
-msgstr "亚洲/耶路撒冷"
-
-#: timezones.h:251
-msgid "Asia/Kabul"
-msgstr "亚洲/喀布尔"
-
-#: timezones.h:252
-msgid "Asia/Kamchatka"
-msgstr "亚洲/勘察加"
-
-#: timezones.h:253
-msgid "Asia/Karachi"
-msgstr "亚洲/卡拉奇"
-
-#: timezones.h:254
-msgid "Asia/Kashgar"
-msgstr "亚洲/喀什"
-
-#: timezones.h:255
-msgid "Asia/Katmandu"
-msgstr "亚洲/加德满都"
-
-#: timezones.h:256
-msgid "Asia/Krasnoyarsk"
-msgstr "亚洲/克拉斯诺亚尔斯克"
-
-#: timezones.h:257
-msgid "Asia/Kuala_Lumpur"
-msgstr "亚洲/吉隆坡"
-
-#: timezones.h:258
-msgid "Asia/Kuching"
-msgstr "亚洲/古晋"
-
-#: timezones.h:259
-msgid "Asia/Kuwait"
-msgstr "亚洲/科威特"
-
-#: timezones.h:260
-msgid "Asia/Macao"
-msgstr "亚洲/澳门"
-
-#: timezones.h:261
-msgid "Asia/Macau"
-msgstr "亚洲/澳门"
-
-#: timezones.h:262
-msgid "Asia/Magadan"
-msgstr "亚洲/马加丹"
-
-#: timezones.h:263
-msgid "Asia/Makassar"
-msgstr "亚洲/马卡萨"
-
-#: timezones.h:264
-msgid "Asia/Manila"
-msgstr "亚洲/马尼拉"
-
-#: timezones.h:265
-msgid "Asia/Muscat"
-msgstr "亚洲/马斯咯特"
-
-#: timezones.h:266
-msgid "Asia/Nicosia"
-msgstr "亚洲/尼科西亚"
-
-#: timezones.h:267
-msgid "Asia/Novosibirsk"
-msgstr "亚洲/新西伯利亚"
-
-#: timezones.h:268
-msgid "Asia/Omsk"
-msgstr "亚洲/鄂木斯克"
-
-#: timezones.h:269
-msgid "Asia/Oral"
-msgstr "亚洲/Oral"
-
-#: timezones.h:270
-msgid "Asia/Phnom_Penh"
-msgstr "亚洲/金边"
-
-#: timezones.h:271
-msgid "Asia/Pontianak"
-msgstr "亚洲/坤甸"
-
-#: timezones.h:272
-msgid "Asia/Pyongyang"
-msgstr "亚洲/平壤"
-
-#: timezones.h:273
-msgid "Asia/Qatar"
-msgstr "亚洲/卡塔尔"
-
-#: timezones.h:274
-msgid "Asia/Qyzylorda"
-msgstr "亚洲/克孜勒奥尔达"
-
-#: timezones.h:275
-msgid "Asia/Rangoon"
-msgstr "亚洲/仰光"
-
-#: timezones.h:276
-msgid "Asia/Riyadh"
-msgstr "亚洲/利雅得"
-
-#: timezones.h:277
-msgid "Asia/Riyadh87"
-msgstr "亚洲/利雅得87"
-
-#: timezones.h:278
-msgid "Asia/Riyadh88"
-msgstr "亚洲/利雅得88"
-
-#: timezones.h:279
-msgid "Asia/Riyadh89"
-msgstr "亚洲/利雅得89"
-
-#: timezones.h:280
-msgid "Asia/Saigon"
-msgstr "亚洲/西贡"
-
-#: timezones.h:281
-msgid "Asia/Sakhalin"
-msgstr "亚洲/萨哈林"
-
-#: timezones.h:282
-msgid "Asia/Samarkand"
-msgstr "亚洲/撒马尔罕"
-
-#: timezones.h:283
-msgid "Asia/Seoul"
-msgstr "亚洲/汉城"
-
-#: timezones.h:284
-msgid "Asia/Shanghai"
-msgstr "亚洲/上海"
-
-#: timezones.h:285
-msgid "Asia/Singapore"
-msgstr "亚洲/新加坡"
-
-#: timezones.h:286
-msgid "Asia/Taipei"
-msgstr "亚洲/台北"
-
-#: timezones.h:287
-msgid "Asia/Tashkent"
-msgstr "亚洲/塔什干"
-
-#: timezones.h:288
-msgid "Asia/Tbilisi"
-msgstr "亚洲/第比利斯"
-
-#: timezones.h:289
-msgid "Asia/Tehran"
-msgstr "亚洲/德黑兰"
-
-#: timezones.h:290
-msgid "Asia/Tel_Aviv"
-msgstr "亚洲/特拉维夫市"
-
-#: timezones.h:291
-msgid "Asia/Thimbu"
-msgstr "亚洲/廷布"
-
-#: timezones.h:292
-msgid "Asia/Thimphu"
-msgstr "亚洲/廷布"
-
-#: timezones.h:293
-msgid "Asia/Tokyo"
-msgstr "亚洲/东京"
-
-#: timezones.h:294
-msgid "Asia/Ujung_Pandang"
-msgstr "亚洲/乌戎潘当"
-
-#: timezones.h:295
-msgid "Asia/Ulaanbaatar"
-msgstr "亚洲/乌兰巴托"
-
-#: timezones.h:296
-msgid "Asia/Ulan_Bator"
-msgstr "亚洲/乌兰巴托"
-
-#: timezones.h:297
-msgid "Asia/Urumqi"
-msgstr "亚洲/乌鲁木齐"
-
-#: timezones.h:298
-msgid "Asia/Vientiane"
-msgstr "亚洲/万象"
-
-#: timezones.h:299
-msgid "Asia/Vladivostok"
-msgstr "亚洲/符拉迪沃斯托克"
-
-#: timezones.h:300
-msgid "Asia/Yakutsk"
-msgstr "亚洲/雅库茨克"
-
-#: timezones.h:301
-msgid "Asia/Yekaterinburg"
-msgstr "亚洲/叶卡捷琳堡"
-
-#: timezones.h:302
-msgid "Asia/Yerevan"
-msgstr "亚洲/埃里温"
-
-#: timezones.h:303
-msgid "Atlantic/Azores"
-msgstr "大西洋/亚速尔群岛"
-
-#: timezones.h:304
-msgid "Atlantic/Bermuda"
-msgstr "大西洋/百慕大"
-
-#: timezones.h:305
-msgid "Atlantic/Canary"
-msgstr "大西洋/加那利"
-
-#: timezones.h:306
-msgid "Atlantic/Cape_Verde"
-msgstr "大西洋/佛得角"
-
-#: timezones.h:307
-msgid "Atlantic/Faeroe"
-msgstr "大西洋/法罗群岛"
-
-#: timezones.h:308
-msgid "Atlantic/Faroe"
-msgstr "大西洋/法罗群岛"
-
-#: timezones.h:309
-msgid "Atlantic/Jan_Mayen"
-msgstr "大西洋/扬马延岛"
-
-#: timezones.h:310
-msgid "Atlantic/Madeira"
-msgstr "大西洋/马德拉"
-
-#: timezones.h:311
-msgid "Atlantic/Reykjavik"
-msgstr "大西洋/雷克雅未克"
-
-#: timezones.h:312
-msgid "Atlantic/South_Georgia"
-msgstr "大西洋/南乔治亚"
-
-#: timezones.h:313
-msgid "Atlantic/Stanley"
-msgstr "大西洋/斯坦利港"
-
-#: timezones.h:314
-msgid "Atlantic/St_Helena"
-msgstr "大西洋/圣赫勒拿岛"
-
-#: timezones.h:315
-msgid "Australia/ACT"
-msgstr "澳大利亚/首都"
-
-#: timezones.h:316
-msgid "Australia/Adelaide"
-msgstr "澳大利亚/阿德莱德"
-
-#: timezones.h:317
-msgid "Australia/Brisbane"
-msgstr "澳大利亚/布里斯班"
-
-#: timezones.h:318
-msgid "Australia/Broken_Hill"
-msgstr "澳大利亚/布罗肯希尔"
-
-#: timezones.h:319
-msgid "Australia/Canberra"
-msgstr "澳大利亚/堪培拉"
-
-#: timezones.h:320
-msgid "Australia/Currie"
-msgstr "澳大利亚/柯里"
-
-#: timezones.h:321
-msgid "Australia/Darwin"
-msgstr "澳大利亚/达尔文"
-
-#: timezones.h:322
-msgid "Australia/Eucla"
-msgstr "澳大利亚/尤克拉"
-
-#: timezones.h:323
-msgid "Australia/Hobart"
-msgstr "澳大利亚/霍巴特"
-
-#: timezones.h:324
-msgid "Australia/LHI"
-msgstr "澳大利亚/豪勋爵岛"
-
-#: timezones.h:325
-msgid "Australia/Lindeman"
-msgstr "澳大利亚/夫林曼"
-
-#: timezones.h:326
-msgid "Australia/Lord_Howe"
-msgstr "澳大利亚/豪勋爵"
-
-#: timezones.h:327
-msgid "Australia/Melbourne"
-msgstr "澳大利亚/墨尔本"
-
-#: timezones.h:328
-msgid "Australia/North"
-msgstr "澳大利亚/北部"
-
-#: timezones.h:329
-msgid "Australia/NSW"
-msgstr "澳大利亚/新南威尔士州"
-
-#: timezones.h:330
-msgid "Australia/Perth"
-msgstr "澳大利亚/珀斯"
-
-#: timezones.h:331
-msgid "Australia/Queensland"
-msgstr "澳大利亚/昆士兰州"
-
-#: timezones.h:332
-msgid "Australia/South"
-msgstr "澳大利亚/南部"
-
-#: timezones.h:333
-msgid "Australia/Sydney"
-msgstr "澳大利亚/悉尼"
-
-#: timezones.h:334
-msgid "Australia/Tasmania"
-msgstr "澳大利亚/塔斯马尼亚"
-
-#: timezones.h:335
-msgid "Australia/Victoria"
-msgstr "澳大利亚/维多利亚"
-
-#: timezones.h:336
-msgid "Australia/West"
-msgstr "澳大利亚/西部"
-
-#: timezones.h:337
-msgid "Australia/Yancowinna"
-msgstr "澳大利亚/扬科维拉"
-
-#: timezones.h:338
-msgid "Brazil/Acre"
-msgstr "巴西/阿克里"
-
-#: timezones.h:339
-msgid "Brazil/DeNoronha"
-msgstr "巴西/德诺罗尼亚"
-
-#: timezones.h:340
-msgid "Brazil/East"
-msgstr "巴西/东部"
-
-#: timezones.h:341
-msgid "Brazil/West"
-msgstr "巴西/西部"
-
-#: timezones.h:342
-msgid "Canada/Atlantic"
-msgstr "加拿大/大西洋"
-
-#: timezones.h:343
-msgid "Canada/Central"
-msgstr "加拿大/中部"
-
-#: timezones.h:344
-msgid "Canada/Eastern"
-msgstr "加拿大/东部"
-
-#: timezones.h:345
-msgid "Canada/East-Saskatchewan"
-msgstr "加拿大/东萨斯喀彻温"
-
-#: timezones.h:346
-msgid "Canada/Mountain"
-msgstr "加拿大/山区"
-
-#: timezones.h:347
-msgid "Canada/Newfoundland"
-msgstr "加拿大/纽芬兰"
-
-#: timezones.h:348
-msgid "Canada/Pacific"
-msgstr "加拿大/太平洋"
-
-#: timezones.h:349
-msgid "Canada/Saskatchewan"
-msgstr "加拿大/萨斯喀彻温"
-
-#: timezones.h:350
-msgid "Canada/Yukon"
-msgstr "加拿大/育空"
-
-#: timezones.h:351
-msgid "CET"
-msgstr "欧洲中部时间"
-
-#: timezones.h:352
-msgid "Chile/Continental"
-msgstr "智利/大陆"
-
-#: timezones.h:353
-msgid "Chile/EasterIsland"
-msgstr "智利/东岛"
-
-#: timezones.h:354
-msgid "CST6CDT"
-msgstr "CST6CDT"
-
-#: timezones.h:355
-msgid "Cuba"
-msgstr "古巴"
-
-#: timezones.h:356
-msgid "EET"
-msgstr "欧洲东部时间"
-
-#: timezones.h:357
-msgid "Egypt"
-msgstr "埃及"
-
-#: timezones.h:358
-msgid "Eire"
-msgstr "爱尔兰"
-
-#: timezones.h:359
-msgid "EST"
-msgstr "(美国)东部标准时间"
-
-#: timezones.h:360
-msgid "EST5EDT"
-msgstr "EST5EDT"
-
-#: timezones.h:361
-msgid "Etc/GMT"
-msgstr "Etc/GMT"
-
-#: timezones.h:362
-msgid "Etc/GMT0"
-msgstr "Etc/GMT0"
-
-#: timezones.h:363
-msgid "Etc/GMT-0"
-msgstr "Etc/GMT-0"
-
-#: timezones.h:364
-msgid "Etc/GMT+0"
-msgstr "Etc/GMT+0"
-
-#: timezones.h:365
-msgid "Etc/GMT-1"
-msgstr "Etc/GMT-1"
-
-#: timezones.h:366
-msgid "Etc/GMT+1"
-msgstr "Etc/GMT+1"
-
-#: timezones.h:367
-msgid "Etc/GMT-10"
-msgstr "Etc/GMT-10"
-
-#: timezones.h:368
-msgid "Etc/GMT+10"
-msgstr "Etc/GMT+10"
-
-#: timezones.h:369
-msgid "Etc/GMT-11"
-msgstr "Etc/GMT-11"
-
-#: timezones.h:370
-msgid "Etc/GMT+11"
-msgstr "Etc/GMT+11"
-
-#: timezones.h:371
-msgid "Etc/GMT-12"
-msgstr "Etc/GMT-12"
-
-#: timezones.h:372
-msgid "Etc/GMT+12"
-msgstr "Etc/GMT+12"
-
-#: timezones.h:373
-msgid "Etc/GMT-13"
-msgstr "Etc/GMT-13"
-
-#: timezones.h:374
-msgid "Etc/GMT-14"
-msgstr "Etc/GMT-14"
-
-#: timezones.h:375
-msgid "Etc/GMT-2"
-msgstr "Etc/GMT-2"
-
-#: timezones.h:376
-msgid "Etc/GMT+2"
-msgstr "Etc/GMT+2"
-
-#: timezones.h:377
-msgid "Etc/GMT-3"
-msgstr "Etc/GMT-3"
-
-#: timezones.h:378
-msgid "Etc/GMT+3"
-msgstr "Etc/GMT+3"
-
-#: timezones.h:379
-msgid "Etc/GMT-4"
-msgstr "Etc/GMT-4"
-
-#: timezones.h:380
-msgid "Etc/GMT+4"
-msgstr "Etc/GMT+4"
-
-#: timezones.h:381
-msgid "Etc/GMT-5"
-msgstr "Etc/GMT-5"
-
-#: timezones.h:382
-msgid "Etc/GMT+5"
-msgstr "Etc/GMT+5"
-
-#: timezones.h:383
-msgid "Etc/GMT-6"
-msgstr "Etc/GMT-6"
-
-#: timezones.h:384
-msgid "Etc/GMT+6"
-msgstr "Etc/GMT+6"
-
-#: timezones.h:385
-msgid "Etc/GMT-7"
-msgstr "Etc/GMT-7"
-
-#: timezones.h:386
-msgid "Etc/GMT+7"
-msgstr "Etc/GMT+7"
-
-#: timezones.h:387
-msgid "Etc/GMT-8"
-msgstr "Etc/GMT-8"
-
-#: timezones.h:388
-msgid "Etc/GMT+8"
-msgstr "Etc/GMT+8"
-
-#: timezones.h:389
-msgid "Etc/GMT-9"
-msgstr "Etc/GMT-9"
-
-#: timezones.h:390
-msgid "Etc/GMT+9"
-msgstr "Etc/GMT+9"
-
-#: timezones.h:391
-msgid "Etc/Greenwich"
-msgstr "Etc/格林威治"
-
-#: timezones.h:392
-msgid "Etc/UCT"
-msgstr "Etc/UCT"
-
-#: timezones.h:393
-msgid "Etc/Universal"
-msgstr "Etc/通用"
-
-#: timezones.h:394
-msgid "Etc/UTC"
-msgstr "Etc/UTC"
-
-#: timezones.h:395
-msgid "Etc/Zulu"
-msgstr "Etc/祖鲁"
-
-#: timezones.h:396
-msgid "Europe/Amsterdam"
-msgstr "欧洲/阿姆斯特丹"
-
-#: timezones.h:397
-msgid "Europe/Andorra"
-msgstr "欧洲/安道尔"
-
-#: timezones.h:398
-msgid "Europe/Athens"
-msgstr "欧洲/雅典"
-
-#: timezones.h:399
-msgid "Europe/Belfast"
-msgstr "欧洲/贝尔法斯特"
-
-#: timezones.h:400
-msgid "Europe/Belgrade"
-msgstr "欧洲/贝尔格莱德"
-
-#: timezones.h:401
-msgid "Europe/Berlin"
-msgstr "欧洲/柏林"
-
-#: timezones.h:402
-msgid "Europe/Bratislava"
-msgstr "欧洲/布拉迪斯拉发"
-
-#: timezones.h:403
-msgid "Europe/Brussels"
-msgstr "欧洲/布鲁塞尔"
-
-#: timezones.h:404
-msgid "Europe/Bucharest"
-msgstr "欧洲/布加勒斯特"
-
-#: timezones.h:405
-msgid "Europe/Budapest"
-msgstr "欧洲/布达佩斯"
-
-#: timezones.h:406
-msgid "Europe/Chisinau"
-msgstr "欧洲/基希讷乌"
-
-#: timezones.h:407
-msgid "Europe/Copenhagen"
-msgstr "欧洲/哥本哈根"
-
-#: timezones.h:408
-msgid "Europe/Dublin"
-msgstr "欧洲/都柏林"
-
-#: timezones.h:409
-msgid "Europe/Gibraltar"
-msgstr "欧洲/直布罗陀"
-
-#: timezones.h:410
-msgid "Europe/Guernsey"
-msgstr "欧洲/格恩西岛"
-
-#: timezones.h:411
-msgid "Europe/Helsinki"
-msgstr "欧洲/赫尔辛基"
-
-#: timezones.h:412
-msgid "Europe/Isle_of_Man"
-msgstr "欧洲/马恩岛"
-
-#: timezones.h:413
-msgid "Europe/Istanbul"
-msgstr "欧洲/伊斯坦布尔"
-
-#: timezones.h:414
-msgid "Europe/Jersey"
-msgstr "欧洲/新泽西州"
-
-#: timezones.h:415
-msgid "Europe/Kaliningrad"
-msgstr "欧洲/加里宁格勒"
-
-#: timezones.h:416
-msgid "Europe/Kiev"
-msgstr "欧洲/基辅"
-
-#: timezones.h:417
-msgid "Europe/Lisbon"
-msgstr "欧洲/里斯本"
-
-#: timezones.h:418
-msgid "Europe/Ljubljana"
-msgstr "欧洲/卢布尔雅那"
-
-#: timezones.h:419
-msgid "Europe/London"
-msgstr "欧洲/伦敦"
-
-#: timezones.h:420
-msgid "Europe/Luxembourg"
-msgstr "欧洲/卢森堡"
-
-#: timezones.h:421
-msgid "Europe/Madrid"
-msgstr "欧洲/马德里"
-
-#: timezones.h:422
-msgid "Europe/Malta"
-msgstr "欧洲/马耳他"
-
-#: timezones.h:423
-msgid "Europe/Mariehamn"
-msgstr "欧洲/玛丽港"
-
-#: timezones.h:424
-msgid "Europe/Minsk"
-msgstr "欧洲/明斯克"
-
-#: timezones.h:425
-msgid "Europe/Monaco"
-msgstr "欧洲/摩纳哥"
-
-#: timezones.h:426
-msgid "Europe/Moscow"
-msgstr "欧洲/莫斯科"
-
-#: timezones.h:427
-msgid "Europe/Nicosia"
-msgstr "欧洲/尼科西亚"
-
-#: timezones.h:428
-msgid "Europe/Oslo"
-msgstr "欧洲/奥斯陆"
-
-#: timezones.h:429
-msgid "Europe/Paris"
-msgstr "欧洲/巴黎"
-
-#: timezones.h:430
-msgid "Europe/Podgorica"
-msgstr "欧洲/波德戈里察"
-
-#: timezones.h:431
-msgid "Europe/Prague"
-msgstr "欧洲/布拉格"
-
-#: timezones.h:432
-msgid "Europe/Riga"
-msgstr "欧洲/里加"
-
-#: timezones.h:433
-msgid "Europe/Rome"
-msgstr "欧洲/罗马"
-
-#: timezones.h:434
-msgid "Europe/Samara"
-msgstr "欧洲/萨马拉"
-
-#: timezones.h:435
-msgid "Europe/San_Marino"
-msgstr "欧洲/圣马利诺"
-
-#: timezones.h:436
-msgid "Europe/Sarajevo"
-msgstr "欧洲/萨拉热窝"
-
-#: timezones.h:437
-msgid "Europe/Simferopol"
-msgstr "欧洲/辛菲罗波尔"
-
-#: timezones.h:438
-msgid "Europe/Skopje"
-msgstr "欧洲/斯科普里"
-
-#: timezones.h:439
-msgid "Europe/Sofia"
-msgstr "欧洲/索非亚"
-
-#: timezones.h:440
-msgid "Europe/Stockholm"
-msgstr "欧洲/斯德哥尔摩"
-
-#: timezones.h:441
-msgid "Europe/Tallinn"
-msgstr "欧洲/塔林"
-
-#: timezones.h:442
-msgid "Europe/Tirane"
-msgstr "欧洲/地拉那"
-
-#: timezones.h:443
-msgid "Europe/Tiraspol"
-msgstr "欧洲/蒂拉斯波"
-
-#: timezones.h:444
-msgid "Europe/Uzhgorod"
-msgstr "欧洲/乌日哥罗德"
-
-#: timezones.h:445
-msgid "Europe/Vaduz"
-msgstr "欧洲/瓦杜兹"
-
-#: timezones.h:446
-msgid "Europe/Vatican"
-msgstr "欧洲/梵蒂冈"
-
-#: timezones.h:447
-msgid "Europe/Vienna"
-msgstr "欧洲/维也纳"
-
-#: timezones.h:448
-msgid "Europe/Vilnius"
-msgstr "欧洲/维尔纽斯"
-
-#: timezones.h:449
-msgid "Europe/Volgograd"
-msgstr "欧洲/伏尔加格勒"
-
-#: timezones.h:450
-msgid "Europe/Warsaw"
-msgstr "欧洲/华沙"
-
-#: timezones.h:451
-msgid "Europe/Zagreb"
-msgstr "欧洲/萨格勒布"
-
-#: timezones.h:452
-msgid "Europe/Zaporozhye"
-msgstr "欧洲/扎波罗热"
-
-#: timezones.h:453
-msgid "Europe/Zurich"
-msgstr "欧洲/苏黎世"
-
-#: timezones.h:454
-msgid "Factory"
-msgstr "出厂"
-
-#: timezones.h:455
-msgid "GB"
-msgstr "英国"
-
-#: timezones.h:456
-msgid "GB-Eire"
-msgstr "英国-爱尔兰"
-
-#: timezones.h:457
-msgid "GMT"
-msgstr "格林尼治标准时间"
-
-#: timezones.h:458
-msgid "GMT0"
-msgstr "格林尼治标准时间0"
-
-#: timezones.h:459
-msgid "GMT-0"
-msgstr "格林尼治标准时间-0"
-
-#: timezones.h:460
-msgid "GMT+0"
-msgstr "格林尼治标准时间+0"
-
-#: timezones.h:461
-msgid "Greenwich"
-msgstr "格林威治"
-
-#: timezones.h:462
-msgid "Hongkong"
-msgstr "香港"
-
-#: timezones.h:463
-msgid "HST"
-msgstr "夏威夷标准时间"
-
-#: timezones.h:464
-msgid "Iceland"
-msgstr "冰岛"
-
-#: timezones.h:465
-msgid "Indian/Antananarivo"
-msgstr "印度/塔那那利佛"
-
-#: timezones.h:466
-msgid "Indian/Chagos"
-msgstr "印度/戈斯"
-
-#: timezones.h:467
-msgid "Indian/Christmas"
-msgstr "印度/圣诞岛"
-
-#: timezones.h:468
-msgid "Indian/Cocos"
-msgstr "印度/科科斯"
-
-#: timezones.h:469
-msgid "Indian/Comoro"
-msgstr "印度/科摩罗"
-
-#: timezones.h:470
-msgid "Indian/Kerguelen"
-msgstr "印度/克尔格伦"
-
-#: timezones.h:471
-msgid "Indian/Mahe"
-msgstr "印度/马埃"
-
-#: timezones.h:472
-msgid "Indian/Maldives"
-msgstr "印度/马尔代夫"
-
-#: timezones.h:473
-msgid "Indian/Mauritius"
-msgstr "印度/毛里求斯"
-
-#: timezones.h:474
-msgid "Indian/Mayotte"
-msgstr "印度/马约特岛"
-
-#: timezones.h:475
-msgid "Indian/Reunion"
-msgstr "印度/留尼汪"
-
-#: timezones.h:476
-msgid "Iran"
-msgstr "伊朗"
-
-#: timezones.h:477
-msgid "Israel"
-msgstr "以色列"
-
-#: timezones.h:478
-msgid "Jamaica"
-msgstr "牙买加"
-
-#: timezones.h:479
-msgid "Japan"
-msgstr "日本"
-
-#: timezones.h:480
-msgid "Kwajalein"
-msgstr "夸贾林"
-
-#: timezones.h:481
-msgid "Libya"
-msgstr "利比亚"
-
-#: timezones.h:482
-msgid "MET"
-msgstr "MET"
-
-#: timezones.h:483
-msgid "Mexico/BajaNorte"
-msgstr "墨西哥/北下诺特"
-
-#: timezones.h:484
-msgid "Mexico/BajaSur"
-msgstr "墨西哥/北下苏尔"
-
-#: timezones.h:485
-msgid "Mexico/General"
-msgstr "墨西哥/普通地区"
-
-#: timezones.h:486
-msgid "Mideast/Riyadh87"
-msgstr "中东/利雅得87"
-
-#: timezones.h:487
-msgid "Mideast/Riyadh88"
-msgstr "中东/利雅得88"
-
-#: timezones.h:488
-msgid "Mideast/Riyadh89"
-msgstr "中东/利雅得89"
-
-#: timezones.h:489
-msgid "MST"
-msgstr "MST"
-
-#: timezones.h:490
-msgid "MST7MDT"
-msgstr "MST7MDT"
-
-#: timezones.h:491
-msgid "Navajo"
-msgstr "纳瓦霍"
-
-#: timezones.h:492
-msgid "NZ"
-msgstr "新西兰"
-
-#: timezones.h:493
-msgid "NZ-CHAT"
-msgstr "NZ-CHAT"
-
-#: timezones.h:494
-msgid "Pacific/Apia"
-msgstr "太平洋/阿皮亚"
-
-#: timezones.h:495
-msgid "Pacific/Auckland"
-msgstr "太平洋/奥克兰"
-
-#: timezones.h:496
-msgid "Pacific/Chatham"
-msgstr "太平洋/查塔姆群岛"
-
-#: timezones.h:497
-msgid "Pacific/Easter"
-msgstr "太平洋/复活节岛"
-
-#: timezones.h:498
-msgid "Pacific/Efate"
-msgstr "太平洋/埃法特岛"
-
-#: timezones.h:499
-msgid "Pacific/Enderbury"
-msgstr "太平洋/恩德伯里"
-
-#: timezones.h:500
-msgid "Pacific/Fakaofo"
-msgstr "太平洋/法考福"
-
-#: timezones.h:501
-msgid "Pacific/Fiji"
-msgstr "太平洋/斐济"
-
-#: timezones.h:502
-msgid "Pacific/Funafuti"
-msgstr "太平洋/富纳富提"
-
-#: timezones.h:503
-msgid "Pacific/Galapagos"
-msgstr "太平洋/加拉帕戈斯群岛"
-
-#: timezones.h:504
-msgid "Pacific/Gambier"
-msgstr "太平洋/甘比尔群岛"
-
-#: timezones.h:505
-msgid "Pacific/Guadalcanal"
-msgstr "太平洋/瓜达尔卡纳尔岛"
-
-#: timezones.h:506
-msgid "Pacific/Guam"
-msgstr "太平洋/关岛"
-
-#: timezones.h:507
-msgid "Pacific/Honolulu"
-msgstr "太平洋/火奴鲁鲁"
-
-#: timezones.h:508
-msgid "Pacific/Johnston"
-msgstr "太平洋/约翰斯顿"
-
-#: timezones.h:509
-msgid "Pacific/Kiritimati"
-msgstr "太平洋/克瑞提马提"
-
-#: timezones.h:510
-msgid "Pacific/Kosrae"
-msgstr "太平洋/科斯雷"
-
-#: timezones.h:511
-msgid "Pacific/Kwajalein"
-msgstr "太平洋/瓜加林岛"
-
-#: timezones.h:512
-msgid "Pacific/Majuro"
-msgstr "太平洋/马朱罗"
-
-#: timezones.h:513
-msgid "Pacific/Marquesas"
-msgstr "太平洋/马克萨斯"
-
-#: timezones.h:514
-msgid "Pacific/Midway"
-msgstr "太平洋/中途岛"
-
-#: timezones.h:515
-msgid "Pacific/Nauru"
-msgstr "太平洋/瑙鲁"
-
-#: timezones.h:516
-msgid "Pacific/Niue"
-msgstr "太平洋/纽埃"
-
-#: timezones.h:517
-msgid "Pacific/Norfolk"
-msgstr "太平洋/诺福克"
-
-#: timezones.h:518
-msgid "Pacific/Noumea"
-msgstr "太平洋/努美阿"
-
-#: timezones.h:519
-msgid "Pacific/Pago_Pago"
-msgstr "太平洋/帕果帕果"
-
-#: timezones.h:520
-msgid "Pacific/Palau"
-msgstr "太平洋/帕劳"
-
-#: timezones.h:521
-msgid "Pacific/Pitcairn"
-msgstr "太平洋/皮特凯恩"
-
-#: timezones.h:522
-msgid "Pacific/Ponape"
-msgstr "太平洋/波纳佩岛"
-
-#: timezones.h:523
-msgid "Pacific/Port_Moresby"
-msgstr "太平洋/莫尔兹比港"
-
-#: timezones.h:524
-msgid "Pacific/Rarotonga"
-msgstr "太平洋/拉罗汤加"
-
-#: timezones.h:525
-msgid "Pacific/Saipan"
-msgstr "太平洋/塞班岛"
-
-#: timezones.h:526
-msgid "Pacific/Samoa"
-msgstr "太平洋/萨摩亚"
-
-#: timezones.h:527
-msgid "Pacific/Tahiti"
-msgstr "太平洋/塔希提岛"
-
-#: timezones.h:528
-msgid "Pacific/Tarawa"
-msgstr "太平洋/塔拉瓦"
-
-#: timezones.h:529
-msgid "Pacific/Tongatapu"
-msgstr "太平洋/汤加"
-
-#: timezones.h:530
-msgid "Pacific/Truk"
-msgstr "太平洋/特鲁克"
-
-#: timezones.h:531
-msgid "Pacific/Wake"
-msgstr "太平洋/威克岛"
-
-#: timezones.h:532
-msgid "Pacific/Wallis"
-msgstr "太平洋/瓦利斯"
-
-#: timezones.h:533
-msgid "Pacific/Yap"
-msgstr "太平洋/雅浦群岛"
-
-#: timezones.h:534
-msgid "Poland"
-msgstr "波兰"
-
-#: timezones.h:535
-msgid "Portugal"
-msgstr "葡萄牙"
-
-#: timezones.h:536
-msgid "PRC"
-msgstr "中华人民共和国"
+"Content-Transfer-Encoding: 8bit"
+
+#: ../src/date_gui.py:130
+msgid "Server"
+msgstr "服务器"
+
+#: ../src/date_gui.py:150
+#, python-format
+msgid ""
+"The NTP initscript (%s) does not seem to be functioning properly.  Try "
+"running 'rpm -V ntp' to see if the initscript has been modified.  system-"
+"config-date will exit now."
+msgstr ""
+"NTP 启动脚本 (%s) 似乎没有正常工作。"
+"请检查 “rpm -V ntp” 命令的结果，确定该脚本是否被自定义过。"
+"system-config-date 现在将退出。"
+
+#: ../src/date_gui.py:156 ../src/scdMainWindow.py:322
+msgid "Error"
+msgstr "错误"
+
+#: ../src/date_gui.py:335
+#, python-format
+msgid "Checking whether NTP server '%s' is reachable..."
+msgstr "正在检测 是否能连接到 NTP 服务器 “%s” ... "
+
+#: ../src/date_gui.py:354
+#, python-format
+msgid ""
+"You cancelled checking whether NTP server '%s' is reachable. Do you still "
+"want your changes to take effect?"
+msgstr ""
+"对连接 NTP 服务器 '%s' 的尝试已被取消。仍然应用所做的更改么？"
+
+#: ../src/date_gui.py:368
+#, python-format
+msgid ""
+"Host '%s' is not reachable or doesn't act as an NTP server. Do you still "
+"want your changes to take effect?"
+msgstr ""
+"主机 “%s” 不可达，或者不是 NTP 服务器。仍然应用所作的更改么？"
+
+#: ../src/date_gui.py:382
+msgid "_Hide advanced options"
+msgstr "隐藏高级选项(_H)"
+
+#: ../src/date_gui.py:384 ../src/system-config-date.glade:655
+msgid "_Show advanced options"
+msgstr "显示高级选项(_S)"
+
+#: ../src/date_gui.py:405
+msgid "New NTP Server"
+msgstr "新 NTP 服务器"
+
+#: ../src/scdMainWindow.py:57 ../system-config-date.desktop.in.h:2
+msgid "Date & Time"
+msgstr "日期和时间"
+
+#: ../src/scdMainWindow.py:58 ../system-config-date.desktop.in.h:1
+msgid "Change system date and time"
+msgstr "修改系统日期或时间"
+
+#: ../src/scdMainWindow.py:74
+#, python-format
+msgid ""
+"Couldn't connect to one of these time servers:\n"
+"\n"
+"%s\n"
+"\n"
+"Either none of them are available or the firewall settings on your computer "
+"are blocking NTP connections.\n"
+"\n"
+"Do you want to change your configuration to work around this issue now?"
+msgstr ""
+"无法连接到以下时间服务器: \n"
+"\n"
+"%s\n"
+"\n"
+"服务器可能不可用，或者本机防火墙设置禁用了 NTP 连接。\n"
+"现在就修改配置，尝试解决问题么？"
+
+#: ../src/scdMainWindow.py:98
+msgid "Failed to set time and date."
+msgstr "无法设置时间和日期。"
+
+#: ../src/scdMainWindow.py:101
+msgid ""
+"Failed to synchronize hardware clock. This may be because there is no "
+"hardware clock accessible, e.g. when running in a virtualized environment."
+msgstr ""
+"同步硬件时钟失败！"
+"可能是因为没有可用的硬件时钟，(例如，操作系统正运行于一个虚拟机中。)"
+
+#: ../src/scdMainWindow.py:115
+msgid "Please specify an NTP server to use or enable NTP broadcast."
+msgstr "请指定要使用的 NTP 服务器，或者激活 NTP 广播。"
+
+#: ../src/scdMainWindow.py:170
+msgid "Contacting NTP server.  Please wait..."
+msgstr "正在联系 NTP 服务器。请稍后..."
+
+#: ../src/scdMainWindow.py:300
+msgid ""
+"The help viewer could not be found. To be able to view help you need to "
+"install the 'yelp' package."
+msgstr ""
+"找不到帮助程序查看器！查看帮助文档需要 “yelp” 软件包。"
+
+#: ../src/system-config-date.py:44
+msgid ""
+"Usage: system-config-date [options]\n"
+"Enduser options:\n"
+"-h|--help        Display this help message\n"
+"Reserved options:\n"
+"--page <page>    Display page <page>\n"
+msgstr ""
+"使用方法: system-config-date [选项]\n"
+"用户选项: \n"
+"-h|--help        显示这个帮助信息\n"
+"保留选项: \n"
+"--page <page>    显示页面 <page>\n"
+
+#. Starting the GUI failed, so let's start the text mode UI
+#: ../src/system-config-date.py:56
+msgid "Text mode interface is deprecated\n"
+msgstr "文本模式界面已经被去除\n"
+
+#: ../src/system-config-date.py:75
+#, python-format
+msgid "option(s) '%s' not recognized\n"
+msgstr "无法识别选项 “%s”\n"
+
+#: ../src/timeconfig.py:44
+msgid "OK"
+msgstr "确定"
+
+#: ../src/timeconfig.py:44
+msgid "Cancel"
+msgstr "取消"
+
+#: ../src/timeconfig.py:46
+msgid "Select the time zone for the system."
+msgstr "选择系统的时区。"
+
+#: ../src/timeconfig.py:71
+msgid "System clock uses UTC"
+msgstr "系统时钟使用 UTC 计时"
+
+#: ../src/timeconfig.py:73
+msgid "Timezone Selection"
+msgstr "选择时区"
+
+#: ../src/timeconfig.py:97
+msgid "You must be root to run timeconfig."
+msgstr "只有系统管理员 (root) 才能进行时间设置。"
+
+#: ../src/timezoneBackend.py:63 ../src/timezoneBackend.py:81
+#, python-format
+msgid "Error copying time zone (from %(fromFile)s): %(msg)s"
+msgstr "复制时区时出错 (从 %(fromFile)s): %(msg)s "
+
+#: ../src/timezoneBackend.py:68 ../src/timezoneBackend.py:86
+#, python-format
+msgid "Changing permission of time zone: %s"
+msgstr "正在修改时区的权限: %s"
+
+#: ../src/timezoneBackend.py:76
+msgid "Error removing /var/spool/postfix/etc/localtime"
+msgstr "删除 /var/spool/postfix/etc/localtime 时出错"
+
+#: ../src/timezone_map_gui.py:181
+msgid "Non-geographic timezones"
+msgstr "非地理时区"
+
+#: ../src/timezone_map_gui.py:256
+msgid ", "
+msgstr "，"
+
+#: ../src/timezone_map_gui.py:293
+#, python-format
+msgid "Selected city: %(city)s (%(comments)s)"
+msgstr "选择城市: %(city)s (%(comments)s)"
+
+#: ../src/timezone_map_gui.py:295
+#, python-format
+msgid "Selected city: %s"
+msgstr "选择城市: %s"
+
+#: ../src/timezone_map_gui.py:315 ../src/system-config-date.glade:721
+msgid "Please select the nearest city in your time zone:"
+msgstr "请选择离本地时区最近的城市: "
+
+#: ../src/timezone_map_gui.py:355
+msgid "Use button 2 or 3 for panning and the scrollwheel to zoom in or out."
+msgstr "移动地图，使用鼠标中键或右键；缩放地图，请使用滚轮。"
+
+#: ../src/system-config-date.glade:8
+msgid "Date/Time Properties"
+msgstr "日期/时间属性"
+
+#: ../src/system-config-date.glade:71
+msgid "_Date"
+msgstr "日期(_D)"
+
+#: ../src/system-config-date.glade:120
+msgid "Current Time : "
+msgstr "当前时间: "
+
+#: ../src/system-config-date.glade:148
+msgid "_Hour : "
+msgstr "时(_H): "
+
+#: ../src/system-config-date.glade:177
+msgid "_Minute : "
+msgstr "分(_M): "
+
+#: ../src/system-config-date.glade:206
+msgid "_Second : "
+msgstr "秒(_S): "
+
+#: ../src/system-config-date.glade:318
+msgid "Time"
+msgstr "时间"
+
+#: ../src/system-config-date.glade:361
+msgid "Date & _Time"
+msgstr "日期和时间(_T)"
+
+#: ../src/system-config-date.glade:397
+msgid ""
+"Your computer can synchronize its clock with a remote time server using the "
+"Network Time Protocol"
+msgstr ""
+"你的计算机可以利用网络时钟协议 (NTP) 同远程时钟服务器同步时钟"
+
+#: ../src/system-config-date.glade:424
+msgid ""
+"Use this option if you want to keep your computer's clock synchronized with "
+"an NTP time server."
+msgstr ""
+"如果希望计算机自动同 NTP 时钟服务器同步时钟，激活本选项。"
+
+#: ../src/system-config-date.glade:426
+msgid "Enable _Network Time Protocol"
+msgstr "激活网络时钟协议 (_NTP)"
+
+#: ../src/system-config-date.glade:550
+msgid "NTP Servers"
+msgstr "NTP 服务器"
+
+#: ../src/system-config-date.glade:594
+msgid ""
+"Use this option if the system clock should be synchronized to your time "
+"server before starting the service. Don't use this option if your time "
+"server regularly can't be reached, e.g. on a laptop, as synchronization may "
+"block until a timeout has passed."
+msgstr ""
+"如果希望在启动服务之前，根据时钟服务器的时间同步系统时钟，激活本选项。"
+"如果时钟服务器经常无法访问，不要激活本选项，"
+"因为确认同步操作无法完成要等待一段时间，影响启动速度。"
+
+#: ../src/system-config-date.glade:596
+msgid "S_ynchronize system clock before starting service"
+msgstr "在启动服务之前同步系统时钟(_y)"
+
+#: ../src/system-config-date.glade:614
+msgid ""
+"Use this option if you have e.g. a radio controlled clock device that "
+"synchronizes your computer's clock with an authoritative time source."
+msgstr ""
+"如果计算机连接到物理时钟源 (比如无线电时钟源)，激活本选项。"
+
+#: ../src/system-config-date.glade:616
+msgid "Use _Local Time Source"
+msgstr "使用本地时钟源 (_L)"
+
+#: ../src/system-config-date.glade:633
+msgid ""
+"Use this option if your computer should broadcast for an NTP server on the "
+"local subnet."
+msgstr ""
+"如果希望计算机在本地子网中广播并自动寻找 NTP 服务器，激活本选项。"
+
+#: ../src/system-config-date.glade:635
+msgid "Enable NTP _Broadcast"
+msgstr "激活 NTP 广播(_B)"
+
+#: ../src/system-config-date.glade:691
+msgid "Net_work Time Protocol"
+msgstr "网络时钟协议 (_NTP)"
+
+#: ../src/system-config-date.glade:761
+msgid ""
+"Use this if you want to automatically switch between normal and daylight "
+"savings time. Don't use this if you have other operating systems on this "
+"computer which adjust the hardware clock to achieve this, e.g. Microsoft "
+"Windows(tm)."
+msgstr ""
+"如果你希望自动切换夏令时，激活本选项。"
+"如果计算机上其它操作系统根据夏令时校正硬件时钟，"
+"比如Windows(tm)，不要使用本选项。"
+
+#: ../src/system-config-date.glade:763
+msgid "_System clock uses UTC"
+msgstr "系统时钟使用 UTC 时间(_S)"
+
+#: ../src/system-config-date.glade:787
+msgid "Time _Zone"
+msgstr "时区(_Z)"
+
+#~ msgid "Africa/Abidjan"
+#~ msgstr "非洲/阿比让"
+
+#~ msgid "Africa/Accra"
+#~ msgstr "非洲/阿克拉"
+
+#~ msgid "Africa/Addis_Ababa"
+#~ msgstr "非洲/亚的斯亚贝巴"
+
+#~ msgid "Africa/Algiers"
+#~ msgstr "非洲/阿尔及尔"
+
+#~ msgid "Africa/Asmara"
+#~ msgstr "非洲/阿斯马拉"
+
+#~ msgid "Africa/Asmera"
+#~ msgstr "非洲/阿斯马拉"
+
+#~ msgid "Africa/Bamako"
+#~ msgstr "非洲/巴马科"
+
+#~ msgid "Africa/Bangui"
+#~ msgstr "非洲/班吉"
+
+#~ msgid "Africa/Banjul"
+#~ msgstr "非洲/班珠尔"
 
-#: timezones.h:537
-msgid "PST8PDT"
-msgstr "PST8PDT"
+#~ msgid "Africa/Bissau"
+#~ msgstr "非洲/比绍"
 
-#: timezones.h:538
-msgid "ROC"
-msgstr "ROC"
+#~ msgid "Africa/Blantyre"
+#~ msgstr "非洲/布兰太尔"
 
-#: timezones.h:539
-msgid "ROK"
-msgstr "ROK"
+#~ msgid "Africa/Brazzaville"
+#~ msgstr "非洲/布拉柴维尔"
 
-#: timezones.h:540
-msgid "Singapore"
-msgstr "新加坡"
+#~ msgid "Africa/Bujumbura"
+#~ msgstr "非洲/布琼布拉"
 
-#: timezones.h:541
-msgid "Turkey"
-msgstr "土耳其"
+#~ msgid "Africa/Cairo"
+#~ msgstr "非洲/开罗"
 
-#: timezones.h:542
-msgid "UCT"
-msgstr "通用调整时间"
+#~ msgid "Africa/Casablanca"
+#~ msgstr "非洲/卡萨布兰卡"
 
-#: timezones.h:543
-msgid "Universal"
-msgstr "通用"
+#~ msgid "Africa/Ceuta"
+#~ msgstr "非洲/休达"
 
-#: timezones.h:544
-msgid "US/Alaska"
-msgstr "美国/阿拉斯加"
+#~ msgid "Africa/Conakry"
+#~ msgstr "非洲/科纳克里"
 
-#: timezones.h:545
-msgid "US/Aleutian"
-msgstr "美国/阿留申群岛"
+#~ msgid "Africa/Dakar"
+#~ msgstr "非洲/达喀尔"
 
-#: timezones.h:546
-msgid "US/Arizona"
-msgstr "美国/亚利桑那"
+#~ msgid "Africa/Dar_es_Salaam"
+#~ msgstr "非洲/达累斯萨拉姆"
 
-#: timezones.h:547
-msgid "US/Central"
-msgstr "美国/中部"
+#~ msgid "Africa/Djibouti"
+#~ msgstr "非洲/吉布提"
 
-#: timezones.h:548
-msgid "US/Eastern"
-msgstr "美国/东部"
+#~ msgid "Africa/Douala"
+#~ msgstr "非洲/杜阿拉"
 
-#: timezones.h:549
-msgid "US/East-Indiana"
-msgstr "美国/东印第安纳"
+#~ msgid "Africa/El_Aaiun"
+#~ msgstr "非洲/阿尤恩"
 
-#: timezones.h:550
-msgid "US/Hawaii"
-msgstr "美国/夏威夷"
+#~ msgid "Africa/Freetown"
+#~ msgstr "非洲/弗里敦"
 
-#: timezones.h:551
-msgid "US/Indiana-Starke"
-msgstr "美国/印第安纳-斯塔克"
+#~ msgid "Africa/Gaborone"
+#~ msgstr "非洲/哈博罗内"
 
-#: timezones.h:552
-msgid "US/Michigan"
-msgstr "美国/密歇根"
+#~ msgid "Africa/Harare"
+#~ msgstr "非洲/哈尔"
 
-#: timezones.h:553
-msgid "US/Mountain"
-msgstr "美国/山区"
+#~ msgid "Africa/Johannesburg"
+#~ msgstr "非洲/约翰内斯堡"
 
-#: timezones.h:554
-msgid "US/Pacific"
-msgstr "美国/太平洋"
+#~ msgid "Africa/Kampala"
+#~ msgstr "非洲/坎帕拉"
 
-#: timezones.h:555
-msgid "US/Pacific-New"
-msgstr "美国/新太平洋"
+#~ msgid "Africa/Khartoum"
+#~ msgstr "非洲/喀土穆"
 
-#: timezones.h:556
-msgid "US/Samoa"
-msgstr "美国/萨摩亚"
+#~ msgid "Africa/Kigali"
+#~ msgstr "非洲/基加利"
 
-#: timezones.h:557
-msgid "UTC"
-msgstr "世界标准时间"
+#~ msgid "Africa/Kinshasa"
+#~ msgstr "非洲/金沙萨"
 
-#: timezones.h:558
-msgid "WET"
-msgstr "WET"
+#~ msgid "Africa/Lagos"
+#~ msgstr "非洲/拉各斯"
 
-#: timezones.h:559
-msgid "W-SU"
-msgstr "W-SU"
+#~ msgid "Africa/Libreville"
+#~ msgstr "非洲/利伯维尔"
 
-#: timezones.h:560
-msgid "Zulu"
-msgstr "祖鲁"
+#~ msgid "Africa/Lome"
+#~ msgstr "非洲/洛美"
 
+#~ msgid "Africa/Luanda"
+#~ msgstr "非洲/罗安达"
+
+#~ msgid "Africa/Lubumbashi"
+#~ msgstr "非洲/卢本巴希"
+
+#~ msgid "Africa/Lusaka"
+#~ msgstr "非洲/卢萨卡"
+
+#~ msgid "Africa/Malabo"
+#~ msgstr "非洲/马拉博"
+
+#~ msgid "Africa/Maputo"
+#~ msgstr "非洲/马普托"
+
+#~ msgid "Africa/Maseru"
+#~ msgstr "非洲/马塞卢"
+
+#~ msgid "Africa/Mbabane"
+#~ msgstr "非洲/姆巴巴内"
+
+#~ msgid "Africa/Mogadishu"
+#~ msgstr "非洲/摩加迪沙"
+
+#~ msgid "Africa/Monrovia"
+#~ msgstr "非洲/蒙罗维亚"
+
+#~ msgid "Africa/Nairobi"
+#~ msgstr "非洲/内罗毕"
+
+#~ msgid "Africa/Ndjamena"
+#~ msgstr "非洲/恩贾梅纳"
+
+#~ msgid "Africa/Niamey"
+#~ msgstr "非洲/尼亚美"
+
+#~ msgid "Africa/Nouakchott"
+#~ msgstr "非洲/努瓦克肖特"
+
+#~ msgid "Africa/Ouagadougou"
+#~ msgstr "非洲/瓦加杜古"
+
+#~ msgid "Africa/Porto-Novo"
+#~ msgstr "非洲/波多诺伏"
+
+#~ msgid "Africa/Sao_Tome"
+#~ msgstr "非洲/圣多美"
+
+#~ msgid "Africa/Timbuktu"
+#~ msgstr "非洲/廷巴克图"
+
+#~ msgid "Africa/Tripoli"
+#~ msgstr "非洲/的黎波里"
+
+#~ msgid "Africa/Tunis"
+#~ msgstr "非洲/突尼斯"
+
+#~ msgid "Africa/Windhoek"
+#~ msgstr "非洲/温得和克"
+
+#~ msgid "America/Adak"
+#~ msgstr "美洲/埃达克"
+
+#~ msgid "America/Anchorage"
+#~ msgstr "美洲/安科雷齐"
+
+#~ msgid "America/Anguilla"
+#~ msgstr "美洲/安圭拉"
+
+#~ msgid "America/Antigua"
+#~ msgstr "美洲/安提瓜岛"
+
+#~ msgid "America/Araguaina"
+#~ msgstr "美洲/阿拉瓜伊纳"
+
+#~ msgid "America/Argentina/Buenos_Aires"
+#~ msgstr "美洲/阿根廷/布宜诺斯艾利斯"
+
+#~ msgid "America/Argentina/Catamarca"
+#~ msgstr "美洲/阿根廷/卡塔马卡"
+
+#~ msgid "America/Argentina/ComodRivadavia"
+#~ msgstr "美洲/阿根廷/ComodRivadavia"
+
+#~ msgid "America/Argentina/Cordoba"
+#~ msgstr "美洲/阿根廷/Cordoba"
+
+#~ msgid "America/Argentina/Jujuy"
+#~ msgstr "美洲/阿根廷/Jujuy"
+
+#~ msgid "America/Argentina/La_Rioja"
+#~ msgstr "美洲/阿根廷/La_Rioja"
+
+#~ msgid "America/Argentina/Mendoza"
+#~ msgstr "美洲/阿根廷/门多萨"
+
+#~ msgid "America/Argentina/Rio_Gallegos"
+#~ msgstr "美洲/阿根廷/Rio_Gallegos"
+
+#~ msgid "America/Argentina/San_Juan"
+#~ msgstr "美洲/阿根廷/San_Juan"
+
+#~ msgid "America/Argentina/Tucuman"
+#~ msgstr "美洲/阿根廷/Tucuman"
+
+#~ msgid "America/Argentina/Ushuaia"
+#~ msgstr "美洲/阿根廷/Ushunia"
+
+#~ msgid "America/Aruba"
+#~ msgstr "美洲/阿鲁巴"
+
+#~ msgid "America/Asuncion"
+#~ msgstr "美洲/亚松森"
+
+#~ msgid "America/Atikokan"
+#~ msgstr "美洲/Atikokan"
+
+#~ msgid "America/Atka"
+#~ msgstr "美洲/阿提卡"
+
+#~ msgid "America/Bahia"
+#~ msgstr "美洲/Bahia"
+
+#~ msgid "America/Barbados"
+#~ msgstr "美洲/巴巴多斯"
+
+#~ msgid "America/Belem"
+#~ msgstr "美洲/贝伦"
+
+#~ msgid "America/Belize"
+#~ msgstr "美洲/伯利兹"
+
+#~ msgid "America/Blanc-Sablon"
+#~ msgstr "美洲/Blanc-Sablon"
+
+#~ msgid "America/Boa_Vista"
+#~ msgstr "美洲/泊亚维斯特"
+
+#~ msgid "America/Bogota"
+#~ msgstr "美洲/波哥大"
+
+#~ msgid "America/Boise"
+#~ msgstr "美洲/博伊西"
+
+#~ msgid "America/Buenos_Aires"
+#~ msgstr "美洲/布宜诺斯艾利斯"
+
+#~ msgid "America/Cambridge_Bay"
+#~ msgstr "美洲/剑桥湾"
+
+#~ msgid "America/Campo_Grande"
+#~ msgstr "美洲/Campo_Grande"
+
+#~ msgid "America/Cancun"
+#~ msgstr "美洲/坎昆"
+
+#~ msgid "America/Caracas"
+#~ msgstr "美洲/加拉加斯"
+
+#~ msgid "America/Catamarca"
+#~ msgstr "美洲/卡塔马卡"
+
+#~ msgid "America/Cayenne"
+#~ msgstr "美洲/卡宴"
+
+#~ msgid "America/Cayman"
+#~ msgstr "美洲/开曼"
+
+#~ msgid "America/Chicago"
+#~ msgstr "美洲/芝加哥"
+
+#~ msgid "America/Chihuahua"
+#~ msgstr "美洲/奇瓦瓦"
+
+#~ msgid "America/Coral_Harbour"
+#~ msgstr "美洲/Coral港"
+
+#~ msgid "America/Cordoba"
+#~ msgstr "美洲/科尔多瓦"
+
+#~ msgid "America/Costa_Rica"
+#~ msgstr "美洲/哥斯达黎加"
+
+#~ msgid "America/Cuiaba"
+#~ msgstr "美洲/库亚巴"
+
+#~ msgid "America/Curacao"
+#~ msgstr "美洲/库拉索"
+
+#~ msgid "America/Danmarkshavn"
+#~ msgstr "美洲/Danmarkshavn"
+
+#~ msgid "America/Dawson"
+#~ msgstr "美洲/道森"
+
+#~ msgid "America/Dawson_Creek"
+#~ msgstr "美洲/道森溪"
+
+#~ msgid "America/Denver"
+#~ msgstr "美洲/丹佛"
+
+#~ msgid "America/Detroit"
+#~ msgstr "美洲/底特律"
+
+#~ msgid "America/Dominica"
+#~ msgstr "美洲/多米尼加"
+
+#~ msgid "America/Edmonton"
+#~ msgstr "美洲/埃德蒙顿"
+
+#~ msgid "America/Eirunepe"
+#~ msgstr "美洲/依伦尼贝"
+
+#~ msgid "America/El_Salvador"
+#~ msgstr "美洲/萨尔瓦多"
+
+#~ msgid "America/Ensenada"
+#~ msgstr "美洲/恩塞纳达"
+
+#~ msgid "America/Fortaleza"
+#~ msgstr "美洲/福塔雷萨"
+
+#~ msgid "America/Fort_Wayne"
+#~ msgstr "美洲/维恩堡"
+
+#~ msgid "America/Glace_Bay"
+#~ msgstr "美洲/格雷斯湾"
+
+#~ msgid "America/Godthab"
+#~ msgstr "美洲/戈德霍普"
+
+#~ msgid "America/Goose_Bay"
+#~ msgstr "美洲/古斯贝"
+
+#~ msgid "America/Grand_Turk"
+#~ msgstr "美洲/大特克岛"
+
+#~ msgid "America/Grenada"
+#~ msgstr "美洲/格林纳达"
+
+#~ msgid "America/Guadeloupe"
+#~ msgstr "美洲/瓜德罗普岛"
+
+#~ msgid "America/Guatemala"
+#~ msgstr "美洲/危地马拉"
+
+#~ msgid "America/Guayaquil"
+#~ msgstr "美洲/瓜亚基尔"
+
+#~ msgid "America/Guyana"
+#~ msgstr "美洲/圭亚那"
+
+#~ msgid "America/Halifax"
+#~ msgstr "美洲/哈利法克斯"
+
+#~ msgid "America/Havana"
+#~ msgstr "美洲/哈瓦那"
+
+#~ msgid "America/Hermosillo"
+#~ msgstr "美洲/埃尔莫西略"
+
+#~ msgid "America/Indiana/Indianapolis"
+#~ msgstr "美洲/印第安那/印第安纳波利斯"
+
+#~ msgid "America/Indiana/Knox"
+#~ msgstr "美洲/印第安那/诺克斯"
+
+#~ msgid "America/Indiana/Marengo"
+#~ msgstr "美洲/印第安那/马伦哥"
+
+#~ msgid "America/Indiana/Petersburg"
+#~ msgstr "美洲/印第安那/彼得斯堡"
+
+#~ msgid "America/Indianapolis"
+#~ msgstr "美洲/印第安那波利斯"
+
+#~ msgid "America/Indiana/Tell_City"
+#~ msgstr "美洲/印第安那/Tell_City"
+
+#~ msgid "America/Indiana/Vevay"
+#~ msgstr "美洲/印第安那/瓦维"
+
+#~ msgid "America/Indiana/Vincennes"
+#~ msgstr "美洲/印第安那/Vincennes"
+
+#~ msgid "America/Indiana/Winamac"
+#~ msgstr "美洲/印第安那/Winamac"
+
+#~ msgid "America/Inuvik"
+#~ msgstr "美洲/伊努维克"
+
+#~ msgid "America/Iqaluit"
+#~ msgstr "美洲/伊魁特"
+
+#~ msgid "America/Jamaica"
+#~ msgstr "美洲/牙买加"
+
+#~ msgid "America/Jujuy"
+#~ msgstr "美洲/胡胡伊"
+
+#~ msgid "America/Juneau"
+#~ msgstr "美洲/朱诺"
+
+#~ msgid "America/Kentucky/Louisville"
+#~ msgstr "美洲/肯塔基/路易斯维尔"
+
+#~ msgid "America/Kentucky/Monticello"
+#~ msgstr "美洲/肯塔基/蒙帝塞罗"
+
+#~ msgid "America/Knox_IN"
+#~ msgstr "美洲/诺克斯 IN"
+
+#~ msgid "America/La_Paz"
+#~ msgstr "美洲/拉巴斯"
+
+#~ msgid "America/Lima"
+#~ msgstr "美洲/利马"
+
+#~ msgid "America/Los_Angeles"
+#~ msgstr "美洲/洛杉矶"
+
+#~ msgid "America/Louisville"
+#~ msgstr "美洲/路易斯维尔"
+
+#~ msgid "America/Maceio"
+#~ msgstr "美洲/马塞约"
+
+#~ msgid "America/Managua"
+#~ msgstr "美洲/马那瓜"
+
+#~ msgid "America/Manaus"
+#~ msgstr "美洲/马瑙斯"
+
+#~ msgid "America/Marigot"
+#~ msgstr "美洲/马利戈"
+
+#~ msgid "America/Martinique"
+#~ msgstr "美洲/马提尼克岛"
+
+#~ msgid "America/Mazatlan"
+#~ msgstr "美洲/马萨特兰"
+
+#~ msgid "America/Mendoza"
+#~ msgstr "美洲/门多萨"
+
+#~ msgid "America/Menominee"
+#~ msgstr "美洲/梅诺米尼"
+
+#~ msgid "America/Merida"
+#~ msgstr "美洲/梅里达"
+
+#~ msgid "America/Mexico_City"
+#~ msgstr "美洲/墨西哥城"
+
+#~ msgid "America/Miquelon"
+#~ msgstr "美洲/密克隆"
+
+#~ msgid "America/Moncton"
+#~ msgstr "美洲/Moncton"
+
+#~ msgid "America/Monterrey"
+#~ msgstr "美洲/蒙特雷"
+
+#~ msgid "America/Montevideo"
+#~ msgstr "美洲/蒙得维的亚"
+
+#~ msgid "America/Montreal"
+#~ msgstr "美洲/蒙特利尔"
+
+#~ msgid "America/Montserrat"
+#~ msgstr "美洲/蒙特塞拉特"
+
+#~ msgid "America/Nassau"
+#~ msgstr "美洲/拿骚"
+
+#~ msgid "America/New_York"
+#~ msgstr "美洲/纽约"
+
+#~ msgid "America/Nipigon"
+#~ msgstr "美洲/尼皮冈"
+
+#~ msgid "America/Nome"
+#~ msgstr "美洲/诺姆"
+
+#~ msgid "America/Noronha"
+#~ msgstr "美洲/诺罗尼亚"
+
+#~ msgid "America/North_Dakota/Center"
+#~ msgstr "美洲/北达科达州/中部"
+
+#~ msgid "America/North_Dakota/New_Salem"
+#~ msgstr "美洲/北达科达州/New_Salem"
+
+#~ msgid "America/Panama"
+#~ msgstr "美洲/巴拿马"
+
+#~ msgid "America/Pangnirtung"
+#~ msgstr "美洲/潘尼尔顿"
+
+#~ msgid "America/Paramaribo"
+#~ msgstr "美洲/帕拉马里博"
+
+#~ msgid "America/Phoenix"
+#~ msgstr "美洲/菲尼克斯"
+
+#~ msgid "America/Port-au-Prince"
+#~ msgstr "美洲/太子港"
+
+#~ msgid "America/Porto_Acre"
+#~ msgstr "美洲/波多阿克利"
+
+#~ msgid "America/Port_of_Spain"
+#~ msgstr "美洲/西班牙港"
+
+#~ msgid "America/Porto_Velho"
+#~ msgstr "美洲/波多韦柳"
+
+#~ msgid "America/Puerto_Rico"
+#~ msgstr "美洲/波多黎各"
+
+#~ msgid "America/Rainy_River"
+#~ msgstr "美洲/多雨河"
+
+#~ msgid "America/Rankin_Inlet"
+#~ msgstr "美洲/"
+
+#~ msgid "America/Recife"
+#~ msgstr "美洲/累西腓"
+
+#~ msgid "America/Regina"
+#~ msgstr "美洲/里加纳"
+
+#~ msgid "America/Resolute"
+#~ msgstr "美洲/Resolute"
+
+#~ msgid "America/Rio_Branco"
+#~ msgstr "美洲/里约布兰科"
+
+#~ msgid "America/Rosario"
+#~ msgstr "美洲/罗萨里奥"
+
+#~ msgid "America/Santiago"
+#~ msgstr "美洲/圣地亚哥"
+
+#~ msgid "America/Santo_Domingo"
+#~ msgstr "美洲/圣多明各"
+
+#~ msgid "America/Sao_Paulo"
+#~ msgstr "美洲/圣保罗"
+
+#~ msgid "America/Scoresbysund"
+#~ msgstr "美洲/斯格里斯比桑得"
+
+#~ msgid "America/Shiprock"
+#~ msgstr "美洲/舰石城"
+
+#~ msgid "America/St_Barthelemy"
+#~ msgstr "美洲/St_Barthelemy"
+
+#~ msgid "America/St_Johns"
+#~ msgstr "美洲/圣约翰"
+
+#~ msgid "America/St_Kitts"
+#~ msgstr "美洲/圣基茨"
+
+#~ msgid "America/St_Lucia"
+#~ msgstr "美洲/圣卢西亚"
+
+#~ msgid "America/St_Thomas"
+#~ msgstr "美洲/圣托马斯"
+
+#~ msgid "America/St_Vincent"
+#~ msgstr "美洲/圣文森特"
+
+#~ msgid "America/Swift_Current"
+#~ msgstr "美洲/斯威福特卡润特"
+
+#~ msgid "America/Tegucigalpa"
+#~ msgstr "美洲/特古西加尔巴"
+
+#~ msgid "America/Thule"
+#~ msgstr "美洲/图列"
+
+#~ msgid "America/Thunder_Bay"
+#~ msgstr "美洲/桑德贝"
+
+#~ msgid "America/Tijuana"
+#~ msgstr "美洲/蒂华纳"
+
+#~ msgid "America/Toronto"
+#~ msgstr "美洲/多伦多"
+
+#~ msgid "America/Tortola"
+#~ msgstr "美洲/托投拉"
+
+#~ msgid "America/Vancouver"
+#~ msgstr "美洲/温哥华"
+
+#~ msgid "America/Virgin"
+#~ msgstr "美洲/维尔京"
+
+#~ msgid "America/Whitehorse"
+#~ msgstr "美洲/白马"
+
+#~ msgid "America/Winnipeg"
+#~ msgstr "美洲/温尼伯"
+
+#~ msgid "America/Yakutat"
+#~ msgstr "美洲/亚库塔特"
+
+#~ msgid "America/Yellowknife"
+#~ msgstr "美洲/黄刀镇"
+
+#~ msgid "Antarctica/Casey"
+#~ msgstr "南极洲/凯西站"
+
+#~ msgid "Antarctica/Davis"
+#~ msgstr "南极洲/戴维斯站"
+
+#~ msgid "Antarctica/DumontDUrville"
+#~ msgstr "南极洲/都蒙特得乌尔维尔站"
+
+#~ msgid "Antarctica/Mawson"
+#~ msgstr "南极洲/莫森站"
+
+#~ msgid "Antarctica/McMurdo"
+#~ msgstr "南极洲/麦克默多站"
+
+#~ msgid "Antarctica/Palmer"
+#~ msgstr "南极洲/帕玛"
+
+#~ msgid "Antarctica/Rothera"
+#~ msgstr "南极洲/Rothera"
+
+#~ msgid "Antarctica/South_Pole"
+#~ msgstr "南极洲/南极"
+
+#~ msgid "Antarctica/Syowa"
+#~ msgstr "南极洲/斯由瓦站"
+
+#~ msgid "Antarctica/Vostok"
+#~ msgstr "南极洲/东方站"
+
+#~ msgid "Arctic/Longyearbyen"
+#~ msgstr "北极/朗伊尔城"
+
+#~ msgid "Asia/Aden"
+#~ msgstr "亚洲/亚丁"
+
+#~ msgid "Asia/Almaty"
+#~ msgstr "亚洲/阿拉木图"
+
+#~ msgid "Asia/Amman"
+#~ msgstr "亚洲/安曼"
+
+#~ msgid "Asia/Anadyr"
+#~ msgstr "亚洲/阿纳德尔"
+
+#~ msgid "Asia/Aqtau"
+#~ msgstr "亚洲/阿克陶"
+
+#~ msgid "Asia/Aqtobe"
+#~ msgstr "亚洲/阿克托博"
+
+#~ msgid "Asia/Ashgabat"
+#~ msgstr "亚洲/阿什哈巴德"
+
+#~ msgid "Asia/Ashkhabad"
+#~ msgstr "亚洲/阿什哈巴德"
+
+#~ msgid "Asia/Baghdad"
+#~ msgstr "亚洲/巴格达"
+
+#~ msgid "Asia/Bahrain"
+#~ msgstr "亚洲/巴林"
+
+#~ msgid "Asia/Baku"
+#~ msgstr "亚洲/巴库"
+
+#~ msgid "Asia/Bangkok"
+#~ msgstr "亚洲/曼谷"
+
+#~ msgid "Asia/Beirut"
+#~ msgstr "亚洲/贝鲁特"
+
+#~ msgid "Asia/Bishkek"
+#~ msgstr "亚洲/比什凯克"
+
+#~ msgid "Asia/Brunei"
+#~ msgstr "亚洲/文莱"
+
+#~ msgid "Asia/Calcutta"
+#~ msgstr "亚洲/加尔各答"
+
+#~ msgid "Asia/Choibalsan"
+#~ msgstr "亚洲/Choibalsan"
+
+#~ msgid "Asia/Chongqing"
+#~ msgstr "亚洲/重庆"
+
+#~ msgid "Asia/Chungking"
+#~ msgstr "亚洲/重庆"
+
+#~ msgid "Asia/Colombo"
+#~ msgstr "亚洲/科伦坡"
+
+#~ msgid "Asia/Dacca"
+#~ msgstr "亚洲/达卡"
+
+#~ msgid "Asia/Damascus"
+#~ msgstr "亚洲/大马士革"
+
+#~ msgid "Asia/Dhaka"
+#~ msgstr "亚洲/达卡"
+
+#~ msgid "Asia/Dili"
+#~ msgstr "亚洲/帝力"
+
+#~ msgid "Asia/Dubai"
+#~ msgstr "亚洲/迪拜"
+
+#~ msgid "Asia/Dushanbe"
+#~ msgstr "亚洲/杜尚别"
+
+#~ msgid "Asia/Gaza"
+#~ msgstr "亚洲/加沙"
+
+#~ msgid "Asia/Harbin"
+#~ msgstr "亚洲/哈尔滨"
+
+#~ msgid "Asia/Hong_Kong"
+#~ msgstr "亚洲/香港"
+
+#~ msgid "Asia/Hovd"
+#~ msgstr "亚洲/霍伏得"
+
+#~ msgid "Asia/Irkutsk"
+#~ msgstr "亚洲/伊尔库茨克"
+
+#~ msgid "Asia/Istanbul"
+#~ msgstr "亚洲/伊斯坦布尔"
+
+#~ msgid "Asia/Jakarta"
+#~ msgstr "亚洲/雅加达"
+
+#~ msgid "Asia/Jayapura"
+#~ msgstr "亚洲/查亚普拉"
+
+#~ msgid "Asia/Jerusalem"
+#~ msgstr "亚洲/耶路撒冷"
+
+#~ msgid "Asia/Kabul"
+#~ msgstr "亚洲/喀布尔"
+
+#~ msgid "Asia/Kamchatka"
+#~ msgstr "亚洲/勘察加"
+
+#~ msgid "Asia/Karachi"
+#~ msgstr "亚洲/卡拉奇"
+
+#~ msgid "Asia/Kashgar"
+#~ msgstr "亚洲/喀什"
+
+#~ msgid "Asia/Katmandu"
+#~ msgstr "亚洲/加德满都"
+
+#~ msgid "Asia/Krasnoyarsk"
+#~ msgstr "亚洲/克拉斯诺亚尔斯克"
+
+#~ msgid "Asia/Kuala_Lumpur"
+#~ msgstr "亚洲/吉隆坡"
+
+#~ msgid "Asia/Kuching"
+#~ msgstr "亚洲/古晋"
+
+#~ msgid "Asia/Kuwait"
+#~ msgstr "亚洲/科威特"
+
+#~ msgid "Asia/Macao"
+#~ msgstr "亚洲洲/澳门"
+
+#~ msgid "Asia/Macau"
+#~ msgstr "亚洲/澳门"
+
+#~ msgid "Asia/Magadan"
+#~ msgstr "亚洲/玛格丹"
+
+#~ msgid "Asia/Makassar"
+#~ msgstr "亚洲/望加锡"
+
+#~ msgid "Asia/Manila"
+#~ msgstr "亚洲/马尼拉"
+
+#~ msgid "Asia/Muscat"
+#~ msgstr "亚洲/马斯喀特"
+
+#~ msgid "Asia/Nicosia"
+#~ msgstr "亚洲/尼科西亚"
+
+#~ msgid "Asia/Novosibirsk"
+#~ msgstr "亚洲/诺夫哥罗德"
+
+#~ msgid "Asia/Omsk"
+#~ msgstr "亚洲/鄂木斯克"
+
+#~ msgid "Asia/Oral"
+#~ msgstr "亚洲/Oral"
+
+#~ msgid "Asia/Phnom_Penh"
+#~ msgstr "亚洲/金边"
+
+#~ msgid "Asia/Pontianak"
+#~ msgstr "亚洲/坤甸"
+
+#~ msgid "Asia/Pyongyang"
+#~ msgstr "亚洲/平壤"
+
+#~ msgid "Asia/Qatar"
+#~ msgstr "亚洲/卡塔尔"
+
+#~ msgid "Asia/Qyzylorda"
+#~ msgstr "亚洲/Qyzylorda"
+
+#~ msgid "Asia/Rangoon"
+#~ msgstr "亚洲/仰光"
+
+#~ msgid "Asia/Riyadh"
+#~ msgstr "亚洲/利雅得"
+
+#~ msgid "Asia/Riyadh87"
+#~ msgstr "亚洲/利雅得87"
+
+#~ msgid "Asia/Riyadh88"
+#~ msgstr "亚洲/利雅得88"
+
+#~ msgid "Asia/Riyadh89"
+#~ msgstr "亚洲/利雅得89"
+
+#~ msgid "Asia/Saigon"
+#~ msgstr "亚洲/西贡"
+
+#~ msgid "Asia/Sakhalin"
+#~ msgstr "亚洲/萨哈林"
+
+#~ msgid "Asia/Samarkand"
+#~ msgstr "亚洲/撒马尔罕"
+
+#~ msgid "Asia/Seoul"
+#~ msgstr "亚洲/汉城"
+
+#~ msgid "Asia/Shanghai"
+#~ msgstr "亚洲/上海"
+
+#~ msgid "Asia/Singapore"
+#~ msgstr "亚洲/新加坡"
+
+#~ msgid "Asia/Taipei"
+#~ msgstr "亚洲/台北"
+
+#~ msgid "Asia/Tashkent"
+#~ msgstr "亚洲/塔什干"
+
+#~ msgid "Asia/Tbilisi"
+#~ msgstr "亚洲/梯比利斯"
+
+#~ msgid "Asia/Tehran"
+#~ msgstr "亚洲/德黑兰"
+
+#~ msgid "Asia/Tel_Aviv"
+#~ msgstr "亚洲/特拉维夫"
+
+#~ msgid "Asia/Thimbu"
+#~ msgstr "亚洲/廷布"
+
+#~ msgid "Asia/Thimphu"
+#~ msgstr "亚洲/廷布"
+
+#~ msgid "Asia/Tokyo"
+#~ msgstr "亚洲/东京"
+
+#~ msgid "Asia/Ujung_Pandang"
+#~ msgstr "亚洲/乌戎潘当"
+
+#~ msgid "Asia/Ulaanbaatar"
+#~ msgstr "亚洲/乌兰巴托"
+
+#~ msgid "Asia/Ulan_Bator"
+#~ msgstr "亚洲/乌兰巴托"
+
+#~ msgid "Asia/Urumqi"
+#~ msgstr "亚洲/乌鲁木齐"
+
+#~ msgid "Asia/Vientiane"
+#~ msgstr "亚洲/万象"
+
+#~ msgid "Asia/Vladivostok"
+#~ msgstr "亚洲/符拉迪沃斯托克"
+
+#~ msgid "Asia/Yakutsk"
+#~ msgstr "亚洲/雅库次克"
+
+#~ msgid "Asia/Yekaterinburg"
+#~ msgstr "亚洲/叶卡捷琳堡"
+
+#~ msgid "Asia/Yerevan"
+#~ msgstr "亚洲/埃里温"
+
+#~ msgid "Atlantic/Azores"
+#~ msgstr "大西洋/亚速尔"
+
+#~ msgid "Atlantic/Bermuda"
+#~ msgstr "大西洋/百慕大"
+
+#~ msgid "Atlantic/Canary"
+#~ msgstr "大西洋/加那利"
+
+#~ msgid "Atlantic/Cape_Verde"
+#~ msgstr "大西洋/佛得角"
+
+#~ msgid "Atlantic/Faeroe"
+#~ msgstr "大西洋/法罗群岛"
+
+#~ msgid "Atlantic/Faroe"
+#~ msgstr "大西洋/法罗群岛"
+
+#~ msgid "Atlantic/Jan_Mayen"
+#~ msgstr "大西洋/扬马廷岛"
+
+#~ msgid "Atlantic/Madeira"
+#~ msgstr "大西洋/马德拉群岛"
+
+#~ msgid "Atlantic/Reykjavik"
+#~ msgstr "大西洋/雷克雅未克"
+
+#~ msgid "Atlantic/South_Georgia"
+#~ msgstr "大西洋/南乔治亚"
+
+#~ msgid "Atlantic/Stanley"
+#~ msgstr "大西洋/斯坦利"
+
+#~ msgid "Atlantic/St_Helena"
+#~ msgstr "大西洋/圣赫勒拿岛"
+
+#~ msgid "Australia/ACT"
+#~ msgstr "澳大利亚/首都特区"
+
+#~ msgid "Australia/Adelaide"
+#~ msgstr "澳大利亚/阿得雷德"
+
+#~ msgid "Australia/Brisbane"
+#~ msgstr "澳大利亚/布里斯班"
+
+#~ msgid "Australia/Broken_Hill"
+#~ msgstr "澳大利亚/断山"
+
+#~ msgid "Australia/Canberra"
+#~ msgstr "澳大利亚/堪培拉"
+
+#~ msgid "Australia/Currie"
+#~ msgstr "澳大利亚/Currie"
+
+#~ msgid "Australia/Darwin"
+#~ msgstr "澳大利亚/达尔文"
+
+#~ msgid "Australia/Eucla"
+#~ msgstr "澳大利亚/Eucla"
+
+#~ msgid "Australia/Hobart"
+#~ msgstr "澳大利亚/霍巴特"
+
+#~ msgid "Australia/LHI"
+#~ msgstr "澳大利亚/LHI"
+
+#~ msgid "Australia/Lindeman"
+#~ msgstr "澳大利亚/林德曼岛"
+
+#~ msgid "Australia/Lord_Howe"
+#~ msgstr "澳大利亚/豪勋爵岛"
+
+#~ msgid "Australia/Melbourne"
+#~ msgstr "澳大利亚/墨尔本"
+
+#~ msgid "Australia/North"
+#~ msgstr "澳大利亚/北澳州"
+
+#~ msgid "Australia/NSW"
+#~ msgstr "澳大利亚/新南威尔士州"
+
+#~ msgid "Australia/Perth"
+#~ msgstr "澳大利亚/佩思"
+
+#~ msgid "Australia/Queensland"
+#~ msgstr "澳大利亚/昆士兰州"
+
+#~ msgid "Australia/South"
+#~ msgstr "澳大利亚/南澳州"
+
+#~ msgid "Australia/Sydney"
+#~ msgstr "澳大利亚/悉尼"
+
+#~ msgid "Australia/Tasmania"
+#~ msgstr "澳大利亚/塔斯马尼亚州"
+
+#~ msgid "Australia/Victoria"
+#~ msgstr "澳大利亚/维多利亚州"
+
+#~ msgid "Australia/West"
+#~ msgstr "澳大利亚/西澳州"
+
+#~ msgid "Australia/Yancowinna"
+#~ msgstr "澳大利亚/Yancowinna"
+
+#~ msgid "Brazil/Acre"
+#~ msgstr "巴西/阿克里"
+
+#~ msgid "Brazil/DeNoronha"
+#~ msgstr "巴西/迪诺罗尼亚"
+
+#~ msgid "Brazil/East"
+#~ msgstr "巴西/东部"
+
+#~ msgid "Brazil/West"
+#~ msgstr "巴西/西部"
+
+#~ msgid "Canada/Atlantic"
+#~ msgstr "加拿大/大西洋"
+
+#~ msgid "Canada/Central"
+#~ msgstr "加拿大/中部"
+
+#~ msgid "Canada/Eastern"
+#~ msgstr "加拿大/东部"
+
+#~ msgid "Canada/East-Saskatchewan"
+#~ msgstr "加拿大/东沙斯喀彻温"
+
+#~ msgid "Canada/Mountain"
+#~ msgstr "加拿大/山区"
+
+#~ msgid "Canada/Newfoundland"
+#~ msgstr "加拿大/纽芬兰"
+
+#~ msgid "Canada/Pacific"
+#~ msgstr "加拿大/太平洋"
+
+#~ msgid "Canada/Saskatchewan"
+#~ msgstr "加拿大/沙斯喀彻温"
+
+#~ msgid "Canada/Yukon"
+#~ msgstr "加拿大/育空"
+
+#~ msgid "CET"
+#~ msgstr "CET"
+
+#~ msgid "Chile/Continental"
+#~ msgstr "智利/大陆"
+
+#~ msgid "Chile/EasterIsland"
+#~ msgstr "智利/复活岛"
+
+#~ msgid "CST6CDT"
+#~ msgstr "CST6CDT"
+
+#~ msgid "Cuba"
+#~ msgstr "古巴"
+
+#~ msgid "EET"
+#~ msgstr "EET"
+
+#~ msgid "Egypt"
+#~ msgstr "埃及"
+
+#~ msgid "Eire"
+#~ msgstr "爱尔兰"
+
+#~ msgid "EST"
+#~ msgstr "EST"
+
+#~ msgid "EST5EDT"
+#~ msgstr "EST5EDT"
+
+#~ msgid "Etc/GMT"
+#~ msgstr "Etc/GMT"
+
+#~ msgid "Etc/GMT0"
+#~ msgstr "Etc/GMT0"
+
+#~ msgid "Etc/GMT-0"
+#~ msgstr "Etc/GMT-0"
+
+#~ msgid "Etc/GMT+0"
+#~ msgstr "Etc/GMT+0"
+
+#~ msgid "Etc/GMT-1"
+#~ msgstr "Etc/GMT-1"
+
+#~ msgid "Etc/GMT+1"
+#~ msgstr "Etc/GMT+1"
+
+#~ msgid "Etc/GMT-10"
+#~ msgstr "Etc/GMT-10"
+
+#~ msgid "Etc/GMT+10"
+#~ msgstr "Etc/GMT+10"
+
+#~ msgid "Etc/GMT-11"
+#~ msgstr "Etc/GMT-11"
+
+#~ msgid "Etc/GMT+11"
+#~ msgstr "Etc/GMT+11"
+
+#~ msgid "Etc/GMT-12"
+#~ msgstr "Etc/GMT-12"
+
+#~ msgid "Etc/GMT+12"
+#~ msgstr "Etc/GMT+12"
+
+#~ msgid "Etc/GMT-13"
+#~ msgstr "Etc/GMT-13"
+
+#~ msgid "Etc/GMT-14"
+#~ msgstr "Etc/GMT-14"
+
+#~ msgid "Etc/GMT-2"
+#~ msgstr "Etc/GMT-2"
+
+#~ msgid "Etc/GMT+2"
+#~ msgstr "Etc/GMT+2"
+
+#~ msgid "Etc/GMT-3"
+#~ msgstr "Etc/GMT-3"
+
+#~ msgid "Etc/GMT+3"
+#~ msgstr "Etc/GMT+3"
+
+#~ msgid "Etc/GMT-4"
+#~ msgstr "Etc/GMT-4"
+
+#~ msgid "Etc/GMT+4"
+#~ msgstr "Etc/GMT+4"
+
+#~ msgid "Etc/GMT-5"
+#~ msgstr "Etc/GMT-5"
+
+#~ msgid "Etc/GMT+5"
+#~ msgstr "Etc/GMT+5"
+
+#~ msgid "Etc/GMT-6"
+#~ msgstr "Etc/GMT-6"
+
+#~ msgid "Etc/GMT+6"
+#~ msgstr "Etc/GMT+6"
+
+#~ msgid "Etc/GMT-7"
+#~ msgstr "Etc/GMT-7"
+
+#~ msgid "Etc/GMT+7"
+#~ msgstr "Etc/GMT+7"
+
+#~ msgid "Etc/GMT-8"
+#~ msgstr "Etc/GMT-8"
+
+#~ msgid "Etc/GMT+8"
+#~ msgstr "Etc/GMT+8"
+
+#~ msgid "Etc/GMT-9"
+#~ msgstr "Etc/GMT-9"
+
+#~ msgid "Etc/GMT+9"
+#~ msgstr "Etc/GMT+9"
+
+#~ msgid "Etc/Greenwich"
+#~ msgstr "Etc/格林威治"
+
+#~ msgid "Etc/UCT"
+#~ msgstr "Etc/UCT"
+
+#~ msgid "Etc/Universal"
+#~ msgstr "Etc/通用"
+
+#~ msgid "Etc/UTC"
+#~ msgstr "Etc/UTC"
+
+#~ msgid "Etc/Zulu"
+#~ msgstr "Etc/祖鲁"
+
+#~ msgid "Europe/Amsterdam"
+#~ msgstr "欧洲/阿姆斯特丹"
+
+#~ msgid "Europe/Andorra"
+#~ msgstr "欧洲/安道尔"
+
+#~ msgid "Europe/Athens"
+#~ msgstr "欧洲/雅典"
+
+#~ msgid "Europe/Belfast"
+#~ msgstr "欧洲/贝尔法斯特"
+
+#~ msgid "Europe/Belgrade"
+#~ msgstr "欧洲/贝尔格莱德"
+
+#~ msgid "Europe/Berlin"
+#~ msgstr "欧洲/伯林"
+
+#~ msgid "Europe/Bratislava"
+#~ msgstr "欧洲/布拉迪斯拉法"
+
+#~ msgid "Europe/Brussels"
+#~ msgstr "欧洲/布鲁塞尔"
+
+#~ msgid "Europe/Bucharest"
+#~ msgstr "欧洲/布加勒斯特"
+
+#~ msgid "Europe/Budapest"
+#~ msgstr "欧洲/布达佩斯"
+
+#~ msgid "Europe/Chisinau"
+#~ msgstr "欧洲/基希讷乌"
+
+#~ msgid "Europe/Copenhagen"
+#~ msgstr "欧洲/哥本哈根"
+
+#~ msgid "Europe/Dublin"
+#~ msgstr "欧洲/都伯林"
+
+#~ msgid "Europe/Gibraltar"
+#~ msgstr "欧洲/直布罗陀"
+
+#~ msgid "Europe/Guernsey"
+#~ msgstr "欧洲/根西岛"
+
+#~ msgid "Europe/Helsinki"
+#~ msgstr "欧洲/赫尔辛基"
+
+#~ msgid "Europe/Isle_of_Man"
+#~ msgstr "欧洲/Isle_of_Man"
+
+#~ msgid "Europe/Istanbul"
+#~ msgstr "欧洲/伊斯坦布尔"
+
+#~ msgid "Europe/Jersey"
+#~ msgstr "欧洲/耶路撒冷"
+
+#~ msgid "Europe/Kaliningrad"
+#~ msgstr "欧洲/加里宁格勒"
+
+#~ msgid "Europe/Kiev"
+#~ msgstr "欧洲/基辅"
+
+#~ msgid "Europe/Lisbon"
+#~ msgstr "欧洲/里斯本"
+
+#~ msgid "Europe/Ljubljana"
+#~ msgstr "欧洲/卢布尔雅那"
+
+#~ msgid "Europe/London"
+#~ msgstr "欧洲/伦敦"
+
+#~ msgid "Europe/Luxembourg"
+#~ msgstr "欧洲/卢森堡"
+
+#~ msgid "Europe/Madrid"
+#~ msgstr "欧洲/马德里"
+
+#~ msgid "Europe/Malta"
+#~ msgstr "欧洲/马尔他"
+
+#~ msgid "Europe/Mariehamn"
+#~ msgstr "欧洲/Mariehamn"
+
+#~ msgid "Europe/Minsk"
+#~ msgstr "欧洲/明斯克"
+
+#~ msgid "Europe/Monaco"
+#~ msgstr "欧洲/摩纳哥"
+
+#~ msgid "Europe/Moscow"
+#~ msgstr "欧洲/莫斯科"
+
+#~ msgid "Europe/Nicosia"
+#~ msgstr "欧洲/尼科西亚"
+
+#~ msgid "Europe/Oslo"
+#~ msgstr "欧洲/奥斯陆"
+
+#~ msgid "Europe/Paris"
+#~ msgstr "欧洲/巴黎"
+
+#~ msgid "Europe/Podgorica"
+#~ msgstr "欧洲/波德戈里察"
+
+#~ msgid "Europe/Prague"
+#~ msgstr "欧洲/布拉格"
+
+#~ msgid "Europe/Riga"
+#~ msgstr "欧洲/里加"
+
+#~ msgid "Europe/Rome"
+#~ msgstr "欧洲/罗马"
+
+#~ msgid "Europe/Samara"
+#~ msgstr "欧洲/萨马拉"
+
+#~ msgid "Europe/San_Marino"
+#~ msgstr "欧洲/圣马里诺"
+
+#~ msgid "Europe/Sarajevo"
+#~ msgstr "欧洲/萨拉热窝"
+
+#~ msgid "Europe/Simferopol"
+#~ msgstr "欧洲/辛菲罗波尔"
+
+#~ msgid "Europe/Skopje"
+#~ msgstr "欧洲/斯科普里"
+
+#~ msgid "Europe/Sofia"
+#~ msgstr "欧洲/索非亚"
+
+#~ msgid "Europe/Stockholm"
+#~ msgstr "欧洲/斯德哥尔摩"
+
+#~ msgid "Europe/Tallinn"
+#~ msgstr "欧洲/塔林"
+
+#~ msgid "Europe/Tirane"
+#~ msgstr "欧洲/地拉那"
+
+#~ msgid "Europe/Tiraspol"
+#~ msgstr "欧洲/蒂拉斯博"
+
+#~ msgid "Europe/Uzhgorod"
+#~ msgstr "欧洲/乌兹哥罗德"
+
+#~ msgid "Europe/Vaduz"
+#~ msgstr "欧洲/瓦杜兹"
+
+#~ msgid "Europe/Vatican"
+#~ msgstr "欧洲/梵蒂冈"
+
+#~ msgid "Europe/Vienna"
+#~ msgstr "欧洲/维也纳"
+
+#~ msgid "Europe/Vilnius"
+#~ msgstr "欧洲/维尔纽斯"
+
+#~ msgid "Europe/Volgograd"
+#~ msgstr "欧洲/伏尔加格勒"
+
+#~ msgid "Europe/Warsaw"
+#~ msgstr "欧洲/华沙"
+
+#~ msgid "Europe/Zagreb"
+#~ msgstr "欧洲/萨格勒布"
+
+#~ msgid "Europe/Zaporozhye"
+#~ msgstr "欧洲/扎波罗热"
+
+#~ msgid "Europe/Zurich"
+#~ msgstr "欧洲/苏黎世"
+
+#~ msgid "Factory"
+#~ msgstr "厂设"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "GB-Eire"
+#~ msgstr "英属爱尔兰"
+
+#~ msgid "GMT"
+#~ msgstr "GMT"
+
+#~ msgid "GMT0"
+#~ msgstr "GMT0"
+
+#~ msgid "GMT-0"
+#~ msgstr "GMT-0"
+
+#~ msgid "GMT+0"
+#~ msgstr "GMT+0"
+
+#~ msgid "Greenwich"
+#~ msgstr "格林威治"
+
+#~ msgid "Hongkong"
+#~ msgstr "香港"
+
+#~ msgid "HST"
+#~ msgstr "HST"
+
+#~ msgid "Iceland"
+#~ msgstr "冰岛"
+
+#~ msgid "Indian/Antananarivo"
+#~ msgstr "印度洋/塔那那利佛"
+
+#~ msgid "Indian/Chagos"
+#~ msgstr "印度洋/查戈斯群岛"
+
+#~ msgid "Indian/Christmas"
+#~ msgstr "印度洋/圣诞岛"
+
+#~ msgid "Indian/Cocos"
+#~ msgstr "印度洋/可可斯岛"
+
+#~ msgid "Indian/Comoro"
+#~ msgstr "印度洋/科摩罗"
+
+#~ msgid "Indian/Kerguelen"
+#~ msgstr "印度洋/克尔格伦群岛"
+
+#~ msgid "Indian/Mahe"
+#~ msgstr "印度洋/马埃"
+
+#~ msgid "Indian/Maldives"
+#~ msgstr "印度洋/马尔代夫"
+
+#~ msgid "Indian/Mauritius"
+#~ msgstr "印度洋/毛里求斯"
+
+#~ msgid "Indian/Mayotte"
+#~ msgstr "印度洋/马约特"
+
+#~ msgid "Indian/Reunion"
+#~ msgstr "印度洋/留尼汪岛"
+
+#~ msgid "Iran"
+#~ msgstr "伊朗"
+
+#~ msgid "Israel"
+#~ msgstr "以色列"
+
+#~ msgid "Jamaica"
+#~ msgstr "牙买加"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Kwajalein"
+#~ msgstr "卡瓦加兰"
+
+#~ msgid "Libya"
+#~ msgstr "利比亚"
+
+#~ msgid "MET"
+#~ msgstr "MET"
+
+#~ msgid "Mexico/BajaNorte"
+#~ msgstr "墨西哥/北下"
+
+#~ msgid "Mexico/BajaSur"
+#~ msgstr "墨西哥/南下"
+
+#~ msgid "Mexico/General"
+#~ msgstr "墨西哥/一般"
+
+#~ msgid "Mideast/Riyadh87"
+#~ msgstr "中东/利雅得87"
+
+#~ msgid "Mideast/Riyadh88"
+#~ msgstr "中东/利雅得88"
+
+#~ msgid "Mideast/Riyadh89"
+#~ msgstr "中东/利雅得89"
+
+#~ msgid "MST"
+#~ msgstr "MST"
+
+#~ msgid "MST7MDT"
+#~ msgstr "MST7MDT"
+
+#~ msgid "Navajo"
+#~ msgstr "那瓦荷"
+
+#~ msgid "NZ"
+#~ msgstr "新西兰"
+
+#~ msgid "NZ-CHAT"
+#~ msgstr "NZ-CHAT"
+
+#~ msgid "Pacific/Apia"
+#~ msgstr "太平洋/阿批亚"
+
+#~ msgid "Pacific/Auckland"
+#~ msgstr "太平洋/奥克兰"
+
+#~ msgid "Pacific/Chatham"
+#~ msgstr "太平洋/查塔姆"
+
+#, fuzzy
+#~ msgid "Pacific/Easter"
+#~ msgstr "太平洋/复活岛"
+
+#~ msgid "Pacific/Efate"
+#~ msgstr "太平洋/埃法特"
+
+#~ msgid "Pacific/Enderbury"
+#~ msgstr "太平洋/恩的伯利"
+
+#~ msgid "Pacific/Fakaofo"
+#~ msgstr "太平洋/法考福"
+
+#~ msgid "Pacific/Fiji"
+#~ msgstr "太平洋/斐济"
+
+#~ msgid "Pacific/Funafuti"
+#~ msgstr "太平洋/富纳富提"
+
+#~ msgid "Pacific/Galapagos"
+#~ msgstr "太平洋/加拉帕戈斯群岛"
+
+#~ msgid "Pacific/Gambier"
+#~ msgstr "太平洋/冈比亚岛"
+
+#~ msgid "Pacific/Guadalcanal"
+#~ msgstr "太平洋/瓜达尔卡纳尔岛"
+
+#~ msgid "Pacific/Guam"
+#~ msgstr "太平洋/关岛"
+
+#~ msgid "Pacific/Honolulu"
+#~ msgstr "太平洋/火奴鲁鲁"
+
+#~ msgid "Pacific/Johnston"
+#~ msgstr "太平洋/约翰斯顿岛"
+
+#~ msgid "Pacific/Kiritimati"
+#~ msgstr "太平洋/基里提马蒂"
+
+#~ msgid "Pacific/Kosrae"
+#~ msgstr "太平洋/库赛埃"
+
+#~ msgid "Pacific/Kwajalein"
+#~ msgstr "太平洋/卡瓦加兰"
+
+#~ msgid "Pacific/Majuro"
+#~ msgstr "太平洋/马朱罗"
+
+#~ msgid "Pacific/Marquesas"
+#~ msgstr "太平洋/马尔萨斯群岛"
+
+#~ msgid "Pacific/Midway"
+#~ msgstr "太平洋/中途岛"
+
+#~ msgid "Pacific/Nauru"
+#~ msgstr "太平洋/瑙鲁"
+
+#~ msgid "Pacific/Niue"
+#~ msgstr "太平洋/扭埃"
+
+#~ msgid "Pacific/Norfolk"
+#~ msgstr "太平洋/诺福克"
+
+#~ msgid "Pacific/Noumea"
+#~ msgstr "太平洋/努美阿"
+
+#~ msgid "Pacific/Pago_Pago"
+#~ msgstr "太平洋/帕果帕果"
+
+#~ msgid "Pacific/Palau"
+#~ msgstr "太平洋/帕劳"
+
+#~ msgid "Pacific/Pitcairn"
+#~ msgstr "太平洋/皮特克恩岛"
+
+#~ msgid "Pacific/Ponape"
+#~ msgstr "太平洋/波纳佩"
+
+#~ msgid "Pacific/Port_Moresby"
+#~ msgstr "太平洋/莫尔兹比港"
+
+#~ msgid "Pacific/Rarotonga"
+#~ msgstr "太平洋/拉罗汤加岛"
+
+#~ msgid "Pacific/Saipan"
+#~ msgstr "太平洋/塞班岛"
+
+#~ msgid "Pacific/Samoa"
+#~ msgstr "太平洋/萨摩亚"
+
+#~ msgid "Pacific/Tahiti"
+#~ msgstr "太平洋/塔希提岛"
+
+#~ msgid "Pacific/Tarawa"
+#~ msgstr "太平洋/塔拉瓦岛"
+
+#~ msgid "Pacific/Tongatapu"
+#~ msgstr "太平洋/汤加塔埔"
+
+#~ msgid "Pacific/Truk"
+#~ msgstr "太平洋/特鲁克群岛"
+
+#~ msgid "Pacific/Wake"
+#~ msgstr "太平洋/威克岛"
+
+#~ msgid "Pacific/Wallis"
+#~ msgstr "太平洋/瓦利斯岛"
+
+#~ msgid "Pacific/Yap"
+#~ msgstr "太平洋/雅浦岛"
+
+#~ msgid "Poland"
+#~ msgstr "波兰"
+
+#~ msgid "Portugal"
+#~ msgstr "葡萄牙"
+
+#~ msgid "PRC"
+#~ msgstr "中华人民共和国"
+
+#~ msgid "PST8PDT"
+#~ msgstr "PST8PDT"
+
+#~ msgid "ROC"
+#~ msgstr "ROC"
+
+#~ msgid "Singapore"
+#~ msgstr "新加坡"
+
+#~ msgid "Turkey"
+#~ msgstr "土耳其"
+
+#~ msgid "UCT"
+#~ msgstr "UCT"
+
+#~ msgid "Universal"
+#~ msgstr "通用"
+
+#~ msgid "US/Alaska"
+#~ msgstr "美国/阿拉斯加"
+
+#~ msgid "US/Aleutian"
+#~ msgstr "美国/阿留申群岛"
+
+#~ msgid "US/Arizona"
+#~ msgstr "美国/亚利桑那"
+
+#~ msgid "US/Central"
+#~ msgstr "美国/中部"
+
+#~ msgid "US/Eastern"
+#~ msgstr "美国/东部"
+
+#~ msgid "US/East-Indiana"
+#~ msgstr "美国/东印第安那"
+
+#~ msgid "US/Hawaii"
+#~ msgstr "美国/夏威夷"
+
+#~ msgid "US/Indiana-Starke"
+#~ msgstr "美国/印第安那-斯塔克"
+
+#~ msgid "US/Michigan"
+#~ msgstr "美国/密执安"
+
+#~ msgid "US/Mountain"
+#~ msgstr "美国/山区"
+
+#~ msgid "US/Pacific"
+#~ msgstr "美国/太平洋"
+
+#~ msgid "US/Pacific-New"
+#~ msgstr "美国/新太平洋"
+
+#~ msgid "US/Samoa"
+#~ msgstr "美国/萨摩亚"
+
+#~ msgid "UTC"
+#~ msgstr "UTC"
+
+#~ msgid "WET"
+#~ msgstr "WET"
+
+#~ msgid "W-SU"
+#~ msgstr "W-SU"
+
+#~ msgid "Zulu"
+#~ msgstr "祖鲁"
