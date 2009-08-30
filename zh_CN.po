@@ -10,72 +10,62 @@
 # Yu Feng <rainwoodman@gmail.com>, 2009.
 # pingman <pingman@fedoraproject.org>, 2009.
 # 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-01-30 14:34+0100\n"
-"PO-Revision-Date: 2009-08-29 19:45+0800\n"
+"POT-Creation-Date: 2009-07-29 14:58+0200\n"
+"PO-Revision-Date: 2009-08-30 08:28+0800\n"
 "Last-Translator: pingman <pingman@fedoraproject.org>\n"
-"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
+"Language-Team: Chinese/Simplified <fedora-trans-list@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
-#: ../src/date_gui.py:130
+#: ../src/date_gui.py:137
 msgid "Server"
 msgstr "服务器"
 
-#: ../src/date_gui.py:150
+#: ../src/date_gui.py:156
 #, python-format
 msgid ""
 "The NTP initscript (%s) does not seem to be functioning properly.  Try "
 "running 'rpm -V ntp' to see if the initscript has been modified.  system-"
 "config-date will exit now."
 msgstr ""
-"NTP 启动脚本 (%s) 似乎没有正常工作。"
-"请检查 “rpm -V ntp” 命令的结果，确定该脚本是否被自定义过。"
-"system-config-date 现在将退出。"
+"NTP 启动脚本 (%s) 似乎没有正常工作。请检查 “rpm -V ntp” 命令的结果，确定该脚"
+"本是否被自定义过。system-config-date 现在将退出。"
 
-#: ../src/date_gui.py:156 ../src/scdMainWindow.py:322
+#: ../src/date_gui.py:162 ../src/scdMainWindow.py:321
 msgid "Error"
 msgstr "错误"
 
-#: ../src/date_gui.py:335
+#: ../src/date_gui.py:318
 #, python-format
 msgid "Checking whether NTP server '%s' is reachable..."
 msgstr "正在检测 是否能连接到 NTP 服务器 “%s” ... "
 
-#: ../src/date_gui.py:354
+#: ../src/date_gui.py:337
 #, python-format
 msgid ""
 "You cancelled checking whether NTP server '%s' is reachable. Do you still "
 "want your changes to take effect?"
-msgstr ""
-"对连接 NTP 服务器 '%s' 的尝试已被取消。仍然应用所做的更改么？"
+msgstr "对连接 NTP 服务器 '%s' 的尝试已被取消。仍然应用所做的更改么？"
 
-#: ../src/date_gui.py:368
+#: ../src/date_gui.py:351
 #, python-format
 msgid ""
 "Host '%s' is not reachable or doesn't act as an NTP server. Do you still "
 "want your changes to take effect?"
-msgstr ""
-"主机 “%s” 不可达，或者不是 NTP 服务器。仍然应用所作的更改么？"
+msgstr "主机 “%s” 不可达，或者不是 NTP 服务器。仍然应用所作的更改么？"
 
 #: ../src/date_gui.py:382
-msgid "_Hide advanced options"
-msgstr "隐藏高级选项(_H)"
-
-#: ../src/date_gui.py:384 ../src/system-config-date.glade:655
-msgid "_Show advanced options"
-msgstr "显示高级选项(_S)"
-
-#: ../src/date_gui.py:405
 msgid "New NTP Server"
 msgstr "新 NTP 服务器"
 
-#: ../src/scdMainWindow.py:57 ../system-config-date.desktop.in.h:2
-msgid "Date & Time"
+#: ../src/scdMainWindow.py:57
+msgid "Date and Time"
 msgstr "日期和时间"
 
 #: ../src/scdMainWindow.py:58 ../system-config-date.desktop.in.h:1
@@ -110,23 +100,22 @@ msgid ""
 "Failed to synchronize hardware clock. This may be because there is no "
 "hardware clock accessible, e.g. when running in a virtualized environment."
 msgstr ""
-"同步硬件时钟失败！"
-"可能是因为没有可用的硬件时钟，(例如，操作系统正运行于一个虚拟机中。)"
+"同步硬件时钟失败！可能是因为没有可用的硬件时钟，(例如，操作系统正运行于一个虚"
+"拟机中。)"
 
-#: ../src/scdMainWindow.py:115
+#: ../src/scdMainWindow.py:114
 msgid "Please specify an NTP server to use or enable NTP broadcast."
 msgstr "请指定要使用的 NTP 服务器，或者激活 NTP 广播。"
 
-#: ../src/scdMainWindow.py:170
+#: ../src/scdMainWindow.py:169
 msgid "Contacting NTP server.  Please wait..."
 msgstr "正在联系 NTP 服务器。请稍后..."
 
-#: ../src/scdMainWindow.py:300
+#: ../src/scdMainWindow.py:299
 msgid ""
 "The help viewer could not be found. To be able to view help you need to "
 "install the 'yelp' package."
-msgstr ""
-"找不到帮助程序查看器！查看帮助文档需要 “yelp” 软件包。"
+msgstr "找不到帮助程序查看器！查看帮助文档需要 “yelp” 软件包。"
 
 #: ../src/system-config-date.py:44
 msgid ""
@@ -176,43 +165,43 @@ msgstr "选择时区"
 msgid "You must be root to run timeconfig."
 msgstr "只有系统管理员 (root) 才能进行时间设置。"
 
-#: ../src/timezoneBackend.py:63 ../src/timezoneBackend.py:81
+#: ../src/timezoneBackend.py:60 ../src/timezoneBackend.py:80
 #, python-format
 msgid "Error copying time zone (from %(fromFile)s): %(msg)s"
 msgstr "复制时区时出错 (从 %(fromFile)s): %(msg)s "
 
-#: ../src/timezoneBackend.py:68 ../src/timezoneBackend.py:86
+#: ../src/timezoneBackend.py:65 ../src/timezoneBackend.py:85
 #, python-format
 msgid "Changing permission of time zone: %s"
 msgstr "正在修改时区的权限: %s"
 
-#: ../src/timezoneBackend.py:76
+#: ../src/timezoneBackend.py:73
 msgid "Error removing /var/spool/postfix/etc/localtime"
 msgstr "删除 /var/spool/postfix/etc/localtime 时出错"
 
-#: ../src/timezone_map_gui.py:181
+#: ../src/timezone_map_gui.py:185
 msgid "Non-geographic timezones"
 msgstr "非地理时区"
 
-#: ../src/timezone_map_gui.py:256
+#: ../src/timezone_map_gui.py:261
 msgid ", "
 msgstr "，"
 
-#: ../src/timezone_map_gui.py:293
+#: ../src/timezone_map_gui.py:272
 #, python-format
 msgid "Selected city: %(city)s (%(comments)s)"
 msgstr "选择城市: %(city)s (%(comments)s)"
 
-#: ../src/timezone_map_gui.py:295
+#: ../src/timezone_map_gui.py:274
 #, python-format
 msgid "Selected city: %s"
 msgstr "选择城市: %s"
 
-#: ../src/timezone_map_gui.py:315 ../src/system-config-date.glade:721
+#: ../src/timezone_map_gui.py:300 ../src/system-config-date.glade:839
 msgid "Please select the nearest city in your time zone:"
 msgstr "请选择离本地时区最近的城市: "
 
-#: ../src/timezone_map_gui.py:355
+#: ../src/timezone_map_gui.py:340
 msgid "Use button 2 or 3 for panning and the scrollwheel to zoom in or out."
 msgstr "移动地图，使用鼠标中键或右键；缩放地图，请使用滚轮。"
 
@@ -220,115 +209,136 @@ msgstr "移动地图，使用鼠标中键或右键；缩放地图，请使用滚
 msgid "Date/Time Properties"
 msgstr "日期/时间属性"
 
-#: ../src/system-config-date.glade:71
-msgid "_Date"
-msgstr "日期(_D)"
+#: ../src/system-config-date.glade:56
+msgid "Current date and time:"
+msgstr "当前系统日期和时间"
 
-#: ../src/system-config-date.glade:120
-msgid "Current Time : "
-msgstr "当前时间: "
-
-#: ../src/system-config-date.glade:148
-msgid "_Hour : "
-msgstr "时(_H): "
-
-#: ../src/system-config-date.glade:177
-msgid "_Minute : "
-msgstr "分(_M): "
-
-#: ../src/system-config-date.glade:206
-msgid "_Second : "
-msgstr "秒(_S): "
-
-#: ../src/system-config-date.glade:318
-msgid "Time"
-msgstr "时间"
-
-#: ../src/system-config-date.glade:361
-msgid "Date & _Time"
-msgstr "日期和时间(_T)"
-
-#: ../src/system-config-date.glade:397
-msgid ""
-"Your computer can synchronize its clock with a remote time server using the "
-"Network Time Protocol"
-msgstr ""
-"你的计算机可以利用网络时钟协议 (NTP) 同远程时钟服务器同步时钟"
-
-#: ../src/system-config-date.glade:424
+#: ../src/system-config-date.glade:113
 msgid ""
 "Use this option if you want to keep your computer's clock synchronized with "
 "an NTP time server."
-msgstr ""
-"如果希望计算机自动同 NTP 时钟服务器同步时钟，激活本选项。"
+msgstr "如果希望计算机自动同 NTP 时钟服务器同步时钟，激活本选项。"
 
-#: ../src/system-config-date.glade:426
-msgid "Enable _Network Time Protocol"
-msgstr "激活网络时钟协议 (_NTP)"
+#: ../src/system-config-date.glade:115
+msgid "Synchronize date and time over the network"
+msgstr "通过网络同步日期和时间"
 
-#: ../src/system-config-date.glade:550
-msgid "NTP Servers"
-msgstr "NTP 服务器"
+#: ../src/system-config-date.glade:150
+msgid "Manually set the date and time of your system:"
+msgstr "手动设定您系统的日期和时间："
 
-#: ../src/system-config-date.glade:594
+#: ../src/system-config-date.glade:211
+msgid "<b>_Date</b>"
+msgstr "<b>日期(_D)</b>"
+
+#: ../src/system-config-date.glade:260
+msgid "_Hour : "
+msgstr "时(_H): "
+
+#: ../src/system-config-date.glade:289
+msgid "_Minute : "
+msgstr "分(_M): "
+
+#: ../src/system-config-date.glade:318
+msgid "_Second : "
+msgstr "秒(_S): "
+
+#: ../src/system-config-date.glade:412
+msgid "<b>Time</b>"
+msgstr "<b>时间</b>"
+
+#: ../src/system-config-date.glade:495
+msgid ""
+"Synchronize date and time on your computer with a remote time server using "
+"the Network Time Protocol:"
+msgstr "通过网络时钟协议 (NTP) 将您的计算机同远程时钟服务器同步时钟"
+
+#: ../src/system-config-date.glade:628
+msgid "<b>NTP Servers</b>"
+msgstr "<b>NTP 服务器</b>"
+
+#: ../src/system-config-date.glade:672
 msgid ""
 "Use this option if the system clock should be synchronized to your time "
 "server before starting the service. Don't use this option if your time "
 "server regularly can't be reached, e.g. on a laptop, as synchronization may "
 "block until a timeout has passed."
 msgstr ""
-"如果希望在启动服务之前，根据时钟服务器的时间同步系统时钟，激活本选项。"
-"如果时钟服务器经常无法访问，不要激活本选项，"
-"因为确认同步操作无法完成要等待一段时间，影响启动速度。"
+"如果希望在启动服务之前，根据时钟服务器的时间同步系统时钟，激活本选项。如果时"
+"钟服务器经常无法访问，不要激活本选项，因为确认同步操作无法完成要等待一段时"
+"间，影响启动速度。"
 
-#: ../src/system-config-date.glade:596
+#: ../src/system-config-date.glade:674
 msgid "S_ynchronize system clock before starting service"
 msgstr "在启动服务之前同步系统时钟(_y)"
 
-#: ../src/system-config-date.glade:614
+#: ../src/system-config-date.glade:692
 msgid ""
 "Use this option if you have e.g. a radio controlled clock device that "
 "synchronizes your computer's clock with an authoritative time source."
-msgstr ""
-"如果计算机连接到物理时钟源 (比如无线电时钟源)，激活本选项。"
+msgstr "如果计算机连接到物理时钟源 (比如无线电时钟源)，激活本选项。"
 
-#: ../src/system-config-date.glade:616
+#: ../src/system-config-date.glade:694
 msgid "Use _Local Time Source"
 msgstr "使用本地时钟源 (_L)"
 
-#: ../src/system-config-date.glade:633
+#: ../src/system-config-date.glade:711
 msgid ""
 "Use this option if your computer should broadcast for an NTP server on the "
 "local subnet."
-msgstr ""
-"如果希望计算机在本地子网中广播并自动寻找 NTP 服务器，激活本选项。"
+msgstr "如果希望计算机在本地子网中广播并自动寻找 NTP 服务器，激活本选项。"
 
-#: ../src/system-config-date.glade:635
+#: ../src/system-config-date.glade:713
 msgid "Enable NTP _Broadcast"
 msgstr "激活 NTP 广播(_B)"
 
-#: ../src/system-config-date.glade:691
-msgid "Net_work Time Protocol"
-msgstr "网络时钟协议 (_NTP)"
+#: ../src/system-config-date.glade:733
+msgid "_Advanced Options"
+msgstr "高级选项(_H)"
 
-#: ../src/system-config-date.glade:761
+#: ../src/system-config-date.glade:809
+msgid "Date and _Time"
+msgstr "日期和时间(_T)"
+
+#: ../src/system-config-date.glade:879
 msgid ""
 "Use this if you want to automatically switch between normal and daylight "
 "savings time. Don't use this if you have other operating systems on this "
 "computer which adjust the hardware clock to achieve this, e.g. Microsoft "
 "Windows(tm)."
 msgstr ""
-"如果你希望自动切换夏令时，激活本选项。"
-"如果计算机上其它操作系统根据夏令时校正硬件时钟，"
-"比如Windows(tm)，不要使用本选项。"
+"如果你希望自动切换夏令时，激活本选项。如果计算机上其它操作系统根据夏令时校正"
+"硬件时钟，比如Windows(tm)，不要使用本选项。"
 
-#: ../src/system-config-date.glade:763
+#: ../src/system-config-date.glade:881
 msgid "_System clock uses UTC"
 msgstr "系统时钟使用 UTC 时间(_S)"
 
-#: ../src/system-config-date.glade:787
+#: ../src/system-config-date.glade:905
 msgid "Time _Zone"
 msgstr "时区(_Z)"
+
+#: ../system-config-date.desktop.in.h:2
+msgid "Date & Time"
+msgstr "日期和时间"
+
+#~ msgid "_Show advanced options"
+#~ msgstr "显示高级选项(_S)"
+
+#~ msgid "_Date"
+#~ msgstr "日期(_D)"
+
+#~ msgid "Current Time : "
+#~ msgstr "当前时间: "
+
+#~ msgid "Time"
+#~ msgstr "时间"
+
+#~ msgid "Enable _Network Time Protocol"
+#~ msgstr "激活网络时钟协议 (_NTP)"
+
+#~ msgid "Net_work Time Protocol"
+#~ msgstr "网络时钟协议 (_NTP)"
 
 #~ msgid "Africa/Abidjan"
 #~ msgstr "非洲/阿比让"
