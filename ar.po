@@ -1,21 +1,21 @@
 # translation of timezones.po to Arabic
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER.
 # ahmad khalifa <ahmadkhalifa@hotmail.com>, 2004.
 # Ahmad Khalifa <ahmadkhalifa@hotmail.com>, 2004.
+# Tareq Al Jurf <taljurf@fedoraproject.org>, 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-12-12 16:38+0100\n"
-"PO-Revision-Date: 2004-04-11 03:10+0200\n"
-"Last-Translator: Ahmad Khalifa <ahmadkhalifa@hotmail.com>\n"
+"PO-Revision-Date: 2009-09-10 16:44-0400\n"
+"Last-Translator: Tareq Al Jurf <taljurf@fedoraproject.org>\n"
 "Language-Team: Arabic <support@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.2\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -34,9 +34,8 @@ msgid "Africa/Algiers"
 msgstr "أفريقيا/الجزائر"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "أفريقيا/أسمِرا"
+msgstr "أفريقيا/أسمرا"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -251,59 +250,48 @@ msgid "America/Araguaina"
 msgstr "أمريكا/أراجواينا"
 
 #: timezones.h:59
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "أمريكا/بوينوس_آيريس"
+msgstr "أمريكا/الأرجنتين/بوينوس_آيريس"
 
 #: timezones.h:60
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "أمريكا/كاتاماركا"
+msgstr "أمريكا/الأرجنتين/كاتاماركا"
 
 #: timezones.h:61
-#, fuzzy
 msgid "America/Argentina/ComodRivadavia"
-msgstr "أمريكا/إنديانا/إنديانابوليس"
+msgstr "أمريكا/الأرجنتين/كومودريفادافيا"
 
 #: timezones.h:62
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "أمريكا/كوردوبا"
+msgstr "أمريكا/الأرجنتين/كوردوبا"
 
 #: timezones.h:63
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "أمريكا/جوجوي"
+msgstr "أمريكا/الأرجنتين/جوجوي"
 
 #: timezones.h:64
-#, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "أمريكا/أراجواينا"
+msgstr "أمريكا/الأرجنتين/ﻻريوجا"
 
 #: timezones.h:65
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "أمريكا/مندوزا"
+msgstr "أمريكا/الأرجنتين/مندوزا"
 
 #: timezones.h:66
-#, fuzzy
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "أمريكا/إنديانا/ماريجنو"
+msgstr "أمريكا/الأرجنتين/ريو_جاليجوس"
 
 #: timezones.h:67
-#, fuzzy
 msgid "America/Argentina/San_Juan"
-msgstr "أمريكا/أنتيجوا"
+msgstr "أمريكا/الأرجنتين/سا_خوان"
 
 #: timezones.h:68
-#, fuzzy
 msgid "America/Argentina/Tucuman"
-msgstr "أمريكا/أنتيجوا"
+msgstr "أمريكا/الأرجنتين/توكومان"
 
 #: timezones.h:69
-#, fuzzy
 msgid "America/Argentina/Ushuaia"
-msgstr "أمريكا/أراجواينا"
+msgstr "أمريكا/الأرجنتين/أوشوايا"
 
 #: timezones.h:70
 msgid "America/Aruba"
@@ -314,18 +302,16 @@ msgid "America/Asuncion"
 msgstr "أمريكا/أسونسيون"
 
 #: timezones.h:72
-#, fuzzy
 msgid "America/Atikokan"
-msgstr "أمريكا/أتكا"
+msgstr "أمريكا/أتيكوكان"
 
 #: timezones.h:73
 msgid "America/Atka"
 msgstr "أمريكا/أتكا"
 
 #: timezones.h:74
-#, fuzzy
 msgid "America/Bahia"
-msgstr "أمريكا/بوا_فيزتا"
+msgstr "أمريكا/باهيا"
 
 #: timezones.h:75
 msgid "America/Barbados"
@@ -340,9 +326,8 @@ msgid "America/Belize"
 msgstr "أمريكا/بيليز"
 
 #: timezones.h:78
-#, fuzzy
 msgid "America/Blanc-Sablon"
-msgstr "أمريكا/كانكون"
+msgstr "أمريكا/بلانك-سابلون"
 
 #: timezones.h:79
 msgid "America/Boa_Vista"
@@ -365,9 +350,8 @@ msgid "America/Cambridge_Bay"
 msgstr "أمريكا/كامبريدج_باي"
 
 #: timezones.h:84
-#, fuzzy
 msgid "America/Campo_Grande"
-msgstr "أمريكا/كايمن"
+msgstr "أمريكا/كامبو_جراندي"
 
 #: timezones.h:85
 msgid "America/Cancun"
@@ -398,9 +382,8 @@ msgid "America/Chihuahua"
 msgstr "أمريكا/شيواوا"
 
 #: timezones.h:92
-#, fuzzy
 msgid "America/Coral_Harbour"
-msgstr "أمريكا/كوراكاو"
+msgstr "أمريكا/كورال_هاربور"
 
 #: timezones.h:93
 msgid "America/Cordoba"
@@ -527,32 +510,28 @@ msgid "America/Indiana/Marengo"
 msgstr "أمريكا/إنديانا/ماريجنو"
 
 #: timezones.h:124
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "أمريكا/إنديانا/ماريجنو"
+msgstr "أمريكا/إنديانا/بيتيرسبورغ"
 
 #: timezones.h:125
 msgid "America/Indianapolis"
 msgstr "أمريكا/إنديانابوليس"
 
 #: timezones.h:126
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "أمريكا/إنديانا/فيفاي"
+msgstr "أمريكا/إنديانا/تيل_سيتي"
 
 #: timezones.h:127
 msgid "America/Indiana/Vevay"
 msgstr "أمريكا/إنديانا/فيفاي"
 
 #: timezones.h:128
-#, fuzzy
 msgid "America/Indiana/Vincennes"
-msgstr "أمريكا/إنديانا/فيفاي"
+msgstr "أمريكا/إنديانا/فينسينيس"
 
 #: timezones.h:129
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "أمريكا/إنديانا/فيفاي"
+msgstr "أمريكا/إنديانا/ويناماك"
 
 #: timezones.h:130
 msgid "America/Inuvik"
@@ -615,9 +594,8 @@ msgid "America/Manaus"
 msgstr "أمريكا/ماناوس"
 
 #: timezones.h:145
-#, fuzzy
 msgid "America/Marigot"
-msgstr "أمريكا/ماسيو"
+msgstr "أمريكا/ماريجوت"
 
 #: timezones.h:146
 msgid "America/Martinique"
@@ -648,9 +626,8 @@ msgid "America/Miquelon"
 msgstr "أمريكا/ميكويلون"
 
 #: timezones.h:153
-#, fuzzy
 msgid "America/Moncton"
-msgstr "أمريكا/إدمنتون"
+msgstr "أمريكا/مونكتون"
 
 #: timezones.h:154
 msgid "America/Monterrey"
@@ -693,9 +670,8 @@ msgid "America/North_Dakota/Center"
 msgstr "أمريكا/شمال_داكوتا/منتصف"
 
 #: timezones.h:164
-#, fuzzy
 msgid "America/North_Dakota/New_Salem"
-msgstr "أمريكا/شمال_داكوتا/منتصف"
+msgstr "أمريكا/شمال_داكوتا/نيو_سالم"
 
 #: timezones.h:165
 msgid "America/Panama"
@@ -750,9 +726,8 @@ msgid "America/Regina"
 msgstr "أمريكا/ريجينا"
 
 #: timezones.h:178
-#, fuzzy
 msgid "America/Resolute"
-msgstr "أمريكا/بيليم"
+msgstr "أمريكا/ريزوليوت"
 
 #: timezones.h:179
 msgid "America/Rio_Branco"
@@ -783,9 +758,8 @@ msgid "America/Shiprock"
 msgstr "أمريكا/شيبروك"
 
 #: timezones.h:186
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "أمريكا/بيليم"
+msgstr "أمريكا/سانت_بارثيليمي"
 
 #: timezones.h:187
 msgid "America/St_Johns"
@@ -828,9 +802,8 @@ msgid "America/Tijuana"
 msgstr "أمريكا/تيوانا"
 
 #: timezones.h:197
-#, fuzzy
 msgid "America/Toronto"
-msgstr "أمريكا/تورتولا"
+msgstr "أمريكا/تورونتو"
 
 #: timezones.h:198
 msgid "America/Tortola"
@@ -885,9 +858,8 @@ msgid "Antarctica/Palmer"
 msgstr "أنتارتيكا/بالمر"
 
 #: timezones.h:211
-#, fuzzy
 msgid "Antarctica/Rothera"
-msgstr "أنتارتيكا/القطب_الجنوبي"
+msgstr "أنتارتيكا/روثيرا"
 
 #: timezones.h:212
 msgid "Antarctica/South_Pole"
@@ -1274,9 +1246,8 @@ msgid "Atlantic/Faeroe"
 msgstr "أطلنطي/فيرو"
 
 #: timezones.h:308
-#, fuzzy
 msgid "Atlantic/Faroe"
-msgstr "أطلنطي/فيرو"
+msgstr "أطلنطي/فارو"
 
 #: timezones.h:309
 msgid "Atlantic/Jan_Mayen"
@@ -1323,18 +1294,16 @@ msgid "Australia/Canberra"
 msgstr "أستراليا/كانبِرا"
 
 #: timezones.h:320
-#, fuzzy
 msgid "Australia/Currie"
-msgstr "أستراليا/كانبِرا"
+msgstr "أستراليا/كوري"
 
 #: timezones.h:321
 msgid "Australia/Darwin"
 msgstr "أستراليا/داروين"
 
 #: timezones.h:322
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "أستراليا/كوينزلاند"
+msgstr "أستراليا/ايوكلا"
 
 #: timezones.h:323
 msgid "Australia/Hobart"
@@ -1685,27 +1654,24 @@ msgid "Europe/Gibraltar"
 msgstr "أوروبا/جبل_طارق"
 
 #: timezones.h:410
-#, fuzzy
 msgid "Europe/Guernsey"
-msgstr "أوروبا/أثينا"
+msgstr "أوروبا/جويرنسي"
 
 #: timezones.h:411
 msgid "Europe/Helsinki"
 msgstr "أوروبا/هلسينكي"
 
 #: timezones.h:412
-#, fuzzy
 msgid "Europe/Isle_of_Man"
-msgstr "أوروبا/أوسلو"
+msgstr "أوروبا/أيسل_أوف_مان"
 
 #: timezones.h:413
 msgid "Europe/Istanbul"
 msgstr "أوروبا/إسطنبول"
 
 #: timezones.h:414
-#, fuzzy
 msgid "Europe/Jersey"
-msgstr "أوروبا/باريس"
+msgstr "أوروبا/جيرزي"
 
 #: timezones.h:415
 msgid "Europe/Kaliningrad"
@@ -1740,9 +1706,8 @@ msgid "Europe/Malta"
 msgstr "أوروبا/مالطا"
 
 #: timezones.h:423
-#, fuzzy
 msgid "Europe/Mariehamn"
-msgstr "أوروبا/مدريد"
+msgstr "أوروبا/ماريهامن"
 
 #: timezones.h:424
 msgid "Europe/Minsk"
@@ -1769,9 +1734,8 @@ msgid "Europe/Paris"
 msgstr "أوروبا/باريس"
 
 #: timezones.h:430
-#, fuzzy
 msgid "Europe/Podgorica"
-msgstr "أوروبا/أندورا"
+msgstr "أوروبا/بودجوريكا"
 
 #: timezones.h:431
 msgid "Europe/Prague"
@@ -1846,7 +1810,6 @@ msgid "Europe/Vilnius"
 msgstr "أوروبا/فيلنيوس"
 
 #: timezones.h:449
-#, fuzzy
 msgid "Europe/Volgograd"
 msgstr "أوروبا/بلجراد"
 
@@ -2039,7 +2002,6 @@ msgid "Pacific/Chatham"
 msgstr "هادئ/شاثام"
 
 #: timezones.h:497
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "هادئ/إيستر"
 
@@ -2272,7 +2234,6 @@ msgid "US/Pacific"
 msgstr "US/هادئ"
 
 #: timezones.h:555
-#, fuzzy
 msgid "US/Pacific-New"
 msgstr "US/هادئ"
 
