@@ -7,42 +7,31 @@ MSGMERGE = msgmerge
 
 NLSPACKAGE = timezones
 
-CATALOGS = $(shell ls *.po | sed 's/po/mo/')
-
-POTFILES  = $(NLSPACKAGE).h
+CATALOGS = $(patsubst .po,.mo,$(wildcard *.po))
 
 all: $(NLSPACKAGE).pot $(CATALOGS)
 
-$(NLSPACKAGE).pot::
-	cp -dpf $(NLSPACKAGE) $(NLSPACKAGE).new
-	chmod u+rw $(NLSPACKAGE).new
-	for tzfile in `cd /usr/share/zoneinfo; find . -type f -or -type l | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)" | sort | cut -d '/' -f 2- `; do \
-		echo "$$tzfile"; \
-	done | while read tz; do \
-		if ! fgrep -x -q "$$tz" $(NLSPACKAGE); then \
-			echo "$$tz"; \
+$(NLSPACKAGE).h::
+	(cd /usr/share/zoneinfo; find . -type f -or -type l) | grep '^./[A-Z]' | egrep -v "(/right/)|(/posix/)|(/zone\.tab$$)" | sort -u | cut -d '/' -f 2- | \
+	while read tz; do \
+		echo "N_(\"$$tz\");"; \
+		comment="`awk '-F\t' '{if ($$3 ~ "^'"$$tz"'$$") { print $$4 }}' < /usr/share/zoneinfo/zone.tab`"; \
+		if test -n "$$comment" ; then \
+			echo "/* comment for time zone $$tz */"; \
+			echo "N_(\"$$comment\");"; \
 		fi; \
-	done >> $(NLSPACKAGE).new
-	sort -u $(NLSPACKAGE).new > $(NLSPACKAGE).new.new
-	mv -f $(NLSPACKAGE).new.new $(NLSPACKAGE).new
-	if ! cmp -s $(NLSPACKAGE) $(NLSPACKAGE).new; then \
-		mv $(NLSPACKAGE).new $(NLSPACKAGE); \
-		for tz in `cat $(NLSPACKAGE)`; do \
-			echo "N_(\"$$tz\");"; \
-		done > timezones.h; \
-		xgettext --default-domain=$(NLSPACKAGE) \
-			--add-comments --keyword=_ --keyword=N_ $(POTFILES); \
-		if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
-	    	rm -f $(NLSPACKAGE).po; \
-		else \
-	    	mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
-		fi; \
-	else \
-		rm -f $(NLSPACKAGE).new; \
-	fi
+	done > $@
 
-update-po: Makefile
-	$(MAKE) $(NLSPACKAGE).pot
+$(NLSPACKAGE).pot: Makefile $(NLSPACKAGE).h
+	xgettext --default-domain=$(NLSPACKAGE) \
+		--add-comments --keyword=_ --keyword=N_ $(NLSPACKAGE).h; \
+	if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
+		rm -f $(NLSPACKAGE).po; \
+	else \
+		mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
+	fi; \
+
+update-po: Makefile $(NLSPACKAGE).pot
 	catalogs='$(CATALOGS)'; \
 	for cat in $$catalogs; do \
 		lang=`echo $$cat | sed 's/.mo//'`; \
