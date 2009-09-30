@@ -6,21 +6,20 @@
 # Automatically generated, 2004.
 # Timo Trinks <ttrinks@redhat.com>, 2007.
 # Fabian Affolter <fab@fedoraproject.org>, 2008.
-#
 # Jens Maucher <jensm@fedoraproject.org>, 2009.
+# Nils Philippsen <nils@redhat.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2009-09-29 19:48+0200\n"
-"Last-Translator: Jens Maucher <jensm@fedoraproject.org>\n"
+"PO-Revision-Date: 2009-09-30 15:34+0200\n"
+"Last-Translator: Nils Philippsen <nils@redhat.com>\n"
 "Language-Team: German <fedora-trans-de@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
 "X-Poedit-Language: German\n"
 
 #: timezones.h:1
@@ -3092,57 +3091,57 @@ msgstr "Island"
 #
 #: timezones.h:801
 msgid "Indian/Antananarivo"
-msgstr "Indisch/Antananarivo"
+msgstr "Indischer Ozean/Antananarivo"
 
 #
 #: timezones.h:802
 msgid "Indian/Chagos"
-msgstr "Indisch/Chagos"
+msgstr "Indischer Ozean/Chagos"
 
 #
 #: timezones.h:803
 msgid "Indian/Christmas"
-msgstr "Indisch/Weihnachtsinseln"
+msgstr "Indischer Ozean/Weihnachtsinseln"
 
 #
 #: timezones.h:804
 msgid "Indian/Cocos"
-msgstr "Indisch/Kokosinseln"
+msgstr "Indischer Ozean/Kokosinseln"
 
 #
 #: timezones.h:805
 msgid "Indian/Comoro"
-msgstr "Indisch/Comoro"
+msgstr "Indischer Ozean/Comoro"
 
 #
 #: timezones.h:806
 msgid "Indian/Kerguelen"
-msgstr "Indisch/Kerguelen"
+msgstr "Indischer Ozean/Kerguelen"
 
 #
 #: timezones.h:807
 msgid "Indian/Mahe"
-msgstr "Indisch/Mahe"
+msgstr "Indischer Ozean/Mahe"
 
 #
 #: timezones.h:808
 msgid "Indian/Maldives"
-msgstr "Indisch/Mallediven"
+msgstr "Indischer Ozean/Malediven"
 
 #
 #: timezones.h:809
 msgid "Indian/Mauritius"
-msgstr "Indisch/Mauritius"
+msgstr "Indischer Ozean/Mauritius"
 
 #
 #: timezones.h:810
 msgid "Indian/Mayotte"
-msgstr "Indisch/Mayotte"
+msgstr "Indischer Ozean/Mayotte"
 
 #
 #: timezones.h:811
 msgid "Indian/Reunion"
-msgstr "Indisch/Reunion"
+msgstr "Indischer Ozean/Reunion"
 
 #
 #: timezones.h:812
