@@ -175,7 +175,7 @@ msgstr "കിഴക്കന്‍ ഡെമോക്രാറ്റിക് �
 
 #: timezones.h:42
 msgid "Africa/Lusaka"
-msgstr "ആഫ്രിക്കലുസാക്കാ"
+msgstr "ആഫ്രിക്ക/ലുസാക്കാ"
 
 #: timezones.h:43
 msgid "Africa/Malabo"
@@ -584,7 +584,8 @@ msgstr "അമേരിക്ക/ഡോസന്‍_ക്രീക്ക്"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid ""
+"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്ക് & ഫോര്‍ട്ട് സെയിന്റ് ജോണ്‍, ബ്രിട്ടിഷ് കൊളംബിയാ"
 
 #: timezones.h:168
@@ -1018,7 +1019,8 @@ msgstr "അമേരിക്ക/നിപ്പിഗോണ്‍"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:300
-msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid ""
+"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "കിഴക്കന്‍ സമയം - ഒണ്‍ടാരിയോ & ക്യൂബെക് - DST 1967-1973 പാലിച്ചിട്ടില്ലാത്ത സ്ഥലങ്ങള്‍"
 
 #: timezones.h:301
@@ -3166,4 +3168,3 @@ msgstr "W-SU"
 #: timezones.h:935
 msgid "Zulu"
 msgstr "സുളു"
-
