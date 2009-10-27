@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2009-10-14 18:00+0530\n"
+"PO-Revision-Date: 2009-10-27 14:12+0530\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
 "Language-Team: Bengali INDIA <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -661,7 +661,7 @@ msgstr "আমেরিকা/গ্লেস_বে"
 #. comment for time zone America/Glace_Bay
 #: timezones.h:189
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr ""
+msgstr "আতলান্তিক সময় - নোভা স্কোশিয়া - ১৯৬৬-১৯৭১-র মধ্যে দিবালোক সংরক্ষণকারী সময় না ব্যবহারকারী স্থান"
 
 #: timezones.h:190
 msgid "America/Godthab"
@@ -1027,7 +1027,7 @@ msgstr "আমেরিকা/নিপিগন"
 #. comment for time zone America/Nipigon
 #: timezones.h:300
 msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
+msgstr "পূর্বীয় সময় - ওন্টারিও ও কিউবেক - ১৯৬৭-১৯৭৩-র মধ্যে দিবালোক সংরক্ষণকারী সময় না ব্যবহারকারী স্থান"
 
 #: timezones.h:301
 msgid "America/Nome"
