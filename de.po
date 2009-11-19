@@ -4,16 +4,16 @@
 #
 # Automatically generated, 2004.
 # Timo Trinks <ttrinks@redhat.com>, 2007.
-# Fabian Affolter <fab@fedoraproject.org>, 2008,2009.
 # Jens Maucher <jensm@fedoraproject.org>, 2009.
 # Nils Philippsen <nils@redhat.com>, 2009.
 #
+# Fabian Affolter <fab@fedoraproject.org>, 2008,2009, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2009-11-15 10:18+0100\n"
+"PO-Revision-Date: 2009-11-19 18:26+0100\n"
 "Last-Translator: Fabian Affolter <fab@fedoraproject.org>\n"
 "Language-Team: German <fedora-trans-de@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -285,7 +285,7 @@ msgstr "Amerika/Araguaina"
 #. comment for time zone America/Araguaina
 #: timezones.h:70
 msgid "Tocantins"
-msgstr ""
+msgstr "Tocantis"
 
 #: timezones.h:71
 msgid "America/Argentina/Buenos_Aires"
@@ -440,7 +440,7 @@ msgstr "Amerika/Belem"
 #. comment for time zone America/Belem
 #: timezones.h:120
 msgid "Amapa, E Para"
-msgstr ""
+msgstr "Amapa, E Para"
 
 #: timezones.h:121
 msgid "America/Belize"
@@ -462,7 +462,7 @@ msgstr "Amerika/Boa_Vista"
 #. comment for time zone America/Boa_Vista
 #: timezones.h:127
 msgid "Roraima"
-msgstr ""
+msgstr "Roraima"
 
 #: timezones.h:128
 msgid "America/Bogota"
@@ -591,7 +591,8 @@ msgstr "Amerika/Dawson_Creek"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid ""
+"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr ""
 
 #: timezones.h:168
@@ -684,13 +685,8 @@ msgstr "Amerika/Godthab"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:192
-#: timezones.h:352
-#: timezones.h:438
-#: timezones.h:573
-#: timezones.h:736
-#: timezones.h:834
-#: timezones.h:873
+#: timezones.h:192 timezones.h:352 timezones.h:438 timezones.h:573
+#: timezones.h:736 timezones.h:834 timezones.h:873
 msgid "most locations"
 msgstr "fast alle Orte"
 
@@ -732,9 +728,7 @@ msgstr "Amerika/Guayaquil"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:202
-#: timezones.h:739
-#: timezones.h:745
+#: timezones.h:202 timezones.h:739 timezones.h:745
 msgid "mainland"
 msgstr "Festland"
 
@@ -938,8 +932,7 @@ msgstr "Amerika/Los_Angeles"
 #
 #. comment for time zone America/Los_Angeles
 #. comment for time zone America/Tijuana
-#: timezones.h:258
-#: timezones.h:383
+#: timezones.h:258 timezones.h:383
 msgid "Pacific Time"
 msgstr "Pazifik Zeit"
 
@@ -956,7 +949,7 @@ msgstr "Amerika/Maceio"
 #. comment for time zone America/Maceio
 #: timezones.h:262
 msgid "Alagoas, Sergipe"
-msgstr ""
+msgstr "Alagoas"
 
 #
 #: timezones.h:263
@@ -1096,7 +1089,8 @@ msgstr "Amerika/Nipigon"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:300
-msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid ""
+"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
 
 #
@@ -1193,7 +1187,7 @@ msgstr "Amerika/Porto_Velho"
 #. comment for time zone America/Porto_Velho
 #: timezones.h:326
 msgid "Rondonia"
-msgstr ""
+msgstr "Rondonia"
 
 #
 #: timezones.h:327
@@ -1228,7 +1222,7 @@ msgstr "Amerika/Recife"
 #. comment for time zone America/Recife
 #: timezones.h:336
 msgid "Pernambuco"
-msgstr ""
+msgstr "Pernambuco"
 
 #
 #: timezones.h:337
@@ -1257,7 +1251,7 @@ msgstr "Amerika/Rio_Branco"
 #. comment for time zone America/Rio_Branco
 #: timezones.h:345
 msgid "Acre"
-msgstr ""
+msgstr "Acre"
 
 #
 #: timezones.h:346
@@ -1371,7 +1365,7 @@ msgstr "Amerika/Thule"
 #. comment for time zone America/Thule
 #: timezones.h:377
 msgid "Thule / Pituffik"
-msgstr ""
+msgstr "Thule / Pituffik"
 
 #
 #: timezones.h:378
@@ -3163,8 +3157,7 @@ msgstr "Japan"
 
 #
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:817
-#: timezones.h:870
+#: timezones.h:817 timezones.h:870
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
@@ -3646,4 +3639,3 @@ msgstr "W-SU"
 #: timezones.h:935
 msgid "Zulu"
 msgstr "Zulu"
-
