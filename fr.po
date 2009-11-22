@@ -12,9 +12,9 @@ msgstr ""
 "Project-Id-Version: timezones.tip\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2009-10-04 18:39+0200\n"
+"PO-Revision-Date: 2009-11-22 22:54+0100\n"
 "Last-Translator: Thomas Canniot <mrtom@fedoraproject.org>\n"
-"Language-Team: French <fedora-trans-fr@redhat.com>\n"
+"Language-Team: French <fedora-trans-fr@fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,7 +149,7 @@ msgstr "Afrique/Kinshasa"
 #. comment for time zone Africa/Kinshasa
 #: timezones.h:34
 msgid "west Dem. Rep. of Congo"
-msgstr "République démocratique du Congo de l'Ouest"
+msgstr "Ouest de la République démocratique du Congo"
 
 #: timezones.h:35
 msgid "Africa/Lagos"
@@ -174,7 +174,7 @@ msgstr "Afrique/Lubumbashi"
 #. comment for time zone Africa/Lubumbashi
 #: timezones.h:41
 msgid "east Dem. Rep. of Congo"
-msgstr "République démocratique du Congo de l'Est"
+msgstr "Est de la République démocratique du Congo"
 
 #: timezones.h:42
 msgid "Africa/Lusaka"
@@ -436,7 +436,7 @@ msgstr "Amérique/Belém"
 #. comment for time zone America/Belem
 #: timezones.h:120
 msgid "Amapa, E Para"
-msgstr "Amapa, E Para"
+msgstr "Amapa, Est du Paraguay"
 
 #: timezones.h:121
 msgid "America/Belize"
@@ -570,7 +570,7 @@ msgstr "Amérique/Danmarkshavn"
 #. comment for time zone America/Danmarkshavn
 #: timezones.h:161
 msgid "east coast, north of Scoresbysund"
-msgstr "Côte Est, Ittoqqortoormiit du Nord"
+msgstr "Ittoqqortoormiit du Nord, côte Est"
 
 #: timezones.h:162
 msgid "America/Dawson"
@@ -587,8 +587,10 @@ msgstr "Amérique/Dawson_Creek"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr "Heure des Montagnes - Dawson Creek & Fort Saint John, Colombie-Britannique"
+msgid ""
+"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgstr ""
+"Heure des Montagnes - Dawson Creek & Fort Saint John, Colombie-Britannique"
 
 #: timezones.h:168
 msgid "America/Denver"
@@ -620,8 +622,8 @@ msgstr "Amérique/Edmonton"
 #: timezones.h:177
 msgid "Mountain Time - Alberta, east British Columbia & west Saskatchewan"
 msgstr ""
-"Heure des Montagnes - Alberta, Colombie-Britannique de l'Est & Saskatchewan de "
-"l'Ouest"
+"Heure des Montagnes - Alberta, Colombie-Britannique de l'Est & Saskatchewan "
+"de l'Ouest"
 
 #: timezones.h:178
 msgid "America/Eirunepe"
@@ -630,7 +632,7 @@ msgstr "Amérique/Eirunepe"
 #. comment for time zone America/Eirunepe
 #: timezones.h:180
 msgid "W Amazonas"
-msgstr "Amazonas de l'Ouest"
+msgstr "Ouest de l'Amazonas"
 
 #: timezones.h:181
 msgid "America/El_Salvador"
@@ -647,7 +649,7 @@ msgstr "Amérique/Fortaleza"
 #. comment for time zone America/Fortaleza
 #: timezones.h:185
 msgid "NE Brazil (MA, PI, CE, RN, PB)"
-msgstr "Brésil du Nord-Est (MA, PI, CE, RN, PB)"
+msgstr "Nord-Est du Brésil (MA, PI, CE, RN, PB)"
 
 #: timezones.h:186
 msgid "America/Fort_Wayne"
@@ -661,8 +663,8 @@ msgstr "Amérique/Glace_Bay"
 #: timezones.h:189
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
 msgstr ""
-"Heure de l'Atlantique - Nouvelle-Écosse - lieux n'ayant pas respecté DST de 1966 à "
-"1971"
+"Heure de l'Atlantique - Nouvelle-Écosse - lieux n'ayant pas respecté DST de "
+"1966 à 1971"
 
 #: timezones.h:190
 msgid "America/Godthab"
@@ -727,7 +729,9 @@ msgstr "Amérique/Halifax"
 #. comment for time zone America/Halifax
 #: timezones.h:206
 msgid "Atlantic Time - Nova Scotia (most places), PEI"
-msgstr "Heure de l'Atlantique - Nouvelle-Écossea (lieux divers), Île-du-Prince-Édouard"
+msgstr ""
+"Heure de l'Atlantique - Nouvelle-Écosse (lieux divers), Île-du-Prince-"
+"Édouard"
 
 #: timezones.h:207
 msgid "America/Havana"
@@ -851,7 +855,7 @@ msgstr "Amérique/Juneau"
 #. comment for time zone America/Juneau
 #: timezones.h:246
 msgid "Alaska Time - Alaska panhandle"
-msgstr "Heure de l'Alaska - Alaska panhandle"
+msgstr "Heure de l'Alaska - Queue de poêle de l'Alaska"
 
 #: timezones.h:247
 msgid "America/Kentucky/Louisville"
@@ -917,7 +921,7 @@ msgstr "Amérique/Manaus"
 #. comment for time zone America/Manaus
 #: timezones.h:266
 msgid "E Amazonas"
-msgstr "Amazonas de l'Est"
+msgstr "Est de l'Amazone"
 
 #: timezones.h:267
 msgid "America/Marigot"
@@ -947,7 +951,8 @@ msgstr "Amérique/Menominee"
 #. comment for time zone America/Menominee
 #: timezones.h:275
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr "Heure du Centre - Michigan - Comtés de Dickinson, Gogebic, Iron & Menominee"
+msgstr ""
+"Heure du Centre - Michigan - Comtés de Dickinson, Gogebic, Iron & Menominee"
 
 #: timezones.h:276
 msgid "America/Merida"
@@ -1000,7 +1005,7 @@ msgstr "Amérique/Montréal"
 #. comment for time zone America/Montreal
 #: timezones.h:292
 msgid "Eastern Time - Quebec - most locations"
-msgstr "Heure de l'Est - Quebec - lieux divers"
+msgstr "Heure de l'Est - Québec - lieux divers"
 
 #: timezones.h:293
 msgid "America/Montserrat"
@@ -1025,8 +1030,11 @@ msgstr "Amérique/Nipigon"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:300
-msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr "Heure de l'Est - Ontario & Quebec - lieux n'ayant pas respcté le DST 1967-1973"
+msgid ""
+"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgstr ""
+"Heure de l'Est - Ontario & Québec - lieux n'ayant pas respecté le DST 1967-"
+"1973"
 
 #: timezones.h:301
 msgid "America/Nome"
@@ -1062,7 +1070,8 @@ msgstr "Amérique/Dakota_du_Nord/New_Salem"
 #. comment for time zone America/North_Dakota/New_Salem
 #: timezones.h:312
 msgid "Central Time - North Dakota - Morton County (except Mandan area)"
-msgstr "Heure du Centre - Dakota du Nord - Comté du Morton (sauf la région Mandan)"
+msgstr ""
+"Heure du Centre - Dakota du Nord - Comté du Morton (sauf la région Mandan)"
 
 #: timezones.h:313
 msgid "America/Panama"
@@ -1122,7 +1131,7 @@ msgstr "Amérique/Rainy_River"
 #. comment for time zone America/Rainy_River
 #: timezones.h:330
 msgid "Central Time - Rainy River & Fort Frances, Ontario"
-msgstr "Heure du Centre - Rivière à la Pluie & Fort Frances, Ontario"
+msgstr "Heure du Centre - Rainy River & Fort Frances, Ontario"
 
 #: timezones.h:331
 msgid "America/Rankin_Inlet"
@@ -1180,7 +1189,7 @@ msgstr "Amérique/Santarém"
 #. comment for time zone America/Santarem
 #: timezones.h:349
 msgid "W Para"
-msgstr "Para de l'Ouest"
+msgstr "Ouest du Paraguay"
 
 #: timezones.h:350
 msgid "America/Santiago"
@@ -1197,7 +1206,7 @@ msgstr "Amérique/Sao_Paulo"
 #. comment for time zone America/Sao_Paulo
 #: timezones.h:356
 msgid "S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
-msgstr "Brésil du Sud et du Sud-Est (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
+msgstr "Sud et du Sud-Est du Brésil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
 
 #: timezones.h:357
 msgid "America/Scoresbysund"
@@ -1228,7 +1237,7 @@ msgstr "Amérique/St_Johns"
 #. comment for time zone America/St_Johns
 #: timezones.h:366
 msgid "Newfoundland Time, including SE Labrador"
-msgstr "Heure de Terre-Neuve, Labrador du Sud-Est inclu"
+msgstr "Heure de Terre-Neuve, inclut le Labrador du Sud-Est"
 
 #: timezones.h:367
 msgid "America/St_Kitts"
@@ -1368,7 +1377,7 @@ msgstr "Antarctique/DumontDUrville"
 #. comment for time zone Antarctica/DumontDUrville
 #: timezones.h:412
 msgid "Dumont-d'Urville Station, Terre Adelie"
-msgstr "Base antarctique Dumont d'Urville, Terre Adelie"
+msgstr "Base antarctique Dumont d'Urville, Terre Adélie"
 
 #: timezones.h:413
 msgid "Antarctica/Mawson"
@@ -1532,7 +1541,7 @@ msgstr "Asie/Chongqing"
 #. comment for time zone Asia/Chongqing
 #: timezones.h:464
 msgid "central China - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc."
-msgstr "China Centrale - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc."
+msgstr "Centre de la Chine - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc."
 
 #: timezones.h:465
 msgid "Asia/Chungking"
@@ -1848,7 +1857,7 @@ msgstr "Asie/Shanghai"
 #. comment for time zone Asia/Shanghai
 #: timezones.h:558
 msgid "east China - Beijing, Guangdong, Shanghai, etc."
-msgstr "China de l'Est - Beijing, Guangdong, Shanghai, etc."
+msgstr "Est de la Chine - Beijing, Guangdong, Shanghai, etc."
 
 #: timezones.h:559
 msgid "Asia/Singapore"
