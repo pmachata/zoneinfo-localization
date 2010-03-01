@@ -6,13 +6,14 @@
 # Noriko Mizumoto <noriko@redhat.com>, 2006.
 # Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>, 2007, 2009.
 # Makoto Mizukami <makoto@fedoraproject.org>, 2008, 2010.
+# Hajime Taira <htaira@redhat.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: ja\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2010-02-10 19:44+0900\n"
-"Last-Translator: Makoto Mizukami <makoto@fedoraproject.org>\n"
+"PO-Revision-Date: 2010-03-01 15:08+0900\n"
+"Last-Translator: Hajime Taira <htaira@redhat.com>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -584,11 +585,8 @@ msgstr "アメリカ/ドーソンクリーク"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr ""
-"山岳部標準時 - ドーソンクリーク、フォートセントジョン、ブリティッシュコロンビ"
-"ア州"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgstr "山岳部標準時 - ドーソンクリーク、フォートセントジョン、ブリティッシュコロンビア州"
 
 #: timezones.h:168
 msgid "America/Denver"
@@ -619,8 +617,7 @@ msgstr "アメリカ/エドモントン"
 #. comment for time zone America/Edmonton
 #: timezones.h:177
 msgid "Mountain Time - Alberta, east British Columbia & west Saskatchewan"
-msgstr ""
-"山岳部時間 - アルバータ州、ブリティッシュコロンビア州東部、サスカチュワン州"
+msgstr "山岳部時間 - アルバータ州、ブリティッシュコロンビア州東部、サスカチュワン州"
 
 #: timezones.h:178
 msgid "America/Eirunepe"
@@ -659,8 +656,7 @@ msgstr "アメリカ/グレースベイ"
 #. comment for time zone America/Glace_Bay
 #: timezones.h:189
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr ""
-"大西洋時間 - ノバスコシア州 - 夏時間を 1966年～1971年に実施しなかった地域"
+msgstr "大西洋時間 - ノバスコシア州 - 夏時間を 1966年～1971年に実施しなかった地域"
 
 #: timezones.h:190
 msgid "America/Godthab"
@@ -673,8 +669,13 @@ msgstr "アメリカ/ゴッドホーブ"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:192 timezones.h:352 timezones.h:438 timezones.h:573
-#: timezones.h:736 timezones.h:834 timezones.h:873
+#: timezones.h:192
+#: timezones.h:352
+#: timezones.h:438
+#: timezones.h:573
+#: timezones.h:736
+#: timezones.h:834
+#: timezones.h:873
 msgid "most locations"
 msgstr "大半の地域"
 
@@ -710,7 +711,9 @@ msgstr "アメリカ/グアヤキル"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:202 timezones.h:739 timezones.h:745
+#: timezones.h:202
+#: timezones.h:739
+#: timezones.h:745
 msgid "mainland"
 msgstr "本土"
 
@@ -887,7 +890,8 @@ msgstr "アメリカ/ロサンゼルス"
 
 #. comment for time zone America/Los_Angeles
 #. comment for time zone America/Tijuana
-#: timezones.h:258 timezones.h:383
+#: timezones.h:258
+#: timezones.h:383
 msgid "Pacific Time"
 msgstr "太平洋時間"
 
@@ -945,8 +949,7 @@ msgstr "アメリカ/メノミニー"
 #. comment for time zone America/Menominee
 #: timezones.h:275
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr ""
-"中央部時間 - ミシガン州 - ジキンゾンと、ゴギービック、Iron、メノミニー郡"
+msgstr "中央部時間 - ミシガン州 - ジキンゾンと、ゴギービック、Iron、メノミニー郡"
 
 #: timezones.h:276
 msgid "America/Merida"
@@ -1024,11 +1027,8 @@ msgstr "アメリカ/ニピゴン"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:300
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
-"東部時間 - オンタリオ州とケベック州 - 夏時間を1967年～1973年に適用しなかった"
-"地域"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgstr "東部時間 - オンタリオ州とケベック州 - 夏時間を1967年～1973年に適用しなかった地域"
 
 #: timezones.h:301
 msgid "America/Nome"
@@ -1972,7 +1972,7 @@ msgid "Canary Islands"
 msgstr "カナリア諸島"
 
 #: timezones.h:596
-msgid "Atlantic/Cape Verde"
+msgid "Atlantic/Cape_Verde"
 msgstr "大西洋/ケープベルデ"
 
 #: timezones.h:597
@@ -2001,16 +2001,16 @@ msgid "Atlantic/Reykjavik"
 msgstr "太平洋/レイキャビーク"
 
 #: timezones.h:604
-msgid "Atlantic/South Georgia"
-msgstr "太平洋/サウスジョージア"
+msgid "Atlantic/South_Georgia"
+msgstr "大西洋/サウスジョージア"
 
 #: timezones.h:605
 msgid "Atlantic/Stanley"
 msgstr "太平洋/スタンレー"
 
 #: timezones.h:606
-msgid "Atlantic/St Helena"
-msgstr "太平洋/セントヘレナ"
+msgid "Atlantic/St_Helena"
+msgstr "大西洋/セントヘレナ"
 
 #: timezones.h:607
 msgid "Australia/ACT"
@@ -2035,8 +2035,8 @@ msgid "Queensland - most locations"
 msgstr "クイーンズランド州 - 大半の地域"
 
 #: timezones.h:614
-msgid "Australia/Broken Hill"
-msgstr "オーストラリア/ブロークンヒル"
+msgid "Australia/Broken_Hill"
+msgstr "オーストラリア/ブロークン・ヒル"
 
 #. comment for time zone Australia/Broken_Hill
 #: timezones.h:616
@@ -2097,7 +2097,7 @@ msgid "Queensland - Holiday Islands"
 msgstr "クイーンズランド - ホリデー島"
 
 #: timezones.h:634
-msgid "Australia/Lord Howe"
+msgid "Australia/Lord_Howe"
 msgstr "オーストラリア/ロード・ハウ"
 
 #. comment for time zone Australia/Lord_Howe
@@ -2461,7 +2461,7 @@ msgid "Europe/Helsinki"
 msgstr "ヨーロッパ/ヘルシンキ"
 
 #: timezones.h:728
-msgid "Europe/Isle of Man"
+msgid "Europe/Isle_of_Man"
 msgstr "ヨーロッパ/マン島"
 
 #: timezones.h:729
@@ -2568,7 +2568,7 @@ msgid "Moscow+01 - Samara, Udmurtia"
 msgstr "モスクワ+01 - サマラ、Udmurtia"
 
 #: timezones.h:763
-msgid "Europe/San Marino"
+msgid "Europe/San_Marino"
 msgstr "ヨーロッパ/サンマリノ"
 
 #: timezones.h:764
@@ -2772,7 +2772,8 @@ msgid "Japan"
 msgstr "日本"
 
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:817 timezones.h:870
+#: timezones.h:817
+#: timezones.h:870
 msgid "Kwajalein"
 msgstr "クワジャリン"
 
@@ -2984,7 +2985,7 @@ msgid "Pacific/Noumea"
 msgstr "太平洋/ヌメア"
 
 #: timezones.h:884
-msgid "Pacific/Pago Pago"
+msgid "Pacific/Pago_Pago"
 msgstr "太平洋/パゴパゴ"
 
 #: timezones.h:885
@@ -3005,7 +3006,7 @@ msgid "Ponape (Pohnpei)"
 msgstr "ポナペ (ポンペイ)"
 
 #: timezones.h:890
-msgid "Pacific/Port Moresby"
+msgid "Pacific/Port_Moresby"
 msgstr "太平洋/ポートモレスビー"
 
 #: timezones.h:891
