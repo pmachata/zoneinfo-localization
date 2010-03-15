@@ -1,13 +1,12 @@
-# Kjartan Maraas <kmaraas@gnu.org>, 2006.
-#
+# Kjartan Maraas <kmaraas@broadpark.no>, 2006-2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones 3.0.13\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-23 16:28+0200\n"
-"PO-Revision-Date: 2009-10-05 14:28+0200\n"
-"Last-Translator: Espen Stefansen <espenas@gmail.com>\n"
+"PO-Revision-Date: 2010-03-15 20:27+0100\n"
+"Last-Translator: Kjartan Maraas <kmaraas@broadpark.no>\n"
 "Language-Team: Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -848,9 +847,8 @@ msgstr "Amerika/Kentucky/Louisville"
 
 #. comment for time zone America/Kentucky/Louisville
 #: timezones.h:249
-#, fuzzy
 msgid "Eastern Time - Kentucky - Louisville area"
-msgstr "Amerika/Kentucky/Louisville"
+msgstr "Østlig tid - Kentucky - Louisville området"
 
 #: timezones.h:250
 msgid "America/Kentucky/Monticello"
@@ -859,7 +857,7 @@ msgstr "Amerika/Kentucky/Monticello"
 #. comment for time zone America/Kentucky/Monticello
 #: timezones.h:252
 msgid "Eastern Time - Kentucky - Wayne County"
-msgstr ""
+msgstr "Østlig tid - Kentucky - Wayne County"
 
 #: timezones.h:253
 msgid "America/Knox_IN"
@@ -946,7 +944,7 @@ msgstr "Amerika/Merida"
 #. comment for time zone America/Merida
 #: timezones.h:278
 msgid "Central Time - Campeche, Yucatan"
-msgstr ""
+msgstr "Sentral tid - Campeche, Yucatan"
 
 #: timezones.h:279
 msgid "America/Mexico_City"
@@ -955,7 +953,7 @@ msgstr "Amerika/Mexico_by"
 #. comment for time zone America/Mexico_City
 #: timezones.h:281
 msgid "Central Time - most locations"
-msgstr ""
+msgstr "Sentral tid - de fleste lokasjoner"
 
 #: timezones.h:282
 msgid "America/Miquelon"
@@ -968,7 +966,7 @@ msgstr "Amerika/Moncton"
 #. comment for time zone America/Moncton
 #: timezones.h:285
 msgid "Atlantic Time - New Brunswick"
-msgstr ""
+msgstr "Atlantisk tid - New Brunswick"
 
 #: timezones.h:286
 msgid "America/Monterrey"
@@ -1257,7 +1255,7 @@ msgstr "Amerika/Thule"
 #. comment for time zone America/Thule
 #: timezones.h:377
 msgid "Thule / Pituffik"
-msgstr ""
+msgstr "Thule / Pituffik"
 
 #: timezones.h:378
 msgid "America/Thunder_Bay"
@@ -1404,7 +1402,7 @@ msgstr "Antarktis/Sydpolen"
 #. comment for time zone Antarctica/South_Pole
 #: timezones.h:427
 msgid "Amundsen-Scott Station, South Pole"
-msgstr ""
+msgstr "Amundsen-Scott-stasjonen, sydpolen"
 
 #: timezones.h:428
 msgid "Antarctica/Syowa"
@@ -2021,7 +2019,7 @@ msgstr "Australia/Brisbane"
 #. comment for time zone Australia/Brisbane
 #: timezones.h:613
 msgid "Queensland - most locations"
-msgstr ""
+msgstr "Queensland - de fleste lokasjoner"
 
 #: timezones.h:614
 msgid "Australia/Broken_Hill"
@@ -2030,7 +2028,7 @@ msgstr "Australia/Broken_Hill"
 #. comment for time zone Australia/Broken_Hill
 #: timezones.h:616
 msgid "New South Wales - Yancowinna"
-msgstr ""
+msgstr "New South Wales - Yancowinna"
 
 #: timezones.h:617
 msgid "Australia/Canberra"
@@ -2043,7 +2041,7 @@ msgstr "Australia/Currie"
 #. comment for time zone Australia/Currie
 #: timezones.h:620
 msgid "Tasmania - King Island"
-msgstr ""
+msgstr "Tasmania - King Island"
 
 #: timezones.h:621
 msgid "Australia/Darwin"
@@ -2052,7 +2050,7 @@ msgstr "Australia/Darwin"
 #. comment for time zone Australia/Darwin
 #: timezones.h:623
 msgid "Northern Territory"
-msgstr ""
+msgstr "Nordterritoriet"
 
 #: timezones.h:624
 msgid "Australia/Eucla"
@@ -2083,7 +2081,7 @@ msgstr "Australia/Lindeman"
 #. comment for time zone Australia/Lindeman
 #: timezones.h:633
 msgid "Queensland - Holiday Islands"
-msgstr ""
+msgstr "Queensland - Holiday Islands"
 
 #: timezones.h:634
 msgid "Australia/Lord_Howe"
@@ -2092,7 +2090,7 @@ msgstr "Australia/Lord_Howe-øya"
 #. comment for time zone Australia/Lord_Howe
 #: timezones.h:636
 msgid "Lord Howe Island"
-msgstr ""
+msgstr "Lord Howe Island"
 
 #: timezones.h:637
 msgid "Australia/Melbourne"
@@ -2118,7 +2116,7 @@ msgstr "Australia/Perth"
 #. comment for time zone Australia/Perth
 #: timezones.h:644
 msgid "Western Australia - most locations"
-msgstr ""
+msgstr "Vest-Australia - de fleste lokasjoner"
 
 #: timezones.h:645
 msgid "Australia/Queensland"
@@ -2135,7 +2133,7 @@ msgstr "Australia/Sydney"
 #. comment for time zone Australia/Sydney
 #: timezones.h:649
 msgid "New South Wales - most locations"
-msgstr ""
+msgstr "New South Wales - de fleste lokasjoner"
 
 #: timezones.h:650
 msgid "Australia/Tasmania"
@@ -2746,7 +2744,7 @@ msgstr "Iran"
 
 #: timezones.h:813
 msgid "iso3166.tab"
-msgstr ""
+msgstr "iso3166.tab"
 
 #: timezones.h:814
 msgid "Israel"
@@ -2854,7 +2852,7 @@ msgstr "Stillehavet/Enderbury"
 #. comment for time zone Pacific/Enderbury
 #: timezones.h:844
 msgid "Phoenix Islands"
-msgstr ""
+msgstr "Phoenix-øyene"
 
 #: timezones.h:845
 msgid "Pacific/Fakaofo"
@@ -2884,7 +2882,7 @@ msgstr "Stillehavet/Gambierøyene"
 #. comment for time zone Pacific/Gambier
 #: timezones.h:853
 msgid "Gambier Islands"
-msgstr ""
+msgstr "Gambier-øyene"
 
 #: timezones.h:854
 msgid "Pacific/Guadalcanal"
@@ -2918,9 +2916,8 @@ msgstr "Stillehavet/Kiritimati"
 
 #. comment for time zone Pacific/Kiritimati
 #: timezones.h:864
-#, fuzzy
 msgid "Line Islands"
-msgstr "Li"
+msgstr "Line-øyene"
 
 #: timezones.h:865
 msgid "Pacific/Kosrae"
@@ -2946,7 +2943,7 @@ msgstr "Stillehavet/Marquesasøyene"
 #. comment for time zone Pacific/Marquesas
 #: timezones.h:876
 msgid "Marquesas Islands"
-msgstr ""
+msgstr "Marquesas-øyene"
 
 #: timezones.h:877
 msgid "Pacific/Midway"
@@ -3017,7 +3014,7 @@ msgstr "Stillehavet/Tahiti"
 #. comment for time zone Pacific/Tahiti
 #: timezones.h:896
 msgid "Society Islands"
-msgstr ""
+msgstr "Society-øyene"
 
 #: timezones.h:897
 msgid "Pacific/Tarawa"
@@ -3039,7 +3036,7 @@ msgstr "Stillehavet/Truk"
 #. comment for time zone Pacific/Truk
 #: timezones.h:903
 msgid "Truk (Chuuk) and Yap"
-msgstr ""
+msgstr "Truk (Chuuk) og Yap"
 
 #: timezones.h:904
 msgid "Pacific/Wake"
@@ -3068,7 +3065,7 @@ msgstr "Portugal"
 
 #: timezones.h:911
 msgid "posixrules"
-msgstr ""
+msgstr "posixrules"
 
 #: timezones.h:912
 msgid "PRC"
