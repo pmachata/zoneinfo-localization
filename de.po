@@ -6,7 +6,6 @@
 #
 #
 # Automatically generated, 2004.
-# Timo Trinks <ttrinks@redhat.com>, 2007.
 # Jens Maucher <jensm@fedoraproject.org>, 2009.
 # Nils Philippsen <nils@redhat.com>, 2009.
 # Fabian Affolter <fab@fedoraproject.org>, 2008,2009, 2009.
@@ -17,7 +16,7 @@ msgstr ""
 "Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2010-04-21 08:26+1000\n"
+"PO-Revision-Date: 2010-04-21 09:15+1000\n"
 "Last-Translator: sknirT omiT <moc.tahder@sknirtt>\n"
 "Language-Team:  <de@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2312,7 +2311,7 @@ msgstr "Australien/Adelaide"
 #. comment for time zone Australia/Adelaide
 #: timezones.h:625
 msgid "South Australia"
-msgstr "Süd-Australien"
+msgstr "Südaustralien"
 
 #
 #: timezones.h:626
@@ -2332,7 +2331,7 @@ msgstr "Australien/Broken_Hill"
 #. comment for time zone Australia/Broken_Hill
 #: timezones.h:631
 msgid "New South Wales - Yancowinna"
-msgstr "New South Wales - Yancowinna"
+msgstr "Neusüdwales - Yancowinna"
 
 #
 #: timezones.h:632
@@ -2357,7 +2356,7 @@ msgstr "Australien/Darwin"
 #. comment for time zone Australia/Darwin
 #: timezones.h:638
 msgid "Northern Territory"
-msgstr "Northern Territory"
+msgstr "Nordterritorium"
 
 #
 #: timezones.h:639
@@ -2368,7 +2367,7 @@ msgstr "Australien/Eucla"
 #. comment for time zone Australia/Eucla
 #: timezones.h:641
 msgid "Western Australia - Eucla area"
-msgstr "West-Australien - Eucla-Gebiet"
+msgstr "Westaustralien - Eucla-Gebiet"
 
 #
 #: timezones.h:642
@@ -2414,7 +2413,7 @@ msgstr "Australien/Melbourne"
 #. comment for time zone Australia/Melbourne
 #: timezones.h:654
 msgid "Victoria"
-msgstr "Victoria"
+msgstr "Viktoria"
 
 #
 #: timezones.h:655
@@ -2434,7 +2433,7 @@ msgstr "Australien/Perth"
 #. comment for time zone Australia/Perth
 #: timezones.h:659
 msgid "Western Australia - most locations"
-msgstr "West-Australien - fast alle Orte"
+msgstr "Westaustralien - fast alle Orte"
 
 #
 #: timezones.h:660
@@ -2454,17 +2453,17 @@ msgstr "Australien/Sydney"
 #. comment for time zone Australia/Sydney
 #: timezones.h:664
 msgid "New South Wales - most locations"
-msgstr "New South Wales - fast alle Orte"
+msgstr "Neusüdwales - fast alle Orte"
 
 #
 #: timezones.h:665
 msgid "Australia/Tasmania"
-msgstr "Australien/Tasmania"
+msgstr "Australien/Tasmanien"
 
 #
 #: timezones.h:666
 msgid "Australia/Victoria"
-msgstr "Australien/Victoria"
+msgstr "Australien/Viktoria"
 
 #
 #: timezones.h:667
