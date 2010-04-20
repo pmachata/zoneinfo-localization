@@ -7,7 +7,7 @@ MSGMERGE = msgmerge
 
 NLSPACKAGE = timezones
 
-CATALOGS = $(patsubst .po,.mo,$(wildcard *.po))
+CATALOGS = $(patsubst %.po,%.mo,$(wildcard *.po))
 
 all: $(NLSPACKAGE).pot $(CATALOGS)
 
