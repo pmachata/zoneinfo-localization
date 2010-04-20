@@ -148,7 +148,7 @@ N_("America/Chicago");
 N_("Central Time");
 N_("America/Chihuahua");
 /* comment for time zone America/Chihuahua */
-N_("Mountain Time - Chihuahua");
+N_("Mexican Mountain Time - Chihuahua away from US border");
 N_("America/Coral_Harbour");
 N_("America/Cordoba");
 N_("America/Costa_Rica");
@@ -266,6 +266,9 @@ N_("America/Manaus");
 N_("E Amazonas");
 N_("America/Marigot");
 N_("America/Martinique");
+N_("America/Matamoros");
+/* comment for time zone America/Matamoros */
+N_("US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border");
 N_("America/Mazatlan");
 /* comment for time zone America/Mazatlan */
 N_("Mountain Time - S Baja, Nayarit, Sinaloa");
@@ -285,7 +288,7 @@ N_("America/Moncton");
 N_("Atlantic Time - New Brunswick");
 N_("America/Monterrey");
 /* comment for time zone America/Monterrey */
-N_("Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas");
+N_("Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border");
 N_("America/Montevideo");
 N_("America/Montreal");
 /* comment for time zone America/Montreal */
@@ -310,6 +313,9 @@ N_("Central Time - North Dakota - Oliver County");
 N_("America/North_Dakota/New_Salem");
 /* comment for time zone America/North_Dakota/New_Salem */
 N_("Central Time - North Dakota - Morton County (except Mandan area)");
+N_("America/Ojinaga");
+/* comment for time zone America/Ojinaga */
+N_("US Mountain Time - Chihuahua near US border");
 N_("America/Panama");
 N_("America/Pangnirtung");
 /* comment for time zone America/Pangnirtung */
@@ -344,6 +350,9 @@ N_("America/Rio_Branco");
 /* comment for time zone America/Rio_Branco */
 N_("Acre");
 N_("America/Rosario");
+N_("America/Santa_Isabel");
+/* comment for time zone America/Santa_Isabel */
+N_("Mexican Pacific Time - Baja California away from US border");
 N_("America/Santarem");
 /* comment for time zone America/Santarem */
 N_("W Para");
@@ -380,7 +389,7 @@ N_("America/Thunder_Bay");
 N_("Eastern Time - Thunder Bay, Ontario");
 N_("America/Tijuana");
 /* comment for time zone America/Tijuana */
-N_("Pacific Time");
+N_("US Pacific Time - Baja California near US border");
 N_("America/Toronto");
 /* comment for time zone America/Toronto */
 N_("Eastern Time - Ontario - most locations");
@@ -410,6 +419,9 @@ N_("Davis Station, Vestfold Hills");
 N_("Antarctica/DumontDUrville");
 /* comment for time zone Antarctica/DumontDUrville */
 N_("Dumont-d'Urville Station, Terre Adelie");
+N_("Antarctica/Macquarie");
+/* comment for time zone Antarctica/Macquarie */
+N_("Macquarie Island Station, Macquarie Island");
 N_("Antarctica/Mawson");
 /* comment for time zone Antarctica/Mawson */
 N_("Mawson Station, Holme Bay");
@@ -439,7 +451,7 @@ N_("most locations");
 N_("Asia/Amman");
 N_("Asia/Anadyr");
 /* comment for time zone Asia/Anadyr */
-N_("Moscow+10 - Bering Sea");
+N_("Moscow+08 - Bering Sea");
 N_("Asia/Aqtau");
 /* comment for time zone Asia/Aqtau */
 N_("Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)");
@@ -493,7 +505,7 @@ N_("Asia/Jerusalem");
 N_("Asia/Kabul");
 N_("Asia/Kamchatka");
 /* comment for time zone Asia/Kamchatka */
-N_("Moscow+09 - Kamchatka");
+N_("Moscow+08 - Kamchatka");
 N_("Asia/Karachi");
 N_("Asia/Kashgar");
 /* comment for time zone Asia/Kashgar */
@@ -522,6 +534,9 @@ N_("east & south Borneo, Celebes, Bali, Nusa Tengarra, west Timor");
 N_("Asia/Manila");
 N_("Asia/Muscat");
 N_("Asia/Nicosia");
+N_("Asia/Novokuznetsk");
+/* comment for time zone Asia/Novokuznetsk */
+N_("Moscow+03 - Novokuznetsk");
 N_("Asia/Novosibirsk");
 /* comment for time zone Asia/Novosibirsk */
 N_("Moscow+03 - Novosibirsk");
@@ -759,7 +774,7 @@ N_("Europe/Riga");
 N_("Europe/Rome");
 N_("Europe/Samara");
 /* comment for time zone Europe/Samara */
-N_("Moscow+01 - Samara, Udmurtia");
+N_("Moscow - Samara, Udmurtia");
 N_("Europe/San_Marino");
 N_("Europe/Sarajevo");
 N_("Europe/Simferopol");

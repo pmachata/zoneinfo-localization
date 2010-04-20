@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master-timezones.pa\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-23 16:28+0200\n"
+"POT-Creation-Date: 2010-04-20 16:04+0200\n"
 "PO-Revision-Date: 2009-11-13 15:39+0530\n"
 "Last-Translator: Jaswinder Singh <jsingh@redhat.com>\n"
 "Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
@@ -532,7 +532,8 @@ msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਹੂਆਹੂਆ"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-msgid "Mountain Time - Chihuahua"
+#, fuzzy
+msgid "Mexican Mountain Time - Chihuahua away from US border"
 msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ"
 
 #: timezones.h:152
@@ -669,8 +670,8 @@ msgstr "ਅਮਰੀਕਾ/ਗੋਡਥਾਬ"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:192 timezones.h:352 timezones.h:438 timezones.h:573
-#: timezones.h:736 timezones.h:834 timezones.h:873
+#: timezones.h:192 timezones.h:361 timezones.h:450 timezones.h:588
+#: timezones.h:751 timezones.h:849 timezones.h:888
 msgid "most locations"
 msgstr "ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
@@ -706,7 +707,7 @@ msgstr "ਅਮਰੀਕਾ/ਗੁਯਾਕਿਊਲ"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:202 timezones.h:739 timezones.h:745
+#: timezones.h:202 timezones.h:754 timezones.h:760
 msgid "mainland"
 msgstr "ਮੇਨਲੈਂਡ"
 
@@ -882,8 +883,7 @@ msgid "America/Los_Angeles"
 msgstr "ਅਮਰੀਕਾ/ਲਾਸ ਏਜ਼ਲਸ"
 
 #. comment for time zone America/Los_Angeles
-#. comment for time zone America/Tijuana
-#: timezones.h:258 timezones.h:383
+#: timezones.h:258
 msgid "Pacific Time"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ ਸਮਾਂ"
 
@@ -922,2251 +922,2315 @@ msgid "America/Martinique"
 msgstr "ਅਮਰੀਕਾ/ਮਾਰੀਟੀਕਿਊ"
 
 #: timezones.h:269
+#, fuzzy
+msgid "America/Matamoros"
+msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਸ"
+
+#. comment for time zone America/Matamoros
+#: timezones.h:271
+#, fuzzy
+msgid ""
+"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ"
+
+#: timezones.h:272
 msgid "America/Mazatlan"
 msgstr "ਅਮਰੀਕਾ/ਮਾਜ਼ਾਟਲਾਨ"
 
 #. comment for time zone America/Mazatlan
-#: timezones.h:271
+#: timezones.h:274
 msgid "Mountain Time - S Baja, Nayarit, Sinaloa"
 msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਐਸ ਬਾਜਾ, ਨਾਯਾਰਿਟ, ਸਿਨਾਲੋਆ"
 
-#: timezones.h:272
+#: timezones.h:275
 msgid "America/Mendoza"
 msgstr "ਅਮਰੀਕਾ/ਮਾਨਡੋਜ਼ਾ"
 
-#: timezones.h:273
+#: timezones.h:276
 msgid "America/Menominee"
 msgstr "ਅਮਰੀਕਾ/ਮੀਨੋਮੀਨਈ"
 
 #. comment for time zone America/Menominee
-#: timezones.h:275
+#: timezones.h:278
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਮਿਚੀਗਨ - ਡਿਕਿਨਸਨ, ਜੀਗੈਬਿਕ, ਆਇਰਨ ਤੇ ਮੇਨੋਮਿਨੀ ਦੇਸ"
 
-#: timezones.h:276
+#: timezones.h:279
 msgid "America/Merida"
 msgstr "ਅਮਰੀਕਾ/ਮੀਰਾਡਾ"
 
 #. comment for time zone America/Merida
-#: timezones.h:278
+#: timezones.h:281
 msgid "Central Time - Campeche, Yucatan"
 msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਕੈਂਪੇਚੇ, ਯੂਕਾਟਨ"
 
-#: timezones.h:279
+#: timezones.h:282
 msgid "America/Mexico_City"
 msgstr "ਅਮਰੀਕਾ/ਮੈਕਸੀਕਿ ਸ਼ਹਿਰ"
 
 #. comment for time zone America/Mexico_City
-#: timezones.h:281
+#: timezones.h:284
 msgid "Central Time - most locations"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:282
+#: timezones.h:285
 msgid "America/Miquelon"
 msgstr "ਅਮਰੀਕਾ/ਮੀਕਊਇਲੋਨ"
 
-#: timezones.h:283
+#: timezones.h:286
 msgid "America/Moncton"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਸਟੋਨ"
 
 #. comment for time zone America/Moncton
-#: timezones.h:285
+#: timezones.h:288
 msgid "Atlantic Time - New Brunswick"
 msgstr "ਐਟਲਾਂਟਿਕ ਸਮਾਂ - ਨਿਊ ਬਰੂਨਸਵਿਕ"
 
-#: timezones.h:286
+#: timezones.h:289
 msgid "America/Monterrey"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟੀਰੀਓ"
 
 #. comment for time zone America/Monterrey
-#: timezones.h:288
-msgid "Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+#: timezones.h:291
+#, fuzzy
+msgid ""
+"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
+"US border"
 msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ"
 
-#: timezones.h:289
+#: timezones.h:292
 msgid "America/Montevideo"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟੀਵੀਡਿਓ"
 
-#: timezones.h:290
+#: timezones.h:293
 msgid "America/Montreal"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟਰੀਲ"
 
 #. comment for time zone America/Montreal
-#: timezones.h:292
+#: timezones.h:295
 msgid "Eastern Time - Quebec - most locations"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਕਿਊਬਕ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:293
+#: timezones.h:296
 msgid "America/Montserrat"
 msgstr "ਅਮਰੀਕਾ/ਮੋਨਟਸੀਰੇਟ"
 
-#: timezones.h:294
+#: timezones.h:297
 msgid "America/Nassau"
 msgstr "ਅਮਰੀਕਾ/ਨੀਸਾਊ"
 
-#: timezones.h:295
+#: timezones.h:298
 msgid "America/New_York"
 msgstr "ਅਮਰੀਕਾ/ਨਿਊ ਯਾਰਕ"
 
 #. comment for time zone America/New_York
-#: timezones.h:297
+#: timezones.h:300
 msgid "Eastern Time"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ"
 
-#: timezones.h:298
+#: timezones.h:301
 msgid "America/Nipigon"
 msgstr "ਅਮਰੀਕਾ/ਨੀਪੀਗੋਨ"
 
 #. comment for time zone America/Nipigon
-#: timezones.h:300
+#: timezones.h:303
 msgid ""
 "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਉਨਟਾਰੀਓ ਤੇ ਕੂਏਬੇਕ - ਸਥਿਤੀ ਜਿੱਥੇ DST 1967-1973 ਨਹੀਂ ਮਿਲਦੇ"
 
-#: timezones.h:301
+#: timezones.h:304
 msgid "America/Nome"
 msgstr "ਅਮਰੀਕਾ/ਨੋਮੀ"
 
 #. comment for time zone America/Nome
-#: timezones.h:303
+#: timezones.h:306
 msgid "Alaska Time - west Alaska"
 msgstr "ਅਲਾਸਕਾ ਸਮਾਂ - ਪੱਛਮੀ ਅਲਾਸਕਾ"
 
-#: timezones.h:304
+#: timezones.h:307
 msgid "America/Noronha"
 msgstr "ਅਮਰੀਕਾ/ਨੋਰੋਹਾ"
 
 #. comment for time zone America/Noronha
-#: timezones.h:306
+#: timezones.h:309
 msgid "Atlantic islands"
 msgstr "ਐਟਲਾਟਿਕ ਟਾਪੂ"
 
-#: timezones.h:307
+#: timezones.h:310
 msgid "America/North_Dakota/Center"
 msgstr "ਅਮਰੀਕਾ/ਉਤਰੀ ਡਾਕੋਟਾ/ਕੇਦਰੀ"
 
 #. comment for time zone America/North_Dakota/Center
-#: timezones.h:309
+#: timezones.h:312
 msgid "Central Time - North Dakota - Oliver County"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਉੱਤਰੀ ਡੀਕੋਟਾ - ਓਲਿਵਰ ਦੇਸ"
 
-#: timezones.h:310
+#: timezones.h:313
 msgid "America/North_Dakota/New_Salem"
 msgstr "ਅਮਰੀਕਾ/ਉਤਰੀ ਡਾਕੋਟਾ/ਨਵਾਂਸਾਲੀਮ"
 
 #. comment for time zone America/North_Dakota/New_Salem
-#: timezones.h:312
+#: timezones.h:315
 msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਉੱਤਰੀ ਡੀਕੋਟਾ - ਮੌਰਟੋਨ ਦੇਸ (ਮੰਡਾਨ ਖੇਤਰ ਤੋਂ ਬਿਨਾਂ)"
 
-#: timezones.h:313
+#: timezones.h:316
+#, fuzzy
+msgid "America/Ojinaga"
+msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਗੂਨਾ"
+
+#. comment for time zone America/Ojinaga
+#: timezones.h:318
+#, fuzzy
+msgid "US Mountain Time - Chihuahua near US border"
+msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ"
+
+#: timezones.h:319
 msgid "America/Panama"
 msgstr "ਅਮਰੀਕਾ/ਪੈਮਾਨਾ"
 
-#: timezones.h:314
+#: timezones.h:320
 msgid "America/Pangnirtung"
 msgstr "ਅਮਰੀਕਾ/ਪਿਨਗਨੀਰਟੂਗ"
 
 #. comment for time zone America/Pangnirtung
-#: timezones.h:316
+#: timezones.h:322
 msgid "Eastern Time - Pangnirtung, Nunavut"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਪੈਂਗਨਿਰਟੂੰਗ, ਨੂਨਾਵਟ"
 
-#: timezones.h:317
+#: timezones.h:323
 msgid "America/Paramaribo"
 msgstr "ਅਮਰੀਕਾ/ਪਾਰਾਮਾਰੀਬੋ"
 
-#: timezones.h:318
+#: timezones.h:324
 msgid "America/Phoenix"
 msgstr "ਅਮਰੀਕਾ/ਫੋਨਿਸ਼"
 
 #. comment for time zone America/Phoenix
-#: timezones.h:320
+#: timezones.h:326
 msgid "Mountain Standard Time - Arizona"
 msgstr "ਮਾਊਂਟੇਨ ਸਟੈਂਡਰਡ ਟਾਈਮ - ਅਰੀਜ਼ੋਨਾ"
 
-#: timezones.h:321
+#: timezones.h:327
 msgid "America/Port-au-Prince"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ-ਅਸ-ਪ੍ਰਿੰਸ"
 
-#: timezones.h:322
+#: timezones.h:328
 msgid "America/Porto_Acre"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟੋ ਅਸਰੀ"
 
-#: timezones.h:323
+#: timezones.h:329
 msgid "America/Port_of_Spain"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟ ਆਫ ਸਪੇਨ"
 
-#: timezones.h:324
+#: timezones.h:330
 msgid "America/Porto_Velho"
 msgstr "ਅਮਰੀਕਾ/ਪੋਰਟੋ ਵੀਲਹੋ"
 
 #. comment for time zone America/Porto_Velho
-#: timezones.h:326
+#: timezones.h:332
 msgid "Rondonia"
 msgstr "ਰੋਨਡੋਨੀਆ"
 
-#: timezones.h:327
+#: timezones.h:333
 msgid "America/Puerto_Rico"
 msgstr "ਅਮਰੀਕਾ/ਪੋਟਟੋ ਰੀਕੋ"
 
-#: timezones.h:328
+#: timezones.h:334
 msgid "America/Rainy_River"
 msgstr "ਅਮਰੀਕਾ/ਰੇਨੀ ਰੀਵਰ"
 
 #. comment for time zone America/Rainy_River
-#: timezones.h:330
+#: timezones.h:336
 msgid "Central Time - Rainy River & Fort Frances, Ontario"
 msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਰੈਨੀ ਰਿਵਰ ਤੇ ਫੋਰਟ ਫਰਾਂਸ, ਓਨਟਾਰੀਓ"
 
-#: timezones.h:331
+#: timezones.h:337
 msgid "America/Rankin_Inlet"
 msgstr "ਅਮਰੀਕਾ/ਰੈਨਿਕਿਨ ਇਨਲਿਟ"
 
 #. comment for time zone America/Rankin_Inlet
-#: timezones.h:333
+#: timezones.h:339
 msgid "Central Time - central Nunavut"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਕੇਂਦਰੀ ਨੂਨਾਵਟ"
 
-#: timezones.h:334
+#: timezones.h:340
 msgid "America/Recife"
 msgstr "ਅਮਰੀਕਾ/ਰੀਸਾਈਸ"
 
 #. comment for time zone America/Recife
-#: timezones.h:336
+#: timezones.h:342
 msgid "Pernambuco"
 msgstr "ਪੇਰਨਾਮਬੂਕੋ"
 
-#: timezones.h:337
+#: timezones.h:343
 msgid "America/Regina"
 msgstr "ਅਮਰੀਕਾ/ਰੀਗੀਨਾ"
 
 #. comment for time zone America/Regina
-#: timezones.h:339
+#: timezones.h:345
 msgid "Central Standard Time - Saskatchewan - most locations"
 msgstr "ਸੈਂਟਰਲ ਸਟੈਂਡਰਡ ਟਾਈਮ - ਸਾਸਕਟਚੇਵਨ - ਵਧੇਰੇ ਸਥਿਤੀਆ"
 
-#: timezones.h:340
+#: timezones.h:346
 msgid "America/Resolute"
 msgstr "ਅਮਰੀਕਾ/ਰੌੰੋਲੂਟ"
 
 #. comment for time zone America/Resolute
-#: timezones.h:342
+#: timezones.h:348
 msgid "Eastern Standard Time - Resolute, Nunavut"
 msgstr "ਪੂਰਬੀ ਸਟੈਂਡਰਡ ਟਾਈਮ - ਰੈਜ਼ੋਲੂਟ, ਨੂਨਾਵਟ"
 
-#: timezones.h:343
+#: timezones.h:349
 msgid "America/Rio_Branco"
 msgstr "ਅਮਰੀਕਾ/ਰਾਈ ਬਰਾਸਕੋ"
 
 #. comment for time zone America/Rio_Branco
-#: timezones.h:345
+#: timezones.h:351
 msgid "Acre"
 msgstr "ਏਕਰ"
 
-#: timezones.h:346
+#: timezones.h:352
 msgid "America/Rosario"
 msgstr "ਅਮਰੀਕਾ/ਰੋਸਾਰੀਉ"
 
-#: timezones.h:347
+#: timezones.h:353
+#, fuzzy
+msgid "America/Santa_Isabel"
+msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਆਗੋ"
+
+#. comment for time zone America/Santa_Isabel
+#: timezones.h:355
+msgid "Mexican Pacific Time - Baja California away from US border"
+msgstr ""
+
+#: timezones.h:356
 msgid "America/Santarem"
 msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਆਗੋ"
 
 #. comment for time zone America/Santarem
-#: timezones.h:349
+#: timezones.h:358
 msgid "W Para"
 msgstr "W ਪਾਰਾ"
 
-#: timezones.h:350
+#: timezones.h:359
 msgid "America/Santiago"
 msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਆਗੋ"
 
-#: timezones.h:353
+#: timezones.h:362
 msgid "America/Santo_Domingo"
 msgstr "ਅਮਰੀਕਾ/ਸੰਟੋ ਡੋਮੀਨਗੋ"
 
-#: timezones.h:354
+#: timezones.h:363
 msgid "America/Sao_Paulo"
 msgstr "ਅਮਰੀਕਾ/ਸਾਊ ਪਾਲੋ"
 
 #. comment for time zone America/Sao_Paulo
-#: timezones.h:356
+#: timezones.h:365
 msgid "S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
 msgstr "S & SE ਬਰਾਜ਼ੀਲ (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
 
-#: timezones.h:357
+#: timezones.h:366
 msgid "America/Scoresbysund"
 msgstr "ਅਮਰੀਕਾ/ਸਕਰੋਸਬਸ਼ੂਡ"
 
 #. comment for time zone America/Scoresbysund
-#: timezones.h:359
+#: timezones.h:368
 msgid "Scoresbysund / Ittoqqortoormiit"
 msgstr "ਸਕੋਰਸਬਾਈਸਾਊਂਡ / ਇਟੋਕੋਰਟੂਰਮਿਟ"
 
-#: timezones.h:360
+#: timezones.h:369
 msgid "America/Shiprock"
 msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਪਰੋਕ"
 
 #. comment for time zone America/Shiprock
-#: timezones.h:362
+#: timezones.h:371
 msgid "Mountain Time - Navajo"
 msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਨਵਾਜੋ"
 
-#: timezones.h:363
+#: timezones.h:372
 msgid "America/St_Barthelemy"
 msgstr "ਅਮਰੀਕਾ/ਸਟਬਾਰਥੇਲੇਮੀ"
 
-#: timezones.h:364
+#: timezones.h:373
 msgid "America/St_Johns"
 msgstr "ਅਮਰੀਕਾ/ਸੇਟ ਜੋਨਸ"
 
 #. comment for time zone America/St_Johns
-#: timezones.h:366
+#: timezones.h:375
 msgid "Newfoundland Time, including SE Labrador"
 msgstr "ਨਿਊਫਾਊਂਡਲੈਂਡ ਟਾਈਮ, SE ਲੈਬਰੇਡਾਰ ਸਮੇਤ"
 
-#: timezones.h:367
+#: timezones.h:376
 msgid "America/St_Kitts"
 msgstr "ਅਮਰੀਕਾ/ਸੇਟ ਕੀਟਸ"
 
-#: timezones.h:368
+#: timezones.h:377
 msgid "America/St_Lucia"
 msgstr "ਅਮਰੀਕਾ/ਸੇਟ ਲੂਸੀਕਾ"
 
-#: timezones.h:369
+#: timezones.h:378
 msgid "America/St_Thomas"
 msgstr "ਅਮਰੀਕਾ/ਸੇਟ ਥਾਮਸ"
 
-#: timezones.h:370
+#: timezones.h:379
 msgid "America/St_Vincent"
 msgstr "ਅਮਰੀਕਾ/ਸੇਟ ਵੀਨਸੇਟ"
 
-#: timezones.h:371
+#: timezones.h:380
 msgid "America/Swift_Current"
 msgstr "ਅਮਰੀਕਾ/ਸਵਿਫਟ ਕਰੰਟ"
 
 #. comment for time zone America/Swift_Current
-#: timezones.h:373
+#: timezones.h:382
 msgid "Central Standard Time - Saskatchewan - midwest"
 msgstr "ਸੈਂਟਰਲ ਸਟੈਂਡਰਡ ਸਮਾਂ - ਸਾਸਕਟਚੇਵਨ - ਮੱਧ-ਪੱਛਮੀ"
 
-#: timezones.h:374
+#: timezones.h:383
 msgid "America/Tegucigalpa"
 msgstr "ਅਮਰੀਕਾ/ਟੀਗੂਸੀਗਾਲਪਾ"
 
-#: timezones.h:375
+#: timezones.h:384
 msgid "America/Thule"
 msgstr "ਅਮਰੀਕਾ/ਥੂਲੀ"
 
 #. comment for time zone America/Thule
-#: timezones.h:377
+#: timezones.h:386
 msgid "Thule / Pituffik"
 msgstr "ਥੂਲੇ / ਪਿਟੂਫਿਕ"
 
-#: timezones.h:378
+#: timezones.h:387
 msgid "America/Thunder_Bay"
 msgstr "ਅਮਰੀਕਾ/ਥੰਡਰ ਖਾੜੀ"
 
 #. comment for time zone America/Thunder_Bay
-#: timezones.h:380
+#: timezones.h:389
 msgid "Eastern Time - Thunder Bay, Ontario"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਥੰਡਰ ਬੇ, ਓਟਾਰੀਓ"
 
-#: timezones.h:381
+#: timezones.h:390
 msgid "America/Tijuana"
 msgstr "ਅਮਰੀਕਾ/ਤੀਜ਼ੂਨਾ"
 
-#: timezones.h:384
+#. comment for time zone America/Tijuana
+#: timezones.h:392
+msgid "US Pacific Time - Baja California near US border"
+msgstr ""
+
+#: timezones.h:393
 msgid "America/Toronto"
 msgstr "ਅਮਰੀਕਾ/ਟੋਰਾਂਟੋਲਾ"
 
 #. comment for time zone America/Toronto
-#: timezones.h:386
+#: timezones.h:395
 msgid "Eastern Time - Ontario - most locations"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਓਟਾਰੀਓ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:387
+#: timezones.h:396
 msgid "America/Tortola"
 msgstr "ਅਮਰੀਕਾ/ਟੋਰਟੋਲਾ"
 
-#: timezones.h:388
+#: timezones.h:397
 msgid "America/Vancouver"
 msgstr "ਅਮਰੀਕਾ/ਵੇਨਸੋਵਰ"
 
 #. comment for time zone America/Vancouver
-#: timezones.h:390
+#: timezones.h:399
 msgid "Pacific Time - west British Columbia"
 msgstr "ਪੈਸੀਫਿਕ ਟਾਈਮ - ਪੱਛਮੀ ਬਰਿਟਸ਼ ਕੋਲੰਬੀਆ"
 
-#: timezones.h:391
+#: timezones.h:400
 msgid "America/Virgin"
 msgstr "ਅਮਰੀਕਾ/ਵਰਜੀਨੀਆ"
 
-#: timezones.h:392
+#: timezones.h:401
 msgid "America/Whitehorse"
 msgstr "ਅਮਰੀਕਾ/ਵਾਈਟਹਾਰਸ"
 
 #. comment for time zone America/Whitehorse
-#: timezones.h:394
+#: timezones.h:403
 msgid "Pacific Time - south Yukon"
 msgstr "ਪੈਸੀਫਿਕ ਟਾਈਮ - ਦੱਖਣੀ ਯੂਕੋਨ"
 
-#: timezones.h:395
+#: timezones.h:404
 msgid "America/Winnipeg"
 msgstr "ਅਮਰੀਕਾ/ਵੀਨਿਪੇਗ"
 
 #. comment for time zone America/Winnipeg
-#: timezones.h:397
+#: timezones.h:406
 msgid "Central Time - Manitoba & west Ontario"
 msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਮਾਨੀਟੋਬਾ ਤੇ ਪੱਛਮੀ ਓਨਟਾਰੀਆ"
 
-#: timezones.h:398
+#: timezones.h:407
 msgid "America/Yakutat"
 msgstr "ਅਮਰੀਕਾ/ਯਾਕੂਟਾਟ"
 
 #. comment for time zone America/Yakutat
-#: timezones.h:400
+#: timezones.h:409
 msgid "Alaska Time - Alaska panhandle neck"
 msgstr "ਅਲਾਸਕਾ ਟਾਈਮ - ਅਲਾਸਕਾ ਪਾਨਹੈਂਡਲ ਨੈੱਟ"
 
-#: timezones.h:401
+#: timezones.h:410
 msgid "America/Yellowknife"
 msgstr "ਅਮਰੀਕਾ/ਯੈਲੂਨਿਫ"
 
 #. comment for time zone America/Yellowknife
-#: timezones.h:403
+#: timezones.h:412
 msgid "Mountain Time - central Northwest Territories"
 msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਸੈਂਟਰਲ ਉੱਤਰੀ-ਪੱਛਮੀ ਸ਼ਾਸ਼ਕ-ਪ੍ਰਦੇਸ"
 
-#: timezones.h:404
+#: timezones.h:413
 msgid "Antarctica/Casey"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਕੰਸੀ"
 
 #. comment for time zone Antarctica/Casey
-#: timezones.h:406
+#: timezones.h:415
 msgid "Casey Station, Bailey Peninsula"
 msgstr "ਕੇਸੇਈ ਸਟੇਸ਼ਨ, ਬੈਲੇ ਪੈਨਿਨਸੂਲਾ"
 
-#: timezones.h:407
+#: timezones.h:416
 msgid "Antarctica/Davis"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਡਾਵਿਸ"
 
 #. comment for time zone Antarctica/Davis
-#: timezones.h:409
+#: timezones.h:418
 msgid "Davis Station, Vestfold Hills"
 msgstr "ਡੇਵਿਸ ਸਟੇਸ਼ਨ, ਵੈਸਟਫੋਲਡ ਹਿੱਲਸ"
 
-#: timezones.h:410
+#: timezones.h:419
 msgid "Antarctica/DumontDUrville"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਡੋਮੋਨਟਡਯਰਵਿਲੀ"
 
 #. comment for time zone Antarctica/DumontDUrville
-#: timezones.h:412
+#: timezones.h:421
 msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "ਡੂਮੌਂਟ-d' ਊਰਵਿਲੇ ਸਟੇਸ਼ਨ, ਟੇਰੇ ਐਡੇਲੀਏ"
 
-#: timezones.h:413
+#: timezones.h:422
+#, fuzzy
+msgid "Antarctica/Macquarie"
+msgstr "ਅੰਟਰਾਟਿਕਾ/ਮਕਮੂਰਡੋ"
+
+#. comment for time zone Antarctica/Macquarie
+#: timezones.h:424
+#, fuzzy
+msgid "Macquarie Island Station, Macquarie Island"
+msgstr "ਮਕਮੂਰਡੂ ਸਟੇਸ਼ਨ, ਰੋਸ ਆਈਸਲੈਂਡ"
+
+#: timezones.h:425
 msgid "Antarctica/Mawson"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਮਾਵਸੋਨ"
 
 #. comment for time zone Antarctica/Mawson
-#: timezones.h:415
+#: timezones.h:427
 msgid "Mawson Station, Holme Bay"
 msgstr "ਮਾਵਸੋਨ ਸਟੇਸ਼ਨ, ਹੋਲਮੇ ਬੇ"
 
-#: timezones.h:416
+#: timezones.h:428
 msgid "Antarctica/McMurdo"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਮਕਮੂਰਡੋ"
 
 #. comment for time zone Antarctica/McMurdo
-#: timezones.h:418
+#: timezones.h:430
 msgid "McMurdo Station, Ross Island"
 msgstr "ਮਕਮੂਰਡੂ ਸਟੇਸ਼ਨ, ਰੋਸ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:419
+#: timezones.h:431
 msgid "Antarctica/Palmer"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਪਾਲਮਾਰ"
 
 #. comment for time zone Antarctica/Palmer
-#: timezones.h:421
+#: timezones.h:433
 msgid "Palmer Station, Anvers Island"
 msgstr "ਪਾਲਮਰ ਸਟੇਸ਼ਨ, ਅਨਵੇਰਸ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:422
+#: timezones.h:434
 msgid "Antarctica/Rothera"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਰੋਥੇਰਾਰੁਵ"
 
 #. comment for time zone Antarctica/Rothera
-#: timezones.h:424
+#: timezones.h:436
 msgid "Rothera Station, Adelaide Island"
 msgstr "ਰੋਥੇਰਾ ਸਟੇਸ਼ਨ, ਐਡੀਲੇਡ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:425
+#: timezones.h:437
 msgid "Antarctica/South_Pole"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਦੱਖਣੀ ਧਰੁਵ"
 
 #. comment for time zone Antarctica/South_Pole
-#: timezones.h:427
+#: timezones.h:439
 msgid "Amundsen-Scott Station, South Pole"
 msgstr "ਅਮੂੰਡਸੇਨ-ਸਕੌਟ ਸਟੇਸ਼ਨ, ਦੱਖਣੀ ਧੁਰਾ"
 
-#: timezones.h:428
+#: timezones.h:440
 msgid "Antarctica/Syowa"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਸਯੂਵਾ"
 
 #. comment for time zone Antarctica/Syowa
-#: timezones.h:430
+#: timezones.h:442
 msgid "Syowa Station, E Ongul I"
 msgstr "ਸਯੋਵਾ ਸਟੇਸ਼ਨ, E ਉਨਗੂਲ I"
 
-#: timezones.h:431
+#: timezones.h:443
 msgid "Antarctica/Vostok"
 msgstr "ਅੰਟਰਾਟਿਕਾ/ਵੋਸਟੋਕ"
 
 #. comment for time zone Antarctica/Vostok
-#: timezones.h:433
+#: timezones.h:445
 msgid "Vostok Station, S Magnetic Pole"
 msgstr "ਵੋਸਟੋਕ ਸਟੇਸ਼ਨ, S ਮੈਗਨਿਟ ਧੁਰਾ"
 
-#: timezones.h:434
+#: timezones.h:446
 msgid "Arctic/Longyearbyen"
 msgstr "ਅਰਸਟਿਕ/ਲਾਗਯਿਅਰਬਯਾਨ"
 
-#: timezones.h:435
+#: timezones.h:447
 msgid "Asia/Aden"
 msgstr "ਏਸ਼ੀਆ/ਅਦਾਨ"
 
-#: timezones.h:436
+#: timezones.h:448
 msgid "Asia/Almaty"
 msgstr "ਏਸ਼ੀਆ/ਅਲਮਾਟੀ"
 
-#: timezones.h:439
+#: timezones.h:451
 msgid "Asia/Amman"
 msgstr "ਏਸ਼ੀਆ/ਅਮਾਨ"
 
-#: timezones.h:440
+#: timezones.h:452
 msgid "Asia/Anadyr"
 msgstr "ਏਸ਼ੀਆ/ਅਨਾਡੀਰ"
 
 #. comment for time zone Asia/Anadyr
-#: timezones.h:442
-msgid "Moscow+10 - Bering Sea"
+#: timezones.h:454
+#, fuzzy
+msgid "Moscow+08 - Bering Sea"
 msgstr "ਮਾਸਕੋ+10 - ਬੇਰਿੰਗ ਸਮੁੰਦਰ"
 
-#: timezones.h:443
+#: timezones.h:455
 msgid "Asia/Aqtau"
 msgstr "ਏਸ਼ੀਆ/ਅਕਿਊਟ"
 
 #. comment for time zone Asia/Aqtau
-#: timezones.h:445
+#: timezones.h:457
 msgid "Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)"
 msgstr "ਅਟਯਰਾਊ (ਅਟੀਰਾਊ, Gur'yev), ਮੰਘੇਸਟਾਊ (ਮਾਨਕਿਸਟਾਊ)"
 
-#: timezones.h:446
+#: timezones.h:458
 msgid "Asia/Aqtobe"
 msgstr "ਏਸ਼ੀਆ/ਅਕਿਊਬੀ"
 
 #. comment for time zone Asia/Aqtobe
-#: timezones.h:448
+#: timezones.h:460
 msgid "Aqtobe (Aktobe)"
 msgstr "ਅਕਟੋਬੇ (ਅਕਟੋਬੇ)"
 
-#: timezones.h:449
+#: timezones.h:461
 msgid "Asia/Ashgabat"
 msgstr "ਏਸ਼ੀਆ/ਅਸ਼ਗੲਬਾਤ"
 
-#: timezones.h:450
+#: timezones.h:462
 msgid "Asia/Ashkhabad"
 msgstr "ਏਸ਼ੀਆ/ਅਕਸ਼ਖਾਬਾਦ"
 
-#: timezones.h:451
+#: timezones.h:463
 msgid "Asia/Baghdad"
 msgstr "ਏਸ਼ੀਆ/ਬਗਦਾਦ"
 
-#: timezones.h:452
+#: timezones.h:464
 msgid "Asia/Bahrain"
 msgstr "ਏਸ਼ੀਆ/ਬਹਿਰਾਨ"
 
-#: timezones.h:453
+#: timezones.h:465
 msgid "Asia/Baku"
 msgstr "ਏਸ਼ੀਆ/ਬਾਕੂ"
 
-#: timezones.h:454
+#: timezones.h:466
 msgid "Asia/Bangkok"
 msgstr "ਏਸ਼ੀਆ/ਬੈਕਾਂਕ"
 
-#: timezones.h:455
+#: timezones.h:467
 msgid "Asia/Beirut"
 msgstr "ਏਸ਼ੀਆ/ਬੀਰੂਟ"
 
-#: timezones.h:456
+#: timezones.h:468
 msgid "Asia/Bishkek"
 msgstr "ਏਸ਼ੀਆ/ਬਿਸਕਾਕ"
 
-#: timezones.h:457
+#: timezones.h:469
 msgid "Asia/Brunei"
 msgstr "ਏਸ਼ੀਆ/ਬਰੂਨੀ"
 
-#: timezones.h:458
+#: timezones.h:470
 msgid "Asia/Calcutta"
 msgstr "ਏਸ਼ੀਆ/ਕਲਕੱਤਾ"
 
-#: timezones.h:459
+#: timezones.h:471
 msgid "Asia/Choibalsan"
 msgstr "ਏਸ਼ੀਆ/ਚੋਬਾਲਸਾਨ"
 
 #. comment for time zone Asia/Choibalsan
-#: timezones.h:461
+#: timezones.h:473
 msgid "Dornod, Sukhbaatar"
 msgstr "ਡੋਰਨੋਡ, ਸੁਖਬਾਟਰ"
 
-#: timezones.h:462
+#: timezones.h:474
 msgid "Asia/Chongqing"
 msgstr "ਏਸ਼ੀਆ/ਚੋਨਕਿੳਇੰਗ"
 
 #. comment for time zone Asia/Chongqing
-#: timezones.h:464
+#: timezones.h:476
 msgid "central China - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc."
 msgstr "ਸੈਂਟਰਲ ਚੀਨ - ਸਿਚੁਆਨ, ਯੂਨਾਨ, ਗੂਆਂਗਕਸੀ, ਸ਼ਾਂਕਸੀ, ਗੂਇਜ਼ਹੋਊ, ਆਦਿ।"
 
-#: timezones.h:465
+#: timezones.h:477
 msgid "Asia/Chungking"
 msgstr "ਏਸ਼ੀਆ/ਚੰਗਕਿੰਗ"
 
-#: timezones.h:466
+#: timezones.h:478
 msgid "Asia/Colombo"
 msgstr "ਏਸ਼ੀਆ/ਕੋਲੰਬੋ"
 
-#: timezones.h:467
+#: timezones.h:479
 msgid "Asia/Dacca"
 msgstr "ਏਸ਼ੀਆ/ਡਾਸੀਆ"
 
-#: timezones.h:468
+#: timezones.h:480
 msgid "Asia/Damascus"
 msgstr "ਏਸ਼ੀਆ/ਡਾਮਸਾਊਸ"
 
-#: timezones.h:469
+#: timezones.h:481
 msgid "Asia/Dhaka"
 msgstr "ਏਸ਼ੀਆ/ਢਾਕਾ"
 
-#: timezones.h:470
+#: timezones.h:482
 msgid "Asia/Dili"
 msgstr "ਏਸ਼ੀਆ/ਦੀਲੀ"
 
-#: timezones.h:471
+#: timezones.h:483
 msgid "Asia/Dubai"
 msgstr "ਏਸ਼ੀਆ/ਡੁਬਈ"
 
-#: timezones.h:472
+#: timezones.h:484
 msgid "Asia/Dushanbe"
 msgstr "ਏਸ਼ੀਆ/ਡੂਸ਼ਾਨਬੀ"
 
-#: timezones.h:473
+#: timezones.h:485
 msgid "Asia/Gaza"
 msgstr "ਏਸ਼ੀਆ/ਗਾਜ਼ਾ"
 
-#: timezones.h:474
+#: timezones.h:486
 msgid "Asia/Harbin"
 msgstr "ਏਸ਼ੀਆ/ਹਰਬਿਨ"
 
 #. comment for time zone Asia/Harbin
-#: timezones.h:476
+#: timezones.h:488
 msgid "Heilongjiang (except Mohe), Jilin"
 msgstr "ਹੇਇਲੌਂਗਜੀਆਂਗ (ਮੋਹੇ ਤੋਂ ਬਿਨਾਂ), ਜਿਲਿਨ"
 
-#: timezones.h:477
+#: timezones.h:489
 msgid "Asia/Ho_Chi_Minh"
 msgstr "ਏਸ਼ੀਆ/ਚੋਨਕਿੳਇੰਗ"
 
-#: timezones.h:478
+#: timezones.h:490
 msgid "Asia/Hong_Kong"
 msgstr "ਏਸ਼ੀਆ/ਹਾਂਗਕਾਂਗ"
 
-#: timezones.h:479
+#: timezones.h:491
 msgid "Asia/Hovd"
 msgstr "ਏਸ਼ੀਆ/ਹੋਵਡ"
 
 #. comment for time zone Asia/Hovd
-#: timezones.h:481
+#: timezones.h:493
 msgid "Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan"
 msgstr "ਬਾਯਾਨ-ਉਲਗਿਯੇ, ਗੋਵੀ-ਅਲਟਾਈ, ਹੋਵਡ, ਉਵਸ, ਜ਼ਾਵਖਾਨ"
 
-#: timezones.h:482
+#: timezones.h:494
 msgid "Asia/Irkutsk"
 msgstr "ਏਸ਼ੀਆ/ਆਈਰਲੂਸਕ"
 
 #. comment for time zone Asia/Irkutsk
-#: timezones.h:484
+#: timezones.h:496
 msgid "Moscow+05 - Lake Baikal"
 msgstr "ਮਾਸਕੋ+05 - ਲਾਕੇ ਬੈਕਾਲ"
 
-#: timezones.h:485
+#: timezones.h:497
 msgid "Asia/Istanbul"
 msgstr "ਏਸ਼ੀਆ/ਇਸਟਤਾਲਬੁਲ"
 
-#: timezones.h:486
+#: timezones.h:498
 msgid "Asia/Jakarta"
 msgstr "ਏਸ਼ੀਆ/ਜੈਕਾਰਤਾ"
 
 #. comment for time zone Asia/Jakarta
-#: timezones.h:488
+#: timezones.h:500
 msgid "Java & Sumatra"
 msgstr "ਜਾਵਾ ਤੇ ਸੁਮਾਤਰਾ"
 
-#: timezones.h:489
+#: timezones.h:501
 msgid "Asia/Jayapura"
 msgstr "ਏਸ਼ੀਆ/ਜਾਇਪੁਰ"
 
 #. comment for time zone Asia/Jayapura
-#: timezones.h:491
+#: timezones.h:503
 msgid "Irian Jaya & the Moluccas"
 msgstr "ਇਰਿਆਨ ਜਾਯਾ ਚੇ ਮੋਲੂਕਾਸ"
 
-#: timezones.h:492
+#: timezones.h:504
 msgid "Asia/Jerusalem"
 msgstr "ਏਸ਼ੀਆ/ਜ਼ੇਰੂਸ਼ੇਲਮ"
 
-#: timezones.h:493
+#: timezones.h:505
 msgid "Asia/Kabul"
 msgstr "ਏਸ਼ੀਆ/ਕਾਬਲ"
 
-#: timezones.h:494
+#: timezones.h:506
 msgid "Asia/Kamchatka"
 msgstr "ਏਸ਼ੀਆ/ਕਾਮਚਾਟਕਾ"
 
 #. comment for time zone Asia/Kamchatka
-#: timezones.h:496
-msgid "Moscow+09 - Kamchatka"
+#: timezones.h:508
+#, fuzzy
+msgid "Moscow+08 - Kamchatka"
 msgstr "ਮਾਸਕੋ+09 - ਕਾਮਚਾਟਕਾ"
 
-#: timezones.h:497
+#: timezones.h:509
 msgid "Asia/Karachi"
 msgstr "ਏਸ਼ੀਆ/ਕਰਾਚੀ"
 
-#: timezones.h:498
+#: timezones.h:510
 msgid "Asia/Kashgar"
 msgstr "ਏਸ਼ੀਆ/ਕਾਸ਼ਗਰ"
 
 #. comment for time zone Asia/Kashgar
-#: timezones.h:500
+#: timezones.h:512
 msgid "west Tibet & Xinjiang"
 msgstr "ਪੱਛਮੀ ਟਿਬੇਟ ਤੇ ਜ਼ਿਨਜਿਆਂਗ"
 
-#: timezones.h:501
+#: timezones.h:513
 msgid "Asia/Kathmandu"
 msgstr "ਏਸ਼ੀਆ/ਕਾਂਠਮਾਡੂ"
 
-#: timezones.h:502
+#: timezones.h:514
 msgid "Asia/Katmandu"
 msgstr "ਏਸ਼ੀਆ/ਕਾਂਠਮਾਡੂ"
 
-#: timezones.h:503
+#: timezones.h:515
 msgid "Asia/Kolkata"
 msgstr "ਏਸ਼ੀਆ/ਕੋਲਕਾਤਾ"
 
-#: timezones.h:504
+#: timezones.h:516
 msgid "Asia/Krasnoyarsk"
 msgstr "ਏਸ਼ੀਆ/ਕਰਸਨੀਯਾਰਸ਼ਕ"
 
 #. comment for time zone Asia/Krasnoyarsk
-#: timezones.h:506
+#: timezones.h:518
 msgid "Moscow+04 - Yenisei River"
 msgstr "ਮਾਸਕੋ+04 - ਯੇਨੀਸੇਈ ਰਿਵਰ"
 
-#: timezones.h:507
+#: timezones.h:519
 msgid "Asia/Kuala_Lumpur"
 msgstr "ਏਸ਼ੀਆ/ਕੁੰਆਲਾਮਪੁਰ"
 
 #. comment for time zone Asia/Kuala_Lumpur
-#: timezones.h:509
+#: timezones.h:521
 msgid "peninsular Malaysia"
 msgstr "ਪੇਨਿਨਸੂਲਾਰ ਮਲੇਸ਼ੀਆ"
 
-#: timezones.h:510
+#: timezones.h:522
 msgid "Asia/Kuching"
 msgstr "ਏਸ਼ੀਆ/ਕੋਚੀਇੰਗ"
 
 #. comment for time zone Asia/Kuching
-#: timezones.h:512
+#: timezones.h:524
 msgid "Sabah & Sarawak"
 msgstr "ਸਾਬਾਹ ਤੇ ਸਾਰਾਵਾਕ"
 
-#: timezones.h:513
+#: timezones.h:525
 msgid "Asia/Kuwait"
 msgstr "ਏਸ਼ੀਆ/ਕੁਵੈਤ"
 
-#: timezones.h:514
+#: timezones.h:526
 msgid "Asia/Macao"
 msgstr "ਏਸ਼ੀਆ/ਮਾਸੀਕੋ"
 
-#: timezones.h:515
+#: timezones.h:527
 msgid "Asia/Macau"
 msgstr "ਏਸ਼ੀਆ/ਮਾਸਕੁ"
 
-#: timezones.h:516
+#: timezones.h:528
 msgid "Asia/Magadan"
 msgstr "ਏਸ਼ੀਆ/ਮਾਗਾਡਾਨ"
 
 #. comment for time zone Asia/Magadan
-#: timezones.h:518
+#: timezones.h:530
 msgid "Moscow+08 - Magadan"
 msgstr "ਮਾਸਕੋ+08 - ਮਾਗਾਡਨ"
 
-#: timezones.h:519
+#: timezones.h:531
 msgid "Asia/Makassar"
 msgstr "ਏਸ਼ੀਆ/ਮਾਕਾਸਾਰ"
 
 #. comment for time zone Asia/Makassar
-#: timezones.h:521
+#: timezones.h:533
 msgid "east & south Borneo, Celebes, Bali, Nusa Tengarra, west Timor"
 msgstr "ਪੂਰਬ ਤੇ ਦੱਖਣ ਬੋਰਨੇਓ, ਸੇਲੇਬੇਸ, ਬਾਲੀ, ਨੂਸਾ ਟੇਂਗਾਰਾ, ਪੱਛਮ ਟਿਮੋਰ"
 
-#: timezones.h:522
+#: timezones.h:534
 msgid "Asia/Manila"
 msgstr "ਏਸ਼ੀਆ/ਮਾਨੀਲਾ"
 
-#: timezones.h:523
+#: timezones.h:535
 msgid "Asia/Muscat"
 msgstr "ਏਸ਼ੀਆ/ਮਾਸਕਟ"
 
-#: timezones.h:524
+#: timezones.h:536
 msgid "Asia/Nicosia"
 msgstr "ਏਸ਼ੀਆ/ਨੀਸੋਸੀਆ"
 
-#: timezones.h:525
+#: timezones.h:537
+#, fuzzy
+msgid "Asia/Novokuznetsk"
+msgstr "ਏਸ਼ੀਆ/ਆਈਰਲੂਸਕ"
+
+#. comment for time zone Asia/Novokuznetsk
+#: timezones.h:539
+#, fuzzy
+msgid "Moscow+03 - Novokuznetsk"
+msgstr "ਮਾਸਕੋ+03 - ਨੋਵੋਸੀਬੀਰਸਕ"
+
+#: timezones.h:540
 msgid "Asia/Novosibirsk"
 msgstr "ਏਸ਼ੀਆ/ਨੋਵੋਸੀਬੀਰਸਕ"
 
 #. comment for time zone Asia/Novosibirsk
-#: timezones.h:527
+#: timezones.h:542
 msgid "Moscow+03 - Novosibirsk"
 msgstr "ਮਾਸਕੋ+03 - ਨੋਵੋਸੀਬੀਰਸਕ"
 
-#: timezones.h:528
+#: timezones.h:543
 msgid "Asia/Omsk"
 msgstr "ਏਸ਼ੀਆ/ਓਮਸਕ"
 
 #. comment for time zone Asia/Omsk
-#: timezones.h:530
+#: timezones.h:545
 msgid "Moscow+03 - west Siberia"
 msgstr "ਮਾਸਕੋ+03 - ਪੱਛਮੀ ਸਾਈਬੇਰੀਆ"
 
-#: timezones.h:531
+#: timezones.h:546
 msgid "Asia/Oral"
 msgstr "ਏਸ਼ੀਆ/ਓਰਾਲ"
 
 #. comment for time zone Asia/Oral
-#: timezones.h:533
+#: timezones.h:548
 msgid "West Kazakhstan"
 msgstr "ਪੱਛਮੀ ਕਜ਼ਾਖਸਤਾਨ"
 
-#: timezones.h:534
+#: timezones.h:549
 msgid "Asia/Phnom_Penh"
 msgstr "ਏਸ਼ੀਆ/ਫਨੋਮਪੇਨਹ"
 
-#: timezones.h:535
+#: timezones.h:550
 msgid "Asia/Pontianak"
 msgstr "ਏਸ਼ੀਆ/ਪੋਨਰਿਨਕ"
 
 #. comment for time zone Asia/Pontianak
-#: timezones.h:537
+#: timezones.h:552
 msgid "west & central Borneo"
 msgstr "ਪੱਛਮੀ ਅਤੇ ਕੇਂਦਰੀ ਬੋਰਨੋ"
 
-#: timezones.h:538
+#: timezones.h:553
 msgid "Asia/Pyongyang"
 msgstr "ਏਸ਼ੀਆ/ਪਯੂਨਗਯਾਂਗ"
 
-#: timezones.h:539
+#: timezones.h:554
 msgid "Asia/Qatar"
 msgstr "ਏਸ਼ੀਆ/ਕਤਰ"
 
-#: timezones.h:540
+#: timezones.h:555
 msgid "Asia/Qyzylorda"
 msgstr "ਏਸ਼ੀਆ/ਕਿਊਜ਼ਲੋਰਡਾ"
 
 #. comment for time zone Asia/Qyzylorda
-#: timezones.h:542
+#: timezones.h:557
 msgid "Qyzylorda (Kyzylorda, Kzyl-Orda)"
 msgstr "ਕਯਜ਼ਾਈਲੋਰਡਾ (Kyzylorda, Kzyl-Orda)"
 
-#: timezones.h:543
+#: timezones.h:558
 msgid "Asia/Rangoon"
 msgstr "ਏਸ਼ੀਆ/ਰੰਗੂਨ"
 
-#: timezones.h:544
+#: timezones.h:559
 msgid "Asia/Riyadh"
 msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ"
 
-#: timezones.h:545
+#: timezones.h:560
 msgid "Asia/Riyadh87"
 msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੭"
 
-#: timezones.h:546
+#: timezones.h:561
 msgid "Asia/Riyadh88"
 msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੮"
 
-#: timezones.h:547
+#: timezones.h:562
 msgid "Asia/Riyadh89"
 msgstr "ਏਸ਼ੀਆ/ਰੀਯਾਧ੮੯"
 
-#: timezones.h:548
+#: timezones.h:563
 msgid "Asia/Saigon"
 msgstr "ਏਸ਼ੀਆ/ਸਾਈਗੋਨ"
 
-#: timezones.h:549
+#: timezones.h:564
 msgid "Asia/Sakhalin"
 msgstr "ਏਸ਼ੀਆ/ਸਾਖਾਲੀਨ"
 
 #. comment for time zone Asia/Sakhalin
-#: timezones.h:551
+#: timezones.h:566
 msgid "Moscow+07 - Sakhalin Island"
 msgstr "ਮਾਸਕੋ+07 - ਸਾਖਾਲਿਨ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:552
+#: timezones.h:567
 msgid "Asia/Samarkand"
 msgstr "ਏਸ਼ੀਆ/ਸਮਕੰਦ"
 
 #. comment for time zone Asia/Samarkand
-#: timezones.h:554
+#: timezones.h:569
 msgid "west Uzbekistan"
 msgstr "ਪੱਛਮੀ ਉਜ਼ੇਬਕਸਤਾਨ"
 
-#: timezones.h:555
+#: timezones.h:570
 msgid "Asia/Seoul"
 msgstr "ਏਸ਼ੀਆ/ਸਿਊਲ"
 
-#: timezones.h:556
+#: timezones.h:571
 msgid "Asia/Shanghai"
 msgstr "ਏਸ਼ੀਆ/ਸਿੰਘਾਈ"
 
 #. comment for time zone Asia/Shanghai
-#: timezones.h:558
+#: timezones.h:573
 msgid "east China - Beijing, Guangdong, Shanghai, etc."
 msgstr "ਪੂਰਬੀ ਚੀਨ - ਬੀਜ਼ਿੰਗ, ਗਾਂਗਡੋਗ, ਸ਼ਿੰਘਾਈ ਆਦਿ"
 
-#: timezones.h:559
+#: timezones.h:574
 msgid "Asia/Singapore"
 msgstr "ਏਸ਼ੀਆ/ਸਿੰਘਾਪੁਰ"
 
-#: timezones.h:560
+#: timezones.h:575
 msgid "Asia/Taipei"
 msgstr "ਏਸ਼ੀਆ/ਤਾਈਪੀ"
 
-#: timezones.h:561
+#: timezones.h:576
 msgid "Asia/Tashkent"
 msgstr "ਏਸ਼ੀਆ/ਤਾਸ਼ਕੰਦ"
 
 #. comment for time zone Asia/Tashkent
-#: timezones.h:563
+#: timezones.h:578
 msgid "east Uzbekistan"
 msgstr "ਪੂਰਬੀ ਉਜ਼ੇਬਕਸਤਾਨ"
 
-#: timezones.h:564
+#: timezones.h:579
 msgid "Asia/Tbilisi"
 msgstr "ਏਸ਼ੀਆ/ਤਬੀਲੀਸੀ"
 
-#: timezones.h:565
+#: timezones.h:580
 msgid "Asia/Tehran"
 msgstr "ਏਸ਼ੀਆ/ਤਹਿਰਾਨ"
 
-#: timezones.h:566
+#: timezones.h:581
 msgid "Asia/Tel_Aviv"
 msgstr "ਏਸ਼ੀਆ/ਤੀਲਅਵਾਵ"
 
-#: timezones.h:567
+#: timezones.h:582
 msgid "Asia/Thimbu"
 msgstr "ਏਸ਼ੀਆ/ਥੀਮਬੂ"
 
-#: timezones.h:568
+#: timezones.h:583
 msgid "Asia/Thimphu"
 msgstr "ਏਸ਼ੀਆ/ਥੀਮਫੂ"
 
-#: timezones.h:569
+#: timezones.h:584
 msgid "Asia/Tokyo"
 msgstr "ਏਸ਼ੀਆ/ਟੋਕੀਓ"
 
-#: timezones.h:570
+#: timezones.h:585
 msgid "Asia/Ujung_Pandang"
 msgstr "ਏਸ਼ੀਆ/ਊਜ਼ੰਗ ਪਾਨਡਿੰਗ"
 
-#: timezones.h:571
+#: timezones.h:586
 msgid "Asia/Ulaanbaatar"
 msgstr "ਏਸ਼ੀਆ/ਊਲਾਨਬਾਟਰ"
 
-#: timezones.h:574
+#: timezones.h:589
 msgid "Asia/Ulan_Bator"
 msgstr "ਏਸ਼ੀਆ/ਅਲਾਨਬਾਟੋਰ"
 
-#: timezones.h:575
+#: timezones.h:590
 msgid "Asia/Urumqi"
 msgstr "ਏਸ਼ੀਆ/ੳਰੂਮਕੀ"
 
 #. comment for time zone Asia/Urumqi
-#: timezones.h:577
+#: timezones.h:592
 msgid "most of Tibet & Xinjiang"
 msgstr "ਬਹੁਤਾ ਤਿੱਬਤ ਅਤੇ ਜ਼ਿੰਜਾਂਗ"
 
-#: timezones.h:578
+#: timezones.h:593
 msgid "Asia/Vientiane"
 msgstr "ਏਸ਼ੀਆ/ਵੀਅਤਨਾਮ"
 
-#: timezones.h:579
+#: timezones.h:594
 msgid "Asia/Vladivostok"
 msgstr "ਏਸ਼ੀਆ/ਵਲਾਡੀਵੋਸਟੋਕ"
 
 #. comment for time zone Asia/Vladivostok
-#: timezones.h:581
+#: timezones.h:596
 msgid "Moscow+07 - Amur River"
 msgstr "ਮਾਸਕੋ+07 - ਅਮੂਰ ਰਿਵਰ"
 
-#: timezones.h:582
+#: timezones.h:597
 msgid "Asia/Yakutsk"
 msgstr "ਏਸ਼ੀਆ/ਯਾਕੂਸਕ"
 
 #. comment for time zone Asia/Yakutsk
-#: timezones.h:584
+#: timezones.h:599
 msgid "Moscow+06 - Lena River"
 msgstr "ਮਾਸਕੋ+06 - ਲੇਨਾ ਰਿਵਰ"
 
-#: timezones.h:585
+#: timezones.h:600
 msgid "Asia/Yekaterinburg"
 msgstr "ਏਸ਼ੀਆ/ਯਾਕਟਾਇਬਰਗ"
 
 #. comment for time zone Asia/Yekaterinburg
-#: timezones.h:587
+#: timezones.h:602
 msgid "Moscow+02 - Urals"
 msgstr "ਮਾਸਕੋ+02 - ਯੂਰਾਲ"
 
-#: timezones.h:588
+#: timezones.h:603
 msgid "Asia/Yerevan"
 msgstr "ਏਸ਼ੀਆ/ਯਾਰੀਵਾਨ"
 
-#: timezones.h:589
+#: timezones.h:604
 msgid "Atlantic/Azores"
 msgstr "ਐਟਲਾਟਿਕ/ਅਜ਼ੋਰਸ"
 
 #. comment for time zone Atlantic/Azores
-#: timezones.h:591
+#: timezones.h:606
 msgid "Azores"
 msgstr "ਅਜ਼ੋਰੇਸ"
 
-#: timezones.h:592
+#: timezones.h:607
 msgid "Atlantic/Bermuda"
 msgstr "ਐਟਲਾਟਿਕ/ਬਾਰਾਮੂਡਾ"
 
-#: timezones.h:593
+#: timezones.h:608
 msgid "Atlantic/Canary"
 msgstr "ਐਟਲਾਟਿਕ/ਕੰਨਰੀ"
 
 #. comment for time zone Atlantic/Canary
-#: timezones.h:595
+#: timezones.h:610
 msgid "Canary Islands"
 msgstr "ਕੈਨਾਰੇ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:596
+#: timezones.h:611
 msgid "Atlantic/Cape_Verde"
 msgstr "ਐਟਲਾਟਿਕ/ਕੇਪ ਵਰਡੀ"
 
-#: timezones.h:597
+#: timezones.h:612
 msgid "Atlantic/Faeroe"
 msgstr "ਐਟਲਾਟਿਕ/ਫਾਰੋਈ"
 
-#: timezones.h:598
+#: timezones.h:613
 msgid "Atlantic/Faroe"
 msgstr "ਐਟਲਾਂਟਾ/ਫਾਰੋਈ"
 
-#: timezones.h:599
+#: timezones.h:614
 msgid "Atlantic/Jan_Mayen"
 msgstr "ਐਟਲਾਟਿਕ/ਜਾਨ ਮਾਯਾਨ"
 
-#: timezones.h:600
+#: timezones.h:615
 msgid "Atlantic/Madeira"
 msgstr "ਐਟਲਾਟਿਕ/ਮਾਡਰੀਆ"
 
 #. comment for time zone Atlantic/Madeira
-#: timezones.h:602
+#: timezones.h:617
 msgid "Madeira Islands"
 msgstr "ਮਾਡੇਇਰਾ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:603
+#: timezones.h:618
 msgid "Atlantic/Reykjavik"
 msgstr "ਐਟਲਾਟਿਕ/ਰਾਯਕਾਜੋਵਿਕ"
 
-#: timezones.h:604
+#: timezones.h:619
 msgid "Atlantic/South_Georgia"
 msgstr "ਐਟਲਾਟਿਕ/ਦੱਖਣੀ ਜਾਰਜੀਆ"
 
-#: timezones.h:605
+#: timezones.h:620
 msgid "Atlantic/Stanley"
 msgstr "ਐਟਲਾਟਿਕ/ਸਟਨਲਿਆ"
 
-#: timezones.h:606
+#: timezones.h:621
 msgid "Atlantic/St_Helena"
 msgstr "ਐਟਲਾਟਿਕ/ਸੇਟ ਹੀਲੀਨਾ"
 
-#: timezones.h:607
+#: timezones.h:622
 msgid "Australia/ACT"
 msgstr "ਅਸਟਰੇਲੀਆ/ਏਸੀਟੀ"
 
-#: timezones.h:608
+#: timezones.h:623
 msgid "Australia/Adelaide"
 msgstr "ਅਸਟਰੇਲੀਆ/ਐਂਡੀਲੈਂਡ"
 
 #. comment for time zone Australia/Adelaide
-#: timezones.h:610
+#: timezones.h:625
 msgid "South Australia"
 msgstr "ਦੱਖਣੀ ਆਸਟਰੇਲੀਆ"
 
-#: timezones.h:611
+#: timezones.h:626
 msgid "Australia/Brisbane"
 msgstr "ਅਸਟਰੇਲੀਆ/ਬਰਿਸਬੇਨ"
 
 #. comment for time zone Australia/Brisbane
-#: timezones.h:613
+#: timezones.h:628
 msgid "Queensland - most locations"
 msgstr "ਕਿਊਂਜ਼ਲੈਂਡ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:614
+#: timezones.h:629
 msgid "Australia/Broken_Hill"
 msgstr "ਅਸਟਰੇਲੀਆ/ਬਰੋਕਨ ਹਿਲ"
 
 #. comment for time zone Australia/Broken_Hill
-#: timezones.h:616
+#: timezones.h:631
 msgid "New South Wales - Yancowinna"
 msgstr "ਨਿਊਜ਼ ਸਾਊਂਥ ਵੇਲਜ਼ - ਯਾਨਕੋਵਿਨਾ"
 
-#: timezones.h:617
+#: timezones.h:632
 msgid "Australia/Canberra"
 msgstr "ਅਸਟਰੇਲੀਆ/ਕੈਨਬਰਾ"
 
-#: timezones.h:618
+#: timezones.h:633
 msgid "Australia/Currie"
 msgstr "ਅਸਟਰੇਲੀਆ/ਕੁੱਰਿਰਾ"
 
 #. comment for time zone Australia/Currie
-#: timezones.h:620
+#: timezones.h:635
 msgid "Tasmania - King Island"
 msgstr "ਤਸਮਾਨੀਆ - ਕਿੰਗ ਟਾਪੂ"
 
-#: timezones.h:621
+#: timezones.h:636
 msgid "Australia/Darwin"
 msgstr "ਅਸਟਰੇਲੀਆ/ਡਾਰਵਿਨ"
 
 #. comment for time zone Australia/Darwin
-#: timezones.h:623
+#: timezones.h:638
 msgid "Northern Territory"
 msgstr "ਉੱਤਰੀ ਖਿੱਤਾ"
 
-#: timezones.h:624
+#: timezones.h:639
 msgid "Australia/Eucla"
 msgstr "ਆਸਟਰੇਲੀਆ/ਇਊਕਲਾ"
 
 #. comment for time zone Australia/Eucla
-#: timezones.h:626
+#: timezones.h:641
 msgid "Western Australia - Eucla area"
 msgstr "ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ - ਇਊਕਲਾ ਖੇਤਰ"
 
-#: timezones.h:627
+#: timezones.h:642
 msgid "Australia/Hobart"
 msgstr "ਅਸਟਰੇਲੀਆ/ਹੋਬਰਟ"
 
 #. comment for time zone Australia/Hobart
-#: timezones.h:629
+#: timezones.h:644
 msgid "Tasmania - most locations"
 msgstr "ਤਸਮਾਨੀਆ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:630
+#: timezones.h:645
 msgid "Australia/LHI"
 msgstr "ਅਸਟਰੇਲੀਆ/ਐਲਐਚਆਈ"
 
-#: timezones.h:631
+#: timezones.h:646
 msgid "Australia/Lindeman"
 msgstr "ਅਸਟਰੇਲੀਆ/ਲਿੰਡੀਮਾਨ"
 
 #. comment for time zone Australia/Lindeman
-#: timezones.h:633
+#: timezones.h:648
 msgid "Queensland - Holiday Islands"
 msgstr "ਕਿਊਂਜ਼ਲੈਂਡ - ਹਾਲੀਡੇ ਟਾਪੂ"
 
-#: timezones.h:634
+#: timezones.h:649
 msgid "Australia/Lord_Howe"
 msgstr "ਆਸਟਰੇਲੀਆ/ਲੋਰਡ ਹੋਵੀ"
 
 #. comment for time zone Australia/Lord_Howe
-#: timezones.h:636
+#: timezones.h:651
 msgid "Lord Howe Island"
 msgstr "ਲੋਰਡ ਹੋਵੇ ਟੂਪ"
 
-#: timezones.h:637
+#: timezones.h:652
 msgid "Australia/Melbourne"
 msgstr "ਅਸਟਰੇਲੀਆ/ਮੈਲਬੋਰਨ"
 
 #. comment for time zone Australia/Melbourne
-#: timezones.h:639
+#: timezones.h:654
 msgid "Victoria"
 msgstr "ਵਿਕਟੋਰੀਆ"
 
-#: timezones.h:640
+#: timezones.h:655
 msgid "Australia/North"
 msgstr "ਅਸਟਰੇਲੀਆ/ਉੱਤਰੀ"
 
-#: timezones.h:641
+#: timezones.h:656
 msgid "Australia/NSW"
 msgstr "ਅਸਟਰੇਲੀਆ/ਐਨਐਸਡਬਲਿਊ"
 
-#: timezones.h:642
+#: timezones.h:657
 msgid "Australia/Perth"
 msgstr "ਅਸਟਰੇਲੀਆ/ਪਰਥ"
 
 #. comment for time zone Australia/Perth
-#: timezones.h:644
+#: timezones.h:659
 msgid "Western Australia - most locations"
 msgstr "ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ - ਬਹੁਤੇ ਟਿਕਾਣਾ"
 
-#: timezones.h:645
+#: timezones.h:660
 msgid "Australia/Queensland"
 msgstr "ਅਸਟਰੇਲੀਆ/ਕਿਊਂਜ਼ਲੈਡ"
 
-#: timezones.h:646
+#: timezones.h:661
 msgid "Australia/South"
 msgstr "ਅਸਟਰੇਲੀਆ/ਦੱਖਣੀ"
 
-#: timezones.h:647
+#: timezones.h:662
 msgid "Australia/Sydney"
 msgstr "ਅਸਟਰੇਲੀਆ/ਸਿਡਨੀ"
 
 #. comment for time zone Australia/Sydney
-#: timezones.h:649
+#: timezones.h:664
 msgid "New South Wales - most locations"
 msgstr "ਨਿਊਜ਼ ਸਾਊਂਥ ਵੇਲਜ਼ - ਬਹੁਤੇ ਟਿਕਾਣੇ"
 
-#: timezones.h:650
+#: timezones.h:665
 msgid "Australia/Tasmania"
 msgstr "ਅਸਟਰੇਲੀਆ/ਤਸਮਾਨੀਆ"
 
-#: timezones.h:651
+#: timezones.h:666
 msgid "Australia/Victoria"
 msgstr "ਅਸਟਰੇਲੀਆ/ਵਿਕਟੋਰੀਆ"
 
-#: timezones.h:652
+#: timezones.h:667
 msgid "Australia/West"
 msgstr "ਅਸਟਰੇਲੀਆ/ਪੱਛਮੀ"
 
-#: timezones.h:653
+#: timezones.h:668
 msgid "Australia/Yancowinna"
 msgstr "ਅਸਟਰੇਲੀਆ/ਯਾਨਕੂਵੀਨਾ"
 
-#: timezones.h:654
+#: timezones.h:669
 msgid "Brazil/Acre"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਅਸਰੀ"
 
-#: timezones.h:655
+#: timezones.h:670
 msgid "Brazil/DeNoronha"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਡੀਨੋਟੋਹਾ"
 
-#: timezones.h:656
+#: timezones.h:671
 msgid "Brazil/East"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਪੂਰਬੀ"
 
-#: timezones.h:657
+#: timezones.h:672
 msgid "Brazil/West"
 msgstr "ਬਰਾਜ਼ੀਲ਼/ਪੱਛਮੀ"
 
-#: timezones.h:658
+#: timezones.h:673
 msgid "Canada/Atlantic"
 msgstr "ਕੈਨੇਡਾ/ਐਟਲਾਇਕ"
 
-#: timezones.h:659
+#: timezones.h:674
 msgid "Canada/Central"
 msgstr "ਕੈਨੇਡਾ/ਕੇਦਰੀ"
 
-#: timezones.h:660
+#: timezones.h:675
 msgid "Canada/Eastern"
 msgstr "ਕੈਨੇਡਾ/ਪੂਰਬੀ"
 
-#: timezones.h:661
+#: timezones.h:676
 msgid "Canada/East-Saskatchewan"
 msgstr "ਕੈਨੇਡਾ/ਪੂਰਬੀ-ਸਾਕਚੋਵਾਨ"
 
-#: timezones.h:662
+#: timezones.h:677
 msgid "Canada/Mountain"
 msgstr "ਕੈਨੇਡਾ/ਪਹਾੜੀ"
 
-#: timezones.h:663
+#: timezones.h:678
 msgid "Canada/Newfoundland"
 msgstr "ਕੈਨੇਡਾ/ਨਿਊਫਾਊਡਲੈਡ"
 
-#: timezones.h:664
+#: timezones.h:679
 msgid "Canada/Pacific"
 msgstr "ਕੈਨੇਡਾ/ਪ੍ਰਸ਼ਾਂਤ"
 
-#: timezones.h:665
+#: timezones.h:680
 msgid "Canada/Saskatchewan"
 msgstr "ਕੈਨੇਡਾ/ਸਾਕੋਚਵਾਨ"
 
-#: timezones.h:666
+#: timezones.h:681
 msgid "Canada/Yukon"
 msgstr "ਕੈਨੇਡਾ/ਯੂਕੋਨ"
 
-#: timezones.h:667
+#: timezones.h:682
 msgid "CET"
 msgstr "CET"
 
-#: timezones.h:668
+#: timezones.h:683
 msgid "Chile/Continental"
 msgstr "ਚਿੱਲੀ/ਕੋਟੀਡੈਟਿਲ"
 
-#: timezones.h:669
+#: timezones.h:684
 msgid "Chile/EasterIsland"
 msgstr "ਚਿੱਲੀ/ਈਸਟਰ ਟਾਪੂ"
 
-#: timezones.h:670
+#: timezones.h:685
 msgid "CST6CDT"
 msgstr "CST6CDT"
 
-#: timezones.h:671
+#: timezones.h:686
 msgid "Cuba"
 msgstr "ਕਿਊਬਾ"
 
-#: timezones.h:672
+#: timezones.h:687
 msgid "EET"
 msgstr "EET"
 
-#: timezones.h:673
+#: timezones.h:688
 msgid "Egypt"
 msgstr "ਮਿਸਰ"
 
-#: timezones.h:674
+#: timezones.h:689
 msgid "Eire"
 msgstr "ਈਰਿ"
 
-#: timezones.h:675
+#: timezones.h:690
 msgid "EST"
 msgstr "EST"
 
-#: timezones.h:676
+#: timezones.h:691
 msgid "EST5EDT"
 msgstr "EST5EDT"
 
-#: timezones.h:677
+#: timezones.h:692
 msgid "Etc/GMT"
 msgstr "ਈਟੀਸੀ/GMT"
 
-#: timezones.h:678
+#: timezones.h:693
 msgid "Etc/GMT0"
 msgstr "ਈਟੀਸੀ/GMT"
 
-#: timezones.h:679
+#: timezones.h:694
 msgid "Etc/GMT-0"
 msgstr "ਈਟੀਸੀ/GMT-੦"
 
-#: timezones.h:680
+#: timezones.h:695
 msgid "Etc/GMT+0"
 msgstr "ਈਟੀਸੀ/GMT+੦"
 
-#: timezones.h:681
+#: timezones.h:696
 msgid "Etc/GMT-1"
 msgstr "ਈਟੀਸੀ/GMT-੧"
 
-#: timezones.h:682
+#: timezones.h:697
 msgid "Etc/GMT+1"
 msgstr "ਈਟੀਸੀ/GMT+੧"
 
-#: timezones.h:683
+#: timezones.h:698
 msgid "Etc/GMT-10"
 msgstr "ਈਟੀਸੀ/GMT-੧੦"
 
-#: timezones.h:684
+#: timezones.h:699
 msgid "Etc/GMT+10"
 msgstr "ਈਟੀਸੀ/GMT+੧੦"
 
-#: timezones.h:685
+#: timezones.h:700
 msgid "Etc/GMT-11"
 msgstr "ਈਟੀਸੀ/GMT-੧੧"
 
-#: timezones.h:686
+#: timezones.h:701
 msgid "Etc/GMT+11"
 msgstr "ਈਟੀਸੀ/GMT+੧੧"
 
-#: timezones.h:687
+#: timezones.h:702
 msgid "Etc/GMT-12"
 msgstr "ਈਟੀਸੀ/GMT-੧੨"
 
-#: timezones.h:688
+#: timezones.h:703
 msgid "Etc/GMT+12"
 msgstr "ਈਟੀਸੀ/GMT+੧੨"
 
-#: timezones.h:689
+#: timezones.h:704
 msgid "Etc/GMT-13"
 msgstr "ਈਟੀਸੀ/GMT-੧੩"
 
-#: timezones.h:690
+#: timezones.h:705
 msgid "Etc/GMT-14"
 msgstr "ਈਟੀਸੀ/GMT-੧੪"
 
-#: timezones.h:691
+#: timezones.h:706
 msgid "Etc/GMT-2"
 msgstr "ਈਟੀਸੀ/GMT-੨"
 
-#: timezones.h:692
+#: timezones.h:707
 msgid "Etc/GMT+2"
 msgstr "ਈਟੀਸੀ/GMT+੨"
 
-#: timezones.h:693
+#: timezones.h:708
 msgid "Etc/GMT-3"
 msgstr "ਈਟੀਸੀ/GMT-੩"
 
-#: timezones.h:694
+#: timezones.h:709
 msgid "Etc/GMT+3"
 msgstr "ਈਟੀਸੀ/GMT+੩"
 
-#: timezones.h:695
+#: timezones.h:710
 msgid "Etc/GMT-4"
 msgstr "ਈਟੀਸੀ/GMT-੪"
 
-#: timezones.h:696
+#: timezones.h:711
 msgid "Etc/GMT+4"
 msgstr "ਈਟੀਸੀ/GMT+੪"
 
-#: timezones.h:697
+#: timezones.h:712
 msgid "Etc/GMT-5"
 msgstr "ਈਟੀਸੀ/GMT-੫"
 
-#: timezones.h:698
+#: timezones.h:713
 msgid "Etc/GMT+5"
 msgstr "ਈਟੀਸੀ/GMT+੫"
 
-#: timezones.h:699
+#: timezones.h:714
 msgid "Etc/GMT-6"
 msgstr "ਈਟੀਸੀ/GMT-੬"
 
-#: timezones.h:700
+#: timezones.h:715
 msgid "Etc/GMT+6"
 msgstr "ਈਟੀਸੀ/GMT+੬"
 
-#: timezones.h:701
+#: timezones.h:716
 msgid "Etc/GMT-7"
 msgstr "ਈਟੀਸੀ/GMT-੭"
 
-#: timezones.h:702
+#: timezones.h:717
 msgid "Etc/GMT+7"
 msgstr "ਈਟੀਸੀ/GMT+੭"
 
-#: timezones.h:703
+#: timezones.h:718
 msgid "Etc/GMT-8"
 msgstr "ਈਟੀਸੀ/GMT-੮"
 
-#: timezones.h:704
+#: timezones.h:719
 msgid "Etc/GMT+8"
 msgstr "ਈਟੀਸੀ/GMT+੮"
 
-#: timezones.h:705
+#: timezones.h:720
 msgid "Etc/GMT-9"
 msgstr "ਈਟੀਸੀ/GMT-੯"
 
-#: timezones.h:706
+#: timezones.h:721
 msgid "Etc/GMT+9"
 msgstr "ਈਟੀਸੀ/GMT+੯"
 
-#: timezones.h:707
+#: timezones.h:722
 msgid "Etc/Greenwich"
 msgstr "ਈਟੀਸੀ/ਗਰੀਨਵਿੱਚ"
 
-#: timezones.h:708
+#: timezones.h:723
 msgid "Etc/UCT"
 msgstr "ਈਟੀਸੀ/UCT"
 
-#: timezones.h:709
+#: timezones.h:724
 msgid "Etc/Universal"
 msgstr "ਈਟੀਸੀ/ਯੂਨੀਵਰਸਲ"
 
-#: timezones.h:710
+#: timezones.h:725
 msgid "Etc/UTC"
 msgstr "ਈਟੀਸੀ/UTC"
 
-#: timezones.h:711
+#: timezones.h:726
 msgid "Etc/Zulu"
 msgstr "ਈਟੀਸੀ/ਜ਼ੂਲੂ"
 
-#: timezones.h:712
+#: timezones.h:727
 msgid "Europe/Amsterdam"
 msgstr "ਯੂਰਪ/ਅਮਸਟੀਡਮ"
 
-#: timezones.h:713
+#: timezones.h:728
 msgid "Europe/Andorra"
 msgstr "ਯੂਰਪ/ਐਨਡੋਰਾ"
 
-#: timezones.h:714
+#: timezones.h:729
 msgid "Europe/Athens"
 msgstr "ਯੂਰਪ/ਐਥਨਜ਼"
 
-#: timezones.h:715
+#: timezones.h:730
 msgid "Europe/Belfast"
 msgstr "ਯੂਰਪ/ਬੀਲਫਾਸਟ"
 
-#: timezones.h:716
+#: timezones.h:731
 msgid "Europe/Belgrade"
 msgstr "ਯੂਰਪ/ਬੀਲਗਰੇਡ"
 
-#: timezones.h:717
+#: timezones.h:732
 msgid "Europe/Berlin"
 msgstr "ਯੂਰਪ/ਬਰਲਿਨ"
 
-#: timezones.h:718
+#: timezones.h:733
 msgid "Europe/Bratislava"
 msgstr "ਯੂਰਪ/ਬਰਾਟੀਸਲਾਵਾ"
 
-#: timezones.h:719
+#: timezones.h:734
 msgid "Europe/Brussels"
 msgstr "ਯੂਰਪ/ਬਰੂਸੀਲਸ"
 
-#: timezones.h:720
+#: timezones.h:735
 msgid "Europe/Bucharest"
 msgstr "ਯੂਰਪ/ਬੂਚਰਸਟ"
 
-#: timezones.h:721
+#: timezones.h:736
 msgid "Europe/Budapest"
 msgstr "ਯੂਰਪ/ਬੁਡਾਪੈਸਟ"
 
-#: timezones.h:722
+#: timezones.h:737
 msgid "Europe/Chisinau"
 msgstr "ਯੂਰਪ/ਚੀਸੀਨੂ"
 
-#: timezones.h:723
+#: timezones.h:738
 msgid "Europe/Copenhagen"
 msgstr "ਯੂਰਪ/ਕੋਪੀਨਹਾਗਨ"
 
-#: timezones.h:724
+#: timezones.h:739
 msgid "Europe/Dublin"
 msgstr "ਯੂਰਪ/ਡੂਬਲਿਨ"
 
-#: timezones.h:725
+#: timezones.h:740
 msgid "Europe/Gibraltar"
 msgstr "ਯੂਰਪ/ਗਿਬਰਲਟਾਰ"
 
-#: timezones.h:726
+#: timezones.h:741
 msgid "Europe/Guernsey"
 msgstr "ਯੂਰਪ/ਗੁਈਰਨਸ"
 
-#: timezones.h:727
+#: timezones.h:742
 msgid "Europe/Helsinki"
 msgstr "ਯੂਰਪ/ਹੀਲਸੀਨਕੀ"
 
-#: timezones.h:728
+#: timezones.h:743
 msgid "Europe/Isle_of_Man"
 msgstr "ਯੂਰਪ/ਇਸਲੀ_ਆਫ_ਮੈਨ"
 
-#: timezones.h:729
+#: timezones.h:744
 msgid "Europe/Istanbul"
 msgstr "ਯੂਰਪ/ਇਸਟਾਨਬੂਲ"
 
-#: timezones.h:730
+#: timezones.h:745
 msgid "Europe/Jersey"
 msgstr "ਯੂਰਪ/ਜਰਸੀ"
 
-#: timezones.h:731
+#: timezones.h:746
 msgid "Europe/Kaliningrad"
 msgstr "ਯੂਰਪ/ਕਾਲੀਨੀਗਰਾਡ"
 
 #. comment for time zone Europe/Kaliningrad
-#: timezones.h:733
+#: timezones.h:748
 msgid "Moscow-01 - Kaliningrad"
 msgstr "ਮਾਸਕੋ-01 - ਕਾਲਿੰਗਰਾਡ"
 
-#: timezones.h:734
+#: timezones.h:749
 msgid "Europe/Kiev"
 msgstr "ਯੂਰਪ/ਕੀਵ"
 
-#: timezones.h:737
+#: timezones.h:752
 msgid "Europe/Lisbon"
 msgstr "ਯੂਰਪ/ਲਿਸਬੋਨ"
 
-#: timezones.h:740
+#: timezones.h:755
 msgid "Europe/Ljubljana"
 msgstr "ਯੂਰਪ/ਲਜਬਲੀਜਾਨਾ"
 
-#: timezones.h:741
+#: timezones.h:756
 msgid "Europe/London"
 msgstr "ਯੂਰਪ/ਲੰਡਨ"
 
-#: timezones.h:742
+#: timezones.h:757
 msgid "Europe/Luxembourg"
 msgstr "ਯੂਰਪ/ਲਕਸ਼ਬਰਗ"
 
-#: timezones.h:743
+#: timezones.h:758
 msgid "Europe/Madrid"
 msgstr "ਯੂਰਪ/ਮਾਡਰੀਡ"
 
-#: timezones.h:746
+#: timezones.h:761
 msgid "Europe/Malta"
 msgstr "ਯੂਰਪ/ਮਾਲਟਾ"
 
-#: timezones.h:747
+#: timezones.h:762
 msgid "Europe/Mariehamn"
 msgstr "ਯੂਰਪ/ਮੈਰੀਹਾਮੀਡ"
 
-#: timezones.h:748
+#: timezones.h:763
 msgid "Europe/Minsk"
 msgstr "ਯੂਰਪ/ਮੀਸਸ਼"
 
-#: timezones.h:749
+#: timezones.h:764
 msgid "Europe/Monaco"
 msgstr "ਯੂਰਪ/ਮੋਨਾਕੋ"
 
-#: timezones.h:750
+#: timezones.h:765
 msgid "Europe/Moscow"
 msgstr "ਯੂਰਪ/ਮਾਸਕੋ"
 
 #. comment for time zone Europe/Moscow
-#: timezones.h:752
+#: timezones.h:767
 msgid "Moscow+00 - west Russia"
 msgstr "ਮਾਸਕੋ+00 - ਪੱਛਮੀ ਰੂਸ"
 
-#: timezones.h:753
+#: timezones.h:768
 msgid "Europe/Nicosia"
 msgstr "ਯੂਰਪ/ਨੀਕੋਸੀਆ"
 
-#: timezones.h:754
+#: timezones.h:769
 msgid "Europe/Oslo"
 msgstr "ਯੂਰਪ/ਓਸਲੋ"
 
-#: timezones.h:755
+#: timezones.h:770
 msgid "Europe/Paris"
 msgstr "ਯੂਰਪ/ਪੈਰਿਸ"
 
-#: timezones.h:756
+#: timezones.h:771
 msgid "Europe/Podgorica"
 msgstr "ਯੂਰਪ/ਪੋਡਗੋਰੀਸਾ"
 
-#: timezones.h:757
+#: timezones.h:772
 msgid "Europe/Prague"
 msgstr "ਯੂਰਪ/ਪਰਗੂਈ"
 
-#: timezones.h:758
+#: timezones.h:773
 msgid "Europe/Riga"
 msgstr "ਯੂਰਪ/ਰੀਗਾ"
 
-#: timezones.h:759
+#: timezones.h:774
 msgid "Europe/Rome"
 msgstr "ਯੂਰਪ/ਰੋਮ"
 
-#: timezones.h:760
+#: timezones.h:775
 msgid "Europe/Samara"
 msgstr "ਯੂਰਪ/ਸਾਮਾਰਾ"
 
 #. comment for time zone Europe/Samara
-#: timezones.h:762
-msgid "Moscow+01 - Samara, Udmurtia"
+#: timezones.h:777
+#, fuzzy
+msgid "Moscow - Samara, Udmurtia"
 msgstr "ਮਾਸਕੋ+01 - ਸਾਮਾਰਾ, ਉਡਮੂਰਟੀਆ"
 
-#: timezones.h:763
+#: timezones.h:778
 msgid "Europe/San_Marino"
 msgstr "ਯੂਰਪ/ਸਾਨਮਾਰੀਨੋ"
 
-#: timezones.h:764
+#: timezones.h:779
 msgid "Europe/Sarajevo"
 msgstr "ਯੂਰਪ/ਸਾਰਰਜੀਵੋ"
 
-#: timezones.h:765
+#: timezones.h:780
 msgid "Europe/Simferopol"
 msgstr "ਯੂਰਪ/ਸਾਮੀਫਰੋਪੋਲ"
 
 #. comment for time zone Europe/Simferopol
-#: timezones.h:767
+#: timezones.h:782
 msgid "central Crimea"
 msgstr "ਸੈਂਟਰਲ ਕਰੀਮੀਆ"
 
-#: timezones.h:768
+#: timezones.h:783
 msgid "Europe/Skopje"
 msgstr "ਯੂਰਪ/ਸਕੋਪਜੀ"
 
-#: timezones.h:769
+#: timezones.h:784
 msgid "Europe/Sofia"
 msgstr "ਯੂਰਪ/ਸੋਫੀਆ"
 
-#: timezones.h:770
+#: timezones.h:785
 msgid "Europe/Stockholm"
 msgstr "ਯੂਰਪ/ਸਟੋਕਖੋਲਮ"
 
-#: timezones.h:771
+#: timezones.h:786
 msgid "Europe/Tallinn"
 msgstr "ਯੂਰਪ/ਟਾਲੀਨ"
 
-#: timezones.h:772
+#: timezones.h:787
 msgid "Europe/Tirane"
 msgstr "ਯੂਰਪ/ਈਰਆਨੀ"
 
-#: timezones.h:773
+#: timezones.h:788
 msgid "Europe/Tiraspol"
 msgstr "ਯੂਰਪ/ਤੀਰਸਪੋਲ"
 
-#: timezones.h:774
+#: timezones.h:789
 msgid "Europe/Uzhgorod"
 msgstr "ਯੂਰਪ/ੳਜ਼ਹੋਰੋਡ"
 
 #. comment for time zone Europe/Uzhgorod
-#: timezones.h:776
+#: timezones.h:791
 msgid "Ruthenia"
 msgstr "ਰੂਟੇਨੀਆ"
 
-#: timezones.h:777
+#: timezones.h:792
 msgid "Europe/Vaduz"
 msgstr "ਯੂਰਪ/ਵਾਡੂਜ਼"
 
-#: timezones.h:778
+#: timezones.h:793
 msgid "Europe/Vatican"
 msgstr "ਯੂਰਪ/ਵਾਟੀਕਾਨ"
 
-#: timezones.h:779
+#: timezones.h:794
 msgid "Europe/Vienna"
 msgstr "ਯੂਰਪ/ਵੀਆਨਾ"
 
-#: timezones.h:780
+#: timezones.h:795
 msgid "Europe/Vilnius"
 msgstr "ਯੂਰਪ/ਵੀਲਨੀਅਸ"
 
-#: timezones.h:781
+#: timezones.h:796
 msgid "Europe/Volgograd"
 msgstr "ਯੂਰਪ/ਵੋਲਗੋਗਰਾਡ"
 
 #. comment for time zone Europe/Volgograd
-#: timezones.h:783
+#: timezones.h:798
 msgid "Moscow+00 - Caspian Sea"
 msgstr "ਮਾਸਕੋ+00 - ਕੈਸਪੀਅਨ ਸਮੁੰਦਰ"
 
-#: timezones.h:784
+#: timezones.h:799
 msgid "Europe/Warsaw"
 msgstr "ਯੂਰਪ/ਵਾਟਸਾ"
 
-#: timezones.h:785
+#: timezones.h:800
 msgid "Europe/Zagreb"
 msgstr "ਯੂਰਪ/ਜਾਗਰਬ"
 
-#: timezones.h:786
+#: timezones.h:801
 msgid "Europe/Zaporozhye"
 msgstr "ਯੂਰਪ/ਜਾਪੋਰਪੋਜ਼ਈ"
 
 #. comment for time zone Europe/Zaporozhye
-#: timezones.h:788
+#: timezones.h:803
 msgid "Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk"
 msgstr "Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk"
 
-#: timezones.h:789
+#: timezones.h:804
 msgid "Europe/Zurich"
 msgstr "ਯੂਰਪ/ਜ਼ੂਰਿਸ਼"
 
-#: timezones.h:790
+#: timezones.h:805
 msgid "Factory"
 msgstr "ਫੈਕਟਰੀ"
 
-#: timezones.h:791
+#: timezones.h:806
 msgid "GB"
 msgstr "GB"
 
-#: timezones.h:792
+#: timezones.h:807
 msgid "GB-Eire"
 msgstr "GB-Eire"
 
-#: timezones.h:793
+#: timezones.h:808
 msgid "GMT"
 msgstr "GMT"
 
-#: timezones.h:794
+#: timezones.h:809
 msgid "GMT0"
 msgstr "GMT0"
 
-#: timezones.h:795
+#: timezones.h:810
 msgid "GMT-0"
 msgstr "GMT-0"
 
-#: timezones.h:796
+#: timezones.h:811
 msgid "GMT+0"
 msgstr "GMT+0"
 
-#: timezones.h:797
+#: timezones.h:812
 msgid "Greenwich"
 msgstr "ਗਰੀਨਵਿੱਚ"
 
-#: timezones.h:798
+#: timezones.h:813
 msgid "Hongkong"
 msgstr "ਹਾਂਗਕਾਂਗ"
 
-#: timezones.h:799
+#: timezones.h:814
 msgid "HST"
 msgstr "HST"
 
-#: timezones.h:800
+#: timezones.h:815
 msgid "Iceland"
 msgstr "ਆਈਲੈਡ"
 
-#: timezones.h:801
+#: timezones.h:816
 msgid "Indian/Antananarivo"
 msgstr "ਇੰਡੀਆ/ਅਨੀਆਨਾਰੀਵੋ"
 
-#: timezones.h:802
+#: timezones.h:817
 msgid "Indian/Chagos"
 msgstr "ਇੰਡੀਆ/ਸ਼ਿਗੋਸ"
 
-#: timezones.h:803
+#: timezones.h:818
 msgid "Indian/Christmas"
 msgstr "ਇੰਡੀਆ/ਕ੍ਰਿਸ਼ਮਿਸ"
 
-#: timezones.h:804
+#: timezones.h:819
 msgid "Indian/Cocos"
 msgstr "ਇੰਡੀਆ/ਸੀਸੀਸ"
 
-#: timezones.h:805
+#: timezones.h:820
 msgid "Indian/Comoro"
 msgstr "ਇੰਡੀਆ/ਕੰਮੋਰੋ"
 
-#: timezones.h:806
+#: timezones.h:821
 msgid "Indian/Kerguelen"
 msgstr "ਇੰਡੀਆ/ਕਾਰਗੂਈਲੀਨ"
 
-#: timezones.h:807
+#: timezones.h:822
 msgid "Indian/Mahe"
 msgstr "ਇੰਡੀਆ/ਮਾਹੀ"
 
-#: timezones.h:808
+#: timezones.h:823
 msgid "Indian/Maldives"
 msgstr "ਇੰਡੀਆ/ਮਾਲਦੀਪ"
 
-#: timezones.h:809
+#: timezones.h:824
 msgid "Indian/Mauritius"
 msgstr "ਇੰਡੀਆ/ਮਾਊਰਟੀਸ"
 
-#: timezones.h:810
+#: timezones.h:825
 msgid "Indian/Mayotte"
 msgstr "ਇੰਡੀਆ/ਮਾਇਆਟੀ"
 
-#: timezones.h:811
+#: timezones.h:826
 msgid "Indian/Reunion"
 msgstr "ਇੰਡੀਆ/ਰੀਯੂਨਨ"
 
-#: timezones.h:812
+#: timezones.h:827
 msgid "Iran"
 msgstr "ਈਰਾਨ"
 
-#: timezones.h:813
+#: timezones.h:828
 msgid "iso3166.tab"
 msgstr "iso3166.tab"
 
-#: timezones.h:814
+#: timezones.h:829
 msgid "Israel"
 msgstr "ਇਜ਼ਰਾਈਲ"
 
-#: timezones.h:815
+#: timezones.h:830
 msgid "Jamaica"
 msgstr "ਜੈਮਿਕਾ"
 
-#: timezones.h:816
+#: timezones.h:831
 msgid "Japan"
 msgstr "ਜਾਪਾਨ"
 
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:817 timezones.h:870
+#: timezones.h:832 timezones.h:885
 msgid "Kwajalein"
 msgstr "ਕਯਾਜਾਲਿਨ"
 
-#: timezones.h:818
+#: timezones.h:833
 msgid "Libya"
 msgstr "ਲੀਬੀਆ"
 
-#: timezones.h:819
+#: timezones.h:834
 msgid "MET"
 msgstr "MET"
 
-#: timezones.h:820
+#: timezones.h:835
 msgid "Mexico/BajaNorte"
 msgstr "ਮੈਕਸੀਕੋ/ਬਾਜ਼ਾਨੋਰਟੀ"
 
-#: timezones.h:821
+#: timezones.h:836
 msgid "Mexico/BajaSur"
 msgstr "ਮੈਕਸੀਕੋ/ਬਾਜ਼ਾਸੁਰ"
 
-#: timezones.h:822
+#: timezones.h:837
 msgid "Mexico/General"
 msgstr "ਮੈਕਸੀਕੋ/ਆਮ"
 
-#: timezones.h:823
+#: timezones.h:838
 msgid "Mideast/Riyadh87"
 msgstr "ਮੱਧ-ਪੂਰਬੀ/ਰੀਯਾਡ੮੭"
 
-#: timezones.h:824
+#: timezones.h:839
 msgid "Mideast/Riyadh88"
 msgstr "ਮੱਧ-ਪੂਰਬੀ/ਰੀਯਾਡ੮੮"
 
-#: timezones.h:825
+#: timezones.h:840
 msgid "Mideast/Riyadh89"
 msgstr "ਮੱਧ-ਪੂਰਬੀ/ਰੀਯਾਡ੮੯"
 
-#: timezones.h:826
+#: timezones.h:841
 msgid "MST"
 msgstr "MST"
 
-#: timezones.h:827
+#: timezones.h:842
 msgid "MST7MDT"
 msgstr "MST7MDT"
 
-#: timezones.h:828
+#: timezones.h:843
 msgid "Navajo"
 msgstr "ਨਾਵਾਜੋ"
 
-#: timezones.h:829
+#: timezones.h:844
 msgid "NZ"
 msgstr "NZ"
 
-#: timezones.h:830
+#: timezones.h:845
 msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
-#: timezones.h:831
+#: timezones.h:846
 msgid "Pacific/Apia"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਅਪੀਆ"
 
-#: timezones.h:832
+#: timezones.h:847
 msgid "Pacific/Auckland"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਆਕਲੈਡ"
 
-#: timezones.h:835
+#: timezones.h:850
 msgid "Pacific/Chatham"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਚਾਥਾਮ"
 
 #. comment for time zone Pacific/Chatham
-#: timezones.h:837
+#: timezones.h:852
 msgid "Chatham Islands"
 msgstr "ਚਾਥਾਮ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:838
+#: timezones.h:853
 msgid "Pacific/Easter"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਈਸਟਰ"
 
 #. comment for time zone Pacific/Easter
-#: timezones.h:840
+#: timezones.h:855
 msgid "Easter Island & Sala y Gomez"
 msgstr "ਪੂਰਬੀ ਆਈਸਲੈਂਡ ਤੇ ਸਾਲਾ y ਗੋਮੇਜ਼"
 
-#: timezones.h:841
+#: timezones.h:856
 msgid "Pacific/Efate"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਈਫੇਟ"
 
-#: timezones.h:842
+#: timezones.h:857
 msgid "Pacific/Enderbury"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਐਡੀਰਬੁਰੀ"
 
 #. comment for time zone Pacific/Enderbury
-#: timezones.h:844
+#: timezones.h:859
 msgid "Phoenix Islands"
 msgstr "ਫੋਨਿਕਸ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:845
+#: timezones.h:860
 msgid "Pacific/Fakaofo"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫਾਕਾਉਫੁ"
 
-#: timezones.h:846
+#: timezones.h:861
 msgid "Pacific/Fiji"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫਿਜ਼ੀ"
 
-#: timezones.h:847
+#: timezones.h:862
 msgid "Pacific/Funafuti"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਫੂਨਾਫੁਟੀ"
 
-#: timezones.h:848
+#: timezones.h:863
 msgid "Pacific/Galapagos"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗਾਲਾਪਾਗੋਸ"
 
 #. comment for time zone Pacific/Galapagos
-#: timezones.h:850
+#: timezones.h:865
 msgid "Galapagos Islands"
 msgstr "ਗਾਲਾਪਾਗੋਸ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:851
+#: timezones.h:866
 msgid "Pacific/Gambier"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗਾਮਬੀਰ"
 
 #. comment for time zone Pacific/Gambier
-#: timezones.h:853
+#: timezones.h:868
 msgid "Gambier Islands"
 msgstr "ਗੈਂਬੀਅਰ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:854
+#: timezones.h:869
 msgid "Pacific/Guadalcanal"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗੂਡਾਲਕਨਾਲ"
 
-#: timezones.h:855
+#: timezones.h:870
 msgid "Pacific/Guam"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਗੂਆਮ"
 
-#: timezones.h:856
+#: timezones.h:871
 msgid "Pacific/Honolulu"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਹੋਨੋਲੂਲੂ"
 
 #. comment for time zone Pacific/Honolulu
-#: timezones.h:858
+#: timezones.h:873
 msgid "Hawaii"
 msgstr "ਹਾਵਾਈ"
 
-#: timezones.h:859
+#: timezones.h:874
 msgid "Pacific/Johnston"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਜਾਨਸਟੋਨ"
 
 #. comment for time zone Pacific/Johnston
-#: timezones.h:861
+#: timezones.h:876
 msgid "Johnston Atoll"
 msgstr "ਜੋਹਨਸਟੋਨ ਅਟੋਲ"
 
-#: timezones.h:862
+#: timezones.h:877
 msgid "Pacific/Kiritimati"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕੀਰਮੀਸਟੀ"
 
 #. comment for time zone Pacific/Kiritimati
-#: timezones.h:864
+#: timezones.h:879
 msgid "Line Islands"
 msgstr "ਲੇਨ ਟਾਪੂ"
 
-#: timezones.h:865
+#: timezones.h:880
 msgid "Pacific/Kosrae"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕੋਸਰਆ"
 
 #. comment for time zone Pacific/Kosrae
-#: timezones.h:867
+#: timezones.h:882
 msgid "Kosrae"
 msgstr "ਕੋਸਰਏ"
 
-#: timezones.h:868
+#: timezones.h:883
 msgid "Pacific/Kwajalein"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਕਵਾਜਾਲੀਨਿ"
 
-#: timezones.h:871
+#: timezones.h:886
 msgid "Pacific/Majuro"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਾਜੋਰੂ"
 
-#: timezones.h:874
+#: timezones.h:889
 msgid "Pacific/Marquesas"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਾਰੀਸ਼ਸ਼"
 
 #. comment for time zone Pacific/Marquesas
-#: timezones.h:876
+#: timezones.h:891
 msgid "Marquesas Islands"
 msgstr "ਮਾਰਕੂਈਸਾਸ ਆਈਸਲੈਂਡ"
 
-#: timezones.h:877
+#: timezones.h:892
 msgid "Pacific/Midway"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਮਿਡਵੇ"
 
 #. comment for time zone Pacific/Midway
-#: timezones.h:879
+#: timezones.h:894
 msgid "Midway Islands"
 msgstr "ਮਿਡਵੇ ਟਾਪੂ"
 
-#: timezones.h:880
+#: timezones.h:895
 msgid "Pacific/Nauru"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨਊਰੂ"
 
-#: timezones.h:881
+#: timezones.h:896
 msgid "Pacific/Niue"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੀਊਈ"
 
-#: timezones.h:882
+#: timezones.h:897
 msgid "Pacific/Norfolk"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੋਫੋਕ"
 
-#: timezones.h:883
+#: timezones.h:898
 msgid "Pacific/Noumea"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਨੁਊਮਇਆ"
 
-#: timezones.h:884
+#: timezones.h:899
 msgid "Pacific/Pago_Pago"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪਾਗੋ ਪਾਗੋ"
 
-#: timezones.h:885
+#: timezones.h:900
 msgid "Pacific/Palau"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੀਲੀਉ"
 
-#: timezones.h:886
+#: timezones.h:901
 msgid "Pacific/Pitcairn"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪਿਟਸਾਰਨ"
 
-#: timezones.h:887
+#: timezones.h:902
 msgid "Pacific/Ponape"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੋਨਾਪੀ"
 
 #. comment for time zone Pacific/Ponape
-#: timezones.h:889
+#: timezones.h:904
 msgid "Ponape (Pohnpei)"
 msgstr "ਪੋਨਾਪੇ (ਪੋਹਨਪੇਈ)"
 
-#: timezones.h:890
+#: timezones.h:905
 msgid "Pacific/Port_Moresby"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਪੋਰਟ ਮੋਰਸਬਾਏ"
 
-#: timezones.h:891
+#: timezones.h:906
 msgid "Pacific/Rarotonga"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਰਾਰੋਟੋਗਾ"
 
-#: timezones.h:892
+#: timezones.h:907
 msgid "Pacific/Saipan"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਸਾਈਪਾਨ"
 
-#: timezones.h:893
+#: timezones.h:908
 msgid "Pacific/Samoa"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਸਾਮੋਆ"
 
-#: timezones.h:894
+#: timezones.h:909
 msgid "Pacific/Tahiti"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤਾਹੀਟੀ"
 
 #. comment for time zone Pacific/Tahiti
-#: timezones.h:896
+#: timezones.h:911
 msgid "Society Islands"
 msgstr "ਸੋਸਾਇਟੀ ਟਾਪੂ"
 
-#: timezones.h:897
+#: timezones.h:912
 msgid "Pacific/Tarawa"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤਰਵਾ"
 
 #. comment for time zone Pacific/Tarawa
-#: timezones.h:899
+#: timezones.h:914
 msgid "Gilbert Islands"
 msgstr "ਗਿਲਬਰਟ ਟਾਪੂ"
 
-#: timezones.h:900
+#: timezones.h:915
 msgid "Pacific/Tongatapu"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਟੋਨਗਾਟਾਪੂ"
 
-#: timezones.h:901
+#: timezones.h:916
 msgid "Pacific/Truk"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਤੁਰਕ"
 
 #. comment for time zone Pacific/Truk
-#: timezones.h:903
+#: timezones.h:918
 msgid "Truk (Chuuk) and Yap"
 msgstr "ਟਰੁਕ (ਚੁਕ) ਅਤੇ ਯਾਪ"
 
-#: timezones.h:904
+#: timezones.h:919
 msgid "Pacific/Wake"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਵਾਕਾ"
 
 #. comment for time zone Pacific/Wake
-#: timezones.h:906
+#: timezones.h:921
 msgid "Wake Island"
 msgstr "ਵੇਕ ਟਾਪੂ"
 
-#: timezones.h:907
+#: timezones.h:922
 msgid "Pacific/Wallis"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਵਾਲਿਸ਼"
 
-#: timezones.h:908
+#: timezones.h:923
 msgid "Pacific/Yap"
 msgstr "ਪ੍ਰਸ਼ਾਂਤ/ਯਾਪ"
 
-#: timezones.h:909
+#: timezones.h:924
 msgid "Poland"
 msgstr "ਪੋਲੈਂਡ"
 
-#: timezones.h:910
+#: timezones.h:925
 msgid "Portugal"
 msgstr "ਪੁਰਤਗਾਲ"
 
-#: timezones.h:911
+#: timezones.h:926
 msgid "posixrules"
 msgstr "posixrules"
 
-#: timezones.h:912
+#: timezones.h:927
 msgid "PRC"
 msgstr "PRC"
 
-#: timezones.h:913
+#: timezones.h:928
 msgid "PST8PDT"
 msgstr "PST8PDT"
 
-#: timezones.h:914
+#: timezones.h:929
 msgid "ROC"
 msgstr "ROC"
 
-#: timezones.h:915
+#: timezones.h:930
 msgid "ROK"
 msgstr "ROK"
 
-#: timezones.h:916
+#: timezones.h:931
 msgid "Singapore"
 msgstr "ਸਿੰਘਾਪੁਰ"
 
-#: timezones.h:917
+#: timezones.h:932
 msgid "Turkey"
 msgstr "ਤੁਰਕੀ"
 
-#: timezones.h:918
+#: timezones.h:933
 msgid "UCT"
 msgstr "UCT"
 
-#: timezones.h:919
+#: timezones.h:934
 msgid "Universal"
 msgstr "ਸੰਸਾਰ"
 
-#: timezones.h:920
+#: timezones.h:935
 msgid "US/Alaska"
 msgstr "ਅਮਰੀਕਾ/ਅਲਾਸਕਾ"
 
-#: timezones.h:921
+#: timezones.h:936
 msgid "US/Aleutian"
 msgstr "ਅਮਰੀਕਾ/ਅਲੀਊਸਤਾਨ"
 
-#: timezones.h:922
+#: timezones.h:937
 msgid "US/Arizona"
 msgstr "ਅਮਰੀਕਾ/ਐਰੀਜੋਨਾ"
 
-#: timezones.h:923
+#: timezones.h:938
 msgid "US/Central"
 msgstr "ਅਮਰੀਕਾ/ਕੇਂਦਰੀ"
 
-#: timezones.h:924
+#: timezones.h:939
 msgid "US/Eastern"
 msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ"
 
-#: timezones.h:925
+#: timezones.h:940
 msgid "US/East-Indiana"
 msgstr "ਅਮਰੀਕਾ/ਪੂਰਬੀ-ਇੰਡੀਆਨਾ"
 
-#: timezones.h:926
+#: timezones.h:941
 msgid "US/Hawaii"
 msgstr "ਅਮਰੀਕਾ/ਹਾਵਾਈ"
 
-#: timezones.h:927
+#: timezones.h:942
 msgid "US/Indiana-Starke"
 msgstr "ਅਮਰੀਕਾ/ਇੰਡੀਆਨਾ-ਸਟਾਰਕੇ"
 
-#: timezones.h:928
+#: timezones.h:943
 msgid "US/Michigan"
 msgstr "ਅਮਰੀਕਾ/ਮਿਸ਼ੀਗਨ"
 
-#: timezones.h:929
+#: timezones.h:944
 msgid "US/Mountain"
 msgstr "ਅਮਰੀਕਾ/ਪਹਾੜੀ"
 
-#: timezones.h:930
+#: timezones.h:945
 msgid "US/Pacific"
 msgstr "ਅਮਰੀਕਾ/ਪ੍ਰਸ਼ਾਂਤ"
 
-#: timezones.h:931
+#: timezones.h:946
 msgid "US/Samoa"
 msgstr "ਅਮਰੀਕਾ/ਸਾਮੋਨਾ"
 
-#: timezones.h:932
+#: timezones.h:947
 msgid "UTC"
 msgstr "UTC"
 
-#: timezones.h:933
+#: timezones.h:948
 msgid "WET"
 msgstr "WET"
 
-#: timezones.h:934
+#: timezones.h:949
 msgid "W-SU"
 msgstr "W-SU"
 
-#: timezones.h:935
+#: timezones.h:950
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
-
-
