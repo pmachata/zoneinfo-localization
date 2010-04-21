@@ -5,13 +5,13 @@
 # Marcel Telka <marcel@telka.sk>, 2002.
 # Mike Karas <zoliqe@gmail.com>, 2007.
 # Pavol Šimo <palo.simo@gmail.com>, 2008.
-# Ondrej Šulek <feonsu@gmail.com>, 2009.
+# Ondrej Šulek <feonsu@gmail.com>, 2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-09-23 21:41+0200\n"
+"PO-Revision-Date: 2010-04-20 19:36+0200\n"
 "Last-Translator: Ondrej Šulek <feonsu@gmail.com>\n"
 "Language-Team: Slovak <fedora-trans-sk@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -534,9 +534,8 @@ msgstr "Amerika/Chihuahua"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "Horský čas - Chihuahua"
+msgstr "Mexický horský čas - Chihuahua ďaleko od hraníc USA"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -926,16 +925,16 @@ msgid "America/Martinique"
 msgstr "Amerika/Martinik"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "Amerika/Manaus"
+msgstr "Amerika/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "Centrálny čas - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"Centrálny čas USA - Coahuila, Durango, Nuevo Leon, Tamaulipas pri hraniciach "
+"USA"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -997,11 +996,12 @@ msgstr "Amerika/Monterrey"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "Centrálny čas - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"Mexický centrálny čas - Coahuila, Durango, Nuevo Leon, Tamaulipas ďaleko od "
+"hraníc USA"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1082,15 +1082,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "Centrálny čas - Severná Dakota - Morton County (okrem oblasti Mandan)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "Amerika/Managua"
+msgstr "America/Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "Horský čas - Chihuahua"
+msgstr "Horský čas USA - Chihuahua pri hraniciach USA"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1202,14 +1200,13 @@ msgid "America/Rosario"
 msgstr "Amerika/Rosario"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "Amerika/Santarem"
+msgstr "America/Santa_Isabel"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "Mexický pacifický čas - Baja California ďaleko od hraníc USA"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1322,7 +1319,7 @@ msgstr "Amerika/Tijuana"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "USA pacifický čas - Baja California pri hraniciach USA"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1414,15 +1411,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "Stanica Dumont-d'Urville, Terre Adelie"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "Antarktída/McMurdo"
+msgstr "Antarctica/Macquarie"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "Stanica McMurdo, Rossov ostrov"
+msgstr "Stanica ostrova Macquarie, Ostrov Macquarie"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1509,9 +1504,8 @@ msgstr "Ázia/Anadyr"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "Moskva +10 - Beringovo more"
+msgstr "Moskva+08 - Beringovo more"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1696,9 +1690,8 @@ msgstr "Ázia/Kamčatka"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "Moskva+09 - Kamčatka"
+msgstr "Moskva+08 - Kamčatka"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1795,15 +1788,13 @@ msgid "Asia/Nicosia"
 msgstr "Ázia/Nicosia"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "Ázia/Irkutsk"
+msgstr "Ázia/Novokuzneck"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "Moskva+03 - Novosibirsk"
+msgstr "Moskva+03 - Novokuzneck"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2629,9 +2620,8 @@ msgstr "Európa/Samara"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "Moskva+01 - Samara, Udmurtia"
+msgstr "Moskva - Samara, Udmurtsko"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
