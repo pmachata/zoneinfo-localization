@@ -1,22 +1,22 @@
-# translation of system-config-date.master-timezones.te.po to Telugu
+# translation of te.po to Telugu
 # Sree Ganesh <sthottem@redhat.com>, 2006.
-# Krishna Babu K <kkrothap@redhat.com>, 2008, 2009.
+# Krishna Babu K <kkrothap@redhat.com>, 2008, 2009, 2010.
 # translation of te.po to
 # translation of te1.po to
 # translation of te.po to
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones.te\n"
+"Project-Id-Version: te\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-09-25 15:22+0530\n"
+"PO-Revision-Date: 2010-04-26 13:33+0530\n"
 "Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
 "Language-Team: Telugu <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 "\n"
 "\n"
 
@@ -30,7 +30,7 @@ msgstr "ఆఫ్రిక/అక్కర"
 
 #: timezones.h:3
 msgid "Africa/Addis_Ababa"
-msgstr "ఆఫ్రిక/అడ్డిస్_ఆబబ (_A)"
+msgstr "ఆఫ్రిక/అడ్డిస్ ఆబబ (_A)"
 
 #: timezones.h:4
 msgid "Africa/Algiers"
@@ -99,7 +99,7 @@ msgstr "ఆఫ్రిక/డకర్"
 
 #: timezones.h:21
 msgid "Africa/Dar_es_Salaam"
-msgstr "ఆఫ్రిక/డర్_ఏస్_సలాం (_S)"
+msgstr "ఆఫ్రిక/డర్ ఏస్స లాం (_S)"
 
 #: timezones.h:22
 msgid "Africa/Djibouti"
@@ -111,7 +111,7 @@ msgstr "ఆఫ్రిక/డౌల"
 
 #: timezones.h:24
 msgid "Africa/El_Aaiun"
-msgstr "ఆఫ్రిక/ఈల్_అయూన్ (_A)"
+msgstr "ఆఫ్రిక/ఈల్అయూన్ (_A)"
 
 #: timezones.h:25
 msgid "Africa/Freetown"
@@ -229,7 +229,7 @@ msgstr "ఆఫ్రిక/పోర్టో-నోవో"
 
 #: timezones.h:55
 msgid "Africa/Sao_Tome"
-msgstr "ఆఫ్రిక/సవో_టోమే (_T)"
+msgstr "ఆఫ్రిక/సవోటోమే (_T)"
 
 #: timezones.h:56
 msgid "Africa/Timbuktu"
@@ -284,7 +284,7 @@ msgstr "టొకాన్టిన్స్"
 
 #: timezones.h:71
 msgid "America/Argentina/Buenos_Aires"
-msgstr "అమెరిక/అర్జెంటైనా/బియేన్సు_ఎయిరీస్ (_A)"
+msgstr "అమెరిక/అర్జెంటైనా/బియేన్సుఎయిరీస్ (_A)"
 
 #. comment for time zone America/Argentina/Buenos_Aires
 #: timezones.h:73
@@ -324,7 +324,7 @@ msgstr "జుజుయ్ (JY)"
 
 #: timezones.h:84
 msgid "America/Argentina/La_Rioja"
-msgstr "అమెరిక/అర్జెంటైనా/ల_రియోజ (_R)"
+msgstr "అమెరిక/అర్జెంటైనా/లరియోజ (_R)"
 
 #. comment for time zone America/Argentina/La_Rioja
 #: timezones.h:86
@@ -342,7 +342,7 @@ msgstr "మెండోజా (MZ)"
 
 #: timezones.h:90
 msgid "America/Argentina/Rio_Gallegos"
-msgstr "అమెరిక/అర్జెంటైనా/రియో_గల్లేగోస్ (_G)"
+msgstr "అమెరిక/అర్జెంటైనా/రియోగల్లేగోస్ (_G)"
 
 #. comment for time zone America/Argentina/Rio_Gallegos
 #: timezones.h:92
@@ -360,7 +360,7 @@ msgstr "(SA, LP, NQ, RN)"
 
 #: timezones.h:96
 msgid "America/Argentina/San_Juan"
-msgstr "అమెరిక/అర్జెంటైనా/సన్_జుఅన్ (_J)"
+msgstr "అమెరిక/అర్జెంటైనా/సన్జుఅన్ (_J)"
 
 #. comment for time zone America/Argentina/San_Juan
 #: timezones.h:98
@@ -452,7 +452,7 @@ msgstr "అట్లాంటిక్ స్టాన్డర్డ్ టై�
 
 #: timezones.h:125
 msgid "America/Boa_Vista"
-msgstr "అమెరిక/బోఆ_విస్ట (_V)"
+msgstr "అమెరిక/బోఆవిస్ట (_V)"
 
 #. comment for time zone America/Boa_Vista
 #: timezones.h:127
@@ -474,11 +474,11 @@ msgstr "మౌంటైన్ టైమ్ - సౌత్ యిడాహొ & �
 
 #: timezones.h:132
 msgid "America/Buenos_Aires"
-msgstr "అమెరిక/బుఎనోస్_ఐరేస్ (_A)"
+msgstr "అమెరిక/బుఎనోస్ఐరేస్ (_A)"
 
 #: timezones.h:133
 msgid "America/Cambridge_Bay"
-msgstr "అమెరిక/కేంబ్రిడ్జి_బే (_B)"
+msgstr "అమెరిక/కేంబ్రిడ్జిబే (_B)"
 
 #. comment for time zone America/Cambridge_Bay
 #: timezones.h:135
@@ -487,7 +487,7 @@ msgstr "మౌంటైన్ టైమ్ - వెస్ట్ నునావ�
 
 #: timezones.h:136
 msgid "America/Campo_Grande"
-msgstr "అమెరిక/కంపో_గన్డే (_G)"
+msgstr "అమెరిక/కంపోగన్డే (_G)"
 
 #. comment for time zone America/Campo_Grande
 #: timezones.h:138
@@ -534,13 +534,12 @@ msgstr "అమెరిక/చిహుచిహా"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "మౌంటైన్ సమయం - చిహువాహువా"
+msgstr "మెక్సికన్ మౌంటైన్ సమయం - చిహువాహువా US సరిహద్దునుండి దూరంగా"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
-msgstr "అమెరిక/కోరల్_హర్బోర్ (_H)"
+msgstr "అమెరిక/కోరల్హర్బోర్ (_H)"
 
 #: timezones.h:153
 msgid "America/Cordoba"
@@ -548,7 +547,7 @@ msgstr "అమెరిక/కొర్డోబా"
 
 #: timezones.h:154
 msgid "America/Costa_Rica"
-msgstr "అమెరిక/కోస్టా_రిక (_R)"
+msgstr "అమెరిక/కోస్టారిక (_R)"
 
 #: timezones.h:155
 msgid "America/Cuiaba"
@@ -583,12 +582,11 @@ msgstr "పసిఫిక్ టైమ్ - నార్త్ యుకాన�
 
 #: timezones.h:165
 msgid "America/Dawson_Creek"
-msgstr "అమెరిక/డవోస్_క్రీక్ (_C)"
+msgstr "అమెరిక/డవోస్క్రీక్ (_C)"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "మౌంటైన్ స్టాండర్డు టైమ్ - డాసన్ గ్రీక్ & ఫోర్ట్ సెయింట్ జాన్, బ్రిటీష్ కొలంబియా"
 
 #: timezones.h:168
@@ -633,7 +631,7 @@ msgstr "W అమెజొనాస్"
 
 #: timezones.h:181
 msgid "America/El_Salvador"
-msgstr "అమెరిక/ఏల్_సల్వడోర్ (_S)"
+msgstr "అమెరిక/ఏల్సల్వడోర్ (_S)"
 
 #: timezones.h:182
 msgid "America/Ensenada"
@@ -650,11 +648,11 @@ msgstr "NE బ్రెజిల్ (MA, PI, CE, RN, PB)"
 
 #: timezones.h:186
 msgid "America/Fort_Wayne"
-msgstr "అమెరిక/ఫోర్టు_వయేన్ (_W)"
+msgstr "అమెరిక/ఫోర్టువయేన్ (_W)"
 
 #: timezones.h:187
 msgid "America/Glace_Bay"
-msgstr "అమెరిక/గ్లేసే_బే (_B)"
+msgstr "అమెరిక/గ్లేసేబే (_B)"
 
 #. comment for time zone America/Glace_Bay
 #: timezones.h:189
@@ -679,7 +677,7 @@ msgstr "చాలా స్థానములు"
 
 #: timezones.h:193
 msgid "America/Goose_Bay"
-msgstr "అమెరిక/గోస్_బే (_B)"
+msgstr "అమెరిక/గోస్బే (_B)"
 
 #. comment for time zone America/Goose_Bay
 #: timezones.h:195
@@ -688,7 +686,7 @@ msgstr "అట్లాంటిక్ సమయం - లాబ్రాడర�
 
 #: timezones.h:196
 msgid "America/Grand_Turk"
-msgstr "అమెరిక/గ్రాండ్_టర్క్ (_T)"
+msgstr "అమెరిక/గ్రాండ్టర్క్ (_T)"
 
 #: timezones.h:197
 msgid "America/Grenada"
@@ -870,11 +868,11 @@ msgstr "ఈస్ట్రన్ టైమ్ - కెంటకి - వెన�
 
 #: timezones.h:253
 msgid "America/Knox_IN"
-msgstr "అమెరిక/క్నోక్స్_ఇన్ (_I)"
+msgstr "అమెరిక/క్నోక్స్ఇన్ (_I)"
 
 #: timezones.h:254
 msgid "America/La_Paz"
-msgstr "అమెరిక/ల_ఫ్జ (_P)"
+msgstr "అమెరిక/లఫ్జ (_P)"
 
 #: timezones.h:255
 msgid "America/Lima"
@@ -924,16 +922,13 @@ msgid "America/Martinique"
 msgstr "అమెరిక/మర్టీనిక్వే"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "అమెరిక/మననూస్"
+msgstr "అమెరిక/మటామొరాస్"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "సెంట్రల్ సమయం - కౌహుయిలా, డురాంగో, న్యువో లియాన్, టమౌలిపస్"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "US సెంట్రల్ టైమ్ - కౌహుయిలా, డురాంగో, న్యువో లియాన్, US సరిహద్దుకు దగ్గరగా టమౌలిపాస్"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -968,7 +963,7 @@ msgstr "సెంట్రల్ టైమ్ - కాంపెచె, యుక
 
 #: timezones.h:282
 msgid "America/Mexico_City"
-msgstr "అమెరిక/మెక్సికో_సిటీ"
+msgstr "అమెరిక/మెక్సికోసిటీ"
 
 #. comment for time zone America/Mexico_City
 #: timezones.h:284
@@ -994,11 +989,10 @@ msgstr "అమెరిక/మోంటెర్రే"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "సెంట్రల్ సమయం - కౌహుయిలా, డురాంగో, న్యువో లియాన్, టమౌలిపస్"
+msgstr "మెక్సికన్ సెంట్రల్ సమయం - కౌహుయిలా, డురాంగో, న్యువో లియాన్, టమౌలిపస్ US సరిహద్దుకు దూరంగా"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1036,8 +1030,7 @@ msgstr "అమెరిక/నిపిగోన్"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:303
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ఈస్ట్రన్ టైమ్ - ఆన్టారియో & క్యుబెక్ - DST 1967-1973 గమనించని స్థలములు"
 
 #: timezones.h:304
@@ -1060,7 +1053,7 @@ msgstr "అట్లాంటిక్ ద్వీపాలు"
 
 #: timezones.h:310
 msgid "America/North_Dakota/Center"
-msgstr "అమెరిక/నార్తు_డకోట/సెంటర్"
+msgstr "అమెరిక/నార్తుడకోట/సెంటర్"
 
 #. comment for time zone America/North_Dakota/Center
 #: timezones.h:312
@@ -1069,7 +1062,7 @@ msgstr "సెంట్రల్ సమయం - నార్త్ డకోట�
 
 #: timezones.h:313
 msgid "America/North_Dakota/New_Salem"
-msgstr "అమెరిక/నార్తు_డకోట/న్యూసలేమ్"
+msgstr "అమెరిక/నార్తుడకోట/న్యూసలేమ్"
 
 #. comment for time zone America/North_Dakota/New_Salem
 #: timezones.h:315
@@ -1077,15 +1070,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "సెంట్రల్ టైమ్ - నార్త్ డకోటా - మార్టాన్ కౌంటీ (మాండన్ ప్రాంతము తప్పించి)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "అమెరిక/మనగుఆ"
+msgstr "అమెరిక/వొజినగ"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "మౌంటైన్ సమయం - చిహువాహువా"
+msgstr "US మౌంటైన్ సమయం - చిహువాహువా US సరిహద్దుకు దగ్గరగా"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1185,7 +1176,7 @@ msgstr "ఈస్ట్రన్ స్టాండర్డ్ టైమ్ - �
 
 #: timezones.h:349
 msgid "America/Rio_Branco"
-msgstr "అమెరిక/రియో_బ్రాంకో"
+msgstr "అమెరిక/రియోబ్రాంకో"
 
 #. comment for time zone America/Rio_Branco
 #: timezones.h:351
@@ -1197,14 +1188,13 @@ msgid "America/Rosario"
 msgstr "అమెరిక/రోసారియో"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "అమెరికా/సాంటారెమ్"
+msgstr "అమెరికా/సాంటా యిజబెల్"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "మెక్సికన్ పసిఫిక్ సమయం - బడా కాలిఫోర్నియా US సరిహద్దునుండి దూరంగా"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1221,11 +1211,11 @@ msgstr "అమెరికా/సంటైగో"
 
 #: timezones.h:362
 msgid "America/Santo_Domingo"
-msgstr "అమెరిక/సంటో_డొమింగో"
+msgstr "అమెరిక/సంటోడొమింగో"
 
 #: timezones.h:363
 msgid "America/Sao_Paulo"
-msgstr "అమెరిక/సాఓ_పౌలో"
+msgstr "అమెరిక/సాఓపౌలో"
 
 #. comment for time zone America/Sao_Paulo
 #: timezones.h:365
@@ -1317,7 +1307,7 @@ msgstr "అమెరిక/తిజున్న"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "US పసిఫిక్ సమయం - బజ కాలిఫోర్నియా US సరిహద్దుకు దగ్గరగా"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1409,15 +1399,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "డ్యుమాంట్-డ్రువిల్లే స్టేషన్, టెర్రీ ఎడెలి"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "అంటార్కిటిక/ముమ్రుడో"
+msgstr "అంటార్కిటిక/మెక్వారి"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "మెక్‌ముర్డో స్టేషన్, రాస్ ఐలాండ్"
+msgstr "మెక్వారి ఐలాండ్ స్టేషన్, మెక్వారి ఐలాండ్"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1504,9 +1492,8 @@ msgstr "ఆసియా/అండ్ర"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "మాస్కో+10 - బేరింగ్ సముద్రము"
+msgstr "మాస్కో+08 - బేరింగ్ సముద్రము"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1631,7 +1618,7 @@ msgstr "హైలాంగ్‌జియాంగ్ (మొహె తప్ప
 
 #: timezones.h:489
 msgid "Asia/Ho_Chi_Minh"
-msgstr "ఆసియా/హొ_చి_మిన్హ్"
+msgstr "ఆసియా/హొచిమిన్హ్"
 
 #: timezones.h:490
 msgid "Asia/Hong_Kong"
@@ -1691,9 +1678,8 @@ msgstr "ఆసియా/కంచట్క"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "మాస్కో+09 - కమ్చత్కా"
+msgstr "మాస్కో+08 - కమ్చత్కా"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1790,15 +1776,13 @@ msgid "Asia/Nicosia"
 msgstr "ఆసియా/నికొసియ"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "ఆసియా/ఇర్కుత్సక్"
+msgstr "ఆసియా/నోవొకుజ్నాస్క్"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "మాస్కో+03 - నొవొసిబిర్‌స్క్"
+msgstr "మాస్కో+03 - నొవొకుజ్నాస్క్"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -1955,7 +1939,7 @@ msgstr "ఆసియా/టోక్యో"
 
 #: timezones.h:585
 msgid "Asia/Ujung_Pandang"
-msgstr "ఆసియా/ఊజుంగ్_పండంగ్"
+msgstr "ఆసియా/ఊజుంగ్పండంగ్"
 
 #: timezones.h:586
 msgid "Asia/Ulaanbaatar"
@@ -2096,7 +2080,7 @@ msgstr "క్వీన్స్‌లాండ్ - చాలా స్థా�
 
 #: timezones.h:629
 msgid "Australia/Broken_Hill"
-msgstr "ఆస్టేలియా/బ్రోకెన్_హిల్"
+msgstr "ఆస్టేలియా/బ్రోకెన్హిల్"
 
 #. comment for time zone Australia/Broken_Hill
 #: timezones.h:631
@@ -2522,7 +2506,7 @@ msgstr "యూరప్/హెల్సిన్కి"
 
 #: timezones.h:743
 msgid "Europe/Isle_of_Man"
-msgstr "యూరప్/ఇస్లేసాఫ్_మన్"
+msgstr "యూరప్/ఇస్లేసాఫ్మన్"
 
 #: timezones.h:744
 msgid "Europe/Istanbul"
@@ -2624,13 +2608,12 @@ msgstr "యూరప్/సమర"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "మాస్కో+01 - సమరా,ఉడ్ముర్టియా"
+msgstr "మాస్కో - సమరా,ఉడ్ముర్టియా"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
-msgstr "యూరప్/సన్_మెరినో"
+msgstr "యూరప్/సన్మెరినో"
 
 #: timezones.h:779
 msgid "Europe/Sarajevo"
@@ -3067,7 +3050,7 @@ msgstr "పొనాపె (పాన్‌పై)"
 
 #: timezones.h:905
 msgid "Pacific/Port_Moresby"
-msgstr "పస్ఫిక్/పోర్టు_మోరెస్బే"
+msgstr "పస్ఫిక్/పోర్టుమోరెస్బే"
 
 #: timezones.h:906
 msgid "Pacific/Rarotonga"
@@ -3236,3 +3219,4 @@ msgstr "W-SU"
 #: timezones.h:950
 msgid "Zulu"
 msgstr "జూలు"
+
