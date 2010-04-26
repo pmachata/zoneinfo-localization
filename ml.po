@@ -3,10 +3,10 @@
 # Ani Peter <apeter@redhat.com>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones.ml\n"
+"Project-Id-Version: ml\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-10-06 16:44+0530\n"
+"PO-Revision-Date: 2010-04-26 19:11+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -532,9 +532,8 @@ msgstr "അമേരിക്ക/ചിവാവാ"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "മൌണ്ടന്‍ സമയം - ചിഹ്വാഹ്വാ"
+msgstr "മെക്സിക്കന്‍ മൌണ്ടന്‍ സമയം - ചിഹ്വാഹ്വാ, യുഎസ് അതിര്‍ത്തിയില്‍ നിന്നും ദൂരെ"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -585,8 +584,7 @@ msgstr "അമേരിക്ക/ഡോസന്‍_ക്രീക്ക്"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്ക് & ഫോര്‍ട്ട് സെയിന്റ് ജോണ്‍, ബ്രിട്ടിഷ് കൊളംബിയാ"
 
 #: timezones.h:168
@@ -922,16 +920,13 @@ msgid "America/Martinique"
 msgstr "അമേരിക്ക/മാര്‍ട്ടിനെക്ക്"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "അമേരിക്ക/മെനൌസ്"
+msgstr "അമേരിക്ക/മറ്റമോറോസ്"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "സെന്‍ട്രല്‍ സമയം - കോവാഹ്യൂലാ, ഡുറാങ്കോ, ന്യൂവോ ലിയോണ്‍, ടമൌലിപാസ്"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "യുഎസ് സെന്‍ട്രല്‍ സമയം - കോവാഹ്യൂലാ, ഡുറാങ്കോ, ന്യൂവോ ലിയോണ്‍, ടമൌലിപാസ്, യുഎസ് അതിര്‍ത്തിയ്ക്കടുത്തു്"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -992,11 +987,12 @@ msgstr "അമേരിക്ക/മോണ്‍ട്ടെറീ"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "സെന്‍ട്രല്‍ സമയം - കോവാഹ്യൂലാ, ഡുറാങ്കോ, ന്യൂവോ ലിയോണ്‍, ടമൌലിപാസ്"
+msgstr ""
+"മെക്സിക്കന്‍ സെന്‍ട്രല്‍ സമയം - കോവാഹ്യൂലാ, ഡുറാങ്കോ, ന്യൂവോ ലിയോണ്‍, ടമൌലിപാസ്, "
+"യുഎസ് അതിര്‍ത്തിയില്‍ നിന്നും ദൂരെ"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1034,8 +1030,7 @@ msgstr "അമേരിക്ക/നിപ്പിഗോണ്‍"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:303
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "കിഴക്കന്‍ സമയം - ഒണ്‍ടാരിയോ & ക്യൂബെക് - DST 1967-1973 പാലിച്ചിട്ടില്ലാത്ത സ്ഥലങ്ങള്‍"
 
 #: timezones.h:304
@@ -1075,15 +1070,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "സെന്‍ട്രല്‍ സമയം - വടക്ക് ഡക്കോട്ടാ - മോര്‍ട്ടണ്‍ കൌണ്ടി (മാന്‍ഡന്‍ ഒഴിച്ചു്)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "അമേരിക്ക/മനാഗ്വാ"
+msgstr "അമേരിക്ക/ഒജിനാഗാ"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "മൌണ്ടന്‍ സമയം - ചിഹ്വാഹ്വാ"
+msgstr "യുഎസ് മൌണ്ടന്‍ സമയം - ചിഹ്വാഹ്വാ, യുഎസ് അതിര്‍ത്തിയ്ക്കടുത്തു്"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1195,14 +1188,13 @@ msgid "America/Rosario"
 msgstr "അമേരിക്ക/റൊസാറിയോ"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "അമേരിക്ക/സാന്‍ടറെം"
+msgstr "അമേരിക്ക/സാന്റാ_ഇസബെല്‍"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "മെക്സിക്കന്‍ പെസിഫിക് സമയം - ബാജാ കാലിഫോര്‍ണിയാ യുഎസ് അതിര്‍ത്തിയില്‍ നിന്നും ദൂരെ"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1315,7 +1307,7 @@ msgstr "അമേരിക്ക/തിജ്വാനാ"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "യുഎസ് പസിഫിക് സമയം - ബാജാ കാലിഫോര്‍ണിയാ, യുഎസ് അതിര്‍ത്തിയിക്കടുത്തു്"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1407,15 +1399,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "ഡ്യൂമോണ്ട്-ഡീ ഉര്‍വില്‍, ടെറേ അഡീലീ"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "അന്റാര്‍ട്ടിക്ക/മാക്ക്മാര്‍ഡോ"
+msgstr "അന്റാര്‍ട്ടിക്ക/മാക്വാരീ"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "മാക്‌മര്‍ഡോ സ്റ്റേഷന്‍, റോസ് ഐലന്‍ഡ്"
+msgstr "മാക്വാരീ ഐലന്റ് സ്റ്റേഷന്‍, മാക്വാരീ ഐലന്‍ഡ്"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1502,9 +1492,8 @@ msgstr "ഏഷ്യ/ആനെഡിര്‍"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "മോസ്കൌ+10 - ബെറിങ് സീ"
+msgstr "മോസ്കൌ+8 - ബെറിങ് സീ"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1689,9 +1678,8 @@ msgstr "ഏഷ്യ/കംച്ചട്ട്ക്ക"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "മോസ്കൌ+09 - കാമ്ചട്ട്കാ"
+msgstr "മോസ്കൌ+08 - കാമ്ചട്ട്കാ"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1788,15 +1776,13 @@ msgid "Asia/Nicosia"
 msgstr "ഏഷ്യ/നിക്കോഷ്യാ"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "ഏഷ്യ/ഐര്‍ക്കട്ട്സ്ക്ക്"
+msgstr "ഏഷ്യ/നോവോകസ്നെട്സ്ക്"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "മോസ്ക്കോ+03  - നൊവോസിബിര്‍സ്ക്"
+msgstr "മോസ്ക്കോ+03 - നൊവോകസ്നെട്സ്ക്"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2622,9 +2608,8 @@ msgstr "യൂറോപ്പ്/സമേറ"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "മോസ്കൌ+01 - സാമാറാ, ഉഡ്മര്‍ത്യാ"
+msgstr "മോസ്കൌ - സാമാറാ, ഉഡ്മര്‍ത്യാ"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -3234,3 +3219,4 @@ msgstr "W-SU"
 #: timezones.h:950
 msgid "Zulu"
 msgstr "സുളു"
+
