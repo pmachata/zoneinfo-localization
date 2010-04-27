@@ -1,24 +1,24 @@
-# translation of system-config-date.master-timezones.or.po to Oriya
+# translation of or.po to Oriya
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Subhransu Behera <sbehera@redhat.com>, 2006.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2007.
 # saroj kumar padhy <saroz.kumar@gmail.com>, 2008.
-# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones.or\n"
+"Project-Id-Version: or\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-09-24 16:40+0530\n"
+"PO-Revision-Date: 2010-04-27 08:42+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
-"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language-Team: Oriya <Translation-team-or@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
 "\n"
@@ -542,9 +542,8 @@ msgstr "ଆମେରିକା/ଚିହୁଆହୁଆ"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "ପର୍ବତୀୟ ସମୟ - ଚୀହୁବାହୁବା"
+msgstr "ମେକ୍ସିକାନ ପର୍ବତ ସମୟ - ଚିହ୍ୟୁହେ US ସୀମାରୁ ଦୂରରେ"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -595,8 +594,7 @@ msgstr "ଆମେରିକା/ଡାଓଶନ_କ୍ରୀକ"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "ପର୍ବତୀୟ ମାନକ ସମୟ - ଡାଉସନ କ୍ରୀକ ଏବଂ ସେଣ୍ଟ ଜୋନ ଦୁର୍ଗ, ବ୍ରିଟିଶ କୋଲମ୍ବିୟା"
 
 #: timezones.h:168
@@ -932,16 +930,13 @@ msgid "America/Martinique"
 msgstr "ଆମେରିକା/ମୋରଟିନିକ"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "ଆମେରିକା/ମୈନାସ"
+msgstr "ଆମେରିକା/ମେଟାମୋରୋସ"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "କେନ୍ଦ୍ରୀୟ ସମୟ - କୋହୁଲା, ଦୁରାଙ୍ଗୋ, ନ୍ଯୁଭୋ ଲିଓନ, ତାମାଓଲିପାସ"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "US କେନ୍ଦ୍ରୀୟ ସମୟ - କୋହୁଲା, ଦୁରାଙ୍ଗୋ, ନ୍ଯୁଭୋ ଲିଓନ, US ସୀମା ନିକଟବର୍ତ୍ତୀ ତାମାଓଲିପାସ"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -1002,11 +997,10 @@ msgstr "ଆମେରିକା/ମାଣ୍ଟୋରୀ"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "କେନ୍ଦ୍ରୀୟ ସମୟ - କୋହୁଲା, ଦୁରାଙ୍ଗୋ, ନ୍ଯୁଭୋ ଲିଓନ, ତାମାଓଲିପାସ"
+msgstr "ମେକ୍ସିକାନ କେନ୍ଦ୍ରୀୟ ସମୟ - କୋହୁଲା, ଦୁରାଙ୍ଗୋ, ନ୍ଯୁଭୋ ଲିଓନ, US ସୀମା ଦୂରବର୍ତ୍ତୀ ତାମାଓଲିପାସ"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1044,8 +1038,7 @@ msgstr "ଆମେରିକା/ନିପୀଗନ"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:303
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ପୂର୍ବୀ ସମୟ - ଓଣ୍ଟାରିୟୋ ଏବଂ କ୍ଯୁବେକ - ଅଞ୍ଚଳ ଯେଉଁ ଗୁଡିକ DST 1967-1973 କୁ ଦେଖନ୍ତି ନାହିଁ"
 
 #: timezones.h:304
@@ -1085,15 +1078,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "କେନ୍ଦ୍ରୀୟ ସମୟ - ଉତ୍ତର ଡାକୋଟା - ମୋର୍ଟୋନ କାଉଣ୍ଟୀ (ମାନଡାନ କ୍ଷେତ୍ର ବ୍ଯତୀଥ)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "ଆମେରିକା/ମେନେଗୁଆ"
+msgstr "ଆମେରିକା/ଓଜିନାଗା"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "ପର୍ବତୀୟ ସମୟ - ଚୀହୁବାହୁବା"
+msgstr "US ପର୍ବତୀୟ ସମୟ - US ସୀମା ନିକଟବର୍ତ୍ତୀ ଚୀହୁବାହୁବା"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1205,14 +1196,13 @@ msgid "America/Rosario"
 msgstr "ଆମେରିକା/ରୋସାରିୟୋ"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "ଆମେରିକା/ସେଣ୍ଟାରେମ"
+msgstr "ଆମେରିକା/ସେଣ୍ଟା_ ଇସାବେଲ"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "ମେକ୍ସିକାନ ପ୍ରସାନ୍ତ ମହାସାଗର ସମୟ - US ସୀମା ଦୂରବର୍ତ୍ତ ବାଜା କାଲିଫର୍ନିୟା"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1325,7 +1315,7 @@ msgstr "ଆମେରିକା/ତୀଜୁନା"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "US ପ୍ରସାନ୍ତ ମହାସାଗର ସମୟ - US ସୀମା ନିକଟବର୍ତ୍ତୀ ବାଜା କାଲିଫର୍ନିୟା"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1417,15 +1407,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "ଡ୍ଯୁମୋଣ୍ଟ-ଡି'ଆରଭିଲ୍ଲେ ଆଧାର, ଟେରେ ଏଡିଲୀ"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "ଆଣ୍ଟାର୍କଟିକା/ମେକମୁରଡୋ"
+msgstr "ଆଣ୍ଟାର୍କଟିକା/ମେକ୍ୟୁରୀ"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "ମେକମୁରଡୋ ଷ୍ଟେସନ, ରୋସ ଦ୍ବୀପ"
+msgstr "ମେକ୍ୟୁରୀ ଦ୍ୱୀପ ଷ୍ଟେସନ, ମେକ୍ୟୁରୀ ଦ୍ୱୀପ"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1512,9 +1500,8 @@ msgstr "ଏସିଆ/ଅନାଡିର"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "ମୋସ୍କୋ+10 - ବେରିଙ୍ଗ ସମୁଦ୍ର"
+msgstr "ମୋସ୍କୋ+08 - ବେରିଙ୍ଗ ସମୁଦ୍ର"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1699,9 +1686,8 @@ msgstr "ଏସିଆ/କାମଚଟକା"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "ମୋସ୍କୋ+09 - କାମଚଟକା"
+msgstr "ମୋସ୍କୋ+08 - କାମଚଟକା"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1798,15 +1784,13 @@ msgid "Asia/Nicosia"
 msgstr "ଏସିଆ/ନିକୋସିୟା"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "ଏସିଆ/ଇରକୁଟ୍ସ୍କ"
+msgstr "ଏସିଆ/ନୋଭୋକୁନେଚ"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "ମୋସ୍କୋ+03 - ନୋଭୋସିବ୍ରିସ୍କ"
+msgstr "ମୋସ୍କୋ+03 - ନୋଭୋକୁନେଚ"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2632,9 +2616,8 @@ msgstr "ୟୁରୋପ/ସାମାରା"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "ମୋସ୍କୋ+01 - ସାମରା, ଉଡମୁର୍ଟିଆ"
+msgstr "ମୋସ୍କୋ - ସାମରା, ଉଡମୁର୍ଟିଆ"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -3244,3 +3227,4 @@ msgstr "W-SU"
 #: timezones.h:950
 msgid "Zulu"
 msgstr "ଜୁଲୁ"
+
