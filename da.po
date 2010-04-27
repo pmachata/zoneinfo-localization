@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: system-config-date\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2010-02-19 23:17+0200\n"
+"PO-Revision-Date: 2010-04-27 17:56+0200\n"
 "Last-Translator: Kris Thomsen <lakristho@gmail.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -530,9 +530,8 @@ msgstr "Amerika/Chihuahua"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "Bjertid - Chihuahua"
+msgstr "Mexikansk bjertid - Chihuahua væk fra US-grænse"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -921,16 +920,15 @@ msgid "America/Martinique"
 msgstr "Amerika/Martinique"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "Amerika/Manaus"
+msgstr "Amerika/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "Centraltid - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"US Centraltid - Coahuila, Durango, Nuevo Leon, Tamaulipas nær US-grænse"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -991,11 +989,11 @@ msgstr "Amerika/Monterrey"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "Centraltid - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"Mexikansk centraltid - Coahuila, Durango, Nuevo Leon, Tamaulipas væk fra US-grænse"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1074,15 +1072,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "Centraltid - Nord Dakota - Morton County (undtagen Mandan-området)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "Amerika/Managua"
+msgstr "Amerika/Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "Bjertid - Chihuahua"
+msgstr "US bjertid - Chihuahua nær US-grænse"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1194,14 +1190,13 @@ msgid "America/Rosario"
 msgstr "Amerika/Rosario"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "Amerika/Santarem"
+msgstr "Amerika/Santa_Isabel"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "Mexikansk stillehavstid - Baja Californien væk fra US-grænse"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1314,7 +1309,7 @@ msgstr "Amerika/Tijuana"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "US stillehavstid - Baja Californien nær US-grænse"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1406,15 +1401,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "Dumont-d'Urville Station, Terre Adelie"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "Antarktis/McMurdo"
+msgstr "Antarktis/Macquarie"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "McMurdo Station, Ross Island"
+msgstr "Macquarie Island Station, Macquarie Island"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1501,9 +1494,8 @@ msgstr "Asien/Anadyr"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "Moskva+10 - Bering Sea"
+msgstr "Moskva+08 - Bering Sea"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1688,9 +1680,8 @@ msgstr "Asien/Kamchatka"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "Moskva+09 - Kamchatka"
+msgstr "Moskva+08 - Kamchatka"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1787,15 +1778,13 @@ msgid "Asia/Nicosia"
 msgstr "Asien/Nicosia"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "Asien/Irkutsk"
+msgstr "Asien/Novokuznetsk"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "Moskva+03 - Novosibirsk"
+msgstr "Moskva+03 - Novokuznetsk"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2621,9 +2610,8 @@ msgstr "Europa/Samara"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "Moskva+01 - Samara, Udmurtia"
+msgstr "Moskva - Samara, Udmurtia"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
