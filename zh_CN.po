@@ -1,3 +1,4 @@
+# translation of zh_CN.po to Wei Liu
 # Copyright (C) 2002 Red Hat Inc.
 #
 #
@@ -9,14 +10,15 @@
 # Terry Chuang <tchuang@redhat.com>, 2008.
 # Terry Chuang <tchuang@redhat.com>, 2009.
 # pingman <pingman@fedoraproject.org>, 2009.
+# Leah Liu <lliu@redhat.com>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones\n"
+"Project-Id-Version: zh_CN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-10-08 09:22+0800\n"
-"Last-Translator: Tom K. C. Chiu <tomchiukc@gmail.com>\n"
-"Language-Team: Simplified Chinese <en@li.org>\n"
+"PO-Revision-Date: 2010-04-27 09:48+1000\n"
+"Last-Translator: Leah Liu <lliu@redhat.com>\n"
+"Language-Team: Wei Liu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -536,9 +538,8 @@ msgstr "美洲/彻瓦瓦"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "山地时间 - 奇瓦瓦"
+msgstr "墨西哥山地时间 - 美国边境的奇瓦瓦狗"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -589,8 +590,7 @@ msgstr "美洲/道森克里克"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "山地标准时间 - 道生克里克和圣约翰堡，不列颠哥伦比亚"
 
 #: timezones.h:168
@@ -928,16 +928,13 @@ msgid "America/Martinique"
 msgstr "美洲/马汀尼克"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "美洲/玛瑙斯"
+msgstr "美洲/马塔摩洛斯"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "中部时间-科阿韦拉州，杜兰戈，新莱昂州，塔毛利帕斯"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "美国中部时间- 靠近美国边境的科阿韦拉州，杜兰戈，新莱昂州，塔毛利帕斯"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -998,11 +995,10 @@ msgstr "美洲/蒙特瑞"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "中部时间-科阿韦拉州，杜兰戈，新莱昂州，塔毛利帕斯"
+msgstr "墨西哥中部时间 - 远离美国边境的科阿韦拉州，杜兰戈，新莱昂州，塔毛利帕斯"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1040,8 +1036,7 @@ msgstr "美洲/尼埤岗"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:303
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "东部标准时间-安大略省和魁北克-不遵守DST的地方 1967-1973"
 
 #: timezones.h:304
@@ -1081,15 +1076,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "中央标准时间-北达科他州-莫顿县（曼丹地区除外）"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "美洲/马拿瓜"
+msgstr "美洲/吉尼亚加 "
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "山地时间 - 奇瓦瓦"
+msgstr "美国山地时间 - 靠近美国边境的奇瓦瓦狗"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1201,14 +1194,13 @@ msgid "America/Rosario"
 msgstr "美洲/罗萨里奥"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "美国/圣塔伦"
+msgstr "美国/圣伊莎贝尔 "
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "墨西哥太平洋地区时间 - 远离美国边境的下加利福尼亚州 "
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1321,7 +1313,7 @@ msgstr "美洲/提亚瓦纳"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "美国太平洋地区时间 - 靠近美国边境的下加利福尼亚州 "
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1413,15 +1405,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "迪蒙迪维尔站，阿德利岛"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "南极洲/麦克莫多"
+msgstr "南极洲/麦加利群岛"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "麦克默多站，罗斯岛"
+msgstr "麦加利群岛机站，麦加利群岛"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1508,9 +1498,8 @@ msgstr "亚洲/阿纳德尔"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "莫斯科+10 -白令海"
+msgstr "莫斯科+8 - 白令海"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1695,9 +1684,8 @@ msgstr "亚洲/堪察加"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "莫斯科+09 -堪察加半岛"
+msgstr "莫斯科+08 - 堪察加半岛"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1796,15 +1784,13 @@ msgid "Asia/Nicosia"
 msgstr "亚洲/尼科西亚"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "亚洲/伊尔库茨克"
+msgstr "亚洲/新库兹涅茨克 "
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "莫斯科+03 -新西伯利亚"
+msgstr "莫斯科+03 - 新库兹涅茨克 "
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2630,9 +2616,8 @@ msgstr "欧洲/沙马拉"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "莫斯科+01 -萨马拉，乌德穆尔特共和国"
+msgstr "莫斯科 - 萨马拉，乌德穆尔特共和国"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -3243,5 +3228,3 @@ msgstr "钨苏"
 msgid "Zulu"
 msgstr "祖鲁"
 
-#~ msgid "US/Pacific-New"
-#~ msgstr "美国∕太平洋标准时间"
