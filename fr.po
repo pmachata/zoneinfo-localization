@@ -535,9 +535,8 @@ msgstr "Amérique/Chihuahua"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "Heure des Montagnes - État de Chihuahua"
+msgstr "Heure des Montagnes Méxicaines - État de Chihuahua loin de la frontière"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -931,16 +930,14 @@ msgid "America/Martinique"
 msgstr "Amérique/Martinique"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "Amérique/Manaus"
+msgstr "Amérique/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "Heure du Centre - Coahuila, État du Durango, Nouveau León, Tamaulipas"
+msgstr "Heure du Centre des États-Unis - Coahuila, État du Durango, Nouveau León, Tamaulipas"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -1002,11 +999,10 @@ msgstr "Amérique/Monterrey"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "Heure du Centre - Coahuila, État du Durango, Nouveau León, Tamaulipas"
+msgstr "Heure du Centre, Méxique - Coahuila, État du Durango, Nouveau León, Tamaulipas"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1088,15 +1084,13 @@ msgstr ""
 "Heure du Centre - Dakota du Nord - Comté du Morton (sauf la région Mandan)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "Amérique/Managua"
+msgstr "Amérique/Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "Heure des Montagnes - État de Chihuahua"
+msgstr "Heure des Montagnes des États-Unis - État de Chihuahua"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1208,14 +1202,13 @@ msgid "America/Rosario"
 msgstr "Amérique/Rosario"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "Amérique/Santarém"
+msgstr "Amérique/Santa_Isabel"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "Heure du Méxique côte Pacifique - Baja California loin de la frontière"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1328,7 +1321,7 @@ msgstr "Amérique/Tijuana"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "Heure des États-Unis / Côte Pacifique - Baja California proche de la frontière US"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1420,15 +1413,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "Base antarctique Dumont d'Urville, Terre Adélie"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "Antarctique/McMurdo"
+msgstr "Antarctique/Macquarie"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "Base antarctique McMurdo, Île de Ross"
+msgstr "Station de l'île Macquarie, Île de Macquarie"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1515,9 +1506,8 @@ msgstr "Asie/Anadyr"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "Moscou+10 - Mer de Béring"
+msgstr "Moscou+08 - Mer de Béring"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1702,9 +1692,8 @@ msgstr "Asie/Kamchatka"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "Moscou+09 - Kamtchatka"
+msgstr "Moscou+08 - Kamtchatka"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1801,15 +1790,13 @@ msgid "Asia/Nicosia"
 msgstr "Asie/Nicosie"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "Asie/Irkutsk"
+msgstr "Asie/Novokuznetsk"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "Moscou+03 - Novossibirsk"
+msgstr "Moscou+03 - Novokuznetsk"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2635,9 +2622,8 @@ msgstr "Europe/Samara"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "Moscou+01 - Samara, Oudmourtie"
+msgstr "Moscou - Samara, Udmurtia"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
