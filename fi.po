@@ -1,24 +1,24 @@
 # Finnish translation of timezones.
-#
 # TODO Many translations probably need work: I wasn't sure of all the
 # place-names in Finnish and accents aren't used consistently, because
-# some names were copied from the msgids (no accents) and some from Wikipedia 
+# some names were copied from the msgids (no accents) and some from Wikipedia
 # (with accents). -vpv
-#
 # Lauri Nurmi <lanurmi@iki.fi>, 2004.
-# Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>, 2007-2009.
+# Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>, 2007-2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-10-10 01:21+0300\n"
+"PO-Revision-Date: 2010-05-06 00:25+0300\n"
 "Last-Translator: Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>\n"
-"Language-Team: Finnish <laatu@lokalisointi.org>\n"
+"Language-Team: gnome-fi-laatu@lists.sourceforge.net\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -535,9 +535,10 @@ msgstr "Amerikka/Chihuahua"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "Kalliovuorten aikavyöhyke - Chihuahua"
+msgstr ""
+"Kalliovuorten aikavyöhyke (Meksiko) - Chihuahua kauempana Yhdysvaltojen "
+"rajasta"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -933,16 +934,16 @@ msgid "America/Martinique"
 msgstr "Amerikka/Martinique"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "Amerikka/Manaus"
+msgstr "Amerikka/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "Keskinen aikavyöhyke - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"Keskinen aikavyöhyke (Yhdysvallat) - Coahuila, Durango, Nuevo Leon, "
+"Tamaulipas lähellä Yhdysvaltojen rajaa"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -1005,11 +1006,12 @@ msgstr "Amerikka/Monterrey"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "Keskinen aikavyöhyke - Coahuila, Durango, Nuevo Leon, Tamaulipas"
+msgstr ""
+"Keskinen aikavyöhyke (Meksiko) - Coahuila, Durango, Nuevo Leon, Tamaulipas "
+"kauempana Yhdysvaltojen rajasta"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1092,15 +1094,15 @@ msgstr ""
 "alue)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "Amerikka/Managua"
+msgstr "Amerikka/Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "Kalliovuorten aikavyöhyke - Chihuahua"
+msgstr ""
+"Kalliovuorten aikavyöhyke (Yhdysvallat) - Chihuahua lähellä Yhdysvaltojen "
+"rajaa"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1212,14 +1214,15 @@ msgid "America/Rosario"
 msgstr "Amerikka/Rosario"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "Amerikka/Santarem"
+msgstr "Amerikka/Santa_Isabel"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
 msgstr ""
+"Tyynenmeren aikavyöhyke (Meksiko) - Baja California kauempana Yhdysvaltojen "
+"rajasta"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1333,6 +1336,8 @@ msgstr "Amerikka/Tijuana"
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
 msgstr ""
+"Tyynenmeren aikavyöhyke (Yhdysvallat) - Baja California lähellä "
+"Yhdysvaltojen rajaa"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1424,15 +1429,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "Dumont-d'Urville-asema, Adélienmaa"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "Etelämanner/McMurdo"
+msgstr "Etelämanner/Macquariesaari"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "McMurdo-asema, Rossin saari"
+msgstr "Macquariesaaren asema, Macquariesaari"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1519,9 +1522,8 @@ msgstr "Aasia/Anadyr"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "Moskova+10 - Beringinmeri"
+msgstr "Moskova+08 - Beringinmeri"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1706,9 +1708,8 @@ msgstr "Aasia/Kamchatka"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "Moskova+09 - Kamtšatka"
+msgstr "Moskova+08 - Kamtšatka"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1805,15 +1806,13 @@ msgid "Asia/Nicosia"
 msgstr "Aasia/Nicosia"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "Aasia/Irkutsk"
+msgstr "Aasia/Novokuznetsk"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "Moskova+03 - Novosibirsk"
+msgstr "Moskova+03 - Novokuznetsk"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2639,9 +2638,8 @@ msgstr "Eurooppa/Samara"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "Moskova+01 - Samara, Udmurtia"
+msgstr "Moskova - Samara, Udmurtia"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
