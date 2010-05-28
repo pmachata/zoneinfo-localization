@@ -1,23 +1,27 @@
 # translation of ja.po to Japanese
-# Time Config Tool Japanese Translation
-# Copyright (C) 2001 Red Hat, Inc.
 # James Hashida <khashida@redhat.com>, 2003.
 # Hirofumi Saito <hi_saito@yk.rim.or.jp>, 2006.
 # Noriko Mizumoto <noriko@redhat.com>, 2006.
 # Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>, 2007, 2009.
 # Makoto Mizukami <makoto@fedoraproject.org>, 2008, 2010.
 # Hajime Taira <htaira@redhat.com>, 2010.
+# Kiyoto Hashida <khashida@redhat.com>, 2010.
+# Time Config Tool Japanese Translation
+# Copyright (C) 2001 Red Hat, Inc.
 msgid ""
 msgstr ""
 "Project-Id-Version: ja\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2010-03-01 15:08+0900\n"
-"Last-Translator: Hajime Taira <htaira@redhat.com>\n"
-"Language-Team: Japanese\n"
+"PO-Revision-Date: 2010-05-28 16:03+0900\n"
+"Last-Translator: Kiyoto Hashida <khashida@redhat.com>\n"
+"Language-Team: Japanese <jp@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -533,9 +537,8 @@ msgstr "アメリカ/チワワ"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "山岳部時間 - チワワ"
+msgstr "メキシコ山岳部時間 - 米国国境から離れたチワワ"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -927,16 +930,16 @@ msgid "America/Martinique"
 msgstr "アメリカ/マルティーノ"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "アメリカ/マナッサス"
+msgstr "アメリカ/マタモロス"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "中央部時間 - コアウイラ州、ドゥランゴ、ヌエボレオン州、タマウリパス州"
+msgstr ""
+"米国中央部時間 - コアウイラ州、ドゥランゴ、ヌエボレオン州、米国国境付近のタマ"
+"ウリパス州"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -998,11 +1001,12 @@ msgstr "アメリカ/モンテレイ"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "中央部時間 - コアウイラ州、ドゥランゴ、ヌエボレオン州、タマウリパス州"
+msgstr ""
+"メキシコ中央部時間 - コアウイラ州、ドゥランゴ、ヌエボレオン州、米国国境から離"
+"れたタマウリパス州"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1083,15 +1087,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "中部時間 - ノースダコタ州 - モートン郡 (マンダン地区を除く)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "アメリカ/マナグア"
+msgstr "アメリカ/オヒナガ"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "山岳部時間 - チワワ"
+msgstr "米国山岳部時間 - 米国国境付近のチワワ"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1203,14 +1205,13 @@ msgid "America/Rosario"
 msgstr "アメリカ/ロサリオ"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "アメリカ/サンタレン"
+msgstr "アメリカ/サンタ_イザベル"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "メキシコ太平洋時間帯 - 米国国境から離れたバーハ、カリフォルニア"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1323,7 +1324,7 @@ msgstr "アメリカ/ティファナ"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "アメリカ太平洋時間帯 - 米国国境に近いバーハ、カリフォルニア"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1415,15 +1416,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "Terre Adelie の Dumont-d'Urville 基地"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "南極大陸/マックマード"
+msgstr "南極大陸/マッコーリー"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "ロス島のマックマード基地"
+msgstr "マッコーリー島のマッコーリー基地"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1510,9 +1509,8 @@ msgstr "アジア/アナドリ"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "モスクワ+10 - ベーリング海"
+msgstr "モスクワ+08 - ベーリング海"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1697,9 +1695,8 @@ msgstr "アジア/カムチャツカ"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "モスクワ+09 - カムチャッカ半島"
+msgstr "モスクワ+08 - カムチャッカ半島"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1796,15 +1793,13 @@ msgid "Asia/Nicosia"
 msgstr "アジア/ニコシア"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "アジア/イルクスク"
+msgstr "アジア/ノボクズネツク"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "モスクワ+03 - ノボシビルスク"
+msgstr "モスクワ+03 - ノボクズネツク"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2630,9 +2625,8 @@ msgstr "ヨーロッパ/サマラ"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "モスクワ+01 - サマラ、Udmurtia"
+msgstr "モスクワ - サマラ、ウドムルト"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -3242,6 +3236,3 @@ msgstr "W-SU"
 #: timezones.h:950
 msgid "Zulu"
 msgstr "Zulu"
-
-#~ msgid "US/Pacific-New"
-#~ msgstr "US/新太平洋"
