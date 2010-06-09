@@ -5,17 +5,18 @@
 # Ahmad Khalifa <ahmadkhalifa@hotmail.com>, 2004.
 # Tareq Al Jurf <taljurf@fedoraproject.org>, 2009.
 # Muhammed Al-Fakhori <mhmd.alfakhori@gmail.com>, 2009.
+# Abdalrahim Fakhouri <abdilra7eem@yahoo.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-12-17 23:01+0200\n"
-"Last-Translator: Muhammed Al-Fakhori <mhmd.alfakhori@gmail.com>\n"
+"PO-Revision-Date: 2010-06-04 20:16+0300\n"
+"Last-Translator: Abdalrahim Fakhouri <abdilra7eem@yahoo.com>\n"
 "Language-Team: Arabic <fedora-trans-ar@redhat.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=0\n"
-"Content-Transfer-Encoding: 0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -531,9 +532,8 @@ msgstr "أمريكا/شيواوا"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "التوقيت الجبلي -- تشيهواهوا"
+msgstr "التوقيت الجبلي المكسيكيّ -- تشيهواهوا"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -656,7 +656,9 @@ msgstr "أمريكا/جليس_باي"
 #. comment for time zone America/Glace_Bay
 #: timezones.h:189
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr "التوقيت الأطلسي -- نوفا سكوشيا -- الأماكن التي لم تراع التوقيت الصيفي 1966-1971"
+msgstr ""
+"التوقيت الأطلسي -- نوفا سكوشيا -- الأماكن التي لم تراع التوقيت الصيفي 1966-"
+"1971"
 
 #: timezones.h:190
 msgid "America/Godthab"
@@ -921,16 +923,16 @@ msgid "America/Martinique"
 msgstr "أمريكا/مارتينيك"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "أمريكا/ماناوس"
+msgstr "أمريكا/ماتاموروس"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "التوقيت المركزي -- كواهويلا ، دورانغو ، نويفو ليون ، تاماوليباس"
+msgstr ""
+"التوقيت المركزي لأمريكا -- كواهويلا ، دورانغو ، نويفو ليون ، تاماوليباس "
+"بالقرب من الحدود الأمريكيّة"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -952,7 +954,8 @@ msgstr "أمريكا/مينومين"
 #. comment for time zone America/Menominee
 #: timezones.h:278
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr "التوقيت المركزي -- ميتشيغان -- ديكينسون ، Gogebic ، حديد وMenominee المقاطعات"
+msgstr ""
+"التوقيت المركزي -- ميتشيغان -- ديكينسون ، Gogebic ، حديد وMenominee المقاطعات"
 
 #: timezones.h:279
 msgid "America/Merida"
@@ -991,11 +994,11 @@ msgstr "أمريكا/مونتيرى"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "التوقيت المركزي -- كواهويلا ، دورانغو ، نويفو ليون ، تاماوليباس"
+msgstr ""
+"التوقيت المركزي المكسيكيّ -- كواهويلا ، دورانغو ، نويفو ليون ، تاماوليباس"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1035,7 +1038,9 @@ msgstr "أمريكا/نيبيجون"
 #: timezones.h:303
 msgid ""
 "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr "التوقيت الشرقي -- أونتاريو وكيبيك -- الأماكن التي لم تراع التوقيت الصيفي 1967-1973"
+msgstr ""
+"التوقيت الشرقي -- أونتاريو وكيبيك -- الأماكن التي لم تراع التوقيت الصيفي "
+"1967-1973"
 
 #: timezones.h:304
 msgid "America/Nome"
@@ -1071,18 +1076,17 @@ msgstr "أمريكا/شمال_داكوتا/نيو_سالم"
 #. comment for time zone America/North_Dakota/New_Salem
 #: timezones.h:315
 msgid "Central Time - North Dakota - Morton County (except Mandan area)"
-msgstr "التوقيت المركزي -- داكوتا الشمالية -- مقاطعة مورتون (باستثناء منطقة ماندان)"
+msgstr ""
+"التوقيت المركزي -- داكوتا الشمالية -- مقاطعة مورتون (باستثناء منطقة ماندان)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "أمريكا/ماناجوا"
+msgstr "أمريكا/أوجيناغا"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "التوقيت الجبلي -- تشيهواهوا"
+msgstr "توقيت الجبال الأمريكيّة -- تشيهواهوا"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1194,14 +1198,13 @@ msgid "America/Rosario"
 msgstr "أمريكا/روسااريو"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "امريكا / سانتاريم"
+msgstr "امريكا / سانتا إيزابيل"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "توقيت \"الهادي\" المكسيكيّ - باجا كاليفورنيا"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1236,7 +1239,7 @@ msgstr "أمريكا/سكورزبايساند"
 #. comment for time zone America/Scoresbysund
 #: timezones.h:368
 msgid "Scoresbysund / Ittoqqortoormiit"
-msgstr ""
+msgstr "جرين لاند/ إتّوكورتوكيت و Scoresbysund"
 
 #: timezones.h:369
 msgid "America/Shiprock"
@@ -1314,7 +1317,7 @@ msgstr "أمريكا/تيوانا"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "توقيت \"الهادي\" الأمريكيّ - باجا كاليفورنيا"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1406,15 +1409,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "دومون - محطة d'Urville ، تير آديلي"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "أنتارتيكا/مكموردو"
+msgstr "أنتارتيكا (القارة المتجمدة)/ماكواري"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "محطة ماكموردو ، جزيرة روس"
+msgstr "محطة جزيرة ماكواري ، جزيرة ماكواري"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1501,9 +1502,8 @@ msgstr "أسيا/أنادير"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "موسكو +10 -- بحر بيرينغ"
+msgstr "موسكو +8 -- بحر بيرينغ"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1512,7 +1512,7 @@ msgstr "أسيا/أكتوا"
 #. comment for time zone Asia/Aqtau
 #: timezones.h:457
 msgid "Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)"
-msgstr ""
+msgstr "أتيرو (أتيرو، غورييف)، مانكيستو"
 
 #: timezones.h:458
 msgid "Asia/Aqtobe"
@@ -1688,9 +1688,8 @@ msgstr "أسيا/كامشَتكا"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "موسكو +09 -- كامتشاتكا"
+msgstr "موسكو +8 -- كمشتكا"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1772,7 +1771,8 @@ msgstr "أسيا/مكاسّار"
 #. comment for time zone Asia/Makassar
 #: timezones.h:533
 msgid "east & south Borneo, Celebes, Bali, Nusa Tengarra, west Timor"
-msgstr "شرق وجنوب جزيرة بورنيو ، سيليبيس وبالي ونوسا تينجارا ، في تيمور الغربية"
+msgstr ""
+"شرق وجنوب جزيرة بورنيو ، سيليبيس وبالي ونوسا تينجارا ، في تيمور الغربية"
 
 #: timezones.h:534
 msgid "Asia/Manila"
@@ -1787,15 +1787,13 @@ msgid "Asia/Nicosia"
 msgstr "أسيا/نيكوسيا"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "أسيا/إركوتسك"
+msgstr "أسيا/نوفوكوزنتسك"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "موسكو +03 -- نوفوسيبيرسك"
+msgstr "موسكو +03 -- نوفوكوزنتسك"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2621,9 +2619,8 @@ msgstr "أوروبا/سامارا"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "Moscow+01 - Samara, Udmurtia"
+msgstr "موسكو - سمارا، أودمورتيا"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -2715,7 +2712,7 @@ msgstr "أوروبا/زابوروزي"
 #. comment for time zone Europe/Zaporozhye
 #: timezones.h:803
 msgid "Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk"
-msgstr ""
+msgstr "زافوروزيا، إيلوغانسك/إيلوهانسك"
 
 #: timezones.h:804
 msgid "Europe/Zurich"
@@ -3234,44 +3231,3 @@ msgstr "W-SU"
 msgid "Zulu"
 msgstr "Zulu"
 
-#~ msgid "US/Pacific-New"
-#~ msgstr "US/هادئ"
-
-#~ msgid "SystemV/AST4"
-#~ msgstr "SystemV/AST4"
-
-#~ msgid "SystemV/AST4ADT"
-#~ msgstr "SystemV/AST4ADT"
-
-#~ msgid "SystemV/CST6"
-#~ msgstr "SystemV/CST6"
-
-#~ msgid "SystemV/CST6CDT"
-#~ msgstr "SystemV/CST6CDT"
-
-#~ msgid "SystemV/EST5"
-#~ msgstr "SystemV/EST5"
-
-#~ msgid "SystemV/EST5EDT"
-#~ msgstr "SystemV/EST5EDT"
-
-#~ msgid "SystemV/HST10"
-#~ msgstr "SystemV/HST10"
-
-#~ msgid "SystemV/MST7"
-#~ msgstr "SystemV/MST7"
-
-#~ msgid "SystemV/MST7MDT"
-#~ msgstr "SystemV/MST7MDT"
-
-#~ msgid "SystemV/PST8"
-#~ msgstr "SystemV/PST8"
-
-#~ msgid "SystemV/PST8PDT"
-#~ msgstr "SystemV/PST8PDT"
-
-#~ msgid "SystemV/YST9"
-#~ msgstr "SystemV/YST9"
-
-#~ msgid "SystemV/YST9YDT"
-#~ msgstr "SystemV/YST9YDT"
