@@ -1,5 +1,4 @@
-# translation of zh_CN.po to Wei Liu
-# Copyright (C) 2002 Red Hat Inc.
+# translation of system-config-date.master-timezones.po to Wei Liu
 # Ben Wu <hpwu@redhat.com>, 2002,2003.
 # Chester Cheng <ccheng@redhat.com>, 2004, 2005, 2006, 2007.
 # Waika Liu <wliu@redhat.com>, 2005.
@@ -10,20 +9,21 @@
 # pingman <pingman@fedoraproject.org>, 2009.
 # Leah Liu <lliu@redhat.com>, 2010.
 # Huan Chen <chenhuan.gt@gmail.com>, 2010.
+# Copyright (C) 2002 Red Hat Inc.
 msgid ""
 msgstr ""
-"Project-Id-Version: zh_CN\n"
+"Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2010-06-07 17:42+0800\n"
-"Last-Translator: Huan Chen <chenhuan.gt@gmail.com>\n"
-"Language-Team: trans-zh_cn@lists.fedoraproject.com\n"
+"PO-Revision-Date: 2010-06-15 11:23+1000\n"
+"Last-Translator: Leah Liu <lliu@redhat.com>\n"
+"Language-Team: Wei Liu\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Virtaal 0.5.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -2805,7 +2805,6 @@ msgid "Iran"
 msgstr "伊朗"
 
 #: timezones.h:828
-#, fuzzy
 msgid "iso3166.tab"
 msgstr "iso3166.tab"
 
@@ -2875,9 +2874,8 @@ msgid "NZ"
 msgstr "新西兰"
 
 #: timezones.h:845
-#, fuzzy
 msgid "NZ-CHAT"
-msgstr "NZ—CHAT"
+msgstr "NZ-CHAT"
 
 #: timezones.h:846
 msgid "Pacific/Apia"
@@ -3128,28 +3126,24 @@ msgid "Portugal"
 msgstr "葡萄牙"
 
 #: timezones.h:926
-#, fuzzy
 msgid "posixrules"
-msgstr "posix规则"
+msgstr "posixrules"
 
 #: timezones.h:927
-#, fuzzy
 msgid "PRC"
-msgstr "PRC（主参考时钟／中国）"
+msgstr "PRC"
 
 #: timezones.h:928
 msgid "PST8PDT"
 msgstr "PST8PDT"
 
 #: timezones.h:929
-#, fuzzy
 msgid "ROC"
-msgstr "ROC（中华民国）"
+msgstr "ROC"
 
 #: timezones.h:930
-#, fuzzy
 msgid "ROK"
-msgstr "ROK（韩国）"
+msgstr "ROK"
 
 #: timezones.h:931
 msgid "Singapore"
@@ -3224,10 +3218,10 @@ msgid "WET"
 msgstr "WET（欧洲西部时间）"
 
 #: timezones.h:949
-#, fuzzy
 msgid "W-SU"
 msgstr "W-SU"
 
 #: timezones.h:950
 msgid "Zulu"
 msgstr "祖鲁"
+
