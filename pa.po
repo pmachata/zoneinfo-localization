@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Jaswinder Singh <jsingh@redhat.com>, 2008, 2009.
+# Jaswinder Singh <jsingh@redhat.com>, 2008, 2009, 2010.
 # A S Alam <aalam@users.sf.net>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master-timezones.pa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-11-13 15:39+0530\n"
+"PO-Revision-Date: 2010-06-25 15:58+0530\n"
 "Last-Translator: Jaswinder Singh <jsingh@redhat.com>\n"
-"Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
+"Language-Team: Punjabi <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: timezones.h:1
@@ -532,9 +532,8 @@ msgstr "ਅਮਰੀਕਾ/ਸ਼ਿਹੂਆਹੂਆ"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ"
+msgstr "ਮੈਕਸੀਕਨ ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ ਯੂ ਐਸ ਸੀਮਾ ਤੋਂ ਦੂਰ"
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -585,8 +584,7 @@ msgstr "ਅਮਰੀਕਾ/ਡਾਵਸਨ ਕਰੀਕ"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:167
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "ਮਾਊਨਟੇਨ ਸਟੈਂਡਰਡ ਟਾਈਮ - ਡਾਵਸਨ ਕਰੀਕ ਤੇ ਫੋਰਟ ਸੇਂਟ ਜੌਹਨ, ਬਰਿਟਸ਼ ਕੋਲੰਬੀਆ"
 
 #: timezones.h:168
@@ -922,16 +920,13 @@ msgid "America/Martinique"
 msgstr "ਅਮਰੀਕਾ/ਮਾਰੀਟੀਕਿਊ"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਸ"
+msgstr "ਅਮਰੀਕਾ/ਮੈਟਾਮੋਰੋਸ"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "ਯੂ ਐਸ ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ ਯੂ ਐਸ ਸੀਮਾ ਦੇ ਨੇੜੇ"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -992,11 +987,10 @@ msgstr "ਅਮਰੀਕਾ/ਮੋਨਟੀਰੀਓ"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ"
+msgstr "ਮੈਕਸੀਕਨ ਸੈਂਟਰਲ ਟਾਈਮ - ਕੋਆਹੂਇਲਾ, ਡੂਰਾਂਗੋ, ਨੂਏਵੋ ਲੀਓਨ, ਟਾਮਾਊਲਿਪਸ ਯੂ ਐਸ ਸੀਮਾਂ ਤੋਂ ਦੂਰ"
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1034,8 +1028,7 @@ msgstr "ਅਮਰੀਕਾ/ਨੀਪੀਗੋਨ"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:303
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ਪੂਰਬੀ ਸਮਾਂ - ਉਨਟਾਰੀਓ ਤੇ ਕੂਏਬੇਕ - ਸਥਿਤੀ ਜਿੱਥੇ DST 1967-1973 ਨਹੀਂ ਮਿਲਦੇ"
 
 #: timezones.h:304
@@ -1075,15 +1068,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "ਸੈਂਟਰਲ ਸਮਾਂ - ਉੱਤਰੀ ਡੀਕੋਟਾ - ਮੌਰਟੋਨ ਦੇਸ (ਮੰਡਾਨ ਖੇਤਰ ਤੋਂ ਬਿਨਾਂ)"
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "ਅਮਰੀਕਾ/ਮਾਨਾਗੂਨਾ"
+msgstr "ਅਮਰੀਕਾ/ਊਜੀਨਾਗਾ"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ"
+msgstr "ਯੂ ਐਸ ਮਾਊਨਟੇਨ ਟਾਈਮ - ਚਿਹੂਆਹੂਆ ਯੂ ਐਸ ਸੀਮਾਂ ਦੇ ਨੇੜੇ"
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1195,14 +1186,13 @@ msgid "America/Rosario"
 msgstr "ਅਮਰੀਕਾ/ਰੋਸਾਰੀਉ"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "ਅਮਰੀਕਾ/ਸੰਟੋਆਗੋ"
+msgstr "ਅਮਰੀਕਾ/ਸਾਂਟਾ_ਈਸੇਬਲ"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "ਮੈਕਸੀਕਨ ਪੈਸੀਫਿਕ ਟਾਈਮ - ਬਾਜਾ ਕੈਲੇਫੋਰਨੀਆਂ ਯੂ ਐਸ ਸੀਮਾਂ ਤੋਂ ਦੂਰ"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1315,7 +1305,7 @@ msgstr "ਅਮਰੀਕਾ/ਤੀਜ਼ੂਨਾ"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "ਯੂ ਐਸ ਪੈਸੀਫਿਕ ਟਾਈਮ - ਬਾਜਾ ਕੈਲੈਫੋਰਨੀਆ ਯੂ ਐਸ ਸੀਮਾ ਦੇ ਨੇੜੇ"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1407,15 +1397,13 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "ਡੂਮੌਂਟ-d' ਊਰਵਿਲੇ ਸਟੇਸ਼ਨ, ਟੇਰੇ ਐਡੇਲੀਏ"
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "ਅੰਟਰਾਟਿਕਾ/ਮਕਮੂਰਡੋ"
+msgstr "ਅੰਟਰਾਟਿਕਾ/ਮੈਕਕੁਆਰੀ"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "ਮਕਮੂਰਡੂ ਸਟੇਸ਼ਨ, ਰੋਸ ਆਈਸਲੈਂਡ"
+msgstr "ਮੈਕਕੂਆਰੀ ਆਈਸਲੈਂਡ ਸਟੇਸ਼ਨ, ਮੈਕਕੂਆਰੀ ਆਈਸਲੈਂਡ"
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1502,9 +1490,8 @@ msgstr "ਏਸ਼ੀਆ/ਅਨਾਡੀਰ"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "ਮਾਸਕੋ+10 - ਬੇਰਿੰਗ ਸਮੁੰਦਰ"
+msgstr "ਮਾਸਕੋ+08 - ਬੇਰਿੰਗ ਸਮੁੰਦਰ"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1689,9 +1676,8 @@ msgstr "ਏਸ਼ੀਆ/ਕਾਮਚਾਟਕਾ"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "ਮਾਸਕੋ+09 - ਕਾਮਚਾਟਕਾ"
+msgstr "ਮਾਸਕੋ+08 - ਕਾਮਚਾਟਕਾ"
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1788,15 +1774,13 @@ msgid "Asia/Nicosia"
 msgstr "ਏਸ਼ੀਆ/ਨੀਸੋਸੀਆ"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "ਏਸ਼ੀਆ/ਆਈਰਲੂਸਕ"
+msgstr "ਏਸ਼ੀਆ/ਨੋਵੋਕੂਜ਼ਨੇਟਸਕ"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "ਮਾਸਕੋ+03 - ਨੋਵੋਸੀਬੀਰਸਕ"
+msgstr "ਮਾਸਕੋ+03 - ਨੋਵੋਕੂਜ਼ਨੇਟਸਕ"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2622,9 +2606,8 @@ msgstr "ਯੂਰਪ/ਸਾਮਾਰਾ"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "ਮਾਸਕੋ+01 - ਸਾਮਾਰਾ, ਉਡਮੂਰਟੀਆ"
+msgstr "ਮਾਸਕੋ - ਸਾਮਾਰਾ, ਉਡਮੂਰਟੀਆ"
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
@@ -3234,3 +3217,4 @@ msgstr "W-SU"
 #: timezones.h:950
 msgid "Zulu"
 msgstr "ਜ਼ੂਲੂ"
+
