@@ -2,13 +2,14 @@
 # Michelle J Kim <mkim@redhat.com>, 2004.
 # Michelle Ji Yeen Kim <mkim@redhat.com>, 2006.
 # Eunju Kim <eukim@redhat.com>, 2006, 2008, 2009.
+# Hyunsok Oh<hoh@redhat.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2009-12-10 14:53+1000\n"
-"Last-Translator: Eunju Kim <eukim@redhat.com>\n"
+"PO-Revision-Date: 2010-06-30 10:53+1000\n"
+"Last-Translator: Hyunsok Oh<hoh@redhat.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -532,9 +533,8 @@ msgstr "아메리카/치와와(Chihuahua)"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:151
-#, fuzzy
 msgid "Mexican Mountain Time - Chihuahua away from US border"
-msgstr "산지 표준시 - 치와와 (Chihuahua)  "
+msgstr "멕시코 산지 표준시 - 미국 국경에서 먼 치와와 (Chihuahua)  "
 
 #: timezones.h:152
 msgid "America/Coral_Harbour"
@@ -923,16 +923,14 @@ msgid "America/Martinique"
 msgstr "아메리카/마르티니크(Martinique)"
 
 #: timezones.h:269
-#, fuzzy
 msgid "America/Matamoros"
 msgstr "아메리카/마나우스(Manaus)"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:271
-#, fuzzy
 msgid ""
 "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr "중부 표준시 - 코아우일라, 듀랑고, 누에보레온, 타몰리파스 "
+msgstr "미국 중부 표준시 - 미국 국경에서 가까운 코아우일라, 듀랑고, 누에보레온, 타몰리파스"
 
 #: timezones.h:272
 msgid "America/Mazatlan"
@@ -993,11 +991,10 @@ msgstr "아메리카/몬테레이(Monterrey)"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:291
-#, fuzzy
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr "중부 표준시 - 코아우일라, 듀랑고, 누에보레온, 타몰리파스 "
+msgstr "멕시코 중부 표준시 - 미국 국경에서 먼 코아우일라, 듀랑고, 누에보레온, 타몰리파스 "
 
 #: timezones.h:292
 msgid "America/Montevideo"
@@ -1077,15 +1074,13 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "중부 표준시 - 노스 다코타 - 모턴 카운티 (Mandan 지역 제외)  "
 
 #: timezones.h:316
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "아메리카/마나구아(Managua)"
+msgstr "아메리카/오히나가(Managua)"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:318
-#, fuzzy
 msgid "US Mountain Time - Chihuahua near US border"
-msgstr "산지 표준시 - 치와와 (Chihuahua)  "
+msgstr "미국 산지 표준시 - 미국 국경에서 가까운 치와와 (Chihuahua)  "
 
 #: timezones.h:319
 msgid "America/Panama"
@@ -1197,14 +1192,13 @@ msgid "America/Rosario"
 msgstr "아메리카/로사리오(Rosario)"
 
 #: timezones.h:353
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "아메리카/산타렘 (Santarem)  "
+msgstr "아메리카/산타렘 이사벨(Santa Isabel)"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:355
 msgid "Mexican Pacific Time - Baja California away from US border"
-msgstr ""
+msgstr "멕시코 태평양 시간 - 국경에서 먼 바하 캘리포니아"
 
 #: timezones.h:356
 msgid "America/Santarem"
@@ -1317,7 +1311,7 @@ msgstr "아메리카/티후아나(Tijuana)"
 #. comment for time zone America/Tijuana
 #: timezones.h:392
 msgid "US Pacific Time - Baja California near US border"
-msgstr ""
+msgstr "미 태평양 시간 - 국경에 가까운 바하 캘리포니아"
 
 #: timezones.h:393
 msgid "America/Toronto"
@@ -1411,15 +1405,13 @@ msgstr ""
 "드몬두르빌 기지 (Dumont-d'Urville Station), 테르 아델리 (Terre Adelie)     "
 
 #: timezones.h:422
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "남극대륙/맥머도(McMurdo)"
+msgstr "남극대륙/맥쿼리(Macquarie)"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:424
-#, fuzzy
 msgid "Macquarie Island Station, Macquarie Island"
-msgstr "맥머도 기지(McMurdo Station), 로스섬 (Ross Island)  "
+msgstr "맥쿼리섬 기지(Pacquarie Island Station), 맥쿼리 섬(Macquarie Island)  "
 
 #: timezones.h:425
 msgid "Antarctica/Mawson"
@@ -1506,9 +1498,8 @@ msgstr "아시아/아나디르(Anadyr)"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
-#, fuzzy
 msgid "Moscow+08 - Bering Sea"
-msgstr "모스크바+10 - 베링 해 (Bering Sea)  "
+msgstr "모스크바+08 - 베링 해 (Bering Sea)  "
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1693,9 +1684,8 @@ msgstr "아시아/캄차카(Kamchatka)"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:508
-#, fuzzy
 msgid "Moscow+08 - Kamchatka"
-msgstr "모스크바+09 - 캄차카(Kamchatka) "
+msgstr "모스크바+08 - 캄차카(Kamchatka) "
 
 #: timezones.h:509
 msgid "Asia/Karachi"
@@ -1792,15 +1782,13 @@ msgid "Asia/Nicosia"
 msgstr "아시아/니코시아(Nicosia)"
 
 #: timezones.h:537
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "아시아/이르쿠츠크(Irkutsk)"
+msgstr "아시아/노보쿠즈네츠크(Novokuznetsk)"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:539
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "모스크바+03 - 노보시비르스크(Novosibirsk) "
+msgstr "모스크바+03 - 노보쿠즈네츠크(Novokuznetsk)"
 
 #: timezones.h:540
 msgid "Asia/Novosibirsk"
@@ -2626,9 +2614,8 @@ msgstr "유럽/사마라(Samara)"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:777
-#, fuzzy
 msgid "Moscow - Samara, Udmurtia"
-msgstr "모스크바+01 - 사마라(Samara), 우드무르트 공화국(Udmurtia)  "
+msgstr "모스크바 - 사마라(Samara), 우드무르트 공화국(Udmurtia)  "
 
 #: timezones.h:778
 msgid "Europe/San_Marino"
