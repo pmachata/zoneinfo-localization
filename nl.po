@@ -1,7 +1,6 @@
 # Dutch translation of timezones.
 # Copyright (c) 2003 The free software foundation, inc.
 # This file is distributed under the same license as the timezones package.
-#
 # Tino Meinen <a.t.meinen@chello.nl>, 2003.
 # Peter van Egdom <p.van.egdom@gmail.com>, 2006, 2007, 2008.
 # Geert Warrink <geert.warrink@onsnet.nu>, 2009, 2010.
@@ -10,13 +9,15 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-20 16:04+0200\n"
-"PO-Revision-Date: 2010-04-21 10:07+0200\n"
+"PO-Revision-Date: 2010-07-07 17:22+0200\n"
 "Last-Translator: Geert Warrink <geert.warrink@onsnet.nu>\n"
-"Language-Team: nl <fedora-trans-list@redhat.com>\n"
+"Language-Team: Fedora\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding:  \n"
-"X-Generator: KBabel 1.11.4\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -72,7 +73,7 @@ msgstr "Afrika/Bujumbura"
 
 #: timezones.h:14
 msgid "Africa/Cairo"
-msgstr "Afrika/Cairo"
+msgstr "Afrika/Caïro"
 
 #: timezones.h:15
 msgid "Africa/Casablanca"
@@ -133,7 +134,7 @@ msgstr "Afrika/Kampala"
 
 #: timezones.h:30
 msgid "Africa/Khartoum"
-msgstr "Afrika/Khartoum"
+msgstr "Afrika/Khartoem"
 
 #: timezones.h:31
 msgid "Africa/Kigali"
@@ -231,7 +232,7 @@ msgstr "Afrika/Sao_Tome"
 
 #: timezones.h:56
 msgid "Africa/Timbuktu"
-msgstr "Afrika/Timbuktu"
+msgstr "Afrika/Timboektoe"
 
 #: timezones.h:57
 msgid "Africa/Tripoli"
@@ -349,7 +350,7 @@ msgstr "Santa Cruz (SC)"
 
 #: timezones.h:93
 msgid "America/Argentina/Salta"
-msgstr "Amerika/Argentinië/Sata"
+msgstr "Amerika/Argentinië/Salta"
 
 #. comment for time zone America/Argentina/Salta
 #: timezones.h:95
@@ -398,7 +399,7 @@ msgstr "Amerika/Aruba"
 
 #: timezones.h:109
 msgid "America/Asuncion"
-msgstr "Amerika/Asuncion"
+msgstr "Amerika/Asunción"
 
 #: timezones.h:110
 msgid "America/Atikokan"
@@ -515,7 +516,7 @@ msgstr "Amerika/Cayenne"
 
 #: timezones.h:145
 msgid "America/Cayman"
-msgstr "Amerika/Cayman"
+msgstr "Amerika/Caymaneilanden"
 
 #: timezones.h:146
 msgid "America/Chicago"
@@ -558,7 +559,7 @@ msgstr "Mato Grosso"
 
 #: timezones.h:158
 msgid "America/Curacao"
-msgstr "Amerika/Curacao"
+msgstr "Amerika/Curaçao"
 
 #: timezones.h:159
 msgid "America/Danmarkshavn"
@@ -586,8 +587,7 @@ msgstr "Amerika/Dawson_Creek"
 #: timezones.h:167
 msgid ""
 "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, Brits-Columbia"
+msgstr "Mountain Standard Time - Dawson Creek & Fort Saint John, Brits-Columbia"
 
 #: timezones.h:168
 msgid "America/Denver"
@@ -911,7 +911,7 @@ msgstr "Amerika/Manaus"
 #. comment for time zone America/Manaus
 #: timezones.h:266
 msgid "E Amazonas"
-msgstr "O Amazonas"
+msgstr "E Amazonas"
 
 #: timezones.h:267
 msgid "America/Marigot"
@@ -952,8 +952,7 @@ msgstr "Amerika/Menominee"
 #. comment for time zone America/Menominee
 #: timezones.h:278
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr ""
-"Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
+msgstr "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
 
 #: timezones.h:279
 msgid "America/Merida"
@@ -1283,7 +1282,7 @@ msgstr "Amerika/Swift_Current"
 #. comment for time zone America/Swift_Current
 #: timezones.h:382
 msgid "Central Standard Time - Saskatchewan - midwest"
-msgstr "Central Standard Time - Saskatchewan -middenwesten"
+msgstr "Central Standard Time - Saskatchewan - middenwesten"
 
 #: timezones.h:383
 msgid "America/Tegucigalpa"
@@ -1500,7 +1499,7 @@ msgstr "Azië/Anadyr"
 #. comment for time zone Asia/Anadyr
 #: timezones.h:454
 msgid "Moscow+08 - Bering Sea"
-msgstr "Moskou+18 - Bering Zee"
+msgstr "Moskou+08 - Bering Zee"
 
 #: timezones.h:455
 msgid "Asia/Aqtau"
@@ -1530,15 +1529,15 @@ msgstr "Azië/Ashkhabad"
 
 #: timezones.h:463
 msgid "Asia/Baghdad"
-msgstr "Azië/Baghdad"
+msgstr "Azië/Bagdad"
 
 #: timezones.h:464
 msgid "Asia/Bahrain"
-msgstr "Azië/Bahrain"
+msgstr "Azië/Bahrein"
 
 #: timezones.h:465
 msgid "Asia/Baku"
-msgstr "Azië/Baku"
+msgstr "Azië/Bakoe"
 
 #: timezones.h:466
 msgid "Asia/Bangkok"
@@ -1546,11 +1545,11 @@ msgstr "Azië/Bangkok"
 
 #: timezones.h:467
 msgid "Asia/Beirut"
-msgstr "Azië/Beirut"
+msgstr "Azië/Beiroet"
 
 #: timezones.h:468
 msgid "Asia/Bishkek"
-msgstr "Azië/Bishkek"
+msgstr "Azië/Bisjkek"
 
 #: timezones.h:469
 msgid "Asia/Brunei"
@@ -1673,7 +1672,7 @@ msgstr "Papoea & de Molukken"
 
 #: timezones.h:504
 msgid "Asia/Jerusalem"
-msgstr "Azië/Jerusalem"
+msgstr "Azië/Jeruzalem"
 
 #: timezones.h:505
 msgid "Asia/Kabul"
@@ -1942,7 +1941,7 @@ msgstr "Azië/Thimphu"
 
 #: timezones.h:584
 msgid "Asia/Tokyo"
-msgstr "Azië/Tokyo"
+msgstr "Azië/Tokio"
 
 #: timezones.h:585
 msgid "Asia/Ujung_Pandang"
@@ -2485,7 +2484,7 @@ msgstr "Europa/Boekarest"
 
 #: timezones.h:736
 msgid "Europe/Budapest"
-msgstr "Europa/Budapest"
+msgstr "Europa/Boedapest"
 
 #: timezones.h:737
 msgid "Europe/Chisinau"
@@ -2695,7 +2694,7 @@ msgstr "Moskou+00 - Kaspische Zee"
 
 #: timezones.h:799
 msgid "Europe/Warsaw"
-msgstr "Europa/Warsaw"
+msgstr "Europa/Warschau"
 
 #: timezones.h:800
 msgid "Europe/Zagreb"
@@ -2712,7 +2711,7 @@ msgstr "Zaporozh'ye, O Lugansk / Zaporizhia, O Luhansk"
 
 #: timezones.h:804
 msgid "Europe/Zurich"
-msgstr "Europa/Zurich"
+msgstr "Europa/Zürich"
 
 #: timezones.h:805
 msgid "Factory"
@@ -2756,7 +2755,7 @@ msgstr "HST"
 
 #: timezones.h:815
 msgid "Iceland"
-msgstr "Iceland"
+msgstr "Ijsland"
 
 #: timezones.h:816
 msgid "Indian/Antananarivo"
@@ -2812,7 +2811,7 @@ msgstr "iso3166.tab"
 
 #: timezones.h:829
 msgid "Israel"
-msgstr "Israel"
+msgstr "Israël"
 
 #: timezones.h:830
 msgid "Jamaica"
