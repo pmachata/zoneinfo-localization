@@ -114,6 +114,9 @@ N_("America/Atka");
 N_("America/Bahia");
 /* comment for time zone America/Bahia */
 N_("Bahia");
+N_("America/Bahia_Banderas");
+/* comment for time zone America/Bahia_Banderas */
+N_("Mexican Central Time - Bahia de Banderas");
 N_("America/Barbados");
 N_("America/Belem");
 /* comment for time zone America/Belem */
@@ -850,6 +853,9 @@ N_("most locations");
 N_("Pacific/Chatham");
 /* comment for time zone Pacific/Chatham */
 N_("Chatham Islands");
+N_("Pacific/Chuuk");
+/* comment for time zone Pacific/Chuuk */
+N_("Chuuk (Truk) and Yap");
 N_("Pacific/Easter");
 /* comment for time zone Pacific/Easter */
 N_("Easter Island & Sala y Gomez");
@@ -899,9 +905,10 @@ N_("Pacific/Noumea");
 N_("Pacific/Pago_Pago");
 N_("Pacific/Palau");
 N_("Pacific/Pitcairn");
+N_("Pacific/Pohnpei");
+/* comment for time zone Pacific/Pohnpei */
+N_("Pohnpei (Ponape)");
 N_("Pacific/Ponape");
-/* comment for time zone Pacific/Ponape */
-N_("Ponape (Pohnpei)");
 N_("Pacific/Port_Moresby");
 N_("Pacific/Rarotonga");
 N_("Pacific/Saipan");
@@ -914,8 +921,6 @@ N_("Pacific/Tarawa");
 N_("Gilbert Islands");
 N_("Pacific/Tongatapu");
 N_("Pacific/Truk");
-/* comment for time zone Pacific/Truk */
-N_("Truk (Chuuk) and Yap");
 N_("Pacific/Wake");
 /* comment for time zone Pacific/Wake */
 N_("Wake Island");
