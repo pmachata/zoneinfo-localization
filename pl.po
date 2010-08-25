@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-21 14:41+0200\n"
+"PO-Revision-Date: 2010-08-25 14:49+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <trans-pl@lists.fedoraproject.org>\n"
 "Language: pl\n"
@@ -420,14 +420,13 @@ msgid "Bahia"
 msgstr "Bahia"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "Ameryka/Bahia"
+msgstr "Ameryka/Bahia_Banderas"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Meksykański czas środkowy - Bahia de Banderas"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -2919,15 +2918,13 @@ msgid "Chatham Islands"
 msgstr "Wyspy Chatham"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Pacyfik/Truk"
+msgstr "Pacyfik/Chuuk"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "Truk (Chuuk) i Yap"
+msgstr "Chuuk (Truk) i Yap"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3080,15 +3077,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Pacyfik/Pitcairn"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "Pacyfik/Ponape"
+msgstr "Pacyfik/Pohnpei"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "Ponape (Pohnpei)"
+msgstr "Pohnpei (Ponape)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
