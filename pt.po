@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-22 14:14+0100\n"
+"PO-Revision-Date: 2010-08-30 15:33+0100\n"
 "Last-Translator: Rui Gouveia <rui.gouveia@gmail.com>\n"
-"Language-Team: fedora-trans-pt@redhat.com\n"
+"Language-Team: trans-pt@lists.fedoraproject.org\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.5.2\n"
+"X-Generator: Virtaal 0.6.1\n"
 "X-POFile-SpellExtra: Volgograd New DakotadoNorte Blanc\n"
 "X-Poedit-Language: Portuguese\n"
 "X-Poedit-Country: PORTUGAL\n"
@@ -425,14 +425,13 @@ msgid "Bahia"
 msgstr "Bahia"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "América/Bahia"
+msgstr "América/Bahia_Banderas"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Horário central Mexicano - Bahia de Banderas"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -2918,15 +2917,13 @@ msgid "Chatham Islands"
 msgstr "Ilhas Chatham"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Pacífico/Truk"
+msgstr "Pacífico/Chuuk"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "Truk (Chuuk) e Yap"
+msgstr "Chuuk (Truk) e Yap"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3079,15 +3076,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Pacífico/Pitcairn"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "Pacífico/Ponape"
+msgstr "Pacífico/Pohnpei"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "Ponape (Pohnpei)"
+msgstr "Pohnpei (Ponape)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
