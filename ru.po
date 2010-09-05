@@ -7,16 +7,15 @@ msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-27 12:27+1000\n"
+"PO-Revision-Date: 2010-09-06 09:19\n"
 "Last-Translator: Yulia <ypoyarko@redhat.com>\n"
 "Language-Team: Russian\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -407,8 +406,7 @@ msgstr "Америка/Атикокан"
 #. comment for time zone America/Atikokan
 #: timezones.h:112
 msgid "Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut"
-msgstr ""
-"Восточное стандартное время &mdash; Атикокан, Онтарио и Саутгемптон, Нунавут"
+msgstr "Восточное стандартное время &mdash; Атикокан, Онтарио и Саутгемптон, Нунавут"
 
 #: timezones.h:113
 msgid "America/Atka"
@@ -421,17 +419,16 @@ msgstr "Америка/Байя"
 #. comment for time zone America/Bahia
 #: timezones.h:116
 msgid "Bahia"
-msgstr "Бахия"
+msgstr "Байя"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "Америка/Байя"
+msgstr "Америка/Байя-де-Бандерас"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Центральное время (Мексика) &mdash; Байя-де-Бандерас"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -595,8 +592,7 @@ msgstr "Америка/Досон_Крик"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr ""
 "Горное стандартное время &mdash; Досон крик, Форт Сен-Джон, Британская "
 "Колумбия"
@@ -943,8 +939,7 @@ msgstr "Америка/Матаморос"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr ""
 "Центральное время (США) &mdash; Коауила, Дуранго, Нуэво-Леон, Тамаулипас "
 "возле границы США"
@@ -969,8 +964,7 @@ msgstr "Америка/Меномини"
 #. comment for time zone America/Menominee
 #: timezones.h:281
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr ""
-"Центральное время &mdash; Мичиган - округ Дикинсон, Годжебик, Айрон, Меномини"
+msgstr "Центральное время &mdash; Мичиган - округ Дикинсон, Годжебик, Айрон, Меномини"
 
 #: timezones.h:282
 msgid "America/Merida"
@@ -1052,8 +1046,7 @@ msgstr "Америка/Нипигон"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
 "Восточное время &mdash; Онтарио и Квебек - где не учитывается дневной "
 "стандарт 1967-1973"
@@ -1092,8 +1085,7 @@ msgstr "Америка/Северная_Дакота/Нью_Салем"
 #. comment for time zone America/North_Dakota/New_Salem
 #: timezones.h:318
 msgid "Central Time - North Dakota - Morton County (except Mandan area)"
-msgstr ""
-"Центральное время &mdash; Северная Дакота - Округ Мортон (кроме Мандэн)"
+msgstr "Центральное время &mdash; Северная Дакота - Округ Мортон (кроме Мандэн)"
 
 #: timezones.h:319
 msgid "America/Ojinaga"
@@ -1597,8 +1589,7 @@ msgstr "Азия/Чунцин"
 #. comment for time zone Asia/Chongqing
 #: timezones.h:479
 msgid "central China - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc."
-msgstr ""
-"Центральная часть Китая - Сычуань, Юннань, Гуанси, Шеньси, Гуанчжоу и др."
+msgstr "Центральная часть Китая - Сычуань, Юннань, Гуанси, Шеньси, Гуанчжоу и др."
 
 #: timezones.h:480
 msgid "Asia/Chungking"
@@ -2919,15 +2910,13 @@ msgid "Chatham Islands"
 msgstr "Чатем, острова"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Тихий океан/Трук"
+msgstr "Тихий океан/Чуук"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "Трук и Яп"
+msgstr "Чуук (Трук) и Яп"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3080,15 +3069,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Тихий океан/Острова_Питкерн"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
 msgstr "Тихий океан/Понпеи"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "Понапе (Понпеи)"
+msgstr "Понпеи (Понапе)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3260,3 +3247,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "Зулу"
+
