@@ -1,21 +1,24 @@
 # Persian translation for timezones package.
 # Copyright (C) 2004, 2005 Sharif FarsiWeb, Inc.
 # This file is distributed under the same license as the timezones package.
+#
 # Roozbeh Pournader <roozbeh@farsiweb.info>, 2004, 2005.
 # Meelad Zakaria <meelad@farsiweb.info>, 2005.
-#
+# Hedayat Vatankhah <hedayat@fedoraproject.org>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: timezones HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2005-04-18 14:28+0430\n"
-"Last-Translator: Meelad Zakaria <meelad@farsiweb.info>\n"
-"Language-Team: Persian <farsi@lists.sharif.edu>\n"
-"Language: fa\n"
+"PO-Revision-Date: 2010-09-23 16:25+0330\n"
+"Last-Translator: Hedayat Vatankhah <hedayat@fedoraproject.org>\n"
+"Language-Team: Persian <trans-fa@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -34,9 +37,8 @@ msgid "Africa/Algiers"
 msgstr "افریقا/الجزیره"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "افریقا/اسمرا"
+msgstr "افریقا/اسمره"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -261,9 +263,8 @@ msgstr "امریکا/انکریج"
 
 #. comment for time zone America/Anchorage
 #: timezones.h:65
-#, fuzzy
 msgid "Alaska Time"
-msgstr "ایالات متحده/آلاسکا"
+msgstr "زمان آلاسکا"
 
 #: timezones.h:66
 msgid "America/Anguilla"
@@ -283,9 +284,8 @@ msgid "Tocantins"
 msgstr ""
 
 #: timezones.h:71
-#, fuzzy
 msgid "America/Argentina/Buenos_Aires"
-msgstr "امریکا/بوئنوس‌آیرس"
+msgstr "امریکا/آرژانتین/بوئنوس‌آیرس"
 
 #. comment for time zone America/Argentina/Buenos_Aires
 #: timezones.h:73
@@ -293,9 +293,8 @@ msgid "Buenos Aires (BA, CF)"
 msgstr ""
 
 #: timezones.h:74
-#, fuzzy
 msgid "America/Argentina/Catamarca"
-msgstr "امریکا/کاتامارکا"
+msgstr "امریکا/آرژانتین/کاتامارکا"
 
 #. comment for time zone America/Argentina/Catamarca
 #: timezones.h:76
@@ -308,9 +307,8 @@ msgid "America/Argentina/ComodRivadavia"
 msgstr "امریکا/ایندیانا/ایندیاناپولیس"
 
 #: timezones.h:78
-#, fuzzy
 msgid "America/Argentina/Cordoba"
-msgstr "امریکا/کوردووا"
+msgstr "امریکا/آرژانتین/کوردووا"
 
 #. comment for time zone America/Argentina/Cordoba
 #: timezones.h:80
@@ -318,9 +316,8 @@ msgid "most locations (CB, CC, CN, ER, FM, MN, SE, SF)"
 msgstr ""
 
 #: timezones.h:81
-#, fuzzy
 msgid "America/Argentina/Jujuy"
-msgstr "امریکا/خوخوئی"
+msgstr "امریکا/آرژانتین/خوخوئی"
 
 #. comment for time zone America/Argentina/Jujuy
 #: timezones.h:83
@@ -330,7 +327,7 @@ msgstr ""
 #: timezones.h:84
 #, fuzzy
 msgid "America/Argentina/La_Rioja"
-msgstr "امریکا/آراگواینا"
+msgstr "امریکا/آرژانتین/آراگواینا"
 
 #. comment for time zone America/Argentina/La_Rioja
 #: timezones.h:86
@@ -338,9 +335,8 @@ msgid "La Rioja (LR)"
 msgstr ""
 
 #: timezones.h:87
-#, fuzzy
 msgid "America/Argentina/Mendoza"
-msgstr "امریکا/مندوسا"
+msgstr "امریکا/آرژانتین/مندوسا"
 
 #. comment for time zone America/Argentina/Mendoza
 #: timezones.h:89
@@ -704,7 +700,7 @@ msgstr "امریکا/گودهوب"
 #: timezones.h:195 timezones.h:364 timezones.h:453 timezones.h:591
 #: timezones.h:754 timezones.h:852 timezones.h:894
 msgid "most locations"
-msgstr ""
+msgstr "بیش‌تر مکان‌ها"
 
 #: timezones.h:196
 msgid "America/Goose_Bay"
@@ -796,9 +792,8 @@ msgid "Eastern Time - Indiana - Crawford County"
 msgstr ""
 
 #: timezones.h:223
-#, fuzzy
 msgid "America/Indiana/Petersburg"
-msgstr "امریکا/ایندیانا/مارنگو"
+msgstr "امریکا/ایندیانا/پترزبورگ"
 
 #. comment for time zone America/Indiana/Petersburg
 #: timezones.h:225
@@ -1083,7 +1078,7 @@ msgstr "امریکا/نوم"
 #. comment for time zone America/Nome
 #: timezones.h:309
 msgid "Alaska Time - west Alaska"
-msgstr ""
+msgstr "زمان آلاسکا - آلاسکای غربی"
 
 #: timezones.h:310
 msgid "America/Noronha"
@@ -1091,9 +1086,8 @@ msgstr "امریکا/نورونیا"
 
 #. comment for time zone America/Noronha
 #: timezones.h:312
-#, fuzzy
 msgid "Atlantic islands"
-msgstr "اقیانوس اطلس/قناری"
+msgstr "جزیره‌های آتلانتیک"
 
 #: timezones.h:313
 msgid "America/North_Dakota/Center"
@@ -2499,7 +2493,7 @@ msgstr "غیره/جهانی"
 
 #: timezones.h:728
 msgid "Etc/UTC"
-msgstr ""
+msgstr "غیره/زمان هماهنگ جهانی"
 
 #: timezones.h:729
 msgid "Etc/Zulu"
@@ -3038,9 +3032,8 @@ msgstr "اقیانوس آرام/هونولولو"
 
 #. comment for time zone Pacific/Honolulu
 #: timezones.h:879
-#, fuzzy
 msgid "Hawaii"
-msgstr "ایالات متحده/هاوائی"
+msgstr "هاوائی"
 
 #: timezones.h:880
 msgid "Pacific/Johnston"
@@ -3292,7 +3285,7 @@ msgstr "ایلات متحده/ساموا"
 
 #: timezones.h:952
 msgid "UTC"
-msgstr ""
+msgstr "زمان هماهنگ جهانی"
 
 #: timezones.h:953
 msgid "WET"
