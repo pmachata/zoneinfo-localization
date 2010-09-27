@@ -1,5 +1,6 @@
 # translation of system-config-date.master-timezones.po to Traditional Chinese
 # Copyright (C) 2002 Red Hat Inc.
+# This file is distributed under the same license as the x package.
 #
 #
 # Ben Wu <hpwu@redhat.com>, 2002,2003.
@@ -11,19 +12,20 @@
 # Terry Chuang <tchuang@redhat.com>, 2009.
 # pingman <pingman@fedoraproject.org>, 2009.
 # Chester Cheng <ccheng@紅帽子>, 2010.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones\n"
+"Project-Id-Version: x \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-28 11:08+1000\n"
-"Last-Translator: Chester Cheng <ccheng@紅帽子>\n"
-"Language-Team: Traditional Chinese <zh_TW@li.org>\n"
+"PO-Revision-Date: 2010-09-28 00:53+0800\n"
+"Last-Translator: root <root@localdomain>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: timezones.h:1
 msgid "Africa/Abidjan"
@@ -430,14 +432,13 @@ msgid "Bahia"
 msgstr "巴伊亞"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "美洲/巴伊亞"
+msgstr "美洲/巴伊亞班德拉斯"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "墨西哥中央時間 - 巴伊亞班德拉斯"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -601,8 +602,7 @@ msgstr "美洲/道森克里克"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "山脈標準時間 - 道森克里克以及福聖約翰，英屬哥倫比亞"
 
 #: timezones.h:171
@@ -943,8 +943,7 @@ msgstr "美洲/馬塔莫羅斯"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr "美國中央時間 - 科阿韋拉、杜蘭哥、新萊昂、塔毛利帕斯，近美國邊界"
 
 #: timezones.h:275
@@ -1006,9 +1005,7 @@ msgstr "美洲/蒙特瑞"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:294
-msgid ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
+msgid "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border"
 msgstr "墨西哥中央時間 - 科阿韋拉、杜蘭哥、新萊昂、塔毛利帕斯，離美國邊界較遠"
 
 #: timezones.h:295
@@ -1047,8 +1044,7 @@ msgstr "美洲/尼埤崗"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "東部時間 - 安大略與魁北克 - 未遵照 DST 1967-1973 的地區"
 
 #: timezones.h:307
@@ -2908,15 +2904,13 @@ msgid "Chatham Islands"
 msgstr "查塔姆群島"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
 msgstr "太平洋/楚克"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "特魯克與雅浦島"
+msgstr "楚克（特魯克）與雅浦島"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3069,15 +3063,13 @@ msgid "Pacific/Pitcairn"
 msgstr "太平洋/皮特凱恩"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "太平洋/波那佩"
+msgstr "太平洋/澎貝島"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "波納佩島（Pohnpei）"
+msgstr "澎貝島（波納佩島）"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
