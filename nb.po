@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: timezones 3.0.13\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-08-30 17:41+0200\n"
+"PO-Revision-Date: 2010-10-08 12:25+0200\n"
 "Last-Translator: Kjartan Maraas <kmaraas@broadpark.no>\n"
 "Language-Team: Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -304,7 +304,7 @@ msgstr "Amerika/Argentina/Cordoba"
 #. comment for time zone America/Argentina/Cordoba
 #: timezones.h:80
 msgid "most locations (CB, CC, CN, ER, FM, MN, SE, SF)"
-msgstr ""
+msgstr "de fleste lokasjoner (CB, CC, CN, ER, FM, MN, SE, SF)"
 
 #: timezones.h:81
 msgid "America/Argentina/Jujuy"
@@ -424,7 +424,7 @@ msgstr "Amerika/Bahia_Banderas"
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Meksikansk sentraltid - Bahia de Banderas"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -450,7 +450,7 @@ msgstr "Amerika/Blanc-Sablon"
 #. comment for time zone America/Blanc-Sablon
 #: timezones.h:127
 msgid "Atlantic Standard Time - Quebec - Lower North Shore"
-msgstr ""
+msgstr "Atlantisk standardtid - Quebec - nedre nordlige kyst"
 
 #: timezones.h:128
 msgid "America/Boa_Vista"
@@ -494,7 +494,7 @@ msgstr "Amerika/Campo_Grande"
 #. comment for time zone America/Campo_Grande
 #: timezones.h:141
 msgid "Mato Grosso do Sul"
-msgstr ""
+msgstr "Mato Grosso do Sul"
 
 #: timezones.h:142
 msgid "America/Cancun"
@@ -503,7 +503,7 @@ msgstr "Amerika/Cancun"
 #. comment for time zone America/Cancun
 #: timezones.h:144
 msgid "Central Time - Quintana Roo"
-msgstr ""
+msgstr "Sentraltid - Quintana Roo"
 
 #: timezones.h:145
 msgid "America/Caracas"
@@ -580,7 +580,7 @@ msgstr "Amerika/Dawson"
 #. comment for time zone America/Dawson
 #: timezones.h:167
 msgid "Pacific Time - north Yukon"
-msgstr ""
+msgstr "Stillehavstid - nordre Yukon"
 
 #: timezones.h:168
 msgid "America/Dawson_Creek"
@@ -608,7 +608,7 @@ msgstr "Amerika/Detroit"
 #. comment for time zone America/Detroit
 #: timezones.h:176
 msgid "Eastern Time - Michigan - most locations"
-msgstr ""
+msgstr "Østlig tid - Michigan - de fleste lokasjoner"
 
 #: timezones.h:177
 msgid "America/Dominica"
@@ -647,7 +647,7 @@ msgstr "Amerika/Fortaleza"
 #. comment for time zone America/Fortaleza
 #: timezones.h:188
 msgid "NE Brazil (MA, PI, CE, RN, PB)"
-msgstr ""
+msgstr "noen "
 
 #: timezones.h:189
 msgid "America/Fort_Wayne"
@@ -747,7 +747,7 @@ msgstr "Amerika/Indiana/Indianapolis"
 #. comment for time zone America/Indiana/Indianapolis
 #: timezones.h:216
 msgid "Eastern Time - Indiana - most locations"
-msgstr ""
+msgstr "Østlig tid - Indiana - de fleste lokasjoner"
 
 #: timezones.h:217
 msgid "America/Indiana/Knox"
@@ -756,7 +756,7 @@ msgstr "Amerika/Indiana/Knox"
 #. comment for time zone America/Indiana/Knox
 #: timezones.h:219
 msgid "Central Time - Indiana - Starke County"
-msgstr ""
+msgstr "Sentraltid - Indiana - Starke fylke"
 
 #: timezones.h:220
 msgid "America/Indiana/Marengo"
@@ -1150,7 +1150,7 @@ msgstr "Amerika/Rankin_Inlet"
 #. comment for time zone America/Rankin_Inlet
 #: timezones.h:342
 msgid "Central Time - central Nunavut"
-msgstr ""
+msgstr "Sentraltid - sentrale Nunavut"
 
 #: timezones.h:343
 msgid "America/Recife"
