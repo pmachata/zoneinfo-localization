@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-20 19:36+0200\n"
+"PO-Revision-Date: 2010-10-10 13:33+0200\n"
 "Last-Translator: Ondrej Šulek <feonsu@gmail.com>\n"
 "Language-Team: Slovak <fedora-trans-sk@redhat.com>\n"
-"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"Language: sk\n"
+"X-Generator: Lokalize 1.1\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: timezones.h:1
@@ -426,14 +426,13 @@ msgid "Bahia"
 msgstr "Bahia"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "Amerika/Bahia"
+msgstr "Amerika/Bahia de Banderas"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Mexický centrálny čas - Bahia de Banderas"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -1053,8 +1052,8 @@ msgstr "Amerika/Nipigon"
 msgid ""
 "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
-"Východný čas - Ontário a Quebec - miesta bez zmeny DST času v rokoch "
-"1967-1973"
+"Východný čas - Ontário a Quebec - miesta bez zmeny DST času v rokoch 1967-"
+"1973"
 
 #: timezones.h:307
 msgid "America/Nome"
@@ -2913,15 +2912,13 @@ msgid "Chatham Islands"
 msgstr "Chathamské ostrovy"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Pacifik/Truk"
+msgstr "Pacifik/Chuuk"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "Truk (Chuuk) a Yap"
+msgstr "Chuuk (Truk) a Yap"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3074,15 +3071,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Pacifik/Pitcairn"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "Pacifik/Ponape"
+msgstr "Pacifik/Pohnpei"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "Ponape (Pohnpei)"
+msgstr "Pohnpei (Ponape)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
