@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: timezones.tip.ast\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-05-31 22:23+0100\n"
-"Last-Translator: astur <malditoastur@gmail.com>\n"
+"PO-Revision-Date: 2010-10-13 17:28+0100\n"
+"Last-Translator: Iñigo Varela <ivarela@softastur.org>\n"
 "Language-Team: Asturian <alministradores@softastur.org>\n"
-"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ast\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: asturian\n"
@@ -425,14 +425,13 @@ msgid "Bahia"
 msgstr "Bahia"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "América/Bahia"
+msgstr "América/Bahia_Banderas"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "Mexican Central Time - Bahia de Banderas"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -596,10 +595,8 @@ msgstr "América/Dawson_Creek"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgstr "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 
 #: timezones.h:171
 msgid "America/Denver"
@@ -669,8 +666,7 @@ msgstr "América/Glace_Bay"
 #. comment for time zone America/Glace_Bay
 #: timezones.h:192
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr ""
-"Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
+msgstr "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
 
 #: timezones.h:193
 msgid "America/Godthab"
@@ -683,8 +679,13 @@ msgstr "América/Godthab"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:195 timezones.h:364 timezones.h:453 timezones.h:591
-#: timezones.h:754 timezones.h:852 timezones.h:894
+#: timezones.h:195
+#: timezones.h:364
+#: timezones.h:453
+#: timezones.h:591
+#: timezones.h:754
+#: timezones.h:852
+#: timezones.h:894
 msgid "most locations"
 msgstr "most locations"
 
@@ -720,7 +721,9 @@ msgstr "América/Guayaquil"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:205 timezones.h:757 timezones.h:763
+#: timezones.h:205
+#: timezones.h:757
+#: timezones.h:763
 msgid "mainland"
 msgstr "mainland"
 
@@ -940,10 +943,8 @@ msgstr "América/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 
 #: timezones.h:275
 msgid "America/Mazatlan"
@@ -965,8 +966,7 @@ msgstr "América/Menominee"
 #. comment for time zone America/Menominee
 #: timezones.h:281
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr ""
-"Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
+msgstr "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
 
 #: timezones.h:282
 msgid "America/Merida"
@@ -1005,12 +1005,8 @@ msgstr "América/Monterréi"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:294
-msgid ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
-msgstr ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
+msgid "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border"
+msgstr "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border"
 
 #: timezones.h:295
 msgid "America/Montevideo"
@@ -1048,10 +1044,8 @@ msgstr "América/Nipigon"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgstr "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 
 #: timezones.h:307
 msgid "America/Nome"
@@ -2836,7 +2830,8 @@ msgid "Japan"
 msgstr "Xapón"
 
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:835 timezones.h:891
+#: timezones.h:835
+#: timezones.h:891
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
@@ -2910,15 +2905,13 @@ msgid "Chatham Islands"
 msgstr "Chatham Islands"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Pacíficu/Truk"
+msgstr "Pacíficu/Chuuk"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "Truk (Chuuk) and Yap"
+msgstr "Chuuk (Truk) and Yap"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3071,15 +3064,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Pacíficu/Pitcairn"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "Pacíficu/Ponape"
+msgstr "Pacíficu/Pohnpei"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "Ponape (Pohnpei)"
+msgstr "Pohnpei (Ponape)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3254,6 +3245,6 @@ msgstr "Zulú"
 
 #~ msgid "US/Pacific-New"
 #~ msgstr "EEXX/Nuevu Pacíficu"
-
 #~ msgid "zone.tab"
 #~ msgstr "zone.tab"
+
