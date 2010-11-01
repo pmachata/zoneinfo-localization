@@ -3,16 +3,16 @@
 # Egemen Metin Turan <mturan@aegee-ankara.org>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: tr\n"
+"Project-Id-Version: system-config-date-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2007-01-25 15:44+0200\n"
-"Last-Translator: Egemen Metin Turan <mturan@aegee-ankara.org>\n"
-"Language-Team: Turkish <fedora-trans-tr@redhat.com>\n"
-"Language: tr\n"
+"PO-Revision-Date: 2010-11-01 10:58+0200\n"
+"Last-Translator: Hasan Alp iNAN <hasanalpinan@gmail.com>\n"
+"Language-Team: Turkish <none>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
 "X-Generator: KBabel 1.11.4\n"
 
 #: timezones.h:1
@@ -32,9 +32,8 @@ msgid "Africa/Algiers"
 msgstr "Afrika/Cezayir"
 
 #: timezones.h:5
-#, fuzzy
 msgid "Africa/Asmara"
-msgstr "Afrika/Asmera"
+msgstr "Afrika/Asmara"
 
 #: timezones.h:6
 msgid "Africa/Asmera"
@@ -249,9 +248,8 @@ msgstr "Amerika/Adak"
 
 #. comment for time zone America/Adak
 #: timezones.h:62
-#, fuzzy
 msgid "Aleutian Islands"
-msgstr "Avustralya/Queensland"
+msgstr "Aleutian Adaları"
 
 #: timezones.h:63
 msgid "America/Anchorage"
@@ -259,9 +257,8 @@ msgstr "Amerika/Anchorage"
 
 #. comment for time zone America/Anchorage
 #: timezones.h:65
-#, fuzzy
 msgid "Alaska Time"
-msgstr "ABD/Alaska"
+msgstr "Alaska Zamanı"
 
 #: timezones.h:66
 msgid "America/Anguilla"
@@ -287,7 +284,7 @@ msgstr "Amerika/Arjantin/Buenos_Aires"
 #. comment for time zone America/Argentina/Buenos_Aires
 #: timezones.h:73
 msgid "Buenos Aires (BA, CF)"
-msgstr ""
+msgstr "Buenos Aires (BA, CF)"
 
 #: timezones.h:74
 msgid "America/Argentina/Catamarca"
@@ -318,7 +315,7 @@ msgstr "Amerika/Arjantin/Jujuy"
 #. comment for time zone America/Argentina/Jujuy
 #: timezones.h:83
 msgid "Jujuy (JY)"
-msgstr ""
+msgstr "Jujuy (JY)"
 
 #: timezones.h:84
 msgid "America/Argentina/La_Rioja"
@@ -348,14 +345,13 @@ msgid "Santa Cruz (SC)"
 msgstr ""
 
 #: timezones.h:93
-#, fuzzy
 msgid "America/Argentina/Salta"
-msgstr "Amerika/Arjantin/San_Juan"
+msgstr "Amerika/Arjantin/Salta"
 
 #. comment for time zone America/Argentina/Salta
 #: timezones.h:95
 msgid "(SA, LP, NQ, RN)"
-msgstr ""
+msgstr "(SA, LP, NQ, RN)"
 
 #: timezones.h:96
 msgid "America/Argentina/San_Juan"
@@ -364,17 +360,16 @@ msgstr "Amerika/Arjantin/San_Juan"
 #. comment for time zone America/Argentina/San_Juan
 #: timezones.h:98
 msgid "San Juan (SJ)"
-msgstr ""
+msgstr "San Juan (SJ)"
 
 #: timezones.h:99
-#, fuzzy
 msgid "America/Argentina/San_Luis"
-msgstr "Amerika/Arjantin/San_Juan"
+msgstr "Amerika/Arjantin/San_Luis"
 
 #. comment for time zone America/Argentina/San_Luis
 #: timezones.h:101
 msgid "San Luis (SL)"
-msgstr ""
+msgstr "San Luis (SL)"
 
 #: timezones.h:102
 msgid "America/Argentina/Tucuman"
@@ -425,9 +420,8 @@ msgid "Bahia"
 msgstr ""
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "Amerika/Bahia"
+msgstr "Amerika/Bahia_Banderas"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
@@ -589,7 +583,7 @@ msgstr "Amerika/Dawson"
 #. comment for time zone America/Dawson
 #: timezones.h:167
 msgid "Pacific Time - north Yukon"
-msgstr ""
+msgstr "Pasifik Zamanı - Kuzey Yukon"
 
 #: timezones.h:168
 msgid "America/Dawson_Creek"
@@ -597,8 +591,7 @@ msgstr "Amerika/Dawson_Creek"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr ""
 
 #: timezones.h:171
@@ -683,8 +676,13 @@ msgstr "Amerika/Godthab"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:195 timezones.h:364 timezones.h:453 timezones.h:591
-#: timezones.h:754 timezones.h:852 timezones.h:894
+#: timezones.h:195
+#: timezones.h:364
+#: timezones.h:453
+#: timezones.h:591
+#: timezones.h:754
+#: timezones.h:852
+#: timezones.h:894
 msgid "most locations"
 msgstr ""
 
@@ -720,7 +718,9 @@ msgstr "Amerika/Guayaquil"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:205 timezones.h:757 timezones.h:763
+#: timezones.h:205
+#: timezones.h:757
+#: timezones.h:763
 msgid "mainland"
 msgstr ""
 
@@ -791,9 +791,8 @@ msgid "America/Indianapolis"
 msgstr "Amerika/Indianapolis"
 
 #: timezones.h:227
-#, fuzzy
 msgid "America/Indiana/Tell_City"
-msgstr "Amerika/Indiana/Vevay"
+msgstr "Amerika/Indiana/Tell_City"
 
 #. comment for time zone America/Indiana/Tell_City
 #: timezones.h:229
@@ -819,9 +818,8 @@ msgid "Eastern Time - Indiana - Daviess, Dubois, Knox & Martin Counties"
 msgstr ""
 
 #: timezones.h:236
-#, fuzzy
 msgid "America/Indiana/Winamac"
-msgstr "Amerika/Indiana/Vincennes"
+msgstr "Amerika/Indiana/Winamac"
 
 #. comment for time zone America/Indiana/Winamac
 #: timezones.h:238
@@ -869,9 +867,8 @@ msgstr "Amerika/Kentucy/Louisville"
 
 #. comment for time zone America/Kentucky/Louisville
 #: timezones.h:252
-#, fuzzy
 msgid "Eastern Time - Kentucky - Louisville area"
-msgstr "Amerika/Kentucy/Louisville"
+msgstr "Doğu Zamanı - Kentucky - Louisville bölgesi"
 
 #: timezones.h:253
 msgid "America/Kentucky/Monticello"
@@ -900,9 +897,8 @@ msgstr "Amerika/Los_Angeles"
 
 #. comment for time zone America/Los_Angeles
 #: timezones.h:261
-#, fuzzy
 msgid "Pacific Time"
-msgstr "Pasifik/Niue"
+msgstr "Pasifik Zamanı"
 
 #: timezones.h:262
 msgid "America/Louisville"
@@ -931,23 +927,20 @@ msgid "E Amazonas"
 msgstr ""
 
 #: timezones.h:270
-#, fuzzy
 msgid "America/Marigot"
-msgstr "Amerika/Maceio"
+msgstr "Amerika/Marigot"
 
 #: timezones.h:271
 msgid "America/Martinique"
 msgstr "Amerika/Martinik"
 
 #: timezones.h:272
-#, fuzzy
 msgid "America/Matamoros"
-msgstr "Amerika/Manaus"
+msgstr "Amerika/Matamoros"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr ""
 
 #: timezones.h:275
@@ -1009,9 +1002,7 @@ msgstr "Amerika/Montserrat"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:294
-msgid ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
+msgid "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border"
 msgstr ""
 
 #: timezones.h:295
@@ -1041,9 +1032,8 @@ msgstr "Amerika/New_York"
 
 #. comment for time zone America/New_York
 #: timezones.h:303
-#, fuzzy
 msgid "Eastern Time"
-msgstr "ABD/Doğu"
+msgstr "Doğu Zamanı"
 
 #: timezones.h:304
 msgid "America/Nipigon"
@@ -1051,8 +1041,7 @@ msgstr "Amerika/Nipigon"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
 
 #: timezones.h:307
@@ -1070,9 +1059,8 @@ msgstr "Amerika/Noronha"
 
 #. comment for time zone America/Noronha
 #: timezones.h:312
-#, fuzzy
 msgid "Atlantic islands"
-msgstr "Atlantik/Kanarya"
+msgstr "Atlantik adaları"
 
 #: timezones.h:313
 msgid "America/North_Dakota/Center"
@@ -1093,9 +1081,8 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr ""
 
 #: timezones.h:319
-#, fuzzy
 msgid "America/Ojinaga"
-msgstr "Amerika/Managua"
+msgstr "Amerika/Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:321
@@ -1190,9 +1177,8 @@ msgid "Central Standard Time - Saskatchewan - most locations"
 msgstr ""
 
 #: timezones.h:349
-#, fuzzy
 msgid "America/Resolute"
-msgstr "Amerika/Belem"
+msgstr "Amerika/Resolute"
 
 #. comment for time zone America/Resolute
 #: timezones.h:351
@@ -1213,9 +1199,8 @@ msgid "America/Rosario"
 msgstr "Amerika/Rosario"
 
 #: timezones.h:356
-#, fuzzy
 msgid "America/Santa_Isabel"
-msgstr "Amerika/Santiago"
+msgstr "Amerika/Santa_Isabel"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:358
@@ -1223,9 +1208,8 @@ msgid "Mexican Pacific Time - Baja California away from US border"
 msgstr ""
 
 #: timezones.h:359
-#, fuzzy
 msgid "America/Santarem"
-msgstr "Amerika/Santiago"
+msgstr "Amerika/Santarem"
 
 #. comment for time zone America/Santarem
 #: timezones.h:361
@@ -1268,9 +1252,8 @@ msgid "Mountain Time - Navajo"
 msgstr ""
 
 #: timezones.h:375
-#, fuzzy
 msgid "America/St_Barthelemy"
-msgstr "Amerika/Belem"
+msgstr "Amerika/St_Barthelemy"
 
 #: timezones.h:376
 msgid "America/St_Johns"
@@ -1427,9 +1410,8 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr ""
 
 #: timezones.h:425
-#, fuzzy
 msgid "Antarctica/Macquarie"
-msgstr "Antartika/McMurdo"
+msgstr "Antartika/Macquarie"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:427
@@ -1522,7 +1504,7 @@ msgstr "Asya/Anadyr"
 #. comment for time zone Asia/Anadyr
 #: timezones.h:457
 msgid "Moscow+08 - Bering Sea"
-msgstr ""
+msgstr "Moskova+08 - Bering Denizi"
 
 #: timezones.h:458
 msgid "Asia/Aqtau"
@@ -1646,9 +1628,8 @@ msgid "Heilongjiang (except Mohe), Jilin"
 msgstr ""
 
 #: timezones.h:492
-#, fuzzy
 msgid "Asia/Ho_Chi_Minh"
-msgstr "Asya/Chngqking"
+msgstr "Asya/Ho_Chi_Minh"
 
 #: timezones.h:493
 msgid "Asia/Hong_Kong"
@@ -1670,7 +1651,7 @@ msgstr "Asya/Irkutsk"
 #. comment for time zone Asia/Irkutsk
 #: timezones.h:499
 msgid "Moscow+05 - Lake Baikal"
-msgstr ""
+msgstr "Moskova+05 - Baykal Gölü"
 
 #: timezones.h:500
 msgid "Asia/Istanbul"
@@ -1709,7 +1690,7 @@ msgstr "Asya/Kamçatka"
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:511
 msgid "Moscow+08 - Kamchatka"
-msgstr ""
+msgstr "Moskova+08 - Kamchatka"
 
 #: timezones.h:512
 msgid "Asia/Karachi"
@@ -1722,10 +1703,9 @@ msgstr "Asya/Kaşgar"
 #. comment for time zone Asia/Kashgar
 #: timezones.h:515
 msgid "west Tibet & Xinjiang"
-msgstr ""
+msgstr "batı Tibet & Xinjiang"
 
 #: timezones.h:516
-#, fuzzy
 msgid "Asia/Kathmandu"
 msgstr "Asya/Katmandu"
 
@@ -1734,9 +1714,8 @@ msgid "Asia/Katmandu"
 msgstr "Asya/Katmandu"
 
 #: timezones.h:518
-#, fuzzy
 msgid "Asia/Kolkata"
-msgstr "Asya/Jakarta"
+msgstr "Asya/Kalküta"
 
 #: timezones.h:519
 msgid "Asia/Krasnoyarsk"
@@ -1745,7 +1724,7 @@ msgstr "Asya/Krasnoyarsk"
 #. comment for time zone Asia/Krasnoyarsk
 #: timezones.h:521
 msgid "Moscow+04 - Yenisei River"
-msgstr ""
+msgstr "Moskova+04 - Yenisey Nehri"
 
 #: timezones.h:522
 msgid "Asia/Kuala_Lumpur"
@@ -1784,7 +1763,7 @@ msgstr "Asya/Magadan"
 #. comment for time zone Asia/Magadan
 #: timezones.h:533
 msgid "Moscow+08 - Magadan"
-msgstr ""
+msgstr "Moskova+08 - Magadan"
 
 #: timezones.h:534
 msgid "Asia/Makassar"
@@ -1808,15 +1787,13 @@ msgid "Asia/Nicosia"
 msgstr "Asya/Lefkoşa"
 
 #: timezones.h:540
-#, fuzzy
 msgid "Asia/Novokuznetsk"
-msgstr "Asya/Irkutsk"
+msgstr "Asya/Novokuznetsk"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:542
-#, fuzzy
 msgid "Moscow+03 - Novokuznetsk"
-msgstr "Asya/Novosibirsk"
+msgstr "Moskova+03 - Novokuznetsk"
 
 #: timezones.h:543
 msgid "Asia/Novosibirsk"
@@ -1824,9 +1801,8 @@ msgstr "Asya/Novosibirsk"
 
 #. comment for time zone Asia/Novosibirsk
 #: timezones.h:545
-#, fuzzy
 msgid "Moscow+03 - Novosibirsk"
-msgstr "Asya/Novosibirsk"
+msgstr "Moskova+03 - Novosibirsk"
 
 #: timezones.h:546
 msgid "Asia/Omsk"
@@ -1835,7 +1811,7 @@ msgstr "Asya/Omsk"
 #. comment for time zone Asia/Omsk
 #: timezones.h:548
 msgid "Moscow+03 - west Siberia"
-msgstr ""
+msgstr "Moskova+03 - batı Sibirya"
 
 #: timezones.h:549
 msgid "Asia/Oral"
@@ -1844,7 +1820,7 @@ msgstr "Asya/Oral"
 #. comment for time zone Asia/Oral
 #: timezones.h:551
 msgid "West Kazakhstan"
-msgstr ""
+msgstr "Batı Kazakistan"
 
 #: timezones.h:552
 msgid "Asia/Phnom_Penh"
@@ -1907,7 +1883,7 @@ msgstr "Asya/Sakhalin"
 #. comment for time zone Asia/Sakhalin
 #: timezones.h:569
 msgid "Moscow+07 - Sakhalin Island"
-msgstr ""
+msgstr "Moskova+07 - Sakhalin Adası"
 
 #: timezones.h:570
 msgid "Asia/Samarkand"
@@ -1946,7 +1922,7 @@ msgstr "Asya/Taşkent"
 #. comment for time zone Asia/Tashkent
 #: timezones.h:581
 msgid "east Uzbekistan"
-msgstr ""
+msgstr "doğu Özbekistan"
 
 #: timezones.h:582
 msgid "Asia/Tbilisi"
@@ -2004,7 +1980,7 @@ msgstr "Asya/Vladivostok"
 #. comment for time zone Asia/Vladivostok
 #: timezones.h:599
 msgid "Moscow+07 - Amur River"
-msgstr ""
+msgstr "Moskova+07 - Amur Nehri"
 
 #: timezones.h:600
 msgid "Asia/Yakutsk"
@@ -2013,7 +1989,7 @@ msgstr "Asya/Yakutsk"
 #. comment for time zone Asia/Yakutsk
 #: timezones.h:602
 msgid "Moscow+06 - Lena River"
-msgstr ""
+msgstr "Moskova+06 - Lena Nehri"
 
 #: timezones.h:603
 msgid "Asia/Yekaterinburg"
@@ -2022,7 +1998,7 @@ msgstr "Asya/Yekaterinburg"
 #. comment for time zone Asia/Yekaterinburg
 #: timezones.h:605
 msgid "Moscow+02 - Urals"
-msgstr ""
+msgstr "Moskova+02 - Urallar"
 
 #: timezones.h:606
 msgid "Asia/Yerevan"
@@ -2059,7 +2035,6 @@ msgid "Atlantic/Faeroe"
 msgstr "Atlantik/Faroe"
 
 #: timezones.h:616
-#, fuzzy
 msgid "Atlantic/Faroe"
 msgstr "Atlantik/Faroe"
 
@@ -2102,9 +2077,8 @@ msgstr "Avustralya/Adelaide"
 
 #. comment for time zone Australia/Adelaide
 #: timezones.h:628
-#, fuzzy
 msgid "South Australia"
-msgstr "Avustralya/ACT"
+msgstr "Güney Avustralya"
 
 #: timezones.h:629
 msgid "Australia/Brisbane"
@@ -2147,15 +2121,13 @@ msgid "Northern Territory"
 msgstr ""
 
 #: timezones.h:642
-#, fuzzy
 msgid "Australia/Eucla"
-msgstr "Avustralya/Queensland"
+msgstr "Avustralya/Eucla"
 
 #. comment for time zone Australia/Eucla
 #: timezones.h:644
-#, fuzzy
 msgid "Western Australia - Eucla area"
-msgstr "Avustralya/Queensland"
+msgstr "Batı Avustralya - Eucla bölgesi"
 
 #: timezones.h:645
 msgid "Australia/Hobart"
@@ -2194,9 +2166,8 @@ msgstr "Avustralya/Melbourne"
 
 #. comment for time zone Australia/Melbourne
 #: timezones.h:657
-#, fuzzy
 msgid "Victoria"
-msgstr "Avustralya/Victoria"
+msgstr "Viktoria"
 
 #: timezones.h:658
 msgid "Australia/North"
@@ -2563,7 +2534,7 @@ msgstr "Avrupa/Kaliningrad"
 #. comment for time zone Europe/Kaliningrad
 #: timezones.h:751
 msgid "Moscow-01 - Kaliningrad"
-msgstr ""
+msgstr "Moskova-01 - Kaliningrad"
 
 #: timezones.h:752
 msgid "Europe/Kiev"
@@ -2612,7 +2583,7 @@ msgstr "Avrupa/Moskova"
 #. comment for time zone Europe/Moscow
 #: timezones.h:770
 msgid "Moscow+00 - west Russia"
-msgstr ""
+msgstr "Moskova+00 - batı Rusya"
 
 #: timezones.h:771
 msgid "Europe/Nicosia"
@@ -2649,7 +2620,7 @@ msgstr "Avrupa/Samara"
 #. comment for time zone Europe/Samara
 #: timezones.h:780
 msgid "Moscow - Samara, Udmurtia"
-msgstr ""
+msgstr "Moskova - Samara, Udmurtia"
 
 #: timezones.h:781
 msgid "Europe/San_Marino"
@@ -2724,7 +2695,7 @@ msgstr "Avrupa/Volgograd"
 #. comment for time zone Europe/Volgograd
 #: timezones.h:801
 msgid "Moscow+00 - Caspian Sea"
-msgstr ""
+msgstr "Moskova+00 - Hazar Denizi"
 
 #: timezones.h:802
 msgid "Europe/Warsaw"
@@ -2841,7 +2812,7 @@ msgstr "İran"
 
 #: timezones.h:831
 msgid "iso3166.tab"
-msgstr ""
+msgstr "iso3166.tab"
 
 #: timezones.h:832
 msgid "Israel"
@@ -2856,7 +2827,8 @@ msgid "Japan"
 msgstr "Japonya"
 
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:835 timezones.h:891
+#: timezones.h:835
+#: timezones.h:891
 msgid "Kwajalein"
 msgstr "Kwajalein"
 
@@ -2931,9 +2903,8 @@ msgid "Chatham Islands"
 msgstr "Şili/EasterAdaları"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "Pasifik/Truk"
+msgstr "Pasifik/Chuuk"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
@@ -2941,7 +2912,6 @@ msgid "Chuuk (Truk) and Yap"
 msgstr ""
 
 #: timezones.h:859
-#, fuzzy
 msgid "Pacific/Easter"
 msgstr "Pasifik/Easter"
 
@@ -2982,7 +2952,7 @@ msgstr "Pasifik/Galapagos"
 #. comment for time zone Pacific/Galapagos
 #: timezones.h:871
 msgid "Galapagos Islands"
-msgstr ""
+msgstr "Galapagos Adaları"
 
 #: timezones.h:872
 msgid "Pacific/Gambier"
@@ -3007,9 +2977,8 @@ msgstr "Pasifik/Honolulu"
 
 #. comment for time zone Pacific/Honolulu
 #: timezones.h:879
-#, fuzzy
 msgid "Hawaii"
-msgstr "ABD/Hawaii"
+msgstr "Hawaii"
 
 #: timezones.h:880
 msgid "Pacific/Johnston"
@@ -3035,9 +3004,8 @@ msgstr "Pasifik/Kosrae"
 
 #. comment for time zone Pacific/Kosrae
 #: timezones.h:888
-#, fuzzy
 msgid "Kosrae"
-msgstr "İsrail"
+msgstr "Kosrae"
 
 #: timezones.h:889
 msgid "Pacific/Kwajalein"
@@ -3094,14 +3062,13 @@ msgid "Pacific/Pitcairn"
 msgstr "Pasifik/Pitcairn"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "Pasifik/Ponape"
+msgstr "Pasifik/Pohnpei"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
 msgid "Pohnpei (Ponape)"
-msgstr ""
+msgstr "Pohnpei (Ponape)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
