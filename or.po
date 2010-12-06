@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: or\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-27 08:42+0530\n"
-"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"PO-Revision-Date: 2010-12-06 15:28+0530\n"
+"Last-Translator: \n"
 "Language-Team: Oriya <Translation-team-or@lists.sourceforge.net>\n"
-"Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: or\n"
+"X-Generator: Lokalize 1.1\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
@@ -434,14 +434,13 @@ msgid "Bahia"
 msgstr "ବାହିଆ"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "ଆମେରିକା/ବିସ୍ତା"
+msgstr "ଆମେରିକା/ବାହିଆ_ବାନ୍ଦେରାସ"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "ମେକ୍ସିକାନ ମଧ୍ଯ ସମୟ - ବାହିଆ ଦେ ବାନ୍ଦେରାସ"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -605,8 +604,7 @@ msgstr "ଆମେରିକା/ଡାଓଶନ_କ୍ରୀକ"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "ପର୍ବତୀୟ ମାନକ ସମୟ - ଡାଉସନ କ୍ରୀକ ଏବଂ ସେଣ୍ଟ ଜୋନ ଦୁର୍ଗ, ବ୍ରିଟିଶ କୋଲମ୍ବିୟା"
 
 #: timezones.h:171
@@ -947,8 +945,7 @@ msgstr "ଆମେରିକା/ମେଟାମୋରୋସ"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr "US କେନ୍ଦ୍ରୀୟ ସମୟ - କୋହୁଲା, ଦୁରାଙ୍ଗୋ, ନ୍ଯୁଭୋ ଲିଓନ, US ସୀମା ନିକଟବର୍ତ୍ତୀ ତାମାଓଲିପାସ"
 
 #: timezones.h:275
@@ -1052,8 +1049,7 @@ msgstr "ଆମେରିକା/ନିପୀଗନ"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ପୂର୍ବୀ ସମୟ - ଓଣ୍ଟାରିୟୋ ଏବଂ କ୍ଯୁବେକ - ଅଞ୍ଚଳ ଯେଉଁ ଗୁଡିକ DST 1967-1973 କୁ ଦେଖନ୍ତି ନାହିଁ"
 
 #: timezones.h:307
@@ -2913,15 +2909,13 @@ msgid "Chatham Islands"
 msgstr "ଚାଥାମ ଦ୍ବୀପ"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "ପେସୀଫିକ/ତ୍ରୁକ"
+msgstr "ପେସୀଫିକ/ଚୁକ"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "ତୁର୍କ (ଚୁକ) ଏବଂ ୟାପ"
+msgstr "ଚୁକ (ତ୍ରୁକ) ଏବଂ ୟାପ"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3074,13 +3068,11 @@ msgid "Pacific/Pitcairn"
 msgstr "ପେସୀଫିକ/ପିଟକେରୀନ"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
 msgstr "ପେସୀଫିକ/ପୋନପେ"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
 msgstr "ପୋନାପେ (ପୋହନାପୀ)"
 
@@ -3254,3 +3246,5 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "ଜୁଲୁ"
+
+
