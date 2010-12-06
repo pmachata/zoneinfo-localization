@@ -13,13 +13,13 @@ msgstr ""
 "Project-Id-Version: mr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-04-27 12:05+0530\n"
+"PO-Revision-Date: 2010-12-06 16:21+0530\n"
 "Last-Translator: Sandeep Shedmake <sshedmak@redhat.com>\n"
-"Language-Team: Marathi <maajhe-sanganak@freelists.org>\n"
-"Language: mr\n"
+"Language-Team: Marathi <fedora-trans-mr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: mr\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
@@ -428,14 +428,13 @@ msgid "Bahia"
 msgstr "बहीआ"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "अमेरिका/बहिया"
+msgstr "अमेरिका/बहिया बंडेरास् (_B)"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "मेक्सिकन सेंट्रल टाईम - बाहिया डे बंडेरास्"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -599,8 +598,7 @@ msgstr "अमेरिका/डॉशन_क्रीक"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "माऊंटन मानक वेळ - दाव्सोन क्रिक & फोर्ट सैंट जॉन, ब्रिटीश कोल्मबीया"
 
 #: timezones.h:171
@@ -941,8 +939,7 @@ msgstr "अमेरिका/मॅटामोरोज्"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr "US सेंट्रल वेळ - कोहुइला, डुरांगो, नुएवो लीओन, तमौलीपास् US बॉर्डर जवळ आहे"
 
 #: timezones.h:275
@@ -1007,8 +1004,7 @@ msgstr "अमेरिका/माँटेर्री"
 msgid ""
 "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
 "US border"
-msgstr ""
-"मेक्सीकन सेंट्रल वेळ - कोहुइला, डुरांगो, नुएवो लीओन, तमौलीपास् US बॉर्डर पासून दूर आहे"
+msgstr "मेक्सीकन सेंट्रल वेळ - कोहुइला, डुरांगो, नुएवो लीओन, तमौलीपास् US बॉर्डर पासून दूर आहे"
 
 #: timezones.h:295
 msgid "America/Montevideo"
@@ -1046,8 +1042,7 @@ msgstr "अमेरिका/निपीगन"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "पूर्वीय वेळ - ओंटारीयो व कुबेक - ठिकाणे जे DST 1967-1973 लागू करत नाही"
 
 #: timezones.h:307
@@ -2907,15 +2902,13 @@ msgid "Chatham Islands"
 msgstr "छाथम द्वीप"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "पॅसीफिक/त्रुक"
+msgstr "पॅसीफिक/छूक"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "ट्रक् (छूक) व यॅप"
+msgstr "छूक (ट्रूक) व यॅप"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3068,15 +3061,13 @@ msgid "Pacific/Pitcairn"
 msgstr "पॅसीफिक/पिटकेरीन"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "पॅसीफिक/पोनापे"
+msgstr "पॅसीफिक/पोन्पै"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "पोन्पे (पोह्नै)"
+msgstr "पोन्पै (पोन्पे)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3248,3 +3239,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "झुलू"
+
