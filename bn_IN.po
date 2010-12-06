@@ -6,19 +6,20 @@
 # Runa Bhattahcarjee <runa@bengalinux.org>, 2004.
 # Runa Bhattacharjee <runab@redhat.com>, 2006, 2009, 2010.
 # Runa Bhattacharjee <runab@fedoraproject.org>, 2008.
+# runa b <runab@test.pnq.redhat.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-28 10:18+0530\n"
+"PO-Revision-Date: 2010-12-06 16:58+0530\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
-"Language-Team: Bengali INDIA <anubad@lists.ankur.org.in>\n"
-"Language: \n"
+"Language-Team: Bengali India <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: \n"
+"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
 "\n"
@@ -429,14 +430,13 @@ msgid "Bahia"
 msgstr "বাহিয়া"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "আমেরিকা/বাহিয়া"
+msgstr "আমেরিকা/বাহিয়া_বান্ডেরাস"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "মেক্সিকান সেন্ট্রাল সময় - বাহিয়া ডে বান্ডেরাস"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -600,8 +600,7 @@ msgstr "আমেরিকা/ডসন_ক্রিক"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "মাউন্টেন স্ট্যান্ডার্ড সময় - ডসন ক্রিক ও ফোর্ট সেন্ট জন, ব্রিটিশ কলাম্বিয়া"
 
 #: timezones.h:171
@@ -947,8 +946,7 @@ msgstr "আমেরিকা/মাটামোরোস"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr ""
 "মার্কিন সেন্ট্রাল সময় - কোয়াহুইলা, ডুরাংগো, নুয়েভো লিওন, টাম্পাউলিপাস (মার্কিন "
 "সীমান্তের কাছে)"
@@ -1055,8 +1053,7 @@ msgstr "আমেরিকা/নিপিগন"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
 "পূর্বীয় সময় - ওন্টারিও ও কিউবেক - ১৯৬৭-১৯৭৩-র মধ্যে দিবালোক সংরক্ষণকারী সময় না "
 "ব্যবহারকারী স্থান"
@@ -2918,15 +2915,13 @@ msgid "Chatham Islands"
 msgstr "চ্যাটহ্যাম দ্বীপপুঞ্জ"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "প্রশান্ত_মহাসাগর/ট্রুক"
+msgstr "প্রশান্ত_মহাসাগর/চুউক"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "ট্রুক (চুক) ও ইয়াপ"
+msgstr "চুউক (ট্রুক) ও ইয়াপ"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3081,15 +3076,13 @@ msgid "Pacific/Pitcairn"
 msgstr "প্রশান্ত_মহাসাগর/পিটকেয়ার্ন"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "প্রশান্ত_মহাসাগর/পোনাপে"
+msgstr "প্রশান্ত_মহাসাগর/পোনপেই"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "পোনাপে (পোনপেই)"
+msgstr " পোনপেই (পোনাপে)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3262,3 +3255,5 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "জুলু"
+
+
