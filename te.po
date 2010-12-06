@@ -12,10 +12,10 @@ msgstr ""
 "PO-Revision-Date: 2010-04-26 13:33+0530\n"
 "Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
 "Language-Team: Telugu <en@li.org>\n"
-"Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: te\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
@@ -427,14 +427,13 @@ msgid "Bahia"
 msgstr "బాహియా"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "అమెరిక/బహియ"
+msgstr "అమెరిక/బహియబాండరాస్ (_B)"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "మెక్సికన్ సెంట్రల్ టైమ్ - బహియా డె బండెరాస్"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -2905,15 +2904,15 @@ msgid "Chatham Islands"
 msgstr "చతమ్ ద్వీపాలు"
 
 #: timezones.h:856
-#, fuzzy
+
 msgid "Pacific/Chuuk"
-msgstr "పస్ఫిక్/ట్రక్"
+msgstr "పస్ఫిక్/చుక్"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
+
 msgid "Chuuk (Truk) and Yap"
-msgstr "ట్రక్ (చుక్) మరియు యప్"
+msgstr "చుక్ (ట్రక్) మరియు యప్"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3066,15 +3065,13 @@ msgid "Pacific/Pitcairn"
 msgstr "పస్ఫిక్/ఫిట్కేరియన్"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "పస్ఫిక్/పోనపే"
+msgstr "పస్ఫిక్/పోనాపే"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "పొనాపె (పాన్‌పై)"
+msgstr "పాన్‌పై (పొనాపె)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
