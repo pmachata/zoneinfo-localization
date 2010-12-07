@@ -11,13 +11,13 @@ msgstr ""
 "Project-Id-Version: system-config-date.master-timezones.ta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-25 16:41+0530\n"
+"PO-Revision-Date: 2010-12-07 11:20+0530\n"
 "Last-Translator: I Felix <ifelix@redhat.com>\n"
 "Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
-"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\\n\n"
 
@@ -426,14 +426,13 @@ msgid "Bahia"
 msgstr "பஹியா"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "அமெரிக்கா/பஹியா"
+msgstr "அமெரிக்கா/பஹியா_பான்டிராஸ்"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "மெக்சிகள் சென்ட்ரல் நேரம் - பாஹியா டி பான்டிராஸ்"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -597,10 +596,8 @@ msgstr "அமெரிக்கா/டாவ்ச்ன்_ஸ்ரீக்"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr ""
-"மவுண்டெய்ன் நிலையான நேரம் - டாவ்சன் கிரீக் & ஃபோர்ட் செயின்ட் ஜான், பிரிட்டீஷ் கொலாம்பியா"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgstr "மவுண்டெய்ன் நிலையான நேரம் - டாவ்சன் கிரீக் & ஃபோர்ட் செயின்ட் ஜான், பிரிட்டீஷ் கொலாம்பியா"
 
 #: timezones.h:171
 msgid "America/Denver"
@@ -683,8 +680,13 @@ msgstr "அமெரிக்கா/காஹாப்"
 #. comment for time zone Europe/Kiev
 #. comment for time zone Pacific/Auckland
 #. comment for time zone Pacific/Majuro
-#: timezones.h:195 timezones.h:364 timezones.h:453 timezones.h:591
-#: timezones.h:754 timezones.h:852 timezones.h:894
+#: timezones.h:195
+#: timezones.h:364
+#: timezones.h:453
+#: timezones.h:591
+#: timezones.h:754
+#: timezones.h:852
+#: timezones.h:894
 msgid "most locations"
 msgstr "நிறைய இடங்கள்"
 
@@ -720,7 +722,9 @@ msgstr "அமெரிக்கா/குயாஃகுயில்"
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
 #. comment for time zone Europe/Madrid
-#: timezones.h:205 timezones.h:757 timezones.h:763
+#: timezones.h:205
+#: timezones.h:757
+#: timezones.h:763
 msgid "mainland"
 msgstr "மையின்லாண்ட்"
 
@@ -940,10 +944,8 @@ msgstr "அமெரிக்கா/மட்டாமோரோஸ்"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
-msgstr ""
-"யுஎஸ் சென்ட்ரல் நேரம் - கோஹுய்லா, துரன்கோ, நியுவோ லியோன், தாமுலிபாஸ் யுஎஸ் எல்லை அருகே"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgstr "யுஎஸ் சென்ட்ரல் நேரம் - கோஹுய்லா, துரன்கோ, நியுவோ லியோன், தாமுலிபாஸ் யுஎஸ் எல்லை அருகே"
 
 #: timezones.h:275
 msgid "America/Mazatlan"
@@ -1004,12 +1006,8 @@ msgstr "அமெரிக்கா/மோந்டெரி"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:294
-msgid ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
-msgstr ""
-"மெக்ஸிகன் சென்ட்ரல் நேரம் - கோஹுய்லா, துரன்கோ, நியுவோ லியோன், தாமுலிபாஸ் யுஎஸ் "
-"எல்லையிலிருந்து வெளியே"
+msgid "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border"
+msgstr "மெக்ஸிகன் சென்ட்ரல் நேரம் - கோஹுய்லா, துரன்கோ, நியுவோ லியோன், தாமுலிபாஸ் யுஎஸ் எல்லையிலிருந்து வெளியே"
 
 #: timezones.h:295
 msgid "America/Montevideo"
@@ -1047,10 +1045,8 @@ msgstr "அமெரிக்கா/நெப்பிக்கிவான்"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
-"கிழக்கத்திய நேரம் -  ஆண்டரியோ & க்யூபெக் - இடங்கள் இதை DST 1967-1973 கவனிக்கவில்லை"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgstr "கிழக்கத்திய நேரம் -  ஆண்டரியோ & க்யூபெக் - இடங்கள் இதை DST 1967-1973 கவனிக்கவில்லை"
 
 #: timezones.h:307
 msgid "America/Nome"
@@ -2835,7 +2831,8 @@ msgid "Japan"
 msgstr "ஜப்பான்"
 
 #. comment for time zone Pacific/Kwajalein
-#: timezones.h:835 timezones.h:891
+#: timezones.h:835
+#: timezones.h:891
 msgid "Kwajalein"
 msgstr "கவாஜலீன்"
 
@@ -2909,15 +2906,13 @@ msgid "Chatham Islands"
 msgstr "சாட்தம் தீவுகள்"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "பசிபிக்/டிரகு"
+msgstr "பசிபிக்/சுய்க்"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "துருக்கி (சுய்க்) மற்றும் யாப்"
+msgstr "சுய்க் (துருக்) மற்றும் யாப்"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3070,15 +3065,13 @@ msgid "Pacific/Pitcairn"
 msgstr "பசிபக்/பிட்கெர்ன்"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
 msgstr "பசிபிக்/புனாப்பி"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "பொனேப் (போன்பெய்)"
+msgstr "போன்பெய் (பொனேப்)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3250,3 +3243,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "சுலு"
+
