@@ -15,13 +15,13 @@ msgstr ""
 "Project-Id-Version: system-config-date.master-timezones\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-15 11:23+1000\n"
+"PO-Revision-Date: 2010-12-07 15:19+1000\n"
 "Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Wei Liu\n"
-"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: KBabel 1.11.4\n"
 
@@ -430,14 +430,13 @@ msgid "Bahia"
 msgstr "巴伊亚"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "美洲/巴伊亚"
+msgstr "美洲/巴伊亚_班德拉斯"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "墨西哥支部时间 - 巴伊亚德班德拉斯 "
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -601,8 +600,7 @@ msgstr "美洲/道森克里克"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "山地标准时间——道生克里克和圣约翰堡，不列颠哥伦比亚"
 
 #: timezones.h:171
@@ -943,8 +941,7 @@ msgstr "美洲/马塔莫罗斯"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr "美国中部时间——靠近美国边境的科阿韦拉，杜兰戈，新莱昂，塔毛利帕斯"
 
 #: timezones.h:275
@@ -1047,8 +1044,7 @@ msgstr "美洲/尼皮贡"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "东部时间——安大略和魁北克——不遵守DST1967——1973的地方"
 
 #: timezones.h:307
@@ -2908,15 +2904,13 @@ msgid "Chatham Islands"
 msgstr "查塔姆群岛"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "太平洋/特鲁克"
+msgstr "太平洋/楚克"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "特鲁克（楚克）和雅普"
+msgstr "楚克（特鲁克）和雅普"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3069,15 +3063,13 @@ msgid "Pacific/Pitcairn"
 msgstr "太平洋/皮特凯恩"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "太平洋/波纳普"
+msgstr "太平洋/波纳佩"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "波纳普（波纳佩）"
+msgstr "波纳佩（波纳佩岛）"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3249,3 +3241,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "祖鲁"
+
