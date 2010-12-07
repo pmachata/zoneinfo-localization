@@ -1,20 +1,21 @@
-# translation of system-config-date.master-timezones.po to Korean
+# translation of system-config-date.master-timezones.ko.po to
 # Michelle J Kim <mkim@redhat.com>, 2004.
 # Michelle Ji Yeen Kim <mkim@redhat.com>, 2006.
 # Eunju Kim <eukim@redhat.com>, 2006, 2008, 2009.
 # Hyunsok Oh<hoh@redhat.com>, 2010.
+# Eun-Ju Kim <eukim@redhat.com>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.master-timezones\n"
+"Project-Id-Version: system-config-date.master-timezones.ko\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-30 10:53+1000\n"
-"Last-Translator: Hyunsok Oh<hoh@redhat.com>\n"
-"Language-Team: Korean <ko@li.org>\n"
-"Language: ko\n"
+"PO-Revision-Date: 2010-12-07 15:24+1000\n"
+"Last-Translator: Eun-Ju Kim <eukim@redhat.com>\n"
+"Language-Team:  <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=1; plural=0;\n"
 "\n"
@@ -417,7 +418,7 @@ msgstr "아메리카/아트카(Atka)"
 
 #: timezones.h:114
 msgid "America/Bahia"
-msgstr "아메리카/바이아(Bahia)"
+msgstr "아메리카/바이아(Bahia) "
 
 #. comment for time zone America/Bahia
 #: timezones.h:116
@@ -425,14 +426,13 @@ msgid "Bahia"
 msgstr "바이아(Bahia) "
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "아메리카/바이아(Bahia)"
+msgstr "아메리카/바이아 반데라스(Bahia_Banderas)  "
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "멕시코 중부 표준시 - 바이아 데 반데라스 "
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -596,10 +596,8 @@ msgstr "아메리카/도슨_크릭(Dawson_Creek)"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr ""
-"산지 표준시 - 도슨 크릭 & 성요한 요새 (Fort Saint John), 브리티시 콜럼비아  "
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgstr "산지 표준시 - 도슨 크릭 & 성요한 요새 (Fort Saint John), 브리티시 콜럼비아  "
 
 #: timezones.h:171
 msgid "America/Denver"
@@ -939,8 +937,7 @@ msgstr "아메리카/마나우스(Manaus)"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr ""
 "미국 중부 표준시 - 미국 국경에서 가까운 코아우일라, 듀랑고, 누에보레온, 타몰"
 "리파스"
@@ -1047,10 +1044,8 @@ msgstr "아메리카/니피곤(Nipigon)"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
-"동부 표준시 - 온타리오 & 퀘벡 - 1967-1973 년에 DST를 실시하지 않은 지역  "
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgstr "동부 표준시 - 온타리오 & 퀘벡 - 1967-1973 년에 DST를 실시하지 않은 지역  "
 
 #: timezones.h:307
 msgid "America/Nome"
@@ -1388,8 +1383,7 @@ msgstr "아메리카/옐로나이프(Yellowknife)"
 #. comment for time zone America/Yellowknife
 #: timezones.h:415
 msgid "Mountain Time - central Northwest Territories"
-msgstr ""
-"산지 표준시 - 노스웨스트 테리토리 중부 (central Northwest Territories)  "
+msgstr "산지 표준시 - 노스웨스트 테리토리 중부 (central Northwest Territories)  "
 
 #: timezones.h:416
 msgid "Antarctica/Casey"
@@ -1416,8 +1410,7 @@ msgstr "남극대륙/드몬두르빌(DumontDUrville)"
 #. comment for time zone Antarctica/DumontDUrville
 #: timezones.h:424
 msgid "Dumont-d'Urville Station, Terre Adelie"
-msgstr ""
-"드몬두르빌 기지 (Dumont-d'Urville Station), 테르 아델리 (Terre Adelie)     "
+msgstr "드몬두르빌 기지 (Dumont-d'Urville Station), 테르 아델리 (Terre Adelie)     "
 
 #: timezones.h:425
 msgid "Antarctica/Macquarie"
@@ -2913,15 +2906,13 @@ msgid "Chatham Islands"
 msgstr "채텀 제도 (Chatham Islands)  "
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "태평양/트루크(Truk)"
+msgstr "태평양/추우크(Chuuk) "
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "트루크 (추우크) 및 얍  "
+msgstr "추우크 (트루크) 및 얍    "
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3074,15 +3065,13 @@ msgid "Pacific/Pitcairn"
 msgstr "태평양/피트케언(Pitcairn)"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "태평양/포나페(Ponape)"
+msgstr "태평양/폰페이(Pohnpei) "
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "포나페 (폰페이)  "
+msgstr "폰페이 (포나페)      "
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3254,3 +3243,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "줄루(Zulu)"
+
