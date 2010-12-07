@@ -4,19 +4,20 @@
 #
 # shankar Prasad <svenkate@redhat.com>, 2006.
 # Shankar Prasad <svenkate@redhat.com>, 2008, 2009, 2010.
+# Savitha, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: system-config-date.master-timezones.kn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
-"PO-Revision-Date: 2010-06-25 18:03+0530\n"
-"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
-"Language-Team: kn_IN <kde-i18n-doc@kde.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2010-12-07 10:52+0530\n"
+"Last-Translator: Savitha\n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"Language: \n"
+"X-Generator: Lokalize 1.1\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 "\n"
 "\n"
@@ -427,14 +428,13 @@ msgid "Bahia"
 msgstr "ಬಹಿಯಾ"
 
 #: timezones.h:117
-#, fuzzy
 msgid "America/Bahia_Banderas"
-msgstr "ಅಮೆರಿಕ/ಬಹಿಯಾ"
+msgstr "ಅಮೆರಿಕ/ಬಹಿಯಾ_ಬಂಡೆರಾಸ್"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
 msgid "Mexican Central Time - Bahia de Banderas"
-msgstr ""
+msgstr "ಮೆಕ್ಸಿಕನ್ ಮಧ್ಯ ಸಮಯ - ಬಹಿಯಾ ಡಿ ಬಂಡೆರಾಸ್"
 
 #: timezones.h:120
 msgid "America/Barbados"
@@ -598,8 +598,7 @@ msgstr "ಅಮೆರಿಕ/ಡಾವ್ಸನ್_ಕ್ರೀಕ್"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
-msgid ""
-"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
+msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
 msgstr "ಪರ್ವತ ಶಿಷ್ಟ ಸಮಯ - ಡಾಸನ್ ಕ್ರೀಕ್ ಹಾಗು ಫೋರ್ಟ್ ಸೇಂಟ್ ಜಾನ್, ಬ್ರಿಟೀಷ್ ಕೊಲಂಬಿಯಾ"
 
 #: timezones.h:171
@@ -940,8 +939,7 @@ msgstr "ಅಮೆರಿಕ/ಮಟಾಮೊರೊಸ್"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
-msgid ""
-"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
+msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border"
 msgstr "ಯುಎಸ್ ಮಧ್ಯ ಸಮಯ - ಯುಎಸ್ ಗಡಿಯ ಸಮೀಪದ ಕೊಹುಯಿಲಾ, ಡುರಾಂಗೊ, ನ್ಯುವೊ ಲಿಯೋನ್, ಟಮೌಲಿಪಾಸ್"
 
 #: timezones.h:275
@@ -1046,8 +1044,7 @@ msgstr "ಅಮೆರಿಕ/ನಿಪಿಗೋನ್"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
-msgid ""
-"Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
+msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr "ಪೂರ್ವ ಸಮಯ - ಒಂಟಾರಿಯೊ ಹಾಗು ಕ್ಯೂಬೆಕ್ - DST 1967-1973 ಯಲ್ಲಿ ಕಾಣಿಸದೆ ಇರುವ"
 
 #: timezones.h:307
@@ -2907,15 +2904,13 @@ msgid "Chatham Islands"
 msgstr "ಚಾತಮ್ ದ್ವೀಪಗಳು"
 
 #: timezones.h:856
-#, fuzzy
 msgid "Pacific/Chuuk"
-msgstr "ಪೆಸಿಫಿಕ್/ಟ್ರಕ್"
+msgstr "ಪೆಸಿಫಿಕ್/ಚೂಕ್"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
-#, fuzzy
 msgid "Chuuk (Truk) and Yap"
-msgstr "ಟ್ರುಕ್ (ಶುಕ್) ಹಾಗು ಯಾಪ್"
+msgstr "ಚೂಕ್ (ಟ್ರಕ್) ಹಾಗು ಯಾಪ್"
 
 #: timezones.h:859
 msgid "Pacific/Easter"
@@ -3068,15 +3063,13 @@ msgid "Pacific/Pitcairn"
 msgstr "ಪೆಸಿಫಿಕ್/ಪಿಟಿಕೇರ್ನ್"
 
 #: timezones.h:908
-#, fuzzy
 msgid "Pacific/Pohnpei"
-msgstr "ಪೆಸಿಫಿಕ್/ಪೊನಾಪೆ"
+msgstr "ಪೆಸಿಫಿಕ್/ಪೊನ್‌ಪೆ"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
-#, fuzzy
 msgid "Pohnpei (Ponape)"
-msgstr "ಪೊನಾಪೆ (ಪೊಂಪೆ)"
+msgstr "ಪೊನ್‌ಪೆ (ಪೊಂಪೆ)"
 
 #: timezones.h:911
 msgid "Pacific/Ponape"
@@ -3248,3 +3241,4 @@ msgstr "ಡಬ್ಲ್ಯು-ಎಸ್ ಯು"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "ಝುಲು"
+
