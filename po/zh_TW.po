@@ -1,8 +1,8 @@
 # translation of system-config-date.master-timezones.po to Traditional Chinese
 # Copyright (C) 2002 Red Hat Inc.
 # This file is distributed under the same license as the x package.
-#
-#
+# 
+# 
 # Ben Wu <hpwu@redhat.com>, 2002,2003.
 # Chester Cheng <ccheng@redhat.com>, 2004, 2005, 2006, 2007.
 # Waika Liu <wliu@redhat.com>, 2005.
@@ -12,84 +12,257 @@
 # Terry Chuang <tchuang@redhat.com>, 2009.
 # pingman <pingman@fedoraproject.org>, 2009.
 # Chester Cheng <ccheng@紅帽子>, 2010.
-#
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: x \n"
+"Project-Id-Version: x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-16 14:02+0200\n"
 "PO-Revision-Date: 2010-09-28 00:53+0800\n"
 "Last-Translator: root <root@localdomain>\n"
 "Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#. Prefix of Africa/Abidjan Africa/Accra Africa/Addis_Ababa Africa/Algiers
+#. Africa/Asmara Africa/Asmera Africa/Bamako Africa/Bangui Africa/Banjul
+#. Africa/Bissau Africa/Blantyre Africa/Brazzaville Africa/Bujumbura
+#. Africa/Cairo Africa/Casablanca Africa/Ceuta Africa/Conakry Africa/Dakar
+#. Africa/Dar_es_Salaam Africa/Djibouti Africa/Douala Africa/El_Aaiun
+#. Africa/Freetown Africa/Gaborone Africa/Harare Africa/Johannesburg
+#. Africa/Kampala Africa/Khartoum Africa/Kigali Africa/Kinshasa Africa/Lagos
+#. Africa/Libreville Africa/Lome Africa/Luanda Africa/Lubumbashi Africa/Lusaka
+#. Africa/Malabo Africa/Maputo Africa/Maseru Africa/Mbabane Africa/Mogadishu
+#. Africa/Monrovia Africa/Nairobi Africa/Ndjamena Africa/Niamey
+#. Africa/Nouakchott Africa/Ouagadougou Africa/Porto-Novo Africa/Sao_Tome
+#. Africa/Timbuktu Africa/Tripoli Africa/Tunis Africa/Windhoek
+msgid "Africa"
+msgstr "非洲"
+
+#. Prefix of America/Adak America/Anchorage America/Anguilla America/Antigua
+#. America/Araguaina America/Argentina/Buenos_Aires America/Aruba
+#. America/Asuncion America/Atka America/Bahia America/Bahia_Banderas
+#. America/Barbados America/Belem America/Belize America/Boa_Vista
+#. America/Bogota America/Boise America/Buenos_Aires America/Cambridge_Bay
+#. America/Campo_Grande America/Cancun America/Caracas America/Catamarca
+#. America/Cayenne America/Cayman America/Chicago America/Chihuahua
+#. America/Coral_Harbour America/Cordoba America/Costa_Rica America/Cuiaba
+#. America/Curacao America/Danmarkshavn America/Dawson America/Dawson_Creek
+#. America/Denver America/Detroit America/Dominica America/Edmonton
+#. America/Eirunepe America/El_Salvador America/Ensenada America/Fortaleza
+#. America/Fort_Wayne America/Glace_Bay America/Godthab America/Goose_Bay
+#. America/Grand_Turk America/Grenada America/Guadeloupe America/Guatemala
+#. America/Guayaquil America/Guyana America/Halifax America/Havana
+#. America/Hermosillo America/Indiana/Indianapolis America/Indianapolis
+#. America/Inuvik America/Iqaluit America/Jamaica America/Jujuy America/Juneau
+#. America/Kentucky/Louisville America/La_Paz America/Lima America/Los_Angeles
+#. America/Louisville America/Maceio America/Managua America/Manaus
+#. America/Martinique America/Matamoros America/Mazatlan America/Mendoza
+#. America/Menominee America/Merida America/Mexico_City America/Miquelon
+#. America/Monterrey America/Montevideo America/Montreal America/Montserrat
+#. America/Nassau America/New_York America/Nipigon America/Nome
+#. America/Noronha America/Ojinaga America/Panama America/Pangnirtung
+#. America/Paramaribo America/Phoenix America/Port-au-Prince
+#. America/Port_of_Spain America/Porto_Velho America/Puerto_Rico
+#. America/Rainy_River America/Rankin_Inlet America/Recife America/Regina
+#. America/Rio_Branco America/Rosario America/Santa_Isabel America/Santarem
+#. America/Santiago America/Santo_Domingo America/Sao_Paulo
+#. America/Scoresbysund America/Shiprock America/St_Johns America/St_Kitts
+#. America/St_Lucia America/St_Thomas America/St_Vincent America/Swift_Current
+#. America/Tegucigalpa America/Thule America/Thunder_Bay America/Tijuana
+#. America/Toronto America/Tortola America/Vancouver America/Whitehorse
+#. America/Winnipeg America/Yakutat America/Yellowknife
+msgid "America"
+msgstr "美洲"
+
+#. Prefix of America/Argentina/Buenos_Aires America/Argentina/Catamarca
+#. America/Argentina/Cordoba America/Argentina/Jujuy
+#. America/Argentina/La_Rioja America/Argentina/Mendoza
+#. America/Argentina/Salta America/Argentina/San_Juan
+#. America/Argentina/San_Luis America/Argentina/Tucuman
+#. America/Argentina/Ushuaia
+msgctxt "America"
+msgid "Argentina"
+msgstr "阿根廷"
+
+#. Prefix of America/Indiana/Indianapolis America/Indiana/Knox
+#. America/Indiana/Marengo America/Indiana/Vevay
+msgctxt "America"
+msgid "Indiana"
+msgstr "印第安那州"
+
+#. Prefix of America/Kentucky/Louisville America/Kentucky/Monticello
+msgctxt "America"
+msgid "Kentucky"
+msgstr "肯塔基州"
+
+#. Prefix of Antarctica/Casey Antarctica/Davis Antarctica/DumontDUrville
+#. Antarctica/Macquarie Antarctica/Mawson Antarctica/McMurdo Antarctica/Palmer
+#. Antarctica/South_Pole Antarctica/Syowa Antarctica/Vostok
+msgid "Antarctica"
+msgstr "南極洲"
+
+#. Prefix of Arctic/Longyearbyen
+msgid "Arctic"
+msgstr "北極"
+
+#. Prefix of Asia/Aden Asia/Almaty Asia/Amman Asia/Anadyr Asia/Aqtau
+#. Asia/Aqtobe Asia/Ashgabat Asia/Baghdad Asia/Bahrain Asia/Baku Asia/Bangkok
+#. Asia/Beirut Asia/Bishkek Asia/Brunei Asia/Calcutta Asia/Colombo
+#. Asia/Damascus Asia/Dhaka Asia/Dili Asia/Dubai Asia/Dushanbe Asia/Gaza
+#. Asia/Harbin Asia/Hong_Kong Asia/Hovd Asia/Irkutsk Asia/Istanbul
+#. Asia/Jakarta Asia/Jayapura Asia/Jerusalem Asia/Kabul Asia/Kamchatka
+#. Asia/Karachi Asia/Kashgar Asia/Kathmandu Asia/Katmandu Asia/Kolkata
+#. Asia/Krasnoyarsk Asia/Kuala_Lumpur Asia/Kuching Asia/Kuwait Asia/Macao
+#. Asia/Macau Asia/Magadan Asia/Manila Asia/Muscat Asia/Nicosia
+#. Asia/Novokuznetsk Asia/Novosibirsk Asia/Omsk Asia/Phnom_Penh Asia/Pontianak
+#. Asia/Pyongyang Asia/Qatar Asia/Rangoon Asia/Riyadh Asia/Riyadh87
+#. Asia/Riyadh88 Asia/Riyadh89 Asia/Saigon Asia/Samarkand Asia/Seoul
+#. Asia/Shanghai Asia/Singapore Asia/Taipei Asia/Tashkent Asia/Tbilisi
+#. Asia/Tehran Asia/Thimbu Asia/Thimphu Asia/Tokyo Asia/Ujung_Pandang
+#. Asia/Ulaanbaatar Asia/Ulan_Bator Asia/Urumqi Asia/Vientiane
+#. Asia/Vladivostok Asia/Yakutsk Asia/Yekaterinburg Asia/Yerevan
+msgid "Asia"
+msgstr "亞洲"
+
+#. Prefix of Atlantic/Azores Atlantic/Bermuda Atlantic/Canary
+#. Atlantic/Cape_Verde Atlantic/Faeroe Atlantic/Faroe Atlantic/Jan_Mayen
+#. Atlantic/Madeira Atlantic/Reykjavik Atlantic/South_Georgia Atlantic/Stanley
+#. Atlantic/St_Helena
+msgid "Atlantic"
+msgstr "大西洋"
+
+#. Prefix of Australia/Brisbane Australia/Darwin Australia/Eucla
+#. Australia/Hobart Australia/Lindeman Australia/Lord_Howe Australia/Melbourne
+#. Australia/Perth Australia/Queensland Australia/Sydney
+msgid "Australia"
+msgstr "澳洲"
+
+#. Prefix of Etc/GMT Etc/GMT0 Etc/GMT-0 Etc/GMT+0 Etc/GMT-1 Etc/GMT+1
+#. Etc/GMT-10 Etc/GMT+10 Etc/GMT-11 Etc/GMT+11 Etc/GMT-12 Etc/GMT+12
+#. Etc/GMT-13 Etc/GMT-14 Etc/GMT-2 Etc/GMT+2 Etc/GMT-3 Etc/GMT+3 Etc/GMT-4
+#. Etc/GMT+4 Etc/GMT-5 Etc/GMT+5 Etc/GMT-6 Etc/GMT+6 Etc/GMT-7 Etc/GMT+7
+#. Etc/GMT-8 Etc/GMT+8 Etc/GMT-9 Etc/GMT+9 Etc/Greenwich Etc/UCT Etc/Universal
+#. Etc/UTC Etc/Zulu
+msgid "Etc"
+msgstr "Etc"
+
+#. Prefix of Europe/Amsterdam Europe/Andorra Europe/Athens Europe/Belfast
+#. Europe/Belgrade Europe/Berlin Europe/Bratislava Europe/Brussels
+#. Europe/Bucharest Europe/Budapest Europe/Chisinau Europe/Copenhagen
+#. Europe/Dublin Europe/Gibraltar Europe/Helsinki Europe/Istanbul
+#. Europe/Kaliningrad Europe/Kiev Europe/Lisbon Europe/Ljubljana Europe/London
+#. Europe/Luxembourg Europe/Madrid Europe/Malta Europe/Minsk Europe/Monaco
+#. Europe/Moscow Europe/Nicosia Europe/Oslo Europe/Paris Europe/Prague
+#. Europe/Riga Europe/Rome Europe/Samara Europe/San_Marino Europe/Sarajevo
+#. Europe/Simferopol Europe/Skopje Europe/Sofia Europe/Stockholm
+#. Europe/Tallinn Europe/Tirane Europe/Uzhgorod Europe/Vaduz Europe/Vatican
+#. Europe/Vienna Europe/Vilnius Europe/Warsaw Europe/Zagreb Europe/Zaporozhye
+#. Europe/Zurich
+msgid "Europe"
+msgstr "歐洲"
+
+#. Prefix of Indian/Antananarivo Indian/Chagos Indian/Christmas Indian/Cocos
+#. Indian/Comoro Indian/Kerguelen Indian/Mahe Indian/Maldives Indian/Mauritius
+#. Indian/Mayotte Indian/Reunion
+msgid "Indian"
+msgstr "印度"
+
+#. Prefix of Pacific/Apia Pacific/Auckland Pacific/Chatham Pacific/Chuuk
+#. Pacific/Easter Pacific/Efate Pacific/Enderbury Pacific/Fakaofo Pacific/Fiji
+#. Pacific/Funafuti Pacific/Galapagos Pacific/Gambier Pacific/Guadalcanal
+#. Pacific/Guam Pacific/Honolulu Pacific/Johnston Pacific/Kiritimati
+#. Pacific/Kosrae Pacific/Kwajalein Pacific/Majuro Pacific/Marquesas
+#. Pacific/Midway Pacific/Nauru Pacific/Niue Pacific/Norfolk Pacific/Noumea
+#. Pacific/Pago_Pago Pacific/Palau Pacific/Pitcairn Pacific/Pohnpei
+#. Pacific/Ponape Pacific/Port_Moresby Pacific/Rarotonga Pacific/Saipan
+#. Pacific/Tahiti Pacific/Tarawa Pacific/Tongatapu Pacific/Truk Pacific/Wake
+#. Pacific/Wallis Pacific/Yap
+msgid "Pacific"
+msgstr "太平洋"
+
 #: timezones.h:1
-msgid "Africa/Abidjan"
-msgstr "非洲/阿必尚"
+msgctxt "Africa"
+msgid "Abidjan"
+msgstr "阿必尚"
 
 #: timezones.h:2
-msgid "Africa/Accra"
-msgstr "非洲/阿克拉"
+msgctxt "Africa"
+msgid "Accra"
+msgstr "阿克拉"
 
 #: timezones.h:3
-msgid "Africa/Addis_Ababa"
-msgstr "非洲/阿迪斯阿貝巴"
+msgctxt "Africa"
+msgid "Addis_Ababa"
+msgstr "阿迪斯阿貝巴"
 
 #: timezones.h:4
-msgid "Africa/Algiers"
-msgstr "非洲/阿爾及爾"
+msgctxt "Africa"
+msgid "Algiers"
+msgstr "阿爾及爾"
 
 #: timezones.h:5
-msgid "Africa/Asmara"
-msgstr "非洲/阿斯馬拉"
+msgctxt "Africa"
+msgid "Asmara"
+msgstr "阿斯馬拉"
 
 #: timezones.h:6
-msgid "Africa/Asmera"
-msgstr "非洲/阿斯馬拉"
+msgctxt "Africa"
+msgid "Asmera"
+msgstr "阿斯馬拉"
 
 #: timezones.h:7
-msgid "Africa/Bamako"
-msgstr "非洲/巴馬科"
+msgctxt "Africa"
+msgid "Bamako"
+msgstr "巴馬科"
 
 #: timezones.h:8
-msgid "Africa/Bangui"
-msgstr "非洲/班基"
+msgctxt "Africa"
+msgid "Bangui"
+msgstr "班基"
 
 #: timezones.h:9
-msgid "Africa/Banjul"
-msgstr "非洲/班竹"
+msgctxt "Africa"
+msgid "Banjul"
+msgstr "班竹"
 
 #: timezones.h:10
-msgid "Africa/Bissau"
-msgstr "非洲/比索"
+msgctxt "Africa"
+msgid "Bissau"
+msgstr "比索"
 
 #: timezones.h:11
-msgid "Africa/Blantyre"
-msgstr "非洲/布蘭泰爾"
+msgctxt "Africa"
+msgid "Blantyre"
+msgstr "布蘭泰爾"
 
 #: timezones.h:12
-msgid "Africa/Brazzaville"
-msgstr "非洲/布拉薩"
+msgctxt "Africa"
+msgid "Brazzaville"
+msgstr "布拉薩"
 
 #: timezones.h:13
-msgid "Africa/Bujumbura"
-msgstr "非洲/布瓊布拉"
+msgctxt "Africa"
+msgid "Bujumbura"
+msgstr "布瓊布拉"
 
 #: timezones.h:14
-msgid "Africa/Cairo"
-msgstr "非洲/開羅"
+msgctxt "Africa"
+msgid "Cairo"
+msgstr "開羅"
 
 #: timezones.h:15
-msgid "Africa/Casablanca"
-msgstr "非洲/卡薩布蘭卡"
+msgctxt "Africa"
+msgid "Casablanca"
+msgstr "卡薩布蘭卡"
 
 #: timezones.h:16
-msgid "Africa/Ceuta"
-msgstr "非洲/休達"
+msgctxt "Africa"
+msgid "Ceuta"
+msgstr "休達"
 
 #. comment for time zone Africa/Ceuta
 #: timezones.h:18
@@ -97,60 +270,74 @@ msgid "Ceuta & Melilla"
 msgstr "休達及梅利利亞"
 
 #: timezones.h:19
-msgid "Africa/Conakry"
-msgstr "非洲/科納克里"
+msgctxt "Africa"
+msgid "Conakry"
+msgstr "科納克里"
 
 #: timezones.h:20
-msgid "Africa/Dakar"
-msgstr "非洲/達喀爾"
+msgctxt "Africa"
+msgid "Dakar"
+msgstr "達喀爾"
 
 #: timezones.h:21
-msgid "Africa/Dar_es_Salaam"
-msgstr "非洲/三蘭港"
+msgctxt "Africa"
+msgid "Dar_es_Salaam"
+msgstr "三蘭港"
 
 #: timezones.h:22
-msgid "Africa/Djibouti"
-msgstr "非洲/吉布地"
+msgctxt "Africa"
+msgid "Djibouti"
+msgstr "吉布地"
 
 #: timezones.h:23
-msgid "Africa/Douala"
-msgstr "非洲/杜瓦拉"
+msgctxt "Africa"
+msgid "Douala"
+msgstr "杜瓦拉"
 
 #: timezones.h:24
-msgid "Africa/El_Aaiun"
-msgstr "非洲/艾拉蘊"
+msgctxt "Africa"
+msgid "El_Aaiun"
+msgstr "艾拉蘊"
 
 #: timezones.h:25
-msgid "Africa/Freetown"
-msgstr "非洲/自由城"
+msgctxt "Africa"
+msgid "Freetown"
+msgstr "自由城"
 
 #: timezones.h:26
-msgid "Africa/Gaborone"
-msgstr "非洲/嘉伯帕里"
+msgctxt "Africa"
+msgid "Gaborone"
+msgstr "嘉伯帕里"
 
 #: timezones.h:27
-msgid "Africa/Harare"
-msgstr "非洲/哈拉雷"
+msgctxt "Africa"
+msgid "Harare"
+msgstr "哈拉雷"
 
 #: timezones.h:28
-msgid "Africa/Johannesburg"
-msgstr "非洲/約翰尼斯堡"
+msgctxt "Africa"
+msgid "Johannesburg"
+msgstr "約翰尼斯堡"
 
 #: timezones.h:29
-msgid "Africa/Kampala"
-msgstr "非洲/坎帕拉"
+msgctxt "Africa"
+msgid "Kampala"
+msgstr "坎帕拉"
 
 #: timezones.h:30
-msgid "Africa/Khartoum"
-msgstr "非洲/喀土穆"
+msgctxt "Africa"
+msgid "Khartoum"
+msgstr "喀土穆"
 
 #: timezones.h:31
-msgid "Africa/Kigali"
-msgstr "非洲/奇佳利"
+msgctxt "Africa"
+msgid "Kigali"
+msgstr "奇佳利"
 
 #: timezones.h:32
-msgid "Africa/Kinshasa"
-msgstr "非洲/金夏沙"
+msgctxt "Africa"
+msgid "Kinshasa"
+msgstr "金夏沙"
 
 #. comment for time zone Africa/Kinshasa
 #: timezones.h:34
@@ -158,24 +345,29 @@ msgid "west Dem. Rep. of Congo"
 msgstr "west Dem. 剛果民主共和國"
 
 #: timezones.h:35
-msgid "Africa/Lagos"
-msgstr "非洲/拉哥斯"
+msgctxt "Africa"
+msgid "Lagos"
+msgstr "拉哥斯"
 
 #: timezones.h:36
-msgid "Africa/Libreville"
-msgstr "非洲/自由市"
+msgctxt "Africa"
+msgid "Libreville"
+msgstr "自由市"
 
 #: timezones.h:37
-msgid "Africa/Lome"
-msgstr "非洲/洛梅"
+msgctxt "Africa"
+msgid "Lome"
+msgstr "洛梅"
 
 #: timezones.h:38
-msgid "Africa/Luanda"
-msgstr "非洲/盧安達"
+msgctxt "Africa"
+msgid "Luanda"
+msgstr "盧安達"
 
 #: timezones.h:39
-msgid "Africa/Lubumbashi"
-msgstr "非洲/盧本巴希"
+msgctxt "Africa"
+msgid "Lubumbashi"
+msgstr "盧本巴希"
 
 #. comment for time zone Africa/Lubumbashi
 #: timezones.h:41
@@ -183,80 +375,99 @@ msgid "east Dem. Rep. of Congo"
 msgstr "east Dem. 剛果民主共和國"
 
 #: timezones.h:42
-msgid "Africa/Lusaka"
-msgstr "非洲/路沙卡"
+msgctxt "Africa"
+msgid "Lusaka"
+msgstr "路沙卡"
 
 #: timezones.h:43
-msgid "Africa/Malabo"
-msgstr "非洲/馬拉博"
+msgctxt "Africa"
+msgid "Malabo"
+msgstr "馬拉博"
 
 #: timezones.h:44
-msgid "Africa/Maputo"
-msgstr "非洲/馬普托"
+msgctxt "Africa"
+msgid "Maputo"
+msgstr "馬普托"
 
 #: timezones.h:45
-msgid "Africa/Maseru"
-msgstr "非洲/馬塞魯"
+msgctxt "Africa"
+msgid "Maseru"
+msgstr "馬塞魯"
 
 #: timezones.h:46
-msgid "Africa/Mbabane"
-msgstr "非洲/墨巴本"
+msgctxt "Africa"
+msgid "Mbabane"
+msgstr "墨巴本"
 
 #: timezones.h:47
-msgid "Africa/Mogadishu"
-msgstr "非洲/摩加迪休"
+msgctxt "Africa"
+msgid "Mogadishu"
+msgstr "摩加迪休"
 
 #: timezones.h:48
-msgid "Africa/Monrovia"
-msgstr "非洲/蒙羅維亞"
+msgctxt "Africa"
+msgid "Monrovia"
+msgstr "蒙羅維亞"
 
 #: timezones.h:49
-msgid "Africa/Nairobi"
-msgstr "非洲/奈羅比"
+msgctxt "Africa"
+msgid "Nairobi"
+msgstr "奈羅比"
 
 #: timezones.h:50
-msgid "Africa/Ndjamena"
-msgstr "非洲/恩嘉美納"
+msgctxt "Africa"
+msgid "Ndjamena"
+msgstr "恩嘉美納"
 
 #: timezones.h:51
-msgid "Africa/Niamey"
-msgstr "非洲/尼亞美"
+msgctxt "Africa"
+msgid "Niamey"
+msgstr "尼亞美"
 
 #: timezones.h:52
-msgid "Africa/Nouakchott"
-msgstr "非洲/諾克少"
+msgctxt "Africa"
+msgid "Nouakchott"
+msgstr "諾克少"
 
 #: timezones.h:53
-msgid "Africa/Ouagadougou"
-msgstr "非洲/瓦加杜古"
+msgctxt "Africa"
+msgid "Ouagadougou"
+msgstr "瓦加杜古"
 
 #: timezones.h:54
-msgid "Africa/Porto-Novo"
-msgstr "非洲/新港"
+msgctxt "Africa"
+msgid "Porto-Novo"
+msgstr "新港"
 
 #: timezones.h:55
-msgid "Africa/Sao_Tome"
-msgstr "非洲/聖多美"
+msgctxt "Africa"
+msgid "Sao_Tome"
+msgstr "聖多美"
 
 #: timezones.h:56
-msgid "Africa/Timbuktu"
-msgstr "非洲/堤巴土"
+msgctxt "Africa"
+msgid "Timbuktu"
+msgstr "堤巴土"
 
 #: timezones.h:57
-msgid "Africa/Tripoli"
-msgstr "非洲/的黎波里"
+msgctxt "Africa"
+msgid "Tripoli"
+msgstr "的黎波里"
 
 #: timezones.h:58
-msgid "Africa/Tunis"
-msgstr "非洲/突尼斯"
+msgctxt "Africa"
+msgid "Tunis"
+msgstr "突尼斯"
 
 #: timezones.h:59
-msgid "Africa/Windhoek"
-msgstr "非洲/文德霍克"
+msgctxt "Africa"
+msgid "Windhoek"
+msgstr "文德霍克"
 
 #: timezones.h:60
-msgid "America/Adak"
-msgstr "美洲/艾達克"
+msgctxt "America"
+msgid "Adak"
+msgstr "艾達克"
 
 #. comment for time zone America/Adak
 #: timezones.h:62
@@ -264,8 +475,9 @@ msgid "Aleutian Islands"
 msgstr "阿留申群島"
 
 #: timezones.h:63
-msgid "America/Anchorage"
-msgstr "美洲/安克里治"
+msgctxt "America"
+msgid "Anchorage"
+msgstr "安克里治"
 
 #. comment for time zone America/Anchorage
 #: timezones.h:65
@@ -273,16 +485,19 @@ msgid "Alaska Time"
 msgstr "阿拉斯加時區"
 
 #: timezones.h:66
-msgid "America/Anguilla"
-msgstr "美洲/安圭拉"
+msgctxt "America"
+msgid "Anguilla"
+msgstr "安圭拉"
 
 #: timezones.h:67
-msgid "America/Antigua"
-msgstr "美洲/安堤瓜"
+msgctxt "America"
+msgid "Antigua"
+msgstr "安堤瓜"
 
 #: timezones.h:68
-msgid "America/Araguaina"
-msgstr "美洲/阿拉瓜因那"
+msgctxt "America"
+msgid "Araguaina"
+msgstr "阿拉瓜因那"
 
 #. comment for time zone America/Araguaina
 #: timezones.h:70
@@ -290,8 +505,9 @@ msgid "Tocantins"
 msgstr "托肯丁斯"
 
 #: timezones.h:71
-msgid "America/Argentina/Buenos_Aires"
-msgstr "美洲/阿根廷/布宜諾斯艾利斯"
+msgctxt "America/Argentina"
+msgid "Buenos_Aires"
+msgstr "布宜諾斯艾利斯"
 
 #. comment for time zone America/Argentina/Buenos_Aires
 #: timezones.h:73
@@ -299,8 +515,9 @@ msgid "Buenos Aires (BA, CF)"
 msgstr "布埃諾斯艾雷斯（BA，CF）"
 
 #: timezones.h:74
-msgid "America/Argentina/Catamarca"
-msgstr "美洲/阿根廷/卡達馬魯卡"
+msgctxt "America/Argentina"
+msgid "Catamarca"
+msgstr "卡達馬魯卡"
 
 #. comment for time zone America/Argentina/Catamarca
 #: timezones.h:76
@@ -312,8 +529,9 @@ msgid "America/Argentina/ComodRivadavia"
 msgstr "美洲∕阿根廷∕科木多洛"
 
 #: timezones.h:78
-msgid "America/Argentina/Cordoba"
-msgstr "美洲/阿根廷/哥多華"
+msgctxt "America/Argentina"
+msgid "Cordoba"
+msgstr "哥多華"
 
 #. comment for time zone America/Argentina/Cordoba
 #: timezones.h:80
@@ -321,8 +539,9 @@ msgid "most locations (CB, CC, CN, ER, FM, MN, SE, SF)"
 msgstr "大部分地區（CB、CC、CN、ER、FM、MN、SE、SF）"
 
 #: timezones.h:81
-msgid "America/Argentina/Jujuy"
-msgstr "美洲/阿根廷/胡胡伊"
+msgctxt "America/Argentina"
+msgid "Jujuy"
+msgstr "胡胡伊"
 
 #. comment for time zone America/Argentina/Jujuy
 #: timezones.h:83
@@ -330,8 +549,9 @@ msgid "Jujuy (JY)"
 msgstr "夫夫伊（JY）"
 
 #: timezones.h:84
-msgid "America/Argentina/La_Rioja"
-msgstr "美洲/阿根廷/拉裏奧哈"
+msgctxt "America/Argentina"
+msgid "La_Rioja"
+msgstr "拉裏奧哈"
 
 #. comment for time zone America/Argentina/La_Rioja
 #: timezones.h:86
@@ -339,8 +559,9 @@ msgid "La Rioja (LR)"
 msgstr "拉裡奧哈（LR）"
 
 #: timezones.h:87
-msgid "America/Argentina/Mendoza"
-msgstr "美洲/阿根廷/門多薩"
+msgctxt "America/Argentina"
+msgid "Mendoza"
+msgstr "門多薩"
 
 #. comment for time zone America/Argentina/Mendoza
 #: timezones.h:89
@@ -357,8 +578,9 @@ msgid "Santa Cruz (SC)"
 msgstr "聖克魯茲（SC）"
 
 #: timezones.h:93
-msgid "America/Argentina/Salta"
-msgstr "美洲/阿根廷/薩撻省"
+msgctxt "America/Argentina"
+msgid "Salta"
+msgstr "薩撻省"
 
 #. comment for time zone America/Argentina/Salta
 #: timezones.h:95
@@ -366,8 +588,9 @@ msgid "(SA, LP, NQ, RN)"
 msgstr "（SA、LP、NQ、RN）"
 
 #: timezones.h:96
-msgid "America/Argentina/San_Juan"
-msgstr "美洲/阿根廷/聖胡安"
+msgctxt "America/Argentina"
+msgid "San_Juan"
+msgstr "聖胡安"
 
 #. comment for time zone America/Argentina/San_Juan
 #: timezones.h:98
@@ -375,8 +598,9 @@ msgid "San Juan (SJ)"
 msgstr "聖胡安（SJ）"
 
 #: timezones.h:99
-msgid "America/Argentina/San_Luis"
-msgstr "美洲/阿根廷/聖路易士"
+msgctxt "America/Argentina"
+msgid "San_Luis"
+msgstr "聖路易士"
 
 #. comment for time zone America/Argentina/San_Luis
 #: timezones.h:101
@@ -384,8 +608,9 @@ msgid "San Luis (SL)"
 msgstr "聖路易士（SL）"
 
 #: timezones.h:102
-msgid "America/Argentina/Tucuman"
-msgstr "美洲/阿根廷/圖庫曼"
+msgctxt "America/Argentina"
+msgid "Tucuman"
+msgstr "圖庫曼"
 
 #. comment for time zone America/Argentina/Tucuman
 #: timezones.h:104
@@ -393,8 +618,9 @@ msgid "Tucuman (TM)"
 msgstr "圖庫曼（TM）"
 
 #: timezones.h:105
-msgid "America/Argentina/Ushuaia"
-msgstr "美洲/阿根廷/烏斯懷亞"
+msgctxt "America/Argentina"
+msgid "Ushuaia"
+msgstr "烏斯懷亞"
 
 #. comment for time zone America/Argentina/Ushuaia
 #: timezones.h:107
@@ -402,12 +628,14 @@ msgid "Tierra del Fuego (TF)"
 msgstr "火地島（TF）"
 
 #: timezones.h:108
-msgid "America/Aruba"
-msgstr "美洲/阿盧巴"
+msgctxt "America"
+msgid "Aruba"
+msgstr "阿盧巴"
 
 #: timezones.h:109
-msgid "America/Asuncion"
-msgstr "美洲/亞松森"
+msgctxt "America"
+msgid "Asuncion"
+msgstr "亞松森"
 
 #: timezones.h:110
 msgid "America/Atikokan"
@@ -419,12 +647,14 @@ msgid "Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut"
 msgstr "東部標準時間 - 阿提科坎、安大略以及南安普頓、努那福"
 
 #: timezones.h:113
-msgid "America/Atka"
-msgstr "美洲/阿提卡"
+msgctxt "America"
+msgid "Atka"
+msgstr "阿提卡"
 
 #: timezones.h:114
-msgid "America/Bahia"
-msgstr "美洲/巴伊亞"
+msgctxt "America"
+msgid "Bahia"
+msgstr "巴伊亞"
 
 #. comment for time zone America/Bahia
 #: timezones.h:116
@@ -432,8 +662,9 @@ msgid "Bahia"
 msgstr "巴伊亞"
 
 #: timezones.h:117
-msgid "America/Bahia_Banderas"
-msgstr "美洲/巴伊亞班德拉斯"
+msgctxt "America"
+msgid "Bahia_Banderas"
+msgstr "巴伊亞班德拉斯"
 
 #. comment for time zone America/Bahia_Banderas
 #: timezones.h:119
@@ -441,12 +672,14 @@ msgid "Mexican Central Time - Bahia de Banderas"
 msgstr "墨西哥中央時間 - 巴伊亞班德拉斯"
 
 #: timezones.h:120
-msgid "America/Barbados"
-msgstr "美洲/巴貝多"
+msgctxt "America"
+msgid "Barbados"
+msgstr "巴貝多"
 
 #: timezones.h:121
-msgid "America/Belem"
-msgstr "美洲/巴連姆"
+msgctxt "America"
+msgid "Belem"
+msgstr "巴連姆"
 
 #. comment for time zone America/Belem
 #: timezones.h:123
@@ -454,8 +687,9 @@ msgid "Amapa, E Para"
 msgstr "阿瑪帕"
 
 #: timezones.h:124
-msgid "America/Belize"
-msgstr "美洲/貝里斯"
+msgctxt "America"
+msgid "Belize"
+msgstr "貝里斯"
 
 #: timezones.h:125
 msgid "America/Blanc-Sablon"
@@ -467,8 +701,9 @@ msgid "Atlantic Standard Time - Quebec - Lower North Shore"
 msgstr "大西洋標準時間 - 魁北克 - 低北岸"
 
 #: timezones.h:128
-msgid "America/Boa_Vista"
-msgstr "美洲/波亞維斯塔"
+msgctxt "America"
+msgid "Boa_Vista"
+msgstr "波亞維斯塔"
 
 #. comment for time zone America/Boa_Vista
 #: timezones.h:130
@@ -476,12 +711,14 @@ msgid "Roraima"
 msgstr "羅賴馬"
 
 #: timezones.h:131
-msgid "America/Bogota"
-msgstr "美洲/波哥大"
+msgctxt "America"
+msgid "Bogota"
+msgstr "波哥大"
 
 #: timezones.h:132
-msgid "America/Boise"
-msgstr "美洲/波伊西"
+msgctxt "America"
+msgid "Boise"
+msgstr "波伊西"
 
 #. comment for time zone America/Boise
 #: timezones.h:134
@@ -489,12 +726,14 @@ msgid "Mountain Time - south Idaho & east Oregon"
 msgstr "山脈時間 - 南愛達荷與東俄勒岡"
 
 #: timezones.h:135
-msgid "America/Buenos_Aires"
-msgstr "美洲/布宜諾斯艾利斯"
+msgctxt "America"
+msgid "Buenos_Aires"
+msgstr "布宜諾斯艾利斯"
 
 #: timezones.h:136
-msgid "America/Cambridge_Bay"
-msgstr "美洲/劍橋灣"
+msgctxt "America"
+msgid "Cambridge_Bay"
+msgstr "劍橋灣"
 
 #. comment for time zone America/Cambridge_Bay
 #: timezones.h:138
@@ -502,8 +741,9 @@ msgid "Mountain Time - west Nunavut"
 msgstr "山脈時間 - 西努那福"
 
 #: timezones.h:139
-msgid "America/Campo_Grande"
-msgstr "美洲/坎普格蘭"
+msgctxt "America"
+msgid "Campo_Grande"
+msgstr "坎普格蘭"
 
 #. comment for time zone America/Campo_Grande
 #: timezones.h:141
@@ -511,8 +751,9 @@ msgid "Mato Grosso do Sul"
 msgstr "馬托格羅索州"
 
 #: timezones.h:142
-msgid "America/Cancun"
-msgstr "美洲/坎庫恩"
+msgctxt "America"
+msgid "Cancun"
+msgstr "坎庫恩"
 
 #. comment for time zone America/Cancun
 #: timezones.h:144
@@ -520,24 +761,29 @@ msgid "Central Time - Quintana Roo"
 msgstr "中央時間 - 金塔納羅奧"
 
 #: timezones.h:145
-msgid "America/Caracas"
-msgstr "美洲/卡拉卡斯"
+msgctxt "America"
+msgid "Caracas"
+msgstr "卡拉卡斯"
 
 #: timezones.h:146
-msgid "America/Catamarca"
-msgstr "美洲/卡它馬爾卡"
+msgctxt "America"
+msgid "Catamarca"
+msgstr "卡它馬爾卡"
 
 #: timezones.h:147
-msgid "America/Cayenne"
-msgstr "美洲/卡宴"
+msgctxt "America"
+msgid "Cayenne"
+msgstr "卡宴"
 
 #: timezones.h:148
-msgid "America/Cayman"
-msgstr "美洲/開曼"
+msgctxt "America"
+msgid "Cayman"
+msgstr "開曼"
 
 #: timezones.h:149
-msgid "America/Chicago"
-msgstr "美洲/芝加哥"
+msgctxt "America"
+msgid "Chicago"
+msgstr "芝加哥"
 
 #. comment for time zone America/Chicago
 #: timezones.h:151
@@ -545,8 +791,9 @@ msgid "Central Time"
 msgstr "中央時間"
 
 #: timezones.h:152
-msgid "America/Chihuahua"
-msgstr "美洲/徹瓦瓦"
+msgctxt "America"
+msgid "Chihuahua"
+msgstr "徹瓦瓦"
 
 #. comment for time zone America/Chihuahua
 #: timezones.h:154
@@ -554,20 +801,24 @@ msgid "Mexican Mountain Time - Chihuahua away from US border"
 msgstr "墨西哥山脈時間 - 離美國邊界較遠的奇瓦瓦"
 
 #: timezones.h:155
-msgid "America/Coral_Harbour"
-msgstr "美洲/珊瑚港"
+msgctxt "America"
+msgid "Coral_Harbour"
+msgstr "珊瑚港"
 
 #: timezones.h:156
-msgid "America/Cordoba"
-msgstr "美洲/科多巴"
+msgctxt "America"
+msgid "Cordoba"
+msgstr "科多巴"
 
 #: timezones.h:157
-msgid "America/Costa_Rica"
-msgstr "美洲/哥斯大黎加"
+msgctxt "America"
+msgid "Costa_Rica"
+msgstr "哥斯大黎加"
 
 #: timezones.h:158
-msgid "America/Cuiaba"
-msgstr "美洲/圭亞巴"
+msgctxt "America"
+msgid "Cuiaba"
+msgstr "圭亞巴"
 
 #. comment for time zone America/Cuiaba
 #: timezones.h:160
@@ -575,12 +826,14 @@ msgid "Mato Grosso"
 msgstr "馬托格羅索州"
 
 #: timezones.h:161
-msgid "America/Curacao"
-msgstr "美洲/庫拉桑"
+msgctxt "America"
+msgid "Curacao"
+msgstr "庫拉桑"
 
 #: timezones.h:162
-msgid "America/Danmarkshavn"
-msgstr "美洲/丹馬沙文"
+msgctxt "America"
+msgid "Danmarkshavn"
+msgstr "丹馬沙文"
 
 #. comment for time zone America/Danmarkshavn
 #: timezones.h:164
@@ -588,8 +841,9 @@ msgid "east coast, north of Scoresbysund"
 msgstr "東岸、司廓爾比桑北部"
 
 #: timezones.h:165
-msgid "America/Dawson"
-msgstr "美洲/道森"
+msgctxt "America"
+msgid "Dawson"
+msgstr "道森"
 
 #. comment for time zone America/Dawson
 #: timezones.h:167
@@ -597,8 +851,9 @@ msgid "Pacific Time - north Yukon"
 msgstr "太平洋時間 - 育空北部"
 
 #: timezones.h:168
-msgid "America/Dawson_Creek"
-msgstr "美洲/道森克里克"
+msgctxt "America"
+msgid "Dawson_Creek"
+msgstr "道森克里克"
 
 #. comment for time zone America/Dawson_Creek
 #: timezones.h:170
@@ -606,8 +861,9 @@ msgid "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia
 msgstr "山脈標準時間 - 道森克里克以及福聖約翰，英屬哥倫比亞"
 
 #: timezones.h:171
-msgid "America/Denver"
-msgstr "美洲/丹佛"
+msgctxt "America"
+msgid "Denver"
+msgstr "丹佛"
 
 #. comment for time zone America/Denver
 #: timezones.h:173
@@ -615,8 +871,9 @@ msgid "Mountain Time"
 msgstr "山脈時間"
 
 #: timezones.h:174
-msgid "America/Detroit"
-msgstr "美洲/底特律"
+msgctxt "America"
+msgid "Detroit"
+msgstr "底特律"
 
 #. comment for time zone America/Detroit
 #: timezones.h:176
@@ -624,12 +881,14 @@ msgid "Eastern Time - Michigan - most locations"
 msgstr "東部時間 - 密西根州 - 大部分地區"
 
 #: timezones.h:177
-msgid "America/Dominica"
-msgstr "美洲/多明尼加"
+msgctxt "America"
+msgid "Dominica"
+msgstr "多明尼加"
 
 #: timezones.h:178
-msgid "America/Edmonton"
-msgstr "美洲/艾德蒙頓"
+msgctxt "America"
+msgid "Edmonton"
+msgstr "艾德蒙頓"
 
 #. comment for time zone America/Edmonton
 #: timezones.h:180
@@ -637,8 +896,9 @@ msgid "Mountain Time - Alberta, east British Columbia & west Saskatchewan"
 msgstr "山脈時間 - 艾伯塔，英屬哥倫比亞東部以及薩克其萬省西部"
 
 #: timezones.h:181
-msgid "America/Eirunepe"
-msgstr "美洲/艾魯內佩"
+msgctxt "America"
+msgid "Eirunepe"
+msgstr "艾魯內佩"
 
 #. comment for time zone America/Eirunepe
 #: timezones.h:183
@@ -646,16 +906,19 @@ msgid "W Amazonas"
 msgstr "亞馬遜西部"
 
 #: timezones.h:184
-msgid "America/El_Salvador"
-msgstr "美洲/薩爾瓦多"
+msgctxt "America"
+msgid "El_Salvador"
+msgstr "薩爾瓦多"
 
 #: timezones.h:185
-msgid "America/Ensenada"
-msgstr "美洲/恩森那達"
+msgctxt "America"
+msgid "Ensenada"
+msgstr "恩森那達"
 
 #: timezones.h:186
-msgid "America/Fortaleza"
-msgstr "美洲/福塔雷薩"
+msgctxt "America"
+msgid "Fortaleza"
+msgstr "福塔雷薩"
 
 #. comment for time zone America/Fortaleza
 #: timezones.h:188
@@ -663,12 +926,14 @@ msgid "NE Brazil (MA, PI, CE, RN, PB)"
 msgstr "巴西東北部（MA、PI、CE、RN、PB）"
 
 #: timezones.h:189
-msgid "America/Fort_Wayne"
-msgstr "美洲/韋恩堡"
+msgctxt "America"
+msgid "Fort_Wayne"
+msgstr "韋恩堡"
 
 #: timezones.h:190
-msgid "America/Glace_Bay"
-msgstr "美洲/葛雷斯灣"
+msgctxt "America"
+msgid "Glace_Bay"
+msgstr "葛雷斯灣"
 
 #. comment for time zone America/Glace_Bay
 #: timezones.h:192
@@ -676,8 +941,9 @@ msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
 msgstr "大西洋時間 - 新斯科細亞省 - 未遵照 DST 1966-1971 的地區"
 
 #: timezones.h:193
-msgid "America/Godthab"
-msgstr "美洲/高特哈"
+msgctxt "America"
+msgid "Godthab"
+msgstr "高特哈"
 
 #. comment for time zone America/Godthab
 #. comment for time zone America/Santiago
@@ -692,8 +958,9 @@ msgid "most locations"
 msgstr "大部分地區"
 
 #: timezones.h:196
-msgid "America/Goose_Bay"
-msgstr "美洲/鵝灣"
+msgctxt "America"
+msgid "Goose_Bay"
+msgstr "鵝灣"
 
 #. comment for time zone America/Goose_Bay
 #: timezones.h:198
@@ -701,24 +968,29 @@ msgid "Atlantic Time - Labrador - most locations"
 msgstr "大西洋時間 - 拉布多爾 - 大部分地區"
 
 #: timezones.h:199
-msgid "America/Grand_Turk"
-msgstr "美洲/大特克"
+msgctxt "America"
+msgid "Grand_Turk"
+msgstr "大特克"
 
 #: timezones.h:200
-msgid "America/Grenada"
-msgstr "美洲/格瑞納達"
+msgctxt "America"
+msgid "Grenada"
+msgstr "格瑞納達"
 
 #: timezones.h:201
-msgid "America/Guadeloupe"
-msgstr "美洲/瓜德洛佩"
+msgctxt "America"
+msgid "Guadeloupe"
+msgstr "瓜德洛佩"
 
 #: timezones.h:202
-msgid "America/Guatemala"
-msgstr "美洲/瓜地馬拉"
+msgctxt "America"
+msgid "Guatemala"
+msgstr "瓜地馬拉"
 
 #: timezones.h:203
-msgid "America/Guayaquil"
-msgstr "美洲/瓜亞基爾"
+msgctxt "America"
+msgid "Guayaquil"
+msgstr "瓜亞基爾"
 
 #. comment for time zone America/Guayaquil
 #. comment for time zone Europe/Lisbon
@@ -728,12 +1000,14 @@ msgid "mainland"
 msgstr "大陸"
 
 #: timezones.h:206
-msgid "America/Guyana"
-msgstr "美洲/蓋亞那"
+msgctxt "America"
+msgid "Guyana"
+msgstr "蓋亞那"
 
 #: timezones.h:207
-msgid "America/Halifax"
-msgstr "美洲/哈利法克斯"
+msgctxt "America"
+msgid "Halifax"
+msgstr "哈利法克斯"
 
 #. comment for time zone America/Halifax
 #: timezones.h:209
@@ -741,12 +1015,14 @@ msgid "Atlantic Time - Nova Scotia (most places), PEI"
 msgstr "大西洋時間 - 新斯科細亞省（大部分地區），PEI"
 
 #: timezones.h:210
-msgid "America/Havana"
-msgstr "美洲/哈瓦那"
+msgctxt "America"
+msgid "Havana"
+msgstr "哈瓦那"
 
 #: timezones.h:211
-msgid "America/Hermosillo"
-msgstr "美洲/艾爾莫西歐"
+msgctxt "America"
+msgid "Hermosillo"
+msgstr "艾爾莫西歐"
 
 #. comment for time zone America/Hermosillo
 #: timezones.h:213
@@ -754,8 +1030,9 @@ msgid "Mountain Standard Time - Sonora"
 msgstr "山脈標準時間 - 索諾拉"
 
 #: timezones.h:214
-msgid "America/Indiana/Indianapolis"
-msgstr "美洲/印第安那州/印第安納波里"
+msgctxt "America/Indiana"
+msgid "Indianapolis"
+msgstr "印第安納波里"
 
 #. comment for time zone America/Indiana/Indianapolis
 #: timezones.h:216
@@ -763,8 +1040,9 @@ msgid "Eastern Time - Indiana - most locations"
 msgstr "東部時間 - 印地安納州 - 大部分地區"
 
 #: timezones.h:217
-msgid "America/Indiana/Knox"
-msgstr "美洲/印第安那州/納克斯"
+msgctxt "America/Indiana"
+msgid "Knox"
+msgstr "納克斯"
 
 #. comment for time zone America/Indiana/Knox
 #: timezones.h:219
@@ -772,8 +1050,9 @@ msgid "Central Time - Indiana - Starke County"
 msgstr "中央時間 - 印地安納州 - 史塔克郡"
 
 #: timezones.h:220
-msgid "America/Indiana/Marengo"
-msgstr "美洲/印第安那州/馬倫戈"
+msgctxt "America/Indiana"
+msgid "Marengo"
+msgstr "馬倫戈"
 
 #. comment for time zone America/Indiana/Marengo
 #: timezones.h:222
@@ -790,8 +1069,9 @@ msgid "Eastern Time - Indiana - Pike County"
 msgstr "東部時間 - 印地安納州 - 派克郡"
 
 #: timezones.h:226
-msgid "America/Indianapolis"
-msgstr "美洲/印第安納波里"
+msgctxt "America"
+msgid "Indianapolis"
+msgstr "印第安納波里"
 
 #: timezones.h:227
 msgid "America/Indiana/Tell_City"
@@ -803,8 +1083,9 @@ msgid "Central Time - Indiana - Perry County"
 msgstr "中央時間 - 印地安納州 - 佩裡郡"
 
 #: timezones.h:230
-msgid "America/Indiana/Vevay"
-msgstr "美洲/印第安那州/偉威"
+msgctxt "America/Indiana"
+msgid "Vevay"
+msgstr "偉威"
 
 #. comment for time zone America/Indiana/Vevay
 #: timezones.h:232
@@ -830,8 +1111,9 @@ msgid "Eastern Time - Indiana - Pulaski County"
 msgstr "東部時間 - 印地安納 - 普拉斯基郡"
 
 #: timezones.h:239
-msgid "America/Inuvik"
-msgstr "美洲/伊紐維克"
+msgctxt "America"
+msgid "Inuvik"
+msgstr "伊紐維克"
 
 #. comment for time zone America/Inuvik
 #: timezones.h:241
@@ -839,8 +1121,9 @@ msgid "Mountain Time - west Northwest Territories"
 msgstr "山脈時間 - 西北地區西部"
 
 #: timezones.h:242
-msgid "America/Iqaluit"
-msgstr "美洲/伊卡魯伊特"
+msgctxt "America"
+msgid "Iqaluit"
+msgstr "伊卡魯伊特"
 
 #. comment for time zone America/Iqaluit
 #: timezones.h:244
@@ -848,16 +1131,19 @@ msgid "Eastern Time - east Nunavut - most locations"
 msgstr "東部時間 - 努那福東部 - 大部分地區"
 
 #: timezones.h:245
-msgid "America/Jamaica"
-msgstr "美洲/牙買加"
+msgctxt "America"
+msgid "Jamaica"
+msgstr "牙買加"
 
 #: timezones.h:246
-msgid "America/Jujuy"
-msgstr "美洲/胡卉"
+msgctxt "America"
+msgid "Jujuy"
+msgstr "胡卉"
 
 #: timezones.h:247
-msgid "America/Juneau"
-msgstr "美洲/朱諾"
+msgctxt "America"
+msgid "Juneau"
+msgstr "朱諾"
 
 #. comment for time zone America/Juneau
 #: timezones.h:249
@@ -865,8 +1151,9 @@ msgid "Alaska Time - Alaska panhandle"
 msgstr "阿拉斯加時間 - 阿拉斯加狹長地"
 
 #: timezones.h:250
-msgid "America/Kentucky/Louisville"
-msgstr "美洲/肯塔基州/路易維爾"
+msgctxt "America/Kentucky"
+msgid "Louisville"
+msgstr "路易維爾"
 
 #. comment for time zone America/Kentucky/Louisville
 #: timezones.h:252
@@ -874,8 +1161,9 @@ msgid "Eastern Time - Kentucky - Louisville area"
 msgstr "東部時間 - 肯塔基州 - 路易維爾地區"
 
 #: timezones.h:253
-msgid "America/Kentucky/Monticello"
-msgstr "美洲/肯塔基州/蒙地卻羅"
+msgctxt "America/Kentucky"
+msgid "Monticello"
+msgstr "蒙地卻羅"
 
 #. comment for time zone America/Kentucky/Monticello
 #: timezones.h:255
@@ -887,16 +1175,19 @@ msgid "America/Knox_IN"
 msgstr "美洲∕納克斯（印第安那州）"
 
 #: timezones.h:257
-msgid "America/La_Paz"
-msgstr "美洲/拉巴斯"
+msgctxt "America"
+msgid "La_Paz"
+msgstr "拉巴斯"
 
 #: timezones.h:258
-msgid "America/Lima"
-msgstr "美洲/利馬"
+msgctxt "America"
+msgid "Lima"
+msgstr "利馬"
 
 #: timezones.h:259
-msgid "America/Los_Angeles"
-msgstr "美洲/洛杉磯"
+msgctxt "America"
+msgid "Los_Angeles"
+msgstr "洛杉磯"
 
 #. comment for time zone America/Los_Angeles
 #: timezones.h:261
@@ -904,12 +1195,14 @@ msgid "Pacific Time"
 msgstr "太平洋時間"
 
 #: timezones.h:262
-msgid "America/Louisville"
-msgstr "美洲/路易維爾"
+msgctxt "America"
+msgid "Louisville"
+msgstr "路易維爾"
 
 #: timezones.h:263
-msgid "America/Maceio"
-msgstr "美洲/墨塞歐"
+msgctxt "America"
+msgid "Maceio"
+msgstr "墨塞歐"
 
 #. comment for time zone America/Maceio
 #: timezones.h:265
@@ -917,12 +1210,14 @@ msgid "Alagoas, Sergipe"
 msgstr "阿拉戈斯，賽吉貝"
 
 #: timezones.h:266
-msgid "America/Managua"
-msgstr "美洲/馬拿瓜"
+msgctxt "America"
+msgid "Managua"
+msgstr "馬拿瓜"
 
 #: timezones.h:267
-msgid "America/Manaus"
-msgstr "美洲/瑪瑙斯"
+msgctxt "America"
+msgid "Manaus"
+msgstr "瑪瑙斯"
 
 #. comment for time zone America/Manaus
 #: timezones.h:269
@@ -934,12 +1229,14 @@ msgid "America/Marigot"
 msgstr "美洲∕馬利格"
 
 #: timezones.h:271
-msgid "America/Martinique"
-msgstr "美洲/馬汀尼克"
+msgctxt "America"
+msgid "Martinique"
+msgstr "馬汀尼克"
 
 #: timezones.h:272
-msgid "America/Matamoros"
-msgstr "美洲/馬塔莫羅斯"
+msgctxt "America"
+msgid "Matamoros"
+msgstr "馬塔莫羅斯"
 
 #. comment for time zone America/Matamoros
 #: timezones.h:274
@@ -947,8 +1244,9 @@ msgid "US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US borde
 msgstr "美國中央時間 - 科阿韋拉、杜蘭哥、新萊昂、塔毛利帕斯，近美國邊界"
 
 #: timezones.h:275
-msgid "America/Mazatlan"
-msgstr "美洲/馬塞特蘭"
+msgctxt "America"
+msgid "Mazatlan"
+msgstr "馬塞特蘭"
 
 #. comment for time zone America/Mazatlan
 #: timezones.h:277
@@ -956,12 +1254,14 @@ msgid "Mountain Time - S Baja, Nayarit, Sinaloa"
 msgstr "山脈時間 - S Baja、納亞里特州、新納娜阿州"
 
 #: timezones.h:278
-msgid "America/Mendoza"
-msgstr "美洲/門多薩"
+msgctxt "America"
+msgid "Mendoza"
+msgstr "門多薩"
 
 #: timezones.h:279
-msgid "America/Menominee"
-msgstr "美洲/門諾米尼"
+msgctxt "America"
+msgid "Menominee"
+msgstr "門諾米尼"
 
 #. comment for time zone America/Menominee
 #: timezones.h:281
@@ -969,8 +1269,9 @@ msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
 msgstr "中央時間 - 密西根 - 迪金森、喬治比克、Iron 以及米諾米尼郡"
 
 #: timezones.h:282
-msgid "America/Merida"
-msgstr "美洲/梅里達"
+msgctxt "America"
+msgid "Merida"
+msgstr "梅里達"
 
 #. comment for time zone America/Merida
 #: timezones.h:284
@@ -978,8 +1279,9 @@ msgid "Central Time - Campeche, Yucatan"
 msgstr "中央時間 - 坎佩切、尤卡坦"
 
 #: timezones.h:285
-msgid "America/Mexico_City"
-msgstr "美洲/墨西哥"
+msgctxt "America"
+msgid "Mexico_City"
+msgstr "墨西哥"
 
 #. comment for time zone America/Mexico_City
 #: timezones.h:287
@@ -987,8 +1289,9 @@ msgid "Central Time - most locations"
 msgstr "中央時間 - 大部分地區"
 
 #: timezones.h:288
-msgid "America/Miquelon"
-msgstr "美洲/密克朗"
+msgctxt "America"
+msgid "Miquelon"
+msgstr "密克朗"
 
 #: timezones.h:289
 msgid "America/Moncton"
@@ -1000,8 +1303,9 @@ msgid "Atlantic Time - New Brunswick"
 msgstr "大西洋時間 - 新伯倫瑞克"
 
 #: timezones.h:292
-msgid "America/Monterrey"
-msgstr "美洲/蒙特瑞"
+msgctxt "America"
+msgid "Monterrey"
+msgstr "蒙特瑞"
 
 #. comment for time zone America/Monterrey
 #: timezones.h:294
@@ -1009,12 +1313,14 @@ msgid "Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away fro
 msgstr "墨西哥中央時間 - 科阿韋拉、杜蘭哥、新萊昂、塔毛利帕斯，離美國邊界較遠"
 
 #: timezones.h:295
-msgid "America/Montevideo"
-msgstr "美洲/蒙特維多"
+msgctxt "America"
+msgid "Montevideo"
+msgstr "蒙特維多"
 
 #: timezones.h:296
-msgid "America/Montreal"
-msgstr "美洲/蒙特婁"
+msgctxt "America"
+msgid "Montreal"
+msgstr "蒙特婁"
 
 #. comment for time zone America/Montreal
 #: timezones.h:298
@@ -1022,16 +1328,19 @@ msgid "Eastern Time - Quebec - most locations"
 msgstr "東部時間 - 魁北克 - 大部分地區"
 
 #: timezones.h:299
-msgid "America/Montserrat"
-msgstr "美洲/蒙塞拉特"
+msgctxt "America"
+msgid "Montserrat"
+msgstr "蒙塞拉特"
 
 #: timezones.h:300
-msgid "America/Nassau"
-msgstr "美洲/拿梭"
+msgctxt "America"
+msgid "Nassau"
+msgstr "拿梭"
 
 #: timezones.h:301
-msgid "America/New_York"
-msgstr "美洲/紐約"
+msgctxt "America"
+msgid "New_York"
+msgstr "紐約"
 
 #. comment for time zone America/New_York
 #: timezones.h:303
@@ -1039,8 +1348,9 @@ msgid "Eastern Time"
 msgstr "東部時間"
 
 #: timezones.h:304
-msgid "America/Nipigon"
-msgstr "美洲/尼埤崗"
+msgctxt "America"
+msgid "Nipigon"
+msgstr "尼埤崗"
 
 #. comment for time zone America/Nipigon
 #: timezones.h:306
@@ -1048,8 +1358,9 @@ msgid "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-19
 msgstr "東部時間 - 安大略與魁北克 - 未遵照 DST 1967-1973 的地區"
 
 #: timezones.h:307
-msgid "America/Nome"
-msgstr "美洲/諾姆"
+msgctxt "America"
+msgid "Nome"
+msgstr "諾姆"
 
 #. comment for time zone America/Nome
 #: timezones.h:309
@@ -1057,8 +1368,9 @@ msgid "Alaska Time - west Alaska"
 msgstr "阿拉斯加時間 - 阿拉斯加西部"
 
 #: timezones.h:310
-msgid "America/Noronha"
-msgstr "美洲/諾若尼亞"
+msgctxt "America"
+msgid "Noronha"
+msgstr "諾若尼亞"
 
 #. comment for time zone America/Noronha
 #: timezones.h:312
@@ -1084,8 +1396,9 @@ msgid "Central Time - North Dakota - Morton County (except Mandan area)"
 msgstr "中央時間 - 北達科他 - 摩頓郡（不包含曼丹地區）"
 
 #: timezones.h:319
-msgid "America/Ojinaga"
-msgstr "美洲/Ojinaga"
+msgctxt "America"
+msgid "Ojinaga"
+msgstr "Ojinaga"
 
 #. comment for time zone America/Ojinaga
 #: timezones.h:321
@@ -1093,12 +1406,14 @@ msgid "US Mountain Time - Chihuahua near US border"
 msgstr "美國山脈時間 - 奇瓦瓦，近美國邊界"
 
 #: timezones.h:322
-msgid "America/Panama"
-msgstr "美洲/巴拿馬"
+msgctxt "America"
+msgid "Panama"
+msgstr "巴拿馬"
 
 #: timezones.h:323
-msgid "America/Pangnirtung"
-msgstr "美洲/潘尼爾東"
+msgctxt "America"
+msgid "Pangnirtung"
+msgstr "潘尼爾東"
 
 #. comment for time zone America/Pangnirtung
 #: timezones.h:325
@@ -1106,12 +1421,14 @@ msgid "Eastern Time - Pangnirtung, Nunavut"
 msgstr "東部時間 - 旁尼唐、努納武特"
 
 #: timezones.h:326
-msgid "America/Paramaribo"
-msgstr "美洲/巴拉馬利波"
+msgctxt "America"
+msgid "Paramaribo"
+msgstr "巴拉馬利波"
 
 #: timezones.h:327
-msgid "America/Phoenix"
-msgstr "美洲/鳳凰城"
+msgctxt "America"
+msgid "Phoenix"
+msgstr "鳳凰城"
 
 #. comment for time zone America/Phoenix
 #: timezones.h:329
@@ -1119,20 +1436,23 @@ msgid "Mountain Standard Time - Arizona"
 msgstr "山脈標準時間 - 亞利桑那"
 
 #: timezones.h:330
-msgid "America/Port-au-Prince"
-msgstr "美洲/太子港"
+msgctxt "America"
+msgid "Port-au-Prince"
+msgstr "太子港"
 
 #: timezones.h:331
 msgid "America/Porto_Acre"
 msgstr "美洲∕波多諾佛"
 
 #: timezones.h:332
-msgid "America/Port_of_Spain"
-msgstr "美洲/西班牙港"
+msgctxt "America"
+msgid "Port_of_Spain"
+msgstr "西班牙港"
 
 #: timezones.h:333
-msgid "America/Porto_Velho"
-msgstr "美洲/維利尤港"
+msgctxt "America"
+msgid "Porto_Velho"
+msgstr "維利尤港"
 
 #. comment for time zone America/Porto_Velho
 #: timezones.h:335
@@ -1140,12 +1460,14 @@ msgid "Rondonia"
 msgstr "朗多尼亞州"
 
 #: timezones.h:336
-msgid "America/Puerto_Rico"
-msgstr "美洲/波多黎各"
+msgctxt "America"
+msgid "Puerto_Rico"
+msgstr "波多黎各"
 
 #: timezones.h:337
-msgid "America/Rainy_River"
-msgstr "美洲/瑞尼河"
+msgctxt "America"
+msgid "Rainy_River"
+msgstr "瑞尼河"
 
 #. comment for time zone America/Rainy_River
 #: timezones.h:339
@@ -1153,8 +1475,9 @@ msgid "Central Time - Rainy River & Fort Frances, Ontario"
 msgstr "中央時間 - 瑞尼河與弗朗西斯堡、安大略"
 
 #: timezones.h:340
-msgid "America/Rankin_Inlet"
-msgstr "美洲/朗金灣"
+msgctxt "America"
+msgid "Rankin_Inlet"
+msgstr "朗金灣"
 
 #. comment for time zone America/Rankin_Inlet
 #: timezones.h:342
@@ -1162,8 +1485,9 @@ msgid "Central Time - central Nunavut"
 msgstr "中央時間 - 努那福中部"
 
 #: timezones.h:343
-msgid "America/Recife"
-msgstr "美洲/瑞西佛"
+msgctxt "America"
+msgid "Recife"
+msgstr "瑞西佛"
 
 #. comment for time zone America/Recife
 #: timezones.h:345
@@ -1171,8 +1495,9 @@ msgid "Pernambuco"
 msgstr "波納姆布柯州"
 
 #: timezones.h:346
-msgid "America/Regina"
-msgstr "美洲/瑞傑那"
+msgctxt "America"
+msgid "Regina"
+msgstr "瑞傑那"
 
 #. comment for time zone America/Regina
 #: timezones.h:348
@@ -1189,8 +1514,9 @@ msgid "Eastern Standard Time - Resolute, Nunavut"
 msgstr "東部標準時間 - 羅斯魯特、努那福"
 
 #: timezones.h:352
-msgid "America/Rio_Branco"
-msgstr "美洲/布蘭科河"
+msgctxt "America"
+msgid "Rio_Branco"
+msgstr "布蘭科河"
 
 #. comment for time zone America/Rio_Branco
 #: timezones.h:354
@@ -1198,12 +1524,14 @@ msgid "Acre"
 msgstr "阿卡"
 
 #: timezones.h:355
-msgid "America/Rosario"
-msgstr "美洲/羅薩里奧"
+msgctxt "America"
+msgid "Rosario"
+msgstr "羅薩里奧"
 
 #: timezones.h:356
-msgid "America/Santa_Isabel"
-msgstr "美洲/聖塔伊莎貝爾"
+msgctxt "America"
+msgid "Santa_Isabel"
+msgstr "聖塔伊莎貝爾"
 
 #. comment for time zone America/Santa_Isabel
 #: timezones.h:358
@@ -1211,8 +1539,9 @@ msgid "Mexican Pacific Time - Baja California away from US border"
 msgstr "墨西哥太平洋時間 - 離美國邊界較遠的北下加利福尼亞州"
 
 #: timezones.h:359
-msgid "America/Santarem"
-msgstr "美洲/聖塔倫"
+msgctxt "America"
+msgid "Santarem"
+msgstr "聖塔倫"
 
 #. comment for time zone America/Santarem
 #: timezones.h:361
@@ -1220,16 +1549,19 @@ msgid "W Para"
 msgstr "W Para"
 
 #: timezones.h:362
-msgid "America/Santiago"
-msgstr "美洲/聖地牙哥"
+msgctxt "America"
+msgid "Santiago"
+msgstr "聖地牙哥"
 
 #: timezones.h:365
-msgid "America/Santo_Domingo"
-msgstr "美洲/聖多明哥"
+msgctxt "America"
+msgid "Santo_Domingo"
+msgstr "聖多明哥"
 
 #: timezones.h:366
-msgid "America/Sao_Paulo"
-msgstr "美洲/聖保羅"
+msgctxt "America"
+msgid "Sao_Paulo"
+msgstr "聖保羅"
 
 #. comment for time zone America/Sao_Paulo
 #: timezones.h:368
@@ -1237,8 +1569,9 @@ msgid "S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
 msgstr "巴西南部與東南部（GO、DF、MG、ES、RJ、SP、PR、SC、RS）"
 
 #: timezones.h:369
-msgid "America/Scoresbysund"
-msgstr "美洲/司廓爾比桑"
+msgctxt "America"
+msgid "Scoresbysund"
+msgstr "司廓爾比桑"
 
 #. comment for time zone America/Scoresbysund
 #: timezones.h:371
@@ -1246,8 +1579,9 @@ msgid "Scoresbysund / Ittoqqortoormiit"
 msgstr "司廓爾比桑/Ittoqqortoormiit"
 
 #: timezones.h:372
-msgid "America/Shiprock"
-msgstr "美洲/船岩"
+msgctxt "America"
+msgid "Shiprock"
+msgstr "船岩"
 
 #. comment for time zone America/Shiprock
 #: timezones.h:374
@@ -1259,8 +1593,9 @@ msgid "America/St_Barthelemy"
 msgstr "美洲∕聖巴托洛繆"
 
 #: timezones.h:376
-msgid "America/St_Johns"
-msgstr "美洲/聖約翰"
+msgctxt "America"
+msgid "St_Johns"
+msgstr "聖約翰"
 
 #. comment for time zone America/St_Johns
 #: timezones.h:378
@@ -1268,24 +1603,29 @@ msgid "Newfoundland Time, including SE Labrador"
 msgstr "紐芬蘭標準時間，包括拉布多爾東南部"
 
 #: timezones.h:379
-msgid "America/St_Kitts"
-msgstr "美洲/聖基次"
+msgctxt "America"
+msgid "St_Kitts"
+msgstr "聖基次"
 
 #: timezones.h:380
-msgid "America/St_Lucia"
-msgstr "美洲/聖露西亞"
+msgctxt "America"
+msgid "St_Lucia"
+msgstr "聖露西亞"
 
 #: timezones.h:381
-msgid "America/St_Thomas"
-msgstr "美洲/聖湯馬斯"
+msgctxt "America"
+msgid "St_Thomas"
+msgstr "聖湯馬斯"
 
 #: timezones.h:382
-msgid "America/St_Vincent"
-msgstr "美洲/聖文生"
+msgctxt "America"
+msgid "St_Vincent"
+msgstr "聖文生"
 
 #: timezones.h:383
-msgid "America/Swift_Current"
-msgstr "美洲/湍水"
+msgctxt "America"
+msgid "Swift_Current"
+msgstr "湍水"
 
 #. comment for time zone America/Swift_Current
 #: timezones.h:385
@@ -1293,12 +1633,14 @@ msgid "Central Standard Time - Saskatchewan - midwest"
 msgstr "中央標準時間 - 薩克其萬省 - 中西部"
 
 #: timezones.h:386
-msgid "America/Tegucigalpa"
-msgstr "美洲/德古斯加巴"
+msgctxt "America"
+msgid "Tegucigalpa"
+msgstr "德古斯加巴"
 
 #: timezones.h:387
-msgid "America/Thule"
-msgstr "美洲/圖里"
+msgctxt "America"
+msgid "Thule"
+msgstr "圖里"
 
 #. comment for time zone America/Thule
 #: timezones.h:389
@@ -1306,8 +1648,9 @@ msgid "Thule / Pituffik"
 msgstr "圖里/皮圖非克"
 
 #: timezones.h:390
-msgid "America/Thunder_Bay"
-msgstr "美洲/雷灣"
+msgctxt "America"
+msgid "Thunder_Bay"
+msgstr "雷灣"
 
 #. comment for time zone America/Thunder_Bay
 #: timezones.h:392
@@ -1315,8 +1658,9 @@ msgid "Eastern Time - Thunder Bay, Ontario"
 msgstr "東部時間 - 雷灣、安大略"
 
 #: timezones.h:393
-msgid "America/Tijuana"
-msgstr "美洲/提亞瓦納"
+msgctxt "America"
+msgid "Tijuana"
+msgstr "提亞瓦納"
 
 #. comment for time zone America/Tijuana
 #: timezones.h:395
@@ -1324,8 +1668,9 @@ msgid "US Pacific Time - Baja California near US border"
 msgstr "墨西哥太平洋時間 - 離美國邊界較近的北下加利福尼亞州"
 
 #: timezones.h:396
-msgid "America/Toronto"
-msgstr "美洲/多倫多"
+msgctxt "America"
+msgid "Toronto"
+msgstr "多倫多"
 
 #. comment for time zone America/Toronto
 #: timezones.h:398
@@ -1333,12 +1678,14 @@ msgid "Eastern Time - Ontario - most locations"
 msgstr "東部時間 - 安大略 - 大部分地區"
 
 #: timezones.h:399
-msgid "America/Tortola"
-msgstr "美洲/托爾托拉"
+msgctxt "America"
+msgid "Tortola"
+msgstr "托爾托拉"
 
 #: timezones.h:400
-msgid "America/Vancouver"
-msgstr "美洲/溫哥華"
+msgctxt "America"
+msgid "Vancouver"
+msgstr "溫哥華"
 
 #. comment for time zone America/Vancouver
 #: timezones.h:402
@@ -1350,8 +1697,9 @@ msgid "America/Virgin"
 msgstr "美洲∕維爾京"
 
 #: timezones.h:404
-msgid "America/Whitehorse"
-msgstr "美洲/白馬"
+msgctxt "America"
+msgid "Whitehorse"
+msgstr "白馬"
 
 #. comment for time zone America/Whitehorse
 #: timezones.h:406
@@ -1359,8 +1707,9 @@ msgid "Pacific Time - south Yukon"
 msgstr "太平洋時間 - 育光南部"
 
 #: timezones.h:407
-msgid "America/Winnipeg"
-msgstr "美洲/溫尼伯"
+msgctxt "America"
+msgid "Winnipeg"
+msgstr "溫尼伯"
 
 #. comment for time zone America/Winnipeg
 #: timezones.h:409
@@ -1368,8 +1717,9 @@ msgid "Central Time - Manitoba & west Ontario"
 msgstr "中央時間 - 曼尼托巴以及安大略西部"
 
 #: timezones.h:410
-msgid "America/Yakutat"
-msgstr "美洲/亞庫特"
+msgctxt "America"
+msgid "Yakutat"
+msgstr "亞庫特"
 
 #. comment for time zone America/Yakutat
 #: timezones.h:412
@@ -1377,8 +1727,9 @@ msgid "Alaska Time - Alaska panhandle neck"
 msgstr "阿拉斯加時間 - Alaska panhandle neck"
 
 #: timezones.h:413
-msgid "America/Yellowknife"
-msgstr "美洲/黃刀"
+msgctxt "America"
+msgid "Yellowknife"
+msgstr "黃刀"
 
 #. comment for time zone America/Yellowknife
 #: timezones.h:415
@@ -1386,8 +1737,9 @@ msgid "Mountain Time - central Northwest Territories"
 msgstr "山脈時間 - 中央西北地區"
 
 #: timezones.h:416
-msgid "Antarctica/Casey"
-msgstr "南極洲/凱西"
+msgctxt "Antarctica"
+msgid "Casey"
+msgstr "凱西"
 
 #. comment for time zone Antarctica/Casey
 #: timezones.h:418
@@ -1395,8 +1747,9 @@ msgid "Casey Station, Bailey Peninsula"
 msgstr "凱西站，貝里半島"
 
 #: timezones.h:419
-msgid "Antarctica/Davis"
-msgstr "南極洲/戴維斯"
+msgctxt "Antarctica"
+msgid "Davis"
+msgstr "戴維斯"
 
 #. comment for time zone Antarctica/Davis
 #: timezones.h:421
@@ -1404,8 +1757,9 @@ msgid "Davis Station, Vestfold Hills"
 msgstr "戴維斯站，維斯特福爾得嶺"
 
 #: timezones.h:422
-msgid "Antarctica/DumontDUrville"
-msgstr "南極洲/迪蒙‧迪爾維爾"
+msgctxt "Antarctica"
+msgid "DumontDUrville"
+msgstr "迪蒙‧迪爾維爾"
 
 #. comment for time zone Antarctica/DumontDUrville
 #: timezones.h:424
@@ -1413,8 +1767,9 @@ msgid "Dumont-d'Urville Station, Terre Adelie"
 msgstr "迪蒙‧迪爾維爾站，阿黛利地"
 
 #: timezones.h:425
-msgid "Antarctica/Macquarie"
-msgstr "南極洲/麥格理"
+msgctxt "Antarctica"
+msgid "Macquarie"
+msgstr "麥格理"
 
 #. comment for time zone Antarctica/Macquarie
 #: timezones.h:427
@@ -1422,8 +1777,9 @@ msgid "Macquarie Island Station, Macquarie Island"
 msgstr "麥格理島站，麥格理島"
 
 #: timezones.h:428
-msgid "Antarctica/Mawson"
-msgstr "南極洲/墨生"
+msgctxt "Antarctica"
+msgid "Mawson"
+msgstr "墨生"
 
 #. comment for time zone Antarctica/Mawson
 #: timezones.h:430
@@ -1431,8 +1787,9 @@ msgid "Mawson Station, Holme Bay"
 msgstr "墨生站，霍姆灣"
 
 #: timezones.h:431
-msgid "Antarctica/McMurdo"
-msgstr "南極洲/麥克莫多"
+msgctxt "Antarctica"
+msgid "McMurdo"
+msgstr "麥克莫多"
 
 #. comment for time zone Antarctica/McMurdo
 #: timezones.h:433
@@ -1440,8 +1797,9 @@ msgid "McMurdo Station, Ross Island"
 msgstr "麥克莫多站，羅斯島"
 
 #: timezones.h:434
-msgid "Antarctica/Palmer"
-msgstr "南極洲/帕爾莫"
+msgctxt "Antarctica"
+msgid "Palmer"
+msgstr "帕爾莫"
 
 #. comment for time zone Antarctica/Palmer
 #: timezones.h:436
@@ -1458,8 +1816,9 @@ msgid "Rothera Station, Adelaide Island"
 msgstr "羅西拉站，艾特利島"
 
 #: timezones.h:440
-msgid "Antarctica/South_Pole"
-msgstr "南極洲/南極點"
+msgctxt "Antarctica"
+msgid "South_Pole"
+msgstr "南極點"
 
 #. comment for time zone Antarctica/South_Pole
 #: timezones.h:442
@@ -1467,8 +1826,9 @@ msgid "Amundsen-Scott Station, South Pole"
 msgstr "阿慕得森-史考特站，南極"
 
 #: timezones.h:443
-msgid "Antarctica/Syowa"
-msgstr "南極洲/昭和"
+msgctxt "Antarctica"
+msgid "Syowa"
+msgstr "昭和"
 
 #. comment for time zone Antarctica/Syowa
 #: timezones.h:445
@@ -1476,8 +1836,9 @@ msgid "Syowa Station, E Ongul I"
 msgstr "昭和站，南極釣鉤島東部"
 
 #: timezones.h:446
-msgid "Antarctica/Vostok"
-msgstr "南極洲/東方"
+msgctxt "Antarctica"
+msgid "Vostok"
+msgstr "東方"
 
 #. comment for time zone Antarctica/Vostok
 #: timezones.h:448
@@ -1485,24 +1846,29 @@ msgid "Vostok Station, S Magnetic Pole"
 msgstr "沃斯托克站，南 磁點"
 
 #: timezones.h:449
-msgid "Arctic/Longyearbyen"
-msgstr "北極/朗伊爾城"
+msgctxt "Arctic"
+msgid "Longyearbyen"
+msgstr "朗伊爾城"
 
 #: timezones.h:450
-msgid "Asia/Aden"
-msgstr "亞洲/亞丁"
+msgctxt "Asia"
+msgid "Aden"
+msgstr "亞丁"
 
 #: timezones.h:451
-msgid "Asia/Almaty"
-msgstr "亞洲/阿拉木圖"
+msgctxt "Asia"
+msgid "Almaty"
+msgstr "阿拉木圖"
 
 #: timezones.h:454
-msgid "Asia/Amman"
-msgstr "亞洲/安曼"
+msgctxt "Asia"
+msgid "Amman"
+msgstr "安曼"
 
 #: timezones.h:455
-msgid "Asia/Anadyr"
-msgstr "亞洲/阿納德爾"
+msgctxt "Asia"
+msgid "Anadyr"
+msgstr "阿納德爾"
 
 #. comment for time zone Asia/Anadyr
 #: timezones.h:457
@@ -1510,8 +1876,9 @@ msgid "Moscow+08 - Bering Sea"
 msgstr "莫斯科+08 - 白令海"
 
 #: timezones.h:458
-msgid "Asia/Aqtau"
-msgstr "亞洲/阿克套"
+msgctxt "Asia"
+msgid "Aqtau"
+msgstr "阿克套"
 
 #. comment for time zone Asia/Aqtau
 #: timezones.h:460
@@ -1519,8 +1886,9 @@ msgid "Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)"
 msgstr "阿特勞（Atirau，Gur'yev）、曼格斯套（Mankistau）"
 
 #: timezones.h:461
-msgid "Asia/Aqtobe"
-msgstr "亞洲/阿克托貝"
+msgctxt "Asia"
+msgid "Aqtobe"
+msgstr "阿克托貝"
 
 #. comment for time zone Asia/Aqtobe
 #: timezones.h:463
@@ -1528,44 +1896,53 @@ msgid "Aqtobe (Aktobe)"
 msgstr "阿克托貝（Aktobe）"
 
 #: timezones.h:464
-msgid "Asia/Ashgabat"
-msgstr "亞洲/阿什喀巴得"
+msgctxt "Asia"
+msgid "Ashgabat"
+msgstr "阿什喀巴得"
 
 #: timezones.h:465
 msgid "Asia/Ashkhabad"
 msgstr "亞洲∕阿什哈巴德"
 
 #: timezones.h:466
-msgid "Asia/Baghdad"
-msgstr "亞洲/巴格達"
+msgctxt "Asia"
+msgid "Baghdad"
+msgstr "巴格達"
 
 #: timezones.h:467
-msgid "Asia/Bahrain"
-msgstr "亞洲/巴林"
+msgctxt "Asia"
+msgid "Bahrain"
+msgstr "巴林"
 
 #: timezones.h:468
-msgid "Asia/Baku"
-msgstr "亞洲/巴庫"
+msgctxt "Asia"
+msgid "Baku"
+msgstr "巴庫"
 
 #: timezones.h:469
-msgid "Asia/Bangkok"
-msgstr "亞洲/曼谷"
+msgctxt "Asia"
+msgid "Bangkok"
+msgstr "曼谷"
 
 #: timezones.h:470
-msgid "Asia/Beirut"
-msgstr "亞洲/貝魯特"
+msgctxt "Asia"
+msgid "Beirut"
+msgstr "貝魯特"
 
 #: timezones.h:471
-msgid "Asia/Bishkek"
-msgstr "亞洲/比什凱克"
+msgctxt "Asia"
+msgid "Bishkek"
+msgstr "比什凱克"
 
 #: timezones.h:472
-msgid "Asia/Brunei"
-msgstr "亞洲/汶萊"
+msgctxt "Asia"
+msgid "Brunei"
+msgstr "汶萊"
 
 #: timezones.h:473
-msgid "Asia/Calcutta"
-msgstr "亞洲/加爾各答"
+msgctxt "Asia"
+msgid "Calcutta"
+msgstr "加爾各答"
 
 #: timezones.h:474
 msgid "Asia/Choibalsan"
@@ -1590,40 +1967,48 @@ msgid "Asia/Chungking"
 msgstr "亞洲∕重慶"
 
 #: timezones.h:481
-msgid "Asia/Colombo"
-msgstr "亞洲/可倫坡"
+msgctxt "Asia"
+msgid "Colombo"
+msgstr "可倫坡"
 
 #: timezones.h:482
 msgid "Asia/Dacca"
 msgstr "亞洲∕達卡"
 
 #: timezones.h:483
-msgid "Asia/Damascus"
-msgstr "亞洲/大馬士革"
+msgctxt "Asia"
+msgid "Damascus"
+msgstr "大馬士革"
 
 #: timezones.h:484
-msgid "Asia/Dhaka"
-msgstr "亞洲/達卡"
+msgctxt "Asia"
+msgid "Dhaka"
+msgstr "達卡"
 
 #: timezones.h:485
-msgid "Asia/Dili"
-msgstr "亞洲/帝力"
+msgctxt "Asia"
+msgid "Dili"
+msgstr "帝力"
 
 #: timezones.h:486
-msgid "Asia/Dubai"
-msgstr "亞洲/杜拜"
+msgctxt "Asia"
+msgid "Dubai"
+msgstr "杜拜"
 
 #: timezones.h:487
-msgid "Asia/Dushanbe"
-msgstr "亞洲/杜桑貝"
+msgctxt "Asia"
+msgid "Dushanbe"
+msgstr "杜桑貝"
 
 #: timezones.h:488
-msgid "Asia/Gaza"
-msgstr "亞洲/迦薩"
+msgctxt "Asia"
+msgid "Gaza"
+msgstr "迦薩"
 
 #: timezones.h:489
-msgid "Asia/Harbin"
-msgstr "亞洲/哈爾濱"
+msgctxt "Asia"
+msgid "Harbin"
+msgstr "哈爾濱"
 
 #. comment for time zone Asia/Harbin
 #: timezones.h:491
@@ -1635,12 +2020,14 @@ msgid "Asia/Ho_Chi_Minh"
 msgstr "亞洲∕胡志明市"
 
 #: timezones.h:493
-msgid "Asia/Hong_Kong"
-msgstr "亞洲/香港"
+msgctxt "Asia"
+msgid "Hong_Kong"
+msgstr "香港"
 
 #: timezones.h:494
-msgid "Asia/Hovd"
-msgstr "亞洲/科布多"
+msgctxt "Asia"
+msgid "Hovd"
+msgstr "科布多"
 
 #. comment for time zone Asia/Hovd
 #: timezones.h:496
@@ -1648,8 +2035,9 @@ msgid "Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan"
 msgstr "巴彥烏列蓋、戈壁阿爾泰、呼布德、烏布蘇、札布汗"
 
 #: timezones.h:497
-msgid "Asia/Irkutsk"
-msgstr "亞洲/伊爾庫茨克"
+msgctxt "Asia"
+msgid "Irkutsk"
+msgstr "伊爾庫茨克"
 
 #. comment for time zone Asia/Irkutsk
 #: timezones.h:499
@@ -1657,12 +2045,14 @@ msgid "Moscow+05 - Lake Baikal"
 msgstr "莫斯科+05 - 貝加爾湖"
 
 #: timezones.h:500
-msgid "Asia/Istanbul"
-msgstr "亞洲/伊斯坦堡"
+msgctxt "Asia"
+msgid "Istanbul"
+msgstr "伊斯坦堡"
 
 #: timezones.h:501
-msgid "Asia/Jakarta"
-msgstr "亞洲/雅加達"
+msgctxt "Asia"
+msgid "Jakarta"
+msgstr "雅加達"
 
 #. comment for time zone Asia/Jakarta
 #: timezones.h:503
@@ -1670,8 +2060,9 @@ msgid "Java & Sumatra"
 msgstr "爪哇與蘇門答臘"
 
 #: timezones.h:504
-msgid "Asia/Jayapura"
-msgstr "亞洲/嘉雅浦拉"
+msgctxt "Asia"
+msgid "Jayapura"
+msgstr "嘉雅浦拉"
 
 #. comment for time zone Asia/Jayapura
 #: timezones.h:506
@@ -1679,16 +2070,19 @@ msgid "Irian Jaya & the Moluccas"
 msgstr "伊利安查亞與摩鹿加"
 
 #: timezones.h:507
-msgid "Asia/Jerusalem"
-msgstr "亞洲/耶路撒冷"
+msgctxt "Asia"
+msgid "Jerusalem"
+msgstr "耶路撒冷"
 
 #: timezones.h:508
-msgid "Asia/Kabul"
-msgstr "亞洲/喀布爾"
+msgctxt "Asia"
+msgid "Kabul"
+msgstr "喀布爾"
 
 #: timezones.h:509
-msgid "Asia/Kamchatka"
-msgstr "亞洲/堪察加"
+msgctxt "Asia"
+msgid "Kamchatka"
+msgstr "堪察加"
 
 #. comment for time zone Asia/Kamchatka
 #: timezones.h:511
@@ -1696,12 +2090,14 @@ msgid "Moscow+08 - Kamchatka"
 msgstr "莫斯科+08 - 堪察加"
 
 #: timezones.h:512
-msgid "Asia/Karachi"
-msgstr "亞洲/喀拉蚩"
+msgctxt "Asia"
+msgid "Karachi"
+msgstr "喀拉蚩"
 
 #: timezones.h:513
-msgid "Asia/Kashgar"
-msgstr "亞洲/喀什噶爾"
+msgctxt "Asia"
+msgid "Kashgar"
+msgstr "喀什噶爾"
 
 #. comment for time zone Asia/Kashgar
 #: timezones.h:515
@@ -1709,20 +2105,24 @@ msgid "west Tibet & Xinjiang"
 msgstr "西藏與新疆"
 
 #: timezones.h:516
-msgid "Asia/Kathmandu"
-msgstr "亞洲/加德滿都"
+msgctxt "Asia"
+msgid "Kathmandu"
+msgstr "加德滿都"
 
 #: timezones.h:517
-msgid "Asia/Katmandu"
-msgstr "亞洲/加德滿都"
+msgctxt "Asia"
+msgid "Katmandu"
+msgstr "加德滿都"
 
 #: timezones.h:518
-msgid "Asia/Kolkata"
-msgstr "亞洲/加爾各答"
+msgctxt "Asia"
+msgid "Kolkata"
+msgstr "加爾各答"
 
 #: timezones.h:519
-msgid "Asia/Krasnoyarsk"
-msgstr "亞洲/克拉斯諾亞爾斯克"
+msgctxt "Asia"
+msgid "Krasnoyarsk"
+msgstr "克拉斯諾亞爾斯克"
 
 #. comment for time zone Asia/Krasnoyarsk
 #: timezones.h:521
@@ -1730,8 +2130,9 @@ msgid "Moscow+04 - Yenisei River"
 msgstr "莫斯科+04 - 葉尼塞河"
 
 #: timezones.h:522
-msgid "Asia/Kuala_Lumpur"
-msgstr "亞洲/吉隆坡"
+msgctxt "Asia"
+msgid "Kuala_Lumpur"
+msgstr "吉隆坡"
 
 #. comment for time zone Asia/Kuala_Lumpur
 #: timezones.h:524
@@ -1739,8 +2140,9 @@ msgid "peninsular Malaysia"
 msgstr "馬來西亞半島"
 
 #: timezones.h:525
-msgid "Asia/Kuching"
-msgstr "亞洲/古晉"
+msgctxt "Asia"
+msgid "Kuching"
+msgstr "古晉"
 
 #. comment for time zone Asia/Kuching
 #: timezones.h:527
@@ -1748,20 +2150,24 @@ msgid "Sabah & Sarawak"
 msgstr "沙巴與沙勞越"
 
 #: timezones.h:528
-msgid "Asia/Kuwait"
-msgstr "亞洲/科威特"
+msgctxt "Asia"
+msgid "Kuwait"
+msgstr "科威特"
 
 #: timezones.h:529
-msgid "Asia/Macao"
-msgstr "亞洲/澳門"
+msgctxt "Asia"
+msgid "Macao"
+msgstr "澳門"
 
 #: timezones.h:530
-msgid "Asia/Macau"
-msgstr "亞洲/澳門"
+msgctxt "Asia"
+msgid "Macau"
+msgstr "澳門"
 
 #: timezones.h:531
-msgid "Asia/Magadan"
-msgstr "亞洲/馬加丹"
+msgctxt "Asia"
+msgid "Magadan"
+msgstr "馬加丹"
 
 #. comment for time zone Asia/Magadan
 #: timezones.h:533
@@ -1778,20 +2184,24 @@ msgid "east & south Borneo, Celebes, Bali, Nusa Tengarra, west Timor"
 msgstr "婆羅東部與南部、西里貝斯、峇里島、Nusa Tengarra、西帝汶"
 
 #: timezones.h:537
-msgid "Asia/Manila"
-msgstr "亞洲/馬尼拉"
+msgctxt "Asia"
+msgid "Manila"
+msgstr "馬尼拉"
 
 #: timezones.h:538
-msgid "Asia/Muscat"
-msgstr "亞洲/馬斯喀特"
+msgctxt "Asia"
+msgid "Muscat"
+msgstr "馬斯喀特"
 
 #: timezones.h:539
-msgid "Asia/Nicosia"
-msgstr "亞洲/尼科西亞"
+msgctxt "Asia"
+msgid "Nicosia"
+msgstr "尼科西亞"
 
 #: timezones.h:540
-msgid "Asia/Novokuznetsk"
-msgstr "亞洲/新庫斯內次"
+msgctxt "Asia"
+msgid "Novokuznetsk"
+msgstr "新庫斯內次"
 
 #. comment for time zone Asia/Novokuznetsk
 #: timezones.h:542
@@ -1799,8 +2209,9 @@ msgid "Moscow+03 - Novokuznetsk"
 msgstr "莫斯科+03 - 新庫斯內次"
 
 #: timezones.h:543
-msgid "Asia/Novosibirsk"
-msgstr "亞洲/新西伯利亞"
+msgctxt "Asia"
+msgid "Novosibirsk"
+msgstr "新西伯利亞"
 
 #. comment for time zone Asia/Novosibirsk
 #: timezones.h:545
@@ -1808,8 +2219,9 @@ msgid "Moscow+03 - Novosibirsk"
 msgstr "莫斯科+03 - 新西伯利亞"
 
 #: timezones.h:546
-msgid "Asia/Omsk"
-msgstr "亞洲/鄂木斯克"
+msgctxt "Asia"
+msgid "Omsk"
+msgstr "鄂木斯克"
 
 #. comment for time zone Asia/Omsk
 #: timezones.h:548
@@ -1826,12 +2238,14 @@ msgid "West Kazakhstan"
 msgstr "哈薩克西部"
 
 #: timezones.h:552
-msgid "Asia/Phnom_Penh"
-msgstr "亞洲/金邊"
+msgctxt "Asia"
+msgid "Phnom_Penh"
+msgstr "金邊"
 
 #: timezones.h:553
-msgid "Asia/Pontianak"
-msgstr "亞洲/坤甸"
+msgctxt "Asia"
+msgid "Pontianak"
+msgstr "坤甸"
 
 #. comment for time zone Asia/Pontianak
 #: timezones.h:555
@@ -1839,12 +2253,14 @@ msgid "west & central Borneo"
 msgstr "婆羅西部與中部"
 
 #: timezones.h:556
-msgid "Asia/Pyongyang"
-msgstr "亞洲/平壤"
+msgctxt "Asia"
+msgid "Pyongyang"
+msgstr "平壤"
 
 #: timezones.h:557
-msgid "Asia/Qatar"
-msgstr "亞洲/卡達"
+msgctxt "Asia"
+msgid "Qatar"
+msgstr "卡達"
 
 #: timezones.h:558
 msgid "Asia/Qyzylorda"
@@ -1856,28 +2272,34 @@ msgid "Qyzylorda (Kyzylorda, Kzyl-Orda)"
 msgstr "克孜勒奧爾達（Kyzylorda、Kzyl-Orda）"
 
 #: timezones.h:561
-msgid "Asia/Rangoon"
-msgstr "亞洲/仰光"
+msgctxt "Asia"
+msgid "Rangoon"
+msgstr "仰光"
 
 #: timezones.h:562
-msgid "Asia/Riyadh"
-msgstr "亞洲/利雅得"
+msgctxt "Asia"
+msgid "Riyadh"
+msgstr "利雅得"
 
 #: timezones.h:563
-msgid "Asia/Riyadh87"
-msgstr "亞洲/利雅得87"
+msgctxt "Asia"
+msgid "Riyadh87"
+msgstr "利雅得87"
 
 #: timezones.h:564
-msgid "Asia/Riyadh88"
-msgstr "亞洲/利雅得88"
+msgctxt "Asia"
+msgid "Riyadh88"
+msgstr "利雅得88"
 
 #: timezones.h:565
-msgid "Asia/Riyadh89"
-msgstr "亞洲/利雅得89"
+msgctxt "Asia"
+msgid "Riyadh89"
+msgstr "利雅得89"
 
 #: timezones.h:566
-msgid "Asia/Saigon"
-msgstr "亞洲/胡志明市"
+msgctxt "Asia"
+msgid "Saigon"
+msgstr "胡志明市"
 
 #: timezones.h:567
 msgid "Asia/Sakhalin"
@@ -1889,8 +2311,9 @@ msgid "Moscow+07 - Sakhalin Island"
 msgstr "莫斯科+07 - 庫頁島"
 
 #: timezones.h:570
-msgid "Asia/Samarkand"
-msgstr "亞洲/撒馬爾罕"
+msgctxt "Asia"
+msgid "Samarkand"
+msgstr "撒馬爾罕"
 
 #. comment for time zone Asia/Samarkand
 #: timezones.h:572
@@ -1898,12 +2321,14 @@ msgid "west Uzbekistan"
 msgstr "烏茲別克斯坦西部"
 
 #: timezones.h:573
-msgid "Asia/Seoul"
-msgstr "亞洲/首爾"
+msgctxt "Asia"
+msgid "Seoul"
+msgstr "首爾"
 
 #: timezones.h:574
-msgid "Asia/Shanghai"
-msgstr "亞洲/上海"
+msgctxt "Asia"
+msgid "Shanghai"
+msgstr "上海"
 
 #. comment for time zone Asia/Shanghai
 #: timezones.h:576
@@ -1911,16 +2336,19 @@ msgid "east China - Beijing, Guangdong, Shanghai, etc."
 msgstr "中國大陸東部 - 北京、廣東、上海等等"
 
 #: timezones.h:577
-msgid "Asia/Singapore"
-msgstr "亞洲/新加坡"
+msgctxt "Asia"
+msgid "Singapore"
+msgstr "新加坡"
 
 #: timezones.h:578
-msgid "Asia/Taipei"
-msgstr "亞洲/台北"
+msgctxt "Asia"
+msgid "Taipei"
+msgstr "台北"
 
 #: timezones.h:579
-msgid "Asia/Tashkent"
-msgstr "亞洲/塔什干"
+msgctxt "Asia"
+msgid "Tashkent"
+msgstr "塔什干"
 
 #. comment for time zone Asia/Tashkent
 #: timezones.h:581
@@ -1928,44 +2356,53 @@ msgid "east Uzbekistan"
 msgstr "烏茲別克斯坦東部"
 
 #: timezones.h:582
-msgid "Asia/Tbilisi"
-msgstr "亞洲/第比利斯"
+msgctxt "Asia"
+msgid "Tbilisi"
+msgstr "第比利斯"
 
 #: timezones.h:583
-msgid "Asia/Tehran"
-msgstr "亞洲/德黑蘭"
+msgctxt "Asia"
+msgid "Tehran"
+msgstr "德黑蘭"
 
 #: timezones.h:584
 msgid "Asia/Tel_Aviv"
 msgstr "亞洲∕特拉維夫"
 
 #: timezones.h:585
-msgid "Asia/Thimbu"
-msgstr "亞洲/辛布"
+msgctxt "Asia"
+msgid "Thimbu"
+msgstr "辛布"
 
 #: timezones.h:586
-msgid "Asia/Thimphu"
-msgstr "亞洲/辛布"
+msgctxt "Asia"
+msgid "Thimphu"
+msgstr "辛布"
 
 #: timezones.h:587
-msgid "Asia/Tokyo"
-msgstr "亞洲/東京"
+msgctxt "Asia"
+msgid "Tokyo"
+msgstr "東京"
 
 #: timezones.h:588
-msgid "Asia/Ujung_Pandang"
-msgstr "亞洲/烏戎潘當"
+msgctxt "Asia"
+msgid "Ujung_Pandang"
+msgstr "烏戎潘當"
 
 #: timezones.h:589
-msgid "Asia/Ulaanbaatar"
-msgstr "亞洲/烏蘭巴托"
+msgctxt "Asia"
+msgid "Ulaanbaatar"
+msgstr "烏蘭巴托"
 
 #: timezones.h:592
-msgid "Asia/Ulan_Bator"
-msgstr "亞洲/烏蘭巴托"
+msgctxt "Asia"
+msgid "Ulan_Bator"
+msgstr "烏蘭巴托"
 
 #: timezones.h:593
-msgid "Asia/Urumqi"
-msgstr "亞洲/烏魯木齊"
+msgctxt "Asia"
+msgid "Urumqi"
+msgstr "烏魯木齊"
 
 #. comment for time zone Asia/Urumqi
 #: timezones.h:595
@@ -1973,12 +2410,14 @@ msgid "most of Tibet & Xinjiang"
 msgstr "大部分西藏和新疆地區"
 
 #: timezones.h:596
-msgid "Asia/Vientiane"
-msgstr "亞洲/永珍"
+msgctxt "Asia"
+msgid "Vientiane"
+msgstr "永珍"
 
 #: timezones.h:597
-msgid "Asia/Vladivostok"
-msgstr "亞洲/海參崴"
+msgctxt "Asia"
+msgid "Vladivostok"
+msgstr "海參崴"
 
 #. comment for time zone Asia/Vladivostok
 #: timezones.h:599
@@ -1986,8 +2425,9 @@ msgid "Moscow+07 - Amur River"
 msgstr "莫斯科+07 - 阿姆河"
 
 #: timezones.h:600
-msgid "Asia/Yakutsk"
-msgstr "亞洲/雅庫次克"
+msgctxt "Asia"
+msgid "Yakutsk"
+msgstr "雅庫次克"
 
 #. comment for time zone Asia/Yakutsk
 #: timezones.h:602
@@ -1995,8 +2435,9 @@ msgid "Moscow+06 - Lena River"
 msgstr "莫斯科+06 - 萊納河"
 
 #: timezones.h:603
-msgid "Asia/Yekaterinburg"
-msgstr "亞洲/葉卡捷琳堡"
+msgctxt "Asia"
+msgid "Yekaterinburg"
+msgstr "葉卡捷琳堡"
 
 #. comment for time zone Asia/Yekaterinburg
 #: timezones.h:605
@@ -2004,12 +2445,14 @@ msgid "Moscow+02 - Urals"
 msgstr "莫斯科+02 - 烏拉山"
 
 #: timezones.h:606
-msgid "Asia/Yerevan"
-msgstr "亞洲/葉里溫"
+msgctxt "Asia"
+msgid "Yerevan"
+msgstr "葉里溫"
 
 #: timezones.h:607
-msgid "Atlantic/Azores"
-msgstr "大西洋/亞速爾群島"
+msgctxt "Atlantic"
+msgid "Azores"
+msgstr "亞速爾群島"
 
 #. comment for time zone Atlantic/Azores
 #: timezones.h:609
@@ -2017,12 +2460,14 @@ msgid "Azores"
 msgstr "亞速爾群島"
 
 #: timezones.h:610
-msgid "Atlantic/Bermuda"
-msgstr "大西洋/百慕達"
+msgctxt "Atlantic"
+msgid "Bermuda"
+msgstr "百慕達"
 
 #: timezones.h:611
-msgid "Atlantic/Canary"
-msgstr "大西洋/卡納里群島"
+msgctxt "Atlantic"
+msgid "Canary"
+msgstr "卡納里群島"
 
 #. comment for time zone Atlantic/Canary
 #: timezones.h:613
@@ -2030,24 +2475,29 @@ msgid "Canary Islands"
 msgstr "加那利群島"
 
 #: timezones.h:614
-msgid "Atlantic/Cape_Verde"
-msgstr "大西洋/維德角"
+msgctxt "Atlantic"
+msgid "Cape_Verde"
+msgstr "維德角"
 
 #: timezones.h:615
-msgid "Atlantic/Faeroe"
-msgstr "大西洋/法羅群島"
+msgctxt "Atlantic"
+msgid "Faeroe"
+msgstr "法羅群島"
 
 #: timezones.h:616
-msgid "Atlantic/Faroe"
-msgstr "大西洋/法羅群島"
+msgctxt "Atlantic"
+msgid "Faroe"
+msgstr "法羅群島"
 
 #: timezones.h:617
-msgid "Atlantic/Jan_Mayen"
-msgstr "大西洋/揚馬延島"
+msgctxt "Atlantic"
+msgid "Jan_Mayen"
+msgstr "揚馬延島"
 
 #: timezones.h:618
-msgid "Atlantic/Madeira"
-msgstr "大西洋/馬德拉群島"
+msgctxt "Atlantic"
+msgid "Madeira"
+msgstr "馬德拉群島"
 
 #. comment for time zone Atlantic/Madeira
 #: timezones.h:620
@@ -2055,20 +2505,24 @@ msgid "Madeira Islands"
 msgstr "馬德拉群島"
 
 #: timezones.h:621
-msgid "Atlantic/Reykjavik"
-msgstr "大西洋/雷克雅維克"
+msgctxt "Atlantic"
+msgid "Reykjavik"
+msgstr "雷克雅維克"
 
 #: timezones.h:622
-msgid "Atlantic/South_Georgia"
-msgstr "大西洋/南喬治亞"
+msgctxt "Atlantic"
+msgid "South_Georgia"
+msgstr "南喬治亞"
 
 #: timezones.h:623
-msgid "Atlantic/Stanley"
-msgstr "大西洋/史坦利島"
+msgctxt "Atlantic"
+msgid "Stanley"
+msgstr "史坦利島"
 
 #: timezones.h:624
-msgid "Atlantic/St_Helena"
-msgstr "大西洋/聖赫勒納島"
+msgctxt "Atlantic"
+msgid "St_Helena"
+msgstr "聖赫勒納島"
 
 #: timezones.h:625
 msgid "Australia/ACT"
@@ -2084,8 +2538,9 @@ msgid "South Australia"
 msgstr "南澳洲"
 
 #: timezones.h:629
-msgid "Australia/Brisbane"
-msgstr "澳洲/布里斯本"
+msgctxt "Australia"
+msgid "Brisbane"
+msgstr "布里斯本"
 
 #. comment for time zone Australia/Brisbane
 #: timezones.h:631
@@ -2115,8 +2570,9 @@ msgid "Tasmania - King Island"
 msgstr "塔斯馬尼亞 - 國王島"
 
 #: timezones.h:639
-msgid "Australia/Darwin"
-msgstr "澳洲/達爾文市"
+msgctxt "Australia"
+msgid "Darwin"
+msgstr "達爾文市"
 
 #. comment for time zone Australia/Darwin
 #: timezones.h:641
@@ -2124,8 +2580,9 @@ msgid "Northern Territory"
 msgstr "澳洲北領地"
 
 #: timezones.h:642
-msgid "Australia/Eucla"
-msgstr "澳洲/尤克拉"
+msgctxt "Australia"
+msgid "Eucla"
+msgstr "尤克拉"
 
 #. comment for time zone Australia/Eucla
 #: timezones.h:644
@@ -2133,8 +2590,9 @@ msgid "Western Australia - Eucla area"
 msgstr "西澳大利亞 - 尤克拉地區"
 
 #: timezones.h:645
-msgid "Australia/Hobart"
-msgstr "澳洲/哈巴特"
+msgctxt "Australia"
+msgid "Hobart"
+msgstr "哈巴特"
 
 #. comment for time zone Australia/Hobart
 #: timezones.h:647
@@ -2146,8 +2604,9 @@ msgid "Australia/LHI"
 msgstr "澳洲∕LHI"
 
 #: timezones.h:649
-msgid "Australia/Lindeman"
-msgstr "澳洲/林德曼"
+msgctxt "Australia"
+msgid "Lindeman"
+msgstr "林德曼"
 
 #. comment for time zone Australia/Lindeman
 #: timezones.h:651
@@ -2155,8 +2614,9 @@ msgid "Queensland - Holiday Islands"
 msgstr "昆士蘭 - 假日群島"
 
 #: timezones.h:652
-msgid "Australia/Lord_Howe"
-msgstr "澳洲/羅豪"
+msgctxt "Australia"
+msgid "Lord_Howe"
+msgstr "羅豪"
 
 #. comment for time zone Australia/Lord_Howe
 #: timezones.h:654
@@ -2164,8 +2624,9 @@ msgid "Lord Howe Island"
 msgstr "羅豪島"
 
 #: timezones.h:655
-msgid "Australia/Melbourne"
-msgstr "澳洲/墨爾本"
+msgctxt "Australia"
+msgid "Melbourne"
+msgstr "墨爾本"
 
 #. comment for time zone Australia/Melbourne
 #: timezones.h:657
@@ -2181,8 +2642,9 @@ msgid "Australia/NSW"
 msgstr "澳洲∕新南威爾斯"
 
 #: timezones.h:660
-msgid "Australia/Perth"
-msgstr "澳洲/伯斯"
+msgctxt "Australia"
+msgid "Perth"
+msgstr "伯斯"
 
 #. comment for time zone Australia/Perth
 #: timezones.h:662
@@ -2190,16 +2652,18 @@ msgid "Western Australia - most locations"
 msgstr "西澳大利亞 - 大部分地區"
 
 #: timezones.h:663
-msgid "Australia/Queensland"
-msgstr "澳洲/昆士蘭"
+msgctxt "Australia"
+msgid "Queensland"
+msgstr "昆士蘭"
 
 #: timezones.h:664
 msgid "Australia/South"
 msgstr "澳洲∕南部"
 
 #: timezones.h:665
-msgid "Australia/Sydney"
-msgstr "澳洲/雪梨"
+msgctxt "Australia"
+msgid "Sydney"
+msgstr "雪梨"
 
 #. comment for time zone Australia/Sydney
 #: timezones.h:667
@@ -2315,224 +2779,276 @@ msgid "EST5EDT"
 msgstr "EST5EDT"
 
 #: timezones.h:695
-msgid "Etc/GMT"
-msgstr "Etc/GMT"
+msgctxt "Etc"
+msgid "GMT"
+msgstr "GMT"
 
 #: timezones.h:696
-msgid "Etc/GMT0"
-msgstr "Etc/GMT0"
+msgctxt "Etc"
+msgid "GMT0"
+msgstr "GMT0"
 
 #: timezones.h:697
-msgid "Etc/GMT-0"
-msgstr "Etc/GMT-0"
+msgctxt "Etc"
+msgid "GMT-0"
+msgstr "GMT-0"
 
 #: timezones.h:698
-msgid "Etc/GMT+0"
-msgstr "Etc/GMT+0"
+msgctxt "Etc"
+msgid "GMT+0"
+msgstr "GMT+0"
 
 #: timezones.h:699
-msgid "Etc/GMT-1"
-msgstr "Etc/GMT-1"
+msgctxt "Etc"
+msgid "GMT-1"
+msgstr "GMT-1"
 
 #: timezones.h:700
-msgid "Etc/GMT+1"
-msgstr "Etc/GMT+1"
+msgctxt "Etc"
+msgid "GMT+1"
+msgstr "GMT+1"
 
 #: timezones.h:701
-msgid "Etc/GMT-10"
-msgstr "Etc/GMT-10"
+msgctxt "Etc"
+msgid "GMT-10"
+msgstr "GMT-10"
 
 #: timezones.h:702
-msgid "Etc/GMT+10"
-msgstr "Etc/GMT+10"
+msgctxt "Etc"
+msgid "GMT+10"
+msgstr "GMT+10"
 
 #: timezones.h:703
-msgid "Etc/GMT-11"
-msgstr "Etc/GMT-11"
+msgctxt "Etc"
+msgid "GMT-11"
+msgstr "GMT-11"
 
 #: timezones.h:704
-msgid "Etc/GMT+11"
-msgstr "Etc/GMT+11"
+msgctxt "Etc"
+msgid "GMT+11"
+msgstr "GMT+11"
 
 #: timezones.h:705
-msgid "Etc/GMT-12"
-msgstr "Etc/GMT-12"
+msgctxt "Etc"
+msgid "GMT-12"
+msgstr "GMT-12"
 
 #: timezones.h:706
-msgid "Etc/GMT+12"
-msgstr "Etc/GMT+12"
+msgctxt "Etc"
+msgid "GMT+12"
+msgstr "GMT+12"
 
 #: timezones.h:707
-msgid "Etc/GMT-13"
-msgstr "Etc/GMT-13"
+msgctxt "Etc"
+msgid "GMT-13"
+msgstr "GMT-13"
 
 #: timezones.h:708
-msgid "Etc/GMT-14"
-msgstr "Etc/GMT-14"
+msgctxt "Etc"
+msgid "GMT-14"
+msgstr "GMT-14"
 
 #: timezones.h:709
-msgid "Etc/GMT-2"
-msgstr "Etc/GMT-2"
+msgctxt "Etc"
+msgid "GMT-2"
+msgstr "GMT-2"
 
 #: timezones.h:710
-msgid "Etc/GMT+2"
-msgstr "Etc/GMT+2"
+msgctxt "Etc"
+msgid "GMT+2"
+msgstr "GMT+2"
 
 #: timezones.h:711
-msgid "Etc/GMT-3"
-msgstr "Etc/GMT-3"
+msgctxt "Etc"
+msgid "GMT-3"
+msgstr "GMT-3"
 
 #: timezones.h:712
-msgid "Etc/GMT+3"
-msgstr "Etc/GMT+3"
+msgctxt "Etc"
+msgid "GMT+3"
+msgstr "GMT+3"
 
 #: timezones.h:713
-msgid "Etc/GMT-4"
-msgstr "Etc/GMT-4"
+msgctxt "Etc"
+msgid "GMT-4"
+msgstr "GMT-4"
 
 #: timezones.h:714
-msgid "Etc/GMT+4"
-msgstr "Etc/GMT+4"
+msgctxt "Etc"
+msgid "GMT+4"
+msgstr "GMT+4"
 
 #: timezones.h:715
-msgid "Etc/GMT-5"
-msgstr "Etc/GMT-5"
+msgctxt "Etc"
+msgid "GMT-5"
+msgstr "GMT-5"
 
 #: timezones.h:716
-msgid "Etc/GMT+5"
-msgstr "Etc/GMT+5"
+msgctxt "Etc"
+msgid "GMT+5"
+msgstr "GMT+5"
 
 #: timezones.h:717
-msgid "Etc/GMT-6"
-msgstr "Etc/GMT-6"
+msgctxt "Etc"
+msgid "GMT-6"
+msgstr "GMT-6"
 
 #: timezones.h:718
-msgid "Etc/GMT+6"
-msgstr "Etc/GMT+6"
+msgctxt "Etc"
+msgid "GMT+6"
+msgstr "GMT+6"
 
 #: timezones.h:719
-msgid "Etc/GMT-7"
-msgstr "Etc/GMT-7"
+msgctxt "Etc"
+msgid "GMT-7"
+msgstr "GMT-7"
 
 #: timezones.h:720
-msgid "Etc/GMT+7"
-msgstr "Etc/GMT+7"
+msgctxt "Etc"
+msgid "GMT+7"
+msgstr "GMT+7"
 
 #: timezones.h:721
-msgid "Etc/GMT-8"
-msgstr "Etc/GMT-8"
+msgctxt "Etc"
+msgid "GMT-8"
+msgstr "GMT-8"
 
 #: timezones.h:722
-msgid "Etc/GMT+8"
-msgstr "Etc/GMT+8"
+msgctxt "Etc"
+msgid "GMT+8"
+msgstr "GMT+8"
 
 #: timezones.h:723
-msgid "Etc/GMT-9"
-msgstr "Etc/GMT-9"
+msgctxt "Etc"
+msgid "GMT-9"
+msgstr "GMT-9"
 
 #: timezones.h:724
-msgid "Etc/GMT+9"
-msgstr "Etc/GMT+9"
+msgctxt "Etc"
+msgid "GMT+9"
+msgstr "GMT+9"
 
 #: timezones.h:725
-msgid "Etc/Greenwich"
-msgstr "Etc/格林威治"
+msgctxt "Etc"
+msgid "Greenwich"
+msgstr "格林威治"
 
 #: timezones.h:726
-msgid "Etc/UCT"
-msgstr "Etc/UCT"
+msgctxt "Etc"
+msgid "UCT"
+msgstr "UCT"
 
 #: timezones.h:727
-msgid "Etc/Universal"
-msgstr "Etc/通用"
+msgctxt "Etc"
+msgid "Universal"
+msgstr "通用"
 
 #: timezones.h:728
-msgid "Etc/UTC"
-msgstr "Etc/UTC"
+msgctxt "Etc"
+msgid "UTC"
+msgstr "UTC"
 
 #: timezones.h:729
-msgid "Etc/Zulu"
-msgstr "Etc/祖魯"
+msgctxt "Etc"
+msgid "Zulu"
+msgstr "祖魯"
 
 #: timezones.h:730
-msgid "Europe/Amsterdam"
-msgstr "歐洲/阿姆斯特丹"
+msgctxt "Europe"
+msgid "Amsterdam"
+msgstr "阿姆斯特丹"
 
 #: timezones.h:731
-msgid "Europe/Andorra"
-msgstr "歐洲/安道爾"
+msgctxt "Europe"
+msgid "Andorra"
+msgstr "安道爾"
 
 #: timezones.h:732
-msgid "Europe/Athens"
-msgstr "歐洲/雅典"
+msgctxt "Europe"
+msgid "Athens"
+msgstr "雅典"
 
 #: timezones.h:733
-msgid "Europe/Belfast"
-msgstr "歐洲/貝爾發斯特"
+msgctxt "Europe"
+msgid "Belfast"
+msgstr "貝爾發斯特"
 
 #: timezones.h:734
-msgid "Europe/Belgrade"
-msgstr "歐洲/貝爾格勒"
+msgctxt "Europe"
+msgid "Belgrade"
+msgstr "貝爾格勒"
 
 #: timezones.h:735
-msgid "Europe/Berlin"
-msgstr "歐洲/柏林"
+msgctxt "Europe"
+msgid "Berlin"
+msgstr "柏林"
 
 #: timezones.h:736
-msgid "Europe/Bratislava"
-msgstr "歐洲/布拉第斯拉瓦"
+msgctxt "Europe"
+msgid "Bratislava"
+msgstr "布拉第斯拉瓦"
 
 #: timezones.h:737
-msgid "Europe/Brussels"
-msgstr "歐洲/布魯塞爾"
+msgctxt "Europe"
+msgid "Brussels"
+msgstr "布魯塞爾"
 
 #: timezones.h:738
-msgid "Europe/Bucharest"
-msgstr "歐洲/布加勒斯特"
+msgctxt "Europe"
+msgid "Bucharest"
+msgstr "布加勒斯特"
 
 #: timezones.h:739
-msgid "Europe/Budapest"
-msgstr "歐洲/布達佩斯"
+msgctxt "Europe"
+msgid "Budapest"
+msgstr "布達佩斯"
 
 #: timezones.h:740
-msgid "Europe/Chisinau"
-msgstr "歐洲/基希那烏"
+msgctxt "Europe"
+msgid "Chisinau"
+msgstr "基希那烏"
 
 #: timezones.h:741
-msgid "Europe/Copenhagen"
-msgstr "歐洲/哥本哈根"
+msgctxt "Europe"
+msgid "Copenhagen"
+msgstr "哥本哈根"
 
 #: timezones.h:742
-msgid "Europe/Dublin"
-msgstr "歐洲/都柏林"
+msgctxt "Europe"
+msgid "Dublin"
+msgstr "都柏林"
 
 #: timezones.h:743
-msgid "Europe/Gibraltar"
-msgstr "歐洲/直布羅陀"
+msgctxt "Europe"
+msgid "Gibraltar"
+msgstr "直布羅陀"
 
 #: timezones.h:744
 msgid "Europe/Guernsey"
 msgstr "歐洲∕根西"
 
 #: timezones.h:745
-msgid "Europe/Helsinki"
-msgstr "歐洲/赫爾辛基"
+msgctxt "Europe"
+msgid "Helsinki"
+msgstr "赫爾辛基"
 
 #: timezones.h:746
 msgid "Europe/Isle_of_Man"
 msgstr "歐洲∕曼島"
 
 #: timezones.h:747
-msgid "Europe/Istanbul"
-msgstr "歐洲/伊斯坦堡"
+msgctxt "Europe"
+msgid "Istanbul"
+msgstr "伊斯坦堡"
 
 #: timezones.h:748
 msgid "Europe/Jersey"
 msgstr "歐洲∕澤西島"
 
 #: timezones.h:749
-msgid "Europe/Kaliningrad"
-msgstr "歐洲/加里寧格勒"
+msgctxt "Europe"
+msgid "Kaliningrad"
+msgstr "加里寧格勒"
 
 #. comment for time zone Europe/Kaliningrad
 #: timezones.h:751
@@ -2540,48 +3056,58 @@ msgid "Moscow-01 - Kaliningrad"
 msgstr "莫斯科-01 - 加里寧格勒"
 
 #: timezones.h:752
-msgid "Europe/Kiev"
-msgstr "歐洲/基輔"
+msgctxt "Europe"
+msgid "Kiev"
+msgstr "基輔"
 
 #: timezones.h:755
-msgid "Europe/Lisbon"
-msgstr "歐洲/里斯本"
+msgctxt "Europe"
+msgid "Lisbon"
+msgstr "里斯本"
 
 #: timezones.h:758
-msgid "Europe/Ljubljana"
-msgstr "歐洲/盧布雅那"
+msgctxt "Europe"
+msgid "Ljubljana"
+msgstr "盧布雅那"
 
 #: timezones.h:759
-msgid "Europe/London"
-msgstr "歐洲/倫敦"
+msgctxt "Europe"
+msgid "London"
+msgstr "倫敦"
 
 #: timezones.h:760
-msgid "Europe/Luxembourg"
-msgstr "歐洲/盧森堡"
+msgctxt "Europe"
+msgid "Luxembourg"
+msgstr "盧森堡"
 
 #: timezones.h:761
-msgid "Europe/Madrid"
-msgstr "歐洲/馬德里"
+msgctxt "Europe"
+msgid "Madrid"
+msgstr "馬德里"
 
 #: timezones.h:764
-msgid "Europe/Malta"
-msgstr "歐洲/馬爾他"
+msgctxt "Europe"
+msgid "Malta"
+msgstr "馬爾他"
 
 #: timezones.h:765
 msgid "Europe/Mariehamn"
 msgstr "歐洲∕瑪麗港"
 
 #: timezones.h:766
-msgid "Europe/Minsk"
-msgstr "歐洲/明斯克"
+msgctxt "Europe"
+msgid "Minsk"
+msgstr "明斯克"
 
 #: timezones.h:767
-msgid "Europe/Monaco"
-msgstr "歐洲/摩納哥"
+msgctxt "Europe"
+msgid "Monaco"
+msgstr "摩納哥"
 
 #: timezones.h:768
-msgid "Europe/Moscow"
-msgstr "歐洲/莫斯科"
+msgctxt "Europe"
+msgid "Moscow"
+msgstr "莫斯科"
 
 #. comment for time zone Europe/Moscow
 #: timezones.h:770
@@ -2589,36 +3115,43 @@ msgid "Moscow+00 - west Russia"
 msgstr "莫斯科+00 - 俄羅斯西部"
 
 #: timezones.h:771
-msgid "Europe/Nicosia"
-msgstr "歐洲/尼科西亞"
+msgctxt "Europe"
+msgid "Nicosia"
+msgstr "尼科西亞"
 
 #: timezones.h:772
-msgid "Europe/Oslo"
-msgstr "歐洲/奧斯陸"
+msgctxt "Europe"
+msgid "Oslo"
+msgstr "奧斯陸"
 
 #: timezones.h:773
-msgid "Europe/Paris"
-msgstr "歐洲/巴黎"
+msgctxt "Europe"
+msgid "Paris"
+msgstr "巴黎"
 
 #: timezones.h:774
 msgid "Europe/Podgorica"
 msgstr "歐洲∕普哥里卡"
 
 #: timezones.h:775
-msgid "Europe/Prague"
-msgstr "歐洲/布拉格"
+msgctxt "Europe"
+msgid "Prague"
+msgstr "布拉格"
 
 #: timezones.h:776
-msgid "Europe/Riga"
-msgstr "歐洲/里加"
+msgctxt "Europe"
+msgid "Riga"
+msgstr "里加"
 
 #: timezones.h:777
-msgid "Europe/Rome"
-msgstr "歐洲/羅馬"
+msgctxt "Europe"
+msgid "Rome"
+msgstr "羅馬"
 
 #: timezones.h:778
-msgid "Europe/Samara"
-msgstr "歐洲/沙馬拉"
+msgctxt "Europe"
+msgid "Samara"
+msgstr "沙馬拉"
 
 #. comment for time zone Europe/Samara
 #: timezones.h:780
@@ -2626,16 +3159,19 @@ msgid "Moscow - Samara, Udmurtia"
 msgstr "莫斯科 - 沙馬拉、烏德穆爾特"
 
 #: timezones.h:781
-msgid "Europe/San_Marino"
-msgstr "歐洲/聖馬利諾"
+msgctxt "Europe"
+msgid "San_Marino"
+msgstr "聖馬利諾"
 
 #: timezones.h:782
-msgid "Europe/Sarajevo"
-msgstr "歐洲/薩拉耶佛"
+msgctxt "Europe"
+msgid "Sarajevo"
+msgstr "薩拉耶佛"
 
 #: timezones.h:783
-msgid "Europe/Simferopol"
-msgstr "歐洲/辛菲洛普"
+msgctxt "Europe"
+msgid "Simferopol"
+msgstr "辛菲洛普"
 
 #. comment for time zone Europe/Simferopol
 #: timezones.h:785
@@ -2643,32 +3179,38 @@ msgid "central Crimea"
 msgstr "克裏米亞半島中部"
 
 #: timezones.h:786
-msgid "Europe/Skopje"
-msgstr "歐洲/史高彼耶"
+msgctxt "Europe"
+msgid "Skopje"
+msgstr "史高彼耶"
 
 #: timezones.h:787
-msgid "Europe/Sofia"
-msgstr "歐洲/索非亞"
+msgctxt "Europe"
+msgid "Sofia"
+msgstr "索非亞"
 
 #: timezones.h:788
-msgid "Europe/Stockholm"
-msgstr "歐洲/斯德哥爾摩"
+msgctxt "Europe"
+msgid "Stockholm"
+msgstr "斯德哥爾摩"
 
 #: timezones.h:789
-msgid "Europe/Tallinn"
-msgstr "歐洲/塔林"
+msgctxt "Europe"
+msgid "Tallinn"
+msgstr "塔林"
 
 #: timezones.h:790
-msgid "Europe/Tirane"
-msgstr "歐洲/地拉那"
+msgctxt "Europe"
+msgid "Tirane"
+msgstr "地拉那"
 
 #: timezones.h:791
 msgid "Europe/Tiraspol"
 msgstr "歐洲∕蒂拉斯波爾"
 
 #: timezones.h:792
-msgid "Europe/Uzhgorod"
-msgstr "歐洲/烏日戈羅德"
+msgctxt "Europe"
+msgid "Uzhgorod"
+msgstr "烏日戈羅德"
 
 #. comment for time zone Europe/Uzhgorod
 #: timezones.h:794
@@ -2676,20 +3218,24 @@ msgid "Ruthenia"
 msgstr "盧森尼亞"
 
 #: timezones.h:795
-msgid "Europe/Vaduz"
-msgstr "歐洲/瓦杜茲"
+msgctxt "Europe"
+msgid "Vaduz"
+msgstr "瓦杜茲"
 
 #: timezones.h:796
-msgid "Europe/Vatican"
-msgstr "歐洲/梵蒂岡"
+msgctxt "Europe"
+msgid "Vatican"
+msgstr "梵蒂岡"
 
 #: timezones.h:797
-msgid "Europe/Vienna"
-msgstr "歐洲/維也納"
+msgctxt "Europe"
+msgid "Vienna"
+msgstr "維也納"
 
 #: timezones.h:798
-msgid "Europe/Vilnius"
-msgstr "歐洲/維爾拿"
+msgctxt "Europe"
+msgid "Vilnius"
+msgstr "維爾拿"
 
 #: timezones.h:799
 msgid "Europe/Volgograd"
@@ -2701,16 +3247,19 @@ msgid "Moscow+00 - Caspian Sea"
 msgstr "莫斯科+00 - 裏海"
 
 #: timezones.h:802
-msgid "Europe/Warsaw"
-msgstr "歐洲/華沙"
+msgctxt "Europe"
+msgid "Warsaw"
+msgstr "華沙"
 
 #: timezones.h:803
-msgid "Europe/Zagreb"
-msgstr "歐洲/札格勒布"
+msgctxt "Europe"
+msgid "Zagreb"
+msgstr "札格勒布"
 
 #: timezones.h:804
-msgid "Europe/Zaporozhye"
-msgstr "歐洲/扎波羅熱"
+msgctxt "Europe"
+msgid "Zaporozhye"
+msgstr "扎波羅熱"
 
 #. comment for time zone Europe/Zaporozhye
 #: timezones.h:806
@@ -2718,8 +3267,9 @@ msgid "Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk"
 msgstr "紮波羅熱、盧干斯克/薩波里賈東部、利西昌斯克東部"
 
 #: timezones.h:807
-msgid "Europe/Zurich"
-msgstr "歐洲/蘇黎世"
+msgctxt "Europe"
+msgid "Zurich"
+msgstr "蘇黎世"
 
 #: timezones.h:808
 msgid "Factory"
@@ -2766,48 +3316,59 @@ msgid "Iceland"
 msgstr "冰島"
 
 #: timezones.h:819
-msgid "Indian/Antananarivo"
-msgstr "印度/安塔那那利佛"
+msgctxt "Indian"
+msgid "Antananarivo"
+msgstr "安塔那那利佛"
 
 #: timezones.h:820
-msgid "Indian/Chagos"
-msgstr "印度/查戈斯"
+msgctxt "Indian"
+msgid "Chagos"
+msgstr "查戈斯"
 
 #: timezones.h:821
-msgid "Indian/Christmas"
-msgstr "印度/查戈斯"
+msgctxt "Indian"
+msgid "Christmas"
+msgstr "查戈斯"
 
 #: timezones.h:822
-msgid "Indian/Cocos"
-msgstr "印度/可可斯"
+msgctxt "Indian"
+msgid "Cocos"
+msgstr "可可斯"
 
 #: timezones.h:823
-msgid "Indian/Comoro"
-msgstr "印度/葛摩群島"
+msgctxt "Indian"
+msgid "Comoro"
+msgstr "葛摩群島"
 
 #: timezones.h:824
-msgid "Indian/Kerguelen"
-msgstr "印度/克爾格倫群島"
+msgctxt "Indian"
+msgid "Kerguelen"
+msgstr "克爾格倫群島"
 
 #: timezones.h:825
-msgid "Indian/Mahe"
-msgstr "印度/瑪黑"
+msgctxt "Indian"
+msgid "Mahe"
+msgstr "瑪黑"
 
 #: timezones.h:826
-msgid "Indian/Maldives"
-msgstr "印度/馬爾地夫"
+msgctxt "Indian"
+msgid "Maldives"
+msgstr "馬爾地夫"
 
 #: timezones.h:827
-msgid "Indian/Mauritius"
-msgstr "印度/模里西斯"
+msgctxt "Indian"
+msgid "Mauritius"
+msgstr "模里西斯"
 
 #: timezones.h:828
-msgid "Indian/Mayotte"
-msgstr "印度/馬約特島"
+msgctxt "Indian"
+msgid "Mayotte"
+msgstr "馬約特島"
 
 #: timezones.h:829
-msgid "Indian/Reunion"
-msgstr "印度/留尼旺島"
+msgctxt "Indian"
+msgid "Reunion"
+msgstr "留尼旺島"
 
 #: timezones.h:830
 msgid "Iran"
@@ -2887,16 +3448,19 @@ msgid "NZ-CHAT"
 msgstr "NZ-CHAT"
 
 #: timezones.h:849
-msgid "Pacific/Apia"
-msgstr "太平洋/亞庇"
+msgctxt "Pacific"
+msgid "Apia"
+msgstr "亞庇"
 
 #: timezones.h:850
-msgid "Pacific/Auckland"
-msgstr "太平洋/奧克蘭"
+msgctxt "Pacific"
+msgid "Auckland"
+msgstr "奧克蘭"
 
 #: timezones.h:853
-msgid "Pacific/Chatham"
-msgstr "太平洋/占松"
+msgctxt "Pacific"
+msgid "Chatham"
+msgstr "占松"
 
 #. comment for time zone Pacific/Chatham
 #: timezones.h:855
@@ -2904,8 +3468,9 @@ msgid "Chatham Islands"
 msgstr "查塔姆群島"
 
 #: timezones.h:856
-msgid "Pacific/Chuuk"
-msgstr "太平洋/楚克"
+msgctxt "Pacific"
+msgid "Chuuk"
+msgstr "楚克"
 
 #. comment for time zone Pacific/Chuuk
 #: timezones.h:858
@@ -2913,8 +3478,9 @@ msgid "Chuuk (Truk) and Yap"
 msgstr "楚克（特魯克）與雅浦島"
 
 #: timezones.h:859
-msgid "Pacific/Easter"
-msgstr "太平洋/復活島"
+msgctxt "Pacific"
+msgid "Easter"
+msgstr "復活島"
 
 #. comment for time zone Pacific/Easter
 #: timezones.h:861
@@ -2922,12 +3488,14 @@ msgid "Easter Island & Sala y Gomez"
 msgstr "復活島以及 Sala y Gomez"
 
 #: timezones.h:862
-msgid "Pacific/Efate"
-msgstr "太平洋/伊法提"
+msgctxt "Pacific"
+msgid "Efate"
+msgstr "伊法提"
 
 #: timezones.h:863
-msgid "Pacific/Enderbury"
-msgstr "太平洋/英德貝里"
+msgctxt "Pacific"
+msgid "Enderbury"
+msgstr "英德貝里"
 
 #. comment for time zone Pacific/Enderbury
 #: timezones.h:865
@@ -2935,20 +3503,24 @@ msgid "Phoenix Islands"
 msgstr "費尼克斯群島"
 
 #: timezones.h:866
-msgid "Pacific/Fakaofo"
-msgstr "太平洋/法克奧佛"
+msgctxt "Pacific"
+msgid "Fakaofo"
+msgstr "法克奧佛"
 
 #: timezones.h:867
-msgid "Pacific/Fiji"
-msgstr "太平洋/斐濟"
+msgctxt "Pacific"
+msgid "Fiji"
+msgstr "斐濟"
 
 #: timezones.h:868
-msgid "Pacific/Funafuti"
-msgstr "太平洋/福那富提"
+msgctxt "Pacific"
+msgid "Funafuti"
+msgstr "福那富提"
 
 #: timezones.h:869
-msgid "Pacific/Galapagos"
-msgstr "太平洋/加拉帕哥群島"
+msgctxt "Pacific"
+msgid "Galapagos"
+msgstr "加拉帕哥群島"
 
 #. comment for time zone Pacific/Galapagos
 #: timezones.h:871
@@ -2956,8 +3528,9 @@ msgid "Galapagos Islands"
 msgstr "加拉巴戈斯群島"
 
 #: timezones.h:872
-msgid "Pacific/Gambier"
-msgstr "太平洋/甘畢爾"
+msgctxt "Pacific"
+msgid "Gambier"
+msgstr "甘畢爾"
 
 #. comment for time zone Pacific/Gambier
 #: timezones.h:874
@@ -2965,16 +3538,19 @@ msgid "Gambier Islands"
 msgstr "甘比爾群島"
 
 #: timezones.h:875
-msgid "Pacific/Guadalcanal"
-msgstr "太平洋/瓜達爾卡納爾島"
+msgctxt "Pacific"
+msgid "Guadalcanal"
+msgstr "瓜達爾卡納爾島"
 
 #: timezones.h:876
-msgid "Pacific/Guam"
-msgstr "太平洋/關島"
+msgctxt "Pacific"
+msgid "Guam"
+msgstr "關島"
 
 #: timezones.h:877
-msgid "Pacific/Honolulu"
-msgstr "太平洋/檀香山"
+msgctxt "Pacific"
+msgid "Honolulu"
+msgstr "檀香山"
 
 #. comment for time zone Pacific/Honolulu
 #: timezones.h:879
@@ -2982,8 +3558,9 @@ msgid "Hawaii"
 msgstr "夏威夷"
 
 #: timezones.h:880
-msgid "Pacific/Johnston"
-msgstr "太平洋/強斯敦"
+msgctxt "Pacific"
+msgid "Johnston"
+msgstr "強斯敦"
 
 #. comment for time zone Pacific/Johnston
 #: timezones.h:882
@@ -2991,8 +3568,9 @@ msgid "Johnston Atoll"
 msgstr "強斯頓環礁"
 
 #: timezones.h:883
-msgid "Pacific/Kiritimati"
-msgstr "太平洋/聖誕島"
+msgctxt "Pacific"
+msgid "Kiritimati"
+msgstr "聖誕島"
 
 #. comment for time zone Pacific/Kiritimati
 #: timezones.h:885
@@ -3000,8 +3578,9 @@ msgid "Line Islands"
 msgstr "列嶼群島"
 
 #: timezones.h:886
-msgid "Pacific/Kosrae"
-msgstr "太平洋/科斯萊"
+msgctxt "Pacific"
+msgid "Kosrae"
+msgstr "科斯萊"
 
 #. comment for time zone Pacific/Kosrae
 #: timezones.h:888
@@ -3009,16 +3588,19 @@ msgid "Kosrae"
 msgstr "柯斯雷"
 
 #: timezones.h:889
-msgid "Pacific/Kwajalein"
-msgstr "太平洋/夸加連島"
+msgctxt "Pacific"
+msgid "Kwajalein"
+msgstr "夸加連島"
 
 #: timezones.h:892
-msgid "Pacific/Majuro"
-msgstr "太平洋/馬久羅"
+msgctxt "Pacific"
+msgid "Majuro"
+msgstr "馬久羅"
 
 #: timezones.h:895
-msgid "Pacific/Marquesas"
-msgstr "太平洋/馬凱薩斯"
+msgctxt "Pacific"
+msgid "Marquesas"
+msgstr "馬凱薩斯"
 
 #. comment for time zone Pacific/Marquesas
 #: timezones.h:897
@@ -3026,8 +3608,9 @@ msgid "Marquesas Islands"
 msgstr "馬克薩斯群島"
 
 #: timezones.h:898
-msgid "Pacific/Midway"
-msgstr "太平洋/中途島"
+msgctxt "Pacific"
+msgid "Midway"
+msgstr "中途島"
 
 #. comment for time zone Pacific/Midway
 #: timezones.h:900
@@ -3035,36 +3618,44 @@ msgid "Midway Islands"
 msgstr "中途島"
 
 #: timezones.h:901
-msgid "Pacific/Nauru"
-msgstr "太平洋/諾魯"
+msgctxt "Pacific"
+msgid "Nauru"
+msgstr "諾魯"
 
 #: timezones.h:902
-msgid "Pacific/Niue"
-msgstr "太平洋/紐埃島"
+msgctxt "Pacific"
+msgid "Niue"
+msgstr "紐埃島"
 
 #: timezones.h:903
-msgid "Pacific/Norfolk"
-msgstr "太平洋/諾福克"
+msgctxt "Pacific"
+msgid "Norfolk"
+msgstr "諾福克"
 
 #: timezones.h:904
-msgid "Pacific/Noumea"
-msgstr "太平洋/努美雅"
+msgctxt "Pacific"
+msgid "Noumea"
+msgstr "努美雅"
 
 #: timezones.h:905
-msgid "Pacific/Pago_Pago"
-msgstr "太平洋/帕果帕果"
+msgctxt "Pacific"
+msgid "Pago_Pago"
+msgstr "帕果帕果"
 
 #: timezones.h:906
-msgid "Pacific/Palau"
-msgstr "太平洋/帛琉"
+msgctxt "Pacific"
+msgid "Palau"
+msgstr "帛琉"
 
 #: timezones.h:907
-msgid "Pacific/Pitcairn"
-msgstr "太平洋/皮特凱恩"
+msgctxt "Pacific"
+msgid "Pitcairn"
+msgstr "皮特凱恩"
 
 #: timezones.h:908
-msgid "Pacific/Pohnpei"
-msgstr "太平洋/澎貝島"
+msgctxt "Pacific"
+msgid "Pohnpei"
+msgstr "澎貝島"
 
 #. comment for time zone Pacific/Pohnpei
 #: timezones.h:910
@@ -3072,28 +3663,33 @@ msgid "Pohnpei (Ponape)"
 msgstr "澎貝島（波納佩島）"
 
 #: timezones.h:911
-msgid "Pacific/Ponape"
-msgstr "太平洋/波那佩"
+msgctxt "Pacific"
+msgid "Ponape"
+msgstr "波那佩"
 
 #: timezones.h:912
-msgid "Pacific/Port_Moresby"
-msgstr "太平洋/摩勒斯比港"
+msgctxt "Pacific"
+msgid "Port_Moresby"
+msgstr "摩勒斯比港"
 
 #: timezones.h:913
-msgid "Pacific/Rarotonga"
-msgstr "太平洋/拉羅東加島"
+msgctxt "Pacific"
+msgid "Rarotonga"
+msgstr "拉羅東加島"
 
 #: timezones.h:914
-msgid "Pacific/Saipan"
-msgstr "太平洋/塞班島"
+msgctxt "Pacific"
+msgid "Saipan"
+msgstr "塞班島"
 
 #: timezones.h:915
 msgid "Pacific/Samoa"
 msgstr "太平洋∕薩摩亞群島"
 
 #: timezones.h:916
-msgid "Pacific/Tahiti"
-msgstr "太平洋/大溪地島"
+msgctxt "Pacific"
+msgid "Tahiti"
+msgstr "大溪地島"
 
 #. comment for time zone Pacific/Tahiti
 #: timezones.h:918
@@ -3101,8 +3697,9 @@ msgid "Society Islands"
 msgstr "社會群島"
 
 #: timezones.h:919
-msgid "Pacific/Tarawa"
-msgstr "太平洋/塔拉瓦島"
+msgctxt "Pacific"
+msgid "Tarawa"
+msgstr "塔拉瓦島"
 
 #. comment for time zone Pacific/Tarawa
 #: timezones.h:921
@@ -3110,16 +3707,19 @@ msgid "Gilbert Islands"
 msgstr "吉爾伯特群島"
 
 #: timezones.h:922
-msgid "Pacific/Tongatapu"
-msgstr "太平洋/東加塔普"
+msgctxt "Pacific"
+msgid "Tongatapu"
+msgstr "東加塔普"
 
 #: timezones.h:923
-msgid "Pacific/Truk"
-msgstr "太平洋/楚克"
+msgctxt "Pacific"
+msgid "Truk"
+msgstr "楚克"
 
 #: timezones.h:924
-msgid "Pacific/Wake"
-msgstr "太平洋/威克島"
+msgctxt "Pacific"
+msgid "Wake"
+msgstr "威克島"
 
 #. comment for time zone Pacific/Wake
 #: timezones.h:926
@@ -3127,12 +3727,14 @@ msgid "Wake Island"
 msgstr "美屬威克島"
 
 #: timezones.h:927
-msgid "Pacific/Wallis"
-msgstr "太平洋/沃利斯"
+msgctxt "Pacific"
+msgid "Wallis"
+msgstr "沃利斯"
 
 #: timezones.h:928
-msgid "Pacific/Yap"
-msgstr "太平洋/雅浦島"
+msgctxt "Pacific"
+msgid "Yap"
+msgstr "雅浦島"
 
 #: timezones.h:929
 msgid "Poland"
@@ -3241,3 +3843,4 @@ msgstr "W-SU"
 #: timezones.h:955
 msgid "Zulu"
 msgstr "祖魯"
+

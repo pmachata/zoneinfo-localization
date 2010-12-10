@@ -1,0 +1,148 @@
+# -*-org-*-
+
+* status
+  This is work in progress, and Request for Comments.
+
+* tzdata localization project
+  The goal is to have automatically updated translations for
+  time zone names, zoneinfo.tab comments, etc.
+
+  In fedora, we keep tzdata translations in system-config-date.  There
+  is no automatic way of merging in new zone names, as far as I know.
+  We want to decouple tzdata translations from s-c-d, and create a
+  harness that would keep the translatable strings up to date.
+
+  We see a potential for general usefulness in that project.  Other
+  distros might want to contribute and reuse these data.  The current
+  solution of translating these same strings over and over again is
+  certainly suboptimal.
+
+** other distros
+   How do distros other than Fedora do it?  I mean translations in
+   general and keeping up to date in particular.
+
+** public project
+   We will want to host the project somewhere.  If other distros are
+   interested in this endeavor, we will prefer distro-neutral hosting.
+
+*** hosting requirements
+**** git-ish
+     For source control.
+***** translations
+***** autoupdate harness
+**** trac-ish
+     For bugreporting and wiki.
+**** cron-ish?
+     We need something to keep the translatable strings up to date.
+     If the hosting itself provides it, so much the better.
+
+     <nils> E.g. don't we have that upstream tarball tracker in Fedora?
+
+**** transifex.net
+     The way we do translations in Fedore is that translators have
+     this web tool that they can use to do translations.  It would be
+     extremely cool if we could just point existing translators to
+     this new project and tell them to work there, with minimal impact
+     on their daily routine.
+
+* translation sources
+
+** distro strings
+   We will use these for initial import.  I have no idea whatsoever of
+   how to decide which distro has the best translations.  We might end
+   up just taking the raw quantity of translated strings as a measure
+   of quality, and pick each language separately.  Or do some sort of
+   merge, i.e. add strings to the selected catalog from other
+   languages if they happen to have translation.
+
+** cldr
+   We can use that to seed uncovered languages, or add translations of
+   particular strings that we do not yet have.  That would be probably
+   one-off kind of deal, although we can get fancy and keep updating
+   untranslated stuff with each new release of CLDR.  But really using
+   cldr is not even a priority.  We can derive all we need from
+   existing distro data, and new languages can wait.
+
+   <nils> gah. I just noticed that babel contains its own private copy
+   of CLDR data along with time zone translations.
+   <nils> babel is python-only fwiw
+   <nils> it just unpickles it
+   <nils> like so:
+   <nils> import cPickle
+   <nils> f = open ("localedata/de.dat")
+   <nils> info = cPickle.load(f)
+   <nils> f.close() [2010-04-21 17:32]
+   <machatap> hmm, in fact, our mighty import script could then simply
+   use babel to do the one-off thing... we can't use CLDR anyway, it's
+   too incomplete...
+
+* translation itself
+  Translators will translate each portion separately.  We will use
+  context for that.  E.g. the translation of America/Indiana/Knox
+  would look like this:
+
+  > msgctext ""
+  > msgid "America"
+  > msgid "Amerika"
+  > 
+  > msgctext "America"
+  > msgid "Indiana"
+  > msgstr ""
+  > 
+  > msgctext "America/Indiana"
+  > msgid "Knox"
+  > msgstr ""
+
+  Then we will preprocess this file to get full translations, like
+  this:
+
+  > msgctext ""
+  > msgid "America/Indiana/Knox"
+  > msgstr "Amerika/Indiana/Knox"
+
+  The tool will translate as many parts as possible, and will keep the
+  stuff that it doesn't know about intact.
+
+** RATIONALE
+*** we translate common parts just once
+    This leads to less of a burden for translators, and is also less
+    error prone--you won't get typos in common portions of the
+    strings.
+*** we can partially translate even zones that were not yet translated
+    ... at least the continent name and optionally a second-level
+    part.  This may lead to hybrids like Америка/Индиана/Gary, but
+    that's better than nothing IMHO.  At least this way the zone ends
+    up sorted correctly.
+
+* packaging
+** localized tzdata
+   It is desirable that tzdata localizations get packaged and shipped
+   with tzdata proper.
+
+* TASKS
+** TODO have a violent fight
+   ... over details of this proposal
+
+** TODO choose a hosting
+
+** TODO initial import of strings
+   We cannot import raw strings, we need to convert them to the way we
+   intend to do the translations.
+
+** TODO write time zone name harvester
+   We need to write a script that looks through tzdata for zone names
+   and merges those into pot files for translation.  That needs to be
+   done regularly, for each new tzdata update.
+
+   The reason that this is at the very end is that so far we managed
+   without automatic updates.  It sucked, but it worked.  So auto
+   updates really are just a bonus.  We want them, but we can get most
+   of the work underway without this.
+
+** TODO write tzdata watcher
+   Which is a tool that looks for updates in tzdata release FTP.  When
+   an update occurs, it fetches it and runs the harvester over it.
+
+** TODO write cldr updater
+   Similar to the tz harvester, but even less of a priority.  See the
+   part about CLDR to see how we intend to use it.
