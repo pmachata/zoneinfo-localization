@@ -1,35 +1,50 @@
 Warning: am.po: ambiguous translation of Canada.
  candidate: ካናዳ used 7 times
  candidate: ካናዳCanada used 2 times
+Note: am.po: counting fuzzy Asia->እስያ.
+Note: am.po: counting fuzzy Antarctica->አንታርክቲካ.
+Note: am.po: counting fuzzy Antarctica->Antarctica.
 Warning: am.po: ambiguous translation of Antarctica.
- candidate: አንታርክቲካ used 9 times
- candidate: Antarctica used 2 times
+ candidate: አንታርክቲካ used 9 times (1 fuzzy)
+ candidate: Antarctica used 2 times (1 fuzzy)
+Note: am.po: counting fuzzy Atlantic->አትላንቲክ.
+Note: am.po: counting fuzzy America->አሜሪካ.
+Note: am.po: counting fuzzy America->America.
 Warning: ar.po: ambiguous translation of Antarctica.
  candidate: أنتارتيكا used 9 times
  candidate: أنتارتيكا (القارة المتجمدة) used 1 times
  candidate: القطب الجنوبي  used 1 times
+Note: ar.po: counting fuzzy America->أمريكا.
 Warning: as.po: ambiguous translation of America/North_Dakota.
  candidate: উত্তৰ ডাকোটা (_D) used 1 times
  candidate: উত্তৰ_ডাকোটা used 1 times
+Note: bg.po: counting fuzzy Pacific->Тих_Океан.
 Note: bg.po: ignoring "Тих Океан" due to underscore normalization.
+Note: da.po: counting fuzzy Pacific->Stillehav.
 Warning: el.po: ambiguous translation of America/Indiana.
  candidate: Ιντιάνα used 7 times
  candidate: Ινδιάνα used 1 times
 Warning: es.po: ambiguous translation of Indian.
  candidate: Indico used 9 times
  candidate: Índico used 2 times
-Warning: fa.po: ambiguous translation of America/Argentina.
- candidate: آرژانتین used 6 times
- candidate: ایندیانا used 2 times
+Note: fa.po: counting fuzzy Europe->اروپا.
+Note: fa.po: counting fuzzy Argentina->آرژانتین.
+Note: fa.po: not counting purely fuzzy Argentina->ایندیانا.
+Note: fa.po: counting fuzzy US->ایالات متحده.
 Warning: fa.po: ambiguous translation of US.
- candidate: ایالات متحده used 11 times
+ candidate: ایالات متحده used 11 times (1 fuzzy)
  candidate: ایلات متحده used 2 times
-Warning: gl.po: ambiguous translation of America/Argentina.
- candidate: Arxentina used 6 times
- candidate: Indiana used 2 times
+Note: fa.po: counting fuzzy America->امریکا.
+Note: gl.po: not counting purely fuzzy Argentina->Indiana.
+Note: hu.po: counting fuzzy America->Amerika.
 Warning: is.po: ambiguous translation of America/Argentina.
  candidate: Argentina used 11 times
  candidate: Argentína used 2 times
+Note: ka.po: counting fuzzy Europe->ევროპა.
+Note: ka.po: counting fuzzy Europe->ევრობა.
+Note: lt.po: counting fuzzy Asia->Azija.
+Note: lt.po: counting fuzzy Europe->Europa.
+Note: mai.po: counting fuzzy Pacific->पैसीफिक.
 Warning: ml.po: ambiguous translation of America/Indiana.
  candidate: ഇന്‍ഡ്യാന used 5 times
  candidate: ഇന്‍ഡ്യാനാ used 3 times
@@ -43,6 +58,9 @@ Note: pt.po: ignoring "Dakota_do_Norte" due to underscore normalization.
 Warning: si.po: ambiguous translation of Canada.
  candidate: කැනඩා used 7 times
  candidate: කැනඩාව used 2 times
+Note: si.po: counting fuzzy Australia->ඕස්ට්‍රේලියාච.
+Note: si.po: counting fuzzy Asia->අසියාව.
+Note: si.po: counting fuzzy America->ඇමරිකාව.
 Warning: sv.po: ambiguous translation of America/North_Dakota.
  candidate: Norddakota used 1 times
  candidate: North_Dakota used 1 times
