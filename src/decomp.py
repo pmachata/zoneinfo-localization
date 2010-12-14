@@ -106,28 +106,34 @@ def filter_candidates (candidates):
     strongest_translation, (strongest_uses, _, strongest_message) = strongest
     deleted = 0
     for i, (_, (uses, _, _)) in enumerate (candidate_list[1:]):
-        if uses <= strongest_uses / 10:
+        if uses <= strongest_uses / 3:
             del candidate_list[i+1-deleted]
             deleted += 1
     if len (candidate_list) == 1:
         return candidate_list
 
-    # Case 1: forgotten letter.  If one candidate has minor usage in
-    # comparison to other, and it's missing a single letter, drop it.
+    # If we still don't have clear winner, make the string
+    # untranslated.
+    sys.stderr.write ((u"Warning: %s: unclear translation of %s.\n"
+                       % (input_fn, message.msgid)).encode ("utf-8"))
+    for i, candidate in enumerate (candidate_list):
+        sys.stderr.write (" drop" + format_candidate (candidate).encode ("utf-8"))
+    candidate_list = [strongest]
+    strongest_message.msgstr = ""
+
     return candidate_list
+
+def format_candidate (candidate):
+    translation, (uses, fuzzy_uses, message) = candidate
+    return (u" candidate: %s used %s times%s\n"
+            % (translation, uses,
+               ((" (%s fuzzy)" % fuzzy_uses)
+                if fuzzy_uses != 0 else "")))
 
 added_messages = []
 for msgid, (comment, candidates) in new_messages.iteritems ():
     candidate_list = filter_candidates (candidates)
-    if len (candidate_list) > 1:
-        sys.stderr.write ("Warning: %s: ambiguous translation of %s.\n" % (input_fn, msgid))
-        for translation, (uses, fuzzy_uses, message) in candidate_list:
-            sys.stderr.write ((u" candidate: %s used %s times%s\n"
-                               % (translation, uses,
-                                  ((" (%s fuzzy)" % fuzzy_uses)
-                                   if fuzzy_uses != 0 else "")))
-                              .encode ("utf-8"))
-    (_, (_, _, message)) = candidate_list[0]
+    (_, (_, _, message)), = candidate_list
     message.comment = comment
     added_messages.append ((msgid, message))
 
