@@ -121,12 +121,12 @@ msgstr "Arktik"
 #. Asia/Macao Asia/Macau Asia/Magadan Asia/Makassar Asia/Manila Asia/Muscat
 #. Asia/Nicosia Asia/Novokuznetsk Asia/Novosibirsk Asia/Omsk Asia/Oral
 #. Asia/Phnom_Penh Asia/Pontianak Asia/Pyongyang Asia/Qatar Asia/Qyzylorda
-#. Asia/Rangoon Asia/Saigon Asia/Sakhalin Asia/Samarkand Asia/Seoul
-#. Asia/Shanghai Asia/Singapore Asia/Taipei Asia/Tashkent Asia/Tbilisi
-#. Asia/Tehran Asia/Tel_Aviv Asia/Thimbu Asia/Thimphu Asia/Tokyo
-#. Asia/Ujung_Pandang Asia/Ulaanbaatar Asia/Ulan_Bator Asia/Urumqi
-#. Asia/Vientiane Asia/Vladivostok Asia/Yakutsk Asia/Yekaterinburg
-#. Asia/Yerevan
+#. Asia/Rangoon Asia/Riyadh Asia/Riyadh87 Asia/Riyadh88 Asia/Riyadh89
+#. Asia/Saigon Asia/Sakhalin Asia/Samarkand Asia/Seoul Asia/Shanghai
+#. Asia/Singapore Asia/Taipei Asia/Tashkent Asia/Tbilisi Asia/Tehran
+#. Asia/Tel_Aviv Asia/Thimbu Asia/Thimphu Asia/Tokyo Asia/Ujung_Pandang
+#. Asia/Ulaanbaatar Asia/Ulan_Bator Asia/Urumqi Asia/Vientiane
+#. Asia/Vladivostok Asia/Yakutsk Asia/Yekaterinburg Asia/Yerevan
 msgid "Asia"
 msgstr "Azi"
 
@@ -2367,20 +2367,24 @@ msgid "Rangoon"
 msgstr "Rangun"
 
 #: timezones.h:562
-msgid "Asia/Riyadh"
-msgstr "Azi//Riad"
+msgctxt "Asia"
+msgid "Riyadh"
+msgstr "Riad"
 
 #: timezones.h:563
-msgid "Asia/Riyadh87"
-msgstr "Azi//Riad87"
+msgctxt "Asia"
+msgid "Riyadh87"
+msgstr "Riad87"
 
 #: timezones.h:564
-msgid "Asia/Riyadh88"
-msgstr "Azi//Riad88"
+msgctxt "Asia"
+msgid "Riyadh88"
+msgstr "Riad88"
 
 #: timezones.h:565
-msgid "Asia/Riyadh89"
-msgstr "Azi//Riad89"
+msgctxt "Asia"
+msgid "Riyadh89"
+msgstr "Riad89"
 
 #: timezones.h:566
 msgctxt "Asia"

@@ -189,7 +189,7 @@ msgstr "اروپا"
 
 #. Prefix of Indian/Antananarivo Indian/Chagos Indian/Christmas Indian/Cocos
 #. Indian/Comoro Indian/Kerguelen Indian/Mahe Indian/Maldives Indian/Mauritius
-#. Indian/Reunion
+#. Indian/Mayotte Indian/Reunion
 msgid "Indian"
 msgstr "اقیانوس هند"
 
@@ -3505,8 +3505,9 @@ msgid "Mauritius"
 msgstr "موریس"
 
 #: timezones.h:828
-msgid "Indian/Mayotte"
-msgstr "اقیانوس هند//مایوت"
+msgctxt "Indian"
+msgid "Mayotte"
+msgstr "مایوت"
 
 #: timezones.h:829
 msgctxt "Indian"

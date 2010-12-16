@@ -72,10 +72,11 @@ msgstr "Amerika"
 
 #. Prefix of America/Argentina/Buenos_Aires America/Argentina/Catamarca
 #. America/Argentina/ComodRivadavia America/Argentina/Cordoba
-#. America/Argentina/Jujuy America/Argentina/Mendoza
-#. America/Argentina/Rio_Gallegos America/Argentina/Salta
-#. America/Argentina/San_Juan America/Argentina/San_Luis
-#. America/Argentina/Tucuman America/Argentina/Ushuaia
+#. America/Argentina/Jujuy America/Argentina/La_Rioja
+#. America/Argentina/Mendoza America/Argentina/Rio_Gallegos
+#. America/Argentina/Salta America/Argentina/San_Juan
+#. America/Argentina/San_Luis America/Argentina/Tucuman
+#. America/Argentina/Ushuaia
 msgctxt "America"
 msgid "Argentina"
 msgstr "Arjantin"
@@ -584,8 +585,9 @@ msgid "Jujuy (JY)"
 msgstr "Jujuy (JY)"
 
 #: timezones.h:84
-msgid "America/Argentina/La_Rioja"
-msgstr "Amerika//Arjantin/La_Rioja"
+msgctxt "America/Argentina"
+msgid "La_Rioja"
+msgstr "La_Rioja"
 
 #. comment for time zone America/Argentina/La_Rioja
 #: timezones.h:86

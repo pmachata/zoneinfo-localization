@@ -27,9 +27,9 @@ msgstr ""
 #. Africa/Asmara Africa/Asmera Africa/Bamako Africa/Bangui Africa/Banjul
 #. Africa/Bissau Africa/Blantyre Africa/Brazzaville Africa/Bujumbura
 #. Africa/Cairo Africa/Casablanca Africa/Ceuta Africa/Conakry Africa/Dakar
-#. Africa/Dar_es_Salaam Africa/Djibouti Africa/Douala Africa/Freetown
-#. Africa/Gaborone Africa/Harare Africa/Johannesburg Africa/Kampala
-#. Africa/Khartoum Africa/Kigali Africa/Kinshasa Africa/Lagos
+#. Africa/Dar_es_Salaam Africa/Djibouti Africa/Douala Africa/El_Aaiun
+#. Africa/Freetown Africa/Gaborone Africa/Harare Africa/Johannesburg
+#. Africa/Kampala Africa/Khartoum Africa/Kigali Africa/Kinshasa Africa/Lagos
 #. Africa/Libreville Africa/Lome Africa/Luanda Africa/Lubumbashi Africa/Lusaka
 #. Africa/Malabo Africa/Maputo Africa/Maseru Africa/Mbabane Africa/Mogadishu
 #. Africa/Monrovia Africa/Nairobi Africa/Ndjamena Africa/Niamey
@@ -337,8 +337,9 @@ msgid "Douala"
 msgstr "डूअला"
 
 #: timezones.h:24
-msgid "Africa/El_Aaiun"
-msgstr "आफ्रिका//एल_ऐन"
+msgctxt "Africa"
+msgid "El_Aaiun"
+msgstr "एल_ऐन"
 
 #: timezones.h:25
 msgctxt "Africa"

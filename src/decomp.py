@@ -6,6 +6,7 @@
 
 import sys
 import polib
+import re
 from zonetab import TZID, ParseError
 input_fn, = sys.argv[1:]
 
@@ -13,6 +14,15 @@ new_messages = {}
 
 def extract_context (tzid, str_comps, top_context, top_flags, message=None):
     if len (str_comps) != len (tzid.components):
+        assert message is not None # None message is only passed below toplev
+        if message.msgstr:
+            sys.stderr.write ((u"Warning: %s: component count mismatch %s->%s\n"
+                               % (input_fn, tzid.name (), message.msgstr))
+                              .encode ("utf-8"))
+            for i in range (max (len (str_comps), len (tzid.components))):
+                a = tzid.components[i] if i < len (tzid.components) else "???"
+                b = str_comps[i] if i < len (str_comps) else "???"
+                sys.stderr.write ((u" %s %s->%s\n" % (i, a, b)).encode ("utf-8"))
         return
 
     translation = str_comps[-1]
@@ -42,6 +52,8 @@ def extract_context (tzid, str_comps, top_context, top_flags, message=None):
                          top_context, top_flags)
 
 po = polib.pofile (input_fn)
+slash_re = u"(?:/|\u2215)+"
+slash_pat = re.compile (slash_re)
 for message in po:
     try:
         tzid = TZID (message.msgid)
@@ -49,7 +61,8 @@ for message in po:
         continue
 
     if len (tzid.components) > 1:
-        extract_context (tzid, message.msgstr.split ("/"), tzid,
+        comps = re.split (slash_pat, message.msgstr)
+        extract_context (tzid, comps, tzid,
                          message.flags, message)
 
 def filter_candidates (candidates):

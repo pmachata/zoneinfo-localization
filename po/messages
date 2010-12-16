@@ -1,3 +1,63 @@
+Warning: am.po: component count mismatch America/Argentina/Buenos_Aires->አሜሪካ/ቡኤኖስ_ኤይሪስ
+ 0 America->አሜሪካ
+ 1 Argentina->ቡኤኖስ_ኤይሪስ
+ 2 Buenos_Aires->???
+Warning: am.po: component count mismatch America/Argentina/Catamarca->አሜሪካ/ካታማርካ
+ 0 America->አሜሪካ
+ 1 Argentina->ካታማርካ
+ 2 Catamarca->???
+Warning: am.po: component count mismatch America/Argentina/ComodRivadavia->አሜሪካ/አሜሪካ
+ 0 America->አሜሪካ
+ 1 Argentina->አሜሪካ
+ 2 ComodRivadavia->???
+Warning: am.po: component count mismatch America/Argentina/Cordoba->አሜሪካ/ኮርዶባ
+ 0 America->አሜሪካ
+ 1 Argentina->ኮርዶባ
+ 2 Cordoba->???
+Warning: am.po: component count mismatch America/Argentina/Jujuy->አሜሪካ/ጁጁይ
+ 0 America->አሜሪካ
+ 1 Argentina->ጁጁይ
+ 2 Jujuy->???
+Warning: am.po: component count mismatch America/Argentina/La_Rioja->አሜሪካ/አራጉአኢና
+ 0 America->አሜሪካ
+ 1 Argentina->አራጉአኢና
+ 2 La_Rioja->???
+Warning: am.po: component count mismatch America/Argentina/Mendoza->አሜሪካ/ሜንዶዛ
+ 0 America->አሜሪካ
+ 1 Argentina->ሜንዶዛ
+ 2 Mendoza->???
+Warning: am.po: component count mismatch America/Argentina/Salta->አሜሪካ/አንቲጉዋ
+ 0 America->አሜሪካ
+ 1 Argentina->አንቲጉዋ
+ 2 Salta->???
+Warning: am.po: component count mismatch America/Argentina/San_Juan->አሜሪካ/አንቲጉዋ
+ 0 America->አሜሪካ
+ 1 Argentina->አንቲጉዋ
+ 2 San_Juan->???
+Warning: am.po: component count mismatch America/Argentina/San_Luis->አሜሪካ/አንቲጉዋ
+ 0 America->አሜሪካ
+ 1 Argentina->አንቲጉዋ
+ 2 San_Luis->???
+Warning: am.po: component count mismatch America/Argentina/Tucuman->አሜሪካ/አንቲጉዋ
+ 0 America->አሜሪካ
+ 1 Argentina->አንቲጉዋ
+ 2 Tucuman->???
+Warning: am.po: component count mismatch America/Argentina/Ushuaia->አሜሪካ/አራጉአኢና
+ 0 America->አሜሪካ
+ 1 Argentina->አራጉአኢና
+ 2 Ushuaia->???
+Warning: am.po: component count mismatch America/Indiana/Indianapolis->አሜሪካ/አሜሪካ
+ 0 America->አሜሪካ
+ 1 Indiana->አሜሪካ
+ 2 Indianapolis->???
+Warning: am.po: component count mismatch America/North_Dakota/Center->አሜሪካ/አሜሪካ
+ 0 America->አሜሪካ
+ 1 North_Dakota->አሜሪካ
+ 2 Center->???
+Warning: am.po: component count mismatch America/North_Dakota/New_Salem->አሜሪካ/አሜሪካ
+ 0 America->አሜሪካ
+ 1 North_Dakota->አሜሪካ
+ 2 New_Salem->???
 Note: am.po: counting fuzzy Asia->እስያ.
 Note: am.po: counting fuzzy Antarctica->አንታርክቲካ.
 Note: am.po: counting fuzzy Antarctica->Antarctica.
@@ -8,37 +68,384 @@ Note: ar.po: counting fuzzy America->أمريكا.
 Warning: as.po: unclear translation of North_Dakota.
  drop candidate: উত্তৰ ডাকোটা (_D) used 1 times
  drop candidate: উত্তৰ_ডাকোটা used 1 times
+Warning: bg.po: component count mismatch America/Marigot->Америка/о-в Св. Мартин/гр. Мариго
+ 0 America->Америка
+ 1 Marigot->о-в Св. Мартин
+ 2 ???->гр. Мариго
+Warning: bg.po: component count mismatch America/Resolute->Америка/Нунавут/село Резолют
+ 0 America->Америка
+ 1 Resolute->Нунавут
+ 2 ???->село Резолют
 Note: bg.po: counting fuzzy Pacific->Тих_Океан.
 Note: bg.po: ignoring "Тих Океан" due to underscore normalization.
 Note: da.po: counting fuzzy Pacific->Stillehav.
+Warning: et.po: component count mismatch America/Argentina/Buenos_Aires->Ameerika/Buenos_Aires
+ 0 America->Ameerika
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: et.po: component count mismatch America/Argentina/Catamarca->Ameerika/Catamarca
+ 0 America->Ameerika
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: et.po: component count mismatch America/Argentina/Cordoba->Ameerika/Cordoba
+ 0 America->Ameerika
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: et.po: component count mismatch America/Argentina/Jujuy->Ameerika/Jujuy
+ 0 America->Ameerika
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: et.po: component count mismatch America/Argentina/La_Rioja->Ameerika/Araguaina
+ 0 America->Ameerika
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: et.po: component count mismatch America/Argentina/Mendoza->Ameerika/Mendoza
+ 0 America->Ameerika
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: et.po: component count mismatch America/Argentina/Salta->Ameerika/Antigua
+ 0 America->Ameerika
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: et.po: component count mismatch America/Argentina/San_Juan->Ameerika/Antigua
+ 0 America->Ameerika
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: et.po: component count mismatch America/Argentina/San_Luis->Ameerika/Antigua
+ 0 America->Ameerika
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: et.po: component count mismatch America/Argentina/Tucuman->Ameerika/Antigua
+ 0 America->Ameerika
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: et.po: component count mismatch America/Argentina/Ushuaia->Ameerika/Araguaina
+ 0 America->Ameerika
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
+Warning: fa.po: component count mismatch America/Argentina/Salta->امریکا/انتیگا
+ 0 America->امریکا
+ 1 Argentina->انتیگا
+ 2 Salta->???
+Warning: fa.po: component count mismatch America/Argentina/San_Juan->امریکا/انتیگا
+ 0 America->امریکا
+ 1 Argentina->انتیگا
+ 2 San_Juan->???
+Warning: fa.po: component count mismatch America/Argentina/San_Luis->امریکا/انتیگا
+ 0 America->امریکا
+ 1 Argentina->انتیگا
+ 2 San_Luis->???
+Warning: fa.po: component count mismatch America/Argentina/Tucuman->امریکا/انتیگا
+ 0 America->امریکا
+ 1 Argentina->انتیگا
+ 2 Tucuman->???
+Warning: fa.po: component count mismatch America/Argentina/Ushuaia->امریکا/آراگواینا
+ 0 America->امریکا
+ 1 Argentina->آراگواینا
+ 2 Ushuaia->???
 Note: fa.po: counting fuzzy Europe->اروپا.
 Note: fa.po: counting fuzzy Argentina->آرژانتین.
 Note: fa.po: not counting purely fuzzy Argentina->ایندیانا.
 Note: fa.po: counting fuzzy US->ایالات متحده.
 Note: fa.po: counting fuzzy America->امریکا.
+Warning: gl.po: component count mismatch America/Argentina/Jujuy->América/Juyjuy
+ 0 America->América
+ 1 Argentina->Juyjuy
+ 2 Jujuy->???
+Warning: gl.po: component count mismatch America/Argentina/La_Rioja->América/Araguaina
+ 0 America->América
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: gl.po: component count mismatch America/Argentina/Salta->América/Antiga
+ 0 America->América
+ 1 Argentina->Antiga
+ 2 Salta->???
+Warning: gl.po: component count mismatch America/Argentina/San_Juan->América/Antiga
+ 0 America->América
+ 1 Argentina->Antiga
+ 2 San_Juan->???
+Warning: gl.po: component count mismatch America/Argentina/San_Luis->América/Antiga
+ 0 America->América
+ 1 Argentina->Antiga
+ 2 San_Luis->???
+Warning: gl.po: component count mismatch America/North_Dakota/Center->América/Fort_Wayne
+ 0 America->América
+ 1 North_Dakota->Fort_Wayne
+ 2 Center->???
+Warning: gl.po: component count mismatch America/North_Dakota/New_Salem->América/Fort_Wayne
+ 0 America->América
+ 1 North_Dakota->Fort_Wayne
+ 2 New_Salem->???
 Note: gl.po: not counting purely fuzzy Argentina->Indiana.
 Note: hu.po: counting fuzzy America->Amerika.
+Warning: ka.po: component count mismatch America/Indiana/Petersburg->ამერიკა/ინდიანაპოლისი
+ 0 America->ამერიკა
+ 1 Indiana->ინდიანაპოლისი
+ 2 Petersburg->???
+Warning: ka.po: component count mismatch America/Indiana/Tell_City->ამერიკა/ინდიანაპოლისი
+ 0 America->ამერიკა
+ 1 Indiana->ინდიანაპოლისი
+ 2 Tell_City->???
+Warning: ka.po: component count mismatch America/Indiana/Vincennes->ამერიკა/ინდიანაპოლისი
+ 0 America->ამერიკა
+ 1 Indiana->ინდიანაპოლისი
+ 2 Vincennes->???
+Warning: ka.po: component count mismatch America/Indiana/Winamac->ამერიკა/ინდიანაპოლისი
+ 0 America->ამერიკა
+ 1 Indiana->ინდიანაპოლისი
+ 2 Winamac->???
 Note: ka.po: counting fuzzy Europe->ევროპა.
 Note: ka.po: counting fuzzy Europe->ევრობა.
+Warning: lt.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+ 0 America->Amerika
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: lt.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
+ 0 America->Amerika
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: lt.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
+ 0 America->Amerika
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: lt.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
+ 0 America->Amerika
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: lt.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: lt.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
+ 0 America->Amerika
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: lt.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: lt.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: lt.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: lt.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: lt.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
 Note: lt.po: counting fuzzy Asia->Azija.
 Note: lt.po: counting fuzzy Europe->Europa.
 Note: mai.po: counting fuzzy Pacific->पैसीफिक.
+Warning: mk.po: component count mismatch America/Argentina/Buenos_Aires->Америка/Buenos_Aires
+ 0 America->Америка
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: mk.po: component count mismatch America/Argentina/Catamarca->Америка/Catamarca
+ 0 America->Америка
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: mk.po: component count mismatch America/Argentina/Cordoba->Америка/Cordoba
+ 0 America->Америка
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: mk.po: component count mismatch America/Argentina/Jujuy->Америка/Jujuy
+ 0 America->Америка
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: mk.po: component count mismatch America/Argentina/La_Rioja->Америка/Araguaina
+ 0 America->Америка
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: mk.po: component count mismatch America/Argentina/Mendoza->Америка/Mendoza
+ 0 America->Америка
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: mk.po: component count mismatch America/Argentina/Salta->Америка/Antigua
+ 0 America->Америка
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: mk.po: component count mismatch America/Argentina/San_Juan->Америка/Antigua
+ 0 America->Америка
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: mk.po: component count mismatch America/Argentina/San_Luis->Америка/Antigua
+ 0 America->Америка
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: mk.po: component count mismatch America/Argentina/Tucuman->Америка/Antigua
+ 0 America->Америка
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: mk.po: component count mismatch America/Argentina/Ushuaia->Америка/Araguaina
+ 0 America->Америка
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
+Warning: ml.po: component count mismatch Antarctica/Casey->അന്റാര്‍ട്ടിക്ക/റാര്‍ട്ടിത്/കാസ്സെയ്
+ 0 Antarctica->അന്റാര്‍ട്ടിക്ക
+ 1 Casey->റാര്‍ട്ടിത്
+ 2 ???->കാസ്സെയ്
 Warning: ml.po: unclear translation of Indiana.
  drop candidate: ഇന്‍ഡ്യാന used 5 times
  drop candidate: ഇന്‍ഡ്യാനാ used 3 times
+Warning: no.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+ 0 America->Amerika
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: no.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
+ 0 America->Amerika
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: no.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
+ 0 America->Amerika
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: no.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
+ 0 America->Amerika
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: no.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: no.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
+ 0 America->Amerika
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: no.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: no.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: no.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: no.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: no.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
 Warning: pt_BR.po: unclear translation of North_Dakota.
  drop candidate: Dakota_do_Norte used 1 times
  drop candidate: _Dakota_do_Norte used 1 times
 Note: pt.po: ignoring "Dakota_do_Norte" due to underscore normalization.
+Warning: si.po: component count mismatch America/Indianapolis->ඇමරිකාව/ඉන්දියානාපොලිස්/
+ 0 America->ඇමරිකාව
+ 1 Indianapolis->ඉන්දියානාපොලිස්
+ 2 ???->
 Note: si.po: counting fuzzy Australia->ඕස්ට්‍රේලියාච.
 Note: si.po: counting fuzzy Asia->අසියාව.
 Note: si.po: counting fuzzy America->ඇමරිකාව.
+Warning: sl.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+ 0 America->Amerika
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: sl.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
+ 0 America->Amerika
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: sl.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
+ 0 America->Amerika
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: sl.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
+ 0 America->Amerika
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: sl.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: sl.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
+ 0 America->Amerika
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: sl.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: sl.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: sl.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: sl.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
+ 0 America->Amerika
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: sl.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+ 0 America->Amerika
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
 Warning: sv.po: unclear translation of North_Dakota.
  drop candidate: Norddakota used 1 times
  drop candidate: North_Dakota used 1 times
+Warning: ta.po: component count mismatch Mideast/Riyadh87->மிட்
+ 0 Mideast->மிட்
+ 1 Riyadh87->???
 Warning: ta.po: unclear translation of North_Dakota.
  drop candidate: வட_டக்கோடா used 1 times
  drop candidate: நார்த்_டக்கோடா used 1 times
 Warning: tr.po: unclear translation of Kentucky.
  drop candidate: Kentucy used 1 times
  drop candidate: Kentucky used 1 times
+Warning: vi.po: component count mismatch America/Argentina/Buenos_Aires->Châu Mỹ/Buenos_Aires
+ 0 America->Châu Mỹ
+ 1 Argentina->Buenos_Aires
+ 2 Buenos_Aires->???
+Warning: vi.po: component count mismatch America/Argentina/Catamarca->Châu Mỹ/Catamarca
+ 0 America->Châu Mỹ
+ 1 Argentina->Catamarca
+ 2 Catamarca->???
+Warning: vi.po: component count mismatch America/Argentina/Cordoba->Châu Mỹ/Cordoba
+ 0 America->Châu Mỹ
+ 1 Argentina->Cordoba
+ 2 Cordoba->???
+Warning: vi.po: component count mismatch America/Argentina/Jujuy->Châu Mỹ/Jujuy
+ 0 America->Châu Mỹ
+ 1 Argentina->Jujuy
+ 2 Jujuy->???
+Warning: vi.po: component count mismatch America/Argentina/La_Rioja->Châu Mỹ/Araguaina
+ 0 America->Châu Mỹ
+ 1 Argentina->Araguaina
+ 2 La_Rioja->???
+Warning: vi.po: component count mismatch America/Argentina/Mendoza->Châu Mỹ/Mendoza
+ 0 America->Châu Mỹ
+ 1 Argentina->Mendoza
+ 2 Mendoza->???
+Warning: vi.po: component count mismatch America/Argentina/Salta->Châu Mỹ/Antigua
+ 0 America->Châu Mỹ
+ 1 Argentina->Antigua
+ 2 Salta->???
+Warning: vi.po: component count mismatch America/Argentina/San_Juan->Châu Mỹ/Antigua
+ 0 America->Châu Mỹ
+ 1 Argentina->Antigua
+ 2 San_Juan->???
+Warning: vi.po: component count mismatch America/Argentina/San_Luis->Châu Mỹ/Antigua
+ 0 America->Châu Mỹ
+ 1 Argentina->Antigua
+ 2 San_Luis->???
+Warning: vi.po: component count mismatch America/Argentina/Tucuman->Châu Mỹ/Antigua
+ 0 America->Châu Mỹ
+ 1 Argentina->Antigua
+ 2 Tucuman->???
+Warning: vi.po: component count mismatch America/Argentina/Ushuaia->Châu Mỹ/Araguaina
+ 0 America->Châu Mỹ
+ 1 Argentina->Araguaina
+ 2 Ushuaia->???
