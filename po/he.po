@@ -2890,143 +2890,178 @@ msgid "EST5EDT"
 msgstr ""
 
 #: timezones.h:695
-msgid "Etc/GMT"
+msgctxt "Etc"
+msgid "GMT"
 msgstr ""
 
 #: timezones.h:696
-msgid "Etc/GMT0"
+msgctxt "Etc"
+msgid "GMT0"
 msgstr ""
 
 #: timezones.h:697
-msgid "Etc/GMT-0"
+msgctxt "Etc"
+msgid "GMT-0"
 msgstr ""
 
 #: timezones.h:698
-msgid "Etc/GMT+0"
+msgctxt "Etc"
+msgid "GMT+0"
 msgstr ""
 
 #: timezones.h:699
-msgid "Etc/GMT-1"
+msgctxt "Etc"
+msgid "GMT-1"
 msgstr ""
 
 #: timezones.h:700
-msgid "Etc/GMT+1"
+msgctxt "Etc"
+msgid "GMT+1"
 msgstr ""
 
 #: timezones.h:701
-msgid "Etc/GMT-10"
+msgctxt "Etc"
+msgid "GMT-10"
 msgstr ""
 
 #: timezones.h:702
-msgid "Etc/GMT+10"
+msgctxt "Etc"
+msgid "GMT+10"
 msgstr ""
 
 #: timezones.h:703
-msgid "Etc/GMT-11"
+msgctxt "Etc"
+msgid "GMT-11"
 msgstr ""
 
 #: timezones.h:704
-msgid "Etc/GMT+11"
+msgctxt "Etc"
+msgid "GMT+11"
 msgstr ""
 
 #: timezones.h:705
-msgid "Etc/GMT-12"
+msgctxt "Etc"
+msgid "GMT-12"
 msgstr ""
 
 #: timezones.h:706
-msgid "Etc/GMT+12"
+msgctxt "Etc"
+msgid "GMT+12"
 msgstr ""
 
 #: timezones.h:707
-msgid "Etc/GMT-13"
+msgctxt "Etc"
+msgid "GMT-13"
 msgstr ""
 
 #: timezones.h:708
-msgid "Etc/GMT-14"
+msgctxt "Etc"
+msgid "GMT-14"
 msgstr ""
 
 #: timezones.h:709
-msgid "Etc/GMT-2"
+msgctxt "Etc"
+msgid "GMT-2"
 msgstr ""
 
 #: timezones.h:710
-msgid "Etc/GMT+2"
+msgctxt "Etc"
+msgid "GMT+2"
 msgstr ""
 
 #: timezones.h:711
-msgid "Etc/GMT-3"
+msgctxt "Etc"
+msgid "GMT-3"
 msgstr ""
 
 #: timezones.h:712
-msgid "Etc/GMT+3"
+msgctxt "Etc"
+msgid "GMT+3"
 msgstr ""
 
 #: timezones.h:713
-msgid "Etc/GMT-4"
+msgctxt "Etc"
+msgid "GMT-4"
 msgstr ""
 
 #: timezones.h:714
-msgid "Etc/GMT+4"
+msgctxt "Etc"
+msgid "GMT+4"
 msgstr ""
 
 #: timezones.h:715
-msgid "Etc/GMT-5"
+msgctxt "Etc"
+msgid "GMT-5"
 msgstr ""
 
 #: timezones.h:716
-msgid "Etc/GMT+5"
+msgctxt "Etc"
+msgid "GMT+5"
 msgstr ""
 
 #: timezones.h:717
-msgid "Etc/GMT-6"
+msgctxt "Etc"
+msgid "GMT-6"
 msgstr ""
 
 #: timezones.h:718
-msgid "Etc/GMT+6"
+msgctxt "Etc"
+msgid "GMT+6"
 msgstr ""
 
 #: timezones.h:719
-msgid "Etc/GMT-7"
+msgctxt "Etc"
+msgid "GMT-7"
 msgstr ""
 
 #: timezones.h:720
-msgid "Etc/GMT+7"
+msgctxt "Etc"
+msgid "GMT+7"
 msgstr ""
 
 #: timezones.h:721
-msgid "Etc/GMT-8"
+msgctxt "Etc"
+msgid "GMT-8"
 msgstr ""
 
 #: timezones.h:722
-msgid "Etc/GMT+8"
+msgctxt "Etc"
+msgid "GMT+8"
 msgstr ""
 
 #: timezones.h:723
-msgid "Etc/GMT-9"
+msgctxt "Etc"
+msgid "GMT-9"
 msgstr ""
 
 #: timezones.h:724
-msgid "Etc/GMT+9"
+msgctxt "Etc"
+msgid "GMT+9"
 msgstr ""
 
 #: timezones.h:725
-msgid "Etc/Greenwich"
+msgctxt "Etc"
+msgid "Greenwich"
 msgstr ""
 
 #: timezones.h:726
-msgid "Etc/UCT"
+msgctxt "Etc"
+msgid "UCT"
 msgstr ""
 
 #: timezones.h:727
-msgid "Etc/Universal"
+msgctxt "Etc"
+msgid "Universal"
 msgstr ""
 
 #: timezones.h:728
-msgid "Etc/UTC"
+msgctxt "Etc"
+msgid "UTC"
 msgstr ""
 
 #: timezones.h:729
-msgid "Etc/Zulu"
+msgctxt "Etc"
+msgid "Zulu"
 msgstr ""
 
 #: timezones.h:730

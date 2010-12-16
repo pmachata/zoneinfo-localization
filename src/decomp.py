@@ -11,21 +11,30 @@ from zonetab import TZID, ParseError
 input_fn, = sys.argv[1:]
 
 new_messages = {}
+fuzzy_flag = u"fuzzy"
 
 def extract_context (tzid, str_comps, top_context, top_flags, message=None):
-    if len (str_comps) != len (tzid.components):
-        assert message is not None # None message is only passed below toplev
-        if message.msgstr:
-            sys.stderr.write ((u"Warning: %s: component count mismatch %s->%s\n"
-                               % (input_fn, tzid.name (), message.msgstr))
-                              .encode ("utf-8"))
-            for i in range (max (len (str_comps), len (tzid.components))):
-                a = tzid.components[i] if i < len (tzid.components) else "???"
-                b = str_comps[i] if i < len (str_comps) else "???"
-                sys.stderr.write ((u" %s %s->%s\n" % (i, a, b)).encode ("utf-8"))
+    if len (str_comps) == 0:
         return
 
     translation = str_comps[-1]
+    if message is not None: # the top level
+        if len (str_comps) != len (tzid.components) and message.msgstr:
+            new_top_flags = top_flags[:]
+            if fuzzy_flag not in new_top_flags:
+                new_top_flags.append (fuzzy_flag)
+
+            if fuzzy_flag in top_flags:
+                # since we scratch the translation anyway...
+                top_flags.remove (fuzzy_flag)
+            translation = ""
+
+            top_flags = new_top_flags
+
+            sys.stderr.write ((u"Warning: %s: translation mismatch %s->%s\n"
+                               % (input_fn, tzid.name (), message.msgstr))
+                              .encode ("utf-8"))
+
     if message is None:
         name = tzid.name ()
 
@@ -40,7 +49,7 @@ def extract_context (tzid, str_comps, top_context, top_flags, message=None):
         (_, _, message) = candidate
 
         candidates_pair[0] = candidates_pair[0] + " " + top_context.name ()
-        candidate[int (u"fuzzy" in top_flags)] += 1
+        candidate[int (fuzzy_flag in top_flags)] += 1
         if candidate[0] + candidate[1] > 1: # already seen
             return
 
@@ -74,21 +83,16 @@ def filter_candidates (candidates):
     def candidate_sorting_key ((translation,(uses,fuzzy_uses,message))):
         return (uses, "_" not in translation)
     candidate_list.sort (key=candidate_sorting_key, reverse=True)
-    if len (candidate_list) == 1:
-        return candidate_list
 
     # Project fuzzy candidate counts if there is evidence that the
     # translation is correct.
     for i, candidate in enumerate (candidate_list):
         (translation, (uses, fuzzy_uses, message)) = candidate
         if fuzzy_uses > 0:
-            sys.stderr.write ((u"Note: %s: %s %s->%s.\n"
-                               % (input_fn,
-                                  ("not counting purely fuzzy"
-                                   if uses == 0 else "counting fuzzy"),
-                                  message.msgid, translation))
-                              .encode ("utf-8"))
             if uses != 0:
+                sys.stderr.write ((u"Note: %s: counting fuzzy %s->%s.\n"
+                                   % (input_fn, message.msgid, translation))
+                                  .encode ("utf-8"))
                 candidate[1][0] += candidate[1][1]
 
     # Normalize use of " " and "_".  Pick whatever the strongest
@@ -111,18 +115,19 @@ def filter_candidates (candidates):
             continue
         new_candidates.append (candidate)
     candidate_list = new_candidates
-    if len (candidate_list) == 1:
+
+    strongest_translation, (strongest_uses, _, strongest_message) = strongest
+    if len (candidate_list) == 1 and strongest_uses > 0:
         return candidate_list
 
     # Drop all candidates that are essentially unused, compared to the
     # strongest one.
-    strongest_translation, (strongest_uses, _, strongest_message) = strongest
     deleted = 0
     for i, (_, (uses, _, _)) in enumerate (candidate_list[1:]):
         if uses <= strongest_uses / 3:
             del candidate_list[i+1-deleted]
             deleted += 1
-    if len (candidate_list) == 1:
+    if len (candidate_list) == 1 and strongest_uses > 0:
         return candidate_list
 
     # If we still don't have clear winner, make the string

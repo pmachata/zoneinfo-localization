@@ -66,10 +66,16 @@ msgstr "Afrika"
 msgid "America"
 msgstr "Amerika"
 
-#. Prefix of America/Argentina/ComodRivadavia America/Argentina/Rio_Gallegos
+#. Prefix of America/Argentina/Buenos_Aires America/Argentina/Catamarca
+#. America/Argentina/ComodRivadavia America/Argentina/Cordoba
+#. America/Argentina/Jujuy America/Argentina/La_Rioja
+#. America/Argentina/Mendoza America/Argentina/Rio_Gallegos
+#. America/Argentina/Salta America/Argentina/San_Juan
+#. America/Argentina/San_Luis America/Argentina/Tucuman
+#. America/Argentina/Ushuaia
 msgctxt "America"
 msgid "Argentina"
-msgstr "Indiana"
+msgstr ""
 
 #. Prefix of America/Indiana/Indianapolis America/Indiana/Knox
 #. America/Indiana/Marengo America/Indiana/Petersburg
@@ -97,7 +103,7 @@ msgstr "Antarktis"
 
 #. Prefix of Arctic/Longyearbyen
 msgid "Arctic"
-msgstr "Antarktis"
+msgstr ""
 
 #. Prefix of Asia/Aden Asia/Almaty Asia/Amman Asia/Anadyr Asia/Aqtau
 #. Asia/Aqtobe Asia/Ashgabat Asia/Ashkhabad Asia/Baghdad Asia/Bahrain
@@ -539,9 +545,9 @@ msgid "Tocantins"
 msgstr ""
 
 #: timezones.h:71
-#, fuzzy
-msgid "America/Argentina/Buenos_Aires"
-msgstr "Amerika/Buenos_Aires"
+msgctxt "America/Argentina"
+msgid "Buenos_Aires"
+msgstr ""
 
 #. comment for time zone America/Argentina/Buenos_Aires
 #: timezones.h:73
@@ -549,9 +555,9 @@ msgid "Buenos Aires (BA, CF)"
 msgstr ""
 
 #: timezones.h:74
-#, fuzzy
-msgid "America/Argentina/Catamarca"
-msgstr "Amerika/Catamarca"
+msgctxt "America/Argentina"
+msgid "Catamarca"
+msgstr ""
 
 #. comment for time zone America/Argentina/Catamarca
 #: timezones.h:76
@@ -565,9 +571,9 @@ msgid "ComodRivadavia"
 msgstr "Indianapolis"
 
 #: timezones.h:78
-#, fuzzy
-msgid "America/Argentina/Cordoba"
-msgstr "Amerika/Cordoba"
+msgctxt "America/Argentina"
+msgid "Cordoba"
+msgstr ""
 
 #. comment for time zone America/Argentina/Cordoba
 #: timezones.h:80
@@ -575,9 +581,9 @@ msgid "most locations (CB, CC, CN, ER, FM, MN, SE, SF)"
 msgstr ""
 
 #: timezones.h:81
-#, fuzzy
-msgid "America/Argentina/Jujuy"
-msgstr "Amerika/Jujuy"
+msgctxt "America/Argentina"
+msgid "Jujuy"
+msgstr ""
 
 #. comment for time zone America/Argentina/Jujuy
 #: timezones.h:83
@@ -585,9 +591,9 @@ msgid "Jujuy (JY)"
 msgstr ""
 
 #: timezones.h:84
-#, fuzzy
-msgid "America/Argentina/La_Rioja"
-msgstr "Amerika/Araguaina"
+msgctxt "America/Argentina"
+msgid "La_Rioja"
+msgstr ""
 
 #. comment for time zone America/Argentina/La_Rioja
 #: timezones.h:86
@@ -595,9 +601,9 @@ msgid "La Rioja (LR)"
 msgstr ""
 
 #: timezones.h:87
-#, fuzzy
-msgid "America/Argentina/Mendoza"
-msgstr "Amerika/Mendoza"
+msgctxt "America/Argentina"
+msgid "Mendoza"
+msgstr ""
 
 #. comment for time zone America/Argentina/Mendoza
 #: timezones.h:89
@@ -616,9 +622,9 @@ msgid "Santa Cruz (SC)"
 msgstr ""
 
 #: timezones.h:93
-#, fuzzy
-msgid "America/Argentina/Salta"
-msgstr "Amerika/Antigua"
+msgctxt "America/Argentina"
+msgid "Salta"
+msgstr ""
 
 #. comment for time zone America/Argentina/Salta
 #: timezones.h:95
@@ -626,9 +632,9 @@ msgid "(SA, LP, NQ, RN)"
 msgstr ""
 
 #: timezones.h:96
-#, fuzzy
-msgid "America/Argentina/San_Juan"
-msgstr "Amerika/Antigua"
+msgctxt "America/Argentina"
+msgid "San_Juan"
+msgstr ""
 
 #. comment for time zone America/Argentina/San_Juan
 #: timezones.h:98
@@ -636,9 +642,9 @@ msgid "San Juan (SJ)"
 msgstr ""
 
 #: timezones.h:99
-#, fuzzy
-msgid "America/Argentina/San_Luis"
-msgstr "Amerika/Antigua"
+msgctxt "America/Argentina"
+msgid "San_Luis"
+msgstr ""
 
 #. comment for time zone America/Argentina/San_Luis
 #: timezones.h:101
@@ -646,9 +652,9 @@ msgid "San Luis (SL)"
 msgstr ""
 
 #: timezones.h:102
-#, fuzzy
-msgid "America/Argentina/Tucuman"
-msgstr "Amerika/Antigua"
+msgctxt "America/Argentina"
+msgid "Tucuman"
+msgstr ""
 
 #. comment for time zone America/Argentina/Tucuman
 #: timezones.h:104
@@ -656,9 +662,9 @@ msgid "Tucuman (TM)"
 msgstr ""
 
 #: timezones.h:105
-#, fuzzy
-msgid "America/Argentina/Ushuaia"
-msgstr "Amerika/Araguaina"
+msgctxt "America/Argentina"
+msgid "Ushuaia"
+msgstr ""
 
 #. comment for time zone America/Argentina/Ushuaia
 #: timezones.h:107

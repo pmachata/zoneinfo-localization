@@ -1,451 +1,391 @@
-Warning: am.po: component count mismatch America/Argentina/Buenos_Aires->አሜሪካ/ቡኤኖስ_ኤይሪስ
- 0 America->አሜሪካ
- 1 Argentina->ቡኤኖስ_ኤይሪስ
- 2 Buenos_Aires->???
-Warning: am.po: component count mismatch America/Argentina/Catamarca->አሜሪካ/ካታማርካ
- 0 America->አሜሪካ
- 1 Argentina->ካታማርካ
- 2 Catamarca->???
-Warning: am.po: component count mismatch America/Argentina/ComodRivadavia->አሜሪካ/አሜሪካ
- 0 America->አሜሪካ
- 1 Argentina->አሜሪካ
- 2 ComodRivadavia->???
-Warning: am.po: component count mismatch America/Argentina/Cordoba->አሜሪካ/ኮርዶባ
- 0 America->አሜሪካ
- 1 Argentina->ኮርዶባ
- 2 Cordoba->???
-Warning: am.po: component count mismatch America/Argentina/Jujuy->አሜሪካ/ጁጁይ
- 0 America->አሜሪካ
- 1 Argentina->ጁጁይ
- 2 Jujuy->???
-Warning: am.po: component count mismatch America/Argentina/La_Rioja->አሜሪካ/አራጉአኢና
- 0 America->አሜሪካ
- 1 Argentina->አራጉአኢና
- 2 La_Rioja->???
-Warning: am.po: component count mismatch America/Argentina/Mendoza->አሜሪካ/ሜንዶዛ
- 0 America->አሜሪካ
- 1 Argentina->ሜንዶዛ
- 2 Mendoza->???
-Warning: am.po: component count mismatch America/Argentina/Salta->አሜሪካ/አንቲጉዋ
- 0 America->አሜሪካ
- 1 Argentina->አንቲጉዋ
- 2 Salta->???
-Warning: am.po: component count mismatch America/Argentina/San_Juan->አሜሪካ/አንቲጉዋ
- 0 America->አሜሪካ
- 1 Argentina->አንቲጉዋ
- 2 San_Juan->???
-Warning: am.po: component count mismatch America/Argentina/San_Luis->አሜሪካ/አንቲጉዋ
- 0 America->አሜሪካ
- 1 Argentina->አንቲጉዋ
- 2 San_Luis->???
-Warning: am.po: component count mismatch America/Argentina/Tucuman->አሜሪካ/አንቲጉዋ
- 0 America->አሜሪካ
- 1 Argentina->አንቲጉዋ
- 2 Tucuman->???
-Warning: am.po: component count mismatch America/Argentina/Ushuaia->አሜሪካ/አራጉአኢና
- 0 America->አሜሪካ
- 1 Argentina->አራጉአኢና
- 2 Ushuaia->???
-Warning: am.po: component count mismatch America/Indiana/Indianapolis->አሜሪካ/አሜሪካ
- 0 America->አሜሪካ
- 1 Indiana->አሜሪካ
- 2 Indianapolis->???
-Warning: am.po: component count mismatch America/North_Dakota/Center->አሜሪካ/አሜሪካ
- 0 America->አሜሪካ
- 1 North_Dakota->አሜሪካ
- 2 Center->???
-Warning: am.po: component count mismatch America/North_Dakota/New_Salem->አሜሪካ/አሜሪካ
- 0 America->አሜሪካ
- 1 North_Dakota->አሜሪካ
- 2 New_Salem->???
+Warning: am.po: translation mismatch America/Argentina/Buenos_Aires->አሜሪካ/ቡኤኖስ_ኤይሪስ
+Warning: am.po: translation mismatch America/Argentina/Catamarca->አሜሪካ/ካታማርካ
+Warning: am.po: translation mismatch America/Argentina/ComodRivadavia->አሜሪካ/አሜሪካ
+Warning: am.po: translation mismatch America/Argentina/Cordoba->አሜሪካ/ኮርዶባ
+Warning: am.po: translation mismatch America/Argentina/Jujuy->አሜሪካ/ጁጁይ
+Warning: am.po: translation mismatch America/Argentina/La_Rioja->አሜሪካ/አራጉአኢና
+Warning: am.po: translation mismatch America/Argentina/Mendoza->አሜሪካ/ሜንዶዛ
+Warning: am.po: translation mismatch America/Argentina/Salta->አሜሪካ/አንቲጉዋ
+Warning: am.po: translation mismatch America/Argentina/San_Juan->አሜሪካ/አንቲጉዋ
+Warning: am.po: translation mismatch America/Argentina/San_Luis->አሜሪካ/አንቲጉዋ
+Warning: am.po: translation mismatch America/Argentina/Tucuman->አሜሪካ/አንቲጉዋ
+Warning: am.po: translation mismatch America/Argentina/Ushuaia->አሜሪካ/አራጉአኢና
+Warning: am.po: translation mismatch America/Indiana/Indianapolis->አሜሪካ/አሜሪካ
+Warning: am.po: translation mismatch America/North_Dakota/Center->አሜሪካ/አሜሪካ
+Warning: am.po: translation mismatch America/North_Dakota/New_Salem->አሜሪካ/አሜሪካ
+Note: am.po: counting fuzzy Indiana->አሜሪካ.
 Note: am.po: counting fuzzy Asia->እስያ.
-Note: am.po: counting fuzzy Antarctica->አንታርክቲካ.
-Note: am.po: counting fuzzy Antarctica->Antarctica.
+Warning: am.po: unclear translation of Argentina.
+ drop candidate: አሜሪካ used 0 times (13 fuzzy)
+Note: am.po: counting fuzzy US->US.
+Note: am.po: counting fuzzy Europe->አውሮፓ.
+Note: am.po: counting fuzzy Australia->አውስትሬሊያ.
 Note: am.po: counting fuzzy Atlantic->አትላንቲክ.
 Note: am.po: counting fuzzy America->አሜሪካ.
 Note: am.po: counting fuzzy America->America.
+Warning: am.po: unclear translation of North_Dakota.
+ drop candidate: አሜሪካ used 0 times (2 fuzzy)
+Note: am.po: counting fuzzy Africa->አፍሪካ.
+Note: am.po: counting fuzzy Pacific->ፓሲፊክ.
+Note: am.po: counting fuzzy Antarctica->አንታርክቲካ.
+Note: am.po: counting fuzzy Antarctica->Antarctica.
+Note: ar.po: counting fuzzy Pacific->هادئ.
 Note: ar.po: counting fuzzy America->أمريكا.
+Note: as.po: counting fuzzy Asia->এছিয়া.
+Note: as.po: counting fuzzy Antarctica->এন্টাৰ্কটিকা.
+Note: as.po: counting fuzzy Pacific->প্ৰশান্ত মহাসাগৰ.
 Warning: as.po: unclear translation of North_Dakota.
  drop candidate: উত্তৰ ডাকোটা (_D) used 1 times
  drop candidate: উত্তৰ_ডাকোটা used 1 times
-Warning: bg.po: component count mismatch America/Marigot->Америка/о-в Св. Мартин/гр. Мариго
- 0 America->Америка
- 1 Marigot->о-в Св. Мартин
- 2 ???->гр. Мариго
-Warning: bg.po: component count mismatch America/Resolute->Америка/Нунавут/село Резолют
- 0 America->Америка
- 1 Resolute->Нунавут
- 2 ???->село Резолют
+Note: as.po: counting fuzzy America->আমেৰিকা.
+Warning: bg.po: translation mismatch America/Marigot->Америка/о-в Св. Мартин/гр. Мариго
+Warning: bg.po: translation mismatch America/Resolute->Америка/Нунавут/село Резолют
+Note: bg.po: counting fuzzy Asia->Азия.
+Note: bg.po: counting fuzzy Argentina->Аржентина.
+Note: bg.po: counting fuzzy Antarctica->Антарктика.
 Note: bg.po: counting fuzzy Pacific->Тих_Океан.
 Note: bg.po: ignoring "Тих Океан" due to underscore normalization.
+Note: bg.po: counting fuzzy America->Америка.
+Note: bn.po: counting fuzzy Indiana->ইন্ডিয়ানা.
+Note: bn.po: counting fuzzy Asia->এশিয়া.
+Note: bn.po: counting fuzzy Argentina->আর্জেনটিনা.
+Note: bn.po: counting fuzzy US->যুক্তরাষ্ট্র.
+Note: bn.po: counting fuzzy Europe->ইউরোপ.
+Note: bn.po: counting fuzzy Australia->অস্ট্রেলিয়া.
+Note: bn.po: counting fuzzy Atlantic->অ্যাটলান্টিক.
+Note: bn.po: counting fuzzy America->আমেরিকা.
+Note: bn.po: counting fuzzy North_Dakota->নর্থ_ডাকোটা.
+Note: bn.po: counting fuzzy Africa->আফ্রিকা.
+Note: bn.po: counting fuzzy Pacific->প্রশান্ত মহাসাগর.
+Note: bn.po: counting fuzzy Antarctica->অ্যান্টার্কটিকা.
+Note: bs.po: counting fuzzy Australia->Australija.
+Note: bs.po: counting fuzzy Indiana->Indiana.
+Note: bs.po: counting fuzzy Africa->Afrika.
+Note: bs.po: counting fuzzy Asia->Azija.
+Note: bs.po: counting fuzzy Argentina->Argentina.
+Note: bs.po: counting fuzzy Antarctica->Antarktika.
+Note: bs.po: counting fuzzy Atlantic->Atlantik.
+Note: bs.po: counting fuzzy Pacific->Tihi_ocean.
+Note: bs.po: counting fuzzy America->Amerika.
+Note: cy.po: counting fuzzy Indiana->Indiana.
+Note: cy.po: counting fuzzy Asia->Asia.
+Note: cy.po: counting fuzzy Argentina->Ariannin.
+Note: cy.po: counting fuzzy US->UD.
+Note: cy.po: counting fuzzy Europe->Ewrop.
+Note: cy.po: counting fuzzy Australia->Awstralia.
+Note: cy.po: counting fuzzy Atlantic->Yr_Iwerydd.
+Note: cy.po: counting fuzzy America->America.
+Note: cy.po: counting fuzzy North_Dakota->Gogledd_Dakota.
+Note: cy.po: counting fuzzy Africa->Affrica.
+Note: cy.po: counting fuzzy Pacific->Môr_tawel.
+Note: cy.po: counting fuzzy Antarctica->Antarctica.
 Note: da.po: counting fuzzy Pacific->Stillehav.
-Warning: et.po: component count mismatch America/Argentina/Buenos_Aires->Ameerika/Buenos_Aires
- 0 America->Ameerika
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: et.po: component count mismatch America/Argentina/Catamarca->Ameerika/Catamarca
- 0 America->Ameerika
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: et.po: component count mismatch America/Argentina/Cordoba->Ameerika/Cordoba
- 0 America->Ameerika
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: et.po: component count mismatch America/Argentina/Jujuy->Ameerika/Jujuy
- 0 America->Ameerika
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: et.po: component count mismatch America/Argentina/La_Rioja->Ameerika/Araguaina
- 0 America->Ameerika
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: et.po: component count mismatch America/Argentina/Mendoza->Ameerika/Mendoza
- 0 America->Ameerika
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: et.po: component count mismatch America/Argentina/Salta->Ameerika/Antigua
- 0 America->Ameerika
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: et.po: component count mismatch America/Argentina/San_Juan->Ameerika/Antigua
- 0 America->Ameerika
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: et.po: component count mismatch America/Argentina/San_Luis->Ameerika/Antigua
- 0 America->Ameerika
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: et.po: component count mismatch America/Argentina/Tucuman->Ameerika/Antigua
- 0 America->Ameerika
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: et.po: component count mismatch America/Argentina/Ushuaia->Ameerika/Araguaina
- 0 America->Ameerika
- 1 Argentina->Araguaina
- 2 Ushuaia->???
-Warning: fa.po: component count mismatch America/Argentina/Salta->امریکا/انتیگا
- 0 America->امریکا
- 1 Argentina->انتیگا
- 2 Salta->???
-Warning: fa.po: component count mismatch America/Argentina/San_Juan->امریکا/انتیگا
- 0 America->امریکا
- 1 Argentina->انتیگا
- 2 San_Juan->???
-Warning: fa.po: component count mismatch America/Argentina/San_Luis->امریکا/انتیگا
- 0 America->امریکا
- 1 Argentina->انتیگا
- 2 San_Luis->???
-Warning: fa.po: component count mismatch America/Argentina/Tucuman->امریکا/انتیگا
- 0 America->امریکا
- 1 Argentina->انتیگا
- 2 Tucuman->???
-Warning: fa.po: component count mismatch America/Argentina/Ushuaia->امریکا/آراگواینا
- 0 America->امریکا
- 1 Argentina->آراگواینا
- 2 Ushuaia->???
+Note: da.po: counting fuzzy America->Amerika.
+Note: el.po: counting fuzzy Asia->Ασία.
+Note: el.po: counting fuzzy Antarctica->Ανταρκτική.
+Note: el.po: counting fuzzy Pacific->Ειρηνικός.
+Note: el.po: counting fuzzy America->Αμερική.
+Note: en_GB.po: counting fuzzy Asia->Asia.
+Note: en_GB.po: counting fuzzy Antarctica->Antarctica.
+Note: en_GB.po: counting fuzzy Pacific->Pacific.
+Note: en_GB.po: counting fuzzy America->America.
+Warning: et.po: translation mismatch America/Argentina/Buenos_Aires->Ameerika/Buenos_Aires
+Warning: et.po: translation mismatch America/Argentina/Catamarca->Ameerika/Catamarca
+Warning: et.po: translation mismatch America/Argentina/Cordoba->Ameerika/Cordoba
+Warning: et.po: translation mismatch America/Argentina/Jujuy->Ameerika/Jujuy
+Warning: et.po: translation mismatch America/Argentina/La_Rioja->Ameerika/Araguaina
+Warning: et.po: translation mismatch America/Argentina/Mendoza->Ameerika/Mendoza
+Warning: et.po: translation mismatch America/Argentina/Salta->Ameerika/Antigua
+Warning: et.po: translation mismatch America/Argentina/San_Juan->Ameerika/Antigua
+Warning: et.po: translation mismatch America/Argentina/San_Luis->Ameerika/Antigua
+Warning: et.po: translation mismatch America/Argentina/Tucuman->Ameerika/Antigua
+Warning: et.po: translation mismatch America/Argentina/Ushuaia->Ameerika/Araguaina
+Note: et.po: counting fuzzy Indiana->Indiana.
+Note: et.po: counting fuzzy Asia->Aasia.
+Warning: et.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Note: et.po: counting fuzzy US->US.
+Note: et.po: counting fuzzy Europe->Euroopa.
+Note: et.po: counting fuzzy Australia->Austraalia.
+Note: et.po: counting fuzzy Atlantic->Atlandi.
+Note: et.po: counting fuzzy America->Ameerika.
+Note: et.po: counting fuzzy North_Dakota->North_Dakota.
+Note: et.po: counting fuzzy Africa->Aafrika.
+Note: et.po: counting fuzzy Pacific->Pacific.
+Note: et.po: counting fuzzy Antarctica->Antarktika.
+Warning: fa.po: translation mismatch America/Argentina/Salta->امریکا/انتیگا
+Warning: fa.po: translation mismatch America/Argentina/San_Juan->امریکا/انتیگا
+Warning: fa.po: translation mismatch America/Argentina/San_Luis->امریکا/انتیگا
+Warning: fa.po: translation mismatch America/Argentina/Tucuman->امریکا/انتیگا
+Warning: fa.po: translation mismatch America/Argentina/Ushuaia->امریکا/آراگواینا
+Note: fa.po: counting fuzzy Australia->استرالیا.
+Note: fa.po: counting fuzzy Indiana->ایندیانا.
 Note: fa.po: counting fuzzy Europe->اروپا.
+Note: fa.po: counting fuzzy Asia->آسیا.
 Note: fa.po: counting fuzzy Argentina->آرژانتین.
-Note: fa.po: not counting purely fuzzy Argentina->ایندیانا.
+Note: fa.po: counting fuzzy Antarctica->جنوبگان.
+Note: fa.po: counting fuzzy Atlantic->اقیانوس اطلس.
+Note: fa.po: counting fuzzy Pacific->اقیانوس آرام.
+Note: fa.po: counting fuzzy North_Dakota->داکوتای‌شمالی.
 Note: fa.po: counting fuzzy US->ایالات متحده.
 Note: fa.po: counting fuzzy America->امریکا.
-Warning: gl.po: component count mismatch America/Argentina/Jujuy->América/Juyjuy
- 0 America->América
- 1 Argentina->Juyjuy
- 2 Jujuy->???
-Warning: gl.po: component count mismatch America/Argentina/La_Rioja->América/Araguaina
- 0 America->América
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: gl.po: component count mismatch America/Argentina/Salta->América/Antiga
- 0 America->América
- 1 Argentina->Antiga
- 2 Salta->???
-Warning: gl.po: component count mismatch America/Argentina/San_Juan->América/Antiga
- 0 America->América
- 1 Argentina->Antiga
- 2 San_Juan->???
-Warning: gl.po: component count mismatch America/Argentina/San_Luis->América/Antiga
- 0 America->América
- 1 Argentina->Antiga
- 2 San_Luis->???
-Warning: gl.po: component count mismatch America/North_Dakota/Center->América/Fort_Wayne
- 0 America->América
- 1 North_Dakota->Fort_Wayne
- 2 Center->???
-Warning: gl.po: component count mismatch America/North_Dakota/New_Salem->América/Fort_Wayne
- 0 America->América
- 1 North_Dakota->Fort_Wayne
- 2 New_Salem->???
-Note: gl.po: not counting purely fuzzy Argentina->Indiana.
+Warning: gl.po: translation mismatch America/Argentina/Jujuy->América/Juyjuy
+Warning: gl.po: translation mismatch America/Argentina/La_Rioja->América/Araguaina
+Warning: gl.po: translation mismatch America/Argentina/Salta->América/Antiga
+Warning: gl.po: translation mismatch America/Argentina/San_Juan->América/Antiga
+Warning: gl.po: translation mismatch America/Argentina/San_Luis->América/Antiga
+Warning: gl.po: translation mismatch America/North_Dakota/Center->América/Fort_Wayne
+Warning: gl.po: translation mismatch America/North_Dakota/New_Salem->América/Fort_Wayne
+Note: gl.po: counting fuzzy Indiana->Indiana.
+Note: gl.po: counting fuzzy Asia->Asia.
+Note: gl.po: counting fuzzy US->Estados_Unidos.
+Note: gl.po: counting fuzzy Europe->Europa.
+Note: gl.po: counting fuzzy Australia->Australia.
+Note: gl.po: counting fuzzy Atlantic->Atlántico.
+Note: gl.po: counting fuzzy America->América.
+Warning: gl.po: unclear translation of North_Dakota.
+ drop candidate: América used 0 times (2 fuzzy)
+Note: gl.po: counting fuzzy Africa->África.
+Note: gl.po: counting fuzzy Pacific->Pacífico.
+Note: gl.po: counting fuzzy Antarctica->Antártida.
+Note: he.po: counting fuzzy Asia->אסיה.
+Note: he.po: counting fuzzy Argentina->ארגנטינה.
+Note: he.po: counting fuzzy Antarctica->אנטרקטיקה.
+Note: he.po: counting fuzzy Pacific->האוקיינוס-השקט.
+Note: he.po: counting fuzzy America->אמריקה.
+Note: hr.po: counting fuzzy Australia->Australija.
+Note: hr.po: counting fuzzy Indiana->Indiana.
+Note: hr.po: counting fuzzy Africa->Afrika.
+Note: hr.po: counting fuzzy Asia->Azija.
+Note: hr.po: counting fuzzy Argentina->Argentina.
+Note: hr.po: counting fuzzy Antarctica->Antarktika.
+Note: hr.po: counting fuzzy Atlantic->Atlantik.
+Note: hr.po: counting fuzzy Pacific->Tihi_ocean.
+Note: hr.po: counting fuzzy America->Amerika.
+Note: hu.po: counting fuzzy Asia->Ázsia.
+Note: hu.po: counting fuzzy Antarctica->Antarktisz.
+Note: hu.po: counting fuzzy Pacific->Csendes-óceán.
 Note: hu.po: counting fuzzy America->Amerika.
-Warning: ka.po: component count mismatch America/Indiana/Petersburg->ამერიკა/ინდიანაპოლისი
- 0 America->ამერიკა
- 1 Indiana->ინდიანაპოლისი
- 2 Petersburg->???
-Warning: ka.po: component count mismatch America/Indiana/Tell_City->ამერიკა/ინდიანაპოლისი
- 0 America->ამერიკა
- 1 Indiana->ინდიანაპოლისი
- 2 Tell_City->???
-Warning: ka.po: component count mismatch America/Indiana/Vincennes->ამერიკა/ინდიანაპოლისი
- 0 America->ამერიკა
- 1 Indiana->ინდიანაპოლისი
- 2 Vincennes->???
-Warning: ka.po: component count mismatch America/Indiana/Winamac->ამერიკა/ინდიანაპოლისი
- 0 America->ამერიკა
- 1 Indiana->ინდიანაპოლისი
- 2 Winamac->???
+Note: id.po: counting fuzzy Indiana->Indiana.
+Note: id.po: counting fuzzy Asia->Asia.
+Note: id.po: counting fuzzy Argentina->Argentina.
+Note: id.po: counting fuzzy US->US.
+Note: id.po: counting fuzzy Europe->Eropa.
+Note: id.po: counting fuzzy Australia->Australia.
+Note: id.po: counting fuzzy Atlantic->Atlantik.
+Note: id.po: counting fuzzy America->Amerika.
+Note: id.po: counting fuzzy North_Dakota->NOrth_Dakota.
+Note: id.po: counting fuzzy Africa->Afrika.
+Note: id.po: counting fuzzy Pacific->Pasifik.
+Note: id.po: counting fuzzy Antarctica->Antartika.
+Note: is.po: counting fuzzy Pacific->Kyrrahafið.
+Note: is.po: counting fuzzy America->Ameríka.
+Warning: ka.po: translation mismatch America/Indiana/Petersburg->ამერიკა/ინდიანაპოლისი
+Warning: ka.po: translation mismatch America/Indiana/Tell_City->ამერიკა/ინდიანაპოლისი
+Warning: ka.po: translation mismatch America/Indiana/Vincennes->ამერიკა/ინდიანაპოლისი
+Warning: ka.po: translation mismatch America/Indiana/Winamac->ამერიკა/ინდიანაპოლისი
+Note: ka.po: counting fuzzy Australia->ავსტრალია.
 Note: ka.po: counting fuzzy Europe->ევროპა.
 Note: ka.po: counting fuzzy Europe->ევრობა.
-Warning: lt.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
- 0 America->Amerika
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: lt.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
- 0 America->Amerika
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: lt.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
- 0 America->Amerika
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: lt.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
- 0 America->Amerika
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: lt.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: lt.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
- 0 America->Amerika
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: lt.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: lt.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: lt.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: lt.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: lt.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 Ushuaia->???
+Note: ka.po: counting fuzzy Africa->აფრიკა.
+Note: ka.po: counting fuzzy Asia->აზია.
+Note: ka.po: counting fuzzy Argentina->არგენტინა.
+Note: ka.po: counting fuzzy North_Dakota->ჩრდ_დაკოტა.
+Note: ka.po: counting fuzzy America->ამერიკა.
+Warning: lt.po: translation mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+Warning: lt.po: translation mismatch America/Argentina/Catamarca->Amerika/Catamarca
+Warning: lt.po: translation mismatch America/Argentina/Cordoba->Amerika/Cordoba
+Warning: lt.po: translation mismatch America/Argentina/Jujuy->Amerika/Jujuy
+Warning: lt.po: translation mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+Warning: lt.po: translation mismatch America/Argentina/Mendoza->Amerika/Mendoza
+Warning: lt.po: translation mismatch America/Argentina/Salta->Amerika/Antigua
+Warning: lt.po: translation mismatch America/Argentina/San_Juan->Amerika/Antigua
+Warning: lt.po: translation mismatch America/Argentina/San_Luis->Amerika/Antigua
+Warning: lt.po: translation mismatch America/Argentina/Tucuman->Amerika/Antigua
+Warning: lt.po: translation mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+Note: lt.po: counting fuzzy Indiana->Indiana.
 Note: lt.po: counting fuzzy Asia->Azija.
+Warning: lt.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Note: lt.po: counting fuzzy US->JAV.
 Note: lt.po: counting fuzzy Europe->Europa.
+Note: lt.po: counting fuzzy Australia->Australija.
+Note: lt.po: counting fuzzy Atlantic->Atlantika.
+Note: lt.po: counting fuzzy America->Amerika.
+Note: lt.po: counting fuzzy North_Dakota->Šiaurės_Dakota.
+Note: lt.po: counting fuzzy Africa->Afrika.
+Note: lt.po: counting fuzzy Pacific->Pacific.
+Note: lt.po: counting fuzzy Antarctica->Antarktika.
+Note: lv.po: counting fuzzy Australia->Austrālija.
+Note: lv.po: counting fuzzy Indiana->Indiāna.
+Note: lv.po: counting fuzzy Europe->Eiropa.
+Note: lv.po: counting fuzzy Africa->Āfrika.
+Note: lv.po: counting fuzzy Asia->Āzija.
+Note: lv.po: counting fuzzy Argentina->Argentīna.
+Note: lv.po: counting fuzzy Antarctica->Antarktika.
+Note: lv.po: counting fuzzy Atlantic->Atlantika.
+Note: lv.po: counting fuzzy Pacific->Klusais okeāns.
+Note: lv.po: counting fuzzy America->Amerika.
+Note: mai.po: counting fuzzy Asia->एशिया.
+Note: mai.po: counting fuzzy Argentina->अर्जेंटीना.
+Note: mai.po: counting fuzzy Antarctica->अंर्टाटिका.
 Note: mai.po: counting fuzzy Pacific->पैसीफिक.
-Warning: mk.po: component count mismatch America/Argentina/Buenos_Aires->Америка/Buenos_Aires
- 0 America->Америка
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: mk.po: component count mismatch America/Argentina/Catamarca->Америка/Catamarca
- 0 America->Америка
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: mk.po: component count mismatch America/Argentina/Cordoba->Америка/Cordoba
- 0 America->Америка
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: mk.po: component count mismatch America/Argentina/Jujuy->Америка/Jujuy
- 0 America->Америка
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: mk.po: component count mismatch America/Argentina/La_Rioja->Америка/Araguaina
- 0 America->Америка
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: mk.po: component count mismatch America/Argentina/Mendoza->Америка/Mendoza
- 0 America->Америка
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: mk.po: component count mismatch America/Argentina/Salta->Америка/Antigua
- 0 America->Америка
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: mk.po: component count mismatch America/Argentina/San_Juan->Америка/Antigua
- 0 America->Америка
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: mk.po: component count mismatch America/Argentina/San_Luis->Америка/Antigua
- 0 America->Америка
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: mk.po: component count mismatch America/Argentina/Tucuman->Америка/Antigua
- 0 America->Америка
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: mk.po: component count mismatch America/Argentina/Ushuaia->Америка/Araguaina
- 0 America->Америка
- 1 Argentina->Araguaina
- 2 Ushuaia->???
-Warning: ml.po: component count mismatch Antarctica/Casey->അന്റാര്‍ട്ടിക്ക/റാര്‍ട്ടിത്/കാസ്സെയ്
- 0 Antarctica->അന്റാര്‍ട്ടിക്ക
- 1 Casey->റാര്‍ട്ടിത്
- 2 ???->കാസ്സെയ്
+Note: mai.po: counting fuzzy America->अमेरिका.
+Warning: mk.po: translation mismatch America/Argentina/Buenos_Aires->Америка/Buenos_Aires
+Warning: mk.po: translation mismatch America/Argentina/Catamarca->Америка/Catamarca
+Warning: mk.po: translation mismatch America/Argentina/Cordoba->Америка/Cordoba
+Warning: mk.po: translation mismatch America/Argentina/Jujuy->Америка/Jujuy
+Warning: mk.po: translation mismatch America/Argentina/La_Rioja->Америка/Araguaina
+Warning: mk.po: translation mismatch America/Argentina/Mendoza->Америка/Mendoza
+Warning: mk.po: translation mismatch America/Argentina/Salta->Америка/Antigua
+Warning: mk.po: translation mismatch America/Argentina/San_Juan->Америка/Antigua
+Warning: mk.po: translation mismatch America/Argentina/San_Luis->Америка/Antigua
+Warning: mk.po: translation mismatch America/Argentina/Tucuman->Америка/Antigua
+Warning: mk.po: translation mismatch America/Argentina/Ushuaia->Америка/Araguaina
+Note: mk.po: counting fuzzy Indiana->Indiana.
+Note: mk.po: counting fuzzy Asia->Азија.
+Warning: mk.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Note: mk.po: counting fuzzy US->САД.
+Note: mk.po: counting fuzzy Europe->Европа.
+Note: mk.po: counting fuzzy Australia->Австралија.
+Note: mk.po: counting fuzzy Atlantic->Atlantic.
+Note: mk.po: counting fuzzy America->Америка.
+Note: mk.po: counting fuzzy North_Dakota->North_Dakota.
+Note: mk.po: counting fuzzy Africa->Африка.
+Note: mk.po: counting fuzzy Pacific->Пацифик.
+Note: mk.po: counting fuzzy Antarctica->Антарктик.
+Warning: ml.po: translation mismatch Antarctica/Casey->അന്റാര്‍ട്ടിക്ക/റാര്‍ട്ടിത്/കാസ്സെയ്
 Warning: ml.po: unclear translation of Indiana.
  drop candidate: ഇന്‍ഡ്യാന used 5 times
  drop candidate: ഇന്‍ഡ്യാനാ used 3 times
-Warning: no.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
- 0 America->Amerika
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: no.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
- 0 America->Amerika
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: no.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
- 0 America->Amerika
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: no.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
- 0 America->Amerika
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: no.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: no.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
- 0 America->Amerika
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: no.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: no.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: no.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: no.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: no.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 Ushuaia->???
+Note: ms.po: counting fuzzy Australia->Australia.
+Note: ms.po: counting fuzzy Indiana->Indiana.
+Note: ms.po: counting fuzzy Africa->Afrika.
+Note: ms.po: counting fuzzy Asia->Asia.
+Note: ms.po: counting fuzzy Argentina->Argentina.
+Note: ms.po: counting fuzzy Antarctica->Antartika.
+Note: ms.po: counting fuzzy Atlantic->Atlantik.
+Note: ms.po: counting fuzzy Pacific->Pasifik.
+Note: ms.po: counting fuzzy America->Amerika.
+Warning: no.po: translation mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+Warning: no.po: translation mismatch America/Argentina/Catamarca->Amerika/Catamarca
+Warning: no.po: translation mismatch America/Argentina/Cordoba->Amerika/Cordoba
+Warning: no.po: translation mismatch America/Argentina/Jujuy->Amerika/Jujuy
+Warning: no.po: translation mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+Warning: no.po: translation mismatch America/Argentina/Mendoza->Amerika/Mendoza
+Warning: no.po: translation mismatch America/Argentina/Salta->Amerika/Antigua
+Warning: no.po: translation mismatch America/Argentina/San_Juan->Amerika/Antigua
+Warning: no.po: translation mismatch America/Argentina/San_Luis->Amerika/Antigua
+Warning: no.po: translation mismatch America/Argentina/Tucuman->Amerika/Antigua
+Warning: no.po: translation mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+Note: no.po: counting fuzzy Indiana->Indiana.
+Note: no.po: counting fuzzy Asia->Asia.
+Warning: no.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Note: no.po: counting fuzzy US->US.
+Note: no.po: counting fuzzy Europe->Europa.
+Note: no.po: counting fuzzy Australia->Australia.
+Warning: no.po: unclear translation of Arctic.
+ drop candidate: Antarktis used 0 times (1 fuzzy)
+Note: no.po: counting fuzzy Atlantic->Atlanterhavet.
+Note: no.po: counting fuzzy America->Amerika.
+Note: no.po: counting fuzzy North_Dakota->North_Dakota.
+Note: no.po: counting fuzzy Africa->Afrika.
+Note: no.po: counting fuzzy Pacific->Stillehavet.
+Note: no.po: counting fuzzy Antarctica->Antarktis.
 Warning: pt_BR.po: unclear translation of North_Dakota.
  drop candidate: Dakota_do_Norte used 1 times
  drop candidate: _Dakota_do_Norte used 1 times
 Note: pt.po: ignoring "Dakota_do_Norte" due to underscore normalization.
-Warning: si.po: component count mismatch America/Indianapolis->ඇමරිකාව/ඉන්දියානාපොලිස්/
- 0 America->ඇමරිකාව
- 1 Indianapolis->ඉන්දියානාපොලිස්
- 2 ???->
+Note: ro.po: counting fuzzy Australia->Australia.
+Note: ro.po: counting fuzzy Indiana->Indiana.
+Note: ro.po: counting fuzzy Africa->Africa.
+Note: ro.po: counting fuzzy Asia->Asia.
+Note: ro.po: counting fuzzy Argentina->Argentina.
+Note: ro.po: counting fuzzy Antarctica->Antarctica.
+Note: ro.po: counting fuzzy Atlantic->Atlantic.
+Note: ro.po: counting fuzzy Pacific->Pacific.
+Note: ro.po: counting fuzzy America->America.
+Warning: si.po: translation mismatch America/Indianapolis->ඇමරිකාව/ඉන්දියානාපොලිස්/
 Note: si.po: counting fuzzy Australia->ඕස්ට්‍රේලියාච.
+Note: si.po: counting fuzzy Indiana->ඉන්දියානාව.
+Note: si.po: counting fuzzy Africa->අප්‍රිකාව.
 Note: si.po: counting fuzzy Asia->අසියාව.
+Note: si.po: counting fuzzy Argentina->අර්ජෙන්ටිනාව.
+Note: si.po: counting fuzzy Antarctica->ඇන්ටාක්ටිකාව.
+Note: si.po: counting fuzzy Atlantic->අත්ලාන්තික්.
+Note: si.po: counting fuzzy Pacific->පැසිපික්.
 Note: si.po: counting fuzzy America->ඇමරිකාව.
-Warning: sl.po: component count mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
- 0 America->Amerika
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: sl.po: component count mismatch America/Argentina/Catamarca->Amerika/Catamarca
- 0 America->Amerika
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: sl.po: component count mismatch America/Argentina/Cordoba->Amerika/Cordoba
- 0 America->Amerika
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: sl.po: component count mismatch America/Argentina/Jujuy->Amerika/Jujuy
- 0 America->Amerika
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: sl.po: component count mismatch America/Argentina/La_Rioja->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: sl.po: component count mismatch America/Argentina/Mendoza->Amerika/Mendoza
- 0 America->Amerika
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: sl.po: component count mismatch America/Argentina/Salta->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: sl.po: component count mismatch America/Argentina/San_Juan->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: sl.po: component count mismatch America/Argentina/San_Luis->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: sl.po: component count mismatch America/Argentina/Tucuman->Amerika/Antigua
- 0 America->Amerika
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: sl.po: component count mismatch America/Argentina/Ushuaia->Amerika/Araguaina
- 0 America->Amerika
- 1 Argentina->Araguaina
- 2 Ushuaia->???
+Warning: sl.po: translation mismatch America/Argentina/Buenos_Aires->Amerika/Buenos_Aires
+Warning: sl.po: translation mismatch America/Argentina/Catamarca->Amerika/Catamarca
+Warning: sl.po: translation mismatch America/Argentina/Cordoba->Amerika/Cordoba
+Warning: sl.po: translation mismatch America/Argentina/Jujuy->Amerika/Jujuy
+Warning: sl.po: translation mismatch America/Argentina/La_Rioja->Amerika/Araguaina
+Warning: sl.po: translation mismatch America/Argentina/Mendoza->Amerika/Mendoza
+Warning: sl.po: translation mismatch America/Argentina/Salta->Amerika/Antigua
+Warning: sl.po: translation mismatch America/Argentina/San_Juan->Amerika/Antigua
+Warning: sl.po: translation mismatch America/Argentina/San_Luis->Amerika/Antigua
+Warning: sl.po: translation mismatch America/Argentina/Tucuman->Amerika/Antigua
+Warning: sl.po: translation mismatch America/Argentina/Ushuaia->Amerika/Araguaina
+Note: sl.po: counting fuzzy Indiana->Indiana.
+Note: sl.po: counting fuzzy Asia->Azija.
+Warning: sl.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Note: sl.po: counting fuzzy US->US.
+Note: sl.po: counting fuzzy Europe->Evropa.
+Note: sl.po: counting fuzzy Australia->Avstralija.
+Note: sl.po: counting fuzzy Atlantic->Atlantik.
+Note: sl.po: counting fuzzy America->Amerika.
+Note: sl.po: counting fuzzy North_Dakota->Severna_Dakota.
+Note: sl.po: counting fuzzy Africa->Afrika.
+Note: sl.po: counting fuzzy Pacific->Pacifik.
+Note: sl.po: counting fuzzy Antarctica->Antarktika.
+Note: sq.po: counting fuzzy Australia->Australi.
+Note: sq.po: counting fuzzy Indiana->Indiana.
+Note: sq.po: counting fuzzy Africa->Afrikë.
+Note: sq.po: counting fuzzy Asia->Azi.
+Note: sq.po: counting fuzzy Argentina->Argjentinë.
+Note: sq.po: counting fuzzy Antarctica->Antarktidë.
+Note: sq.po: counting fuzzy Atlantic->Atlantik.
+Note: sq.po: counting fuzzy Pacific->Paqësor.
+Note: sq.po: counting fuzzy America->Amerikë.
+Note: sr@latin.po: counting fuzzy Pacific->Pacifik.
+Note: sr@latin.po: counting fuzzy America->Amerika.
+Note: sr.po: counting fuzzy Pacific->Пацифик.
+Note: sr.po: counting fuzzy America->Америка.
 Warning: sv.po: unclear translation of North_Dakota.
  drop candidate: Norddakota used 1 times
  drop candidate: North_Dakota used 1 times
-Warning: ta.po: component count mismatch Mideast/Riyadh87->மிட்
- 0 Mideast->மிட்
- 1 Riyadh87->???
+Warning: ta.po: translation mismatch Mideast/Riyadh87->மிட்
 Warning: ta.po: unclear translation of North_Dakota.
  drop candidate: வட_டக்கோடா used 1 times
  drop candidate: நார்த்_டக்கோடா used 1 times
 Warning: tr.po: unclear translation of Kentucky.
  drop candidate: Kentucy used 1 times
  drop candidate: Kentucky used 1 times
-Warning: vi.po: component count mismatch America/Argentina/Buenos_Aires->Châu Mỹ/Buenos_Aires
- 0 America->Châu Mỹ
- 1 Argentina->Buenos_Aires
- 2 Buenos_Aires->???
-Warning: vi.po: component count mismatch America/Argentina/Catamarca->Châu Mỹ/Catamarca
- 0 America->Châu Mỹ
- 1 Argentina->Catamarca
- 2 Catamarca->???
-Warning: vi.po: component count mismatch America/Argentina/Cordoba->Châu Mỹ/Cordoba
- 0 America->Châu Mỹ
- 1 Argentina->Cordoba
- 2 Cordoba->???
-Warning: vi.po: component count mismatch America/Argentina/Jujuy->Châu Mỹ/Jujuy
- 0 America->Châu Mỹ
- 1 Argentina->Jujuy
- 2 Jujuy->???
-Warning: vi.po: component count mismatch America/Argentina/La_Rioja->Châu Mỹ/Araguaina
- 0 America->Châu Mỹ
- 1 Argentina->Araguaina
- 2 La_Rioja->???
-Warning: vi.po: component count mismatch America/Argentina/Mendoza->Châu Mỹ/Mendoza
- 0 America->Châu Mỹ
- 1 Argentina->Mendoza
- 2 Mendoza->???
-Warning: vi.po: component count mismatch America/Argentina/Salta->Châu Mỹ/Antigua
- 0 America->Châu Mỹ
- 1 Argentina->Antigua
- 2 Salta->???
-Warning: vi.po: component count mismatch America/Argentina/San_Juan->Châu Mỹ/Antigua
- 0 America->Châu Mỹ
- 1 Argentina->Antigua
- 2 San_Juan->???
-Warning: vi.po: component count mismatch America/Argentina/San_Luis->Châu Mỹ/Antigua
- 0 America->Châu Mỹ
- 1 Argentina->Antigua
- 2 San_Luis->???
-Warning: vi.po: component count mismatch America/Argentina/Tucuman->Châu Mỹ/Antigua
- 0 America->Châu Mỹ
- 1 Argentina->Antigua
- 2 Tucuman->???
-Warning: vi.po: component count mismatch America/Argentina/Ushuaia->Châu Mỹ/Araguaina
- 0 America->Châu Mỹ
- 1 Argentina->Araguaina
- 2 Ushuaia->???
+Warning: vi.po: translation mismatch America/Argentina/Buenos_Aires->Châu Mỹ/Buenos_Aires
+Warning: vi.po: translation mismatch America/Argentina/Catamarca->Châu Mỹ/Catamarca
+Warning: vi.po: translation mismatch America/Argentina/Cordoba->Châu Mỹ/Cordoba
+Warning: vi.po: translation mismatch America/Argentina/Jujuy->Châu Mỹ/Jujuy
+Warning: vi.po: translation mismatch America/Argentina/La_Rioja->Châu Mỹ/Araguaina
+Warning: vi.po: translation mismatch America/Argentina/Mendoza->Châu Mỹ/Mendoza
+Warning: vi.po: translation mismatch America/Argentina/Salta->Châu Mỹ/Antigua
+Warning: vi.po: translation mismatch America/Argentina/San_Juan->Châu Mỹ/Antigua
+Warning: vi.po: translation mismatch America/Argentina/San_Luis->Châu Mỹ/Antigua
+Warning: vi.po: translation mismatch America/Argentina/Tucuman->Châu Mỹ/Antigua
+Warning: vi.po: translation mismatch America/Argentina/Ushuaia->Châu Mỹ/Araguaina
+Note: vi.po: counting fuzzy Australia->Châu Úc.
+Note: vi.po: counting fuzzy Indiana->Indiana.
+Note: vi.po: counting fuzzy Europe->Châu Âu.
+Note: vi.po: counting fuzzy Africa->Châu Phi.
+Note: vi.po: counting fuzzy Asia->Châu Á.
+Warning: vi.po: unclear translation of Argentina.
+ drop candidate: Indiana used 0 times (2 fuzzy)
+Warning: vi.po: unclear translation of Antarctica.
+ drop candidate: Đại Tây Dương used 0 times (2 fuzzy)
+Note: vi.po: counting fuzzy Atlantic->Đại Tây Dương.
+Note: vi.po: counting fuzzy Pacific->Thái Bình Dương.
+Note: vi.po: counting fuzzy North_Dakota->North_Dakota.
+Note: vi.po: counting fuzzy US->Mỹ.
+Note: vi.po: counting fuzzy America->Châu Mỹ.

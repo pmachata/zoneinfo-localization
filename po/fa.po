@@ -78,6 +78,9 @@ msgstr "امریکا"
 #. America/Argentina/ComodRivadavia America/Argentina/Cordoba
 #. America/Argentina/Jujuy America/Argentina/La_Rioja
 #. America/Argentina/Mendoza America/Argentina/Rio_Gallegos
+#. America/Argentina/Salta America/Argentina/San_Juan
+#. America/Argentina/San_Luis America/Argentina/Tucuman
+#. America/Argentina/Ushuaia
 msgctxt "America"
 msgid "Argentina"
 msgstr "آرژانتین"
@@ -620,9 +623,9 @@ msgid "Santa Cruz (SC)"
 msgstr ""
 
 #: timezones.h:93
-#, fuzzy
-msgid "America/Argentina/Salta"
-msgstr "امریکا/انتیگا"
+msgctxt "America/Argentina"
+msgid "Salta"
+msgstr ""
 
 #. comment for time zone America/Argentina/Salta
 #: timezones.h:95
@@ -630,9 +633,9 @@ msgid "(SA, LP, NQ, RN)"
 msgstr ""
 
 #: timezones.h:96
-#, fuzzy
-msgid "America/Argentina/San_Juan"
-msgstr "امریکا/انتیگا"
+msgctxt "America/Argentina"
+msgid "San_Juan"
+msgstr ""
 
 #. comment for time zone America/Argentina/San_Juan
 #: timezones.h:98
@@ -640,9 +643,9 @@ msgid "San Juan (SJ)"
 msgstr ""
 
 #: timezones.h:99
-#, fuzzy
-msgid "America/Argentina/San_Luis"
-msgstr "امریکا/انتیگا"
+msgctxt "America/Argentina"
+msgid "San_Luis"
+msgstr ""
 
 #. comment for time zone America/Argentina/San_Luis
 #: timezones.h:101
@@ -650,9 +653,9 @@ msgid "San Luis (SL)"
 msgstr ""
 
 #: timezones.h:102
-#, fuzzy
-msgid "America/Argentina/Tucuman"
-msgstr "امریکا/انتیگا"
+msgctxt "America/Argentina"
+msgid "Tucuman"
+msgstr ""
 
 #. comment for time zone America/Argentina/Tucuman
 #: timezones.h:104
@@ -660,9 +663,9 @@ msgid "Tucuman (TM)"
 msgstr ""
 
 #: timezones.h:105
-#, fuzzy
-msgid "America/Argentina/Ushuaia"
-msgstr "امریکا/آراگواینا"
+msgctxt "America/Argentina"
+msgid "Ushuaia"
+msgstr ""
 
 #. comment for time zone America/Argentina/Ushuaia
 #: timezones.h:107
@@ -691,7 +694,8 @@ msgid "Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut"
 msgstr ""
 
 #: timezones.h:113
-msgid "America/Atka"
+msgctxt "America"
+msgid "Atka"
 msgstr ""
 
 #: timezones.h:114
@@ -881,7 +885,8 @@ msgid "Curacao"
 msgstr "کوراسائو"
 
 #: timezones.h:162
-msgid "America/Danmarkshavn"
+msgctxt "America"
+msgid "Danmarkshavn"
 msgstr ""
 
 #. comment for time zone America/Danmarkshavn
@@ -946,7 +951,8 @@ msgid "Mountain Time - Alberta, east British Columbia & west Saskatchewan"
 msgstr ""
 
 #: timezones.h:181
-msgid "America/Eirunepe"
+msgctxt "America"
+msgid "Eirunepe"
 msgstr ""
 
 #. comment for time zone America/Eirunepe
@@ -3066,7 +3072,8 @@ msgid "Greenwich"
 msgstr "گرینیچ"
 
 #: timezones.h:726
-msgid "Etc/UCT"
+msgctxt "Etc"
+msgid "UCT"
 msgstr ""
 
 #: timezones.h:727

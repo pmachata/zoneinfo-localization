@@ -3524,8 +3524,9 @@ msgid "General"
 msgstr "படைப் பெருந்தலைவர்"
 
 #: timezones.h:841
-msgid "Mideast/Riyadh87"
-msgstr "மிட்"
+msgctxt "Mideast"
+msgid "Riyadh87"
+msgstr ""
 
 #: timezones.h:842
 msgctxt "Mideast"
