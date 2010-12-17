@@ -8,17 +8,18 @@ import sys
 import polib
 import re
 from zonetab import TZID, ParseError
+from flags import *
+
 input_fn, = sys.argv[1:]
 
 new_messages = {}
-fuzzy_flag = u"fuzzy"
-prefix_flag = u"__tz_prefix"
 
 def extract_context (tzid, str_comps, top_context, top_flags, message=None):
-    if len (str_comps) == 0:
-        return
+    try:
+        translation = str_comps[-1]
+    except IndexError:
+        translation = ""
 
-    translation = str_comps[-1]
     if message is not None: # the top level
         if len (str_comps) != len (tzid.components) and message.msgstr:
             new_top_flags = top_flags[:]
@@ -40,8 +41,7 @@ def extract_context (tzid, str_comps, top_context, top_flags, message=None):
         name = tzid.name ()
 
         # Pair (comment, dict of candidate translations)
-        candidates_pair = new_messages.setdefault (name,
-                                                   ["Prefix of", {}])
+        candidates_pair = new_messages.setdefault (name, ["Prefix of", {}])
         (_, candidates) = candidates_pair
 
         # Pair (use counter, translation)
@@ -54,11 +54,12 @@ def extract_context (tzid, str_comps, top_context, top_flags, message=None):
         if candidate[0] + candidate[1] > 1: # already seen
             return
 
+    ctx = "/".join (tzid.components[:-1])
     message.msgid = tzid.components[-1]
     message.msgstr = translation
     if len (tzid.components) > 1:
-        message.msgctxt = "/".join (tzid.components[:-1])
-        extract_context (TZID (message.msgctxt), str_comps[:-1],
+        message.msgctxt = ctx
+        extract_context (TZID (ctx), str_comps[:-1],
                          top_context, top_flags)
 
 po = polib.pofile (input_fn)
@@ -78,9 +79,16 @@ for message in po:
 def filter_candidates (candidates):
     # Here we try to got rid of obvious mistakes.
 
+    candidate_list = list ((list (item) for item in candidates.items ()))
+
+    # If we have more than one candidate, drop all instances where
+    # it's untranslated.
+    if len (candidate_list) > 1:
+        candidate_list = list (candidate for candidate in candidate_list
+                               if candidate[0] != "")
+
     # Look for the strongest candidate.  Sorting is done by number of
     # uses.  In case of tie, the one without underscores wins.
-    candidate_list = list ((list (item) for item in candidates.items ()))
     def candidate_sorting_key ((translation,(uses,fuzzy_uses,message))):
         return (uses, "_" not in translation)
     candidate_list.sort (key=candidate_sorting_key, reverse=True)

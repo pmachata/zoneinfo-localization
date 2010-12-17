@@ -38,19 +38,20 @@ msgstr "افریقا"
 
 #. Prefix of America/Adak America/Anchorage America/Anguilla America/Antigua
 #. America/Araguaina America/Argentina/Buenos_Aires
-#. America/Argentina/ComodRivadavia America/Aruba America/Asuncion
-#. America/Atikokan America/Bahia America/Bahia_Banderas America/Barbados
-#. America/Belem America/Belize America/Blanc-Sablon America/Boa_Vista
-#. America/Bogota America/Boise America/Buenos_Aires America/Cambridge_Bay
-#. America/Campo_Grande America/Cancun America/Caracas America/Catamarca
-#. America/Cayenne America/Cayman America/Chicago America/Chihuahua
-#. America/Coral_Harbour America/Cordoba America/Costa_Rica America/Cuiaba
-#. America/Curacao America/Dawson America/Dawson_Creek America/Denver
-#. America/Detroit America/Dominica America/Edmonton America/El_Salvador
-#. America/Ensenada America/Fortaleza America/Fort_Wayne America/Glace_Bay
-#. America/Godthab America/Goose_Bay America/Grand_Turk America/Grenada
-#. America/Guadeloupe America/Guatemala America/Guayaquil America/Guyana
-#. America/Halifax America/Havana America/Hermosillo
+#. America/Argentina/ComodRivadavia America/Argentina/Salta America/Aruba
+#. America/Asuncion America/Atikokan America/Atka America/Bahia
+#. America/Bahia_Banderas America/Barbados America/Belem America/Belize
+#. America/Blanc-Sablon America/Boa_Vista America/Bogota America/Boise
+#. America/Buenos_Aires America/Cambridge_Bay America/Campo_Grande
+#. America/Cancun America/Caracas America/Catamarca America/Cayenne
+#. America/Cayman America/Chicago America/Chihuahua America/Coral_Harbour
+#. America/Cordoba America/Costa_Rica America/Cuiaba America/Curacao
+#. America/Danmarkshavn America/Dawson America/Dawson_Creek America/Denver
+#. America/Detroit America/Dominica America/Edmonton America/Eirunepe
+#. America/El_Salvador America/Ensenada America/Fortaleza America/Fort_Wayne
+#. America/Glace_Bay America/Godthab America/Goose_Bay America/Grand_Turk
+#. America/Grenada America/Guadeloupe America/Guatemala America/Guayaquil
+#. America/Guyana America/Halifax America/Havana America/Hermosillo
 #. America/Indiana/Indianapolis America/Indianapolis America/Inuvik
 #. America/Iqaluit America/Jamaica America/Jujuy America/Juneau
 #. America/Kentucky/Louisville America/Knox_IN America/La_Paz America/Lima
@@ -182,8 +183,8 @@ msgstr "شیلی"
 #. Etc/GMT-10 Etc/GMT+10 Etc/GMT-11 Etc/GMT+11 Etc/GMT-12 Etc/GMT+12
 #. Etc/GMT-13 Etc/GMT-14 Etc/GMT-2 Etc/GMT+2 Etc/GMT-3 Etc/GMT+3 Etc/GMT-4
 #. Etc/GMT+4 Etc/GMT-5 Etc/GMT+5 Etc/GMT-6 Etc/GMT+6 Etc/GMT-7 Etc/GMT+7
-#. Etc/GMT-8 Etc/GMT+8 Etc/GMT-9 Etc/GMT+9 Etc/Greenwich Etc/Universal Etc/UTC
-#. Etc/Zulu
+#. Etc/GMT-8 Etc/GMT+8 Etc/GMT-9 Etc/GMT+9 Etc/Greenwich Etc/UCT Etc/Universal
+#. Etc/UTC Etc/Zulu
 #, __tz_prefix
 msgid "Etc"
 msgstr "غیره"

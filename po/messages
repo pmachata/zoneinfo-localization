@@ -375,17 +375,17 @@ Warning: vi.po: translation mismatch America/Argentina/San_Juan->Châu Mỹ/Anti
 Warning: vi.po: translation mismatch America/Argentina/San_Luis->Châu Mỹ/Antigua
 Warning: vi.po: translation mismatch America/Argentina/Tucuman->Châu Mỹ/Antigua
 Warning: vi.po: translation mismatch America/Argentina/Ushuaia->Châu Mỹ/Araguaina
-Note: vi.po: counting fuzzy Australia->Châu Úc.
 Note: vi.po: counting fuzzy Indiana->Indiana.
-Note: vi.po: counting fuzzy Europe->Châu Âu.
-Note: vi.po: counting fuzzy Africa->Châu Phi.
 Note: vi.po: counting fuzzy Asia->Châu Á.
 Warning: vi.po: unclear translation of Argentina.
  drop candidate: Indiana used 0 times (2 fuzzy)
+Note: vi.po: counting fuzzy US->Mỹ.
+Note: vi.po: counting fuzzy Europe->Châu Âu.
+Note: vi.po: counting fuzzy Australia->Châu Úc.
+Note: vi.po: counting fuzzy Atlantic->Đại Tây Dương.
+Note: vi.po: counting fuzzy America->Châu Mỹ.
+Note: vi.po: counting fuzzy North_Dakota->North_Dakota.
+Note: vi.po: counting fuzzy Africa->Châu Phi.
+Note: vi.po: counting fuzzy Pacific->Thái Bình Dương.
 Warning: vi.po: unclear translation of Antarctica.
  drop candidate: Đại Tây Dương used 0 times (2 fuzzy)
-Note: vi.po: counting fuzzy Atlantic->Đại Tây Dương.
-Note: vi.po: counting fuzzy Pacific->Thái Bình Dương.
-Note: vi.po: counting fuzzy North_Dakota->North_Dakota.
-Note: vi.po: counting fuzzy US->Mỹ.
-Note: vi.po: counting fuzzy America->Châu Mỹ.
