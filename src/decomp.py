@@ -12,6 +12,7 @@ input_fn, = sys.argv[1:]
 
 new_messages = {}
 fuzzy_flag = u"fuzzy"
+prefix_flag = u"__tz_prefix"
 
 def extract_context (tzid, str_comps, top_context, top_flags, message=None):
     if len (str_comps) == 0:
@@ -153,6 +154,7 @@ for msgid, (comment, candidates) in new_messages.iteritems ():
     candidate_list = filter_candidates (candidates)
     (_, (_, _, message)), = candidate_list
     message.comment = comment
+    message.flags.append (prefix_flag)
     added_messages.append ((msgid, message))
 
 added_messages.sort (key=(lambda (msgid,message):msgid))

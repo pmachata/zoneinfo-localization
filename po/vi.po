@@ -28,6 +28,7 @@ msgstr ""
 #. Africa/Monrovia Africa/Nairobi Africa/Ndjamena Africa/Niamey
 #. Africa/Nouakchott Africa/Ouagadougou Africa/Porto-Novo Africa/Sao_Tome
 #. Africa/Timbuktu Africa/Tripoli Africa/Tunis Africa/Windhoek
+#, __tz_prefix
 msgid "Africa"
 msgstr "Châu Phi"
 
@@ -67,6 +68,7 @@ msgstr "Châu Phi"
 #. America/Tegucigalpa America/Thule America/Thunder_Bay America/Tijuana
 #. America/Toronto America/Tortola America/Vancouver America/Virgin
 #. America/Whitehorse America/Winnipeg America/Yakutat America/Yellowknife
+#, __tz_prefix
 msgid "America"
 msgstr "Châu Mỹ"
 
@@ -77,6 +79,7 @@ msgstr "Châu Mỹ"
 #. America/Argentina/Salta America/Argentina/San_Juan
 #. America/Argentina/San_Luis America/Argentina/Tucuman
 #. America/Argentina/Ushuaia
+#, __tz_prefix
 msgctxt "America"
 msgid "Argentina"
 msgstr ""
@@ -85,21 +88,25 @@ msgstr ""
 #. America/Indiana/Marengo America/Indiana/Petersburg
 #. America/Indiana/Tell_City America/Indiana/Vevay America/Indiana/Vincennes
 #. America/Indiana/Winamac
+#, __tz_prefix
 msgctxt "America"
 msgid "Indiana"
 msgstr "Indiana"
 
 #. Prefix of America/Kentucky/Louisville America/Kentucky/Monticello
+#, __tz_prefix
 msgctxt "America"
 msgid "Kentucky"
 msgstr "Kentucky"
 
 #. Prefix of America/North_Dakota/Center America/North_Dakota/New_Salem
+#, __tz_prefix
 msgctxt "America"
 msgid "North_Dakota"
 msgstr "North_Dakota"
 
 #. Prefix of Antarctica/Macquarie Antarctica/Rothera
+#, __tz_prefix
 msgid "Antarctica"
 msgstr ""
 
@@ -121,6 +128,7 @@ msgstr ""
 #. Asia/Tel_Aviv Asia/Thimbu Asia/Thimphu Asia/Tokyo Asia/Ujung_Pandang
 #. Asia/Ulaanbaatar Asia/Ulan_Bator Asia/Urumqi Asia/Vientiane
 #. Asia/Vladivostok Asia/Yakutsk Asia/Yekaterinburg Asia/Yerevan
+#, __tz_prefix
 msgid "Asia"
 msgstr "Châu Á"
 
@@ -128,6 +136,7 @@ msgstr "Châu Á"
 #. Atlantic/Cape_Verde Atlantic/Faeroe Atlantic/Faroe Atlantic/Jan_Mayen
 #. Atlantic/Madeira Atlantic/Reykjavik Atlantic/South_Georgia Atlantic/Stanley
 #. Atlantic/St_Helena
+#, __tz_prefix
 msgid "Atlantic"
 msgstr "Đại Tây Dương"
 
@@ -137,20 +146,24 @@ msgstr "Đại Tây Dương"
 #. Australia/Lord_Howe Australia/Melbourne Australia/North Australia/NSW
 #. Australia/Perth Australia/Queensland Australia/South Australia/Sydney
 #. Australia/Tasmania Australia/Victoria Australia/West Australia/Yancowinna
+#, __tz_prefix
 msgid "Australia"
 msgstr "Châu Úc"
 
 #. Prefix of Brazil/Acre Brazil/DeNoronha Brazil/East Brazil/West
+#, __tz_prefix
 msgid "Brazil"
 msgstr "Brazil"
 
 #. Prefix of Canada/Atlantic Canada/Central Canada/Eastern Canada/East-
 #. Saskatchewan Canada/Mountain Canada/Newfoundland Canada/Pacific
 #. Canada/Saskatchewan Canada/Yukon
+#, __tz_prefix
 msgid "Canada"
 msgstr "Canada"
 
 #. Prefix of Chile/Continental Chile/EasterIsland
+#, __tz_prefix
 msgid "Chile"
 msgstr "Chi Lê"
 
@@ -160,6 +173,7 @@ msgstr "Chi Lê"
 #. Etc/GMT+4 Etc/GMT-5 Etc/GMT+5 Etc/GMT-6 Etc/GMT+6 Etc/GMT-7 Etc/GMT+7
 #. Etc/GMT-8 Etc/GMT+8 Etc/GMT-9 Etc/GMT+9 Etc/Greenwich Etc/UCT Etc/Universal
 #. Etc/UTC Etc/Zulu
+#, __tz_prefix
 msgid "Etc"
 msgstr "Etc"
 
@@ -177,20 +191,24 @@ msgstr "Etc"
 #. Europe/Uzhgorod Europe/Vaduz Europe/Vatican Europe/Vienna Europe/Vilnius
 #. Europe/Volgograd Europe/Warsaw Europe/Zagreb Europe/Zaporozhye
 #. Europe/Zurich
+#, __tz_prefix
 msgid "Europe"
 msgstr "Châu Âu"
 
 #. Prefix of Indian/Antananarivo Indian/Chagos Indian/Christmas Indian/Cocos
 #. Indian/Comoro Indian/Kerguelen Indian/Mahe Indian/Maldives Indian/Mauritius
 #. Indian/Mayotte Indian/Reunion
+#, __tz_prefix
 msgid "Indian"
 msgstr "Ấn Độ Dương"
 
 #. Prefix of Mexico/BajaNorte Mexico/BajaSur Mexico/General
+#, __tz_prefix
 msgid "Mexico"
 msgstr "Mê Hi Cô"
 
 #. Prefix of Mideast/Riyadh87 Mideast/Riyadh88 Mideast/Riyadh89
+#, __tz_prefix
 msgid "Mideast"
 msgstr "Trung Đông"
 
@@ -204,18 +222,21 @@ msgstr "Trung Đông"
 #. Pacific/Ponape Pacific/Port_Moresby Pacific/Rarotonga Pacific/Saipan
 #. Pacific/Samoa Pacific/Tahiti Pacific/Tarawa Pacific/Tongatapu Pacific/Truk
 #. Pacific/Wake Pacific/Wallis Pacific/Yap
+#, __tz_prefix
 msgid "Pacific"
 msgstr "Thái Bình Dương"
 
 #. Prefix of SystemV/AST4 SystemV/AST4ADT SystemV/CST6 SystemV/CST6CDT
 #. SystemV/EST5 SystemV/EST5EDT SystemV/HST10 SystemV/MST7 SystemV/MST7MDT
 #. SystemV/PST8 SystemV/PST8PDT SystemV/YST9 SystemV/YST9YDT
+#, __tz_prefix
 msgid "SystemV"
 msgstr "SystemV"
 
 #. Prefix of US/Alaska US/Aleutian US/Arizona US/Central US/Eastern US/East-
 #. Indiana US/Hawaii US/Indiana-Starke US/Michigan US/Mountain US/Pacific
 #. US/Samoa US/Pacific-New
+#, __tz_prefix
 msgid "US"
 msgstr "Mỹ"
 

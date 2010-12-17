@@ -22,6 +22,7 @@ msgstr ""
 #. Prefix of Africa/Algiers Africa/Asmara Africa/Cairo Africa/Casablanca
 #. Africa/Dakar Africa/Djibouti Africa/Lagos Africa/Maputo Africa/Mbabane
 #. Africa/Nairobi Africa/Tunis
+#, __tz_prefix
 msgid "Africa"
 msgstr "აფრიკა"
 
@@ -39,27 +40,32 @@ msgstr "აფრიკა"
 #. America/Resolute America/Rio_Branco America/Santa_Isabel America/Santarem
 #. America/Santiago America/St_Barthelemy America/Tijuana America/Toronto
 #. America/Vancouver
+#, __tz_prefix
 msgid "America"
 msgstr "ამერიკა"
 
 #. Prefix of America/Argentina/Buenos_Aires America/Argentina/Salta
 #. America/Argentina/San_Luis
+#, __tz_prefix
 msgctxt "America"
 msgid "Argentina"
 msgstr "არგენტინა"
 
 #. Prefix of America/Indiana/Indianapolis America/Indiana/Petersburg
 #. America/Indiana/Tell_City America/Indiana/Vincennes America/Indiana/Winamac
+#, __tz_prefix
 msgctxt "America"
 msgid "Indiana"
 msgstr "ინდიანა"
 
 #. Prefix of America/Kentucky/Louisville
+#, __tz_prefix
 msgctxt "America"
 msgid "Kentucky"
 msgstr "კენტუკი"
 
 #. Prefix of America/North_Dakota/Center America/North_Dakota/New_Salem
+#, __tz_prefix
 msgctxt "America"
 msgid "North_Dakota"
 msgstr "ჩრდ_დაკოტა"
@@ -73,20 +79,24 @@ msgstr "ჩრდ_დაკოტა"
 #. Asia/Sakhalin Asia/Shanghai Asia/Singapore Asia/Tashkent Asia/Tbilisi
 #. Asia/Tehran Asia/Tel_Aviv Asia/Tokyo Asia/Vladivostok Asia/Yakutsk
 #. Asia/Yekaterinburg Asia/Yerevan
+#, __tz_prefix
 msgid "Asia"
 msgstr "აზია"
 
 #. Prefix of Australia/Canberra Australia/Darwin Australia/Eucla
 #. Australia/Melbourne Australia/North Australia/South Australia/Sydney
 #. Australia/Tasmania Australia/Victoria Australia/West
+#, __tz_prefix
 msgid "Australia"
 msgstr "ავსტრალია"
 
 #. Prefix of Brazil/East Brazil/West
+#, __tz_prefix
 msgid "Brazil"
 msgstr "ბრაზილია"
 
 #. Prefix of Canada/Central Canada/Eastern Canada/Newfoundland
+#, __tz_prefix
 msgid "Canada"
 msgstr "კანადა"
 
@@ -102,11 +112,13 @@ msgstr "კანადა"
 #. Europe/Stockholm Europe/Tallinn Europe/Vatican Europe/Vienna Europe/Vilnius
 #. Europe/Volgograd Europe/Warsaw Europe/Zagreb Europe/Zaporozhye
 #. Europe/Zurich
+#, __tz_prefix
 msgid "Europe"
 msgstr "ევროპა"
 
 #. Prefix of US/Alaska US/Arizona US/Central US/Eastern US/East-Indiana
 #. US/Hawaii US/Michigan
+#, __tz_prefix
 msgid "US"
 msgstr "აშშ"
 
