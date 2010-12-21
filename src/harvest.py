@@ -105,6 +105,6 @@ def output_zone (components, zone):
 for tzid, zone in sorted (zones.iteritems ()):
     output_zone (tzid.components, zone)
     if zone is not None:
-        if zone.comments != "":
+        if zone.comments:
             print "/* comment for time zone %s */" % tzid
             output (zone.comments)

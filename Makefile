@@ -40,7 +40,7 @@ gen:
 	mkdir gen
 
 gen/%.po: po/%.po gen
-	$(PYTHON) src/comp.py $< > $@
+	$(PYTHON) src/comp.py $< $@
 
 gen/%.mo: gen/%.po
 	msgfmt -o $@ $<

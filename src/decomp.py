@@ -162,7 +162,6 @@ for msgid, (comment, candidates) in new_messages.iteritems ():
     candidate_list = filter_candidates (candidates)
     (_, (_, _, message)), = candidate_list
     message.comment = comment
-    message.flags.append (prefix_flag)
     added_messages.append ((msgid, message))
 
 added_messages.sort (key=(lambda (msgid,message):msgid))
