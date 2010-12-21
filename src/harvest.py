@@ -3,6 +3,10 @@
 # For timezone names, it does the context extraction, too.
 
 from zonetab import ZoneTab, TZID, Zone
+import sys
+import os
+
+tzdir, = sys.argv[1:]
 
 # The following is adapted from tzcode's makefile
 PRIMARY_YDATA = ["africa", "antarctica", "asia", "australasia",
@@ -56,9 +60,11 @@ def get_zones (fns):
 
 # List of all zones and links defined in any tzdata source file.
 # That's map TZID->ZoneId.
-all_zone_ids =  dict ((zone_id.tzid (), zone_id) for zone_id in get_zones (TDATA))
+all_zone_ids =  dict ((zone_id.tzid (), zone_id)
+                      for zone_id
+                      in get_zones (tzdir + os.sep + data for data in TDATA))
 
-zone_tab = ZoneTab ("zone.tab")
+zone_tab = ZoneTab (tzdir + os.sep + "zone.tab")
 zones = dict ((zone.tzid, zone) for zone in zone_tab.zones ())
 
 # Make sure that zone.tab isn't making stuff up.
