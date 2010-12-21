@@ -10,13 +10,13 @@ TZDIR = tzdata
 
 all: $(TARGETS)
 
-po/$(NLSPACKAGE).h: src/harvest.py $(filter-out %.sh %.tab, $(wildcard $(TZDIR)/*))
+$(NLSPACKAGE).h: src/harvest.py $(filter-out %.sh %.tab, $(wildcard $(TZDIR)/*))
 	$(PYTHON) src/harvest.py $(TZDIR) > $@
 
-po/$(NLSPACKAGE).pot: Makefile po/$(NLSPACKAGE).h
+po/$(NLSPACKAGE).pot: Makefile $(NLSPACKAGE).h
 	cd po; \
 	xgettext --default-domain=$(NLSPACKAGE) \
-		--add-comments --keyword=C_:1c,2 --keyword=N_ $(NLSPACKAGE).h; \
+		--add-comments --keyword=C_:1c,2 --keyword=N_ ../$(NLSPACKAGE).h; \
 	if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
 		rm -f $(NLSPACKAGE).po; \
 	else \
