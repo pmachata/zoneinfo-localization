@@ -14,19 +14,18 @@ po/$(NLSPACKAGE).h: src/harvest.py $(filter-out %.sh %.tab, $(wildcard $(TZDIR)/
 	$(PYTHON) src/harvest.py $(TZDIR) > $@
 
 po/$(NLSPACKAGE).pot: Makefile po/$(NLSPACKAGE).h
-	@cd po; \
+	cd po; \
 	xgettext --default-domain=$(NLSPACKAGE) \
 		--add-comments --keyword=C_:1c,2 --keyword=N_ $(NLSPACKAGE).h; \
 	if cmp -s $(NLSPACKAGE).po $(NLSPACKAGE).pot; then \
 		rm -f $(NLSPACKAGE).po; \
-		touch $(NLSPACKAGE).pot; \
 	else \
 		mv $(NLSPACKAGE).po $(NLSPACKAGE).pot; \
 	fi; \
 
 po/%.po: TEMP_POT=$(@:%.po=%.pot)
 po/%.po: po/$(NLSPACKAGE).pot
-	@if $(MSGMERGE) $@ $< > $(TEMP_POT) ; then \
+	if $(MSGMERGE) $@ $< > $(TEMP_POT) ; then \
 		mv -f $(TEMP_POT) $@ ; \
 		echo "$(MSGMERGE) of $* succeeded" ; \
 	else \
