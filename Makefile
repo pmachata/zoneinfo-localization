@@ -1,4 +1,4 @@
-NLSPACKAGE = timezones
+NLSPACKAGE = zoneinfo
 
 PO_FILES := $(wildcard po/*.po)
 LANGUAGES := $(PO_FILES:po/%.po=%)
