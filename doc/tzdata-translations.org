@@ -21,6 +21,9 @@
    How do distros other than Fedora do it?  I mean translations in
    general and keeping up to date in particular.
 
+   In debian they do it like this (i.e. they translate broken-down
+   substrings), but they don't put context in there.
+
 ** public project
    We will want to host the project somewhere.  If other distros are
    interested in this endeavor, we will prefer distro-neutral hosting.
@@ -39,7 +42,7 @@
      <nils> E.g. don't we have that upstream tarball tracker in Fedora?
 
 **** transifex.net
-     The way we do translations in Fedore is that translators have
+     The way we do translations in Fedora is that translators have
      this web tool that they can use to do translations.  It would be
      extremely cool if we could just point existing translators to
      this new project and tell them to work there, with minimal impact
@@ -125,11 +128,13 @@
 
 ** TODO choose a hosting
 
-** TODO initial import of strings
+** DONE initial import of strings
+   CLOSED: [2010-12-22 Срд 16:36]
    We cannot import raw strings, we need to convert them to the way we
    intend to do the translations.
 
-** TODO write time zone name harvester
+** DONE write time zone name harvester
+   CLOSED: [2010-12-22 Срд 16:36]
    We need to write a script that looks through tzdata for zone names
    and merges those into pot files for translation.  That needs to be
    done regularly, for each new tzdata update.
